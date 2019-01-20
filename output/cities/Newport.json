@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 14130, "url": "/building/southshore-condominiums-tower-1/14130", "name": "SouthShore Condominiums Tower 1", "status": "COM", "height_architecture": 83.21, "longitude": -84.490593, "latitude": 39.100441, "rank": 1, "name_linked": "<a href='/building/southshore-condominiums-tower-1/14130' target='_blank'>SouthShore Condominiums Tower 1</a>", "country_id": 163, "country_chinese": "", "city_id": 1724, "country_locode": "US", "country_slug": "united-states", "city_locode": "XJU", "city": "Newport", "city_slug": "newport", "height_architecture_formatted": 83.2, "height_architecture_ft_formatted": "273", "floors_above": 21, "completed": 2009, "start": 2007, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Newport",
+            "city_id": 1724,
+            "city_locode": "XJU",
+            "city_slug": "newport",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 21,
+            "functions": "residential",
+            "height_architecture": 83.21,
+            "height_architecture_formatted": 83.2,
+            "height_architecture_ft_formatted": "273",
+            "id": 14130,
+            "image": "",
+            "latitude": 39.100441,
+            "longitude": -84.490593,
+            "name": "SouthShore Condominiums Tower 1",
+            "name_linked": "<a href='/building/southshore-condominiums-tower-1/14130' target='_blank'>SouthShore Condominiums Tower 1</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2007,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/southshore-condominiums-tower-1/14130"
+        }
+    ]
+}

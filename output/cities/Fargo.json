@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 15740, "url": "/building/dakota-place/15740", "name": "Dakota Place", "status": "UC", "height_architecture": 76.81, "longitude": -96.787277, "latitude": 46.878262, "rank": 1, "name_linked": "<a href='/building/dakota-place/15740' target='_blank'>Dakota Place</a>", "country_id": 163, "country_chinese": "", "city_id": 1573, "country_locode": "US", "country_slug": "united-states", "city_locode": "FAR", "city": "Fargo", "city_slug": "fargo", "height_architecture_formatted": 76.8, "height_architecture_ft_formatted": "252", "floors_above": 23, "completed": 2020, "start": 2018, "structural_material": "concrete", "functions": "residential / hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Fargo",
+            "city_id": 1573,
+            "city_locode": "FAR",
+            "city_slug": "fargo",
+            "completed": 2020,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 23,
+            "functions": "residential / hotel / office",
+            "height_architecture": 76.81,
+            "height_architecture_formatted": 76.8,
+            "height_architecture_ft_formatted": "252",
+            "id": 15740,
+            "image": "",
+            "latitude": 46.878262,
+            "longitude": -96.787277,
+            "name": "Dakota Place",
+            "name_linked": "<a href='/building/dakota-place/15740' target='_blank'>Dakota Place</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2018,
+            "status": "UC",
+            "structural_material": "concrete",
+            "url": "/building/dakota-place/15740"
+        }
+    ]
+}

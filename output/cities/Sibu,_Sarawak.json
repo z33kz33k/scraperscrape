@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 17996, "url": "/building/wisma-sanyan/17996", "name": "Wisma Sanyan", "status": "COM", "height_architecture": 126, "longitude": 111.8256, "latitude": 2.29062, "rank": 1, "name_linked": "<a href='/building/wisma-sanyan/17996' target='_blank'>Wisma Sanyan</a>", "country_id": 112, "country_chinese": "", "city_id": 2237, "country_locode": "MY", "country_slug": "malaysia", "city_locode": "SBW", "city": "Sibu, Sarawak", "city_slug": "sibu-sarawak", "height_architecture_formatted": 126, "height_architecture_ft_formatted": "413", "floors_above": 28, "completed": 2001, "start": 2000, "structural_material": "", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Sibu, Sarawak",
+            "city_id": 2237,
+            "city_locode": "SBW",
+            "city_slug": "sibu-sarawak",
+            "completed": 2001,
+            "country_chinese": "",
+            "country_id": 112,
+            "country_locode": "MY",
+            "country_slug": "malaysia",
+            "floors_above": 28,
+            "functions": "hotel / office",
+            "height_architecture": 126,
+            "height_architecture_formatted": 126,
+            "height_architecture_ft_formatted": "413",
+            "id": 17996,
+            "image": "",
+            "latitude": 2.29062,
+            "longitude": 111.8256,
+            "name": "Wisma Sanyan",
+            "name_linked": "<a href='/building/wisma-sanyan/17996' target='_blank'>Wisma Sanyan</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2000,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/wisma-sanyan/17996"
+        }
+    ]
+}

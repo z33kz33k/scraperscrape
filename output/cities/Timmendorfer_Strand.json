@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10138, "url": "/building/maritim-clubhotel/10138", "name": "Maritim ClubHotel", "status": "COM", "height_architecture": 101, "longitude": 10.77069, "latitude": 54.005821, "rank": 1, "name_linked": "<a href='/building/maritim-clubhotel/10138' target='_blank'>Maritim ClubHotel</a>", "country_id": 41, "country_chinese": "", "city_id": 876, "country_locode": "DE", "country_slug": "germany", "city_locode": "TDS", "city": "Timmendorfer Strand", "city_slug": "timmendorfer-strand", "height_architecture_formatted": 101, "height_architecture_ft_formatted": "331", "floors_above": 32, "completed": 1974, "start": "-", "structural_material": "concrete", "functions": "residential / hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Timmendorfer Strand",
+            "city_id": 876,
+            "city_locode": "TDS",
+            "city_slug": "timmendorfer-strand",
+            "completed": 1974,
+            "country_chinese": "",
+            "country_id": 41,
+            "country_locode": "DE",
+            "country_slug": "germany",
+            "floors_above": 32,
+            "functions": "residential / hotel",
+            "height_architecture": 101,
+            "height_architecture_formatted": 101,
+            "height_architecture_ft_formatted": "331",
+            "id": 10138,
+            "image": "",
+            "latitude": 54.005821,
+            "longitude": 10.77069,
+            "name": "Maritim ClubHotel",
+            "name_linked": "<a href='/building/maritim-clubhotel/10138' target='_blank'>Maritim ClubHotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/maritim-clubhotel/10138"
+        }
+    ]
+}

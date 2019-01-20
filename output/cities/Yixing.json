@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 14207, "url": "/building/yixing-dongjiu-tower/14207", "name": "Yixing Dongjiu Tower", "status": "COM", "height_architecture": 243.8, "longitude": 119.859398, "latitude": 31.354191, "rank": 1, "name_linked": "<a href='/building/yixing-dongjiu-tower/14207' target='_blank'>Yixing Dongjiu Tower</a>", "country_id": 34, "country_chinese": "", "city_id": 821, "country_locode": "CN", "country_slug": "china", "city_locode": "YIX", "city": "Yixing", "city_slug": "yixing", "height_architecture_formatted": 243.8, "height_architecture_ft_formatted": "800", "floors_above": 56, "completed": 2012, "start": 2010, "structural_material": "composite", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Yixing",
+            "city_id": 821,
+            "city_locode": "YIX",
+            "city_slug": "yixing",
+            "completed": 2012,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 56,
+            "functions": "hotel / office",
+            "height_architecture": 243.8,
+            "height_architecture_formatted": 243.8,
+            "height_architecture_ft_formatted": "800",
+            "id": 14207,
+            "image": "",
+            "latitude": 31.354191,
+            "longitude": 119.859398,
+            "name": "Yixing Dongjiu Tower",
+            "name_linked": "<a href='/building/yixing-dongjiu-tower/14207' target='_blank'>Yixing Dongjiu Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2010,
+            "status": "COM",
+            "structural_material": "composite",
+            "url": "/building/yixing-dongjiu-tower/14207"
+        }
+    ]
+}

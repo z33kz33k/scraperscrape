@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 11084, "url": "/building/plaza-tower-building/11084", "name": "Plaza Tower Building", "status": "COM", "height_architecture": 85.34, "longitude": -95.302002, "latitude": 32.35144, "rank": 1, "name_linked": "<a href='/building/plaza-tower-building/11084' target='_blank'>Plaza Tower Building</a>", "country_id": 163, "country_chinese": "", "city_id": 1711, "country_locode": "US", "country_slug": "united-states", "city_locode": "TYR", "city": "Tyler", "city_slug": "tyler", "height_architecture_formatted": 85.3, "height_architecture_ft_formatted": "280", "floors_above": 21, "completed": 1980, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Tyler",
+            "city_id": 1711,
+            "city_locode": "TYR",
+            "city_slug": "tyler",
+            "completed": 1980,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 85.34,
+            "height_architecture_formatted": 85.3,
+            "height_architecture_ft_formatted": "280",
+            "id": 11084,
+            "image": "",
+            "latitude": 32.35144,
+            "longitude": -95.302002,
+            "name": "Plaza Tower Building",
+            "name_linked": "<a href='/building/plaza-tower-building/11084' target='_blank'>Plaza Tower Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/plaza-tower-building/11084"
+        }
+    ]
+}

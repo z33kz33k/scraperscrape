@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 23902, "url": "/building/shandong-linyi-international-city-square/23902", "name": "Shandong Linyi International City Square", "status": "COM", "height_architecture": 126.6, "longitude": 118.332542, "latitude": 35.06414, "rank": 1, "name_linked": "<a href='/building/shandong-linyi-international-city-square/23902' target='_blank'>Shandong Linyi International City Square</a>", "country_id": 34, "country_chinese": "", "city_id": 783, "country_locode": "CN", "country_slug": "china", "city_locode": "LYI", "city": "Linyi", "city_slug": "linyi", "height_architecture_formatted": 126.6, "height_architecture_ft_formatted": "415", "floors_above": 32, "completed": "-", "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Linyi",
+            "city_id": 783,
+            "city_locode": "LYI",
+            "city_slug": "linyi",
+            "completed": "-",
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 32,
+            "functions": "office",
+            "height_architecture": 126.6,
+            "height_architecture_formatted": 126.6,
+            "height_architecture_ft_formatted": "415",
+            "id": 23902,
+            "image": "",
+            "latitude": 35.06414,
+            "longitude": 118.332542,
+            "name": "Shandong Linyi International City Square",
+            "name_linked": "<a href='/building/shandong-linyi-international-city-square/23902' target='_blank'>Shandong Linyi International City Square</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/shandong-linyi-international-city-square/23902"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 3718, "url": "/building/sheraton-grande-ocean-resort/3718", "name": "Sheraton Grande Ocean Resort", "status": "COM", "height_architecture": 154, "longitude": 131.470383, "latitude": 31.959089, "rank": 1, "name_linked": "<a href='/building/sheraton-grande-ocean-resort/3718' target='_blank'>Sheraton Grande Ocean Resort</a>", "country_id": 82, "country_chinese": "", "city_id": 1038, "country_locode": "JP", "country_slug": "japan", "city_locode": "KMI", "city": "Miyazaki", "city_slug": "miyazaki", "height_architecture_formatted": 154, "height_architecture_ft_formatted": "505", "floors_above": 45, "completed": 1994, "start": "-", "structural_material": "steel", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Miyazaki",
+            "city_id": 1038,
+            "city_locode": "KMI",
+            "city_slug": "miyazaki",
+            "completed": 1994,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 45,
+            "functions": "hotel",
+            "height_architecture": 154,
+            "height_architecture_formatted": 154,
+            "height_architecture_ft_formatted": "505",
+            "id": 3718,
+            "image": "",
+            "latitude": 31.959089,
+            "longitude": 131.470383,
+            "name": "Sheraton Grande Ocean Resort",
+            "name_linked": "<a href='/building/sheraton-grande-ocean-resort/3718' target='_blank'>Sheraton Grande Ocean Resort</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/sheraton-grande-ocean-resort/3718"
+        }
+    ]
+}

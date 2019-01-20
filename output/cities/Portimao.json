@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11323, "url": "/building/jardins-da-rocha/11323", "name": "Jardins da Rocha", "status": "COM", "height_architecture": 85, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/jardins-da-rocha/11323' target='_blank'>Jardins da Rocha</a>", "country_id": 131, "country_chinese": "", "city_id": 1425, "country_locode": "PT", "country_slug": "portugal", "city_locode": "PRM", "city": "Portimao", "city_slug": "portimao", "height_architecture_formatted": 85, "height_architecture_ft_formatted": "279", "floors_above": 27, "completed": 2000, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Portimao",
+            "city_id": 1425,
+            "city_locode": "PRM",
+            "city_slug": "portimao",
+            "completed": 2000,
+            "country_chinese": "",
+            "country_id": 131,
+            "country_locode": "PT",
+            "country_slug": "portugal",
+            "floors_above": 27,
+            "functions": "residential",
+            "height_architecture": 85,
+            "height_architecture_formatted": 85,
+            "height_architecture_ft_formatted": "279",
+            "id": 11323,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Jardins da Rocha",
+            "name_linked": "<a href='/building/jardins-da-rocha/11323' target='_blank'>Jardins da Rocha</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/jardins-da-rocha/11323"
+        }
+    ]
+}

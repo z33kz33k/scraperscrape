@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 10287, "url": "/building/hidden-bay-1/10287", "name": "Hidden Bay 1", "status": "COM", "height_architecture": 127.1, "longitude": -80.13353, "latitude": 25.95178, "rank": 1, "name_linked": "<a href='/building/hidden-bay-1/10287' target='_blank'>Hidden Bay 1</a>", "country_id": 163, "country_chinese": "", "city_id": 1511, "country_locode": "US", "country_slug": "united-states", "city_locode": "AVU", "city": "Aventura", "city_slug": "aventura", "height_architecture_formatted": 127.1, "height_architecture_ft_formatted": "417", "floors_above": 40, "completed": 2000, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Aventura",
+            "city_id": 1511,
+            "city_locode": "AVU",
+            "city_slug": "aventura",
+            "completed": 2000,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 40,
+            "functions": "residential",
+            "height_architecture": 127.1,
+            "height_architecture_formatted": 127.1,
+            "height_architecture_ft_formatted": "417",
+            "id": 10287,
+            "image": "",
+            "latitude": 25.95178,
+            "longitude": -80.13353,
+            "name": "Hidden Bay 1",
+            "name_linked": "<a href='/building/hidden-bay-1/10287' target='_blank'>Hidden Bay 1</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/hidden-bay-1/10287"
+        }
+    ]
+}

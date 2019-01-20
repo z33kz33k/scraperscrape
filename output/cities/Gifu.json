@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 3154, "url": "/building/gifu-city-tower-43/3154", "name": "Gifu City Tower 43", "status": "COM", "height_architecture": 163, "longitude": 136.754166, "latitude": 35.410721, "rank": 1, "name_linked": "<a href='/building/gifu-city-tower-43/3154' target='_blank'>Gifu City Tower 43</a>", "country_id": 82, "country_chinese": "", "city_id": 1031, "country_locode": "JP", "country_slug": "japan", "city_locode": "GIF", "city": "Gifu", "city_slug": "gifu", "height_architecture_formatted": 163, "height_architecture_ft_formatted": "535", "floors_above": 43, "completed": 2007, "start": 2005, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Gifu",
+            "city_id": 1031,
+            "city_locode": "GIF",
+            "city_slug": "gifu",
+            "completed": 2007,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 43,
+            "functions": "residential",
+            "height_architecture": 163,
+            "height_architecture_formatted": 163,
+            "height_architecture_ft_formatted": "535",
+            "id": 3154,
+            "image": "",
+            "latitude": 35.410721,
+            "longitude": 136.754166,
+            "name": "Gifu City Tower 43",
+            "name_linked": "<a href='/building/gifu-city-tower-43/3154' target='_blank'>Gifu City Tower 43</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2005,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/gifu-city-tower-43/3154"
+        }
+    ]
+}

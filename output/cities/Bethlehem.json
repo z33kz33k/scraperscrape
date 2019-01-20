@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 10049, "url": "/building/martin-tower/10049", "name": "Martin Tower", "status": "COM", "height_architecture": 101.2, "longitude": -75.394386, "latitude": 40.63179, "rank": 1, "name_linked": "<a href='/building/martin-tower/10049' target='_blank'>Martin Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1517, "country_locode": "US", "country_slug": "united-states", "city_locode": "BEX", "city": "Bethlehem", "city_slug": "bethlehem", "height_architecture_formatted": 101.2, "height_architecture_ft_formatted": "332", "floors_above": 21, "completed": 1972, "start": "-", "structural_material": "steel", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Bethlehem",
+            "city_id": 1517,
+            "city_locode": "BEX",
+            "city_slug": "bethlehem",
+            "completed": 1972,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 101.2,
+            "height_architecture_formatted": 101.2,
+            "height_architecture_ft_formatted": "332",
+            "id": 10049,
+            "image": "",
+            "latitude": 40.63179,
+            "longitude": -75.394386,
+            "name": "Martin Tower",
+            "name_linked": "<a href='/building/martin-tower/10049' target='_blank'>Martin Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/martin-tower/10049"
+        }
+    ]
+}

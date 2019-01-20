@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9697, "url": "/building/coliseum-tower-residences/9697", "name": "Coliseum Tower Residences", "status": "COM", "height_architecture": 78.88, "longitude": -66.063797, "latitude": 18.427971, "rank": 1, "name_linked": "<a href='/building/coliseum-tower-residences/9697' target='_blank'>Coliseum Tower Residences</a>", "country_id": 130, "country_chinese": "", "city_id": 1419, "country_locode": "PR", "country_slug": "puerto-rico", "city_locode": "SJU", "city": "San Juan", "city_slug": "san-juan", "height_architecture_formatted": 78.9, "height_architecture_ft_formatted": "259", "floors_above": 27, "completed": 2009, "start": 2007, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "San Juan",
+            "city_id": 1419,
+            "city_locode": "SJU",
+            "city_slug": "san-juan",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 130,
+            "country_locode": "PR",
+            "country_slug": "puerto-rico",
+            "floors_above": 27,
+            "functions": "residential",
+            "height_architecture": 78.88,
+            "height_architecture_formatted": 78.9,
+            "height_architecture_ft_formatted": "259",
+            "id": 9697,
+            "image": "",
+            "latitude": 18.427971,
+            "longitude": -66.063797,
+            "name": "Coliseum Tower Residences",
+            "name_linked": "<a href='/building/coliseum-tower-residences/9697' target='_blank'>Coliseum Tower Residences</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2007,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/coliseum-tower-residences/9697"
+        }
+    ]
+}

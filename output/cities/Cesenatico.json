@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 14883, "url": "/building/grattacielo-di-cesenatico/14883", "name": "Grattacielo di Cesenatico", "status": "COM", "height_architecture": 118, "longitude": 12.40626, "latitude": 44.20071, "rank": 1, "name_linked": "<a href='/building/grattacielo-di-cesenatico/14883' target='_blank'>Grattacielo di Cesenatico</a>", "country_id": 79, "country_chinese": "", "city_id": 1012, "country_locode": "IT", "country_slug": "italy", "city_locode": "CNT", "city": "Cesenatico", "city_slug": "cesenatico", "height_architecture_formatted": 118, "height_architecture_ft_formatted": "387", "floors_above": 35, "completed": 1958, "start": 1957, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Cesenatico",
+            "city_id": 1012,
+            "city_locode": "CNT",
+            "city_slug": "cesenatico",
+            "completed": 1958,
+            "country_chinese": "",
+            "country_id": 79,
+            "country_locode": "IT",
+            "country_slug": "italy",
+            "floors_above": 35,
+            "functions": "residential",
+            "height_architecture": 118,
+            "height_architecture_formatted": 118,
+            "height_architecture_ft_formatted": "387",
+            "id": 14883,
+            "image": "",
+            "latitude": 44.20071,
+            "longitude": 12.40626,
+            "name": "Grattacielo di Cesenatico",
+            "name_linked": "<a href='/building/grattacielo-di-cesenatico/14883' target='_blank'>Grattacielo di Cesenatico</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1957,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/grattacielo-di-cesenatico/14883"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 23576, "url": "/building/wargaming-headquarters/23576", "name": "Wargaming Headquarters", "status": "COM", "height_architecture": 75, "longitude": 33.353199, "latitude": 35.15884, "rank": 1, "name_linked": "<a href='/building/wargaming-headquarters/23576' target='_blank'>Wargaming Headquarters</a>", "country_id": 39, "country_chinese": "", "city_id": 837, "country_locode": "CY", "country_slug": "cyprus", "city_locode": "NIC", "city": "Nicosia", "city_slug": "nicosia", "height_architecture_formatted": 75, "height_architecture_ft_formatted": "246", "floors_above": 15, "completed": 2014, "start": 2011, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Nicosia",
+            "city_id": 837,
+            "city_locode": "NIC",
+            "city_slug": "nicosia",
+            "completed": 2014,
+            "country_chinese": "",
+            "country_id": 39,
+            "country_locode": "CY",
+            "country_slug": "cyprus",
+            "floors_above": 15,
+            "functions": "office",
+            "height_architecture": 75,
+            "height_architecture_formatted": 75,
+            "height_architecture_ft_formatted": "246",
+            "id": 23576,
+            "image": "",
+            "latitude": 35.15884,
+            "longitude": 33.353199,
+            "name": "Wargaming Headquarters",
+            "name_linked": "<a href='/building/wargaming-headquarters/23576' target='_blank'>Wargaming Headquarters</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2011,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/wargaming-headquarters/23576"
+        }
+    ]
+}

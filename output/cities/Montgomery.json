@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9507, "url": "/building/rsa-towers/9507", "name": "RSA Towers", "status": "COM", "height_architecture": 126.49, "longitude": -86.305748, "latitude": 32.379189, "rank": 1, "name_linked": "<a href='/building/rsa-towers/9507' target='_blank'>RSA Towers</a>", "country_id": 163, "country_chinese": "", "city_id": 1629, "country_locode": "US", "country_slug": "united-states", "city_locode": "MGM", "city": "Montgomery", "city_slug": "montgomery", "height_architecture_formatted": 126.5, "height_architecture_ft_formatted": "415", "floors_above": 22, "completed": 1996, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Montgomery",
+            "city_id": 1629,
+            "city_locode": "MGM",
+            "city_slug": "montgomery",
+            "completed": 1996,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 22,
+            "functions": "office",
+            "height_architecture": 126.49,
+            "height_architecture_formatted": 126.5,
+            "height_architecture_ft_formatted": "415",
+            "id": 9507,
+            "image": "",
+            "latitude": 32.379189,
+            "longitude": -86.305748,
+            "name": "RSA Towers",
+            "name_linked": "<a href='/building/rsa-towers/9507' target='_blank'>RSA Towers</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/rsa-towers/9507"
+        }
+    ]
+}

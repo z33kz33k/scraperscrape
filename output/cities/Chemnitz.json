@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 10104, "url": "/building/hotel-mercure-kongress-chemnitz/10104", "name": "Hotel Mercure Kongress Chemnitz", "status": "COM", "height_architecture": 97, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/hotel-mercure-kongress-chemnitz/10104' target='_blank'>Hotel Mercure Kongress Chemnitz</a>", "country_id": 41, "country_chinese": "", "city_id": 850, "country_locode": "DE", "country_slug": "germany", "city_locode": "CHE", "city": "Chemnitz", "city_slug": "chemnitz", "height_architecture_formatted": 97, "height_architecture_ft_formatted": "318", "floors_above": 29, "completed": 1974, "start": 1969, "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Chemnitz",
+            "city_id": 850,
+            "city_locode": "CHE",
+            "city_slug": "chemnitz",
+            "completed": 1974,
+            "country_chinese": "",
+            "country_id": 41,
+            "country_locode": "DE",
+            "country_slug": "germany",
+            "floors_above": 29,
+            "functions": "hotel",
+            "height_architecture": 97,
+            "height_architecture_formatted": 97,
+            "height_architecture_ft_formatted": "318",
+            "id": 10104,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Hotel Mercure Kongress Chemnitz",
+            "name_linked": "<a href='/building/hotel-mercure-kongress-chemnitz/10104' target='_blank'>Hotel Mercure Kongress Chemnitz</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1969,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/hotel-mercure-kongress-chemnitz/10104"
+        }
+    ]
+}

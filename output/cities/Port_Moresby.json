@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 20346, "url": "/building/grand-papua-hotel/20346", "name": "Grand Papua Hotel", "status": "COM", "height_architecture": 90, "longitude": 147.150604, "latitude": -9.47899, "rank": 1, "name_linked": "<a href='/building/grand-papua-hotel/20346' target='_blank'>Grand Papua Hotel</a>", "country_id": 126, "country_chinese": "", "city_id": 1394, "country_locode": "PG", "country_slug": "papua-new-guinea", "city_locode": "POM", "city": "Port Moresby", "city_slug": "port-moresby", "height_architecture_formatted": 90, "height_architecture_ft_formatted": "295", "floors_above": 21, "completed": 2011, "start": 2008, "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Port Moresby",
+            "city_id": 1394,
+            "city_locode": "POM",
+            "city_slug": "port-moresby",
+            "completed": 2011,
+            "country_chinese": "",
+            "country_id": 126,
+            "country_locode": "PG",
+            "country_slug": "papua-new-guinea",
+            "floors_above": 21,
+            "functions": "hotel",
+            "height_architecture": 90,
+            "height_architecture_formatted": 90,
+            "height_architecture_ft_formatted": "295",
+            "id": 20346,
+            "image": "",
+            "latitude": -9.47899,
+            "longitude": 147.150604,
+            "name": "Grand Papua Hotel",
+            "name_linked": "<a href='/building/grand-papua-hotel/20346' target='_blank'>Grand Papua Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/grand-papua-hotel/20346"
+        }
+    ]
+}

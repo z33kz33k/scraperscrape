@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 26477, "url": "/building/torre-de-comunicaciones-de-movistar/26477", "name": "Torre de Comunicaciones de Movistar", "status": "COM", "height_architecture": 115, "longitude": -0.91294, "latitude": 41.639439, "rank": 1, "name_linked": "<a href='/building/torre-de-comunicaciones-de-movistar/26477' target='_blank'>Torre de Comunicaciones de Movistar</a>", "country_id": 51, "country_chinese": "", "city_id": 2011, "country_locode": "ES", "country_slug": "spain", "city_locode": "ZAZ", "city": "Zaragoza", "city_slug": "zaragoza", "height_architecture_formatted": 115, "height_architecture_ft_formatted": "377", "floors_above": "-", "completed": 1990, "start": "-", "structural_material": "concrete", "functions": "telecommunications / observation", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Zaragoza",
+            "city_id": 2011,
+            "city_locode": "ZAZ",
+            "city_slug": "zaragoza",
+            "completed": 1990,
+            "country_chinese": "",
+            "country_id": 51,
+            "country_locode": "ES",
+            "country_slug": "spain",
+            "floors_above": "-",
+            "functions": "telecommunications / observation",
+            "height_architecture": 115,
+            "height_architecture_formatted": 115,
+            "height_architecture_ft_formatted": "377",
+            "id": 26477,
+            "image": "",
+            "latitude": 41.639439,
+            "longitude": -0.91294,
+            "name": "Torre de Comunicaciones de Movistar",
+            "name_linked": "<a href='/building/torre-de-comunicaciones-de-movistar/26477' target='_blank'>Torre de Comunicaciones de Movistar</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/torre-de-comunicaciones-de-movistar/26477"
+        }
+    ]
+}

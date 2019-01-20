@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 20792, "url": "/building/best-western-star-hotel-apartment/20792", "name": "Best Western Star Hotel & Apartment", "status": "COM", "height_architecture": 103, "longitude": 110.43248, "latitude": -7.00552, "rank": 1, "name_linked": "<a href='/building/best-western-star-hotel-apartment/20792' target='_blank'>Best Western Star Hotel & Apartment</a>", "country_id": 72, "country_chinese": "", "city_id": 2308, "country_locode": "ID", "country_slug": "indonesia", "city_locode": "SRG", "city": "Semarang", "city_slug": "semarang", "height_architecture_formatted": 103, "height_architecture_ft_formatted": "338", "floors_above": 31, "completed": 2013, "start": 2011, "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Semarang",
+            "city_id": 2308,
+            "city_locode": "SRG",
+            "city_slug": "semarang",
+            "completed": 2013,
+            "country_chinese": "",
+            "country_id": 72,
+            "country_locode": "ID",
+            "country_slug": "indonesia",
+            "floors_above": 31,
+            "functions": "hotel",
+            "height_architecture": 103,
+            "height_architecture_formatted": 103,
+            "height_architecture_ft_formatted": "338",
+            "id": 20792,
+            "image": "",
+            "latitude": -7.00552,
+            "longitude": 110.43248,
+            "name": "Best Western Star Hotel & Apartment",
+            "name_linked": "<a href='/building/best-western-star-hotel-apartment/20792' target='_blank'>Best Western Star Hotel & Apartment</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2011,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/best-western-star-hotel-apartment/20792"
+        }
+    ]
+}

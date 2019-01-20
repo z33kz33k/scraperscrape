@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 12201, "url": "/building/mgm-grand-at-foxwoods/12201", "name": "MGM Grand at Foxwoods", "status": "COM", "height_architecture": 99.1, "longitude": -71.963707, "latitude": 41.47657, "rank": 1, "name_linked": "<a href='/building/mgm-grand-at-foxwoods/12201' target='_blank'>MGM Grand at Foxwoods</a>", "country_id": 163, "country_chinese": "", "city_id": 1613, "country_locode": "US", "country_slug": "united-states", "city_locode": "LDY", "city": "Ledyard Center", "city_slug": "ledyard-center", "height_architecture_formatted": 99.1, "height_architecture_ft_formatted": "325", "floors_above": 26, "completed": 2007, "start": 2005, "structural_material": "", "functions": "hotel / casino", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Ledyard Center",
+            "city_id": 1613,
+            "city_locode": "LDY",
+            "city_slug": "ledyard-center",
+            "completed": 2007,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 26,
+            "functions": "hotel / casino",
+            "height_architecture": 99.1,
+            "height_architecture_formatted": 99.1,
+            "height_architecture_ft_formatted": "325",
+            "id": 12201,
+            "image": "",
+            "latitude": 41.47657,
+            "longitude": -71.963707,
+            "name": "MGM Grand at Foxwoods",
+            "name_linked": "<a href='/building/mgm-grand-at-foxwoods/12201' target='_blank'>MGM Grand at Foxwoods</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2005,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/mgm-grand-at-foxwoods/12201"
+        }
+    ]
+}

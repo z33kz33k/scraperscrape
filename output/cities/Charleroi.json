@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 14324, "url": "/building/police-headquarters-charleroi-danses/14324", "name": "Police Headquarters & Charleroi Danses", "status": "COM", "height_architecture": 75, "longitude": 4.4532, "latitude": 50.4118, "rank": 1, "name_linked": "<a href='/building/police-headquarters-charleroi-danses/14324' target='_blank'>Police Headquarters & Charleroi Danses</a>", "country_id": 16, "country_chinese": "", "city_id": 668, "country_locode": "BE", "country_slug": "belgium", "city_locode": "CRL", "city": "Charleroi", "city_slug": "charleroi", "height_architecture_formatted": 75, "height_architecture_ft_formatted": "246", "floors_above": 22, "completed": 2014, "start": 2012, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Charleroi",
+            "city_id": 668,
+            "city_locode": "CRL",
+            "city_slug": "charleroi",
+            "completed": 2014,
+            "country_chinese": "",
+            "country_id": 16,
+            "country_locode": "BE",
+            "country_slug": "belgium",
+            "floors_above": 22,
+            "functions": "office",
+            "height_architecture": 75,
+            "height_architecture_formatted": 75,
+            "height_architecture_ft_formatted": "246",
+            "id": 14324,
+            "image": "",
+            "latitude": 50.4118,
+            "longitude": 4.4532,
+            "name": "Police Headquarters & Charleroi Danses",
+            "name_linked": "<a href='/building/police-headquarters-charleroi-danses/14324' target='_blank'>Police Headquarters & Charleroi Danses</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2012,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/police-headquarters-charleroi-danses/14324"
+        }
+    ]
+}

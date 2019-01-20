@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9508, "url": "/building/mohegan-sun-sky-tower/9508", "name": "Mohegan Sun Sky Tower", "status": "COM", "height_architecture": 148.44, "longitude": -72.088882, "latitude": 41.492359, "rank": 1, "name_linked": "<a href='/building/mohegan-sun-sky-tower/9508' target='_blank'>Mohegan Sun Sky Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1623, "country_locode": "US", "country_slug": "united-states", "city_locode": "MBM", "city": "Montville", "city_slug": "montville", "height_architecture_formatted": 148.4, "height_architecture_ft_formatted": "487", "floors_above": 34, "completed": 2002, "start": "-", "structural_material": "steel", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Montville",
+            "city_id": 1623,
+            "city_locode": "MBM",
+            "city_slug": "montville",
+            "completed": 2002,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 34,
+            "functions": "hotel",
+            "height_architecture": 148.44,
+            "height_architecture_formatted": 148.4,
+            "height_architecture_ft_formatted": "487",
+            "id": 9508,
+            "image": "",
+            "latitude": 41.492359,
+            "longitude": -72.088882,
+            "name": "Mohegan Sun Sky Tower",
+            "name_linked": "<a href='/building/mohegan-sun-sky-tower/9508' target='_blank'>Mohegan Sun Sky Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/mohegan-sun-sky-tower/9508"
+        }
+    ]
+}

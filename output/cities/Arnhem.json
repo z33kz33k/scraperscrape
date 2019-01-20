@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 5996, "url": "/building/ohra/5996", "name": "Ohra", "status": "COM", "height_architecture": 78, "longitude": 5.87665, "latitude": 51.952271, "rank": 1, "name_linked": "<a href='/building/ohra/5996' target='_blank'>Ohra</a>", "country_id": 118, "country_chinese": "", "city_id": 1146, "country_locode": "NL", "country_slug": "netherlands", "city_locode": "ARN", "city": "Arnhem", "city_slug": "arnhem", "height_architecture_formatted": 78, "height_architecture_ft_formatted": "256", "floors_above": 17, "completed": 1997, "start": 1995, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Arnhem",
+            "city_id": 1146,
+            "city_locode": "ARN",
+            "city_slug": "arnhem",
+            "completed": 1997,
+            "country_chinese": "",
+            "country_id": 118,
+            "country_locode": "NL",
+            "country_slug": "netherlands",
+            "floors_above": 17,
+            "functions": "office",
+            "height_architecture": 78,
+            "height_architecture_formatted": 78,
+            "height_architecture_ft_formatted": "256",
+            "id": 5996,
+            "image": "",
+            "latitude": 51.952271,
+            "longitude": 5.87665,
+            "name": "Ohra",
+            "name_linked": "<a href='/building/ohra/5996' target='_blank'>Ohra</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1995,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/ohra/5996"
+        }
+    ]
+}

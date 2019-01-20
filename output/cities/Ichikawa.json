@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 3318, "url": "/building/tower-a-ichikawa-station/3318", "name": "Tower A Ichikawa Station", "status": "COM", "height_architecture": 160, "longitude": 139.906036, "latitude": 35.72913, "rank": 1, "name_linked": "<a href='/building/tower-a-ichikawa-station/3318' target='_blank'>Tower A Ichikawa Station</a>", "country_id": 82, "country_chinese": "", "city_id": 1035, "country_locode": "JP", "country_slug": "japan", "city_locode": "ICK", "city": "Ichikawa", "city_slug": "ichikawa", "height_architecture_formatted": 160, "height_architecture_ft_formatted": "525", "floors_above": 45, "completed": 2009, "start": 2005, "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Ichikawa",
+            "city_id": 1035,
+            "city_locode": "ICK",
+            "city_slug": "ichikawa",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 45,
+            "functions": "residential",
+            "height_architecture": 160,
+            "height_architecture_formatted": 160,
+            "height_architecture_ft_formatted": "525",
+            "id": 3318,
+            "image": "",
+            "latitude": 35.72913,
+            "longitude": 139.906036,
+            "name": "Tower A Ichikawa Station",
+            "name_linked": "<a href='/building/tower-a-ichikawa-station/3318' target='_blank'>Tower A Ichikawa Station</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2005,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/tower-a-ichikawa-station/3318"
+        }
+    ]
+}

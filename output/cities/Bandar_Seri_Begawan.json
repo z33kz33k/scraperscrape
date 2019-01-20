@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 4779, "url": "/building/ministry-of-finance/4779", "name": "Ministry of Finance", "status": "COM", "height_architecture": 120, "longitude": 114.952171, "latitude": 4.92148, "rank": 1, "name_linked": "<a href='/building/ministry-of-finance/4779' target='_blank'>Ministry of Finance</a>", "country_id": 178, "country_chinese": "", "city_id": 683, "country_locode": "BN", "country_slug": "brunei", "city_locode": "BWN", "city": "Bandar Seri Begawan", "city_slug": "bandar-seri-begawan", "height_architecture_formatted": 120, "height_architecture_ft_formatted": "394", "floors_above": 21, "completed": 2001, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Bandar Seri Begawan",
+            "city_id": 683,
+            "city_locode": "BWN",
+            "city_slug": "bandar-seri-begawan",
+            "completed": 2001,
+            "country_chinese": "",
+            "country_id": 178,
+            "country_locode": "BN",
+            "country_slug": "brunei",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 120,
+            "height_architecture_formatted": 120,
+            "height_architecture_ft_formatted": "394",
+            "id": 4779,
+            "image": "",
+            "latitude": 4.92148,
+            "longitude": 114.952171,
+            "name": "Ministry of Finance",
+            "name_linked": "<a href='/building/ministry-of-finance/4779' target='_blank'>Ministry of Finance</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/ministry-of-finance/4779"
+        }
+    ]
+}

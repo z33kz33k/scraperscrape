@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9491, "url": "/building/lincoln-financial-building/9491", "name": "Lincoln Financial Building", "status": "COM", "height_architecture": 114, "longitude": -79.791328, "latitude": 36.072891, "rank": 1, "name_linked": "<a href='/building/lincoln-financial-building/9491' target='_blank'>Lincoln Financial Building</a>", "country_id": 163, "country_chinese": "", "city_id": 1580, "country_locode": "US", "country_slug": "united-states", "city_locode": "GBO", "city": "Greensboro", "city_slug": "greensboro", "height_architecture_formatted": 114, "height_architecture_ft_formatted": "374", "floors_above": 20, "completed": 1990, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Greensboro",
+            "city_id": 1580,
+            "city_locode": "GBO",
+            "city_slug": "greensboro",
+            "completed": 1990,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 20,
+            "functions": "office",
+            "height_architecture": 114,
+            "height_architecture_formatted": 114,
+            "height_architecture_ft_formatted": "374",
+            "id": 9491,
+            "image": "",
+            "latitude": 36.072891,
+            "longitude": -79.791328,
+            "name": "Lincoln Financial Building",
+            "name_linked": "<a href='/building/lincoln-financial-building/9491' target='_blank'>Lincoln Financial Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/lincoln-financial-building/9491"
+        }
+    ]
+}

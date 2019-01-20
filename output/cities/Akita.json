@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 26531, "url": "/building/belle-demeure-landmark-akita/26531", "name": "Belle Demeure Landmark Akita", "status": "COM", "height_architecture": 95.3, "longitude": 140.118896, "latitude": 39.71793, "rank": 1, "name_linked": "<a href='/building/belle-demeure-landmark-akita/26531' target='_blank'>Belle Demeure Landmark Akita</a>", "country_id": 82, "country_chinese": "", "city_id": 2448, "country_locode": "JP", "country_slug": "japan", "city_locode": "AXT", "city": "Akita", "city_slug": "akita", "height_architecture_formatted": 95.3, "height_architecture_ft_formatted": "313", "floors_above": 30, "completed": 2003, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Akita",
+            "city_id": 2448,
+            "city_locode": "AXT",
+            "city_slug": "akita",
+            "completed": 2003,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 30,
+            "functions": "residential",
+            "height_architecture": 95.3,
+            "height_architecture_formatted": 95.3,
+            "height_architecture_ft_formatted": "313",
+            "id": 26531,
+            "image": "",
+            "latitude": 39.71793,
+            "longitude": 140.118896,
+            "name": "Belle Demeure Landmark Akita",
+            "name_linked": "<a href='/building/belle-demeure-landmark-akita/26531' target='_blank'>Belle Demeure Landmark Akita</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/belle-demeure-landmark-akita/26531"
+        }
+    ]
+}

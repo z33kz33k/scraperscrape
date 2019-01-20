@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11194, "url": "/building/svut/11194", "name": "SVUT", "status": "COM", "height_architecture": 78, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/svut/11194' target='_blank'>SVUT</a>", "country_id": 40, "country_chinese": "", "city_id": 839, "country_locode": "CZ", "country_slug": "czech-republic", "city_locode": "LBR", "city": "Liberec", "city_slug": "liberec", "height_architecture_formatted": 78, "height_architecture_ft_formatted": "256", "floors_above": 30, "completed": 1976, "start": 1967, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Liberec",
+            "city_id": 839,
+            "city_locode": "LBR",
+            "city_slug": "liberec",
+            "completed": 1976,
+            "country_chinese": "",
+            "country_id": 40,
+            "country_locode": "CZ",
+            "country_slug": "czech-republic",
+            "floors_above": 30,
+            "functions": "office",
+            "height_architecture": 78,
+            "height_architecture_formatted": 78,
+            "height_architecture_ft_formatted": "256",
+            "id": 11194,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "SVUT",
+            "name_linked": "<a href='/building/svut/11194' target='_blank'>SVUT</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1967,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/svut/11194"
+        }
+    ]
+}

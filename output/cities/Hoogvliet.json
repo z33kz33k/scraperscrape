@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 5426, "url": "/building/oosterbaken/5426", "name": "Oosterbaken", "status": "COM", "height_architecture": 99, "longitude": 4.35247, "latitude": 51.862221, "rank": 1, "name_linked": "<a href='/building/oosterbaken/5426' target='_blank'>Oosterbaken</a>", "country_id": 118, "country_chinese": "", "city_id": 1227, "country_locode": "NL", "country_slug": "netherlands", "city_locode": "HGV", "city": "Hoogvliet", "city_slug": "hoogvliet", "height_architecture_formatted": 99, "height_architecture_ft_formatted": "325", "floors_above": 32, "completed": 2006, "start": 2004, "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Hoogvliet",
+            "city_id": 1227,
+            "city_locode": "HGV",
+            "city_slug": "hoogvliet",
+            "completed": 2006,
+            "country_chinese": "",
+            "country_id": 118,
+            "country_locode": "NL",
+            "country_slug": "netherlands",
+            "floors_above": 32,
+            "functions": "residential",
+            "height_architecture": 99,
+            "height_architecture_formatted": 99,
+            "height_architecture_ft_formatted": "325",
+            "id": 5426,
+            "image": "",
+            "latitude": 51.862221,
+            "longitude": 4.35247,
+            "name": "Oosterbaken",
+            "name_linked": "<a href='/building/oosterbaken/5426' target='_blank'>Oosterbaken</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2004,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/oosterbaken/5426"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 26530, "url": "/building/malios/26530", "name": "Malios", "status": "COM", "height_architecture": 92, "longitude": 141.134125, "latitude": 39.70145, "rank": 1, "name_linked": "<a href='/building/malios/26530' target='_blank'>Malios</a>", "country_id": 82, "country_chinese": "", "city_id": 2447, "country_locode": "JP", "country_slug": "japan", "city_locode": "MRW", "city": "Morioka", "city_slug": "morioka", "height_architecture_formatted": 92, "height_architecture_ft_formatted": "302", "floors_above": 20, "completed": 1997, "start": "-", "structural_material": "", "functions": "office / retail", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Morioka",
+            "city_id": 2447,
+            "city_locode": "MRW",
+            "city_slug": "morioka",
+            "completed": 1997,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 20,
+            "functions": "office / retail",
+            "height_architecture": 92,
+            "height_architecture_formatted": 92,
+            "height_architecture_ft_formatted": "302",
+            "id": 26530,
+            "image": "",
+            "latitude": 39.70145,
+            "longitude": 141.134125,
+            "name": "Malios",
+            "name_linked": "<a href='/building/malios/26530' target='_blank'>Malios</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/malios/26530"
+        }
+    ]
+}

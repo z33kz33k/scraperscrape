@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10585, "url": "/building/boji-tower/10585", "name": "Boji Tower", "status": "COM", "height_architecture": 90.5, "longitude": -84.553574, "latitude": 42.732769, "rank": 1, "name_linked": "<a href='/building/boji-tower/10585' target='_blank'>Boji Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1608, "country_locode": "US", "country_slug": "united-states", "city_locode": "LAN", "city": "Lansing", "city_slug": "lansing", "height_architecture_formatted": 90.5, "height_architecture_ft_formatted": "297", "floors_above": 23, "completed": 1931, "start": 1929, "structural_material": "steel", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Lansing",
+            "city_id": 1608,
+            "city_locode": "LAN",
+            "city_slug": "lansing",
+            "completed": 1931,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 23,
+            "functions": "office",
+            "height_architecture": 90.5,
+            "height_architecture_formatted": 90.5,
+            "height_architecture_ft_formatted": "297",
+            "id": 10585,
+            "image": "",
+            "latitude": 42.732769,
+            "longitude": -84.553574,
+            "name": "Boji Tower",
+            "name_linked": "<a href='/building/boji-tower/10585' target='_blank'>Boji Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1929,
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/boji-tower/10585"
+        }
+    ]
+}

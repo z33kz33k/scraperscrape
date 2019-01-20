@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9745, "url": "/building/capitol-center/9745", "name": "Capitol Center", "status": "COM", "height_architecture": 106.38, "longitude": -81.034828, "latitude": 34.001221, "rank": 1, "name_linked": "<a href='/building/capitol-center/9745' target='_blank'>Capitol Center</a>", "country_id": 163, "country_chinese": "", "city_id": 1534, "country_locode": "US", "country_slug": "united-states", "city_locode": "CAE", "city": "Columbia", "city_slug": "columbia", "height_architecture_formatted": 106.4, "height_architecture_ft_formatted": "349", "floors_above": 25, "completed": 1987, "start": 1985, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Columbia",
+            "city_id": 1534,
+            "city_locode": "CAE",
+            "city_slug": "columbia",
+            "completed": 1987,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 25,
+            "functions": "office",
+            "height_architecture": 106.38,
+            "height_architecture_formatted": 106.4,
+            "height_architecture_ft_formatted": "349",
+            "id": 9745,
+            "image": "",
+            "latitude": 34.001221,
+            "longitude": -81.034828,
+            "name": "Capitol Center",
+            "name_linked": "<a href='/building/capitol-center/9745' target='_blank'>Capitol Center</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1985,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/capitol-center/9745"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 28268, "url": "/building/castlemead/28268", "name": "Castlemead", "status": "COM", "height_architecture": 79.8, "longitude": -2.58519, "latitude": 51.457069, "rank": 1, "name_linked": "<a href='/building/castlemead/28268' target='_blank'>Castlemead</a>", "country_id": 56, "country_chinese": "", "city_id": 1772, "country_locode": "GB", "country_slug": "united-kingdom", "city_locode": "BRS", "city": "Bristol", "city_slug": "bristol", "height_architecture_formatted": 79.8, "height_architecture_ft_formatted": "262", "floors_above": 19, "completed": 1981, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Bristol",
+            "city_id": 1772,
+            "city_locode": "BRS",
+            "city_slug": "bristol",
+            "completed": 1981,
+            "country_chinese": "",
+            "country_id": 56,
+            "country_locode": "GB",
+            "country_slug": "united-kingdom",
+            "floors_above": 19,
+            "functions": "office",
+            "height_architecture": 79.8,
+            "height_architecture_formatted": 79.8,
+            "height_architecture_ft_formatted": "262",
+            "id": 28268,
+            "image": "",
+            "latitude": 51.457069,
+            "longitude": -2.58519,
+            "name": "Castlemead",
+            "name_linked": "<a href='/building/castlemead/28268' target='_blank'>Castlemead</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/castlemead/28268"
+        }
+    ]
+}

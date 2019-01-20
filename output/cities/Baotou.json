@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 33285, "url": "/building/contemporary-ecological-building/33285", "name": "Contemporary Ecological Building", "status": "COM", "height_architecture": 84.5, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/contemporary-ecological-building/33285' target='_blank'>Contemporary Ecological Building</a>", "country_id": 34, "country_chinese": "", "city_id": 2871, "country_locode": "CN", "country_slug": "china", "city_locode": "BOT", "city": "Baotou", "city_slug": "baotou-1", "height_architecture_formatted": 84.5, "height_architecture_ft_formatted": "277", "floors_above": 20, "completed": 2011, "start": 2008, "structural_material": "", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Baotou",
+            "city_id": 2871,
+            "city_locode": "BOT",
+            "city_slug": "baotou-1",
+            "completed": 2011,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 20,
+            "functions": "hotel / office",
+            "height_architecture": 84.5,
+            "height_architecture_formatted": 84.5,
+            "height_architecture_ft_formatted": "277",
+            "id": 33285,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Contemporary Ecological Building",
+            "name_linked": "<a href='/building/contemporary-ecological-building/33285' target='_blank'>Contemporary Ecological Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/contemporary-ecological-building/33285"
+        }
+    ]
+}

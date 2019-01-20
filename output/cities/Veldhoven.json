@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 6130, "url": "/building/asml-toren/6130", "name": "ASML Toren", "status": "COM", "height_architecture": 82.6, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/asml-toren/6130' target='_blank'>ASML Toren</a>", "country_id": 118, "country_chinese": "", "city_id": 1343, "country_locode": "NL", "country_slug": "netherlands", "city_locode": "VDH", "city": "Veldhoven", "city_slug": "veldhoven", "height_architecture_formatted": 82.6, "height_architecture_ft_formatted": "271", "floors_above": 20, "completed": 2003, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Veldhoven",
+            "city_id": 1343,
+            "city_locode": "VDH",
+            "city_slug": "veldhoven",
+            "completed": 2003,
+            "country_chinese": "",
+            "country_id": 118,
+            "country_locode": "NL",
+            "country_slug": "netherlands",
+            "floors_above": 20,
+            "functions": "office",
+            "height_architecture": 82.6,
+            "height_architecture_formatted": 82.6,
+            "height_architecture_ft_formatted": "271",
+            "id": 6130,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "ASML Toren",
+            "name_linked": "<a href='/building/asml-toren/6130' target='_blank'>ASML Toren</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/asml-toren/6130"
+        }
+    ]
+}

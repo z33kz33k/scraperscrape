@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 15813, "url": "/building/ark-palace-i/15813", "name": "Ark Palace I", "status": "COM", "height_architecture": 108, "longitude": 30.758841, "latitude": 46.43848, "rank": 1, "name_linked": "<a href='/building/ark-palace-i/15813' target='_blank'>Ark Palace I</a>", "country_id": 161, "country_chinese": "", "city_id": 2148, "country_locode": "UA", "country_slug": "ukraine", "city_locode": "ODS", "city": "Odessa", "city_slug": "odessa", "height_architecture_formatted": 108, "height_architecture_ft_formatted": "354", "floors_above": 25, "completed": 2008, "start": 2004, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Odessa",
+            "city_id": 2148,
+            "city_locode": "ODS",
+            "city_slug": "odessa",
+            "completed": 2008,
+            "country_chinese": "",
+            "country_id": 161,
+            "country_locode": "UA",
+            "country_slug": "ukraine",
+            "floors_above": 25,
+            "functions": "residential",
+            "height_architecture": 108,
+            "height_architecture_formatted": 108,
+            "height_architecture_ft_formatted": "354",
+            "id": 15813,
+            "image": "",
+            "latitude": 46.43848,
+            "longitude": 30.758841,
+            "name": "Ark Palace I",
+            "name_linked": "<a href='/building/ark-palace-i/15813' target='_blank'>Ark Palace I</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2004,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/ark-palace-i/15813"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11326, "url": "/building/hotel-vila-gale-porto/11326", "name": "Hotel Vila Gale Porto", "status": "COM", "height_architecture": 76, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/hotel-vila-gale-porto/11326' target='_blank'>Hotel Vila Gale Porto</a>", "country_id": 131, "country_chinese": "", "city_id": 1423, "country_locode": "PT", "country_slug": "portugal", "city_locode": "OPO", "city": "Porto", "city_slug": "porto", "height_architecture_formatted": 76, "height_architecture_ft_formatted": "249", "floors_above": 20, "completed": 1999, "start": "-", "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Porto",
+            "city_id": 1423,
+            "city_locode": "OPO",
+            "city_slug": "porto",
+            "completed": 1999,
+            "country_chinese": "",
+            "country_id": 131,
+            "country_locode": "PT",
+            "country_slug": "portugal",
+            "floors_above": 20,
+            "functions": "hotel",
+            "height_architecture": 76,
+            "height_architecture_formatted": 76,
+            "height_architecture_ft_formatted": "249",
+            "id": 11326,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Hotel Vila Gale Porto",
+            "name_linked": "<a href='/building/hotel-vila-gale-porto/11326' target='_blank'>Hotel Vila Gale Porto</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/hotel-vila-gale-porto/11326"
+        }
+    ]
+}

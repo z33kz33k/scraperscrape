@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9154, "url": "/building/findeco-house/9154", "name": "Findeco House", "status": "COM", "height_architecture": 89.92, "longitude": 28.283791, "latitude": -15.42428, "rank": 1, "name_linked": "<a href='/building/findeco-house/9154' target='_blank'>Findeco House</a>", "country_id": 173, "country_chinese": "", "city_id": 1749, "country_locode": "ZM", "country_slug": "zambia", "city_locode": "LUN", "city": "Lusaka", "city_slug": "lusaka", "height_architecture_formatted": 89.9, "height_architecture_ft_formatted": "295", "floors_above": 23, "completed": 1974, "start": 1971, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Lusaka",
+            "city_id": 1749,
+            "city_locode": "LUN",
+            "city_slug": "lusaka",
+            "completed": 1974,
+            "country_chinese": "",
+            "country_id": 173,
+            "country_locode": "ZM",
+            "country_slug": "zambia",
+            "floors_above": 23,
+            "functions": "office",
+            "height_architecture": 89.92,
+            "height_architecture_formatted": 89.9,
+            "height_architecture_ft_formatted": "295",
+            "id": 9154,
+            "image": "",
+            "latitude": -15.42428,
+            "longitude": 28.283791,
+            "name": "Findeco House",
+            "name_linked": "<a href='/building/findeco-house/9154' target='_blank'>Findeco House</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1971,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/findeco-house/9154"
+        }
+    ]
+}

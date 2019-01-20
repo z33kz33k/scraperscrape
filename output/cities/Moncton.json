@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9754, "url": "/building/place-lassomption/9754", "name": "Place L'Assomption", "status": "COM", "height_architecture": 81, "longitude": -64.77713, "latitude": 46.087711, "rank": 1, "name_linked": "<a href='/building/place-lassomption/9754' target='_blank'>Place L'Assomption</a>", "country_id": 27, "country_chinese": "", "city_id": 714, "country_locode": "CA", "country_slug": "canada", "city_locode": "MNT", "city": "Moncton", "city_slug": "moncton", "height_architecture_formatted": 81, "height_architecture_ft_formatted": "266", "floors_above": 21, "completed": 1972, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Moncton",
+            "city_id": 714,
+            "city_locode": "MNT",
+            "city_slug": "moncton",
+            "completed": 1972,
+            "country_chinese": "",
+            "country_id": 27,
+            "country_locode": "CA",
+            "country_slug": "canada",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 81,
+            "height_architecture_formatted": 81,
+            "height_architecture_ft_formatted": "266",
+            "id": 9754,
+            "image": "",
+            "latitude": 46.087711,
+            "longitude": -64.77713,
+            "name": "Place L'Assomption",
+            "name_linked": "<a href='/building/place-lassomption/9754' target='_blank'>Place L'Assomption</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/place-lassomption/9754"
+        }
+    ]
+}

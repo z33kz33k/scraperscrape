@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9299, "url": "/building/ntc-tower/9299", "name": "NTC Tower", "status": "COM", "height_architecture": 130, "longitude": 32.586632, "latitude": 15.6018, "rank": 1, "name_linked": "<a href='/building/ntc-tower/9299' target='_blank'>NTC Tower</a>", "country_id": 138, "country_chinese": "", "city_id": 1453, "country_locode": "SD", "country_slug": "sudan", "city_locode": "KRT", "city": "Khartoum", "city_slug": "khartoum", "height_architecture_formatted": 130, "height_architecture_ft_formatted": "427", "floors_above": 29, "completed": 2010, "start": 2006, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Khartoum",
+            "city_id": 1453,
+            "city_locode": "KRT",
+            "city_slug": "khartoum",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 138,
+            "country_locode": "SD",
+            "country_slug": "sudan",
+            "floors_above": 29,
+            "functions": "office",
+            "height_architecture": 130,
+            "height_architecture_formatted": 130,
+            "height_architecture_ft_formatted": "427",
+            "id": 9299,
+            "image": "",
+            "latitude": 15.6018,
+            "longitude": 32.586632,
+            "name": "NTC Tower",
+            "name_linked": "<a href='/building/ntc-tower/9299' target='_blank'>NTC Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2006,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/ntc-tower/9299"
+        }
+    ]
+}

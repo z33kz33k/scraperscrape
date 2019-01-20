@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 5344, "url": "/building/tigutorn/5344", "name": "Tigutorn", "status": "COM", "height_architecture": 83, "longitude": 26.73596, "latitude": 58.376591, "rank": 1, "name_linked": "<a href='/building/tigutorn/5344' target='_blank'>Tigutorn</a>", "country_id": 48, "country_chinese": "", "city_id": 887, "country_locode": "EE", "country_slug": "estonia", "city_locode": "TAY", "city": "Tartu", "city_slug": "tartu", "height_architecture_formatted": 83, "height_architecture_ft_formatted": "272", "floors_above": 23, "completed": 2008, "start": 2006, "structural_material": "composite", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Tartu",
+            "city_id": 887,
+            "city_locode": "TAY",
+            "city_slug": "tartu",
+            "completed": 2008,
+            "country_chinese": "",
+            "country_id": 48,
+            "country_locode": "EE",
+            "country_slug": "estonia",
+            "floors_above": 23,
+            "functions": "residential",
+            "height_architecture": 83,
+            "height_architecture_formatted": 83,
+            "height_architecture_ft_formatted": "272",
+            "id": 5344,
+            "image": "",
+            "latitude": 58.376591,
+            "longitude": 26.73596,
+            "name": "Tigutorn",
+            "name_linked": "<a href='/building/tigutorn/5344' target='_blank'>Tigutorn</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2006,
+            "status": "COM",
+            "structural_material": "composite",
+            "url": "/building/tigutorn/5344"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 10686, "url": "/building/pinehurst/10686", "name": "Pinehurst", "status": "COM", "height_architecture": 80, "longitude": 153.549133, "latitude": -28.201891, "rank": 1, "name_linked": "<a href='/building/pinehurst/10686' target='_blank'>Pinehurst</a>", "country_id": 11, "country_chinese": "", "city_id": 659, "country_locode": "AU", "country_slug": "australia", "city_locode": "THS", "city": "Tweed Heads South", "city_slug": "tweed-heads-south", "height_architecture_formatted": 80, "height_architecture_ft_formatted": "262", "floors_above": 26, "completed": 1985, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Tweed Heads South",
+            "city_id": 659,
+            "city_locode": "THS",
+            "city_slug": "tweed-heads-south",
+            "completed": 1985,
+            "country_chinese": "",
+            "country_id": 11,
+            "country_locode": "AU",
+            "country_slug": "australia",
+            "floors_above": 26,
+            "functions": "residential",
+            "height_architecture": 80,
+            "height_architecture_formatted": 80,
+            "height_architecture_ft_formatted": "262",
+            "id": 10686,
+            "image": "",
+            "latitude": -28.201891,
+            "longitude": 153.549133,
+            "name": "Pinehurst",
+            "name_linked": "<a href='/building/pinehurst/10686' target='_blank'>Pinehurst</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/pinehurst/10686"
+        }
+    ]
+}

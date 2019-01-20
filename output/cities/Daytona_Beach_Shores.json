@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 30856, "url": "/building/peck-plaza/30856", "name": "Peck Plaza", "status": "COM", "height_architecture": 104.24, "longitude": -80.985268, "latitude": 29.181988, "rank": 1, "name_linked": "<a href='/building/peck-plaza/30856' target='_blank'>Peck Plaza</a>", "country_id": 163, "country_chinese": "", "city_id": 2790, "country_locode": "US", "country_slug": "united-states", "city_locode": "DAY", "city": "Daytona Beach Shores", "city_slug": "daytona-beach-shores", "height_architecture_formatted": 104.2, "height_architecture_ft_formatted": "342", "floors_above": 29, "completed": 1974, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Daytona Beach Shores",
+            "city_id": 2790,
+            "city_locode": "DAY",
+            "city_slug": "daytona-beach-shores",
+            "completed": 1974,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 29,
+            "functions": "residential",
+            "height_architecture": 104.24,
+            "height_architecture_formatted": 104.2,
+            "height_architecture_ft_formatted": "342",
+            "id": 30856,
+            "image": "",
+            "latitude": 29.181988,
+            "longitude": -80.985268,
+            "name": "Peck Plaza",
+            "name_linked": "<a href='/building/peck-plaza/30856' target='_blank'>Peck Plaza</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/peck-plaza/30856"
+        }
+    ]
+}

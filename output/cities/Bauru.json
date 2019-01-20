@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 4643, "url": "/building/burj-bauru/4643", "name": "Burj Bauru", "status": "UC", "height_architecture": 126.6, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/burj-bauru/4643' target='_blank'>Burj Bauru</a>", "country_id": 22, "country_chinese": "", "city_id": 686, "country_locode": "BR", "country_slug": "brazil", "city_locode": "BAU", "city": "Bauru", "city_slug": "bauru", "height_architecture_formatted": 126.6, "height_architecture_ft_formatted": "415", "floors_above": 32, "completed": "-", "start": 2008, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Bauru",
+            "city_id": 686,
+            "city_locode": "BAU",
+            "city_slug": "bauru",
+            "completed": "-",
+            "country_chinese": "",
+            "country_id": 22,
+            "country_locode": "BR",
+            "country_slug": "brazil",
+            "floors_above": 32,
+            "functions": "residential",
+            "height_architecture": 126.6,
+            "height_architecture_formatted": 126.6,
+            "height_architecture_ft_formatted": "415",
+            "id": 4643,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Burj Bauru",
+            "name_linked": "<a href='/building/burj-bauru/4643' target='_blank'>Burj Bauru</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "UC",
+            "structural_material": "concrete",
+            "url": "/building/burj-bauru/4643"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 15906, "url": "/building/jinsui-mansion/15906", "name": "Jinsui Mansion", "status": "COM", "height_architecture": 106, "longitude": 116.729889, "latitude": 23.360069, "rank": 1, "name_linked": "<a href='/building/jinsui-mansion/15906' target='_blank'>Jinsui Mansion</a>", "country_id": 34, "country_chinese": "", "city_id": 2160, "country_locode": "CN", "country_slug": "china", "city_locode": "SWA", "city": "Shantou", "city_slug": "shantou", "height_architecture_formatted": 106, "height_architecture_ft_formatted": "348", "floors_above": "-", "completed": "-", "start": "-", "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Shantou",
+            "city_id": 2160,
+            "city_locode": "SWA",
+            "city_slug": "shantou",
+            "completed": "-",
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": "-",
+            "functions": "office",
+            "height_architecture": 106,
+            "height_architecture_formatted": 106,
+            "height_architecture_ft_formatted": "348",
+            "id": 15906,
+            "image": "",
+            "latitude": 23.360069,
+            "longitude": 116.729889,
+            "name": "Jinsui Mansion",
+            "name_linked": "<a href='/building/jinsui-mansion/15906' target='_blank'>Jinsui Mansion</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/jinsui-mansion/15906"
+        }
+    ]
+}

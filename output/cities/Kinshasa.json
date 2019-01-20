@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9659, "url": "/building/rtnc-congo-building/9659", "name": "RTNC Congo Building", "status": "COM", "height_architecture": 103, "longitude": 15.297735, "latitude": -4.328949, "rank": 1, "name_linked": "<a href='/building/rtnc-congo-building/9659' target='_blank'>RTNC Congo Building</a>", "country_id": 28, "country_chinese": "", "city_id": 728, "country_locode": "CD", "country_slug": "democratic-republic-of-the-congo", "city_locode": "FIH", "city": "Kinshasa", "city_slug": "kinshasa", "height_architecture_formatted": 103, "height_architecture_ft_formatted": "338", "floors_above": 22, "completed": "-", "start": "-", "structural_material": "", "functions": "government", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Kinshasa",
+            "city_id": 728,
+            "city_locode": "FIH",
+            "city_slug": "kinshasa",
+            "completed": "-",
+            "country_chinese": "",
+            "country_id": 28,
+            "country_locode": "CD",
+            "country_slug": "democratic-republic-of-the-congo",
+            "floors_above": 22,
+            "functions": "government",
+            "height_architecture": 103,
+            "height_architecture_formatted": 103,
+            "height_architecture_ft_formatted": "338",
+            "id": 9659,
+            "image": "",
+            "latitude": -4.328949,
+            "longitude": 15.297735,
+            "name": "RTNC Congo Building",
+            "name_linked": "<a href='/building/rtnc-congo-building/9659' target='_blank'>RTNC Congo Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/rtnc-congo-building/9659"
+        }
+    ]
+}

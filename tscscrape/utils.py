@@ -18,4 +18,4 @@ def split_json(src, dest):
     for k, v in data.items():
         destpath = os.path.join(dest, "{}.json".format(k.replace(" ", "_")))
         with open(destpath, mode="w") as destfile:
-            json.dump({"timestamp": timestamp(), "towers": v}, destfile)
+            json.dump({"timestamp": timestamp(), "towers": v}, destfile, sort_keys=True, indent=4)

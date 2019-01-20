@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10246, "url": "/building/grattacielo-di-rimini/10246", "name": "Grattacielo di Rimini", "status": "COM", "height_architecture": 86.5, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/grattacielo-di-rimini/10246' target='_blank'>Grattacielo di Rimini</a>", "country_id": 79, "country_chinese": "", "city_id": 1023, "country_locode": "IT", "country_slug": "italy", "city_locode": "RMI", "city": "Rimini", "city_slug": "rimini", "height_architecture_formatted": 86.5, "height_architecture_ft_formatted": "284", "floors_above": 27, "completed": 1957, "start": 1956, "structural_material": "", "functions": "residential / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Rimini",
+            "city_id": 1023,
+            "city_locode": "RMI",
+            "city_slug": "rimini",
+            "completed": 1957,
+            "country_chinese": "",
+            "country_id": 79,
+            "country_locode": "IT",
+            "country_slug": "italy",
+            "floors_above": 27,
+            "functions": "residential / office",
+            "height_architecture": 86.5,
+            "height_architecture_formatted": 86.5,
+            "height_architecture_ft_formatted": "284",
+            "id": 10246,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Grattacielo di Rimini",
+            "name_linked": "<a href='/building/grattacielo-di-rimini/10246' target='_blank'>Grattacielo di Rimini</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1956,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/grattacielo-di-rimini/10246"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11320, "url": "/building/torre-do-lidador/11320", "name": "Torre do Lidador", "status": "COM", "height_architecture": 92, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/torre-do-lidador/11320' target='_blank'>Torre do Lidador</a>", "country_id": 131, "country_chinese": "", "city_id": 1421, "country_locode": "PT", "country_slug": "portugal", "city_locode": "MAI", "city": "Maia", "city_slug": "maia", "height_architecture_formatted": 92, "height_architecture_ft_formatted": "302", "floors_above": 22, "completed": 2000, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Maia",
+            "city_id": 1421,
+            "city_locode": "MAI",
+            "city_slug": "maia",
+            "completed": 2000,
+            "country_chinese": "",
+            "country_id": 131,
+            "country_locode": "PT",
+            "country_slug": "portugal",
+            "floors_above": 22,
+            "functions": "office",
+            "height_architecture": 92,
+            "height_architecture_formatted": 92,
+            "height_architecture_ft_formatted": "302",
+            "id": 11320,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Torre do Lidador",
+            "name_linked": "<a href='/building/torre-do-lidador/11320' target='_blank'>Torre do Lidador</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/torre-do-lidador/11320"
+        }
+    ]
+}

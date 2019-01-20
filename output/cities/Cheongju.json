@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 1836, "url": "/building/g-well-city-landmark-tower/1836", "name": "G-Well City Landmark Tower", "status": "COM", "height_architecture": 195, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/g-well-city-landmark-tower/1836' target='_blank'>G-Well City Landmark Tower</a>", "country_id": 85, "country_chinese": "", "city_id": 1062, "country_locode": "KR", "country_slug": "south-korea", "city_locode": "CJJ", "city": "Cheongju", "city_slug": "cheongju", "height_architecture_formatted": 195, "height_architecture_ft_formatted": "640", "floors_above": 55, "completed": 2015, "start": 2010, "structural_material": "", "functions": "residential / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Cheongju",
+            "city_id": 1062,
+            "city_locode": "CJJ",
+            "city_slug": "cheongju",
+            "completed": 2015,
+            "country_chinese": "",
+            "country_id": 85,
+            "country_locode": "KR",
+            "country_slug": "south-korea",
+            "floors_above": 55,
+            "functions": "residential / office",
+            "height_architecture": 195,
+            "height_architecture_formatted": 195,
+            "height_architecture_ft_formatted": "640",
+            "id": 1836,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "G-Well City Landmark Tower",
+            "name_linked": "<a href='/building/g-well-city-landmark-tower/1836' target='_blank'>G-Well City Landmark Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2010,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/g-well-city-landmark-tower/1836"
+        }
+    ]
+}

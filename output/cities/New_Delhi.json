@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11119, "url": "/building/civic-center/11119", "name": "Civic Center", "status": "COM", "height_architecture": 112, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/civic-center/11119' target='_blank'>Civic Center</a>", "country_id": 75, "country_chinese": "", "city_id": 991, "country_locode": "IN", "country_slug": "india", "city_locode": "DEL", "city": "New Delhi", "city_slug": "new-delhi", "height_architecture_formatted": 112, "height_architecture_ft_formatted": "367", "floors_above": 28, "completed": 2010, "start": "-", "structural_material": "concrete", "functions": "government", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "New Delhi",
+            "city_id": 991,
+            "city_locode": "DEL",
+            "city_slug": "new-delhi",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 75,
+            "country_locode": "IN",
+            "country_slug": "india",
+            "floors_above": 28,
+            "functions": "government",
+            "height_architecture": 112,
+            "height_architecture_formatted": 112,
+            "height_architecture_ft_formatted": "367",
+            "id": 11119,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Civic Center",
+            "name_linked": "<a href='/building/civic-center/11119' target='_blank'>Civic Center</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/civic-center/11119"
+        }
+    ]
+}

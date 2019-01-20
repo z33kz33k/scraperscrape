@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4982, "url": "/building/the-tower-at-meridian-quay/4982", "name": "The Tower at Meridian Quay", "status": "COM", "height_architecture": 107, "longitude": -3.94313, "latitude": 51.613972, "rank": 1, "name_linked": "<a href='/building/the-tower-at-meridian-quay/4982' target='_blank'>The Tower at Meridian Quay</a>", "country_id": 56, "country_chinese": "", "city_id": 952, "country_locode": "GB", "country_slug": "united-kingdom", "city_locode": "SWA", "city": "Swansea", "city_slug": "swansea", "height_architecture_formatted": 107, "height_architecture_ft_formatted": "351", "floors_above": 29, "completed": 2009, "start": 2007, "structural_material": "concrete", "functions": "residential / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Swansea",
+            "city_id": 952,
+            "city_locode": "SWA",
+            "city_slug": "swansea",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 56,
+            "country_locode": "GB",
+            "country_slug": "united-kingdom",
+            "floors_above": 29,
+            "functions": "residential / office",
+            "height_architecture": 107,
+            "height_architecture_formatted": 107,
+            "height_architecture_ft_formatted": "351",
+            "id": 4982,
+            "image": "",
+            "latitude": 51.613972,
+            "longitude": -3.94313,
+            "name": "The Tower at Meridian Quay",
+            "name_linked": "<a href='/building/the-tower-at-meridian-quay/4982' target='_blank'>The Tower at Meridian Quay</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2007,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/the-tower-at-meridian-quay/4982"
+        }
+    ]
+}

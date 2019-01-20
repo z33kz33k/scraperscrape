@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 16025, "url": "/building/uralsib-bank/16025", "name": "Uralsib Bank", "status": "COM", "height_architecture": 100.5, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/uralsib-bank/16025' target='_blank'>Uralsib Bank</a>", "country_id": 135, "country_chinese": "", "city_id": 2161, "country_locode": "RU", "country_slug": "russia", "city_locode": "UFA", "city": "Ufa", "city_slug": "ufa", "height_architecture_formatted": 100.5, "height_architecture_ft_formatted": "330", "floors_above": 26, "completed": 1999, "start": "-", "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Ufa",
+            "city_id": 2161,
+            "city_locode": "UFA",
+            "city_slug": "ufa",
+            "completed": 1999,
+            "country_chinese": "",
+            "country_id": 135,
+            "country_locode": "RU",
+            "country_slug": "russia",
+            "floors_above": 26,
+            "functions": "office",
+            "height_architecture": 100.5,
+            "height_architecture_formatted": 100.5,
+            "height_architecture_ft_formatted": "330",
+            "id": 16025,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Uralsib Bank",
+            "name_linked": "<a href='/building/uralsib-bank/16025' target='_blank'>Uralsib Bank</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/uralsib-bank/16025"
+        }
+    ]
+}

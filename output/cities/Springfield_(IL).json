@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 14033, "url": "/building/springfield-hilton/14033", "name": "Springfield Hilton", "status": "COM", "height_architecture": 107.3, "longitude": -89.645821, "latitude": 39.800171, "rank": 1, "name_linked": "<a href='/building/springfield-hilton/14033' target='_blank'>Springfield Hilton</a>", "country_id": 163, "country_chinese": "", "city_id": 1692, "country_locode": "US", "country_slug": "united-states", "city_locode": "SPI", "city": "Springfield (IL)", "city_slug": "springfield-il", "height_architecture_formatted": 107.3, "height_architecture_ft_formatted": "352", "floors_above": 30, "completed": 1973, "start": "-", "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Springfield (IL)",
+            "city_id": 1692,
+            "city_locode": "SPI",
+            "city_slug": "springfield-il",
+            "completed": 1973,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 30,
+            "functions": "hotel",
+            "height_architecture": 107.3,
+            "height_architecture_formatted": 107.3,
+            "height_architecture_ft_formatted": "352",
+            "id": 14033,
+            "image": "",
+            "latitude": 39.800171,
+            "longitude": -89.645821,
+            "name": "Springfield Hilton",
+            "name_linked": "<a href='/building/springfield-hilton/14033' target='_blank'>Springfield Hilton</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/springfield-hilton/14033"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 3792, "url": "/building/inner-mongolia-power-college/3792", "name": "Inner Mongolia Power College", "status": "COM", "height_architecture": 153, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/inner-mongolia-power-college/3792' target='_blank'>Inner Mongolia Power College</a>", "country_id": 34, "country_chinese": "", "city_id": 763, "country_locode": "CN", "country_slug": "china", "city_locode": "HET", "city": "Hohhot", "city_slug": "hohhot", "height_architecture_formatted": 153, "height_architecture_ft_formatted": "502", "floors_above": 34, "completed": "-", "start": "-", "structural_material": "", "functions": "education", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Hohhot",
+            "city_id": 763,
+            "city_locode": "HET",
+            "city_slug": "hohhot",
+            "completed": "-",
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 34,
+            "functions": "education",
+            "height_architecture": 153,
+            "height_architecture_formatted": 153,
+            "height_architecture_ft_formatted": "502",
+            "id": 3792,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Inner Mongolia Power College",
+            "name_linked": "<a href='/building/inner-mongolia-power-college/3792' target='_blank'>Inner Mongolia Power College</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/inner-mongolia-power-college/3792"
+        }
+    ]
+}

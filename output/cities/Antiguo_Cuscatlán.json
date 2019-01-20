@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9642, "url": "/building/el-pedregal-multiplaza/9642", "name": "El Pedregal - Multiplaza", "status": "COM", "height_architecture": 112, "longitude": -89.2472, "latitude": 13.68071, "rank": 1, "name_linked": "<a href='/building/el-pedregal-multiplaza/9642' target='_blank'>El Pedregal - Multiplaza</a>", "country_id": 148, "country_chinese": "", "city_id": 2863, "country_locode": "SV", "country_slug": "el-salvador", "city_locode": "SAL", "city": "Antiguo Cuscatl\u00e1n", "city_slug": "antiguo-cuscatlan", "height_architecture_formatted": 112, "height_architecture_ft_formatted": "367", "floors_above": 28, "completed": 2010, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Antiguo Cuscatl\u00e1n",
+            "city_id": 2863,
+            "city_locode": "SAL",
+            "city_slug": "antiguo-cuscatlan",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 148,
+            "country_locode": "SV",
+            "country_slug": "el-salvador",
+            "floors_above": 28,
+            "functions": "residential",
+            "height_architecture": 112,
+            "height_architecture_formatted": 112,
+            "height_architecture_ft_formatted": "367",
+            "id": 9642,
+            "image": "",
+            "latitude": 13.68071,
+            "longitude": -89.2472,
+            "name": "El Pedregal - Multiplaza",
+            "name_linked": "<a href='/building/el-pedregal-multiplaza/9642' target='_blank'>El Pedregal - Multiplaza</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/el-pedregal-multiplaza/9642"
+        }
+    ]
+}

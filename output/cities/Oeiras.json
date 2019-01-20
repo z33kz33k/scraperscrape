@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 15678, "url": "/building/torre-de-monsanto/15678", "name": "Torre de Monsanto", "status": "COM", "height_architecture": 100, "longitude": -9.221781, "latitude": 38.715801, "rank": 1, "name_linked": "<a href='/building/torre-de-monsanto/15678' target='_blank'>Torre de Monsanto</a>", "country_id": 131, "country_chinese": "", "city_id": 1422, "country_locode": "PT", "country_slug": "portugal", "city_locode": "OEI", "city": "Oeiras", "city_slug": "oeiras", "height_architecture_formatted": 100, "height_architecture_ft_formatted": "328", "floors_above": 17, "completed": 2001, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Oeiras",
+            "city_id": 1422,
+            "city_locode": "OEI",
+            "city_slug": "oeiras",
+            "completed": 2001,
+            "country_chinese": "",
+            "country_id": 131,
+            "country_locode": "PT",
+            "country_slug": "portugal",
+            "floors_above": 17,
+            "functions": "office",
+            "height_architecture": 100,
+            "height_architecture_formatted": 100,
+            "height_architecture_ft_formatted": "328",
+            "id": 15678,
+            "image": "",
+            "latitude": 38.715801,
+            "longitude": -9.221781,
+            "name": "Torre de Monsanto",
+            "name_linked": "<a href='/building/torre-de-monsanto/15678' target='_blank'>Torre de Monsanto</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/torre-de-monsanto/15678"
+        }
+    ]
+}

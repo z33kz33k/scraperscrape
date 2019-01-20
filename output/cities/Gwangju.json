@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 13203, "url": "/building/kumho-insurance-office-building/13203", "name": "Kumho Insurance Office Building", "status": "COM", "height_architecture": 127, "longitude": 126.904663, "latitude": 35.152351, "rank": 1, "name_linked": "<a href='/building/kumho-insurance-office-building/13203' target='_blank'>Kumho Insurance Office Building</a>", "country_id": 85, "country_chinese": "", "city_id": 1069, "country_locode": "KR", "country_slug": "south-korea", "city_locode": "KWJ", "city": "Gwangju", "city_slug": "gwangju", "height_architecture_formatted": 127, "height_architecture_ft_formatted": "417", "floors_above": 30, "completed": 1996, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Gwangju",
+            "city_id": 1069,
+            "city_locode": "KWJ",
+            "city_slug": "gwangju",
+            "completed": 1996,
+            "country_chinese": "",
+            "country_id": 85,
+            "country_locode": "KR",
+            "country_slug": "south-korea",
+            "floors_above": 30,
+            "functions": "office",
+            "height_architecture": 127,
+            "height_architecture_formatted": 127,
+            "height_architecture_ft_formatted": "417",
+            "id": 13203,
+            "image": "",
+            "latitude": 35.152351,
+            "longitude": 126.904663,
+            "name": "Kumho Insurance Office Building",
+            "name_linked": "<a href='/building/kumho-insurance-office-building/13203' target='_blank'>Kumho Insurance Office Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/kumho-insurance-office-building/13203"
+        }
+    ]
+}

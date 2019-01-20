@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 1402, "url": "/building/act-tower/1402", "name": "ACT Tower", "status": "COM", "height_architecture": 212.76, "longitude": 137.73703, "latitude": 34.70565, "rank": 1, "name_linked": "<a href='/building/act-tower/1402' target='_blank'>ACT Tower</a>", "country_id": 82, "country_chinese": "", "city_id": 1034, "country_locode": "JP", "country_slug": "japan", "city_locode": "HMM", "city": "Hamamatsu", "city_slug": "hamamatsu", "height_architecture_formatted": 212.8, "height_architecture_ft_formatted": "698", "floors_above": 45, "completed": 1994, "start": "-", "structural_material": "steel", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Hamamatsu",
+            "city_id": 1034,
+            "city_locode": "HMM",
+            "city_slug": "hamamatsu",
+            "completed": 1994,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 45,
+            "functions": "hotel / office",
+            "height_architecture": 212.76,
+            "height_architecture_formatted": 212.8,
+            "height_architecture_ft_formatted": "698",
+            "id": 1402,
+            "image": "",
+            "latitude": 34.70565,
+            "longitude": 137.73703,
+            "name": "ACT Tower",
+            "name_linked": "<a href='/building/act-tower/1402' target='_blank'>ACT Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/act-tower/1402"
+        }
+    ]
+}

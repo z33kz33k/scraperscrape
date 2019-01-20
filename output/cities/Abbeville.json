@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 15502, "url": "/building/prysmian-copper-wire-tower/15502", "name": "Prysmian Copper Wire Tower", "status": "COM", "height_architecture": 113.7, "longitude": -82.409203, "latitude": 34.164391, "rank": 1, "name_linked": "<a href='/building/prysmian-copper-wire-tower/15502' target='_blank'>Prysmian Copper Wire Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1496, "country_locode": "US", "country_slug": "united-states", "city_locode": "ABF", "city": "Abbeville", "city_slug": "abbeville", "height_architecture_formatted": 113.7, "height_architecture_ft_formatted": "373", "floors_above": 30, "completed": 2009, "start": "-", "structural_material": "", "functions": "industrial", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Abbeville",
+            "city_id": 1496,
+            "city_locode": "ABF",
+            "city_slug": "abbeville",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 30,
+            "functions": "industrial",
+            "height_architecture": 113.7,
+            "height_architecture_formatted": 113.7,
+            "height_architecture_ft_formatted": "373",
+            "id": 15502,
+            "image": "",
+            "latitude": 34.164391,
+            "longitude": -82.409203,
+            "name": "Prysmian Copper Wire Tower",
+            "name_linked": "<a href='/building/prysmian-copper-wire-tower/15502' target='_blank'>Prysmian Copper Wire Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/prysmian-copper-wire-tower/15502"
+        }
+    ]
+}

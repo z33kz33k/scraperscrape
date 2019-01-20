@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 8935, "url": "/building/necom-house/8935", "name": "NECOM House", "status": "COM", "height_architecture": 160.33, "longitude": 3.3976, "latitude": 6.44628, "rank": 1, "name_linked": "<a href='/building/necom-house/8935' target='_blank'>NECOM House</a>", "country_id": 116, "country_chinese": "", "city_id": 1129, "country_locode": "NG", "country_slug": "nigeria", "city_locode": "LOS", "city": "Lagos", "city_slug": "lagos", "height_architecture_formatted": 160.3, "height_architecture_ft_formatted": "526", "floors_above": 32, "completed": 1979, "start": "-", "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Lagos",
+            "city_id": 1129,
+            "city_locode": "LOS",
+            "city_slug": "lagos",
+            "completed": 1979,
+            "country_chinese": "",
+            "country_id": 116,
+            "country_locode": "NG",
+            "country_slug": "nigeria",
+            "floors_above": 32,
+            "functions": "office",
+            "height_architecture": 160.33,
+            "height_architecture_formatted": 160.3,
+            "height_architecture_ft_formatted": "526",
+            "id": 8935,
+            "image": "",
+            "latitude": 6.44628,
+            "longitude": 3.3976,
+            "name": "NECOM House",
+            "name_linked": "<a href='/building/necom-house/8935' target='_blank'>NECOM House</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/necom-house/8935"
+        }
+    ]
+}

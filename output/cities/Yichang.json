@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 3068, "url": "/building/junyao-times-square/3068", "name": "Junyao Times Square", "status": "COM", "height_architecture": 165, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/junyao-times-square/3068' target='_blank'>Junyao Times Square</a>", "country_id": 34, "country_chinese": "", "city_id": 817, "country_locode": "CN", "country_slug": "china", "city_locode": "YIC", "city": "Yichang", "city_slug": "yichang", "height_architecture_formatted": 165, "height_architecture_ft_formatted": "541", "floors_above": 38, "completed": 2005, "start": "-", "structural_material": "", "functions": "hotel / retail", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Yichang",
+            "city_id": 817,
+            "city_locode": "YIC",
+            "city_slug": "yichang",
+            "completed": 2005,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 38,
+            "functions": "hotel / retail",
+            "height_architecture": 165,
+            "height_architecture_formatted": 165,
+            "height_architecture_ft_formatted": "541",
+            "id": 3068,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Junyao Times Square",
+            "name_linked": "<a href='/building/junyao-times-square/3068' target='_blank'>Junyao Times Square</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/junyao-times-square/3068"
+        }
+    ]
+}

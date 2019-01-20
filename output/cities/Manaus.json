@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 29338, "url": "/building/soberane/29338", "name": "Soberane", "status": "COM", "height_architecture": 80, "longitude": -60.012451, "latitude": -3.10821, "rank": 1, "name_linked": "<a href='/building/soberane/29338' target='_blank'>Soberane</a>", "country_id": 22, "country_chinese": "", "city_id": 2154, "country_locode": "BR", "country_slug": "brazil", "city_locode": "MAO", "city": "Manaus", "city_slug": "manaus", "height_architecture_formatted": 80, "height_architecture_ft_formatted": "262", "floors_above": 21, "completed": 2018, "start": "-", "structural_material": "", "functions": "office / residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Manaus",
+            "city_id": 2154,
+            "city_locode": "MAO",
+            "city_slug": "manaus",
+            "completed": 2018,
+            "country_chinese": "",
+            "country_id": 22,
+            "country_locode": "BR",
+            "country_slug": "brazil",
+            "floors_above": 21,
+            "functions": "office / residential",
+            "height_architecture": 80,
+            "height_architecture_formatted": 80,
+            "height_architecture_ft_formatted": "262",
+            "id": 29338,
+            "image": "",
+            "latitude": -3.10821,
+            "longitude": -60.012451,
+            "name": "Soberane",
+            "name_linked": "<a href='/building/soberane/29338' target='_blank'>Soberane</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/soberane/29338"
+        }
+    ]
+}

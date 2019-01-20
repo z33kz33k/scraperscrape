@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4832, "url": "/building/torre-de-la-universidad-laboral/4832", "name": "Torre de la Universidad Laboral", "status": "COM", "height_architecture": 130, "longitude": -5.61643, "latitude": 43.524319, "rank": 1, "name_linked": "<a href='/building/torre-de-la-universidad-laboral/4832' target='_blank'>Torre de la Universidad Laboral</a>", "country_id": 51, "country_chinese": "", "city_id": 899, "country_locode": "ES", "country_slug": "spain", "city_locode": "GIJ", "city": "Gijon", "city_slug": "gijon", "height_architecture_formatted": 130, "height_architecture_ft_formatted": "427", "floors_above": 17, "completed": 1956, "start": "-", "structural_material": "", "functions": "education", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Gijon",
+            "city_id": 899,
+            "city_locode": "GIJ",
+            "city_slug": "gijon",
+            "completed": 1956,
+            "country_chinese": "",
+            "country_id": 51,
+            "country_locode": "ES",
+            "country_slug": "spain",
+            "floors_above": 17,
+            "functions": "education",
+            "height_architecture": 130,
+            "height_architecture_formatted": 130,
+            "height_architecture_ft_formatted": "427",
+            "id": 4832,
+            "image": "",
+            "latitude": 43.524319,
+            "longitude": -5.61643,
+            "name": "Torre de la Universidad Laboral",
+            "name_linked": "<a href='/building/torre-de-la-universidad-laboral/4832' target='_blank'>Torre de la Universidad Laboral</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/torre-de-la-universidad-laboral/4832"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 15861, "url": "/building/old-mutual-namibia-headquarters/15861", "name": "Old Mutual Namibia Headquarters", "status": "COM", "height_architecture": 100, "longitude": 17.083601, "latitude": -22.567326, "rank": 1, "name_linked": "<a href='/building/old-mutual-namibia-headquarters/15861' target='_blank'>Old Mutual Namibia Headquarters</a>", "country_id": 114, "country_chinese": "", "city_id": 1126, "country_locode": "NA", "country_slug": "namibia", "city_locode": "WDH", "city": "Windhoek", "city_slug": "windhoek", "height_architecture_formatted": 100, "height_architecture_ft_formatted": "328", "floors_above": 21, "completed": 2010, "start": 2008, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Windhoek",
+            "city_id": 1126,
+            "city_locode": "WDH",
+            "city_slug": "windhoek",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 114,
+            "country_locode": "NA",
+            "country_slug": "namibia",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 100,
+            "height_architecture_formatted": 100,
+            "height_architecture_ft_formatted": "328",
+            "id": 15861,
+            "image": "",
+            "latitude": -22.567326,
+            "longitude": 17.083601,
+            "name": "Old Mutual Namibia Headquarters",
+            "name_linked": "<a href='/building/old-mutual-namibia-headquarters/15861' target='_blank'>Old Mutual Namibia Headquarters</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/old-mutual-namibia-headquarters/15861"
+        }
+    ]
+}

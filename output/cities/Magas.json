@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 17294, "url": "/building/magas-tower-concord/17294", "name": "Magas Tower Concord", "status": "COM", "height_architecture": 100, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/magas-tower-concord/17294' target='_blank'>Magas Tower Concord</a>", "country_id": 135, "country_chinese": "", "city_id": 2198, "country_locode": "RU", "country_slug": "russia", "city_locode": "", "city": "Magas", "city_slug": "magas", "height_architecture_formatted": 100, "height_architecture_ft_formatted": "328", "floors_above": 4, "completed": 2013, "start": 2012, "structural_material": "concrete", "functions": "exhibition", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Magas",
+            "city_id": 2198,
+            "city_locode": "",
+            "city_slug": "magas",
+            "completed": 2013,
+            "country_chinese": "",
+            "country_id": 135,
+            "country_locode": "RU",
+            "country_slug": "russia",
+            "floors_above": 4,
+            "functions": "exhibition",
+            "height_architecture": 100,
+            "height_architecture_formatted": 100,
+            "height_architecture_ft_formatted": "328",
+            "id": 17294,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Magas Tower Concord",
+            "name_linked": "<a href='/building/magas-tower-concord/17294' target='_blank'>Magas Tower Concord</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2012,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/magas-tower-concord/17294"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4772, "url": "/building/sentinel/4772", "name": "Sentinel", "status": "COM", "height_architecture": 120, "longitude": 174.771362, "latitude": -36.78952, "rank": 1, "name_linked": "<a href='/building/sentinel/4772' target='_blank'>Sentinel</a>", "country_id": 121, "country_chinese": "", "city_id": 1389, "country_locode": "NZ", "country_slug": "new-zealand", "city_locode": "TAK", "city": "Takapuna", "city_slug": "takapuna", "height_architecture_formatted": 120, "height_architecture_ft_formatted": "394", "floors_above": 30, "completed": 2008, "start": 2005, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Takapuna",
+            "city_id": 1389,
+            "city_locode": "TAK",
+            "city_slug": "takapuna",
+            "completed": 2008,
+            "country_chinese": "",
+            "country_id": 121,
+            "country_locode": "NZ",
+            "country_slug": "new-zealand",
+            "floors_above": 30,
+            "functions": "residential",
+            "height_architecture": 120,
+            "height_architecture_formatted": 120,
+            "height_architecture_ft_formatted": "394",
+            "id": 4772,
+            "image": "",
+            "latitude": -36.78952,
+            "longitude": 174.771362,
+            "name": "Sentinel",
+            "name_linked": "<a href='/building/sentinel/4772' target='_blank'>Sentinel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2005,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/sentinel/4772"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 29285, "url": "/building/evergreen/29285", "name": "Evergreen", "status": "COM", "height_architecture": 85.65, "longitude": -122.793831, "latitude": 49.283001, "rank": 1, "name_linked": "<a href='/building/evergreen/29285' target='_blank'>Evergreen</a>", "country_id": 27, "country_chinese": "", "city_id": 2628, "country_locode": "CA", "country_slug": "canada", "city_locode": "COQ", "city": "Coquitlam", "city_slug": "coquitlam", "height_architecture_formatted": 85.7, "height_architecture_ft_formatted": "281", "floors_above": 28, "completed": 2015, "start": "-", "structural_material": "concrete", "functions": "residential / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Coquitlam",
+            "city_id": 2628,
+            "city_locode": "COQ",
+            "city_slug": "coquitlam",
+            "completed": 2015,
+            "country_chinese": "",
+            "country_id": 27,
+            "country_locode": "CA",
+            "country_slug": "canada",
+            "floors_above": 28,
+            "functions": "residential / office",
+            "height_architecture": 85.65,
+            "height_architecture_formatted": 85.7,
+            "height_architecture_ft_formatted": "281",
+            "id": 29285,
+            "image": "",
+            "latitude": 49.283001,
+            "longitude": -122.793831,
+            "name": "Evergreen",
+            "name_linked": "<a href='/building/evergreen/29285' target='_blank'>Evergreen</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/evergreen/29285"
+        }
+    ]
+}

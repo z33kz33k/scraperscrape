@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 23771, "url": "/building/centre-hospitalier-universitaire-de-caen/23771", "name": "Centre Hospitalier Universitaire de Caen", "status": "COM", "height_architecture": 87, "longitude": -0.35751, "latitude": 49.204929, "rank": 1, "name_linked": "<a href='/building/centre-hospitalier-universitaire-de-caen/23771' target='_blank'>Centre Hospitalier Universitaire de Caen</a>", "country_id": 55, "country_chinese": "", "city_id": 2389, "country_locode": "FR", "country_slug": "france", "city_locode": "CFR", "city": "Caen", "city_slug": "caen", "height_architecture_formatted": 87, "height_architecture_ft_formatted": "285", "floors_above": 23, "completed": 1973, "start": 1968, "structural_material": "", "functions": "hospital", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Caen",
+            "city_id": 2389,
+            "city_locode": "CFR",
+            "city_slug": "caen",
+            "completed": 1973,
+            "country_chinese": "",
+            "country_id": 55,
+            "country_locode": "FR",
+            "country_slug": "france",
+            "floors_above": 23,
+            "functions": "hospital",
+            "height_architecture": 87,
+            "height_architecture_formatted": 87,
+            "height_architecture_ft_formatted": "285",
+            "id": 23771,
+            "image": "",
+            "latitude": 49.204929,
+            "longitude": -0.35751,
+            "name": "Centre Hospitalier Universitaire de Caen",
+            "name_linked": "<a href='/building/centre-hospitalier-universitaire-de-caen/23771' target='_blank'>Centre Hospitalier Universitaire de Caen</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1968,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/centre-hospitalier-universitaire-de-caen/23771"
+        }
+    ]
+}

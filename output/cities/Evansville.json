@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 13094, "url": "/building/the-420-building/13094", "name": "The 420 Building", "status": "COM", "height_architecture": 75.59, "longitude": -87.570351, "latitude": 37.972301, "rank": 1, "name_linked": "<a href='/building/the-420-building/13094' target='_blank'>The 420 Building</a>", "country_id": 163, "country_chinese": "", "city_id": 1569, "country_locode": "US", "country_slug": "united-states", "city_locode": "EVS", "city": "Evansville", "city_slug": "evansville", "height_architecture_formatted": 75.6, "height_architecture_ft_formatted": "248", "floors_above": 18, "completed": 1970, "start": 1967, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Evansville",
+            "city_id": 1569,
+            "city_locode": "EVS",
+            "city_slug": "evansville",
+            "completed": 1970,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 18,
+            "functions": "office",
+            "height_architecture": 75.59,
+            "height_architecture_formatted": 75.6,
+            "height_architecture_ft_formatted": "248",
+            "id": 13094,
+            "image": "",
+            "latitude": 37.972301,
+            "longitude": -87.570351,
+            "name": "The 420 Building",
+            "name_linked": "<a href='/building/the-420-building/13094' target='_blank'>The 420 Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1967,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/the-420-building/13094"
+        }
+    ]
+}

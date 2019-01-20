@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10201, "url": "/building/sint-maartensdal-blok-5/10201", "name": "Sint-Maartensdal, Blok 5", "status": "COM", "height_architecture": 112, "longitude": 4.70625, "latitude": 50.882778, "rank": 1, "name_linked": "<a href='/building/sint-maartensdal-blok-5/10201' target='_blank'>Sint-Maartensdal, Blok 5</a>", "country_id": 16, "country_chinese": "", "city_id": 670, "country_locode": "BE", "country_slug": "belgium", "city_locode": "LEU", "city": "Leuven", "city_slug": "leuven", "height_architecture_formatted": 112, "height_architecture_ft_formatted": "367", "floors_above": 22, "completed": 1967, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Leuven",
+            "city_id": 670,
+            "city_locode": "LEU",
+            "city_slug": "leuven",
+            "completed": 1967,
+            "country_chinese": "",
+            "country_id": 16,
+            "country_locode": "BE",
+            "country_slug": "belgium",
+            "floors_above": 22,
+            "functions": "residential",
+            "height_architecture": 112,
+            "height_architecture_formatted": 112,
+            "height_architecture_ft_formatted": "367",
+            "id": 10201,
+            "image": "",
+            "latitude": 50.882778,
+            "longitude": 4.70625,
+            "name": "Sint-Maartensdal, Blok 5",
+            "name_linked": "<a href='/building/sint-maartensdal-blok-5/10201' target='_blank'>Sint-Maartensdal, Blok 5</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/sint-maartensdal-blok-5/10201"
+        }
+    ]
+}

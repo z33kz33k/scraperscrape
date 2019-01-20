@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4467, "url": "/building/business-tower/4467", "name": "Business Tower", "status": "COM", "height_architecture": 135, "longitude": 11.11715, "latitude": 49.454529, "rank": 1, "name_linked": "<a href='/building/business-tower/4467' target='_blank'>Business Tower</a>", "country_id": 41, "country_chinese": "", "city_id": 871, "country_locode": "DE", "country_slug": "germany", "city_locode": "NUE", "city": "Nuremberg", "city_slug": "nuremberg", "height_architecture_formatted": 135, "height_architecture_ft_formatted": "443", "floors_above": 35, "completed": 2000, "start": 1996, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Nuremberg",
+            "city_id": 871,
+            "city_locode": "NUE",
+            "city_slug": "nuremberg",
+            "completed": 2000,
+            "country_chinese": "",
+            "country_id": 41,
+            "country_locode": "DE",
+            "country_slug": "germany",
+            "floors_above": 35,
+            "functions": "office",
+            "height_architecture": 135,
+            "height_architecture_formatted": 135,
+            "height_architecture_ft_formatted": "443",
+            "id": 4467,
+            "image": "",
+            "latitude": 49.454529,
+            "longitude": 11.11715,
+            "name": "Business Tower",
+            "name_linked": "<a href='/building/business-tower/4467' target='_blank'>Business Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1996,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/business-tower/4467"
+        }
+    ]
+}

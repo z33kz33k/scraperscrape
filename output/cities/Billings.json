@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9738, "url": "/building/first-interstate-center/9738", "name": "First Interstate Center", "status": "COM", "height_architecture": 82.91, "longitude": -108.5121, "latitude": 45.783428, "rank": 1, "name_linked": "<a href='/building/first-interstate-center/9738' target='_blank'>First Interstate Center</a>", "country_id": 163, "country_chinese": "", "city_id": 1519, "country_locode": "US", "country_slug": "united-states", "city_locode": "BIL", "city": "Billings", "city_slug": "billings", "height_architecture_formatted": 82.9, "height_architecture_ft_formatted": "272", "floors_above": 20, "completed": 1985, "start": 1984, "structural_material": "steel", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Billings",
+            "city_id": 1519,
+            "city_locode": "BIL",
+            "city_slug": "billings",
+            "completed": 1985,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 20,
+            "functions": "office",
+            "height_architecture": 82.91,
+            "height_architecture_formatted": 82.9,
+            "height_architecture_ft_formatted": "272",
+            "id": 9738,
+            "image": "",
+            "latitude": 45.783428,
+            "longitude": -108.5121,
+            "name": "First Interstate Center",
+            "name_linked": "<a href='/building/first-interstate-center/9738' target='_blank'>First Interstate Center</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1984,
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/first-interstate-center/9738"
+        }
+    ]
+}

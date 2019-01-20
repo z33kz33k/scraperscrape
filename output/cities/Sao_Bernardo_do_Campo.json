@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4553, "url": "/building/domo-business-torre-comercial/4553", "name": "Domo Business - Torre Comercial", "status": "COM", "height_architecture": 130, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/domo-business-torre-comercial/4553' target='_blank'>Domo Business - Torre Comercial</a>", "country_id": 22, "country_chinese": "", "city_id": 697, "country_locode": "BR", "country_slug": "brazil", "city_locode": "QSB", "city": "Sao Bernardo do Campo", "city_slug": "sao-bernardo-do-campo", "height_architecture_formatted": 130, "height_architecture_ft_formatted": "427", "floors_above": 38, "completed": 2010, "start": 2008, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Sao Bernardo do Campo",
+            "city_id": 697,
+            "city_locode": "QSB",
+            "city_slug": "sao-bernardo-do-campo",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 22,
+            "country_locode": "BR",
+            "country_slug": "brazil",
+            "floors_above": 38,
+            "functions": "office",
+            "height_architecture": 130,
+            "height_architecture_formatted": 130,
+            "height_architecture_ft_formatted": "427",
+            "id": 4553,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Domo Business - Torre Comercial",
+            "name_linked": "<a href='/building/domo-business-torre-comercial/4553' target='_blank'>Domo Business - Torre Comercial</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/domo-business-torre-comercial/4553"
+        }
+    ]
+}

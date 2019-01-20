@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 11135, "url": "/building/torre-del-mall-del-centro/11135", "name": "Torre del Mall del Centro", "status": "COM", "height_architecture": 94.5, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/torre-del-mall-del-centro/11135' target='_blank'>Torre del Mall del Centro</a>", "country_id": 32, "country_chinese": "", "city_id": 738, "country_locode": "CL", "country_slug": "chile", "city_locode": "CCP", "city": "Concepcion", "city_slug": "concepcion", "height_architecture_formatted": 94.5, "height_architecture_ft_formatted": "310", "floors_above": 24, "completed": 2014, "start": 2007, "structural_material": "concrete", "functions": "hotel / office / retail", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Concepcion",
+            "city_id": 738,
+            "city_locode": "CCP",
+            "city_slug": "concepcion",
+            "completed": 2014,
+            "country_chinese": "",
+            "country_id": 32,
+            "country_locode": "CL",
+            "country_slug": "chile",
+            "floors_above": 24,
+            "functions": "hotel / office / retail",
+            "height_architecture": 94.5,
+            "height_architecture_formatted": 94.5,
+            "height_architecture_ft_formatted": "310",
+            "id": 11135,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Torre del Mall del Centro",
+            "name_linked": "<a href='/building/torre-del-mall-del-centro/11135' target='_blank'>Torre del Mall del Centro</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2007,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/torre-del-mall-del-centro/11135"
+        }
+    ]
+}

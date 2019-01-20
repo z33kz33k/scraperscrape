@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11083, "url": "/building/allison-tower/11083", "name": "Allison Tower", "status": "COM", "height_architecture": 133.81, "longitude": -95.452606, "latitude": 30.16054, "rank": 1, "name_linked": "<a href='/building/allison-tower/11083' target='_blank'>Allison Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1697, "country_locode": "US", "country_slug": "united-states", "city_locode": "THW", "city": "The Woodlands", "city_slug": "the-woodlands", "height_architecture_formatted": 133.8, "height_architecture_ft_formatted": "439", "floors_above": 32, "completed": 2002, "start": 1999, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "The Woodlands",
+            "city_id": 1697,
+            "city_locode": "THW",
+            "city_slug": "the-woodlands",
+            "completed": 2002,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 32,
+            "functions": "office",
+            "height_architecture": 133.81,
+            "height_architecture_formatted": 133.8,
+            "height_architecture_ft_formatted": "439",
+            "id": 11083,
+            "image": "",
+            "latitude": 30.16054,
+            "longitude": -95.452606,
+            "name": "Allison Tower",
+            "name_linked": "<a href='/building/allison-tower/11083' target='_blank'>Allison Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1999,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/allison-tower/11083"
+        }
+    ]
+}

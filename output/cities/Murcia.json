@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9294, "url": "/building/torre-norte/9294", "name": "Torre Norte", "status": "UC", "height_architecture": 100, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/torre-norte/9294' target='_blank'>Torre Norte</a>", "country_id": 51, "country_chinese": "", "city_id": 904, "country_locode": "ES", "country_slug": "spain", "city_locode": "MJV", "city": "Murcia", "city_slug": "murcia", "height_architecture_formatted": 100, "height_architecture_ft_formatted": "328", "floors_above": 22, "completed": "-", "start": 2010, "structural_material": "", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Murcia",
+            "city_id": 904,
+            "city_locode": "MJV",
+            "city_slug": "murcia",
+            "completed": "-",
+            "country_chinese": "",
+            "country_id": 51,
+            "country_locode": "ES",
+            "country_slug": "spain",
+            "floors_above": 22,
+            "functions": "hotel / office",
+            "height_architecture": 100,
+            "height_architecture_formatted": 100,
+            "height_architecture_ft_formatted": "328",
+            "id": 9294,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Torre Norte",
+            "name_linked": "<a href='/building/torre-norte/9294' target='_blank'>Torre Norte</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2010,
+            "status": "UC",
+            "structural_material": "",
+            "url": "/building/torre-norte/9294"
+        }
+    ]
+}

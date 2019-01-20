@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 14955, "url": "/building/smaacuteratorg-office-tower/14955", "name": "Sm&aacute;ratorg Office Tower", "status": "COM", "height_architecture": 77.6, "longitude": -21.87991, "latitude": 64.102608, "rank": 1, "name_linked": "<a href='/building/smaacuteratorg-office-tower/14955' target='_blank'>Sm&aacute;ratorg Office Tower</a>", "country_id": 78, "country_chinese": "", "city_id": 1006, "country_locode": "IS", "country_slug": "iceland", "city_locode": "KOV", "city": "Kopavogur", "city_slug": "kopavogur", "height_architecture_formatted": 77.6, "height_architecture_ft_formatted": "255", "floors_above": 20, "completed": 2007, "start": 2006, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Kopavogur",
+            "city_id": 1006,
+            "city_locode": "KOV",
+            "city_slug": "kopavogur",
+            "completed": 2007,
+            "country_chinese": "",
+            "country_id": 78,
+            "country_locode": "IS",
+            "country_slug": "iceland",
+            "floors_above": 20,
+            "functions": "office",
+            "height_architecture": 77.6,
+            "height_architecture_formatted": 77.6,
+            "height_architecture_ft_formatted": "255",
+            "id": 14955,
+            "image": "",
+            "latitude": 64.102608,
+            "longitude": -21.87991,
+            "name": "Sm&aacute;ratorg Office Tower",
+            "name_linked": "<a href='/building/smaacuteratorg-office-tower/14955' target='_blank'>Sm&aacute;ratorg Office Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2006,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/smaacuteratorg-office-tower/14955"
+        }
+    ]
+}

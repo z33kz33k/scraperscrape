@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9765, "url": "/building/torre-gubernamental/9765", "name": "Torre Gubernamental", "status": "COM", "height_architecture": 132.4, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/torre-gubernamental/9765' target='_blank'>Torre Gubernamental</a>", "country_id": 111, "country_chinese": "", "city_id": 1108, "country_locode": "MX", "country_slug": "mexico", "city_locode": "CVM", "city": "Ciudad Victoria", "city_slug": "ciudad-victoria", "height_architecture_formatted": 132.4, "height_architecture_ft_formatted": "434", "floors_above": 25, "completed": 2010, "start": 2009, "structural_material": "composite", "functions": "government", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Ciudad Victoria",
+            "city_id": 1108,
+            "city_locode": "CVM",
+            "city_slug": "ciudad-victoria",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 111,
+            "country_locode": "MX",
+            "country_slug": "mexico",
+            "floors_above": 25,
+            "functions": "government",
+            "height_architecture": 132.4,
+            "height_architecture_formatted": 132.4,
+            "height_architecture_ft_formatted": "434",
+            "id": 9765,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Torre Gubernamental",
+            "name_linked": "<a href='/building/torre-gubernamental/9765' target='_blank'>Torre Gubernamental</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2009,
+            "status": "COM",
+            "structural_material": "composite",
+            "url": "/building/torre-gubernamental/9765"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 15318, "url": "/building/two-pierce-place/15318", "name": "Two Pierce Place", "status": "COM", "height_architecture": 120.4, "longitude": -88.014992, "latitude": 41.987282, "rank": 1, "name_linked": "<a href='/building/two-pierce-place/15318' target='_blank'>Two Pierce Place</a>", "country_id": 163, "country_chinese": "", "city_id": 1603, "country_locode": "US", "country_slug": "united-states", "city_locode": "ITS", "city": "Itasca", "city_slug": "itasca", "height_architecture_formatted": 120.4, "height_architecture_ft_formatted": "395", "floors_above": 26, "completed": 1991, "start": "-", "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Itasca",
+            "city_id": 1603,
+            "city_locode": "ITS",
+            "city_slug": "itasca",
+            "completed": 1991,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 26,
+            "functions": "office",
+            "height_architecture": 120.4,
+            "height_architecture_formatted": 120.4,
+            "height_architecture_ft_formatted": "395",
+            "id": 15318,
+            "image": "",
+            "latitude": 41.987282,
+            "longitude": -88.014992,
+            "name": "Two Pierce Place",
+            "name_linked": "<a href='/building/two-pierce-place/15318' target='_blank'>Two Pierce Place</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/two-pierce-place/15318"
+        }
+    ]
+}

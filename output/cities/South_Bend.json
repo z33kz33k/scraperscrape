@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9772, "url": "/building/chase-tower/9772", "name": "Chase Tower", "status": "COM", "height_architecture": 101.2, "longitude": -86.252388, "latitude": 41.676609, "rank": 1, "name_linked": "<a href='/building/chase-tower/9772' target='_blank'>Chase Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1679, "country_locode": "US", "country_slug": "united-states", "city_locode": "SBN", "city": "South Bend", "city_slug": "south-bend", "height_architecture_formatted": 101.2, "height_architecture_ft_formatted": "332", "floors_above": 25, "completed": 1971, "start": "-", "structural_material": "", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "South Bend",
+            "city_id": 1679,
+            "city_locode": "SBN",
+            "city_slug": "south-bend",
+            "completed": 1971,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 25,
+            "functions": "hotel / office",
+            "height_architecture": 101.2,
+            "height_architecture_formatted": 101.2,
+            "height_architecture_ft_formatted": "332",
+            "id": 9772,
+            "image": "",
+            "latitude": 41.676609,
+            "longitude": -86.252388,
+            "name": "Chase Tower",
+            "name_linked": "<a href='/building/chase-tower/9772' target='_blank'>Chase Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/chase-tower/9772"
+        }
+    ]
+}

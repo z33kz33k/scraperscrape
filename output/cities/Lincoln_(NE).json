@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9741, "url": "/building/nebraska-state-capitol/9741", "name": "Nebraska State Capitol", "status": "COM", "height_architecture": 121.21, "longitude": -96.699707, "latitude": 40.80806, "rank": 1, "name_linked": "<a href='/building/nebraska-state-capitol/9741' target='_blank'>Nebraska State Capitol</a>", "country_id": 163, "country_chinese": "", "city_id": 1617, "country_locode": "US", "country_slug": "united-states", "city_locode": "LNK", "city": "Lincoln (NE)", "city_slug": "lincoln-ne", "height_architecture_formatted": 121.2, "height_architecture_ft_formatted": "398", "floors_above": 22, "completed": 1932, "start": 1922, "structural_material": "steel", "functions": "government", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Lincoln (NE)",
+            "city_id": 1617,
+            "city_locode": "LNK",
+            "city_slug": "lincoln-ne",
+            "completed": 1932,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 22,
+            "functions": "government",
+            "height_architecture": 121.21,
+            "height_architecture_formatted": 121.2,
+            "height_architecture_ft_formatted": "398",
+            "id": 9741,
+            "image": "",
+            "latitude": 40.80806,
+            "longitude": -96.699707,
+            "name": "Nebraska State Capitol",
+            "name_linked": "<a href='/building/nebraska-state-capitol/9741' target='_blank'>Nebraska State Capitol</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1922,
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/nebraska-state-capitol/9741"
+        }
+    ]
+}

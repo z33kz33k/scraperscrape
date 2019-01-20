@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 22851, "url": "/building/altitude-tower/22851", "name": "Altitude Tower", "status": "COM", "height_architecture": 80, "longitude": 150.909607, "latitude": -33.766689, "rank": 1, "name_linked": "<a href='/building/altitude-tower/22851' target='_blank'>Altitude Tower</a>", "country_id": 11, "country_chinese": "", "city_id": 2358, "country_locode": "AU", "country_slug": "australia", "city_locode": "BLC", "city": "Blacktown", "city_slug": "blacktown", "height_architecture_formatted": 80, "height_architecture_ft_formatted": "262", "floors_above": 24, "completed": 2018, "start": 2015, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Blacktown",
+            "city_id": 2358,
+            "city_locode": "BLC",
+            "city_slug": "blacktown",
+            "completed": 2018,
+            "country_chinese": "",
+            "country_id": 11,
+            "country_locode": "AU",
+            "country_slug": "australia",
+            "floors_above": 24,
+            "functions": "residential",
+            "height_architecture": 80,
+            "height_architecture_formatted": 80,
+            "height_architecture_ft_formatted": "262",
+            "id": 22851,
+            "image": "",
+            "latitude": -33.766689,
+            "longitude": 150.909607,
+            "name": "Altitude Tower",
+            "name_linked": "<a href='/building/altitude-tower/22851' target='_blank'>Altitude Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2015,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/altitude-tower/22851"
+        }
+    ]
+}

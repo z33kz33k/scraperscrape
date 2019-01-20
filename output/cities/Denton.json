@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 10887, "url": "/building/john-a-guinn-hall/10887", "name": "John A. Guinn Hall", "status": "COM", "height_architecture": 82.6, "longitude": -97.128578, "latitude": 33.23, "rank": 1, "name_linked": "<a href='/building/john-a-guinn-hall/10887' target='_blank'>John A. Guinn Hall</a>", "country_id": 163, "country_chinese": "", "city_id": 1558, "country_locode": "US", "country_slug": "united-states", "city_locode": "DTN", "city": "Denton", "city_slug": "denton", "height_architecture_formatted": 82.6, "height_architecture_ft_formatted": "271", "floors_above": 24, "completed": 1967, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Denton",
+            "city_id": 1558,
+            "city_locode": "DTN",
+            "city_slug": "denton",
+            "completed": 1967,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 24,
+            "functions": "residential",
+            "height_architecture": 82.6,
+            "height_architecture_formatted": 82.6,
+            "height_architecture_ft_formatted": "271",
+            "id": 10887,
+            "image": "",
+            "latitude": 33.23,
+            "longitude": -97.128578,
+            "name": "John A. Guinn Hall",
+            "name_linked": "<a href='/building/john-a-guinn-hall/10887' target='_blank'>John A. Guinn Hall</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/john-a-guinn-hall/10887"
+        }
+    ]
+}

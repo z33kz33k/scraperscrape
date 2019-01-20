@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4323, "url": "/building/royal-garden/4323", "name": "Royal Garden", "status": "COM", "height_architecture": 140, "longitude": -51.94252, "latitude": -23.42524, "rank": 1, "name_linked": "<a href='/building/royal-garden/4323' target='_blank'>Royal Garden</a>", "country_id": 22, "country_chinese": "", "city_id": 694, "country_locode": "BR", "country_slug": "brazil", "city_locode": "MGF", "city": "Maringa", "city_slug": "maringa", "height_architecture_formatted": 140, "height_architecture_ft_formatted": "459", "floors_above": 39, "completed": 1991, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Maringa",
+            "city_id": 694,
+            "city_locode": "MGF",
+            "city_slug": "maringa",
+            "completed": 1991,
+            "country_chinese": "",
+            "country_id": 22,
+            "country_locode": "BR",
+            "country_slug": "brazil",
+            "floors_above": 39,
+            "functions": "residential",
+            "height_architecture": 140,
+            "height_architecture_formatted": 140,
+            "height_architecture_ft_formatted": "459",
+            "id": 4323,
+            "image": "",
+            "latitude": -23.42524,
+            "longitude": -51.94252,
+            "name": "Royal Garden",
+            "name_linked": "<a href='/building/royal-garden/4323' target='_blank'>Royal Garden</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/royal-garden/4323"
+        }
+    ]
+}

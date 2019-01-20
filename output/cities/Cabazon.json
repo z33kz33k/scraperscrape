@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 15441, "url": "/building/morongo-casino-tower/15441", "name": "Morongo Casino Tower", "status": "COM", "height_architecture": 101, "longitude": -116.80024, "latitude": 33.922089, "rank": 1, "name_linked": "<a href='/building/morongo-casino-tower/15441' target='_blank'>Morongo Casino Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1541, "country_locode": "US", "country_slug": "united-states", "city_locode": "CJB", "city": "Cabazon", "city_slug": "cabazon", "height_architecture_formatted": 101, "height_architecture_ft_formatted": "331", "floors_above": 27, "completed": 2004, "start": "-", "structural_material": "", "functions": "hotel / casino", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Cabazon",
+            "city_id": 1541,
+            "city_locode": "CJB",
+            "city_slug": "cabazon",
+            "completed": 2004,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 27,
+            "functions": "hotel / casino",
+            "height_architecture": 101,
+            "height_architecture_formatted": 101,
+            "height_architecture_ft_formatted": "331",
+            "id": 15441,
+            "image": "",
+            "latitude": 33.922089,
+            "longitude": -116.80024,
+            "name": "Morongo Casino Tower",
+            "name_linked": "<a href='/building/morongo-casino-tower/15441' target='_blank'>Morongo Casino Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/morongo-casino-tower/15441"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 17995, "url": "/building/menara-tun-mustapha/17995", "name": "Menara Tun Mustapha", "status": "COM", "height_architecture": 122, "longitude": 116.10965, "latitude": 6.01737, "rank": 1, "name_linked": "<a href='/building/menara-tun-mustapha/17995' target='_blank'>Menara Tun Mustapha</a>", "country_id": 112, "country_chinese": "", "city_id": 2236, "country_locode": "MY", "country_slug": "malaysia", "city_locode": "BKI", "city": "Kota Kinabalu, Sabah", "city_slug": "kota-kinabalu-sabah", "height_architecture_formatted": 122, "height_architecture_ft_formatted": "400", "floors_above": 30, "completed": 1977, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Kota Kinabalu, Sabah",
+            "city_id": 2236,
+            "city_locode": "BKI",
+            "city_slug": "kota-kinabalu-sabah",
+            "completed": 1977,
+            "country_chinese": "",
+            "country_id": 112,
+            "country_locode": "MY",
+            "country_slug": "malaysia",
+            "floors_above": 30,
+            "functions": "office",
+            "height_architecture": 122,
+            "height_architecture_formatted": 122,
+            "height_architecture_ft_formatted": "400",
+            "id": 17995,
+            "image": "",
+            "latitude": 6.01737,
+            "longitude": 116.10965,
+            "name": "Menara Tun Mustapha",
+            "name_linked": "<a href='/building/menara-tun-mustapha/17995' target='_blank'>Menara Tun Mustapha</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/menara-tun-mustapha/17995"
+        }
+    ]
+}

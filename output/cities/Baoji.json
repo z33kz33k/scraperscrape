@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 24947, "url": "/building/baoji-ifc/24947", "name": "Baoji IFC", "status": "COM", "height_architecture": 203.2, "longitude": 107.191978, "latitude": 34.361549, "rank": 1, "name_linked": "<a href='/building/baoji-ifc/24947' target='_blank'>Baoji IFC</a>", "country_id": 34, "country_chinese": "", "city_id": 2419, "country_locode": "CN", "country_slug": "china", "city_locode": "BOJ", "city": "Baoji", "city_slug": "baoji", "height_architecture_formatted": 203.2, "height_architecture_ft_formatted": "667", "floors_above": 41, "completed": 2017, "start": "-", "structural_material": "composite", "functions": "office / hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Baoji",
+            "city_id": 2419,
+            "city_locode": "BOJ",
+            "city_slug": "baoji",
+            "completed": 2017,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 41,
+            "functions": "office / hotel",
+            "height_architecture": 203.2,
+            "height_architecture_formatted": 203.2,
+            "height_architecture_ft_formatted": "667",
+            "id": 24947,
+            "image": "",
+            "latitude": 34.361549,
+            "longitude": 107.191978,
+            "name": "Baoji IFC",
+            "name_linked": "<a href='/building/baoji-ifc/24947' target='_blank'>Baoji IFC</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "composite",
+            "url": "/building/baoji-ifc/24947"
+        }
+    ]
+}

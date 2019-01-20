@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 13018, "url": "/building/baiguan-plaza/13018", "name": "Baiguan Plaza", "status": "COM", "height_architecture": 207, "longitude": 120.84597, "latitude": 30.03664, "rank": 1, "name_linked": "<a href='/building/baiguan-plaza/13018' target='_blank'>Baiguan Plaza</a>", "country_id": 34, "country_chinese": "", "city_id": 794, "country_locode": "CN", "country_slug": "china", "city_locode": "SGU", "city": "Shangyu", "city_slug": "shangyu", "height_architecture_formatted": 207, "height_architecture_ft_formatted": "679", "floors_above": 50, "completed": 2012, "start": 2008, "structural_material": "concrete", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Shangyu",
+            "city_id": 794,
+            "city_locode": "SGU",
+            "city_slug": "shangyu",
+            "completed": 2012,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 50,
+            "functions": "hotel / office",
+            "height_architecture": 207,
+            "height_architecture_formatted": 207,
+            "height_architecture_ft_formatted": "679",
+            "id": 13018,
+            "image": "",
+            "latitude": 30.03664,
+            "longitude": 120.84597,
+            "name": "Baiguan Plaza",
+            "name_linked": "<a href='/building/baiguan-plaza/13018' target='_blank'>Baiguan Plaza</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/baiguan-plaza/13018"
+        }
+    ]
+}

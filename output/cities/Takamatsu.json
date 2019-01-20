@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 3917, "url": "/building/symbol-tower/3917", "name": "Symbol Tower", "status": "COM", "height_architecture": 151.3, "longitude": 134.046692, "latitude": 34.352379, "rank": 1, "name_linked": "<a href='/building/symbol-tower/3917' target='_blank'>Symbol Tower</a>", "country_id": 82, "country_chinese": "", "city_id": 1048, "country_locode": "JP", "country_slug": "japan", "city_locode": "TAK", "city": "Takamatsu", "city_slug": "takamatsu", "height_architecture_formatted": 151.3, "height_architecture_ft_formatted": "496", "floors_above": 30, "completed": 2003, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Takamatsu",
+            "city_id": 1048,
+            "city_locode": "TAK",
+            "city_slug": "takamatsu",
+            "completed": 2003,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 30,
+            "functions": "office",
+            "height_architecture": 151.3,
+            "height_architecture_formatted": 151.3,
+            "height_architecture_ft_formatted": "496",
+            "id": 3917,
+            "image": "",
+            "latitude": 34.352379,
+            "longitude": 134.046692,
+            "name": "Symbol Tower",
+            "name_linked": "<a href='/building/symbol-tower/3917' target='_blank'>Symbol Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/symbol-tower/3917"
+        }
+    ]
+}

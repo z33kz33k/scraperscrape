@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 33583, "url": "/building/dharumavantha-hospital/33583", "name": "Dharumavantha Hospital", "status": "COM", "height_architecture": 100, "longitude": 73.501198, "latitude": 4.172777, "rank": 1, "name_linked": "<a href='/building/dharumavantha-hospital/33583' target='_blank'>Dharumavantha Hospital</a>", "country_id": 109, "country_chinese": "", "city_id": 1106, "country_locode": "MV", "country_slug": "maldives", "city_locode": "", "city": "Male", "city_slug": "male", "height_architecture_formatted": 100, "height_architecture_ft_formatted": "328", "floors_above": 25, "completed": 2018, "start": "-", "structural_material": "concrete", "functions": "hospital", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Male",
+            "city_id": 1106,
+            "city_locode": "",
+            "city_slug": "male",
+            "completed": 2018,
+            "country_chinese": "",
+            "country_id": 109,
+            "country_locode": "MV",
+            "country_slug": "maldives",
+            "floors_above": 25,
+            "functions": "hospital",
+            "height_architecture": 100,
+            "height_architecture_formatted": 100,
+            "height_architecture_ft_formatted": "328",
+            "id": 33583,
+            "image": "",
+            "latitude": 4.172777,
+            "longitude": 73.501198,
+            "name": "Dharumavantha Hospital",
+            "name_linked": "<a href='/building/dharumavantha-hospital/33583' target='_blank'>Dharumavantha Hospital</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/dharumavantha-hospital/33583"
+        }
+    ]
+}

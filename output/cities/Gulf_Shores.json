@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 13205, "url": "/building/island-tower/13205", "name": "Island Tower", "status": "COM", "height_architecture": 79.25, "longitude": -87.697906, "latitude": 30.24634, "rank": 1, "name_linked": "<a href='/building/island-tower/13205' target='_blank'>Island Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1583, "country_locode": "US", "country_slug": "united-states", "city_locode": "GUF", "city": "Gulf Shores", "city_slug": "gulf-shores", "height_architecture_formatted": 79.3, "height_architecture_ft_formatted": "260", "floors_above": 26, "completed": 2005, "start": 2003, "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Gulf Shores",
+            "city_id": 1583,
+            "city_locode": "GUF",
+            "city_slug": "gulf-shores",
+            "completed": 2005,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 26,
+            "functions": "residential",
+            "height_architecture": 79.25,
+            "height_architecture_formatted": 79.3,
+            "height_architecture_ft_formatted": "260",
+            "id": 13205,
+            "image": "",
+            "latitude": 30.24634,
+            "longitude": -87.697906,
+            "name": "Island Tower",
+            "name_linked": "<a href='/building/island-tower/13205' target='_blank'>Island Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2003,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/island-tower/13205"
+        }
+    ]
+}

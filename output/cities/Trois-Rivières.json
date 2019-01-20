@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 30734, "url": "/building/159sw-tower/30734", "name": "159SW Tower", "status": "UC", "height_architecture": 118.87, "longitude": -79.374901, "latitude": 43.666672, "rank": 1, "name_linked": "<a href='/building/159sw-tower/30734' target='_blank'>159SW Tower</a>", "country_id": 27, "country_chinese": "", "city_id": 1986, "country_locode": "CA", "country_slug": "canada", "city_locode": "", "city": "Trois-Rivi\u00e8res", "city_slug": "trois-rivieres", "height_architecture_formatted": 118.9, "height_architecture_ft_formatted": "390", "floors_above": 36, "completed": 2019, "start": 2017, "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Trois-Rivi\u00e8res",
+            "city_id": 1986,
+            "city_locode": "",
+            "city_slug": "trois-rivieres",
+            "completed": 2019,
+            "country_chinese": "",
+            "country_id": 27,
+            "country_locode": "CA",
+            "country_slug": "canada",
+            "floors_above": 36,
+            "functions": "residential",
+            "height_architecture": 118.87,
+            "height_architecture_formatted": 118.9,
+            "height_architecture_ft_formatted": "390",
+            "id": 30734,
+            "image": "",
+            "latitude": 43.666672,
+            "longitude": -79.374901,
+            "name": "159SW Tower",
+            "name_linked": "<a href='/building/159sw-tower/30734' target='_blank'>159SW Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2017,
+            "status": "UC",
+            "structural_material": "",
+            "url": "/building/159sw-tower/30734"
+        }
+    ]
+}

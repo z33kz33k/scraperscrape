@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10074, "url": "/building/city-tower/10074", "name": "City Tower", "status": "COM", "height_architecture": 92.05, "longitude": -117.893768, "latitude": 33.78714, "rank": 1, "name_linked": "<a href='/building/city-tower/10074' target='_blank'>City Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1607, "country_locode": "US", "country_slug": "united-states", "city_locode": "JOR", "city": "Orange", "city_slug": "orange", "height_architecture_formatted": 92.1, "height_architecture_ft_formatted": "302", "floors_above": 21, "completed": 1988, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Orange",
+            "city_id": 1607,
+            "city_locode": "JOR",
+            "city_slug": "orange",
+            "completed": 1988,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 92.05,
+            "height_architecture_formatted": 92.1,
+            "height_architecture_ft_formatted": "302",
+            "id": 10074,
+            "image": "",
+            "latitude": 33.78714,
+            "longitude": -117.893768,
+            "name": "City Tower",
+            "name_linked": "<a href='/building/city-tower/10074' target='_blank'>City Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/city-tower/10074"
+        }
+    ]
+}

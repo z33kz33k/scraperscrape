@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9641, "url": "/building/club-premier/9641", "name": "Club Premier", "status": "COM", "height_architecture": 101, "longitude": -90.523331, "latitude": 14.5713, "rank": 1, "name_linked": "<a href='/building/club-premier/9641' target='_blank'>Club Premier</a>", "country_id": 65, "country_chinese": "", "city_id": 963, "country_locode": "GT", "country_slug": "guatemala", "city_locode": "GUA", "city": "Guatemala City", "city_slug": "guatemala-city", "height_architecture_formatted": 101, "height_architecture_ft_formatted": "331", "floors_above": 31, "completed": 1999, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Guatemala City",
+            "city_id": 963,
+            "city_locode": "GUA",
+            "city_slug": "guatemala-city",
+            "completed": 1999,
+            "country_chinese": "",
+            "country_id": 65,
+            "country_locode": "GT",
+            "country_slug": "guatemala",
+            "floors_above": 31,
+            "functions": "residential",
+            "height_architecture": 101,
+            "height_architecture_formatted": 101,
+            "height_architecture_ft_formatted": "331",
+            "id": 9641,
+            "image": "",
+            "latitude": 14.5713,
+            "longitude": -90.523331,
+            "name": "Club Premier",
+            "name_linked": "<a href='/building/club-premier/9641' target='_blank'>Club Premier</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/club-premier/9641"
+        }
+    ]
+}

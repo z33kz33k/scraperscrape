@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 12809, "url": "/building/the-st-moritz/12809", "name": "The St. Moritz", "status": "COM", "height_architecture": 82.6, "longitude": -73.99028, "latitude": 40.810909, "rank": 1, "name_linked": "<a href='/building/the-st-moritz/12809' target='_blank'>The St. Moritz</a>", "country_id": 163, "country_chinese": "", "city_id": 1563, "country_locode": "US", "country_slug": "united-states", "city_locode": "EGW", "city": "Edgewater", "city_slug": "edgewater", "height_architecture_formatted": 82.6, "height_architecture_ft_formatted": "271", "floors_above": 25, "completed": 2005, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Edgewater",
+            "city_id": 1563,
+            "city_locode": "EGW",
+            "city_slug": "edgewater",
+            "completed": 2005,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 25,
+            "functions": "residential",
+            "height_architecture": 82.6,
+            "height_architecture_formatted": 82.6,
+            "height_architecture_ft_formatted": "271",
+            "id": 12809,
+            "image": "",
+            "latitude": 40.810909,
+            "longitude": -73.99028,
+            "name": "The St. Moritz",
+            "name_linked": "<a href='/building/the-st-moritz/12809' target='_blank'>The St. Moritz</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/the-st-moritz/12809"
+        }
+    ]
+}

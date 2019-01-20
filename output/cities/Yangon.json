@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 9296, "url": "/building/sule-shangri-la-hotel/9296", "name": "Sule Shangri-la Hotel", "status": "COM", "height_architecture": 80.5, "longitude": 96.15863, "latitude": 16.778721, "rank": 1, "name_linked": "<a href='/building/sule-shangri-la-hotel/9296' target='_blank'>Sule Shangri-la Hotel</a>", "country_id": 104, "country_chinese": "", "city_id": 1100, "country_locode": "MM", "country_slug": "myanmar", "city_locode": "RGN", "city": "Yangon", "city_slug": "yangon", "height_architecture_formatted": 80.5, "height_architecture_ft_formatted": "264", "floors_above": 22, "completed": 1996, "start": "-", "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Yangon",
+            "city_id": 1100,
+            "city_locode": "RGN",
+            "city_slug": "yangon",
+            "completed": 1996,
+            "country_chinese": "",
+            "country_id": 104,
+            "country_locode": "MM",
+            "country_slug": "myanmar",
+            "floors_above": 22,
+            "functions": "hotel",
+            "height_architecture": 80.5,
+            "height_architecture_formatted": 80.5,
+            "height_architecture_ft_formatted": "264",
+            "id": 9296,
+            "image": "",
+            "latitude": 16.778721,
+            "longitude": 96.15863,
+            "name": "Sule Shangri-la Hotel",
+            "name_linked": "<a href='/building/sule-shangri-la-hotel/9296' target='_blank'>Sule Shangri-la Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/sule-shangri-la-hotel/9296"
+        }
+    ]
+}

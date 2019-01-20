@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 5044, "url": "/building/atrium-beach-mar/5044", "name": "Atrium Beach Mar", "status": "COM", "height_architecture": 102, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/atrium-beach-mar/5044' target='_blank'>Atrium Beach Mar</a>", "country_id": 51, "country_chinese": "", "city_id": 908, "country_locode": "ES", "country_slug": "spain", "city_locode": "VJY", "city": "Villajoyosa", "city_slug": "villajoyosa", "height_architecture_formatted": 102, "height_architecture_ft_formatted": "335", "floors_above": 28, "completed": 2002, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Villajoyosa",
+            "city_id": 908,
+            "city_locode": "VJY",
+            "city_slug": "villajoyosa",
+            "completed": 2002,
+            "country_chinese": "",
+            "country_id": 51,
+            "country_locode": "ES",
+            "country_slug": "spain",
+            "floors_above": 28,
+            "functions": "residential",
+            "height_architecture": 102,
+            "height_architecture_formatted": 102,
+            "height_architecture_ft_formatted": "335",
+            "id": 5044,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Atrium Beach Mar",
+            "name_linked": "<a href='/building/atrium-beach-mar/5044' target='_blank'>Atrium Beach Mar</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/atrium-beach-mar/5044"
+        }
+    ]
+}

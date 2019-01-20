@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 23754, "url": "/building/nassau-university-medical-center/23754", "name": "Nassau University Medical Center", "status": "COM", "height_architecture": 91.1, "longitude": -73.554062, "latitude": 40.72604, "rank": 1, "name_linked": "<a href='/building/nassau-university-medical-center/23754' target='_blank'>Nassau University Medical Center</a>", "country_id": 163, "country_chinese": "", "city_id": 2388, "country_locode": "US", "country_slug": "united-states", "city_locode": "HEP", "city": "Hempstead", "city_slug": "hempstead", "height_architecture_formatted": 91.1, "height_architecture_ft_formatted": "299", "floors_above": 19, "completed": 1974, "start": "-", "structural_material": "", "functions": "hospital", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Hempstead",
+            "city_id": 2388,
+            "city_locode": "HEP",
+            "city_slug": "hempstead",
+            "completed": 1974,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 19,
+            "functions": "hospital",
+            "height_architecture": 91.1,
+            "height_architecture_formatted": 91.1,
+            "height_architecture_ft_formatted": "299",
+            "id": 23754,
+            "image": "",
+            "latitude": 40.72604,
+            "longitude": -73.554062,
+            "name": "Nassau University Medical Center",
+            "name_linked": "<a href='/building/nassau-university-medical-center/23754' target='_blank'>Nassau University Medical Center</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/nassau-university-medical-center/23754"
+        }
+    ]
+}

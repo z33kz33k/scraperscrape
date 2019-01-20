@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 3747, "url": "/building/gunma-prefectural-government-building/3747", "name": "Gunma Prefectural Government Building", "status": "COM", "height_architecture": 153.8, "longitude": 139.060547, "latitude": 36.390839, "rank": 1, "name_linked": "<a href='/building/gunma-prefectural-government-building/3747' target='_blank'>Gunma Prefectural Government Building</a>", "country_id": 82, "country_chinese": "", "city_id": 1041, "country_locode": "JP", "country_slug": "japan", "city_locode": "MAE", "city": "Maebashi", "city_slug": "maebashi", "height_architecture_formatted": 153.8, "height_architecture_ft_formatted": "505", "floors_above": 33, "completed": 1999, "start": "-", "structural_material": "", "functions": "office / government", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Maebashi",
+            "city_id": 1041,
+            "city_locode": "MAE",
+            "city_slug": "maebashi",
+            "completed": 1999,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 33,
+            "functions": "office / government",
+            "height_architecture": 153.8,
+            "height_architecture_formatted": 153.8,
+            "height_architecture_ft_formatted": "505",
+            "id": 3747,
+            "image": "",
+            "latitude": 36.390839,
+            "longitude": 139.060547,
+            "name": "Gunma Prefectural Government Building",
+            "name_linked": "<a href='/building/gunma-prefectural-government-building/3747' target='_blank'>Gunma Prefectural Government Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/gunma-prefectural-government-building/3747"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 5849, "url": "/building/provinciehuis-noord-brabant/5849", "name": "Provinciehuis Noord Brabant", "status": "COM", "height_architecture": 101.06, "longitude": 5.33008, "latitude": 51.677952, "rank": 1, "name_linked": "<a href='/building/provinciehuis-noord-brabant/5849' target='_blank'>Provinciehuis Noord Brabant</a>", "country_id": 118, "country_chinese": "", "city_id": 1242, "country_locode": "NL", "country_slug": "netherlands", "city_locode": "HTB", "city": "Den Bosch", "city_slug": "den-bosch", "height_architecture_formatted": 101.1, "height_architecture_ft_formatted": "332", "floors_above": 23, "completed": 1971, "start": 1963, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Den Bosch",
+            "city_id": 1242,
+            "city_locode": "HTB",
+            "city_slug": "den-bosch",
+            "completed": 1971,
+            "country_chinese": "",
+            "country_id": 118,
+            "country_locode": "NL",
+            "country_slug": "netherlands",
+            "floors_above": 23,
+            "functions": "office",
+            "height_architecture": 101.06,
+            "height_architecture_formatted": 101.1,
+            "height_architecture_ft_formatted": "332",
+            "id": 5849,
+            "image": "",
+            "latitude": 51.677952,
+            "longitude": 5.33008,
+            "name": "Provinciehuis Noord Brabant",
+            "name_linked": "<a href='/building/provinciehuis-noord-brabant/5849' target='_blank'>Provinciehuis Noord Brabant</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1963,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/provinciehuis-noord-brabant/5849"
+        }
+    ]
+}

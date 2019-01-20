@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9660, "url": "/building/kampala-hilton/9660", "name": "Kampala Hilton", "status": "COM", "height_architecture": 90, "longitude": 32.578571, "latitude": 0.32363, "rank": 1, "name_linked": "<a href='/building/kampala-hilton/9660' target='_blank'>Kampala Hilton</a>", "country_id": 162, "country_chinese": "", "city_id": 1495, "country_locode": "UG", "country_slug": "uganda", "city_locode": "KLA", "city": "Kampala", "city_slug": "kampala", "height_architecture_formatted": 90, "height_architecture_ft_formatted": "295", "floors_above": 24, "completed": 2013, "start": 2006, "structural_material": "concrete", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Kampala",
+            "city_id": 1495,
+            "city_locode": "KLA",
+            "city_slug": "kampala",
+            "completed": 2013,
+            "country_chinese": "",
+            "country_id": 162,
+            "country_locode": "UG",
+            "country_slug": "uganda",
+            "floors_above": 24,
+            "functions": "hotel",
+            "height_architecture": 90,
+            "height_architecture_formatted": 90,
+            "height_architecture_ft_formatted": "295",
+            "id": 9660,
+            "image": "",
+            "latitude": 0.32363,
+            "longitude": 32.578571,
+            "name": "Kampala Hilton",
+            "name_linked": "<a href='/building/kampala-hilton/9660' target='_blank'>Kampala Hilton</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2006,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/kampala-hilton/9660"
+        }
+    ]
+}

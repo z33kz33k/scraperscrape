@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 14879, "url": "/building/jiujiang-ifc/14879", "name": "Jiujiang IFC", "status": "UC", "height_architecture": 333, "longitude": 115.952797, "latitude": 29.6821, "rank": 1, "name_linked": "<a href='/building/jiujiang-ifc/14879' target='_blank'>Jiujiang IFC</a>", "country_id": 34, "country_chinese": "", "city_id": 773, "country_locode": "CN", "country_slug": "china", "city_locode": "JJG", "city": "Jiujiang", "city_slug": "jiujiang", "height_architecture_formatted": 333, "height_architecture_ft_formatted": "1,093", "floors_above": 66, "completed": 2020, "start": 2015, "structural_material": "composite", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Jiujiang",
+            "city_id": 773,
+            "city_locode": "JJG",
+            "city_slug": "jiujiang",
+            "completed": 2020,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 66,
+            "functions": "office",
+            "height_architecture": 333,
+            "height_architecture_formatted": 333,
+            "height_architecture_ft_formatted": "1,093",
+            "id": 14879,
+            "image": "",
+            "latitude": 29.6821,
+            "longitude": 115.952797,
+            "name": "Jiujiang IFC",
+            "name_linked": "<a href='/building/jiujiang-ifc/14879' target='_blank'>Jiujiang IFC</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2015,
+            "status": "UC",
+            "structural_material": "composite",
+            "url": "/building/jiujiang-ifc/14879"
+        }
+    ]
+}

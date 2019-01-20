@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 29702, "url": "/building/huangshan-mountain-village-6/29702", "name": "Huangshan Mountain Village 6", "status": "COM", "height_architecture": 81.6, "longitude": 117.999611, "latitude": 30.334625, "rank": 1, "name_linked": "<a href='/building/huangshan-mountain-village-6/29702' target='_blank'>Huangshan Mountain Village 6</a>", "country_id": 34, "country_chinese": "", "city_id": 2675, "country_locode": "CN", "country_slug": "china", "city_locode": "HSH", "city": "Huangshan", "city_slug": "huangshan", "height_architecture_formatted": 81.6, "height_architecture_ft_formatted": "268", "floors_above": 22, "completed": 2017, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Huangshan",
+            "city_id": 2675,
+            "city_locode": "HSH",
+            "city_slug": "huangshan",
+            "completed": 2017,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 22,
+            "functions": "residential",
+            "height_architecture": 81.6,
+            "height_architecture_formatted": 81.6,
+            "height_architecture_ft_formatted": "268",
+            "id": 29702,
+            "image": "",
+            "latitude": 30.334625,
+            "longitude": 117.999611,
+            "name": "Huangshan Mountain Village 6",
+            "name_linked": "<a href='/building/huangshan-mountain-village-6/29702' target='_blank'>Huangshan Mountain Village 6</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/huangshan-mountain-village-6/29702"
+        }
+    ]
+}

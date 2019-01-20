@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11059, "url": "/building/endeavour-clear-lake/11059", "name": "Endeavour Clear Lake", "status": "COM", "height_architecture": 117.65, "longitude": -95.06237, "latitude": 29.56517, "rank": 1, "name_linked": "<a href='/building/endeavour-clear-lake/11059' target='_blank'>Endeavour Clear Lake</a>", "country_id": 163, "country_chinese": "", "city_id": 2820, "country_locode": "US", "country_slug": "united-states", "city_locode": "PAS", "city": "Pasadena-TX", "city_slug": "pasadena-tx", "height_architecture_formatted": 117.7, "height_architecture_ft_formatted": "386", "floors_above": 30, "completed": 2007, "start": 2006, "structural_material": "", "functions": "residential / hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Pasadena-TX",
+            "city_id": 2820,
+            "city_locode": "PAS",
+            "city_slug": "pasadena-tx",
+            "completed": 2007,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 30,
+            "functions": "residential / hotel",
+            "height_architecture": 117.65,
+            "height_architecture_formatted": 117.7,
+            "height_architecture_ft_formatted": "386",
+            "id": 11059,
+            "image": "",
+            "latitude": 29.56517,
+            "longitude": -95.06237,
+            "name": "Endeavour Clear Lake",
+            "name_linked": "<a href='/building/endeavour-clear-lake/11059' target='_blank'>Endeavour Clear Lake</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2006,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/endeavour-clear-lake/11059"
+        }
+    ]
+}

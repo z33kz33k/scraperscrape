@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9646, "url": "/building/sheraton-ishtar-hotel/9646", "name": "Sheraton Ishtar Hotel", "status": "COM", "height_architecture": 99, "longitude": 44.418839, "latitude": 33.313728, "rank": 1, "name_linked": "<a href='/building/sheraton-ishtar-hotel/9646' target='_blank'>Sheraton Ishtar Hotel</a>", "country_id": 76, "country_chinese": "", "city_id": 1000, "country_locode": "IQ", "country_slug": "iraq", "city_locode": "BGW", "city": "Baghdad", "city_slug": "baghdad", "height_architecture_formatted": 99, "height_architecture_ft_formatted": "325", "floors_above": 21, "completed": 1982, "start": "-", "structural_material": "concrete", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Baghdad",
+            "city_id": 1000,
+            "city_locode": "BGW",
+            "city_slug": "baghdad",
+            "completed": 1982,
+            "country_chinese": "",
+            "country_id": 76,
+            "country_locode": "IQ",
+            "country_slug": "iraq",
+            "floors_above": 21,
+            "functions": "hotel",
+            "height_architecture": 99,
+            "height_architecture_formatted": 99,
+            "height_architecture_ft_formatted": "325",
+            "id": 9646,
+            "image": "",
+            "latitude": 33.313728,
+            "longitude": 44.418839,
+            "name": "Sheraton Ishtar Hotel",
+            "name_linked": "<a href='/building/sheraton-ishtar-hotel/9646' target='_blank'>Sheraton Ishtar Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/sheraton-ishtar-hotel/9646"
+        }
+    ]
+}

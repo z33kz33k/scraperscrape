@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 29839, "url": "/building/candekova-23a/29839", "name": "\u010candekova 23a", "status": "COM", "height_architecture": 103, "longitude": 14.41486, "latitude": 45.339111, "rank": 1, "name_linked": "<a href='/building/candekova-23a/29839' target='_blank'>\u010candekova 23a</a>", "country_id": 69, "country_chinese": "", "city_id": 2688, "country_locode": "HR", "country_slug": "croatia", "city_locode": "RJK", "city": "Rijeka", "city_slug": "rijeka", "height_architecture_formatted": 103, "height_architecture_ft_formatted": "338", "floors_above": 28, "completed": 1977, "start": "-", "structural_material": "concrete/steel", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Rijeka",
+            "city_id": 2688,
+            "city_locode": "RJK",
+            "city_slug": "rijeka",
+            "completed": 1977,
+            "country_chinese": "",
+            "country_id": 69,
+            "country_locode": "HR",
+            "country_slug": "croatia",
+            "floors_above": 28,
+            "functions": "residential",
+            "height_architecture": 103,
+            "height_architecture_formatted": 103,
+            "height_architecture_ft_formatted": "338",
+            "id": 29839,
+            "image": "",
+            "latitude": 45.339111,
+            "longitude": 14.41486,
+            "name": "\u010candekova 23a",
+            "name_linked": "<a href='/building/candekova-23a/29839' target='_blank'>\u010candekova 23a</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete/steel",
+            "url": "/building/candekova-23a/29839"
+        }
+    ]
+}

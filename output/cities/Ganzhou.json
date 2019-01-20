@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10371, "url": "/building/harmony-clock-tower/10371", "name": "Harmony Clock Tower", "status": "COM", "height_architecture": 113, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/harmony-clock-tower/10371' target='_blank'>Harmony Clock Tower</a>", "country_id": 34, "country_chinese": "", "city_id": 761, "country_locode": "CN", "country_slug": "china", "city_locode": "GAZ", "city": "Ganzhou", "city_slug": "ganzhou", "height_architecture_formatted": 113, "height_architecture_ft_formatted": "371", "floors_above": "-", "completed": 2011, "start": "-", "structural_material": "", "functions": "observation / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Ganzhou",
+            "city_id": 761,
+            "city_locode": "GAZ",
+            "city_slug": "ganzhou",
+            "completed": 2011,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": "-",
+            "functions": "observation / office",
+            "height_architecture": 113,
+            "height_architecture_formatted": 113,
+            "height_architecture_ft_formatted": "371",
+            "id": 10371,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Harmony Clock Tower",
+            "name_linked": "<a href='/building/harmony-clock-tower/10371' target='_blank'>Harmony Clock Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/harmony-clock-tower/10371"
+        }
+    ]
+}

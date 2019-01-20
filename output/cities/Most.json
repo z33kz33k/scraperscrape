@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11188, "url": "/building/technical-services-shd/11188", "name": "Technical Services Shd", "status": "COM", "height_architecture": 86, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/technical-services-shd/11188' target='_blank'>Technical Services Shd</a>", "country_id": 40, "country_chinese": "", "city_id": 840, "country_locode": "CZ", "country_slug": "czech-republic", "city_locode": "MST", "city": "Most", "city_slug": "most", "height_architecture_formatted": 86, "height_architecture_ft_formatted": "282", "floors_above": 23, "completed": 1969, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Most",
+            "city_id": 840,
+            "city_locode": "MST",
+            "city_slug": "most",
+            "completed": 1969,
+            "country_chinese": "",
+            "country_id": 40,
+            "country_locode": "CZ",
+            "country_slug": "czech-republic",
+            "floors_above": 23,
+            "functions": "office",
+            "height_architecture": 86,
+            "height_architecture_formatted": 86,
+            "height_architecture_ft_formatted": "282",
+            "id": 11188,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Technical Services Shd",
+            "name_linked": "<a href='/building/technical-services-shd/11188' target='_blank'>Technical Services Shd</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/technical-services-shd/11188"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 28586, "url": "/building/aetna-sonnenschein-international-plaza/28586", "name": "Aetna Sonnenschein International Plaza", "status": "COM", "height_architecture": 206, "longitude": 119.526527, "latitude": 35.43399, "rank": 1, "name_linked": "<a href='/building/aetna-sonnenschein-international-plaza/28586' target='_blank'>Aetna Sonnenschein International Plaza</a>", "country_id": 34, "country_chinese": "", "city_id": 2588, "country_locode": "CN", "country_slug": "china", "city_locode": "RZH", "city": "Rizhao", "city_slug": "rizhao", "height_architecture_formatted": 206, "height_architecture_ft_formatted": "676", "floors_above": 47, "completed": 2018, "start": 2015, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Rizhao",
+            "city_id": 2588,
+            "city_locode": "RZH",
+            "city_slug": "rizhao",
+            "completed": 2018,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 47,
+            "functions": "office",
+            "height_architecture": 206,
+            "height_architecture_formatted": 206,
+            "height_architecture_ft_formatted": "676",
+            "id": 28586,
+            "image": "",
+            "latitude": 35.43399,
+            "longitude": 119.526527,
+            "name": "Aetna Sonnenschein International Plaza",
+            "name_linked": "<a href='/building/aetna-sonnenschein-international-plaza/28586' target='_blank'>Aetna Sonnenschein International Plaza</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2015,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/aetna-sonnenschein-international-plaza/28586"
+        }
+    ]
+}

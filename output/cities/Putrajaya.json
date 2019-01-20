@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 14285, "url": "/building/kementerian-pembangunan-wanita-keluarga-dan-masyarakat/14285", "name": "Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat", "status": "COM", "height_architecture": 171.8, "longitude": 101.680382, "latitude": 2.90233, "rank": 1, "name_linked": "<a href='/building/kementerian-pembangunan-wanita-keluarga-dan-masyarakat/14285' target='_blank'>Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat</a>", "country_id": 112, "country_chinese": "", "city_id": 1122, "country_locode": "MY", "country_slug": "malaysia", "city_locode": "PUT", "city": "Putrajaya", "city_slug": "putrajaya", "height_architecture_formatted": 171.8, "height_architecture_ft_formatted": "564", "floors_above": 39, "completed": 2011, "start": 2006, "structural_material": "concrete", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Putrajaya",
+            "city_id": 1122,
+            "city_locode": "PUT",
+            "city_slug": "putrajaya",
+            "completed": 2011,
+            "country_chinese": "",
+            "country_id": 112,
+            "country_locode": "MY",
+            "country_slug": "malaysia",
+            "floors_above": 39,
+            "functions": "hotel / office",
+            "height_architecture": 171.8,
+            "height_architecture_formatted": 171.8,
+            "height_architecture_ft_formatted": "564",
+            "id": 14285,
+            "image": "",
+            "latitude": 2.90233,
+            "longitude": 101.680382,
+            "name": "Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat",
+            "name_linked": "<a href='/building/kementerian-pembangunan-wanita-keluarga-dan-masyarakat/14285' target='_blank'>Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2006,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/kementerian-pembangunan-wanita-keluarga-dan-masyarakat/14285"
+        }
+    ]
+}

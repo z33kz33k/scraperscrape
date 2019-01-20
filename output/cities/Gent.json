@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9309, "url": "/building/mg-tower/9309", "name": "MG Tower", "status": "COM", "height_architecture": 118.43, "longitude": 3.68682, "latitude": 51.021351, "rank": 1, "name_linked": "<a href='/building/mg-tower/9309' target='_blank'>MG Tower</a>", "country_id": 16, "country_chinese": "", "city_id": 669, "country_locode": "BE", "country_slug": "belgium", "city_locode": "GNE", "city": "Gent", "city_slug": "gent", "height_architecture_formatted": 118.4, "height_architecture_ft_formatted": "389", "floors_above": 27, "completed": 2012, "start": 2010, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Gent",
+            "city_id": 669,
+            "city_locode": "GNE",
+            "city_slug": "gent",
+            "completed": 2012,
+            "country_chinese": "",
+            "country_id": 16,
+            "country_locode": "BE",
+            "country_slug": "belgium",
+            "floors_above": 27,
+            "functions": "office",
+            "height_architecture": 118.43,
+            "height_architecture_formatted": 118.4,
+            "height_architecture_ft_formatted": "389",
+            "id": 9309,
+            "image": "",
+            "latitude": 51.021351,
+            "longitude": 3.68682,
+            "name": "MG Tower",
+            "name_linked": "<a href='/building/mg-tower/9309' target='_blank'>MG Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2010,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/mg-tower/9309"
+        }
+    ]
+}

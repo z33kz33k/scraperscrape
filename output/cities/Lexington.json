@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9470, "url": "/building/lexington-financial-center/9470", "name": "Lexington Financial Center", "status": "COM", "height_architecture": 124.97, "longitude": -84.499069, "latitude": 38.047562, "rank": 1, "name_linked": "<a href='/building/lexington-financial-center/9470' target='_blank'>Lexington Financial Center</a>", "country_id": 163, "country_chinese": "", "city_id": 1614, "country_locode": "US", "country_slug": "united-states", "city_locode": "LEX", "city": "Lexington", "city_slug": "lexington", "height_architecture_formatted": 125, "height_architecture_ft_formatted": "410", "floors_above": 30, "completed": 1987, "start": "-", "structural_material": "steel", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Lexington",
+            "city_id": 1614,
+            "city_locode": "LEX",
+            "city_slug": "lexington",
+            "completed": 1987,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 30,
+            "functions": "office",
+            "height_architecture": 124.97,
+            "height_architecture_formatted": 125,
+            "height_architecture_ft_formatted": "410",
+            "id": 9470,
+            "image": "",
+            "latitude": 38.047562,
+            "longitude": -84.499069,
+            "name": "Lexington Financial Center",
+            "name_linked": "<a href='/building/lexington-financial-center/9470' target='_blank'>Lexington Financial Center</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/lexington-financial-center/9470"
+        }
+    ]
+}

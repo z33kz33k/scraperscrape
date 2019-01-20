@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 786, "url": "/building/sky-tower-b2/786", "name": "Sky Tower B2", "status": "COM", "height_architecture": 212, "longitude": 17.01898, "latitude": 51.094681, "rank": 1, "name_linked": "<a href='/building/sky-tower-b2/786' target='_blank'>Sky Tower B2</a>", "country_id": 129, "country_chinese": "", "city_id": 1418, "country_locode": "PL", "country_slug": "poland", "city_locode": "WRO", "city": "Wroclaw", "city_slug": "wroclaw", "height_architecture_formatted": 212, "height_architecture_ft_formatted": "696", "floors_above": 50, "completed": 2013, "start": 2007, "structural_material": "concrete", "functions": "residential / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Wroclaw",
+            "city_id": 1418,
+            "city_locode": "WRO",
+            "city_slug": "wroclaw",
+            "completed": 2013,
+            "country_chinese": "",
+            "country_id": 129,
+            "country_locode": "PL",
+            "country_slug": "poland",
+            "floors_above": 50,
+            "functions": "residential / office",
+            "height_architecture": 212,
+            "height_architecture_formatted": 212,
+            "height_architecture_ft_formatted": "696",
+            "id": 786,
+            "image": "",
+            "latitude": 51.094681,
+            "longitude": 17.01898,
+            "name": "Sky Tower B2",
+            "name_linked": "<a href='/building/sky-tower-b2/786' target='_blank'>Sky Tower B2</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2007,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/sky-tower-b2/786"
+        }
+    ]
+}

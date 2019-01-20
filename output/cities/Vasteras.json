@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 5349, "url": "/building/skrapan/5349", "name": "Skrapan", "status": "COM", "height_architecture": 81, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/skrapan/5349' target='_blank'>Skrapan</a>", "country_id": 139, "country_chinese": "", "city_id": 1460, "country_locode": "SE", "country_slug": "sweden", "city_locode": "VST", "city": "Vasteras", "city_slug": "vasteras", "height_architecture_formatted": 81, "height_architecture_ft_formatted": "266", "floors_above": 26, "completed": 1990, "start": "-", "structural_material": "", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Vasteras",
+            "city_id": 1460,
+            "city_locode": "VST",
+            "city_slug": "vasteras",
+            "completed": 1990,
+            "country_chinese": "",
+            "country_id": 139,
+            "country_locode": "SE",
+            "country_slug": "sweden",
+            "floors_above": 26,
+            "functions": "hotel / office",
+            "height_architecture": 81,
+            "height_architecture_formatted": 81,
+            "height_architecture_ft_formatted": "266",
+            "id": 5349,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Skrapan",
+            "name_linked": "<a href='/building/skrapan/5349' target='_blank'>Skrapan</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/skrapan/5349"
+        }
+    ]
+}

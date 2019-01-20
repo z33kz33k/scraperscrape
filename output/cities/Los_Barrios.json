@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4659, "url": "/building/torres-de-hercules/4659", "name": "Torres de Hercules", "status": "COM", "height_architecture": 100.6, "longitude": -5.42916, "latitude": 36.185848, "rank": 1, "name_linked": "<a href='/building/torres-de-hercules/4659' target='_blank'>Torres de Hercules</a>", "country_id": 51, "country_chinese": "", "city_id": 2444, "country_locode": "ES", "country_slug": "spain", "city_locode": "LOB", "city": "Los Barrios", "city_slug": "los-barrios", "height_architecture_formatted": 100.6, "height_architecture_ft_formatted": "330", "floors_above": 21, "completed": 2009, "start": "-", "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Los Barrios",
+            "city_id": 2444,
+            "city_locode": "LOB",
+            "city_slug": "los-barrios",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 51,
+            "country_locode": "ES",
+            "country_slug": "spain",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 100.6,
+            "height_architecture_formatted": 100.6,
+            "height_architecture_ft_formatted": "330",
+            "id": 4659,
+            "image": "",
+            "latitude": 36.185848,
+            "longitude": -5.42916,
+            "name": "Torres de Hercules",
+            "name_linked": "<a href='/building/torres-de-hercules/4659' target='_blank'>Torres de Hercules</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/torres-de-hercules/4659"
+        }
+    ]
+}

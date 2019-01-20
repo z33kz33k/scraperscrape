@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9162, "url": "/building/caldea-hotel-tower/9162", "name": "Caldea Hotel Tower", "status": "COM", "height_architecture": 80, "longitude": 1.53817, "latitude": 42.51141, "rank": 1, "name_linked": "<a href='/building/caldea-hotel-tower/9162' target='_blank'>Caldea Hotel Tower</a>", "country_id": 1, "country_chinese": "", "city_id": 627, "country_locode": "AD", "country_slug": "andorra", "city_locode": "ALV", "city": "Andorra La Vela", "city_slug": "andorra-la-vela", "height_architecture_formatted": 80, "height_architecture_ft_formatted": "262", "floors_above": 18, "completed": 1994, "start": "-", "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Andorra La Vela",
+            "city_id": 627,
+            "city_locode": "ALV",
+            "city_slug": "andorra-la-vela",
+            "completed": 1994,
+            "country_chinese": "",
+            "country_id": 1,
+            "country_locode": "AD",
+            "country_slug": "andorra",
+            "floors_above": 18,
+            "functions": "hotel",
+            "height_architecture": 80,
+            "height_architecture_formatted": 80,
+            "height_architecture_ft_formatted": "262",
+            "id": 9162,
+            "image": "",
+            "latitude": 42.51141,
+            "longitude": 1.53817,
+            "name": "Caldea Hotel Tower",
+            "name_linked": "<a href='/building/caldea-hotel-tower/9162' target='_blank'>Caldea Hotel Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/caldea-hotel-tower/9162"
+        }
+    ]
+}

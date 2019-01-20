@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9648, "url": "/building/immeuble-keacutebeacute/9648", "name": "Immeuble K&eacute;b&eacute;", "status": "COM", "height_architecture": 76.2, "longitude": -17.44022, "latitude": 14.66874, "rank": 1, "name_linked": "<a href='/building/immeuble-keacutebeacute/9648' target='_blank'>Immeuble K&eacute;b&eacute;</a>", "country_id": 145, "country_chinese": "", "city_id": 1466, "country_locode": "SN", "country_slug": "senegal", "city_locode": "DKR", "city": "Dakar", "city_slug": "dakar", "height_architecture_formatted": 76.2, "height_architecture_ft_formatted": "250", "floors_above": 21, "completed": 1973, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Dakar",
+            "city_id": 1466,
+            "city_locode": "DKR",
+            "city_slug": "dakar",
+            "completed": 1973,
+            "country_chinese": "",
+            "country_id": 145,
+            "country_locode": "SN",
+            "country_slug": "senegal",
+            "floors_above": 21,
+            "functions": "residential",
+            "height_architecture": 76.2,
+            "height_architecture_formatted": 76.2,
+            "height_architecture_ft_formatted": "250",
+            "id": 9648,
+            "image": "",
+            "latitude": 14.66874,
+            "longitude": -17.44022,
+            "name": "Immeuble K&eacute;b&eacute;",
+            "name_linked": "<a href='/building/immeuble-keacutebeacute/9648' target='_blank'>Immeuble K&eacute;b&eacute;</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/immeuble-keacutebeacute/9648"
+        }
+    ]
+}

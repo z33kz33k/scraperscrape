@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 9301, "url": "/building/palais-de-congress/9301", "name": "Palais de Congress", "status": "COM", "height_architecture": 96, "longitude": 10.18656, "latitude": 36.803429, "rank": 1, "name_linked": "<a href='/building/palais-de-congress/9301' target='_blank'>Palais de Congress</a>", "country_id": 156, "country_chinese": "", "city_id": 1476, "country_locode": "TN", "country_slug": "tunisia", "city_locode": "TUN", "city": "Tunis", "city_slug": "tunis", "height_architecture_formatted": 96, "height_architecture_ft_formatted": "315", "floors_above": 23, "completed": "-", "start": "-", "structural_material": "", "functions": "government", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Tunis",
+            "city_id": 1476,
+            "city_locode": "TUN",
+            "city_slug": "tunis",
+            "completed": "-",
+            "country_chinese": "",
+            "country_id": 156,
+            "country_locode": "TN",
+            "country_slug": "tunisia",
+            "floors_above": 23,
+            "functions": "government",
+            "height_architecture": 96,
+            "height_architecture_formatted": 96,
+            "height_architecture_ft_formatted": "315",
+            "id": 9301,
+            "image": "",
+            "latitude": 36.803429,
+            "longitude": 10.18656,
+            "name": "Palais de Congress",
+            "name_linked": "<a href='/building/palais-de-congress/9301' target='_blank'>Palais de Congress</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/palais-de-congress/9301"
+        }
+    ]
+}

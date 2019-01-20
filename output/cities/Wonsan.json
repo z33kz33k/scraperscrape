@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 31179, "url": "/building/pukmang-tower-1/31179", "name": "Pukmang Tower 1", "status": "COM", "height_architecture": 150, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/pukmang-tower-1/31179' target='_blank'>Pukmang Tower 1</a>", "country_id": 176, "country_chinese": "", "city_id": 2811, "country_locode": "KP", "country_slug": "north-korea", "city_locode": "FNJ", "city": "Wonsan", "city_slug": "wonsan", "height_architecture_formatted": 150, "height_architecture_ft_formatted": "492", "floors_above": 32, "completed": 1984, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Wonsan",
+            "city_id": 2811,
+            "city_locode": "FNJ",
+            "city_slug": "wonsan",
+            "completed": 1984,
+            "country_chinese": "",
+            "country_id": 176,
+            "country_locode": "KP",
+            "country_slug": "north-korea",
+            "floors_above": 32,
+            "functions": "residential",
+            "height_architecture": 150,
+            "height_architecture_formatted": 150,
+            "height_architecture_ft_formatted": "492",
+            "id": 31179,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Pukmang Tower 1",
+            "name_linked": "<a href='/building/pukmang-tower-1/31179' target='_blank'>Pukmang Tower 1</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/pukmang-tower-1/31179"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 23802, "url": "/building/chu-henri-mondor/23802", "name": "CHU Henri Mondor", "status": "COM", "height_architecture": 80, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/chu-henri-mondor/23802' target='_blank'>CHU Henri Mondor</a>", "country_id": 55, "country_chinese": "", "city_id": 2391, "country_locode": "FR", "country_slug": "france", "city_locode": "CTE", "city": "Creteil", "city_slug": "creteil", "height_architecture_formatted": 80, "height_architecture_ft_formatted": "262", "floors_above": 16, "completed": 1969, "start": "-", "structural_material": "", "functions": "hospital", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Creteil",
+            "city_id": 2391,
+            "city_locode": "CTE",
+            "city_slug": "creteil",
+            "completed": 1969,
+            "country_chinese": "",
+            "country_id": 55,
+            "country_locode": "FR",
+            "country_slug": "france",
+            "floors_above": 16,
+            "functions": "hospital",
+            "height_architecture": 80,
+            "height_architecture_formatted": 80,
+            "height_architecture_ft_formatted": "262",
+            "id": 23802,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "CHU Henri Mondor",
+            "name_linked": "<a href='/building/chu-henri-mondor/23802' target='_blank'>CHU Henri Mondor</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/chu-henri-mondor/23802"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 15890, "url": "/building/san-stefano-grand-plaza/15890", "name": "San Stefano Grand Plaza", "status": "COM", "height_architecture": 135, "longitude": 29.966999, "latitude": 31.24547, "rank": 1, "name_linked": "<a href='/building/san-stefano-grand-plaza/15890' target='_blank'>San Stefano Grand Plaza</a>", "country_id": 49, "country_chinese": "", "city_id": 2155, "country_locode": "EG", "country_slug": "egypt", "city_locode": "ALY", "city": "Alexandria", "city_slug": "alexandria", "height_architecture_formatted": 135, "height_architecture_ft_formatted": "443", "floors_above": 31, "completed": 2006, "start": "-", "structural_material": "", "functions": "hotel / office / retail", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Alexandria",
+            "city_id": 2155,
+            "city_locode": "ALY",
+            "city_slug": "alexandria",
+            "completed": 2006,
+            "country_chinese": "",
+            "country_id": 49,
+            "country_locode": "EG",
+            "country_slug": "egypt",
+            "floors_above": 31,
+            "functions": "hotel / office / retail",
+            "height_architecture": 135,
+            "height_architecture_formatted": 135,
+            "height_architecture_ft_formatted": "443",
+            "id": 15890,
+            "image": "",
+            "latitude": 31.24547,
+            "longitude": 29.966999,
+            "name": "San Stefano Grand Plaza",
+            "name_linked": "<a href='/building/san-stefano-grand-plaza/15890' target='_blank'>San Stefano Grand Plaza</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/san-stefano-grand-plaza/15890"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 10384, "url": "/building/alico-building/10384", "name": "Alico Building", "status": "COM", "height_architecture": 85.95, "longitude": -97.132004, "latitude": 31.55707, "rank": 1, "name_linked": "<a href='/building/alico-building/10384' target='_blank'>Alico Building</a>", "country_id": 163, "country_chinese": "", "city_id": 1499, "country_locode": "US", "country_slug": "united-states", "city_locode": "ACT", "city": "Waco", "city_slug": "waco", "height_architecture_formatted": 86, "height_architecture_ft_formatted": "282", "floors_above": 21, "completed": 1911, "start": 1910, "structural_material": "steel", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Waco",
+            "city_id": 1499,
+            "city_locode": "ACT",
+            "city_slug": "waco",
+            "completed": 1911,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 85.95,
+            "height_architecture_formatted": 86,
+            "height_architecture_ft_formatted": "282",
+            "id": 10384,
+            "image": "",
+            "latitude": 31.55707,
+            "longitude": -97.132004,
+            "name": "Alico Building",
+            "name_linked": "<a href='/building/alico-building/10384' target='_blank'>Alico Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1910,
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/alico-building/10384"
+        }
+    ]
+}

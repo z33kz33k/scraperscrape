@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 26749, "url": "/building/landmark-vi/26749", "name": "Landmark VI", "status": "COM", "height_architecture": 81, "longitude": -119.461288, "latitude": 49.88026, "rank": 1, "name_linked": "<a href='/building/landmark-vi/26749' target='_blank'>Landmark VI</a>", "country_id": 27, "country_chinese": "", "city_id": 1974, "country_locode": "CA", "country_slug": "canada", "city_locode": "KWL", "city": "Kelowna", "city_slug": "kelowna", "height_architecture_formatted": 81, "height_architecture_ft_formatted": "266", "floors_above": 17, "completed": 2013, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Kelowna",
+            "city_id": 1974,
+            "city_locode": "KWL",
+            "city_slug": "kelowna",
+            "completed": 2013,
+            "country_chinese": "",
+            "country_id": 27,
+            "country_locode": "CA",
+            "country_slug": "canada",
+            "floors_above": 17,
+            "functions": "office",
+            "height_architecture": 81,
+            "height_architecture_formatted": 81,
+            "height_architecture_ft_formatted": "266",
+            "id": 26749,
+            "image": "",
+            "latitude": 49.88026,
+            "longitude": -119.461288,
+            "name": "Landmark VI",
+            "name_linked": "<a href='/building/landmark-vi/26749' target='_blank'>Landmark VI</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/landmark-vi/26749"
+        }
+    ]
+}

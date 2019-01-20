@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 10800, "url": "/building/entergy-building/10800", "name": "Entergy Building", "status": "COM", "height_architecture": 77.42, "longitude": -94.09726, "latitude": 30.0854, "rank": 1, "name_linked": "<a href='/building/entergy-building/10800' target='_blank'>Entergy Building</a>", "country_id": 163, "country_chinese": "", "city_id": 1525, "country_locode": "US", "country_slug": "united-states", "city_locode": "BPT", "city": "Beaumont", "city_slug": "beaumont", "height_architecture_formatted": 77.4, "height_architecture_ft_formatted": "254", "floors_above": 17, "completed": 1982, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Beaumont",
+            "city_id": 1525,
+            "city_locode": "BPT",
+            "city_slug": "beaumont",
+            "completed": 1982,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 17,
+            "functions": "office",
+            "height_architecture": 77.42,
+            "height_architecture_formatted": 77.4,
+            "height_architecture_ft_formatted": "254",
+            "id": 10800,
+            "image": "",
+            "latitude": 30.0854,
+            "longitude": -94.09726,
+            "name": "Entergy Building",
+            "name_linked": "<a href='/building/entergy-building/10800' target='_blank'>Entergy Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/entergy-building/10800"
+        }
+    ]
+}

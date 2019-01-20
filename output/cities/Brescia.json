@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 4938, "url": "/building/crystal-palace/4938", "name": "Crystal Palace", "status": "COM", "height_architecture": 110, "longitude": 10.21567, "latitude": 45.52462, "rank": 1, "name_linked": "<a href='/building/crystal-palace/4938' target='_blank'>Crystal Palace</a>", "country_id": 79, "country_chinese": "", "city_id": 1010, "country_locode": "IT", "country_slug": "italy", "city_locode": "BRC", "city": "Brescia", "city_slug": "brescia", "height_architecture_formatted": 110, "height_architecture_ft_formatted": "361", "floors_above": 30, "completed": 1992, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Brescia",
+            "city_id": 1010,
+            "city_locode": "BRC",
+            "city_slug": "brescia",
+            "completed": 1992,
+            "country_chinese": "",
+            "country_id": 79,
+            "country_locode": "IT",
+            "country_slug": "italy",
+            "floors_above": 30,
+            "functions": "office",
+            "height_architecture": 110,
+            "height_architecture_formatted": 110,
+            "height_architecture_ft_formatted": "361",
+            "id": 4938,
+            "image": "",
+            "latitude": 45.52462,
+            "longitude": 10.21567,
+            "name": "Crystal Palace",
+            "name_linked": "<a href='/building/crystal-palace/4938' target='_blank'>Crystal Palace</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/crystal-palace/4938"
+        }
+    ]
+}

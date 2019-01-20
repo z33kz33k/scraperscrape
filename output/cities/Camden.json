@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 10285, "url": "/building/camden-city-hall/10285", "name": "Camden City Hall", "status": "COM", "height_architecture": 113.08, "longitude": -75.120041, "latitude": 39.944832, "rank": 1, "name_linked": "<a href='/building/camden-city-hall/10285' target='_blank'>Camden City Hall</a>", "country_id": 163, "country_chinese": "", "city_id": 1538, "country_locode": "US", "country_slug": "united-states", "city_locode": "CDE", "city": "Camden", "city_slug": "camden", "height_architecture_formatted": 113.1, "height_architecture_ft_formatted": "371", "floors_above": 18, "completed": 1931, "start": 1929, "structural_material": "steel", "functions": "government", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Camden",
+            "city_id": 1538,
+            "city_locode": "CDE",
+            "city_slug": "camden",
+            "completed": 1931,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 18,
+            "functions": "government",
+            "height_architecture": 113.08,
+            "height_architecture_formatted": 113.1,
+            "height_architecture_ft_formatted": "371",
+            "id": 10285,
+            "image": "",
+            "latitude": 39.944832,
+            "longitude": -75.120041,
+            "name": "Camden City Hall",
+            "name_linked": "<a href='/building/camden-city-hall/10285' target='_blank'>Camden City Hall</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1929,
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/camden-city-hall/10285"
+        }
+    ]
+}

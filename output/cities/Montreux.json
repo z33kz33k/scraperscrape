@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10131, "url": "/building/tour-divoire/10131", "name": "Tour D`Ivoire", "status": "COM", "height_architecture": 79, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/tour-divoire/10131' target='_blank'>Tour D`Ivoire</a>", "country_id": 31, "country_chinese": "", "city_id": 733, "country_locode": "CH", "country_slug": "switzerland", "city_locode": "MNT", "city": "Montreux", "city_slug": "montreux", "height_architecture_formatted": 79, "height_architecture_ft_formatted": "259", "floors_above": 25, "completed": 1962, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Montreux",
+            "city_id": 733,
+            "city_locode": "MNT",
+            "city_slug": "montreux",
+            "completed": 1962,
+            "country_chinese": "",
+            "country_id": 31,
+            "country_locode": "CH",
+            "country_slug": "switzerland",
+            "floors_above": 25,
+            "functions": "residential",
+            "height_architecture": 79,
+            "height_architecture_formatted": 79,
+            "height_architecture_ft_formatted": "259",
+            "id": 10131,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Tour D`Ivoire",
+            "name_linked": "<a href='/building/tour-divoire/10131' target='_blank'>Tour D`Ivoire</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/tour-divoire/10131"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 29924, "url": "/building/edificio-parque-do-sol/29924", "name": "Edif\u00edcio Parque do Sol", "status": "COM", "height_architecture": 114, "longitude": -51.180462, "latitude": -29.1723, "rank": 1, "name_linked": "<a href='/building/edificio-parque-do-sol/29924' target='_blank'>Edif\u00edcio Parque do Sol</a>", "country_id": 22, "country_chinese": "", "city_id": 2703, "country_locode": "BR", "country_slug": "brazil", "city_locode": "CXJ", "city": "Caxias do Sul", "city_slug": "caxias-do-sul", "height_architecture_formatted": 114, "height_architecture_ft_formatted": "374", "floors_above": 36, "completed": 1976, "start": 1967, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Caxias do Sul",
+            "city_id": 2703,
+            "city_locode": "CXJ",
+            "city_slug": "caxias-do-sul",
+            "completed": 1976,
+            "country_chinese": "",
+            "country_id": 22,
+            "country_locode": "BR",
+            "country_slug": "brazil",
+            "floors_above": 36,
+            "functions": "residential",
+            "height_architecture": 114,
+            "height_architecture_formatted": 114,
+            "height_architecture_ft_formatted": "374",
+            "id": 29924,
+            "image": "",
+            "latitude": -29.1723,
+            "longitude": -51.180462,
+            "name": "Edif\u00edcio Parque do Sol",
+            "name_linked": "<a href='/building/edificio-parque-do-sol/29924' target='_blank'>Edif\u00edcio Parque do Sol</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1967,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/edificio-parque-do-sol/29924"
+        }
+    ]
+}

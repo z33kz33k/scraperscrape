@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 27060, "url": "/building/yangzhou-international-mansion/27060", "name": "Yangzhou International Mansion", "status": "UC", "height_architecture": 280, "longitude": 119.557556, "latitude": 32.405342, "rank": 1, "name_linked": "<a href='/building/yangzhou-international-mansion/27060' target='_blank'>Yangzhou International Mansion</a>", "country_id": 34, "country_chinese": "", "city_id": 823, "country_locode": "CN", "country_slug": "china", "city_locode": "YZH", "city": "Yangzhou", "city_slug": "yangzhou", "height_architecture_formatted": 280, "height_architecture_ft_formatted": "919", "floors_above": 72, "completed": 2020, "start": 2016, "structural_material": "composite", "functions": "hotel / office / education", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Yangzhou",
+            "city_id": 823,
+            "city_locode": "YZH",
+            "city_slug": "yangzhou",
+            "completed": 2020,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 72,
+            "functions": "hotel / office / education",
+            "height_architecture": 280,
+            "height_architecture_formatted": 280,
+            "height_architecture_ft_formatted": "919",
+            "id": 27060,
+            "image": "",
+            "latitude": 32.405342,
+            "longitude": 119.557556,
+            "name": "Yangzhou International Mansion",
+            "name_linked": "<a href='/building/yangzhou-international-mansion/27060' target='_blank'>Yangzhou International Mansion</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2016,
+            "status": "UC",
+            "structural_material": "composite",
+            "url": "/building/yangzhou-international-mansion/27060"
+        }
+    ]
+}

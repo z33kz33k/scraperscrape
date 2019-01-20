@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 2599, "url": "/building/solae-elevator-testing-facility/2599", "name": "Solae Elevator Testing Facility", "status": "COM", "height_architecture": 173, "longitude": 136.819336, "latitude": 35.244999, "rank": 1, "name_linked": "<a href='/building/solae-elevator-testing-facility/2599' target='_blank'>Solae Elevator Testing Facility</a>", "country_id": 82, "country_chinese": "", "city_id": 1037, "country_locode": "JP", "country_slug": "japan", "city_locode": "IZW", "city": "Inazawa", "city_slug": "inazawa", "height_architecture_formatted": 173, "height_architecture_ft_formatted": "568", "floors_above": 40, "completed": 2007, "start": "-", "structural_material": "concrete", "functions": "industrial", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Inazawa",
+            "city_id": 1037,
+            "city_locode": "IZW",
+            "city_slug": "inazawa",
+            "completed": 2007,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 40,
+            "functions": "industrial",
+            "height_architecture": 173,
+            "height_architecture_formatted": 173,
+            "height_architecture_ft_formatted": "568",
+            "id": 2599,
+            "image": "",
+            "latitude": 35.244999,
+            "longitude": 136.819336,
+            "name": "Solae Elevator Testing Facility",
+            "name_linked": "<a href='/building/solae-elevator-testing-facility/2599' target='_blank'>Solae Elevator Testing Facility</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/solae-elevator-testing-facility/2599"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 23753, "url": "/building/osaka-university-hospital/23753", "name": "Osaka University Hospital", "status": "COM", "height_architecture": 76.2, "longitude": 135.528229, "latitude": 34.818771, "rank": 1, "name_linked": "<a href='/building/osaka-university-hospital/23753' target='_blank'>Osaka University Hospital</a>", "country_id": 82, "country_chinese": "", "city_id": 2390, "country_locode": "JP", "country_slug": "japan", "city_locode": "SUI", "city": "Suita", "city_slug": "suita", "height_architecture_formatted": 76.2, "height_architecture_ft_formatted": "250", "floors_above": 15, "completed": 1993, "start": "-", "structural_material": "", "functions": "hospital", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Suita",
+            "city_id": 2390,
+            "city_locode": "SUI",
+            "city_slug": "suita",
+            "completed": 1993,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 15,
+            "functions": "hospital",
+            "height_architecture": 76.2,
+            "height_architecture_formatted": 76.2,
+            "height_architecture_ft_formatted": "250",
+            "id": 23753,
+            "image": "",
+            "latitude": 34.818771,
+            "longitude": 135.528229,
+            "name": "Osaka University Hospital",
+            "name_linked": "<a href='/building/osaka-university-hospital/23753' target='_blank'>Osaka University Hospital</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/osaka-university-hospital/23753"
+        }
+    ]
+}

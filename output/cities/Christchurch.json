@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 10162, "url": "/building/pacific-tower/10162", "name": "Pacific Tower", "status": "COM", "height_architecture": 86, "longitude": 172.638977, "latitude": -43.530071, "rank": 1, "name_linked": "<a href='/building/pacific-tower/10162' target='_blank'>Pacific Tower</a>", "country_id": 121, "country_chinese": "", "city_id": 1388, "country_locode": "NZ", "country_slug": "new-zealand", "city_locode": "CHC", "city": "Christchurch", "city_slug": "christchurch", "height_architecture_formatted": 86, "height_architecture_ft_formatted": "282", "floors_above": 23, "completed": 2009, "start": 2007, "structural_material": "composite", "functions": "residential / hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Christchurch",
+            "city_id": 1388,
+            "city_locode": "CHC",
+            "city_slug": "christchurch",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 121,
+            "country_locode": "NZ",
+            "country_slug": "new-zealand",
+            "floors_above": 23,
+            "functions": "residential / hotel / office",
+            "height_architecture": 86,
+            "height_architecture_formatted": 86,
+            "height_architecture_ft_formatted": "282",
+            "id": 10162,
+            "image": "",
+            "latitude": -43.530071,
+            "longitude": 172.638977,
+            "name": "Pacific Tower",
+            "name_linked": "<a href='/building/pacific-tower/10162' target='_blank'>Pacific Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2007,
+            "status": "COM",
+            "structural_material": "composite",
+            "url": "/building/pacific-tower/10162"
+        }
+    ]
+}

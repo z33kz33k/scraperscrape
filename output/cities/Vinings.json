@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 22144, "url": "/building/riverwood-100-tower/22144", "name": "Riverwood 100 Tower", "status": "COM", "height_architecture": 110.3, "longitude": -84.458214, "latitude": 33.877831, "rank": 1, "name_linked": "<a href='/building/riverwood-100-tower/22144' target='_blank'>Riverwood 100 Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 2879, "country_locode": "US", "country_slug": "united-states", "city_locode": "ATL", "city": "Vinings", "city_slug": "vinings", "height_architecture_formatted": 110.3, "height_architecture_ft_formatted": "362", "floors_above": 26, "completed": 1989, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Vinings",
+            "city_id": 2879,
+            "city_locode": "ATL",
+            "city_slug": "vinings",
+            "completed": 1989,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 26,
+            "functions": "office",
+            "height_architecture": 110.3,
+            "height_architecture_formatted": 110.3,
+            "height_architecture_ft_formatted": "362",
+            "id": 22144,
+            "image": "",
+            "latitude": 33.877831,
+            "longitude": -84.458214,
+            "name": "Riverwood 100 Tower",
+            "name_linked": "<a href='/building/riverwood-100-tower/22144' target='_blank'>Riverwood 100 Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/riverwood-100-tower/22144"
+        }
+    ]
+}

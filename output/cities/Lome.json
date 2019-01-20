@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9300, "url": "/building/2-fevrier-sofitel-hotel/9300", "name": "2 Fevrier Sofitel Hotel", "status": "COM", "height_architecture": 102, "longitude": 1.21495, "latitude": 6.12882, "rank": 1, "name_linked": "<a href='/building/2-fevrier-sofitel-hotel/9300' target='_blank'>2 Fevrier Sofitel Hotel</a>", "country_id": 152, "country_chinese": "", "city_id": 1470, "country_locode": "TG", "country_slug": "togo", "city_locode": "LFW", "city": "Lome", "city_slug": "lome", "height_architecture_formatted": 102, "height_architecture_ft_formatted": "335", "floors_above": 36, "completed": 1980, "start": "-", "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Lome",
+            "city_id": 1470,
+            "city_locode": "LFW",
+            "city_slug": "lome",
+            "completed": 1980,
+            "country_chinese": "",
+            "country_id": 152,
+            "country_locode": "TG",
+            "country_slug": "togo",
+            "floors_above": 36,
+            "functions": "hotel",
+            "height_architecture": 102,
+            "height_architecture_formatted": 102,
+            "height_architecture_ft_formatted": "335",
+            "id": 9300,
+            "image": "",
+            "latitude": 6.12882,
+            "longitude": 1.21495,
+            "name": "2 Fevrier Sofitel Hotel",
+            "name_linked": "<a href='/building/2-fevrier-sofitel-hotel/9300' target='_blank'>2 Fevrier Sofitel Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/2-fevrier-sofitel-hotel/9300"
+        }
+    ]
+}

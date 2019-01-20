@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 5305, "url": "/building/torre-pontina/5305", "name": "Torre Pontina", "status": "COM", "height_architecture": 128, "longitude": 12.89338, "latitude": 41.466228, "rank": 1, "name_linked": "<a href='/building/torre-pontina/5305' target='_blank'>Torre Pontina</a>", "country_id": 79, "country_chinese": "", "city_id": 1017, "country_locode": "IT", "country_slug": "italy", "city_locode": "LTN", "city": "Latina", "city_slug": "latina", "height_architecture_formatted": 128, "height_architecture_ft_formatted": "420", "floors_above": 38, "completed": 2010, "start": 2007, "structural_material": "concrete", "functions": "residential / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Latina",
+            "city_id": 1017,
+            "city_locode": "LTN",
+            "city_slug": "latina",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 79,
+            "country_locode": "IT",
+            "country_slug": "italy",
+            "floors_above": 38,
+            "functions": "residential / office",
+            "height_architecture": 128,
+            "height_architecture_formatted": 128,
+            "height_architecture_ft_formatted": "420",
+            "id": 5305,
+            "image": "",
+            "latitude": 41.466228,
+            "longitude": 12.89338,
+            "name": "Torre Pontina",
+            "name_linked": "<a href='/building/torre-pontina/5305' target='_blank'>Torre Pontina</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2007,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/torre-pontina/5305"
+        }
+    ]
+}

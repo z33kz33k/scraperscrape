@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 12027, "url": "/building/asan-sk-pentaport-residential-tower-3/12027", "name": "Asan SK Pentaport Residential Tower 3", "status": "COM", "height_architecture": 215, "longitude": 127.101799, "latitude": 36.798859, "rank": 1, "name_linked": "<a href='/building/asan-sk-pentaport-residential-tower-3/12027' target='_blank'>Asan SK Pentaport Residential Tower 3</a>", "country_id": 85, "country_chinese": "", "city_id": 1060, "country_locode": "KR", "country_slug": "south-korea", "city_locode": "CHO", "city": "Chonan", "city_slug": "chonan", "height_architecture_formatted": 215, "height_architecture_ft_formatted": "705", "floors_above": 66, "completed": 2011, "start": 2008, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Chonan",
+            "city_id": 1060,
+            "city_locode": "CHO",
+            "city_slug": "chonan",
+            "completed": 2011,
+            "country_chinese": "",
+            "country_id": 85,
+            "country_locode": "KR",
+            "country_slug": "south-korea",
+            "floors_above": 66,
+            "functions": "residential",
+            "height_architecture": 215,
+            "height_architecture_formatted": 215,
+            "height_architecture_ft_formatted": "705",
+            "id": 12027,
+            "image": "",
+            "latitude": 36.798859,
+            "longitude": 127.101799,
+            "name": "Asan SK Pentaport Residential Tower 3",
+            "name_linked": "<a href='/building/asan-sk-pentaport-residential-tower-3/12027' target='_blank'>Asan SK Pentaport Residential Tower 3</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/asan-sk-pentaport-residential-tower-3/12027"
+        }
+    ]
+}

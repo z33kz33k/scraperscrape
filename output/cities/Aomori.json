@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 26529, "url": "/building/aomori-prefecture-kanko-bussankan-aspm/26529", "name": "Aomori Prefecture Kanko Bussankan ASPM", "status": "COM", "height_architecture": 76, "longitude": 140.741104, "latitude": 40.829948, "rank": 1, "name_linked": "<a href='/building/aomori-prefecture-kanko-bussankan-aspm/26529' target='_blank'>Aomori Prefecture Kanko Bussankan ASPM</a>", "country_id": 82, "country_chinese": "", "city_id": 2449, "country_locode": "JP", "country_slug": "japan", "city_locode": "AOJ", "city": "Aomori", "city_slug": "aomori-1", "height_architecture_formatted": 76, "height_architecture_ft_formatted": "249", "floors_above": 15, "completed": 1986, "start": 1984, "structural_material": "", "functions": "office / government / retail", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Aomori",
+            "city_id": 2449,
+            "city_locode": "AOJ",
+            "city_slug": "aomori-1",
+            "completed": 1986,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 15,
+            "functions": "office / government / retail",
+            "height_architecture": 76,
+            "height_architecture_formatted": 76,
+            "height_architecture_ft_formatted": "249",
+            "id": 26529,
+            "image": "",
+            "latitude": 40.829948,
+            "longitude": 140.741104,
+            "name": "Aomori Prefecture Kanko Bussankan ASPM",
+            "name_linked": "<a href='/building/aomori-prefecture-kanko-bussankan-aspm/26529' target='_blank'>Aomori Prefecture Kanko Bussankan ASPM</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1984,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/aomori-prefecture-kanko-bussankan-aspm/26529"
+        }
+    ]
+}

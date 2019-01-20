@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 19600, "url": "/building/sun-life-building/19600", "name": "Sun Life Building", "status": "COM", "height_architecture": 78, "longitude": -80.517227, "latitude": 43.457779, "rank": 1, "name_linked": "<a href='/building/sun-life-building/19600' target='_blank'>Sun Life Building</a>", "country_id": 27, "country_chinese": "", "city_id": 2101, "country_locode": "CA", "country_slug": "canada", "city_locode": "WTL", "city": "Waterloo (CA)", "city_slug": "waterloo-ca", "height_architecture_formatted": 78, "height_architecture_ft_formatted": "256", "floors_above": 18, "completed": 1987, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Waterloo (CA)",
+            "city_id": 2101,
+            "city_locode": "WTL",
+            "city_slug": "waterloo-ca",
+            "completed": 1987,
+            "country_chinese": "",
+            "country_id": 27,
+            "country_locode": "CA",
+            "country_slug": "canada",
+            "floors_above": 18,
+            "functions": "office",
+            "height_architecture": 78,
+            "height_architecture_formatted": 78,
+            "height_architecture_ft_formatted": "256",
+            "id": 19600,
+            "image": "",
+            "latitude": 43.457779,
+            "longitude": -80.517227,
+            "name": "Sun Life Building",
+            "name_linked": "<a href='/building/sun-life-building/19600' target='_blank'>Sun Life Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/sun-life-building/19600"
+        }
+    ]
+}

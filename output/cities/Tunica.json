@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 15446, "url": "/building/gold-strike-casino-hotel/15446", "name": "Gold Strike Casino Hotel", "status": "COM", "height_architecture": 96.62, "longitude": -90.332779, "latitude": 34.84544, "rank": 1, "name_linked": "<a href='/building/gold-strike-casino-hotel/15446' target='_blank'>Gold Strike Casino Hotel</a>", "country_id": 163, "country_chinese": "", "city_id": 1700, "country_locode": "US", "country_slug": "united-states", "city_locode": "TNI", "city": "Tunica", "city_slug": "tunica", "height_architecture_formatted": 96.6, "height_architecture_ft_formatted": "317", "floors_above": 31, "completed": 1998, "start": "-", "structural_material": "", "functions": "hotel / casino", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Tunica",
+            "city_id": 1700,
+            "city_locode": "TNI",
+            "city_slug": "tunica",
+            "completed": 1998,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 31,
+            "functions": "hotel / casino",
+            "height_architecture": 96.62,
+            "height_architecture_formatted": 96.6,
+            "height_architecture_ft_formatted": "317",
+            "id": 15446,
+            "image": "",
+            "latitude": 34.84544,
+            "longitude": -90.332779,
+            "name": "Gold Strike Casino Hotel",
+            "name_linked": "<a href='/building/gold-strike-casino-hotel/15446' target='_blank'>Gold Strike Casino Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/gold-strike-casino-hotel/15446"
+        }
+    ]
+}

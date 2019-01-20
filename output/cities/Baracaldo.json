@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 15109, "url": "/building/bilbao-exhibition-centre/15109", "name": "Bilbao Exhibition Centre", "status": "COM", "height_architecture": 92.83, "longitude": -2.98915, "latitude": 43.29015, "rank": 1, "name_linked": "<a href='/building/bilbao-exhibition-centre/15109' target='_blank'>Bilbao Exhibition Centre</a>", "country_id": 51, "country_chinese": "", "city_id": 893, "country_locode": "ES", "country_slug": "spain", "city_locode": "BAO", "city": "Baracaldo", "city_slug": "baracaldo", "height_architecture_formatted": 92.8, "height_architecture_ft_formatted": "305", "floors_above": 17, "completed": 2007, "start": 2001, "structural_material": "concrete", "functions": "exhibition", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Baracaldo",
+            "city_id": 893,
+            "city_locode": "BAO",
+            "city_slug": "baracaldo",
+            "completed": 2007,
+            "country_chinese": "",
+            "country_id": 51,
+            "country_locode": "ES",
+            "country_slug": "spain",
+            "floors_above": 17,
+            "functions": "exhibition",
+            "height_architecture": 92.83,
+            "height_architecture_formatted": 92.8,
+            "height_architecture_ft_formatted": "305",
+            "id": 15109,
+            "image": "",
+            "latitude": 43.29015,
+            "longitude": -2.98915,
+            "name": "Bilbao Exhibition Centre",
+            "name_linked": "<a href='/building/bilbao-exhibition-centre/15109' target='_blank'>Bilbao Exhibition Centre</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2001,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/bilbao-exhibition-centre/15109"
+        }
+    ]
+}

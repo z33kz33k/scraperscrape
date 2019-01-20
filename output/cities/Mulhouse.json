@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 29977, "url": "/building/tour-de-leurope/29977", "name": "Tour de l`Europe", "status": "COM", "height_architecture": 100, "longitude": 7.34069, "latitude": 47.749931, "rank": 1, "name_linked": "<a href='/building/tour-de-leurope/29977' target='_blank'>Tour de l`Europe</a>", "country_id": 55, "country_chinese": "", "city_id": 2712, "country_locode": "FR", "country_slug": "france", "city_locode": "MLH", "city": "Mulhouse", "city_slug": "mulhouse", "height_architecture_formatted": 100, "height_architecture_ft_formatted": "328", "floors_above": "-", "completed": 1972, "start": 1969, "structural_material": "concrete", "functions": "residential / office / retail", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Mulhouse",
+            "city_id": 2712,
+            "city_locode": "MLH",
+            "city_slug": "mulhouse",
+            "completed": 1972,
+            "country_chinese": "",
+            "country_id": 55,
+            "country_locode": "FR",
+            "country_slug": "france",
+            "floors_above": "-",
+            "functions": "residential / office / retail",
+            "height_architecture": 100,
+            "height_architecture_formatted": 100,
+            "height_architecture_ft_formatted": "328",
+            "id": 29977,
+            "image": "",
+            "latitude": 47.749931,
+            "longitude": 7.34069,
+            "name": "Tour de l`Europe",
+            "name_linked": "<a href='/building/tour-de-leurope/29977' target='_blank'>Tour de l`Europe</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1969,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/tour-de-leurope/29977"
+        }
+    ]
+}

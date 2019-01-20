@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4811, "url": "/building/pervaya-bashnya/4811", "name": "Pervaya Bashnya", "status": "COM", "height_architecture": 118, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/pervaya-bashnya/4811' target='_blank'>Pervaya Bashnya</a>", "country_id": 135, "country_chinese": "", "city_id": 1435, "country_locode": "RU", "country_slug": "russia", "city_locode": "KRA", "city": "Krasnoyarsk", "city_slug": "krasnoyarsk", "height_architecture_formatted": 118, "height_architecture_ft_formatted": "387", "floors_above": 30, "completed": 2009, "start": "-", "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Krasnoyarsk",
+            "city_id": 1435,
+            "city_locode": "KRA",
+            "city_slug": "krasnoyarsk",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 135,
+            "country_locode": "RU",
+            "country_slug": "russia",
+            "floors_above": 30,
+            "functions": "office",
+            "height_architecture": 118,
+            "height_architecture_formatted": 118,
+            "height_architecture_ft_formatted": "387",
+            "id": 4811,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Pervaya Bashnya",
+            "name_linked": "<a href='/building/pervaya-bashnya/4811' target='_blank'>Pervaya Bashnya</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/pervaya-bashnya/4811"
+        }
+    ]
+}

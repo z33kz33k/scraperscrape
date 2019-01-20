@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4599, "url": "/building/tour-pleyel/4599", "name": "Tour Pleyel", "status": "COM", "height_architecture": 129, "longitude": 2.34525, "latitude": 48.920231, "rank": 1, "name_linked": "<a href='/building/tour-pleyel/4599' target='_blank'>Tour Pleyel</a>", "country_id": 55, "country_chinese": "", "city_id": 927, "country_locode": "FR", "country_slug": "france", "city_locode": "STD", "city": "Saint Denis", "city_slug": "saint-denis", "height_architecture_formatted": 129, "height_architecture_ft_formatted": "423", "floors_above": 37, "completed": 1973, "start": 1970, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Saint Denis",
+            "city_id": 927,
+            "city_locode": "STD",
+            "city_slug": "saint-denis",
+            "completed": 1973,
+            "country_chinese": "",
+            "country_id": 55,
+            "country_locode": "FR",
+            "country_slug": "france",
+            "floors_above": 37,
+            "functions": "office",
+            "height_architecture": 129,
+            "height_architecture_formatted": 129,
+            "height_architecture_ft_formatted": "423",
+            "id": 4599,
+            "image": "",
+            "latitude": 48.920231,
+            "longitude": 2.34525,
+            "name": "Tour Pleyel",
+            "name_linked": "<a href='/building/tour-pleyel/4599' target='_blank'>Tour Pleyel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1970,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/tour-pleyel/4599"
+        }
+    ]
+}

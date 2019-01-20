@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 11106, "url": "/building/weser-tower/11106", "name": "Weser Tower", "status": "COM", "height_architecture": 82, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/weser-tower/11106' target='_blank'>Weser Tower</a>", "country_id": 41, "country_chinese": "", "city_id": 847, "country_locode": "DE", "country_slug": "germany", "city_locode": "BRE", "city": "Bremen", "city_slug": "bremen", "height_architecture_formatted": 82, "height_architecture_ft_formatted": "269", "floors_above": 22, "completed": 2010, "start": 2007, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Bremen",
+            "city_id": 847,
+            "city_locode": "BRE",
+            "city_slug": "bremen",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 41,
+            "country_locode": "DE",
+            "country_slug": "germany",
+            "floors_above": 22,
+            "functions": "office",
+            "height_architecture": 82,
+            "height_architecture_formatted": 82,
+            "height_architecture_ft_formatted": "269",
+            "id": 11106,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Weser Tower",
+            "name_linked": "<a href='/building/weser-tower/11106' target='_blank'>Weser Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2007,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/weser-tower/11106"
+        }
+    ]
+}

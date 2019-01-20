@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4194, "url": "/building/jentower/4194", "name": "JenTower", "status": "COM", "height_architecture": 144.5, "longitude": 11.58461, "latitude": 50.92886, "rank": 1, "name_linked": "<a href='/building/jentower/4194' target='_blank'>JenTower</a>", "country_id": 41, "country_chinese": "", "city_id": 861, "country_locode": "DE", "country_slug": "germany", "city_locode": "JEN", "city": "Jena", "city_slug": "jena", "height_architecture_formatted": 144.5, "height_architecture_ft_formatted": "474", "floors_above": 30, "completed": 1973, "start": 1970, "structural_material": "", "functions": "education / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Jena",
+            "city_id": 861,
+            "city_locode": "JEN",
+            "city_slug": "jena",
+            "completed": 1973,
+            "country_chinese": "",
+            "country_id": 41,
+            "country_locode": "DE",
+            "country_slug": "germany",
+            "floors_above": 30,
+            "functions": "education / office",
+            "height_architecture": 144.5,
+            "height_architecture_formatted": 144.5,
+            "height_architecture_ft_formatted": "474",
+            "id": 4194,
+            "image": "",
+            "latitude": 50.92886,
+            "longitude": 11.58461,
+            "name": "JenTower",
+            "name_linked": "<a href='/building/jentower/4194' target='_blank'>JenTower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1970,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/jentower/4194"
+        }
+    ]
+}

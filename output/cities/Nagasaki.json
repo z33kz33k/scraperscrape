@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 26525, "url": "/building/skyscraper-tower/26525", "name": "Skyscraper Tower", "status": "COM", "height_architecture": 98, "longitude": 129.865036, "latitude": 32.750309, "rank": 1, "name_linked": "<a href='/building/skyscraper-tower/26525' target='_blank'>Skyscraper Tower</a>", "country_id": 82, "country_chinese": "", "city_id": 2445, "country_locode": "JP", "country_slug": "japan", "city_locode": "NGS", "city": "Nagasaki", "city_slug": "nagasaki", "height_architecture_formatted": 98, "height_architecture_ft_formatted": "322", "floors_above": 28, "completed": 2003, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Nagasaki",
+            "city_id": 2445,
+            "city_locode": "NGS",
+            "city_slug": "nagasaki",
+            "completed": 2003,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 28,
+            "functions": "residential",
+            "height_architecture": 98,
+            "height_architecture_formatted": 98,
+            "height_architecture_ft_formatted": "322",
+            "id": 26525,
+            "image": "",
+            "latitude": 32.750309,
+            "longitude": 129.865036,
+            "name": "Skyscraper Tower",
+            "name_linked": "<a href='/building/skyscraper-tower/26525' target='_blank'>Skyscraper Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/skyscraper-tower/26525"
+        }
+    ]
+}

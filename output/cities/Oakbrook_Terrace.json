@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9792, "url": "/building/oakbrook-terrace-tower/9792", "name": "Oakbrook Terrace Tower", "status": "COM", "height_architecture": 127.41, "longitude": -87.954483, "latitude": 41.858238, "rank": 1, "name_linked": "<a href='/building/oakbrook-terrace-tower/9792' target='_blank'>Oakbrook Terrace Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 2850, "country_locode": "US", "country_slug": "united-states", "city_locode": "OAB", "city": "Oakbrook Terrace", "city_slug": "oakbrook-terrace", "height_architecture_formatted": 127.4, "height_architecture_ft_formatted": "418", "floors_above": 31, "completed": 1986, "start": "-", "structural_material": "composite", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Oakbrook Terrace",
+            "city_id": 2850,
+            "city_locode": "OAB",
+            "city_slug": "oakbrook-terrace",
+            "completed": 1986,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 31,
+            "functions": "office",
+            "height_architecture": 127.41,
+            "height_architecture_formatted": 127.4,
+            "height_architecture_ft_formatted": "418",
+            "id": 9792,
+            "image": "",
+            "latitude": 41.858238,
+            "longitude": -87.954483,
+            "name": "Oakbrook Terrace Tower",
+            "name_linked": "<a href='/building/oakbrook-terrace-tower/9792' target='_blank'>Oakbrook Terrace Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "composite",
+            "url": "/building/oakbrook-terrace-tower/9792"
+        }
+    ]
+}

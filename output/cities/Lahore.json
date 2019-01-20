@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 15903, "url": "/building/software-technology-park/15903", "name": "Software Technology Park", "status": "COM", "height_architecture": 106.1, "longitude": 74.342667, "latitude": 31.475719, "rank": 1, "name_linked": "<a href='/building/software-technology-park/15903' target='_blank'>Software Technology Park</a>", "country_id": 128, "country_chinese": "", "city_id": 1408, "country_locode": "PK", "country_slug": "pakistan", "city_locode": "LHE", "city": "Lahore", "city_slug": "lahore", "height_architecture_formatted": 106.1, "height_architecture_ft_formatted": "348", "floors_above": 17, "completed": 2010, "start": "-", "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Lahore",
+            "city_id": 1408,
+            "city_locode": "LHE",
+            "city_slug": "lahore",
+            "completed": 2010,
+            "country_chinese": "",
+            "country_id": 128,
+            "country_locode": "PK",
+            "country_slug": "pakistan",
+            "floors_above": 17,
+            "functions": "office",
+            "height_architecture": 106.1,
+            "height_architecture_formatted": 106.1,
+            "height_architecture_ft_formatted": "348",
+            "id": 15903,
+            "image": "",
+            "latitude": 31.475719,
+            "longitude": 74.342667,
+            "name": "Software Technology Park",
+            "name_linked": "<a href='/building/software-technology-park/15903' target='_blank'>Software Technology Park</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/software-technology-park/15903"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 14542, "url": "/building/xinyi-mansion/14542", "name": "Xinyi Mansion", "status": "COM", "height_architecture": 138.68, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/xinyi-mansion/14542' target='_blank'>Xinyi Mansion</a>", "country_id": 34, "country_chinese": "", "city_id": 786, "country_locode": "CN", "country_slug": "china", "city_locode": "MYG", "city": "Mianyang", "city_slug": "mianyang", "height_architecture_formatted": 138.7, "height_architecture_ft_formatted": "455", "floors_above": 36, "completed": 2001, "start": 1996, "structural_material": "", "functions": "", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Mianyang",
+            "city_id": 786,
+            "city_locode": "MYG",
+            "city_slug": "mianyang",
+            "completed": 2001,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 36,
+            "functions": "",
+            "height_architecture": 138.68,
+            "height_architecture_formatted": 138.7,
+            "height_architecture_ft_formatted": "455",
+            "id": 14542,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Xinyi Mansion",
+            "name_linked": "<a href='/building/xinyi-mansion/14542' target='_blank'>Xinyi Mansion</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1996,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/xinyi-mansion/14542"
+        }
+    ]
+}

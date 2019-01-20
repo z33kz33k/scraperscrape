@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9505, "url": "/building/three-lakeway-center/9505", "name": "Three Lakeway Center", "status": "COM", "height_architecture": 122.84, "longitude": -90.155563, "latitude": 30.01832, "rank": 1, "name_linked": "<a href='/building/three-lakeway-center/9505' target='_blank'>Three Lakeway Center</a>", "country_id": 163, "country_chinese": "", "city_id": 1637, "country_locode": "US", "country_slug": "united-states", "city_locode": "MTE", "city": "Metairie", "city_slug": "metairie", "height_architecture_formatted": 122.8, "height_architecture_ft_formatted": "403", "floors_above": 34, "completed": 1987, "start": "-", "structural_material": "", "functions": "hotel / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Metairie",
+            "city_id": 1637,
+            "city_locode": "MTE",
+            "city_slug": "metairie",
+            "completed": 1987,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 34,
+            "functions": "hotel / office",
+            "height_architecture": 122.84,
+            "height_architecture_formatted": 122.8,
+            "height_architecture_ft_formatted": "403",
+            "id": 9505,
+            "image": "",
+            "latitude": 30.01832,
+            "longitude": -90.155563,
+            "name": "Three Lakeway Center",
+            "name_linked": "<a href='/building/three-lakeway-center/9505' target='_blank'>Three Lakeway Center</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/three-lakeway-center/9505"
+        }
+    ]
+}

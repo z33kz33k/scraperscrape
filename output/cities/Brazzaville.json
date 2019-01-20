@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9045, "url": "/building/tour-nabemba/9045", "name": "Tour Nabemba", "status": "COM", "height_architecture": 106, "longitude": 15.28949, "latitude": -4.27214, "rank": 1, "name_linked": "<a href='/building/tour-nabemba/9045' target='_blank'>Tour Nabemba</a>", "country_id": 30, "country_chinese": "", "city_id": 730, "country_locode": "CG", "country_slug": "congo", "city_locode": "BZV", "city": "Brazzaville", "city_slug": "brazzaville", "height_architecture_formatted": 106, "height_architecture_ft_formatted": "348", "floors_above": 30, "completed": 1986, "start": 1983, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Brazzaville",
+            "city_id": 730,
+            "city_locode": "BZV",
+            "city_slug": "brazzaville",
+            "completed": 1986,
+            "country_chinese": "",
+            "country_id": 30,
+            "country_locode": "CG",
+            "country_slug": "congo",
+            "floors_above": 30,
+            "functions": "office",
+            "height_architecture": 106,
+            "height_architecture_formatted": 106,
+            "height_architecture_ft_formatted": "348",
+            "id": 9045,
+            "image": "",
+            "latitude": -4.27214,
+            "longitude": 15.28949,
+            "name": "Tour Nabemba",
+            "name_linked": "<a href='/building/tour-nabemba/9045' target='_blank'>Tour Nabemba</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1983,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/tour-nabemba/9045"
+        }
+    ]
+}

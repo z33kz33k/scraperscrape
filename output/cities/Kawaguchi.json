@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 2112, "url": "/building/elsa-tower-55/2112", "name": "Elsa Tower 55", "status": "COM", "height_architecture": 186, "longitude": 139.731476, "latitude": 35.796841, "rank": 1, "name_linked": "<a href='/building/elsa-tower-55/2112' target='_blank'>Elsa Tower 55</a>", "country_id": 82, "country_chinese": "", "city_id": 1039, "country_locode": "JP", "country_slug": "japan", "city_locode": "KWG", "city": "Kawaguchi", "city_slug": "kawaguchi", "height_architecture_formatted": 186, "height_architecture_ft_formatted": "610", "floors_above": 55, "completed": 1998, "start": "-", "structural_material": "steel", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Kawaguchi",
+            "city_id": 1039,
+            "city_locode": "KWG",
+            "city_slug": "kawaguchi",
+            "completed": 1998,
+            "country_chinese": "",
+            "country_id": 82,
+            "country_locode": "JP",
+            "country_slug": "japan",
+            "floors_above": 55,
+            "functions": "residential",
+            "height_architecture": 186,
+            "height_architecture_formatted": 186,
+            "height_architecture_ft_formatted": "610",
+            "id": 2112,
+            "image": "",
+            "latitude": 35.796841,
+            "longitude": 139.731476,
+            "name": "Elsa Tower 55",
+            "name_linked": "<a href='/building/elsa-tower-55/2112' target='_blank'>Elsa Tower 55</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "steel",
+            "url": "/building/elsa-tower-55/2112"
+        }
+    ]
+}

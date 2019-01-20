@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 5352, "url": "/building/rica-forum-hotel/5352", "name": "Rica Forum Hotel", "status": "COM", "height_architecture": 80, "longitude": 5.69988, "latitude": 58.954899, "rank": 1, "name_linked": "<a href='/building/rica-forum-hotel/5352' target='_blank'>Rica Forum Hotel</a>", "country_id": 119, "country_chinese": "", "city_id": 1385, "country_locode": "NO", "country_slug": "norway", "city_locode": "SVG", "city": "Stavanger", "city_slug": "stavanger", "height_architecture_formatted": 80, "height_architecture_ft_formatted": "262", "floors_above": 21, "completed": 2001, "start": "-", "structural_material": "", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Stavanger",
+            "city_id": 1385,
+            "city_locode": "SVG",
+            "city_slug": "stavanger",
+            "completed": 2001,
+            "country_chinese": "",
+            "country_id": 119,
+            "country_locode": "NO",
+            "country_slug": "norway",
+            "floors_above": 21,
+            "functions": "hotel",
+            "height_architecture": 80,
+            "height_architecture_formatted": 80,
+            "height_architecture_ft_formatted": "262",
+            "id": 5352,
+            "image": "",
+            "latitude": 58.954899,
+            "longitude": 5.69988,
+            "name": "Rica Forum Hotel",
+            "name_linked": "<a href='/building/rica-forum-hotel/5352' target='_blank'>Rica Forum Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/rica-forum-hotel/5352"
+        }
+    ]
+}

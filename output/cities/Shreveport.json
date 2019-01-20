@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9771, "url": "/building/regions-tower/9771", "name": "Regions Tower", "status": "COM", "height_architecture": 111, "longitude": -93.747787, "latitude": 32.513802, "rank": 1, "name_linked": "<a href='/building/regions-tower/9771' target='_blank'>Regions Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1685, "country_locode": "US", "country_slug": "united-states", "city_locode": "SHV", "city": "Shreveport", "city_slug": "shreveport", "height_architecture_formatted": 111, "height_architecture_ft_formatted": "364", "floors_above": 25, "completed": 1986, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Shreveport",
+            "city_id": 1685,
+            "city_locode": "SHV",
+            "city_slug": "shreveport",
+            "completed": 1986,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 25,
+            "functions": "office",
+            "height_architecture": 111,
+            "height_architecture_formatted": 111,
+            "height_architecture_ft_formatted": "364",
+            "id": 9771,
+            "image": "",
+            "latitude": 32.513802,
+            "longitude": -93.747787,
+            "name": "Regions Tower",
+            "name_linked": "<a href='/building/regions-tower/9771' target='_blank'>Regions Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/regions-tower/9771"
+        }
+    ]
+}

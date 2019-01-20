@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9644, "url": "/building/atlantis-royal-tower-east/9644", "name": "Atlantis Royal Tower East", "status": "COM", "height_architecture": 93, "longitude": -77.322868, "latitude": 25.083771, "rank": 1, "name_linked": "<a href='/building/atlantis-royal-tower-east/9644' target='_blank'>Atlantis Royal Tower East</a>", "country_id": 23, "country_chinese": "", "city_id": 702, "country_locode": "BS", "country_slug": "bahamas", "city_locode": "PID", "city": "Paradise Island", "city_slug": "paradise-island", "height_architecture_formatted": 93, "height_architecture_ft_formatted": "305", "floors_above": 23, "completed": 1998, "start": 1997, "structural_material": "concrete", "functions": "hotel / casino", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Paradise Island",
+            "city_id": 702,
+            "city_locode": "PID",
+            "city_slug": "paradise-island",
+            "completed": 1998,
+            "country_chinese": "",
+            "country_id": 23,
+            "country_locode": "BS",
+            "country_slug": "bahamas",
+            "floors_above": 23,
+            "functions": "hotel / casino",
+            "height_architecture": 93,
+            "height_architecture_formatted": 93,
+            "height_architecture_ft_formatted": "305",
+            "id": 9644,
+            "image": "",
+            "latitude": 25.083771,
+            "longitude": -77.322868,
+            "name": "Atlantis Royal Tower East",
+            "name_linked": "<a href='/building/atlantis-royal-tower-east/9644' target='_blank'>Atlantis Royal Tower East</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1997,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/atlantis-royal-tower-east/9644"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 12654, "url": "/building/az-tower/12654", "name": "AZ Tower", "status": "COM", "height_architecture": 111, "longitude": 16.605721, "latitude": 49.176079, "rank": 1, "name_linked": "<a href='/building/az-tower/12654' target='_blank'>AZ Tower</a>", "country_id": 40, "country_chinese": "", "city_id": 838, "country_locode": "CZ", "country_slug": "czech-republic", "city_locode": "BRQ", "city": "Brno", "city_slug": "brno", "height_architecture_formatted": 111, "height_architecture_ft_formatted": "364", "floors_above": 30, "completed": 2013, "start": 2011, "structural_material": "concrete", "functions": "residential / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Brno",
+            "city_id": 838,
+            "city_locode": "BRQ",
+            "city_slug": "brno",
+            "completed": 2013,
+            "country_chinese": "",
+            "country_id": 40,
+            "country_locode": "CZ",
+            "country_slug": "czech-republic",
+            "floors_above": 30,
+            "functions": "residential / office",
+            "height_architecture": 111,
+            "height_architecture_formatted": 111,
+            "height_architecture_ft_formatted": "364",
+            "id": 12654,
+            "image": "",
+            "latitude": 49.176079,
+            "longitude": 16.605721,
+            "name": "AZ Tower",
+            "name_linked": "<a href='/building/az-tower/12654' target='_blank'>AZ Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2011,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/az-tower/12654"
+        }
+    ]
+}

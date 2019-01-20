@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 16065, "url": "/building/yuxi-mining-building/16065", "name": "Yuxi Mining Building", "status": "COM", "height_architecture": 201, "longitude": 102.540833, "latitude": 24.370239, "rank": 1, "name_linked": "<a href='/building/yuxi-mining-building/16065' target='_blank'>Yuxi Mining Building</a>", "country_id": 34, "country_chinese": "", "city_id": 2165, "country_locode": "CN", "country_slug": "china", "city_locode": "YUX", "city": "Yuxi", "city_slug": "yuxi", "height_architecture_formatted": 201, "height_architecture_ft_formatted": "659", "floors_above": 39, "completed": 2013, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Yuxi",
+            "city_id": 2165,
+            "city_locode": "YUX",
+            "city_slug": "yuxi",
+            "completed": 2013,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 39,
+            "functions": "office",
+            "height_architecture": 201,
+            "height_architecture_formatted": 201,
+            "height_architecture_ft_formatted": "659",
+            "id": 16065,
+            "image": "",
+            "latitude": 24.370239,
+            "longitude": 102.540833,
+            "name": "Yuxi Mining Building",
+            "name_linked": "<a href='/building/yuxi-mining-building/16065' target='_blank'>Yuxi Mining Building</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/yuxi-mining-building/16065"
+        }
+    ]
+}

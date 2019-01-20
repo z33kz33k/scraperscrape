@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 5020, "url": "/building/edificio-torre-laguna/5020", "name": "Edificio Torre Laguna", "status": "COM", "height_architecture": 104, "longitude": -2.8028, "latitude": 36.775539, "rank": 1, "name_linked": "<a href='/building/edificio-torre-laguna/5020' target='_blank'>Edificio Torre Laguna</a>", "country_id": 51, "country_chinese": "", "city_id": 898, "country_locode": "ES", "country_slug": "spain", "city_locode": "EEJ", "city": "El Ejido", "city_slug": "el-ejido", "height_architecture_formatted": 104, "height_architecture_ft_formatted": "341", "floors_above": 30, "completed": 2009, "start": 2006, "structural_material": "concrete", "functions": "residential / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "El Ejido",
+            "city_id": 898,
+            "city_locode": "EEJ",
+            "city_slug": "el-ejido",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 51,
+            "country_locode": "ES",
+            "country_slug": "spain",
+            "floors_above": 30,
+            "functions": "residential / office",
+            "height_architecture": 104,
+            "height_architecture_formatted": 104,
+            "height_architecture_ft_formatted": "341",
+            "id": 5020,
+            "image": "",
+            "latitude": 36.775539,
+            "longitude": -2.8028,
+            "name": "Edificio Torre Laguna",
+            "name_linked": "<a href='/building/edificio-torre-laguna/5020' target='_blank'>Edificio Torre Laguna</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2006,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/edificio-torre-laguna/5020"
+        }
+    ]
+}

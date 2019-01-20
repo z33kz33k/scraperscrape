@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 12664, "url": "/building/asbury-tower/12664", "name": "Asbury Tower", "status": "COM", "height_architecture": 78, "longitude": -73.998306, "latitude": 40.228569, "rank": 1, "name_linked": "<a href='/building/asbury-tower/12664' target='_blank'>Asbury Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1507, "country_locode": "US", "country_slug": "united-states", "city_locode": "ARX", "city": "Asbury Park", "city_slug": "asbury-park", "height_architecture_formatted": 78, "height_architecture_ft_formatted": "256", "floors_above": 26, "completed": 1974, "start": 1973, "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Asbury Park",
+            "city_id": 1507,
+            "city_locode": "ARX",
+            "city_slug": "asbury-park",
+            "completed": 1974,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 26,
+            "functions": "residential",
+            "height_architecture": 78,
+            "height_architecture_formatted": 78,
+            "height_architecture_ft_formatted": "256",
+            "id": 12664,
+            "image": "",
+            "latitude": 40.228569,
+            "longitude": -73.998306,
+            "name": "Asbury Tower",
+            "name_linked": "<a href='/building/asbury-tower/12664' target='_blank'>Asbury Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1973,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/asbury-tower/12664"
+        }
+    ]
+}

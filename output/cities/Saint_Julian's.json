@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9062, "url": "/building/portomaso-business-tower/9062", "name": "Portomaso Business Tower", "status": "COM", "height_architecture": 97.54, "longitude": 14.49235, "latitude": 35.922031, "rank": 1, "name_linked": "<a href='/building/portomaso-business-tower/9062' target='_blank'>Portomaso Business Tower</a>", "country_id": 107, "country_chinese": "", "city_id": 2883, "country_locode": "MT", "country_slug": "malta", "city_locode": "STJ", "city": "Saint Julian's", "city_slug": "saint-julians", "height_architecture_formatted": 97.5, "height_architecture_ft_formatted": "320", "floors_above": 23, "completed": 2000, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Saint Julian's",
+            "city_id": 2883,
+            "city_locode": "STJ",
+            "city_slug": "saint-julians",
+            "completed": 2000,
+            "country_chinese": "",
+            "country_id": 107,
+            "country_locode": "MT",
+            "country_slug": "malta",
+            "floors_above": 23,
+            "functions": "office",
+            "height_architecture": 97.54,
+            "height_architecture_formatted": 97.5,
+            "height_architecture_ft_formatted": "320",
+            "id": 9062,
+            "image": "",
+            "latitude": 35.922031,
+            "longitude": 14.49235,
+            "name": "Portomaso Business Tower",
+            "name_linked": "<a href='/building/portomaso-business-tower/9062' target='_blank'>Portomaso Business Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/portomaso-business-tower/9062"
+        }
+    ]
+}

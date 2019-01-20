@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 20883, "url": "/building/batam-city-condominium/20883", "name": "Batam City Condominium", "status": "COM", "height_architecture": 128, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/batam-city-condominium/20883' target='_blank'>Batam City Condominium</a>", "country_id": 72, "country_chinese": "", "city_id": 2310, "country_locode": "ID", "country_slug": "indonesia", "city_locode": "BTH", "city": "Batam", "city_slug": "batam", "height_architecture_formatted": 128, "height_architecture_ft_formatted": "420", "floors_above": 28, "completed": 2011, "start": 2008, "structural_material": "", "functions": "residential / hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Batam",
+            "city_id": 2310,
+            "city_locode": "BTH",
+            "city_slug": "batam",
+            "completed": 2011,
+            "country_chinese": "",
+            "country_id": 72,
+            "country_locode": "ID",
+            "country_slug": "indonesia",
+            "floors_above": 28,
+            "functions": "residential / hotel",
+            "height_architecture": 128,
+            "height_architecture_formatted": 128,
+            "height_architecture_ft_formatted": "420",
+            "id": 20883,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Batam City Condominium",
+            "name_linked": "<a href='/building/batam-city-condominium/20883' target='_blank'>Batam City Condominium</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/batam-city-condominium/20883"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 14356, "url": "/building/orange-telecommunication-tower/14356", "name": "Orange Telecommunication Tower", "status": "COM", "height_architecture": 125, "longitude": 47.523251, "latitude": -18.884239, "rank": 1, "name_linked": "<a href='/building/orange-telecommunication-tower/14356' target='_blank'>Orange Telecommunication Tower</a>", "country_id": 101, "country_chinese": "", "city_id": 1097, "country_locode": "MG", "country_slug": "madagascar", "city_locode": "TNR", "city": "Antananarivo", "city_slug": "antananarivo", "height_architecture_formatted": 125, "height_architecture_ft_formatted": "410", "floors_above": 33, "completed": 2013, "start": 2010, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Antananarivo",
+            "city_id": 1097,
+            "city_locode": "TNR",
+            "city_slug": "antananarivo",
+            "completed": 2013,
+            "country_chinese": "",
+            "country_id": 101,
+            "country_locode": "MG",
+            "country_slug": "madagascar",
+            "floors_above": 33,
+            "functions": "office",
+            "height_architecture": 125,
+            "height_architecture_formatted": 125,
+            "height_architecture_ft_formatted": "410",
+            "id": 14356,
+            "image": "",
+            "latitude": -18.884239,
+            "longitude": 47.523251,
+            "name": "Orange Telecommunication Tower",
+            "name_linked": "<a href='/building/orange-telecommunication-tower/14356' target='_blank'>Orange Telecommunication Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2010,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/orange-telecommunication-tower/14356"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 9080, "url": "/building/suning-plaza-tower-a/9080", "name": "Suning Plaza Tower A", "status": "COM", "height_architecture": 266, "longitude": 117.182907, "latitude": 34.265915, "rank": 1, "name_linked": "<a href='/building/suning-plaza-tower-a/9080' target='_blank'>Suning Plaza Tower A</a>", "country_id": 34, "country_chinese": "", "city_id": 816, "country_locode": "CN", "country_slug": "china", "city_locode": "XUZ", "city": "Xuzhou", "city_slug": "xuzhou", "height_architecture_formatted": 266, "height_architecture_ft_formatted": "873", "floors_above": 62, "completed": 2017, "start": 2013, "structural_material": "composite", "functions": "hotel / serviced apartments / office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Xuzhou",
+            "city_id": 816,
+            "city_locode": "XUZ",
+            "city_slug": "xuzhou",
+            "completed": 2017,
+            "country_chinese": "",
+            "country_id": 34,
+            "country_locode": "CN",
+            "country_slug": "china",
+            "floors_above": 62,
+            "functions": "hotel / serviced apartments / office",
+            "height_architecture": 266,
+            "height_architecture_formatted": 266,
+            "height_architecture_ft_formatted": "873",
+            "id": 9080,
+            "image": "",
+            "latitude": 34.265915,
+            "longitude": 117.182907,
+            "name": "Suning Plaza Tower A",
+            "name_linked": "<a href='/building/suning-plaza-tower-a/9080' target='_blank'>Suning Plaza Tower A</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2013,
+            "status": "COM",
+            "structural_material": "composite",
+            "url": "/building/suning-plaza-tower-a/9080"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 27983, "url": "/building/no1-gunwharf-quays/27983", "name": "No.1 Gunwharf Quays", "status": "COM", "height_architecture": 95, "longitude": -1.10352, "latitude": 50.795441, "rank": 1, "name_linked": "<a href='/building/no1-gunwharf-quays/27983' target='_blank'>No.1 Gunwharf Quays</a>", "country_id": 56, "country_chinese": "", "city_id": 945, "country_locode": "GB", "country_slug": "united-kingdom", "city_locode": "PME", "city": "Portsmouth", "city_slug": "portsmouth", "height_architecture_formatted": 95, "height_architecture_ft_formatted": "312", "floors_above": 26, "completed": 2008, "start": 2005, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Portsmouth",
+            "city_id": 945,
+            "city_locode": "PME",
+            "city_slug": "portsmouth",
+            "completed": 2008,
+            "country_chinese": "",
+            "country_id": 56,
+            "country_locode": "GB",
+            "country_slug": "united-kingdom",
+            "floors_above": 26,
+            "functions": "residential",
+            "height_architecture": 95,
+            "height_architecture_formatted": 95,
+            "height_architecture_ft_formatted": "312",
+            "id": 27983,
+            "image": "",
+            "latitude": 50.795441,
+            "longitude": -1.10352,
+            "name": "No.1 Gunwharf Quays",
+            "name_linked": "<a href='/building/no1-gunwharf-quays/27983' target='_blank'>No.1 Gunwharf Quays</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2005,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/no1-gunwharf-quays/27983"
+        }
+    ]
+}

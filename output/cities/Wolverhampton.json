@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 17820, "url": "/building/victoria-hall/17820", "name": "Victoria Hall", "status": "COM", "height_architecture": 77, "longitude": -2.12074, "latitude": 52.58923, "rank": 1, "name_linked": "<a href='/building/victoria-hall/17820' target='_blank'>Victoria Hall</a>", "country_id": 56, "country_chinese": "", "city_id": 2232, "country_locode": "GB", "country_slug": "united-kingdom", "city_locode": "WOV", "city": "Wolverhampton", "city_slug": "wolverhampton", "height_architecture_formatted": 77, "height_architecture_ft_formatted": "253", "floors_above": 25, "completed": 2009, "start": 2008, "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Wolverhampton",
+            "city_id": 2232,
+            "city_locode": "WOV",
+            "city_slug": "wolverhampton",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 56,
+            "country_locode": "GB",
+            "country_slug": "united-kingdom",
+            "floors_above": 25,
+            "functions": "residential",
+            "height_architecture": 77,
+            "height_architecture_formatted": 77,
+            "height_architecture_ft_formatted": "253",
+            "id": 17820,
+            "image": "",
+            "latitude": 52.58923,
+            "longitude": -2.12074,
+            "name": "Victoria Hall",
+            "name_linked": "<a href='/building/victoria-hall/17820' target='_blank'>Victoria Hall</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/victoria-hall/17820"
+        }
+    ]
+}

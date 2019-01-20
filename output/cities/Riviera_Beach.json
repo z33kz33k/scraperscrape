@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10331, "url": "/building/tiara-condominiums/10331", "name": "Tiara Condominiums", "status": "COM", "height_architecture": 122, "longitude": -80.033287, "latitude": 26.786909, "rank": 1, "name_linked": "<a href='/building/tiara-condominiums/10331' target='_blank'>Tiara Condominiums</a>", "country_id": 163, "country_chinese": "", "city_id": 1668, "country_locode": "US", "country_slug": "united-states", "city_locode": "RBC", "city": "Riviera Beach", "city_slug": "riviera-beach", "height_architecture_formatted": 122, "height_architecture_ft_formatted": "400", "floors_above": 42, "completed": 1978, "start": "-", "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Riviera Beach",
+            "city_id": 1668,
+            "city_locode": "RBC",
+            "city_slug": "riviera-beach",
+            "completed": 1978,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 42,
+            "functions": "residential",
+            "height_architecture": 122,
+            "height_architecture_formatted": 122,
+            "height_architecture_ft_formatted": "400",
+            "id": 10331,
+            "image": "",
+            "latitude": 26.786909,
+            "longitude": -80.033287,
+            "name": "Tiara Condominiums",
+            "name_linked": "<a href='/building/tiara-condominiums/10331' target='_blank'>Tiara Condominiums</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/tiara-condominiums/10331"
+        }
+    ]
+}

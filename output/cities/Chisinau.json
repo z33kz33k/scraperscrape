@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 9655, "url": "/building/romashka-tower/9655", "name": "Romashka Tower", "status": "COM", "height_architecture": 91, "longitude": 28.837429, "latitude": 46.990761, "rank": 1, "name_linked": "<a href='/building/romashka-tower/9655' target='_blank'>Romashka Tower</a>", "country_id": 100, "country_chinese": "", "city_id": 1096, "country_locode": "MD", "country_slug": "moldova", "city_locode": "CHI", "city": "Chisinau", "city_slug": "chisinau", "height_architecture_formatted": 91, "height_architecture_ft_formatted": "299", "floors_above": 20, "completed": 1986, "start": "-", "structural_material": "concrete", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Chisinau",
+            "city_id": 1096,
+            "city_locode": "CHI",
+            "city_slug": "chisinau",
+            "completed": 1986,
+            "country_chinese": "",
+            "country_id": 100,
+            "country_locode": "MD",
+            "country_slug": "moldova",
+            "floors_above": 20,
+            "functions": "hotel",
+            "height_architecture": 91,
+            "height_architecture_formatted": 91,
+            "height_architecture_ft_formatted": "299",
+            "id": 9655,
+            "image": "",
+            "latitude": 46.990761,
+            "longitude": 28.837429,
+            "name": "Romashka Tower",
+            "name_linked": "<a href='/building/romashka-tower/9655' target='_blank'>Romashka Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/romashka-tower/9655"
+        }
+    ]
+}

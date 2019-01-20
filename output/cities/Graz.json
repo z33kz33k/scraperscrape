@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10178, "url": "/building/elisabeth-hochhaus/10178", "name": "Elisabeth-Hochhaus", "status": "COM", "height_architecture": 75, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/elisabeth-hochhaus/10178' target='_blank'>Elisabeth-Hochhaus</a>", "country_id": 10, "country_chinese": "", "city_id": 643, "country_locode": "AT", "country_slug": "austria", "city_locode": "GRZ", "city": "Graz", "city_slug": "graz", "height_architecture_formatted": 75, "height_architecture_ft_formatted": "246", "floors_above": 24, "completed": 1957, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Graz",
+            "city_id": 643,
+            "city_locode": "GRZ",
+            "city_slug": "graz",
+            "completed": 1957,
+            "country_chinese": "",
+            "country_id": 10,
+            "country_locode": "AT",
+            "country_slug": "austria",
+            "floors_above": 24,
+            "functions": "residential",
+            "height_architecture": 75,
+            "height_architecture_formatted": 75,
+            "height_architecture_ft_formatted": "246",
+            "id": 10178,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Elisabeth-Hochhaus",
+            "name_linked": "<a href='/building/elisabeth-hochhaus/10178' target='_blank'>Elisabeth-Hochhaus</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/elisabeth-hochhaus/10178"
+        }
+    ]
+}

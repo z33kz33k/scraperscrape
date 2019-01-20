@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:46", "towers": [{"id": 9743, "url": "/building/epic-center/9743", "name": "Epic Center", "status": "COM", "height_architecture": 97.54, "longitude": -97.33876, "latitude": 37.690128, "rank": 1, "name_linked": "<a href='/building/epic-center/9743' target='_blank'>Epic Center</a>", "country_id": 163, "country_chinese": "", "city_id": 1598, "country_locode": "US", "country_slug": "united-states", "city_locode": "ICT", "city": "Wichita", "city_slug": "wichita", "height_architecture_formatted": 97.5, "height_architecture_ft_formatted": "320", "floors_above": 22, "completed": 1989, "start": 1985, "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Wichita",
+            "city_id": 1598,
+            "city_locode": "ICT",
+            "city_slug": "wichita",
+            "completed": 1989,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 22,
+            "functions": "office",
+            "height_architecture": 97.54,
+            "height_architecture_formatted": 97.5,
+            "height_architecture_ft_formatted": "320",
+            "id": 9743,
+            "image": "",
+            "latitude": 37.690128,
+            "longitude": -97.33876,
+            "name": "Epic Center",
+            "name_linked": "<a href='/building/epic-center/9743' target='_blank'>Epic Center</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1985,
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/epic-center/9743"
+        }
+    ]
+}

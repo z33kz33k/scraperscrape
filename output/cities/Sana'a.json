@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9302, "url": "/building/qubaty-tower/9302", "name": "Qubaty Tower", "status": "COM", "height_architecture": 80, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/qubaty-tower/9302' target='_blank'>Qubaty Tower</a>", "country_id": 170, "country_chinese": "", "city_id": 1742, "country_locode": "YE", "country_slug": "yemen", "city_locode": "SAH", "city": "Sana'a", "city_slug": "sanaa", "height_architecture_formatted": 80, "height_architecture_ft_formatted": "262", "floors_above": 20, "completed": "-", "start": "-", "structural_material": "", "functions": "", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Sana'a",
+            "city_id": 1742,
+            "city_locode": "SAH",
+            "city_slug": "sanaa",
+            "completed": "-",
+            "country_chinese": "",
+            "country_id": 170,
+            "country_locode": "YE",
+            "country_slug": "yemen",
+            "floors_above": 20,
+            "functions": "",
+            "height_architecture": 80,
+            "height_architecture_formatted": 80,
+            "height_architecture_ft_formatted": "262",
+            "id": 9302,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Qubaty Tower",
+            "name_linked": "<a href='/building/qubaty-tower/9302' target='_blank'>Qubaty Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/qubaty-tower/9302"
+        }
+    ]
+}

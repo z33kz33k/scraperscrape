@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 9197, "url": "/building/w-hoboken-hotel-and-residential-condominiums/9197", "name": "W Hoboken Hotel and Residential Condominiums", "status": "COM", "height_architecture": 95.5, "longitude": -74.027832, "latitude": 40.739231, "rank": 1, "name_linked": "<a href='/building/w-hoboken-hotel-and-residential-condominiums/9197' target='_blank'>W Hoboken Hotel and Residential Condominiums</a>", "country_id": 163, "country_chinese": "", "city_id": 1589, "country_locode": "US", "country_slug": "united-states", "city_locode": "HBK", "city": "Hoboken", "city_slug": "hoboken", "height_architecture_formatted": 95.5, "height_architecture_ft_formatted": "313", "floors_above": 27, "completed": 2009, "start": 2005, "structural_material": "concrete", "functions": "residential / hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Hoboken",
+            "city_id": 1589,
+            "city_locode": "HBK",
+            "city_slug": "hoboken",
+            "completed": 2009,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 27,
+            "functions": "residential / hotel",
+            "height_architecture": 95.5,
+            "height_architecture_formatted": 95.5,
+            "height_architecture_ft_formatted": "313",
+            "id": 9197,
+            "image": "",
+            "latitude": 40.739231,
+            "longitude": -74.027832,
+            "name": "W Hoboken Hotel and Residential Condominiums",
+            "name_linked": "<a href='/building/w-hoboken-hotel-and-residential-condominiums/9197' target='_blank'>W Hoboken Hotel and Residential Condominiums</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2005,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/w-hoboken-hotel-and-residential-condominiums/9197"
+        }
+    ]
+}

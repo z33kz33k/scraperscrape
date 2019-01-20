@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 10050, "url": "/building/alliant-tower/10050", "name": "Alliant Tower", "status": "COM", "height_architecture": 82.9, "longitude": -91.668022, "latitude": 41.976879, "rank": 1, "name_linked": "<a href='/building/alliant-tower/10050' target='_blank'>Alliant Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1540, "country_locode": "US", "country_slug": "united-states", "city_locode": "CID", "city": "Cedar Rapids", "city_slug": "cedar-rapids", "height_architecture_formatted": 82.9, "height_architecture_ft_formatted": "272", "floors_above": 21, "completed": 1972, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Cedar Rapids",
+            "city_id": 1540,
+            "city_locode": "CID",
+            "city_slug": "cedar-rapids",
+            "completed": 1972,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 82.9,
+            "height_architecture_formatted": 82.9,
+            "height_architecture_ft_formatted": "272",
+            "id": 10050,
+            "image": "",
+            "latitude": 41.976879,
+            "longitude": -91.668022,
+            "name": "Alliant Tower",
+            "name_linked": "<a href='/building/alliant-tower/10050' target='_blank'>Alliant Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/alliant-tower/10050"
+        }
+    ]
+}

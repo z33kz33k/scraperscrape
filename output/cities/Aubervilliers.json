@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 4668, "url": "/building/tour-la-villette/4668", "name": "Tour la Villette", "status": "COM", "height_architecture": 125, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/tour-la-villette/4668' target='_blank'>Tour la Villette</a>", "country_id": 55, "country_chinese": "", "city_id": 916, "country_locode": "FR", "country_slug": "france", "city_locode": "AVS", "city": "Aubervilliers", "city_slug": "aubervilliers", "height_architecture_formatted": 125, "height_architecture_ft_formatted": "410", "floors_above": 35, "completed": 1973, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Aubervilliers",
+            "city_id": 916,
+            "city_locode": "AVS",
+            "city_slug": "aubervilliers",
+            "completed": 1973,
+            "country_chinese": "",
+            "country_id": 55,
+            "country_locode": "FR",
+            "country_slug": "france",
+            "floors_above": 35,
+            "functions": "office",
+            "height_architecture": 125,
+            "height_architecture_formatted": 125,
+            "height_architecture_ft_formatted": "410",
+            "id": 4668,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Tour la Villette",
+            "name_linked": "<a href='/building/tour-la-villette/4668' target='_blank'>Tour la Villette</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/tour-la-villette/4668"
+        }
+    ]
+}

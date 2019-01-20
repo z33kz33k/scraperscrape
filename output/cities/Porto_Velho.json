@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 29923, "url": "/building/maison-chamounix/29923", "name": "Maison Chamounix", "status": "COM", "height_architecture": 83, "longitude": -63.906841, "latitude": -8.75736, "rank": 1, "name_linked": "<a href='/building/maison-chamounix/29923' target='_blank'>Maison Chamounix</a>", "country_id": 22, "country_chinese": "", "city_id": 2702, "country_locode": "BR", "country_slug": "brazil", "city_locode": "PVH", "city": "Porto Velho", "city_slug": "porto-velho", "height_architecture_formatted": 83, "height_architecture_ft_formatted": "272", "floors_above": 24, "completed": 2008, "start": 2004, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Porto Velho",
+            "city_id": 2702,
+            "city_locode": "PVH",
+            "city_slug": "porto-velho",
+            "completed": 2008,
+            "country_chinese": "",
+            "country_id": 22,
+            "country_locode": "BR",
+            "country_slug": "brazil",
+            "floors_above": 24,
+            "functions": "residential",
+            "height_architecture": 83,
+            "height_architecture_formatted": 83,
+            "height_architecture_ft_formatted": "272",
+            "id": 29923,
+            "image": "",
+            "latitude": -8.75736,
+            "longitude": -63.906841,
+            "name": "Maison Chamounix",
+            "name_linked": "<a href='/building/maison-chamounix/29923' target='_blank'>Maison Chamounix</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2004,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/maison-chamounix/29923"
+        }
+    ]
+}

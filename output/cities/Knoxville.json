@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 16494, "url": "/building/plaza-tower/16494", "name": "Plaza Tower", "status": "COM", "height_architecture": 99.68, "longitude": -83.916008, "latitude": 35.962448, "rank": 1, "name_linked": "<a href='/building/plaza-tower/16494' target='_blank'>Plaza Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 2178, "country_locode": "US", "country_slug": "united-states", "city_locode": "KXV", "city": "Knoxville", "city_slug": "knoxville", "height_architecture_formatted": 99.7, "height_architecture_ft_formatted": "327", "floors_above": 27, "completed": 1979, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Knoxville",
+            "city_id": 2178,
+            "city_locode": "KXV",
+            "city_slug": "knoxville",
+            "completed": 1979,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 27,
+            "functions": "office",
+            "height_architecture": 99.68,
+            "height_architecture_formatted": 99.7,
+            "height_architecture_ft_formatted": "327",
+            "id": 16494,
+            "image": "",
+            "latitude": 35.962448,
+            "longitude": -83.916008,
+            "name": "Plaza Tower",
+            "name_linked": "<a href='/building/plaza-tower/16494' target='_blank'>Plaza Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/plaza-tower/16494"
+        }
+    ]
+}

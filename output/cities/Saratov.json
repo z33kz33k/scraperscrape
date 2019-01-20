@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4461, "url": "/building/elena/4461", "name": "Elena", "status": "COM", "height_architecture": 134.97, "longitude": 46.06385, "latitude": 51.529469, "rank": 1, "name_linked": "<a href='/building/elena/4461' target='_blank'>Elena</a>", "country_id": 135, "country_chinese": "", "city_id": 1443, "country_locode": "RU", "country_slug": "russia", "city_locode": "RTW", "city": "Saratov", "city_slug": "saratov", "height_architecture_formatted": 135, "height_architecture_ft_formatted": "443", "floors_above": 38, "completed": 2014, "start": 2006, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Saratov",
+            "city_id": 1443,
+            "city_locode": "RTW",
+            "city_slug": "saratov",
+            "completed": 2014,
+            "country_chinese": "",
+            "country_id": 135,
+            "country_locode": "RU",
+            "country_slug": "russia",
+            "floors_above": 38,
+            "functions": "residential",
+            "height_architecture": 134.97,
+            "height_architecture_formatted": 135,
+            "height_architecture_ft_formatted": "443",
+            "id": 4461,
+            "image": "",
+            "latitude": 51.529469,
+            "longitude": 46.06385,
+            "name": "Elena",
+            "name_linked": "<a href='/building/elena/4461' target='_blank'>Elena</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2006,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/elena/4461"
+        }
+    ]
+}

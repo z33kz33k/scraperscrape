@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 28578, "url": "/building/vale-house/28578", "name": "Vale House", "status": "COM", "height_architecture": 80, "longitude": -1.5894, "latitude": 54.984821, "rank": 1, "name_linked": "<a href='/building/vale-house/28578' target='_blank'>Vale House</a>", "country_id": 56, "country_chinese": "", "city_id": 2382, "country_locode": "GB", "country_slug": "united-kingdom", "city_locode": "NCL", "city": "Newcastle upon Tyne", "city_slug": "newcastle-upon-tyne", "height_architecture_formatted": 80, "height_architecture_ft_formatted": "262", "floors_above": 28, "completed": 1968, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Newcastle upon Tyne",
+            "city_id": 2382,
+            "city_locode": "NCL",
+            "city_slug": "newcastle-upon-tyne",
+            "completed": 1968,
+            "country_chinese": "",
+            "country_id": 56,
+            "country_locode": "GB",
+            "country_slug": "united-kingdom",
+            "floors_above": 28,
+            "functions": "residential",
+            "height_architecture": 80,
+            "height_architecture_formatted": 80,
+            "height_architecture_ft_formatted": "262",
+            "id": 28578,
+            "image": "",
+            "latitude": 54.984821,
+            "longitude": -1.5894,
+            "name": "Vale House",
+            "name_linked": "<a href='/building/vale-house/28578' target='_blank'>Vale House</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/vale-house/28578"
+        }
+    ]
+}

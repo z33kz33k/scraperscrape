@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 14930, "url": "/building/persian-gulf-complex-international-hotel/14930", "name": "Persian Gulf Complex International Hotel", "status": "STO", "height_architecture": 147.5, "longitude": 52.43998, "latitude": 29.75778, "rank": 1, "name_linked": "<a href='/building/persian-gulf-complex-international-hotel/14930' target='_blank'>Persian Gulf Complex International Hotel</a>", "country_id": 77, "country_chinese": "", "city_id": 1003, "country_locode": "IR", "country_slug": "iran", "city_locode": "SYZ", "city": "Shiraz", "city_slug": "shiraz", "height_architecture_formatted": 147.5, "height_architecture_ft_formatted": "484", "floors_above": 39, "completed": 2018, "start": 2008, "structural_material": "concrete", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Shiraz",
+            "city_id": 1003,
+            "city_locode": "SYZ",
+            "city_slug": "shiraz",
+            "completed": 2018,
+            "country_chinese": "",
+            "country_id": 77,
+            "country_locode": "IR",
+            "country_slug": "iran",
+            "floors_above": 39,
+            "functions": "hotel",
+            "height_architecture": 147.5,
+            "height_architecture_formatted": 147.5,
+            "height_architecture_ft_formatted": "484",
+            "id": 14930,
+            "image": "",
+            "latitude": 29.75778,
+            "longitude": 52.43998,
+            "name": "Persian Gulf Complex International Hotel",
+            "name_linked": "<a href='/building/persian-gulf-complex-international-hotel/14930' target='_blank'>Persian Gulf Complex International Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2008,
+            "status": "STO",
+            "structural_material": "concrete",
+            "url": "/building/persian-gulf-complex-international-hotel/14930"
+        }
+    ]
+}

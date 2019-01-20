@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 11324, "url": "/building/ediacuteficio-nova-poacutevoa/11324", "name": "Ed&iacute;ficio Nova P&oacute;voa", "status": "COM", "height_architecture": 84, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/ediacuteficio-nova-poacutevoa/11324' target='_blank'>Ed&iacute;ficio Nova P&oacute;voa</a>", "country_id": 131, "country_chinese": "", "city_id": 1424, "country_locode": "PT", "country_slug": "portugal", "city_locode": "PDV", "city": "Povoa de Varzim", "city_slug": "povoa-de-varzim", "height_architecture_formatted": 84, "height_architecture_ft_formatted": "276", "floors_above": 29, "completed": 1980, "start": "-", "structural_material": "", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Povoa de Varzim",
+            "city_id": 1424,
+            "city_locode": "PDV",
+            "city_slug": "povoa-de-varzim",
+            "completed": 1980,
+            "country_chinese": "",
+            "country_id": 131,
+            "country_locode": "PT",
+            "country_slug": "portugal",
+            "floors_above": 29,
+            "functions": "residential",
+            "height_architecture": 84,
+            "height_architecture_formatted": 84,
+            "height_architecture_ft_formatted": "276",
+            "id": 11324,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Ed&iacute;ficio Nova P&oacute;voa",
+            "name_linked": "<a href='/building/ediacuteficio-nova-poacutevoa/11324' target='_blank'>Ed&iacute;ficio Nova P&oacute;voa</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/ediacuteficio-nova-poacutevoa/11324"
+        }
+    ]
+}

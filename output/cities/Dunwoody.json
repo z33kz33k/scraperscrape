@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 18518, "url": "/building/three-ravinia-drive/18518", "name": "Three Ravinia Drive", "status": "COM", "height_architecture": 135.3, "longitude": -84.334923, "latitude": 33.92067, "rank": 1, "name_linked": "<a href='/building/three-ravinia-drive/18518' target='_blank'>Three Ravinia Drive</a>", "country_id": 163, "country_chinese": "", "city_id": 2268, "country_locode": "US", "country_slug": "united-states", "city_locode": "DW3", "city": "Dunwoody", "city_slug": "dunwoody", "height_architecture_formatted": 135.3, "height_architecture_ft_formatted": "444", "floors_above": 33, "completed": 1991, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Dunwoody",
+            "city_id": 2268,
+            "city_locode": "DW3",
+            "city_slug": "dunwoody",
+            "completed": 1991,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 33,
+            "functions": "office",
+            "height_architecture": 135.3,
+            "height_architecture_formatted": 135.3,
+            "height_architecture_ft_formatted": "444",
+            "id": 18518,
+            "image": "",
+            "latitude": 33.92067,
+            "longitude": -84.334923,
+            "name": "Three Ravinia Drive",
+            "name_linked": "<a href='/building/three-ravinia-drive/18518' target='_blank'>Three Ravinia Drive</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/three-ravinia-drive/18518"
+        }
+    ]
+}

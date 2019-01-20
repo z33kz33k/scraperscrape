@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 12741, "url": "/building/the-tower/12741", "name": "The Tower", "status": "COM", "height_architecture": 140.2, "longitude": -118.342621, "latitude": 34.15295, "rank": 1, "name_linked": "<a href='/building/the-tower/12741' target='_blank'>The Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1531, "country_locode": "US", "country_slug": "united-states", "city_locode": "BUR", "city": "Burbank", "city_slug": "burbank", "height_architecture_formatted": 140.2, "height_architecture_ft_formatted": "460", "floors_above": 32, "completed": 1988, "start": 1987, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Burbank",
+            "city_id": 1531,
+            "city_locode": "BUR",
+            "city_slug": "burbank",
+            "completed": 1988,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 32,
+            "functions": "office",
+            "height_architecture": 140.2,
+            "height_architecture_formatted": 140.2,
+            "height_architecture_ft_formatted": "460",
+            "id": 12741,
+            "image": "",
+            "latitude": 34.15295,
+            "longitude": -118.342621,
+            "name": "The Tower",
+            "name_linked": "<a href='/building/the-tower/12741' target='_blank'>The Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1987,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/the-tower/12741"
+        }
+    ]
+}

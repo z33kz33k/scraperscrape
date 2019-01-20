@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 4573, "url": "/building/hsinchu-ambassador-hotel/4573", "name": "Hsinchu Ambassador Hotel", "status": "COM", "height_architecture": 130, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/hsinchu-ambassador-hotel/4573' target='_blank'>Hsinchu Ambassador Hotel</a>", "country_id": 159, "country_chinese": "", "city_id": 1484, "country_locode": "TW", "country_slug": "taiwan", "city_locode": "HSZ", "city": "Hsinchu", "city_slug": "hsinchu", "height_architecture_formatted": 130, "height_architecture_ft_formatted": "427", "floors_above": 24, "completed": 2001, "start": "-", "structural_material": "", "functions": "hotel / retail", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Hsinchu",
+            "city_id": 1484,
+            "city_locode": "HSZ",
+            "city_slug": "hsinchu",
+            "completed": 2001,
+            "country_chinese": "",
+            "country_id": 159,
+            "country_locode": "TW",
+            "country_slug": "taiwan",
+            "floors_above": 24,
+            "functions": "hotel / retail",
+            "height_architecture": 130,
+            "height_architecture_formatted": 130,
+            "height_architecture_ft_formatted": "427",
+            "id": 4573,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "Hsinchu Ambassador Hotel",
+            "name_linked": "<a href='/building/hsinchu-ambassador-hotel/4573' target='_blank'>Hsinchu Ambassador Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/hsinchu-ambassador-hotel/4573"
+        }
+    ]
+}

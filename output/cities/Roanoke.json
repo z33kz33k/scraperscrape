@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10572, "url": "/building/wells-fargo-tower/10572", "name": "Wells Fargo Tower", "status": "COM", "height_architecture": 97.54, "longitude": -79.940163, "latitude": 37.27277, "rank": 1, "name_linked": "<a href='/building/wells-fargo-tower/10572' target='_blank'>Wells Fargo Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 1673, "country_locode": "US", "country_slug": "united-states", "city_locode": "ROA", "city": "Roanoke", "city_slug": "roanoke", "height_architecture_formatted": 97.5, "height_architecture_ft_formatted": "320", "floors_above": 21, "completed": 1991, "start": 1990, "structural_material": "concrete", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Roanoke",
+            "city_id": 1673,
+            "city_locode": "ROA",
+            "city_slug": "roanoke",
+            "completed": 1991,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 97.54,
+            "height_architecture_formatted": 97.5,
+            "height_architecture_ft_formatted": "320",
+            "id": 10572,
+            "image": "",
+            "latitude": 37.27277,
+            "longitude": -79.940163,
+            "name": "Wells Fargo Tower",
+            "name_linked": "<a href='/building/wells-fargo-tower/10572' target='_blank'>Wells Fargo Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 1990,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/wells-fargo-tower/10572"
+        }
+    ]
+}

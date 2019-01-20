@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 28151, "url": "/building/university-hospital/28151", "name": "University Hospital", "status": "UC", "height_architecture": 100, "longitude": 0, "latitude": 0, "rank": 1, "name_linked": "<a href='/building/university-hospital/28151' target='_blank'>University Hospital</a>", "country_id": 43, "country_chinese": "", "city_id": 879, "country_locode": "DK", "country_slug": "denmark", "city_locode": "AAR", "city": "Arhus", "city_slug": "arhus", "height_architecture_formatted": 100, "height_architecture_ft_formatted": "328", "floors_above": 25, "completed": 2018, "start": 2016, "structural_material": "", "functions": "hospital", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Arhus",
+            "city_id": 879,
+            "city_locode": "AAR",
+            "city_slug": "arhus",
+            "completed": 2018,
+            "country_chinese": "",
+            "country_id": 43,
+            "country_locode": "DK",
+            "country_slug": "denmark",
+            "floors_above": 25,
+            "functions": "hospital",
+            "height_architecture": 100,
+            "height_architecture_formatted": 100,
+            "height_architecture_ft_formatted": "328",
+            "id": 28151,
+            "image": "",
+            "latitude": 0,
+            "longitude": 0,
+            "name": "University Hospital",
+            "name_linked": "<a href='/building/university-hospital/28151' target='_blank'>University Hospital</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2016,
+            "status": "UC",
+            "structural_material": "",
+            "url": "/building/university-hospital/28151"
+        }
+    ]
+}

@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:44", "towers": [{"id": 17544, "url": "/building/plaza-tower/17544", "name": "Plaza Tower", "status": "COM", "height_architecture": 86.3, "longitude": -117.881401, "latitude": 33.690769, "rank": 1, "name_linked": "<a href='/building/plaza-tower/17544' target='_blank'>Plaza Tower</a>", "country_id": 163, "country_chinese": "", "city_id": 2204, "country_locode": "US", "country_slug": "united-states", "city_locode": "CZM", "city": "Costa Mesa", "city_slug": "costa-mesa", "height_architecture_formatted": 86.3, "height_architecture_ft_formatted": "283", "floors_above": 21, "completed": 1992, "start": "-", "structural_material": "", "functions": "office", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:16",
+    "towers": [
+        {
+            "city": "Costa Mesa",
+            "city_id": 2204,
+            "city_locode": "CZM",
+            "city_slug": "costa-mesa",
+            "completed": 1992,
+            "country_chinese": "",
+            "country_id": 163,
+            "country_locode": "US",
+            "country_slug": "united-states",
+            "floors_above": 21,
+            "functions": "office",
+            "height_architecture": 86.3,
+            "height_architecture_formatted": 86.3,
+            "height_architecture_ft_formatted": "283",
+            "id": 17544,
+            "image": "",
+            "latitude": 33.690769,
+            "longitude": -117.881401,
+            "name": "Plaza Tower",
+            "name_linked": "<a href='/building/plaza-tower/17544' target='_blank'>Plaza Tower</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "",
+            "url": "/building/plaza-tower/17544"
+        }
+    ]
+}

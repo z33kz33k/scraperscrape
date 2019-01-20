@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 10420, "url": "/building/astrum-spa-conference-hotel/10420", "name": "Astrum Spa & Conference Hotel", "status": "COM", "height_architecture": 115, "longitude": 37.997841, "latitude": 55.923889, "rank": 1, "name_linked": "<a href='/building/astrum-spa-conference-hotel/10420' target='_blank'>Astrum Spa & Conference Hotel</a>", "country_id": 135, "country_chinese": "", "city_id": 1444, "country_locode": "RU", "country_slug": "russia", "city_locode": "SHC", "city": "Shchyolkovo", "city_slug": "shchyolkovo", "height_architecture_formatted": 115, "height_architecture_ft_formatted": "377", "floors_above": 28, "completed": 2015, "start": "-", "structural_material": "concrete", "functions": "hotel", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Shchyolkovo",
+            "city_id": 1444,
+            "city_locode": "SHC",
+            "city_slug": "shchyolkovo",
+            "completed": 2015,
+            "country_chinese": "",
+            "country_id": 135,
+            "country_locode": "RU",
+            "country_slug": "russia",
+            "floors_above": 28,
+            "functions": "hotel",
+            "height_architecture": 115,
+            "height_architecture_formatted": 115,
+            "height_architecture_ft_formatted": "377",
+            "id": 10420,
+            "image": "",
+            "latitude": 55.923889,
+            "longitude": 37.997841,
+            "name": "Astrum Spa & Conference Hotel",
+            "name_linked": "<a href='/building/astrum-spa-conference-hotel/10420' target='_blank'>Astrum Spa & Conference Hotel</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": "-",
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/astrum-spa-conference-hotel/10420"
+        }
+    ]
+}

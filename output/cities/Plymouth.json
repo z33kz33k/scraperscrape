@@ -1,1 +1,33 @@
-{"timestamp": "2019-Jan-20 15:57:45", "towers": [{"id": 16712, "url": "/building/beckley-court/16712", "name": "Beckley Court", "status": "COM", "height_architecture": 78, "longitude": -4.14194, "latitude": 50.374569, "rank": 1, "name_linked": "<a href='/building/beckley-court/16712' target='_blank'>Beckley Court</a>", "country_id": 56, "country_chinese": "", "city_id": 944, "country_locode": "GB", "country_slug": "united-kingdom", "city_locode": "PLY", "city": "Plymouth", "city_slug": "plymouth", "height_architecture_formatted": 78, "height_architecture_ft_formatted": "256", "floors_above": 22, "completed": 2018, "start": 2015, "structural_material": "concrete", "functions": "residential", "retrofit_functions": "", "image": ""}]}
+{
+    "timestamp": "2019-Jan-20 16:05:17",
+    "towers": [
+        {
+            "city": "Plymouth",
+            "city_id": 944,
+            "city_locode": "PLY",
+            "city_slug": "plymouth",
+            "completed": 2018,
+            "country_chinese": "",
+            "country_id": 56,
+            "country_locode": "GB",
+            "country_slug": "united-kingdom",
+            "floors_above": 22,
+            "functions": "residential",
+            "height_architecture": 78,
+            "height_architecture_formatted": 78,
+            "height_architecture_ft_formatted": "256",
+            "id": 16712,
+            "image": "",
+            "latitude": 50.374569,
+            "longitude": -4.14194,
+            "name": "Beckley Court",
+            "name_linked": "<a href='/building/beckley-court/16712' target='_blank'>Beckley Court</a>",
+            "rank": 1,
+            "retrofit_functions": "",
+            "start": 2015,
+            "status": "COM",
+            "structural_material": "concrete",
+            "url": "/building/beckley-court/16712"
+        }
+    ]
+}
