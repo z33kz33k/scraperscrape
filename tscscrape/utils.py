@@ -4,12 +4,12 @@ import os
 
 
 def timestamp():
-    """Return timestamp of now"""
+    """Return timestamp of now."""
     return "{:%Y-%b-%d %H:%M:%S}".format(datetime.datetime.now())
 
 
 def split_json(src, dest):
-    """Split large JSON file into smaller ones"""
+    """Split large JSON file into smaller ones."""
     with open(src) as srcfile:
         data = json.load(srcfile)
         tempdata = data.get("data")

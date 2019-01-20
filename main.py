@@ -1,15 +1,13 @@
 import os
+import json
 
-from tscscrape.scraper import scrape_allcities
+from tscscrape.scraper import scrape_allcities, calculate_rating
 from tscscrape.utils import split_json
+from tscscrape.constants import CITIES_PATH
 
 
 def main():
     """Run the script"""
-    # scrape_allcities(floor=75)
-    src = os.path.join("output", "cities.json")
-    dest = os.path.join("output", "cities")
-    split_json(src, dest)
 
 
 if __name__ == "__main__":
