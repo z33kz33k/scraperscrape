@@ -2,10 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
+import os
 from pprint import pprint
 
 from tscscrape.constants import URL, CITIES_CODES, HEIGHT_RANGES
 from tscscrape.errors import PageWrongFormatError
+from tscscrape.utils import timestamp
 
 
 def scrape_city(city, height_range="All", trim_heightless=True, floor=None):
@@ -35,26 +37,24 @@ def scrape_city(city, height_range="All", trim_heightless=True, floor=None):
 
 def scrape_allcities(height_range="All", trim_heightless=True, floor=None):
     """Scrape all cities data and dump it to file"""
-    cities = {}
     for i, key in enumerate(key for key in CITIES_CODES.keys() if key != "All"):
-        try:
-            towers = scrape_city(key, height_range, trim_heightless, floor)
-        except PageWrongFormatError:
-            towers = []
-        if towers:
-            cities.update({key: towers})
-        print("{}: Scraped {} {} for '{}'...".format(
-            str(i + 1).zfill(4),
-            str(len(towers)),
-            "towers" if len(towers) != 1 else "tower",
-            key
-        ))
-        time.sleep(0.02)
-
-    with open("output/cities.json", mode="w") as jsonfile:
-        json.dump(cities, jsonfile)
-
-
-# result = scrape_city("London", "100m+", True)
-# print(len(result))
-# pprint(result)
+        if i in range(100, 110):
+            try:
+                towers = scrape_city(key, height_range, trim_heightless, floor)
+            except PageWrongFormatError:
+                towers = []
+            if towers:
+                data = {
+                    "timestamp": timestamp(),
+                    "towers": towers
+                }
+                destpath = os.path.join("output", "cities", "{}.json".format(key.replace(" ", "_")))
+                with open(destpath, mode="w") as jsonfile:
+                    json.dump(data, jsonfile)
+            print("{}: Scraped {} {} for '{}'...".format(
+                str(i + 1).zfill(4),
+                str(len(towers)),
+                "towers" if len(towers) != 1 else "tower",
+                key
+            ))
+            time.sleep(0.02)
