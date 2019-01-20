@@ -1,12 +1,22 @@
+"""
+
+    tscscrape.scraper
+    ~~~~~~~~~~~~~~~~~
+    Scrape the scrapers
+
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import json
 import time
 import os
 from collections import Counter
+import csv
 from pprint import pprint
 
-from tscscrape.constants import URL, CITIES_CODES, HEIGHT_RANGES, CITIES_PATH, RATINGS_MATRIX
+from tscscrape.constants import URL, CITIES_CODES, HEIGHT_RANGES
+from tscscrape.constants import CITIES_PATH, RATINGS_MATRIX, STATUS
 from tscscrape.errors import PageWrongFormatError
 from tscscrape.utils import timestamp
 
@@ -62,27 +72,9 @@ def scrape_allcities(height_range="All", trim_heightless=True, floor=None):
         time.sleep(0.02)
 
 
-def calculate_rating(citydata):
-    """Calculate city rating based on city data.
+def get_tiers(citydata):
+    """Group towers into tiers based on their height."""
 
-    Tower heights were grouped into tiers using the following formula:
-
-        >>> base = 75.0
-        >>> for i in range(6):
-        ...     print("{}: {:.0f}".format(i+1, base))
-        ...     base *= 1.412
-        ...
-        1: 75
-        2: 106
-        3: 150
-        4: 211
-        5: 298
-        6: 421
-        >>>
-
-    Point scoring progression inspired by F1 Scoring System
-    (https://en.wikipedia.org/wiki/List_of_Formula_One_World_Championship_points_scoring_systems)
-    """
     def get_tier(towerdata):
         height = float(towerdata["height_architecture"])
         heights = {k: float(v[0]) for k, v in RATINGS_MATRIX.items()}
@@ -103,11 +95,44 @@ def calculate_rating(citydata):
                 int(heights["tier_1"])))
 
     towers = citydata["towers"]
-    counter = Counter()
+    tiers = Counter()
     for tower in towers:
         tier = get_tier(tower)
-        counter[tier] += 1
+        tiers[tier] += 1
 
+    return tiers
+
+
+def calculate_rating(tiers):
+    """Calculate city rating according to height tiers of its towers.
+
+    Tower heights were grouped into tiers using the following formula:
+
+        >>> base = 75.0
+        >>> for i in range(6):
+        ...     print("{}: {:.0f}".format(i+1, base))
+        ...     base *= 1.412
+        ...
+        1: 75
+        2: 106
+        3: 150
+        4: 211
+        5: 298
+        6: 421
+        >>>
+
+    Point scoring progression inspired by F1 Scoring System
+    (https://en.wikipedia.org/wiki/List_of_Formula_One_World_Championship_points_scoring_systems)
+    """
     scores = {k: v[1] for k, v in RATINGS_MATRIX.items()}
+    return sum(v * scores[k] for k, v in tiers.items())
 
-    return sum(v * scores[k] for k, v in counter.items())
+
+def get_uncompleted(citydata):
+    """Get number of uncompleted towers"""
+    towers = citydata["towers"]
+    uncompleted = [tower for tower in towers if tower["status"] != STATUS["Completed"]]
+    return len(uncompleted)
+
+
+# TODO: implement City class and use it to generate output data

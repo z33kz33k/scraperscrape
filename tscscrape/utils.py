@@ -1,3 +1,11 @@
+"""
+
+    tscscrape.utils
+    ~~~~~~~~~~~~~~~
+    Auxiliary functions
+
+"""
+
 import datetime
 import json
 import os

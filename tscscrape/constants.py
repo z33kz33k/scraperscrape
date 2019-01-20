@@ -1,3 +1,11 @@
+"""
+
+    tscscrape.constants
+    ~~~~~~~~~~~~~~~~~~~
+    Constants to import in other modules
+
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import os
@@ -8,7 +16,9 @@ with open(os.path.join("settings", "settings.json"), encoding="utf-8") as f:
     _settings = json.load(f)
 
 CITIES_PATH = os.path.join(*_settings["cities_path"])
+REGIONS_PATH = os.path.join(*_settings["regions_path"])
 RATINGS_MATRIX = _settings["ratings_matrix"]
+STATUS = _settings["status"]
 
 URL = "http://www.skyscrapercenter.com/compare-data/submit?type%5B%5D=building&status%5B%5D=COM&status%5B%5D=UC&status%5B%5D=UCT&status%5B%5D=STO&base_region=0&base_country=0&base_city={}&base_height_range={}&base_company=All&base_min_year=1900&base_max_year=9999&comp_region=0&comp_country=0&comp_city=0&comp_height_range=4&comp_company=All&comp_min_year=1960&comp_max_year=2020&skip_comparison=on&output%5B%5D=list&dataSubmit=Show+Results"
 

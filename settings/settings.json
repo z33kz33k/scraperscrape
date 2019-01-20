@@ -3,6 +3,10 @@
         "output",
         "cities"
     ],
+    "regions_path": [
+        "tscscrape",
+        "regions_src"
+    ],
     "ratings_matrix": {
         "tier_1": [
             75,
@@ -28,5 +32,21 @@
             421,
             10
         ]
+    },
+    "status": {
+        "Completed": "COM",
+        "Architecturally Topped Out": "UCT",
+        "Structurally Topped Out": "STO",
+        "Under Construction": "UC"
+    },
+    "regions": {
+        "EU": "Europe",
+        "NA": "North America",
+        "CA": "Central America",
+        "SA": "South America",
+        "AF": "Africa",
+        "ME": "Middle East",
+        "AS": "Asia",
+        "OC": "Oceania"
     }
 }
