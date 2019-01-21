@@ -12,68 +12,102 @@ import json
 import time
 import os
 from collections import Counter
+import itertools
 import csv
 from pprint import pprint
 
-from tscscrape.constants import URL, CITIES_CODES, HEIGHT_RANGES
+from tscscrape.constants import URL, CITIES, HEIGHT_RANGES
 from tscscrape.constants import CITIES_PATH, RATINGS_MATRIX, STATUS
 from tscscrape.errors import PageWrongFormatError
 from tscscrape.utils import timestamp
 
 
-def scrape_city(city, height_range="All", trim_heightless=True, floor=None):
-    """Scrape city data by looking through the page's source and finding javascript tag that declares variable 'buildings' that gets assigned towers data in the form of a javascript object. The extracted object is turned into Python dict and returned.
-    """
-    keystr = "var buildings = "
-    url = URL.format(CITIES_CODES[city], HEIGHT_RANGES[height_range])
-    contents = requests.get(url).text
-    soup = BeautifulSoup(contents, "lxml")
-    try:
-        result = next(resultset for resultset in soup.find_all("script", type="text/javascript")
-                      if keystr in resultset.text)
-    except StopIteration:
-        raise PageWrongFormatError(
-            "Page for '{}' seems to have wrong format (missing '{}' string).\nFull URL: {}".format(city, keystr, url))
-    result = result.text.strip()
-    # get javascript object containg towers' data from page's source
-    result = "".join(result.split(keystr)[1:])[:-1]  # trim trailing ';'
-    result = json.loads(result)
+class Scraper:
+    """Scrapes data from www.skyscrapercenter.com"""
 
-    if trim_heightless:
-        result = [tower for tower in result if tower["height_architecture"] != "-"]
+    HOOK = "var buildings = "
 
-    if floor:
-        result = [tower for tower in result if float(tower["height_architecture"]) >= floor]
+    def __init__(self, height_range="All", trim_heightless=True, height_floor=75):
+        """
+        Keyword Arguments:
+            height_range {str} -- height range options from the website's GUI: 'All', 'Under 100m', '150m+', '200m+', '250m+', '300m+', '350m+', '400m+', '450m+' and '500m+' (default: {"All"})
+            trim_heightless {bool} -- decides if records with no height should be trimmed (default: {True})
+            height_floor {int} -- minimum tower's height for scrapin (default: {75})
+        """
+        self.height_range = height_range
+        self.trim_heightless = trim_heightless
+        self.height_floor = height_floor
 
-    return result
+    def scrape_city(self, city):
+        """Scrape city towers data by looking through the page's source and finding javascript tag that declares variable 'buildings' that gets towers data in the form of a javascript object assigned. The extracted object is turned into Python dict and returned
 
+        Arguments:
+            city {str} -- name of the city to scrape chosen from options available in the website GUI
 
-def scrape_allcities(height_range="All", trim_heightless=True, floor=None):
-    """Scrape all cities data and dump it to JSON files."""
-    for i, key in enumerate(key for key in CITIES_CODES.keys() if key != "All"):
+        Raises:
+            PageWrongFormatError -- raised when page can't be scraped due to a wrong format
+
+        Returns:
+            dict -- scraped towers data
+        """
+        url = URL.format(CITIES[city], HEIGHT_RANGES[self.height_range])
+        contents = requests.get(url).text
+        soup = BeautifulSoup(contents, "lxml")
         try:
-            towers = scrape_city(key, height_range, trim_heightless, floor)
-        except PageWrongFormatError:
-            towers = []
-        if towers:
-            data = {
-                "timestamp": timestamp(),
-                "towers": towers
-            }
-            destpath = os.path.join(CITIES_PATH, "{}.json".format(key.replace(" ", "_")))
-            with open(destpath, mode="w") as jsonfile:
-                json.dump(data, jsonfile)
-        print("{}: Scraped {} {} for '{}'...".format(
-            str(i + 1).zfill(4),
-            str(len(towers)),
-            "towers" if len(towers) != 1 else "tower",
-            key
-        ))
-        time.sleep(0.02)
+            script_tag = next(tag for tag in soup.find_all("script", type="text/javascript")
+                              if self.HOOK in tag.text)
+        except StopIteration:
+            raise PageWrongFormatError(
+                "Page for '{}' seems to have wrong format (missing '{}' string).\nFull URL: {}".format(city, self.HOOK, url))
+        # get javascript object containg towers' data from page's source
+        result = script_tag.text.strip()
+        result = "".join(result.split(self.HOOK)[1:])[:-1]  # trim trailing ';'
+        result = json.loads(result)
+
+        if self.trim_heightless:
+            result = [tower for tower in result if tower["height_architecture"] != "-"]
+
+        if self.height_floor:
+            result = [tower for tower in result if float(tower["height_architecture"])
+                      >= self.height_floor]
+
+        return result
+
+    def scrape_allcities(self, start=None, end=None):
+        """Scrape all cities data and dump it to JSON files. Optionally define a range to scrape
+
+        Keyword Arguments:
+            start {int} -- start of optional range (default: {None})
+            end {int} -- end of optional range (default: {None})
+        """
+        start = start if start is not None else 0
+        end = end if end is not None else len(CITIES) - 1
+
+        cities = (city for city in CITIES.keys() if city != "All")
+        for i, city in enumerate(itertools.islice(cities, start, end)):
+            try:
+                towers = self.scrape_city(city)
+            except PageWrongFormatError:
+                towers = []
+            if towers:
+                data = {
+                    "timestamp": timestamp(),
+                    "towers": towers
+                }
+                destpath = os.path.join(CITIES_PATH, "{}.json".format(city.replace(" ", "_")))
+                with open(destpath, mode="w") as jsonfile:
+                    json.dump(data, jsonfile, sort_keys=True, indent=4)
+            print("{}: Scraped {} {} for '{}'...".format(
+                str(i + start + 1).zfill(4),
+                str(len(towers)),
+                "towers" if len(towers) != 1 else "tower",
+                city
+            ))
+            time.sleep(0.02)
 
 
 def get_tiers(citydata):
-    """Group towers into tiers based on their height."""
+    """Group towers into tiers based on their height"""
 
     def get_tier(towerdata):
         height = float(towerdata["height_architecture"])

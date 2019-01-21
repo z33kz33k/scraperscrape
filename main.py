@@ -8,7 +8,7 @@ import os
 import json
 from pprint import pprint
 
-from tscscrape.scraper import scrape_allcities, calculate_rating
+from tscscrape.scraper import Scraper, calculate_rating
 from tscscrape.utils import split_json
 from tscscrape.constants import CITIES_PATH
 from tscscrape.regions import get_countries_by_region
@@ -16,7 +16,8 @@ from tscscrape.regions import get_countries_by_region
 
 def main():
     """Run the script"""
-    pprint(get_countries_by_region())
+    scraper = Scraper()
+    scraper.scrape_allcities(250, 265)
 
 
 if __name__ == "__main__":
