@@ -13,6 +13,7 @@ import time
 import os
 from collections import Counter
 import itertools
+import codecs
 import csv
 from pprint import pprint
 
@@ -65,7 +66,7 @@ class Scraper:
         result = json.loads(result)
 
         if self.trim_heightless:
-            result = [tower for tower in result if tower["height_architecture"] != "-"]
+            result = [tower for tower in result if tower["height_architecture"] not in ("-", "")]
 
         if self.height_floor:
             result = [tower for tower in result if float(tower["height_architecture"])
@@ -106,67 +107,116 @@ class Scraper:
             time.sleep(0.02)
 
 
-def get_tiers(citydata):
-    """Group towers into tiers based on their height"""
+class Tower:
+    """A skyscraper scraped"""
 
-    def get_tier(towerdata):
-        height = float(towerdata["height_architecture"])
-        heights = {k: float(v[0]) for k, v in RATINGS_MATRIX.items()}
-        if height >= heights["tier_1"] and height < heights["tier_2"]:
-            return "tier_1"
-        elif height >= heights["tier_2"] and height < heights["tier_3"]:
-            return "tier_2"
-        elif height >= heights["tier_3"] and height < heights["tier_4"]:
-            return "tier_3"
-        elif height >= heights["tier_4"] and height < heights["tier_5"]:
-            return "tier_4"
-        elif height >= heights["tier_5"] and height < heights["tier_6"]:
-            return "tier_5"
-        elif height >= heights["tier_6"]:
-            return "tier_6"
-        else:
-            raise ValueError("Unexpected height value (lesser than: {}) in parsed data".format(
-                int(heights["tier_1"])))
+    def __init__(self, data):
+        """
+        Arguments:
+            data {dict} -- scraped tower data
+        """
+        self.data = data
+        self.id_ = self._parse_attribute("id")
+        self.name = self._parse_attribute("name")
+        self.height = self._parse_attribute("height_architecture")
+        self.floors = self._parse_attribute("floors_above")
+        self.status = self._parse_attribute("status")
+        self.start = self._parse_attribute("start")
+        self.completed = self._parse_attribute("completed")
+        self.functions = self._parse_attribute("functions")
+        self.rank = self._parse_attribute("rank")
+        self.latitude = self._parse_attribute("latitude")
+        self.longitude = self._parse_attribute("longitude")
 
-    towers = citydata["towers"]
-    tiers = Counter()
-    for tower in towers:
-        tier = get_tier(tower)
-        tiers[tier] += 1
-
-    return tiers
+    def _parse_attribute(self, key):
+        try:
+            attribute = self.data[key] if self.data[key] not in ("-", "") else None
+        except KeyError:
+            attribute = None
+        return attribute
 
 
-def calculate_rating(tiers):
-    """Calculate city rating according to height tiers of its towers.
+class City:
+    """A city with skyscrapers in it"""
 
-    Tower heights were grouped into tiers using the following formula:
+    def __init__(self, data):
+        """
+        Arguments:
+            data {dict} -- scraped city data
+        """
+        self.data = data
+        self.timestamp = data["timestamp"]
+        self.name = data["towers"][0].get("city")
+        self.towers = [Tower(towerdata) for towerdata in data["towers"]]
+        self.tiers = self.get_tiers()
 
-        >>> base = 75.0
-        >>> for i in range(6):
-        ...     print("{}: {:.0f}".format(i+1, base))
-        ...     base *= 1.412
-        ...
-        1: 75
-        2: 106
-        3: 150
-        4: 211
-        5: 298
-        6: 421
-        >>>
+    def get_tiers(self):
+        """Group towers into tiers based on their height
 
-    Point scoring progression inspired by F1 Scoring System
-    (https://en.wikipedia.org/wiki/List_of_Formula_One_World_Championship_points_scoring_systems)
-    """
-    scores = {k: v[1] for k, v in RATINGS_MATRIX.items()}
-    return sum(v * scores[k] for k, v in tiers.items())
+        Raises:
+            ValueError -- raised when height out of expected range is encountered
 
+        Returns:
+            collections.Counter -- {tier: number of towers}
+        """
 
-def get_uncompleted(citydata):
-    """Get number of uncompleted towers"""
-    towers = citydata["towers"]
-    uncompleted = [tower for tower in towers if tower["status"] != STATUS["Completed"]]
-    return len(uncompleted)
+        def get_tier(tower):
+            heights = {k: v[0] for k, v in RATINGS_MATRIX.items()}
+            if tower.height >= heights["tier_1"] and tower.height < heights["tier_2"]:
+                return "tier_1"
+            elif tower.height >= heights["tier_2"] and tower.height < heights["tier_3"]:
+                return "tier_2"
+            elif tower.height >= heights["tier_3"] and tower.height < heights["tier_4"]:
+                return "tier_3"
+            elif tower.height >= heights["tier_4"] and tower.height < heights["tier_5"]:
+                return "tier_4"
+            elif tower.height >= heights["tier_5"] and tower.height < heights["tier_6"]:
+                return "tier_5"
+            elif tower.height >= heights["tier_6"]:
+                return "tier_6"
+            else:
+                raise ValueError("Unexpected height value (lesser than: {}) in parsed data".format(
+                    int(heights["tier_1"])))
 
+        tiers = Counter()
+        for tower in self.towers:
+            tier = get_tier(tower)
+            tiers[tier] += 1
 
-# TODO: implement City class and use it to generate output data
+        return tiers
+
+    def calculate_rating(self):
+        """Calculate city rating according to height tiers of its towers.
+
+        Returns:
+            int -- calculated rating
+
+        Tower heights were grouped into tiers using the following formula:
+
+            >>> base = 75.0
+            >>> for i in range(6):
+            ...     print("{}: {:.0f}".format(i+1, base))
+            ...     base *= 1.412
+            ...
+            1: 75
+            2: 106
+            3: 150
+            4: 211
+            5: 298
+            6: 421
+            >>>
+
+        Point scoring progression inspired by F1 Scoring System(https://en.wikipedia.org/wiki/List_of_Formula_One_World_Championship_points_scoring_systems)
+        """
+        scores = {k: v[1] for k, v in RATINGS_MATRIX.items()}
+        return sum(v * scores[k] for k, v in self.tiers.items())
+
+    def get_uncompleted(self):
+        """Get number of uncompleted towers in this city
+
+        Returns:
+            int -- number of uncompleted towers
+        """
+        uncompleted = [tower for tower in self.towers if tower.status
+                       and tower.status != STATUS["Completed"]]
+        return len(uncompleted)
