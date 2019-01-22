@@ -22,6 +22,8 @@ RATINGS_MATRIX = _settings["ratings_matrix"]
 STATUS = _settings["status"]
 REGIONS = _settings["regions"]
 
+# TODO: change it to scrape it locally (to not get blacklisted by the server)
+
 
 def _scrape_cities():
     """Scrape city codes to be entered in URL."""

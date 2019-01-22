@@ -35,10 +35,10 @@
         ]
     },
     "status": {
-        "Completed": "COM",
-        "Architecturally Topped Out": "UCT",
-        "Structurally Topped Out": "STO",
-        "Under Construction": "UC"
+        "COM": "Completed",
+        "UCT": "Architecturally Topped Out",
+        "STO": "Structurally Topped Out",
+        "UC": "Under Construction"
     },
     "regions": {
         "EU": "Europe",

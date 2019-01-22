@@ -18,9 +18,10 @@ import csv
 from pprint import pprint
 
 from tscscrape.constants import URL, CITIES, HEIGHT_RANGES
-from tscscrape.constants import CITIES_PATH, RATINGS_MATRIX, STATUS
+from tscscrape.constants import CITIES_PATH, RATINGS_MATRIX, STATUS, REGIONS
 from tscscrape.errors import PageWrongFormatError
 from tscscrape.utils import timestamp
+from tscscrape.countries import COUNTRIES
 
 
 class Scraper:
@@ -128,6 +129,27 @@ class Tower:
         self.latitude = self._parse_attribute("latitude")
         self.longitude = self._parse_attribute("longitude")
 
+    def __str__(self):
+        result = ""
+        if self.name:
+            result += f"*** {self.name} ***\n"
+        if self.height:
+            result += f"Height: {self.height}\n"
+        if self.floors:
+            result += f"Floors: {self.floors}\n"
+        if self.status:
+            result += f"Status: {STATUS[self.status]}\n"
+        if self.start:
+            result += f"Started: {self.start}\n"
+        if self.completed:
+            result += f"Completed: {self.completed}\n"
+        if self.functions:
+            result += f"Functions: {self.functions}\n"
+        if self.rank:
+            result += f"Rank: {self.rank}\n"
+
+        return result[:-1] if result[-1] == "\n" else result
+
     def _parse_attribute(self, key):
         try:
             attribute = self.data[key] if self.data[key] not in ("-", "") else None
@@ -147,8 +169,40 @@ class City:
         self.data = data
         self.timestamp = data["timestamp"]
         self.name = data["towers"][0].get("city")
+        self.country = data["towers"][0].get("country_slug").title().replace("-", " ")
+        self.region = self.getregion()
         self.towers = [Tower(towerdata) for towerdata in data["towers"]]
         self.tiers = self.get_tiers()
+        self.rating = self.calculate_rating()
+        self.uncompleted = self.getuncompleted()
+
+    def __str__(self):
+        tiersmap = {k: v for k, v in zip(sorted(RATINGS_MATRIX.keys()),
+                                         ["I", "II", "III", "IV", "V", "VI"])}
+        result = f"*** {self.name} ***\n"
+        result += f"Country: {self.country}\n"
+        result += f"Region: {self.region}\n"
+        result += "Towers: {}\n".format(", ".join([tower.name for tower in self.towers]))
+        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tiersmap[k], v) for k, v
+                                                  in sorted(self.tiers.items(), key=lambda args: args[0])]))
+        result += f"Rating: {self.rating}\n"
+        result += "Uncompleted: {:.1f}%\n".format(self.uncompleted)
+        result += f"Scraped on: {self.timestamp}"
+        return result
+
+    def getregion(self):
+        """Get city's region/continent
+
+        Returns:
+            str -- region/continent
+        """
+        try:
+            region_code, _ = next((region_code, country) for region_code, countries in
+                                  COUNTRIES.items() for country in countries if country.casefold() == self.country.casefold())
+        except StopIteration:
+            return None
+
+        return REGIONS[region_code]
 
     def get_tiers(self):
         """Group towers into tiers based on their height
@@ -211,12 +265,14 @@ class City:
         scores = {k: v[1] for k, v in RATINGS_MATRIX.items()}
         return sum(v * scores[k] for k, v in self.tiers.items())
 
-    def get_uncompleted(self):
-        """Get number of uncompleted towers in this city
+    def getuncompleted(self):
+        """Get percent (float) of uncompleted towers in this city
 
         Returns:
-            int -- number of uncompleted towers
+            float -- percent of uncompleted towers
+
+        TODO: change it to percent of the rating rather than the number of towers
         """
         uncompleted = [tower for tower in self.towers if tower.status
-                       and tower.status != STATUS["Completed"]]
-        return len(uncompleted)
+                       and tower.status != "COM"]
+        return len(uncompleted) * 100 / len(self.towers)

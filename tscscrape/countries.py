@@ -1,8 +1,8 @@
 """
 
-    tscscrape.regions
+    tscscrape.countries
     ~~~~~~~~~~~~~~~~~
-    Scrape region metadata from sources other than TSC (it's unavailable in skyscrapers data)
+    Scrape countries metadata from sources other than TSC (it's unavailable in skyscrapers data)
 
 """
 
@@ -121,3 +121,6 @@ def get_countries_by_region():
         "AS": [c for c in asia if c not in meast and c != "Russia"],
         "OC": oceania
     }
+
+
+COUNTRIES = get_countries_by_region()

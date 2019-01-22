@@ -8,16 +8,16 @@ import os
 import json
 from pprint import pprint
 
-from tscscrape.scraper import Scraper, calculate_rating
-from tscscrape.utils import split_json
-from tscscrape.constants import CITIES_PATH
-from tscscrape.regions import get_countries_by_region
+from tscscrape.scraper import Scraper, City
 
 
 def main():
     """Run the script"""
-    scraper = Scraper()
-    scraper.scrape_allcities(250, 265)
+    with open("output/cities/London.json") as f:
+        data = json.load(f)
+
+    city = City(data)
+    print(str(city))
 
 
 if __name__ == "__main__":
