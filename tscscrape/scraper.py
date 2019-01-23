@@ -190,11 +190,14 @@ class City:
         self.timestamp = data["timestamp"]
         self.name = data["towers"][0].get("city")
         self.country = data["towers"][0].get("country_slug").title().replace("-", " ")
-        self.region = self.getregion()
+        self.region = self._getregion()
         self.towers = [Tower(towerdata) for towerdata in data["towers"]]
-        self.tiers = self.get_tiers()
-        self.rating = self.calculate_rating()
-        self.uncompleted = self.getuncompleted()
+        self.completed = [tower for tower in self.towers if tower.status == "COM"]
+        self.arch_toppedout = [tower for tower in self.towers if tower.status == "UCT"]
+        self.struct_toppedout = [tower for tower in self.towers if tower.status == "STO"]
+        self.under_construction = [tower for tower in self.towers if tower.status == "UC"]
+        self.rating = self.calculate_rating(self.towers)
+        self.uncompleted = self.getuncompleted()  # percentage (float)
 
     def __str__(self):
         tiersmap = {k: v for k, v in zip(sorted(RATINGS_MATRIX.keys()),
@@ -202,15 +205,18 @@ class City:
         result = f"*** {self.name} ***\n"
         result += f"Country: {self.country}\n"
         result += f"Region: {self.region}\n"
-        result += "Towers: {}\n".format(", ".join([tower.name for tower in self.towers]))
-        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tiersmap[k], v) for k, v
-                                                  in sorted(self.tiers.items(), key=lambda args: args[0])]))
-        result += f"Rating: {self.rating}\n"
-        result += "Uncompleted: {:.1f}%\n".format(self.uncompleted)
+        result += "{} towers: {}\n".format(len(self.towers),
+                                           ", ".join([tower.name for tower in self.towers]))
+        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tiersmap[k], v)
+                                                  for k, v in sorted(self.get_tiers(self.towers).items(), key=lambda args: args[0])]))
+        result += "Rating: {}{}\n".format(
+            self.rating,
+            f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
+        )
         result += f"Scraped on: {self.timestamp}"
         return result
 
-    def getregion(self):
+    def _getregion(self):
         """Get city's region/continent
 
         Returns:
@@ -224,7 +230,7 @@ class City:
 
         return REGIONS[region_code]
 
-    def get_tiers(self):
+    def get_tiers(self, towers):
         """Group towers into tiers based on their height
 
         Raises:
@@ -232,6 +238,21 @@ class City:
 
         Returns:
             collections.Counter -- {tier: number of towers}
+
+        Tower heights are grouped into tiers using the following formula:
+
+            >>> base = 75.0
+            >>> for i in range(6):
+            ...     print("{}: {:.0f}".format(i+1, base))
+            ...     base *= 1.412
+            ...
+            1: 75
+            2: 106
+            3: 150
+            4: 211
+            5: 298
+            6: 421
+            >>>
         """
 
         def get_tier(tower):
@@ -253,46 +274,30 @@ class City:
                     int(heights["tier_1"])))
 
         tiers = Counter()
-        for tower in self.towers:
+        for tower in towers:
             tier = get_tier(tower)
             tiers[tier] += 1
 
         return tiers
 
-    def calculate_rating(self):
-        """Calculate city rating according to height tiers of its towers.
+    def calculate_rating(self, towers):
+        """Calculate city rating according to height tiers of selected towers.
 
         Returns:
             int -- calculated rating
 
-        Tower heights were grouped into tiers using the following formula:
-
-            >>> base = 75.0
-            >>> for i in range(6):
-            ...     print("{}: {:.0f}".format(i+1, base))
-            ...     base *= 1.412
-            ...
-            1: 75
-            2: 106
-            3: 150
-            4: 211
-            5: 298
-            6: 421
-            >>>
-
-        Point scoring progression inspired by F1 Scoring System(https://en.wikipedia.org/wiki/List_of_Formula_One_World_Championship_points_scoring_systems)
+        Tiers' point scoring progression inspired by F1 Scoring System(https://en.wikipedia.org/wiki/List_of_Formula_One_World_Championship_points_scoring_systems)
         """
         scores = {k: v[1] for k, v in RATINGS_MATRIX.items()}
-        return sum(v * scores[k] for k, v in self.tiers.items())
+        return sum(v * scores[k] for k, v in self.get_tiers(towers).items())
 
     def getuncompleted(self):
-        """Get percent (float) of uncompleted towers in this city
+        """Get percentage (float) of total rating for uncompleted towers in this city
 
         Returns:
-            float -- percent of uncompleted towers
+            float -- percentage of rating for uncompleted towers
 
-        TODO: change it to percent of the rating rather than the number of towers
         """
-        uncompleted = [tower for tower in self.towers if tower.status
-                       and tower.status != "COM"]
-        return len(uncompleted) * 100 / len(self.towers)
+        ucrating = self.calculate_rating([*self.arch_toppedout, *self.struct_toppedout,
+                                          *self.under_construction])
+        return ucrating * 100 / self.rating
