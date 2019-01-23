@@ -4,9 +4,8 @@
         "output",
         "cities"
     ],
-    "regions_path": [
-        "tscscrape",
-        "regions_src"
+    "input_path": [
+        "input"
     ],
     "ratings_matrix": {
         "tier_1": [

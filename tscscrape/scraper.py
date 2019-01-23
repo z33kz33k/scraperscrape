@@ -17,17 +17,37 @@ import codecs
 import csv
 from pprint import pprint
 
-from tscscrape.constants import URL, CITIES, HEIGHT_RANGES
-from tscscrape.constants import CITIES_PATH, RATINGS_MATRIX, STATUS, REGIONS
+from tscscrape.constants import URL, CITIES_PATH, RATINGS_MATRIX, STATUS, REGIONS
 from tscscrape.errors import PageWrongFormatError
-from tscscrape.utils import timestamp
+from tscscrape.utils import timestamp, readinput
 from tscscrape.countries import COUNTRIES
+
+
+def scrape_citiescodes():
+    """Scrape city codes to be entered in URL."""
+    contents = readinput("default.html")
+    soup = BeautifulSoup(contents, "lxml")
+    result = soup.find("select", id="base_city")
+    result = result.find_all("option")
+    return {tag.string: tag["value"] for tag in result}
+
+
+def scrape_heightranges():
+    """Scrape codes of height ranges to be entered in URL."""
+    contents = readinput("default.html")
+    soup = BeautifulSoup(contents, "lxml")
+    result = soup.find("select", id="base_height_range")
+    result = result.find_all("option")
+    return {tag.string: tag["value"] for tag in result}
 
 
 class Scraper:
     """Scrapes data from www.skyscrapercenter.com"""
 
     HOOK = "var buildings = "
+    # keys of below dicts are the same as options in "Base Data Range" form on the website
+    CITIES = scrape_citiescodes()
+    HEIGHT_RANGES = scrape_heightranges()
 
     def __init__(self, height_range="All", trim_heightless=True, height_floor=75):
         """
@@ -52,7 +72,7 @@ class Scraper:
         Returns:
             dict -- scraped towers data
         """
-        url = URL.format(CITIES[city], HEIGHT_RANGES[self.height_range])
+        url = URL.format(self.CITIES[city], self.HEIGHT_RANGES[self.height_range])
         contents = requests.get(url).text
         soup = BeautifulSoup(contents, "lxml")
         try:
@@ -83,9 +103,9 @@ class Scraper:
             end {int} -- end of optional range (default: {None})
         """
         start = start if start is not None else 0
-        end = end if end is not None else len(CITIES) - 1
+        end = end if end is not None else len(self.CITIES) - 1
 
-        cities = (city for city in CITIES.keys() if city != "All")
+        cities = (city for city in self.CITIES.keys() if city != "All")
         for i, city in enumerate(itertools.islice(cities, start, end)):
             try:
                 towers = self.scrape_city(city)
