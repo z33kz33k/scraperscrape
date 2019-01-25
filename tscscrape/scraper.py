@@ -23,7 +23,7 @@ from tscscrape.utils import timestamp, readinput
 from tscscrape.countries import COUNTRIES
 
 
-def scrape_citiescodes():
+def scrape_citycodes():
     """Scrape city codes to be entered in URL."""
     contents = readinput("default.html")
     soup = BeautifulSoup(contents, "lxml")
@@ -46,7 +46,7 @@ class Scraper:
 
     HOOK = "var buildings = "
     # keys of below dicts are the same as options in "Base Data Range" form on the website
-    CITIES = scrape_citiescodes()
+    CITIES = scrape_citycodes()
     HEIGHT_RANGES = scrape_heightranges()
 
     def __init__(self, height_range="All", trim_heightless=True, height_floor=75):
@@ -189,7 +189,7 @@ class City:
         self.data = data
         self.timestamp = data["timestamp"]
         self.name = data["towers"][0].get("city")
-        self.country = data["towers"][0].get("country_slug").title().replace("-", " ")
+        self.country = self._getcountry()
         self.region = self._getregion()
         self.towers = [Tower(towerdata) for towerdata in data["towers"]]
         self.completed = [tower for tower in self.towers if tower.status == "COM"]
@@ -215,6 +215,17 @@ class City:
         )
         result += f"Scraped on: {self.timestamp}"
         return result
+
+    def _getcountry(self):
+        """Get city's country
+
+        Returns:
+            str -- country
+        """
+        country = self.data["towers"][0].get("country_slug").title().replace("-", " ")
+        if country == "Lao Peoples Democratic Republic":
+            country = "Laos"
+        return country
 
     def _getregion(self):
         """Get city's region/continent
@@ -301,3 +312,16 @@ class City:
         ucrating = self.calculate_rating([*self.arch_toppedout, *self.struct_toppedout,
                                           *self.under_construction])
         return ucrating * 100 / self.rating
+
+
+def getcities():
+    """Get cities from scraped data
+    """
+    cities = []
+    for root, _, files in os.walk(CITIES_PATH):
+        for file in files:
+            path = os.path.join(root, file)
+            with open(path) as f:
+                data = json.load(f)
+            cities.append(City(data))
+    return cities

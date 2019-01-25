@@ -114,9 +114,9 @@ def get_countries_by_region():
     return {
         "EU": sorted([c for c in europe if c not in asia] + ["Russia"]),
         "NA": [c for c in namerica if c not in camerica],
-        "CA": [c for c in camerica if c not in samerica],
+        "CA": [c for c in camerica if c not in samerica] + ["Puerto Rico"],
         "SA": samerica,
-        "AF": africa,
+        "AF": africa + ["Congo"],
         "ME": meast,
         "AS": [c for c in asia if c not in meast and c != "Russia"],
         "OC": oceania
