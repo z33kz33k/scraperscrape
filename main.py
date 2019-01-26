@@ -9,13 +9,14 @@ import json
 from pprint import pprint
 
 from tscscrape.scraper import getcities
+from tscscrape.debug import print_city, print_country, print_region
 
 
 def main():
     """Run the script"""
-    pprint(sorted([(city.name, city.country, city.rating) for city
-                   in getcities() if city.region == "Europe"],
-                  key=lambda pair: pair[2], reverse=True))
+    print_region("Central America")
+    print_country("Brazil")
+    print_city("Wroclaw")
 
 
 if __name__ == "__main__":

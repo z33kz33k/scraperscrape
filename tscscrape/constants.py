@@ -17,5 +17,5 @@ URL = _settings["url"]
 CITIES_PATH = os.path.join(*_settings["cities_path"])
 INPUT_PATH = os.path.join(*_settings["input_path"])
 RATINGS_MATRIX = _settings["ratings_matrix"]
-STATUS = _settings["status"]
-REGIONS = _settings["regions"]
+STATUSMAP = _settings["status"]
+REGIONMAP = _settings["regions"]

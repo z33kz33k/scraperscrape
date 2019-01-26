@@ -123,4 +123,4 @@ def get_countries_by_region():
     }
 
 
-COUNTRIES = get_countries_by_region()
+COUNTRYMAP = get_countries_by_region()

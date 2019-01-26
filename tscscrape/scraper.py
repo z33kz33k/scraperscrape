@@ -17,14 +17,34 @@ import codecs
 import csv
 from pprint import pprint
 
-from tscscrape.constants import URL, CITIES_PATH, RATINGS_MATRIX, STATUS, REGIONS
+from tscscrape.constants import URL, CITIES_PATH, RATINGS_MATRIX, STATUSMAP, REGIONMAP
 from tscscrape.errors import PageWrongFormatError
 from tscscrape.utils import timestamp, readinput
-from tscscrape.countries import COUNTRIES
+from tscscrape.countries import COUNTRYMAP
+
+
+SUBCITYMAP = {
+    "Courbevoie": "Paris",
+    "Puteaux": "Paris",
+    "Courbevoie": "Paris",
+    "Nanterre": "Paris",
+    "Bagnolet": "Paris",
+    "Issy-les-Moulineaux": "Paris",
+    "Aubervilliers": "Paris",
+    "Saint Denis": "Paris",
+    "L'Hospitalet de Llobregat": "Barcelona",
+    "Rijswijk": "The Hague",
+    "Herlev": "Copenhagen",
+    "Oeiras": "Lisbon"
+}
 
 
 def scrape_citycodes():
-    """Scrape city codes to be entered in URL."""
+    """Scrape city codes to be entered in URL
+
+    Returns:
+        dict -- city code map
+    """
     contents = readinput("default.html")
     soup = BeautifulSoup(contents, "lxml")
     result = soup.find("select", id="base_city")
@@ -33,7 +53,11 @@ def scrape_citycodes():
 
 
 def scrape_heightranges():
-    """Scrape codes of height ranges to be entered in URL."""
+    """Scrape codes of height ranges to be entered in URL
+
+    Returns:
+        dict -- height range code map
+    """
     contents = readinput("default.html")
     soup = BeautifulSoup(contents, "lxml")
     result = soup.find("select", id="base_height_range")
@@ -46,8 +70,8 @@ class Scraper:
 
     HOOK = "var buildings = "
     # keys of below dicts are the same as options in "Base Data Range" form on the website
-    CITIES = scrape_citycodes()
-    HEIGHT_RANGES = scrape_heightranges()
+    CITYCODE_MAP = scrape_citycodes()
+    HEIGHTRANGE_MAP = scrape_heightranges()
 
     def __init__(self, height_range="All", trim_heightless=True, height_floor=75):
         """
@@ -67,12 +91,12 @@ class Scraper:
             city {str} -- name of the city to scrape chosen from options available in the website GUI
 
         Raises:
-            PageWrongFormatError -- raised when page can't be scraped due to a wrong format
+            PageWrongFormatError -- when page can't be scraped due to a wrong format
 
         Returns:
             dict -- scraped towers data
         """
-        url = URL.format(self.CITIES[city], self.HEIGHT_RANGES[self.height_range])
+        url = URL.format(self.CITYCODE_MAP[city], self.HEIGHTRANGE_MAP[self.height_range])
         contents = requests.get(url).text
         soup = BeautifulSoup(contents, "lxml")
         try:
@@ -103,9 +127,9 @@ class Scraper:
             end {int} -- end of optional range (default: {None})
         """
         start = start if start is not None else 0
-        end = end if end is not None else len(self.CITIES) - 1
+        end = end if end is not None else len(self.CITYCODE_MAP) - 1
 
-        cities = (city for city in self.CITIES.keys() if city != "All")
+        cities = (city for city in self.CITYCODE_MAP.keys() if city != "All")
         for i, city in enumerate(itertools.islice(cities, start, end)):
             try:
                 towers = self.scrape_city(city)
@@ -158,7 +182,7 @@ class Tower:
         if self.floors:
             result += f"Floors: {self.floors}\n"
         if self.status:
-            result += f"Status: {STATUS[self.status]}\n"
+            result += f"Status: {STATUSMAP[self.status]}\n"
         if self.start:
             result += f"Started: {self.start}\n"
         if self.completed:
@@ -171,6 +195,14 @@ class Tower:
         return result[:-1] if result[-1] == "\n" else result
 
     def _parse_attribute(self, key):
+        """Parse attribute
+
+        Arguments:
+            key {str} -- key for scraped data dict
+
+        Returns:
+            str / int / float / None -- parsed attribute or 'None'
+        """
         try:
             attribute = self.data[key] if self.data[key] not in ("-", "") else None
         except KeyError:
@@ -198,6 +230,7 @@ class City:
         self.under_construction = [tower for tower in self.towers if tower.status == "UC"]
         self.rating = self.calculate_rating(self.towers)
         self.uncompleted = self.getuncompleted()  # percentage (float)
+        self.parentcity_name = SUBCITYMAP.get(self.name)  # 'None' if there's no parent city
 
     def __str__(self):
         tiersmap = {k: v for k, v in zip(sorted(RATINGS_MATRIX.keys()),
@@ -235,14 +268,17 @@ class City:
         """
         try:
             region_code, _ = next((region_code, country) for region_code, countries in
-                                  COUNTRIES.items() for country in countries if country.casefold() == self.country.casefold())
+                                  COUNTRYMAP.items() for country in countries if country.casefold() == self.country.casefold())
         except StopIteration:
             return None
 
-        return REGIONS[region_code]
+        return REGIONMAP[region_code]
 
     def get_tiers(self, towers):
         """Group towers into tiers based on their height
+
+        Arguments:
+            towers {list} -- a list of Tower objects
 
         Raises:
             ValueError -- raised when height out of expected range is encountered
@@ -267,6 +303,17 @@ class City:
         """
 
         def get_tier(tower):
+            """Get tier designation
+
+            Arguments:
+                tower {tscscrape.scraper.Tower} -- a tower
+
+            Raises:
+                ValueError -- when unexpected height value is encountered
+
+            Returns:
+                str -- a tier designation
+            """
             heights = {k: v[0] for k, v in RATINGS_MATRIX.items()}
             if tower.height >= heights["tier_1"] and tower.height < heights["tier_2"]:
                 return "tier_1"
@@ -294,6 +341,9 @@ class City:
     def calculate_rating(self, towers):
         """Calculate city rating according to height tiers of selected towers.
 
+        Arguments:
+            towers {list} -- a list of Tower objects
+
         Returns:
             int -- calculated rating
 
@@ -303,19 +353,27 @@ class City:
         return sum(v * scores[k] for k, v in self.get_tiers(towers).items())
 
     def getuncompleted(self):
-        """Get percentage (float) of total rating for uncompleted towers in this city
+        """Get percentage of total rating for uncompleted towers in this city
 
         Returns:
             float -- percentage of rating for uncompleted towers
-
         """
         ucrating = self.calculate_rating([*self.arch_toppedout, *self.struct_toppedout,
                                           *self.under_construction])
         return ucrating * 100 / self.rating
 
 
-def getcities():
+def getcities(merge_subcities=True, region_filter=None, country_filter=None, city_filter=None):
     """Get cities from scraped data
+
+    Keyword Arguments:
+        merge_subcities {bool} -- flag to merge or not subsidiary cities into their parent (default: {True})
+        region_filter {str} -- a name of a region to narrow the output to (default: {None})
+        country_filter {str} -- a name of a country to narrow the output to (default: {None})
+        city_filter {str} -- a name of a city to narrow the output to (default: {None})
+
+    Returns:
+        list / tscscrape.scraper.City -- a list of City objects or a single one if narrowed to
     """
     cities = []
     for root, _, files in os.walk(CITIES_PATH):
@@ -324,4 +382,48 @@ def getcities():
             with open(path) as f:
                 data = json.load(f)
             cities.append(City(data))
+
+    if merge_subcities:
+        subcities = [city for city in cities if city.parentcity_name]
+        # merge subsidiary cities into their parents
+        for parentcity in [city for city in cities if city.name in set(SUBCITYMAP.values())]:
+            mergecities(parentcity,
+                        *[sc for sc in subcities if sc.parentcity_name == parentcity.name])
+        # filter out subsidiaries from the output
+        cities = [city for city in cities if city not in subcities]
+
+    if region_filter:
+        cities = [city for city in cities if city.region == region_filter]
+    if country_filter:
+        cities = [city for city in cities if city.country == country_filter]
+    if city_filter:
+        try:
+            city = next(city for city in cities if city.name == city_filter)
+        except StopIteration:
+            return None
+        return city
+
     return cities
+
+
+def mergecities(parentcity, *subcities):
+    """Merge subsidiary subcities into the parent city
+
+    Arguments:
+        parentcity {tscscrape.scraper.City} -- parent city
+        subcities {list} -- variable number of subsidiary cities packed into list
+
+    Returns:
+        tscscrape.scraper.City -- the parent city with merged subsidiaries
+    """
+    towers = [tower for subcity in subcities for tower in subcity.towers]
+    # extending parentcity
+    parentcity.towers.extend(towers)
+    parentcity.completed = [tower for tower in parentcity.towers if tower.status == "COM"]
+    parentcity.arch_toppedout = [tower for tower in parentcity.towers if tower.status == "UCT"]
+    parentcity.struct_toppedout = [tower for tower in parentcity.towers if tower.status == "STO"]
+    parentcity.under_construction = [tower for tower in parentcity.towers if tower.status == "UC"]
+    parentcity.rating = parentcity.calculate_rating(parentcity.towers)
+    parentcity.uncompleted = parentcity.getuncompleted()  # percentage (float)
+
+    return parentcity
