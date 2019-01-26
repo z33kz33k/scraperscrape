@@ -375,6 +375,9 @@ def getcities(merge_subcities=True, region_filter=None, country_filter=None, cit
     Returns:
         list / tscscrape.scraper.City -- a list of City objects or a single one if narrowed to
     """
+
+    # TODO: adjust region of cities that are located in countries spanning more than one region (cases like Vladivostok being considered as an European city)
+
     cities = []
     for root, _, files in os.walk(CITIES_PATH):
         for file in files:
