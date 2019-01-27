@@ -1,0 +1,135 @@
+*** Indonesia (768) ***
+1.  Jakarta, 609
+2.  Surabaya, 58
+3.  Tangerang, 35
+4.  Medan, 27
+5.  Surakarta, 8
+6.  Bandung, 7
+7.  Makassar, 7
+8.  Cikarang, 6
+9.  South Tangerang City, 3
+10. Batam, 2
+11. Manado, 2
+12. Pekanbaru, 2
+13. Semarang, 1
+14. Bekasi, 1
+
+******************** DETAILS ********************
+
+*** Indonesia ***
+Region: Asia
+14 cities: Jakarta, Surabaya, Tangerang, Medan, Surakarta, Bandung, Makassar, Cikarang, South Tangerang City, Batam, Manado, Pekanbaru, Semarang, Bekasi
+Tiers: I: 54, II: 86, III: 84, IV: 29, V: 4
+Rating: 768 (17.2% uncompleted)
+
+*** Jakarta ***
+Country: Indonesia
+Region: Asia
+187 towers: Thamrin Nine Tower 1, Indonesia-1 North Tower, Indonesia-1 South Tower, 7Point8, Gama Tower, Treasury Tower, Thamrin Nine Tower 2, Jakarta Office Tower, Wisma 46, Menara Astra, Sahid Sudirman Center, Millennium Office Tower, Raffles Hotel, The Pakubuwono Signature, Sinarmas MSIG Tower, World Capital Tower, Four Seasons Residences, Casa Domaine Tower 1, Menara BCA, Keraton at the Plaza, BTPN Office Tower, Telkom Landmark Tower 2, Equity Tower, The Peak at Sudirman, The Energy, Capital Place Office Tower, Kempinski Residences, Bakrie Tower, International Financial Centre Tower 2, The Pinnacle, The Tower, Ritz-Carlton Jakarta, Casa Domaine Tower 2, Pacific Century Place Jakarta, World Trade Center 3, Seaview Condominium @ Green Bay Pluit Tower J, Seaview Condominium @ Green Bay Pluit Tower K, Seaview Condominium @ Green Bay Pluit Tower L, Seaview Condominium @ Green Bay Pluit Tower M, The City Center @ Batavia City, Ciputra World Residential Tower, Sequis Tower, Eternity Apartment @ District 8, Infinity Apartment @ District 8, Denpasar Residence Kintamani Tower, Denpasar Residence Ubud Tower, The Plaza Office Tower, Anandamaya One, Chitaland Tower, Wisma Mulia, AXA Tower, UOB Plaza, DBS Bank Tower, The Ritz Kemang Village, One Pacific Place, Noble House, Central Park Residences Tower 1, Central Park Residences Tower 2, Central Park Residences Tower 3, Residence 8 @ Senopati Tower A, Residence 8 @ Senopati Tower B, Pacific Place Apartments 1, Pacific Place Apartments 2, Anandamaya Three, Anandamaya Two, MNC Media Tower, The Orchard Satrio, The Residence Satrio, Menara Kadin Indonesia, AIA Tower, Central Park Office Tower, Centennial Office Tower, Residence 8 @ Senopati Equity Tower, Plaza BII Tower II, World Trade Center 2, The Pakubuwono View Lacewood Tower, Menara Da Vinci, Sahid Surdiman Residences, Oakwood Premier Cozmo, The St. Moritz Tower, Sampoerna Strategic Square North Tower, Sampoerna Strategic Square South Tower, Holland Village Office Tower, Cyber2 Tower, InterContinental MidPlaza Jakarta Hotel, Altira Office Park, Mangkuluhur City Office Tower 1, Taman Anggrek I, Taman Anggrek II, Taman Anggrek III, Taman Anggrek IV, Taman Anggrek V, Taman Anggrek VI, Taman Anggrek VII, Taman Anggrek VIII, Menara Pertiwi, The City Tower, The Pakubuwono House, Thamrin City, Bona Vista Tower I, Thamrin Residences 1, Thamrin Residences 2, Thamrin Residences 3, Thamrin Residences 4, Seasons City Tower 1, Seasons City Tower 2, Seasons City Tower 3, Capital Residences Towers 1 & 2, Tempo Scan Tower, Bank Bumi Daya Plaza, Gedung BRI II, Menara Standard Chartered, Sudirman Park Tower 1, Sudirman Park Tower 2, IDX Building I, IDX Building II, Satrio Tower, The East, Menara Prima Tower I, Bank Negara Indonesia, JW Marriott Hotel, Menara Imperium, Landmark Building Tower A, Landmark Building Tower B, Rajawali Headquarters, Alamanda Office Tower, Wisma GKBI, Bellagio Mansions, Menara Batavia, Puri Indah Financial Tower, Hotel Mulia Senayan, Bellagio Residence, Menara Karya, The Pakubuwono View Redwood Tower, Gedung Artha Graha, Menara Mulia, Grand Hyatt Jakarta, The Manhattan Hotel Jakarta, MNC Tower, Wisma KEIAI, MRCCC Siloam Semanggi, Menara Global, Wisma Nusantara, Shangri-La Hotel, Chase Plaza, Kompas Multimedia Tower, Gudang Garam Tower, Prudential Tower, Graha Niaga I, Puri Matahari Tower, Dubai Tower, Miami Tower, Monte Carlo Tower, Rio de Janeiro Tower, Bank Indonesia Tower 1, Bank Indonesia Tower 2, Menara Bank Mega, Telkom Landmark Tower 1, Generali Tower at Gran Rubina Office Park, Bank NISP, Menara Lemhannas, Wisma Dharmala Sakti, Hamilton Tower, King and Queen Towers, Royal Tower, Sovereign Plaza, Permata Kuningan, Ministry of Transport, Mayapada Tower, 1Park Residences Tower C, The Summit, Menara Kompas I, Bona Vista Tower II, Four Seasons Hotel Jakarta, Gedung Utama UNTAR, World Trade Center 1, Menara Multimedia, Sherwood Residence Tower 1, Sherwood Residence Tower 2, Sherwood Residence Tower 3, Gedung Kementerian Agama Republik Indonesia, South Quarter Tower A, South Quarter Tower B, South Quarter Tower C, 1Park Residences Tower A, Park Royal III, Wisma BCA
+Tiers: I: 33, II: 56, III: 66, IV: 28, V: 4
+Rating: 609 (13.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Surabaya ***
+Country: Indonesia
+Region: Asia
+20 towers: Tunjungan Plaza 5, One Icon Residences, Elitz Tower, Luxe Tower, Caspian Tower, Pakuwon Tower, Skyloft, The Voila Apartment, The Via, The Vue, Orchard Mansion, Tanglin Mansion, The Residence @ 88 Avenue, Trillium, The Soho @ 88 Avenue, The Aryaduta , Skyline Tower, Puri Matahari Apartment, Golden Tulip Garden Palace Hotel, AMG Tower
+Tiers: I: 2, II: 8, III: 10
+Rating: 58 (34.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tangerang ***
+Country: Indonesia
+Region: Asia
+15 towers: U-Residence Tower 2, Amartapura I, Menara Matahari, U-Residence Tower 1, Alfa Group Tower, Amartapura II, The Prominence Office Tower, Treepark Serpong Apartment, The Paragon Square Apartment, Saumata Apartment, Parkland Avenue Apartment, Ayodhya Residence Tower Coral, Ayodhya Residence Tower Indigo, Ayodhya Residence Tower Jade, Ayodhya Residence Tower Sienna
+Tiers: I: 5, II: 5, III: 5
+Rating: 35 (8.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Medan ***
+Country: Indonesia
+Region: Asia
+13 towers: Podomoro City Deli Office Tower, The Manhattan Tower 1, The Manhattan Tower 2, Centria, Centrum, Grand Jati Junction Apartment Tower 1, Grand Jati Junction Apartment Tower 2, JW Marriott, The Cambridge Tower 1, The Cambridge Tower 2, The Cambridge Tower 3, The Cambridge Tower 4, Hilton Garden Inn Hotel
+Tiers: I: 5, II: 5, III: 3
+Rating: 27 (59.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Surakarta ***
+Country: Indonesia
+Region: Asia
+5 towers: Alila Solo, Solo Paragon , Indriati Hospital, Best Western Premier Solo, Quest Hotel Solo
+Tiers: I: 2, II: 3
+Rating: 8 (12.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bandung ***
+Country: Indonesia
+Region: Asia
+4 towers: Tamansari Panoramic Tower 1, Ibis Hotel Bandung, Crowne Plaza Hotel, The Trans Luxury Hotel
+Tiers: I: 1, II: 3
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Makassar ***
+Country: Indonesia
+Region: Asia
+4 towers: Vida View Apartment Tower Asthon, Menara Bosowa, Vida View Apartment Tower Brentsville, Menara Phinisi UNM
+Tiers: I: 1, II: 3
+Rating: 7 (57.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cikarang ***
+Country: Indonesia
+Region: Asia
+1 tower: Lippo Sixty One Plaza
+Tiers: IV: 1
+Rating: 6 (100.0% uncompleted)
+Scraped on: 2019-Jan-21 23:13:04
+
+*** South Tangerang City ***
+Country: Indonesia
+Region: Asia
+2 towers: Midtown Signature, Midtown Residence
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Batam ***
+Country: Indonesia
+Region: Asia
+1 tower: Batam City Condominium
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Manado ***
+Country: Indonesia
+Region: Asia
+1 tower: Tamansari Lagoon
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pekanbaru ***
+Country: Indonesia
+Region: Asia
+2 towers: The Peak Hotel & Apartment at Pekanbaru, Menara Dang Merdu Bank Riau Kepri
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Semarang ***
+Country: Indonesia
+Region: Asia
+1 tower: Best Western Star Hotel & Apartment
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bekasi ***
+Country: Indonesia
+Region: Asia
+1 tower: Grand Dhika City
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

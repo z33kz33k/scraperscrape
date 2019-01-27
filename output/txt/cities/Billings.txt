@@ -1,0 +1,21 @@
+*** Billings (1) ***
+1. First Interstate Center, 83m
+
+******************** DETAILS ********************
+
+*** Billings ***
+Country: United States
+Region: North America
+1 tower: First Interstate Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** First Interstate Center ***
+Height: 82.91
+Floors: 20
+Status: Completed
+Started: 1984
+Completed: 1985
+Functions: office
+Rank: 1

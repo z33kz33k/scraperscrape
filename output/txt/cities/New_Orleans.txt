@@ -1,0 +1,215 @@
+*** New Orleans (48) ***
+1.  One Shell Square, 212m
+2.  Capital One Tower, 198m
+3.  Plaza Tower, 162m
+4.  Energy Centre, 162m
+5.  First Bank & Trust Tower, 147m
+6.  Sheraton New Orleans, 146m
+7.  New Orleans Marriott, 137m
+8.  Texaco Center, 135m
+9.  One Canal Place, 134m
+10. 1010 Common, 134m
+11. World Trade Center New Orleans, 124m
+12. Benson Tower, 124m
+13. 225 Baronne Street, 110m
+14. Hyatt Regency New Orleans, 110m
+15. Entergy Tower, 110m
+16. Capitol One Bank Building, 108m
+17. 1250 Poydras Plaza, 104m
+18. 1515 Poydras, 104m
+19. Hilton New Orleans Riverside, 104m
+20. 200 Carondelet, 101m
+21. Harrah`s New Orleans - Poydras Street Hotel, 100m
+22. Medical Center of Louisiana Charity Hospital, 85m
+
+******************** DETAILS ********************
+
+*** New Orleans ***
+Country: United States
+Region: North America
+22 towers: One Shell Square, Capital One Tower, Plaza Tower, Energy Centre, First Bank & Trust Tower, Sheraton New Orleans, New Orleans Marriott, Texaco Center, One Canal Place, 1010 Common, World Trade Center New Orleans, Benson Tower, 225 Baronne Street, Hyatt Regency New Orleans, Entergy Tower, Capitol One Bank Building, 1250 Poydras Plaza, 1515 Poydras, Hilton New Orleans Riverside, 200 Carondelet, Harrah`s New Orleans - Poydras Street Hotel, Medical Center of Louisiana Charity Hospital
+Tiers: I: 6, II: 12, III: 3, IV: 1
+Rating: 48
+Scraped on: 2019-Jan-20 16:05:17
+
+*** One Shell Square ***
+Height: 212.45
+Floors: 51
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 1
+
+*** Capital One Tower ***
+Height: 197.6
+Floors: 53
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 2
+
+*** Plaza Tower ***
+Height: 161.85
+Floors: 45
+Status: Completed
+Started: 1964
+Completed: 1968
+Functions: abandoned
+Rank: 3
+
+*** Energy Centre ***
+Height: 161.55
+Floors: 39
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 4
+
+*** First Bank & Trust Tower ***
+Height: 146.61
+Floors: 36
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 5
+
+*** Sheraton New Orleans ***
+Height: 146
+Floors: 47
+Status: Completed
+Completed: 1985
+Functions: hotel
+Rank: 6
+
+*** New Orleans Marriott ***
+Height: 137
+Floors: 42
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 7
+
+*** Texaco Center ***
+Height: 134.72
+Floors: 32
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 8
+
+*** One Canal Place ***
+Height: 134
+Floors: 32
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 9
+
+*** 1010 Common ***
+Height: 133.5
+Floors: 31
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 10
+
+*** World Trade Center New Orleans ***
+Height: 124.06
+Floors: 33
+Status: Completed
+Started: 1963
+Completed: 1967
+Functions: office / hotel
+Rank: 11
+
+*** Benson Tower ***
+Height: 123.75
+Floors: 26
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 12
+
+*** 225 Baronne Street ***
+Height: 110.3
+Floors: 29
+Status: Completed
+Completed: 1965
+Functions: hotel
+Rank: 13
+
+*** Hyatt Regency New Orleans ***
+Height: 110
+Floors: 27
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 14
+
+*** Entergy Tower ***
+Height: 109.7
+Floors: 28
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 15
+
+*** Capitol One Bank Building ***
+Height: 108.2
+Floors: 20
+Status: Completed
+Started: 1920
+Completed: 1921
+Functions: office
+Rank: 16
+
+*** 1250 Poydras Plaza ***
+Height: 104.2
+Floors: 24
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 17
+
+*** 1515 Poydras ***
+Height: 104
+Floors: 29
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 18
+
+*** Hilton New Orleans Riverside ***
+Height: 104
+Floors: 29
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 18
+
+*** 200 Carondelet ***
+Height: 100.6
+Floors: 23
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: residential
+Rank: 20
+
+*** Harrah`s New Orleans - Poydras Street Hotel ***
+Height: 99.7
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: hotel
+Rank: 21
+
+*** Medical Center of Louisiana Charity Hospital ***
+Height: 85
+Floors: 20
+Status: Completed
+Started: 1937
+Completed: 1939
+Functions: hospital
+Rank: 22

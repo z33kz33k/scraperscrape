@@ -1,0 +1,444 @@
+*** Pittsburgh (88) ***
+1.  U.S. Steel Tower, 256m
+2.  BNY Mellon Center, 221m
+3.  One PPG Place, 194m
+4.  Fifth Avenue Place, 188m
+5.  One Oxford Centre, 187m
+6.  Gulf Tower, 177m
+7.  The Tower at PNC Plaza, 166m
+8.  Cathedral of Learning, 163m
+9.  Three Mellon Center, 158m
+10. K & L Gates Center, 156m
+11. Grant Building, 148m
+12. Koppers Building, 145m
+13. Two PNC Plaza, 136m
+14. EQT Plaza, 131m
+15. One PNC Plaza, 129m
+16. Regional Enterprise Tower, 125m
+17. Federated Tower, 109m
+18. Westinghouse Tower, 108m
+19. Henry W. Oliver Building, 106m
+20. Three PNC Plaza, 105m
+21. Three Gateway Center, 105m
+22. Center City Tower, 104m
+23. William S. Moorhead Federal Building, 104m
+24. Verizon Building, 103m
+25. AT&T Building, 101m
+26. Frick Building, 101m
+27. Four Gateway Center, 93m
+28. Midtown Towers, 93m
+29. Omni William Penn Hotel, 93m
+30. Clark Building, 92m
+31. The Carlyle, 91m
+32. Commonwealth Building, 91m
+33. Gateway Towers The Condominium, 89m
+34. The Westin Convention Center, Pittsburgh, 86m
+35. Lawyers Building, 86m
+36. One Gateway Center, 84m
+37. Two Gateway Center, 84m
+38. Trimont Plaza, 84m
+39. Chamber of Commerce Building, 82m
+40. Lawrence Hall, 80m
+41. 625 Stanwix Tower, 80m
+42. Allegheny Building, 79m
+43. Investment Building, 78m
+44. Arrott Building, 78m
+45. Benedum-Trees Building, 77m
+46. Law and Finance Building, 76m
+
+******************** DETAILS ********************
+
+*** Pittsburgh ***
+Country: United States
+Region: North America
+46 towers: U.S. Steel Tower, BNY Mellon Center, One PPG Place, Fifth Avenue Place, One Oxford Centre, Gulf Tower, The Tower at PNC Plaza, Cathedral of Learning, Three Mellon Center, K & L Gates Center, Grant Building, Koppers Building, Two PNC Plaza, EQT Plaza, One PNC Plaza, Regional Enterprise Tower, Federated Tower, Westinghouse Tower, Henry W. Oliver Building, Three PNC Plaza, Three Gateway Center, Center City Tower, William S. Moorhead Federal Building, Verizon Building, AT&T Building, Frick Building, Four Gateway Center, Midtown Towers, Omni William Penn Hotel, Clark Building, The Carlyle, Commonwealth Building, Gateway Towers The Condominium, The Westin Convention Center, Pittsburgh, Lawyers Building, One Gateway Center, Two Gateway Center, Trimont Plaza, Chamber of Commerce Building, Lawrence Hall, 625 Stanwix Tower, Allegheny Building, Investment Building, Arrott Building, Benedum-Trees Building, Law and Finance Building
+Tiers: I: 28, II: 8, III: 8, IV: 2
+Rating: 88
+Scraped on: 2019-Jan-20 16:05:17
+
+*** U.S. Steel Tower ***
+Height: 256.34
+Floors: 64
+Status: Completed
+Started: 1967
+Completed: 1970
+Functions: office
+Rank: 1
+
+*** BNY Mellon Center ***
+Height: 221
+Floors: 54
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 2
+
+*** One PPG Place ***
+Height: 193.55
+Floors: 40
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 3
+
+*** Fifth Avenue Place ***
+Height: 187.76
+Floors: 32
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 4
+
+*** One Oxford Centre ***
+Height: 187.45
+Floors: 45
+Status: Completed
+Started: 1979
+Completed: 1983
+Functions: office
+Rank: 5
+
+*** Gulf Tower ***
+Height: 177.4
+Floors: 44
+Status: Completed
+Started: 1930
+Completed: 1932
+Functions: office
+Rank: 6
+
+*** The Tower at PNC Plaza ***
+Height: 165.96
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 7
+
+*** Cathedral of Learning ***
+Height: 163.07
+Floors: 42
+Status: Completed
+Started: 1926
+Completed: 1936
+Functions: education
+Rank: 8
+
+*** Three Mellon Center ***
+Height: 158.5
+Floors: 41
+Status: Completed
+Completed: 1951
+Functions: office
+Rank: 9
+
+*** K & L Gates Center ***
+Height: 155.76
+Floors: 39
+Status: Completed
+Started: 1966
+Completed: 1968
+Functions: office
+Rank: 10
+
+*** Grant Building ***
+Height: 147.83
+Floors: 40
+Status: Completed
+Started: 1927
+Completed: 1930
+Functions: office
+Rank: 11
+
+*** Koppers Building ***
+Height: 144.78
+Floors: 34
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: office
+Rank: 12
+
+*** Two PNC Plaza ***
+Height: 135.64
+Floors: 34
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: office
+Rank: 13
+
+*** EQT Plaza ***
+Height: 131.07
+Floors: 32
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: office
+Rank: 14
+
+*** One PNC Plaza ***
+Height: 129.24
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 15
+
+*** Regional Enterprise Tower ***
+Height: 124.97
+Floors: 30
+Status: Completed
+Started: 1951
+Completed: 1953
+Functions: residential / office
+Rank: 16
+
+*** Federated Tower ***
+Height: 109.12
+Floors: 27
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 17
+
+*** Westinghouse Tower ***
+Height: 108.21
+Floors: 23
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 18
+
+*** Henry W. Oliver Building ***
+Height: 105.8
+Floors: 25
+Status: Completed
+Started: 1908
+Completed: 1910
+Functions: office
+Rank: 19
+
+*** Three PNC Plaza ***
+Height: 105
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / hotel / office
+Rank: 20
+
+*** Three Gateway Center ***
+Height: 104.9
+Floors: 24
+Status: Completed
+Completed: 1952
+Functions: office
+Rank: 21
+
+*** Center City Tower ***
+Height: 103.9
+Floors: 26
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 22
+
+*** William S. Moorhead Federal Building ***
+Height: 103.6
+Floors: 23
+Status: Completed
+Completed: 1964
+Functions: government
+Rank: 23
+
+*** Verizon Building ***
+Height: 103.3
+Floors: 21
+Status: Completed
+Completed: 1931
+Functions: office
+Rank: 24
+
+*** AT&T Building ***
+Height: 100.7
+Floors: 16
+Status: Completed
+Completed: 1969
+Functions: telecommunications / office
+Rank: 25
+
+*** Frick Building ***
+Height: 100.6
+Floors: 20
+Status: Completed
+Completed: 1902
+Functions: office
+Rank: 26
+
+*** Four Gateway Center ***
+Height: 93
+Floors: 22
+Status: Completed
+Completed: 1960
+Functions: office
+Rank: 27
+
+*** Midtown Towers ***
+Height: 93
+Floors: 18
+Status: Completed
+Completed: 1907
+Functions: residential
+Rank: 28
+
+*** Omni William Penn Hotel ***
+Height: 92.95
+Floors: 26
+Status: Completed
+Started: 1914
+Completed: 1916
+Functions: hotel
+Rank: 29
+
+*** Clark Building ***
+Height: 91.75
+Floors: 26
+Status: Completed
+Completed: 1928
+Functions: residential
+Rank: 30
+
+*** The Carlyle ***
+Height: 91.4
+Floors: 22
+Status: Completed
+Completed: 1906
+Functions: residential
+Rank: 31
+
+*** Commonwealth Building ***
+Height: 91.4
+Floors: 21
+Status: Completed
+Completed: 1906
+Functions: office
+Rank: 32
+
+*** Gateway Towers The Condominium ***
+Height: 89.3
+Floors: 26
+Status: Completed
+Completed: 1964
+Functions: residential
+Rank: 33
+
+*** The Westin Convention Center, Pittsburgh ***
+Height: 85.65
+Floors: 26
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: hotel
+Rank: 34
+
+*** Lawyers Building ***
+Height: 85.65
+Floors: 25
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 35
+
+*** One Gateway Center ***
+Height: 84
+Floors: 20
+Status: Completed
+Completed: 1952
+Functions: office
+Rank: 36
+
+*** Two Gateway Center ***
+Height: 84
+Floors: 20
+Status: Completed
+Completed: 1952
+Functions: office
+Rank: 36
+
+*** Trimont Plaza ***
+Height: 83.8
+Floors: 25
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 38
+
+*** Chamber of Commerce Building ***
+Height: 82
+Floors: 16
+Status: Completed
+Started: 1916
+Completed: 1917
+Functions: office
+Rank: 39
+
+*** Lawrence Hall ***
+Height: 80.5
+Floors: 20
+Status: Completed
+Completed: 1929
+Functions: residential
+Rank: 40
+
+*** 625 Stanwix Tower ***
+Height: 79.55
+Floors: 24
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 41
+
+*** Allegheny Building ***
+Height: 79.25
+Floors: 19
+Status: Completed
+Completed: 1906
+Functions: office / office
+Rank: 42
+
+*** Investment Building ***
+Height: 78
+Floors: 22
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 43
+
+*** Arrott Building ***
+Height: 78
+Floors: 18
+Status: Completed
+Completed: 1902
+Functions: office
+Rank: 44
+
+*** Benedum-Trees Building ***
+Height: 76.8
+Floors: 19
+Status: Completed
+Started: 1905
+Completed: 1906
+Functions: office
+Rank: 45
+
+*** Law and Finance Building ***
+Height: 76.2
+Floors: 21
+Status: Completed
+Started: 1927
+Completed: 1928
+Functions: office
+Rank: 46

@@ -1,0 +1,27 @@
+*** Nigeria (12) ***
+1. Abuja, 8
+2. Lagos, 4
+
+******************** DETAILS ********************
+
+*** Nigeria ***
+Region: Africa
+2 cities: Abuja, Lagos
+Tiers: II: 2, III: 2
+Rating: 12 (50.0% uncompleted)
+
+*** Abuja ***
+Country: Nigeria
+Region: Africa
+3 towers: Abuja World Trade Center Hotel Tower, Abuja World Trade Center Commercial Tower, Abuja World Trade Center Residential Tower
+Tiers: II: 2, III: 1
+Rating: 8 (75.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lagos ***
+Country: Nigeria
+Region: Africa
+1 tower: NECOM House
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16

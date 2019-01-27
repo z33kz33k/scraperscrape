@@ -1,0 +1,18 @@
+*** Mozambique (4) ***
+1. Maputo, 4
+
+******************** DETAILS ********************
+
+*** Mozambique ***
+Region: Africa
+1 city: Maputo
+Tiers: II: 2
+Rating: 4
+
+*** Maputo ***
+Country: Mozambique
+Region: Africa
+2 towers: Banco de Mocambique Tower 1, Predio 33 Andares
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16

@@ -1,0 +1,21 @@
+*** Baracaldo (1) ***
+1. Bilbao Exhibition Centre, 93m
+
+******************** DETAILS ********************
+
+*** Baracaldo ***
+Country: Spain
+Region: Europe
+1 tower: Bilbao Exhibition Centre
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bilbao Exhibition Centre ***
+Height: 92.83
+Floors: 17
+Status: Completed
+Started: 2001
+Completed: 2007
+Functions: exhibition
+Rank: 1

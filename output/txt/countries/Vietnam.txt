@@ -1,0 +1,45 @@
+*** Vietnam (318) ***
+1. Ho Chi Minh City, 163
+2. Hanoi, 115
+3. Da Nang, 30
+4. Nha Trang, 10
+
+******************** DETAILS ********************
+
+*** Vietnam ***
+Region: Asia
+4 cities: Ho Chi Minh City, Hanoi, Da Nang, Nha Trang
+Tiers: I: 16, II: 59, III: 29, IV: 7, V: 2, VI: 1
+Rating: 318 (28.0% uncompleted)
+
+*** Ho Chi Minh City ***
+Country: Vietnam
+Region: Asia
+59 towers: Vincom Landmark 81, Bitexco Financial Tower, The One Ho Chi Minh City West Tower, The One Ho Chi Minh City East Tower, Vietcombank Tower, Saigon Centre 2, Vinhomes Central Park Residential Tower 12, Vinhomes Central Park Residential Tower 9, Vinhomes Central Park Residential Tower 13, The Central 2, The Landmark 1, The Park 5, Vinhomes Central Park Tower 3, The Central 3, Times Square, Petroland Tower, Sunwah Pearl, Dragon City 1, Dragon City 2, Xi Thu Thiem, Saigon Trade Center, The Park 2, New City Thu Thiem, Sunrise City Tower 1, Sunrise City Tower 2, Sunrise City Tower 3, Sunrise City Tower 4, PV Power Landmark Tower, Vinhomes Central Park Residential Tower 4, Vinhomes Central Park Residential Tower 1, Saigon Pearl Tower 1, Saigon Pearl Tower 2, Saigon Pearl Tower 3, Sunrise City Tower 10, Sunrise City Tower 5, Sunrise City Tower 6, Sunrise City Tower 7, Sunrise City Tower 8, Sunrise City Tower 9, Thu Thiem River Park, Hung Vuong Plaza 1, Hung Vuong Plaza 2, Richland Emerald, The Everrich I 1, The Everrich I 2, Thuan Kieu Plaza I, Thuan Kieu Plaza II, Thuan Kieu Plaza III, Kumho Asiana Plaza Apartments, Boulevard, Saigon Centre, Sunwah Tower, Sailing Tower, The Manor Phase 2 Tower I, The Manor Tower I, The Khai, The Grand Ho Tram Strip, Can ho Binh Khanh, Thu Thiem River Park
+Tiers: I: 7, II: 32, III: 16, IV: 3, VI: 1
+Rating: 163 (15.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hanoi ***
+Country: Vietnam
+Region: Asia
+43 towers: VietinBank Business Center Office Tower, Keangnam Hanoi Landmark Tower, Lotte Center Hanoi, VietinBank Business Center Hotel Tower, Keangnam Hanoi Residential Tower 1, Keangnam Hanoi Residential Tower 2, Diamond Flower Tower, Discovery Complex Residential Tower, Discovery Complex Office Tower, Thang Long Number 1 Tower A, Thang Long Number 1 Tower B, EVN Headquarters Tower 1, Indochina Plaza Hanoi Tower A, Intracom Riverside Tower A, Intracom Riverside Tower B, Intracom Riverside Tower C, Phu My Tower 1, Phu My Tower 2, Hanoi Trung Hoa Nhan Chinh, Galaxy Tower, Vicem Tower, Dolphin Plaza Tower 1, Dolphin Plaza Tower 2, 6th Element Residence Tower M2, 6th Element Residence Tower M1, Sky Line, M5 Tower, Indochina Plaza Hanoi Tower B, VNTA Tower, Trang An Home, Dreamland Bonanza, Riverside Garden, HUD3 Tower, BIDV Tower, Rainbow Van Quan Building, Social Housing for Public Security Officers & Shop Houses NO CT1, Star Tower - Valiant Complex, Social Housing for Public Security Officers & Shop Houses NO CT2, Social Housing for Public Security Officers & Shop Houses NO CT3, Social Housing for Public Security Officers & Shop Houses Tower CT4, Packexim 2 Tay Ho Residence, Rainbow Linhdam Building, Rainbow Linh Dam
+Tiers: I: 9, II: 23, III: 5, IV: 4, V: 2
+Rating: 115 (40.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Da Nang ***
+Country: Vietnam
+Region: Asia
+9 towers: Cocobay Hotel Tower, Cocobay Residential Tower, Soleil Danang by Wyndham Tower 1, Soleil Danang by Wyndham Tower 2, Da Nang City Administrative Centre, Novotel Da Nang Premier Han River, Blooming Towers A, Azura, Marriott Da Nang
+Tiers: II: 3, III: 6
+Rating: 30 (60.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nha Trang ***
+Country: Vietnam
+Region: Asia
+3 towers: Muong Thanh Hotel, Nha Trang Plaza Hotel, Sheraton Nha Trang
+Tiers: II: 1, III: 2
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17

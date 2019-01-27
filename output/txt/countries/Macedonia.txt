@@ -1,0 +1,18 @@
+*** Macedonia (9) ***
+1. Skopje, 9
+
+******************** DETAILS ********************
+
+*** Macedonia ***
+Region: Europe
+1 city: Skopje
+Tiers: I: 1, II: 4
+Rating: 9
+
+*** Skopje ***
+Country: Macedonia
+Region: Europe
+5 towers: Cevahir Tower A, Cevahir Tower B, Cevahir Tower C, Cevahir Tower D, MRT Macedonian
+Tiers: I: 1, II: 4
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17

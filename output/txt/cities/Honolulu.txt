@@ -1,0 +1,873 @@
+*** Honolulu (160) ***
+1.  First Hawaiian Center, 131m
+2.  The Collection, 129m
+3.  Moana Pacific East Tower, 129m
+4.  Moana Pacific West Tower, 129m
+5.  Keola Lai, 128m
+6.  Waihonua at Kewalo, 127m
+7.  Hokua at 1288 Ala Moana, 127m
+8.  Pacifica Honolulu, 127m
+9.  The Waiea, 127m
+10. Nauru Tower, 127m
+11. Ko'olani, 127m
+12. 801 South Street Building A, 126m
+13. 801 South Street Building B, 126m
+14. Symphony Honolulu, 122m
+15. Hawaiki Tower, 122m
+16. One Waterfront Tower - Makai, 122m
+17. One Waterfront Tower - Mauka, 122m
+18. One Archer Lane, 122m
+19. Imperial Plaza, 122m
+20. Keauhou Place, 122m
+21. Anaha, 122m
+22. Grand Islander Tower, 122m
+23. Ala Moana Hotel, 121m
+24. Aqua Skyline at Island Colony, 120m
+25. Century Square, 118m
+26. 1132 Bishop Street, 118m
+27. Hyatt Regency Waikiki Diamond Head Tower, 118m
+28. Hyatt Regency Waikiki Ewa Tower, 118m
+29. Executive Center, 118m
+30. 1100 Alakea Plaza, 116m
+31. Harbor Court, 116m
+32. Century Center, 116m
+33. Endeavor Condominium, 115m
+34. Resolution Condominium, 115m
+35. Tapa Tower, 114m
+36. The Pinnacle Honolulu, 114m
+37. Capitol Place, 114m
+38. The Watermark Waikiki, 114m
+39. The Windsor, 113m
+40. Honolulu Park Place, 113m
+41. Waikiki Beach Tower, 113m
+42. Franklin Towers, 113m
+43. Canterbury Place, 113m
+44. Honolulu Tower, 113m
+45. Royal Kuhio, 113m
+46. Ohana Maile Sky Court, 112m
+47. 2121 Ala Wai Boulevard, 112m
+48. Pacific Beach Hotel, Oceanarium Tower, 112m
+49. Grand Waikikian, 112m
+50. Trump International Hotel Waikiki Beach Walk, 112m
+51. Pauahi Tower, 112m
+52. Iolani Court Plaza, 111m
+53. Royal Capitol Plaza, 110m
+54. Hawaiian Monarch Hotel, 110m
+55. Royal Iolani Diamond Head Tower, 110m
+56. Royal Iolani Ewa Tower, 110m
+57. Makai Tower, 110m
+58. Mauka Tower, 110m
+59. Hale Kaheka, 108m
+60. Yacht Harbor Tower II, 107m
+61. Regency Tower, 107m
+62. The Aqua Waikiki Marina Towers, 107m
+63. Waikiki Banyan Mauka Tower, 107m
+64. Yacht Harbor Tower I, 107m
+65. The Ritz-Carlton Residences Waikiki Beach, 107m
+66. Pacific Tower, 107m
+67. Chateau Waikiki, 106m
+68. Hawaii Prince I, 106m
+69. Hawaii Prince II, 106m
+70. Nine O Nine Kapiolani, 105m
+71. Waipuna Apartments, 104m
+72. Waikiki Banyan Makai Tower, 104m
+73. Waikiki Sunset, 104m
+74. Contessa Apartments, 104m
+75. Paoakalani Tower, 104m
+76. The Villa on Eaton Square, 102m
+77. Ala Wai Plaza Skyrise, 102m
+78. Marco Polo Residences, 102m
+79. Banyan Tree Plaza, 101m
+80. Admiral Thomas Condominiums, 98m
+81. Waikiki Landmark, 98m
+82. Allure Waikiki, 98m
+83. Kalia Tower, 94m
+84. Kukui Plaza Diamond Ewa Tower, 92m
+85. Kukui Plaza Diamond Head Tower, 92m
+86. Aqua Pacific Monarch Hotel, 92m
+87. Lanikea at Waikiki, 91m
+88. Ala Moana Building, 91m
+89. Rainbow Tower, 89m
+90. City Financial Tower, 86m
+91. Aloha Lani Condominiums, 85m
+92. Kealohilani Tower, 79m
+93. Foster Tower, 76m
+
+******************** DETAILS ********************
+
+*** Honolulu ***
+Country: United States
+Region: North America
+93 towers: First Hawaiian Center, The Collection, Moana Pacific East Tower, Moana Pacific West Tower, Keola Lai, Waihonua at Kewalo, Hokua at 1288 Ala Moana, Pacifica Honolulu, The Waiea, Nauru Tower, Ko'olani, 801 South Street Building A, 801 South Street Building B, Symphony Honolulu, Hawaiki Tower, One Waterfront Tower - Makai, One Waterfront Tower - Mauka, One Archer Lane, Imperial Plaza, Keauhou Place, Anaha, Grand Islander Tower, Ala Moana Hotel, Aqua Skyline at Island Colony, Century Square, 1132 Bishop Street, Hyatt Regency Waikiki Diamond Head Tower, Hyatt Regency Waikiki Ewa Tower, Executive Center, 1100 Alakea Plaza, Harbor Court, Century Center, Endeavor Condominium, Resolution Condominium, Tapa Tower, The Pinnacle Honolulu, Capitol Place, The Watermark Waikiki, The Windsor, Honolulu Park Place, Waikiki Beach Tower, Franklin Towers, Canterbury Place, Honolulu Tower, Royal Kuhio, Ohana Maile Sky Court, 2121 Ala Wai Boulevard, Pacific Beach Hotel, Oceanarium Tower, Grand Waikikian, Trump International Hotel Waikiki Beach Walk, Pauahi Tower, Iolani Court Plaza, Royal Capitol Plaza, Hawaiian Monarch Hotel, Royal Iolani Diamond Head Tower, Royal Iolani Ewa Tower, Makai Tower, Mauka Tower, Hale Kaheka, Yacht Harbor Tower II, Regency Tower, The Aqua Waikiki Marina Towers, Waikiki Banyan Mauka Tower, Yacht Harbor Tower I, The Ritz-Carlton Residences Waikiki Beach, Pacific Tower, Chateau Waikiki, Hawaii Prince I, Hawaii Prince II, Nine O Nine Kapiolani, Waipuna Apartments, Waikiki Banyan Makai Tower, Waikiki Sunset, Contessa Apartments, Paoakalani Tower, The Villa on Eaton Square, Ala Wai Plaza Skyrise, Marco Polo Residences, Banyan Tree Plaza, Admiral Thomas Condominiums, Waikiki Landmark, Allure Waikiki, Kalia Tower, Kukui Plaza Diamond Ewa Tower, Kukui Plaza Diamond Head Tower, Aqua Pacific Monarch Hotel, Lanikea at Waikiki, Ala Moana Building, Rainbow Tower, City Financial Tower, Aloha Lani Condominiums, Kealohilani Tower, Foster Tower
+Tiers: I: 26, II: 67
+Rating: 160
+Scraped on: 2019-Jan-20 16:05:16
+
+*** First Hawaiian Center ***
+Height: 130.75
+Floors: 30
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: office
+Rank: 1
+
+*** The Collection ***
+Height: 128.63
+Floors: 43
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 2
+
+*** Moana Pacific East Tower ***
+Height: 128.53
+Floors: 46
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 3
+
+*** Moana Pacific West Tower ***
+Height: 128.53
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 3
+
+*** Keola Lai ***
+Height: 127.7
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 5
+
+*** Waihonua at Kewalo ***
+Height: 127.41
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 6
+
+*** Hokua at 1288 Ala Moana ***
+Height: 127.41
+Floors: 40
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 7
+
+*** Pacifica Honolulu ***
+Height: 127.4
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 8
+
+*** The Waiea ***
+Height: 127.4
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** Nauru Tower ***
+Height: 127.14
+Floors: 44
+Status: Completed
+Completed: 1992
+Functions: residential
+Rank: 10
+
+*** Ko'olani ***
+Height: 126.8
+Floors: 47
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 11
+
+*** 801 South Street Building A ***
+Height: 126.03
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 12
+
+*** 801 South Street Building B ***
+Height: 126.03
+Floors: 46
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Symphony Honolulu ***
+Height: 122
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 14
+
+*** Hawaiki Tower ***
+Height: 121.92
+Floors: 45
+Status: Completed
+Started: 1993
+Completed: 1999
+Functions: residential
+Rank: 15
+
+*** One Waterfront Tower - Makai ***
+Height: 121.92
+Floors: 45
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 15
+
+*** One Waterfront Tower - Mauka ***
+Height: 121.92
+Floors: 45
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 15
+
+*** One Archer Lane ***
+Height: 121.9
+Floors: 41
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 18
+
+*** Imperial Plaza ***
+Height: 121.9
+Floors: 40
+Status: Completed
+Completed: 1992
+Functions: residential
+Rank: 19
+
+*** Keauhou Place ***
+Height: 121.9
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 19
+
+*** Anaha ***
+Height: 121.9
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 21
+
+*** Grand Islander Tower ***
+Height: 121.9
+Floors: 37
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: hotel
+Rank: 22
+
+*** Ala Moana Hotel ***
+Height: 120.7
+Floors: 38
+Status: Completed
+Completed: 1970
+Functions: hotel
+Rank: 23
+
+*** Aqua Skyline at Island Colony ***
+Height: 119.8
+Floors: 44
+Status: Completed
+Completed: 1978
+Functions: residential / hotel
+Rank: 24
+
+*** Century Square ***
+Height: 118.5
+Floors: 37
+Status: Completed
+Completed: 1982
+Functions: residential / office
+Rank: 25
+
+*** 1132 Bishop Street ***
+Height: 118
+Floors: 31
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 26
+
+*** Hyatt Regency Waikiki Diamond Head Tower ***
+Height: 117.65
+Floors: 39
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 27
+
+*** Hyatt Regency Waikiki Ewa Tower ***
+Height: 117.65
+Floors: 39
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 27
+
+*** Executive Center ***
+Height: 117.6
+Floors: 41
+Status: Completed
+Completed: 1984
+Functions: residential / hotel / office
+Rank: 29
+
+*** 1100 Alakea Plaza ***
+Height: 116.5
+Floors: 32
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 30
+
+*** Harbor Court ***
+Height: 115.8
+Floors: 41
+Status: Completed
+Completed: 1994
+Functions: hotel / office
+Rank: 31
+
+*** Century Center ***
+Height: 115.5
+Floors: 41
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 32
+
+*** Endeavor Condominium ***
+Height: 114.9
+Floors: 42
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 33
+
+*** Resolution Condominium ***
+Height: 114.9
+Floors: 42
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 33
+
+*** Tapa Tower ***
+Height: 114.3
+Floors: 36
+Status: Completed
+Completed: 1982
+Functions: hotel
+Rank: 35
+
+*** The Pinnacle Honolulu ***
+Height: 114.3
+Floors: 35
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 36
+
+*** Capitol Place ***
+Height: 113.7
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 37
+
+*** The Watermark Waikiki ***
+Height: 113.7
+Floors: 37
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 38
+
+*** The Windsor ***
+Height: 113.4
+Floors: 44
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 39
+
+*** Honolulu Park Place ***
+Height: 113.4
+Floors: 40
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 40
+
+*** Waikiki Beach Tower ***
+Height: 113
+Floors: 39
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 41
+
+*** Franklin Towers ***
+Height: 112.75
+Floors: 41
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 42
+
+*** Canterbury Place ***
+Height: 112.75
+Floors: 40
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 43
+
+*** Honolulu Tower ***
+Height: 112.75
+Floors: 40
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 43
+
+*** Royal Kuhio ***
+Height: 112.75
+Floors: 39
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 45
+
+*** Ohana Maile Sky Court ***
+Height: 112.5
+Floors: 44
+Status: Completed
+Completed: 1984
+Functions: hotel
+Rank: 46
+
+*** 2121 Ala Wai Boulevard ***
+Height: 112.5
+Floors: 41
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 47
+
+*** Pacific Beach Hotel, Oceanarium Tower ***
+Height: 112.5
+Floors: 38
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 48
+
+*** Grand Waikikian ***
+Height: 112.17
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / hotel
+Rank: 49
+
+*** Trump International Hotel Waikiki Beach Walk ***
+Height: 112.09
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: hotel
+Rank: 50
+
+*** Pauahi Tower ***
+Height: 112
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 51
+
+*** Iolani Court Plaza ***
+Height: 110.6
+Floors: 40
+Status: Completed
+Completed: 1979
+Functions: residential
+Rank: 52
+
+*** Royal Capitol Plaza ***
+Height: 110.4
+Floors: 39
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 53
+
+*** Hawaiian Monarch Hotel ***
+Height: 110.35
+Floors: 43
+Status: Completed
+Completed: 1979
+Functions: residential / hotel
+Rank: 54
+
+*** Royal Iolani Diamond Head Tower ***
+Height: 110.34
+Floors: 38
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 55
+
+*** Royal Iolani Ewa Tower ***
+Height: 110.34
+Floors: 38
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 55
+
+*** Makai Tower ***
+Height: 109.75
+Floors: 30
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 57
+
+*** Mauka Tower ***
+Height: 109.75
+Floors: 30
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 57
+
+*** Hale Kaheka ***
+Height: 107.6
+Floors: 38
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 59
+
+*** Yacht Harbor Tower II ***
+Height: 107
+Floors: 38
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 60
+
+*** Regency Tower ***
+Height: 106.7
+Floors: 42
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 61
+
+*** The Aqua Waikiki Marina Towers ***
+Height: 106.7
+Floors: 39
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 62
+
+*** Waikiki Banyan Mauka Tower ***
+Height: 106.7
+Floors: 38
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 63
+
+*** Yacht Harbor Tower I ***
+Height: 106.7
+Floors: 38
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 63
+
+*** The Ritz-Carlton Residences Waikiki Beach ***
+Height: 106.7
+Floors: 37
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: hotel
+Rank: 65
+
+*** Pacific Tower ***
+Height: 106.7
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 66
+
+*** Chateau Waikiki ***
+Height: 106.4
+Floors: 39
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 67
+
+*** Hawaii Prince I ***
+Height: 105.8
+Floors: 32
+Status: Completed
+Completed: 1990
+Functions: hotel
+Rank: 68
+
+*** Hawaii Prince II ***
+Height: 105.8
+Floors: 32
+Status: Completed
+Completed: 1990
+Functions: hotel
+Rank: 68
+
+*** Nine O Nine Kapiolani ***
+Height: 105
+Floors: 33
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 70
+
+*** Waipuna Apartments ***
+Height: 104.5
+Floors: 38
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 71
+
+*** Waikiki Banyan Makai Tower ***
+Height: 104
+Floors: 36
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 72
+
+*** Waikiki Sunset ***
+Height: 103.9
+Floors: 37
+Status: Completed
+Completed: 1979
+Functions: residential / hotel
+Rank: 73
+
+*** Contessa Apartments ***
+Height: 103.6
+Floors: 38
+Status: Completed
+Functions: residential
+Rank: 74
+
+*** Paoakalani Tower ***
+Height: 103.6
+Floors: 33
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 75
+
+*** The Villa on Eaton Square ***
+Height: 102.1
+Floors: 37
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 76
+
+*** Ala Wai Plaza Skyrise ***
+Height: 101.5
+Floors: 38
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 77
+
+*** Marco Polo Residences ***
+Height: 101.5
+Floors: 36
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 78
+
+*** Banyan Tree Plaza ***
+Height: 101
+Floors: 35
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 79
+
+*** Admiral Thomas Condominiums ***
+Height: 98.5
+Floors: 34
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 80
+
+*** Waikiki Landmark ***
+Height: 97.54
+Floors: 38
+Status: Completed
+Completed: 1993
+Functions: residential
+Rank: 81
+
+*** Allure Waikiki ***
+Height: 97.54
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: residential
+Rank: 82
+
+*** Kalia Tower ***
+Height: 94.5
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 83
+
+*** Kukui Plaza Diamond Ewa Tower ***
+Height: 92
+Floors: 33
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 84
+
+*** Kukui Plaza Diamond Head Tower ***
+Height: 92
+Floors: 33
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 84
+
+*** Aqua Pacific Monarch Hotel ***
+Height: 91.5
+Floors: 34
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 86
+
+*** Lanikea at Waikiki ***
+Height: 91.4
+Floors: 29
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 87
+
+*** Ala Moana Building ***
+Height: 91.4
+Floors: 23
+Status: Completed
+Started: 1957
+Completed: 1959
+Functions: office / retail
+Rank: 88
+
+*** Rainbow Tower ***
+Height: 89
+Floors: 31
+Status: Completed
+Completed: 1968
+Functions: hotel
+Rank: 89
+
+*** City Financial Tower ***
+Height: 86.5
+Floors: 24
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 90
+
+*** Aloha Lani Condominiums ***
+Height: 85.25
+Floors: 33
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 91
+
+*** Kealohilani Tower ***
+Height: 78.6
+Floors: 25
+Status: Completed
+Completed: 1970
+Functions: hotel
+Rank: 92
+
+*** Foster Tower ***
+Height: 76.2
+Floors: 25
+Status: Completed
+Completed: 1962
+Functions: residential
+Rank: 93

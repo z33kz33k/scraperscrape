@@ -1,0 +1,40 @@
+*** Luoyang (14) ***
+1. Zhengda International Plaza 7, 212m
+2. Luoyang Police Communication Tower, 153m
+3. Luoyang World Trade Center, 151m
+
+******************** DETAILS ********************
+
+*** Luoyang ***
+Country: China
+Region: Asia
+3 towers: Zhengda International Plaza 7, Luoyang Police Communication Tower, Luoyang World Trade Center
+Tiers: III: 2, IV: 1
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Zhengda International Plaza 7 ***
+Height: 211.75
+Floors: 50
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 1
+
+*** Luoyang Police Communication Tower ***
+Height: 153.3
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 2
+
+*** Luoyang World Trade Center ***
+Height: 151
+Floors: 33
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 3

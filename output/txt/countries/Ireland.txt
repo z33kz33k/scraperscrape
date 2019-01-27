@@ -1,0 +1,18 @@
+*** Ireland (1) ***
+1. Dublin, 1
+
+******************** DETAILS ********************
+
+*** Ireland ***
+Region: Europe
+1 city: Dublin
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+
+*** Dublin ***
+Country: Ireland
+Region: Europe
+1 tower: Capital Dock
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

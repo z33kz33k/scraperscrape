@@ -1,0 +1,21 @@
+*** Den Bosch (1) ***
+1. Provinciehuis Noord Brabant, 101m
+
+******************** DETAILS ********************
+
+*** Den Bosch ***
+Country: Netherlands
+Region: Europe
+1 tower: Provinciehuis Noord Brabant
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Provinciehuis Noord Brabant ***
+Height: 101.06
+Floors: 23
+Status: Completed
+Started: 1963
+Completed: 1971
+Functions: office
+Rank: 1

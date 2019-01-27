@@ -1,0 +1,29 @@
+*** Suwon (8) ***
+1. Samsung Electronics Research & Development Center Phase II, 185m
+2. Worldmark Gwanggyo Pugio Tower 1, 159m
+
+******************** DETAILS ********************
+
+*** Suwon ***
+Country: South Korea
+Region: Asia
+2 towers: Samsung Electronics Research & Development Center Phase II, Worldmark Gwanggyo Pugio Tower 1
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Samsung Electronics Research & Development Center Phase II ***
+Height: 185
+Floors: 28
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 1
+
+*** Worldmark Gwanggyo Pugio Tower 1 ***
+Height: 159
+Floors: 48
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 2

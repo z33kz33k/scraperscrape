@@ -1,0 +1,20 @@
+*** Shreveport (2) ***
+1. Regions Tower, 111m
+
+******************** DETAILS ********************
+
+*** Shreveport ***
+Country: United States
+Region: North America
+1 tower: Regions Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Regions Tower ***
+Height: 111
+Floors: 25
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 1

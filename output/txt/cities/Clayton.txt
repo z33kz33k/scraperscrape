@@ -1,0 +1,95 @@
+*** Clayton (12) ***
+1. The Plaza in Clayton Residential Tower, 124m
+2. Centene Plaza Two, 116m
+3. 212 South Meramec, 116m
+4. The Sevens Building, 95m
+5. Pierre Laclede Center 2, 94m
+6. Interco Tower, 83m
+7. Clayton on the Park, 81m
+8. PNC Center, 80m
+9. Centene Plaza, 80m
+
+******************** DETAILS ********************
+
+*** Clayton ***
+Country: United States
+Region: North America
+9 towers: The Plaza in Clayton Residential Tower, Centene Plaza Two, 212 South Meramec, The Sevens Building, Pierre Laclede Center 2, Interco Tower, Clayton on the Park, PNC Center, Centene Plaza
+Tiers: I: 6, II: 3
+Rating: 12 (16.7% uncompleted)
+Scraped on: 2019-Jan-21 23:13:11
+
+*** The Plaza in Clayton Residential Tower ***
+Height: 124.5
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 1
+
+*** Centene Plaza Two ***
+Height: 115.8
+Floors: 28
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office / retail
+Rank: 2
+
+*** 212 South Meramec ***
+Height: 115.75
+Floors: 27
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 3
+
+*** The Sevens Building ***
+Height: 95
+Floors: 24
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 4
+
+*** Pierre Laclede Center 2 ***
+Height: 94
+Floors: 24
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 5
+
+*** Interco Tower ***
+Height: 83
+Floors: 19
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 6
+
+*** Clayton on the Park ***
+Height: 81
+Floors: 23
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 7
+
+*** PNC Center ***
+Height: 80
+Floors: 18
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 8
+
+*** Centene Plaza ***
+Height: 80
+Floors: 17
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 9

@@ -1,0 +1,20 @@
+*** Maebashi (4) ***
+1. Gunma Prefectural Government Building, 154m
+
+******************** DETAILS ********************
+
+*** Maebashi ***
+Country: Japan
+Region: Asia
+1 tower: Gunma Prefectural Government Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gunma Prefectural Government Building ***
+Height: 153.8
+Floors: 33
+Status: Completed
+Completed: 1999
+Functions: office / government
+Rank: 1

@@ -1,0 +1,214 @@
+*** Durban (39) ***
+1.  Pearl Dawn, 152m
+2.  88 on Field, 146m
+3.  Old Mutual Centre, 137m
+4.  Monte Blanc, 133m
+5.  The Spinnaker, 124m
+6.  Embassy Building, 120m
+7.  Holiday Inn Garden Court Marine Parade, 118m
+8.  Pearl Breeze, 118m
+9.  Holiday Inn Garden Court North Beach, 118m
+10. 320 West Street, 110m
+11. 101 Victoria Embankment, 110m
+12. Protea Hotel Landmark Lodge, 110m
+13. The Palace, 110m
+14. John Ross House, 109m
+15. Durban Bay House, 106m
+16. Maluti Building, 104m
+17. Transnet Tower, 103m
+18. Servamus House, 102m
+19. Nedbank Centre, 96m
+20. Eagle Building, 96m
+21. The Marine, 95m
+22. The Royal Hotel, 89m
+
+******************** DETAILS ********************
+
+*** Durban ***
+Country: South Africa
+Region: Africa
+22 towers: Pearl Dawn, 88 on Field, Old Mutual Centre, Monte Blanc, The Spinnaker, Embassy Building, Holiday Inn Garden Court Marine Parade, Pearl Breeze, Holiday Inn Garden Court North Beach, 320 West Street, 101 Victoria Embankment, Protea Hotel Landmark Lodge, The Palace, John Ross House, Durban Bay House, Maluti Building, Transnet Tower, Servamus House, Nedbank Centre, Eagle Building, The Marine, The Royal Hotel
+Tiers: I: 7, II: 14, III: 1
+Rating: 39
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pearl Dawn ***
+Height: 152
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** 88 on Field ***
+Height: 146.5
+Floors: 26
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 2
+
+*** Old Mutual Centre ***
+Height: 137
+Floors: 33
+Status: Completed
+Started: 1993
+Completed: 1995
+Functions: office
+Rank: 3
+
+*** Monte Blanc ***
+Height: 132.6
+Floors: 40
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 4
+
+*** The Spinnaker ***
+Height: 123.7
+Floors: 29
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 5
+
+*** Embassy Building ***
+Height: 120
+Floors: 28
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 6
+
+*** Holiday Inn Garden Court Marine Parade ***
+Height: 118.26
+Floors: 28
+Status: Completed
+Completed: 1985
+Functions: hotel
+Rank: 7
+
+*** Pearl Breeze ***
+Height: 118.2
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 8
+
+*** Holiday Inn Garden Court North Beach ***
+Height: 118
+Floors: 33
+Status: Completed
+Completed: 1978
+Functions: hotel
+Rank: 9
+
+*** 320 West Street ***
+Height: 110.3
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 10
+
+*** 101 Victoria Embankment ***
+Height: 110
+Floors: 38
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 11
+
+*** Protea Hotel Landmark Lodge ***
+Height: 110
+Floors: 31
+Status: Completed
+Completed: 1976
+Functions: hotel / office
+Rank: 12
+
+*** The Palace ***
+Height: 109.7
+Floors: 26
+Status: Completed
+Completed: 1983
+Functions: hotel
+Rank: 13
+
+*** John Ross House ***
+Height: 109.1
+Floors: 33
+Status: Completed
+Completed: 1973
+Functions: residential / office
+Rank: 14
+
+*** Durban Bay House ***
+Height: 106
+Floors: 32
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 15
+
+*** Maluti Building ***
+Height: 104
+Floors: 33
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 16
+
+*** Transnet Tower ***
+Height: 103
+Floors: 27
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 17
+
+*** Servamus House ***
+Height: 102
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 18
+
+*** Nedbank Centre ***
+Height: 96
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 19
+
+*** Eagle Building ***
+Height: 96
+Floors: 24
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 20
+
+*** The Marine ***
+Height: 95
+Floors: 24
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 21
+
+*** The Royal Hotel ***
+Height: 89.06
+Floors: 21
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 22

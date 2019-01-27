@@ -1,0 +1,153 @@
+*** Spain (191) ***
+1.  Madrid, 57
+2.  Benidorm, 54
+3.  Barcelona, 42
+4.  Bilbao, 13
+5.  Sevilla, 4
+6.  Santa Cruz de Tenerife, 4
+7.  Alicante, 4
+8.  Ponferrada, 2
+9.  La Coruna, 2
+10. Zaragoza, 2
+11. Gijon, 2
+12. Villajoyosa, 1
+13. Los Barrios, 1
+14. Murcia, 1
+15. Baracaldo, 1
+16. El Ejido, 1
+
+******************** DETAILS ********************
+
+*** Spain ***
+Region: Europe
+16 cities: Madrid, Benidorm, Barcelona, Bilbao, Sevilla, Santa Cruz de Tenerife, Alicante, Ponferrada, La Coruna, Zaragoza, Gijon, Villajoyosa, Los Barrios, Murcia, Baracaldo, El Ejido
+Tiers: I: 57, II: 37, III: 9, IV: 4
+Rating: 191 (7.3% uncompleted)
+
+*** Madrid ***
+Country: Spain
+Region: Europe
+24 towers: Torre de Cristal, Torre Cepsa, Torre PwC, Torre Espacio, Caleido, Torre Picasso, Torre de Madrid, Edificio Espana, Torre Europa, Puerta de Europa Torre I, Puerta de Europa Torre II, Torres de Colón, Castellana 81, Torre Titania, Torre del Complejo Cuzco, Torre de Valencia, BBVA Headquarters, Hospital Central de la Defensa Gómez Ulla, Edificio de Telefónica de España, Torre Chamartín Merlin, Torre Mahou, Capitán Haya 51, Torre Metropolitana, Torres Blancas
+Tiers: I: 11, II: 7, III: 2, IV: 4
+Rating: 57 (7.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Benidorm ***
+Country: Spain
+Region: Europe
+32 towers: Intempo, Gran Hotel Bali, Torre Lugano, Edificio Neguri Gane, Edificio Kronos, Edificio Don Jorge, El Mirador del Mediterrano, Torre Levante, Costa Blanca I, Miragolf Playa 2, Gemelos 26 Torre 1, Gemelos 26 Torre 2, Torre D'Oboe 1, Torre D'Oboe 2, Sol de Poniente 2, Beni Beach, Playa Azul, Miragolf Playa 1, Torre Pinar, Residencial Islamar 2, Residencial Islamar 3, Las Terrazas de Benidorm 1, Las Terrazas de Benidorm 2, Torre Doscalas, Gemelos 22 Torre 1, Gemelos 22 Torre 2, Coblanca 41, Miragolf Playa 3, Hotel Flamingo Oasis, Delfin Tower, Sol de Poniente 1, Costa Blanca II
+Tiers: I: 16, II: 13, III: 3
+Rating: 54 (9.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Barcelona ***
+Country: Spain
+Region: Europe
+28 towers: Hotel de las Artes, Torre Mapfre, Torre Glòries, Sky Barcelona, Edificio Colon, Torre Diagonal 00 Telefonica Tower, Hotel Princess, W Barcelona Hotel, AC Hotel Barcelona, Illa del Mar 1, Illa de la Llum 1, Consorci de la Zona Franca, Torre Mare Nostrum, La Caixa I, Hilton Diagonal Mar Barcelona, Banc Sabadell, Porta Firal Auditori, Torre Catalunya, Torre Tarragona, Torre Núñez y Navarro, Illa del Mar 2, Hotel Porta Fira, Torre Realia BCN, Torre PUIG, Hesperia Tower, Renaissance Barcelona Fira Hotel, Torre Inbisa, Torre Werfen
+Tiers: I: 18, II: 8, III: 2
+Rating: 42
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bilbao ***
+Country: Spain
+Region: Europe
+8 towers: Torre Iberdrola, Operación Garellano I, Operación Garellano II, Operación Garellano III, Operación Garellano IV, Bolueta, BBVAren Dorrea, Operación Garellano V
+Tiers: I: 5, II: 2, III: 1
+Rating: 13 (30.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sevilla ***
+Country: Spain
+Region: Europe
+1 tower: Torre Sevilla
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Santa Cruz de Tenerife ***
+Country: Spain
+Region: Europe
+2 towers: Los Torres de Santa Cruz de Tenerife I, Los Torres de Santa Cruz de Tenerife II
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Alicante ***
+Country: Spain
+Region: Europe
+3 towers: Estudiotel Alicante, El Barco, Tryp Gran Sol Hotel
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ponferrada ***
+Country: Spain
+Region: Europe
+1 tower: Torre de La Rosaleda
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** La Coruna ***
+Country: Spain
+Region: Europe
+1 tower: Torre Costa Rica
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Zaragoza ***
+Country: Spain
+Region: Europe
+1 tower: Torre de Comunicaciones de Movistar
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Gijon ***
+Country: Spain
+Region: Europe
+1 tower: Torre de la Universidad Laboral
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Villajoyosa ***
+Country: Spain
+Region: Europe
+1 tower: Atrium Beach Mar
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Los Barrios ***
+Country: Spain
+Region: Europe
+1 tower: Torres de Hercules
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Murcia ***
+Country: Spain
+Region: Europe
+1 tower: Torre Norte
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Baracaldo ***
+Country: Spain
+Region: Europe
+1 tower: Bilbao Exhibition Centre
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** El Ejido ***
+Country: Spain
+Region: Europe
+1 tower: Edificio Torre Laguna
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

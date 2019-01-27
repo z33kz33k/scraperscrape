@@ -1,0 +1,41 @@
+*** Almere (4) ***
+1. Carlton, 120m
+2. Eurotoren, 80m
+3. Martinez, 78m
+
+******************** DETAILS ********************
+
+*** Almere ***
+Country: Netherlands
+Region: Europe
+3 towers: Carlton, Eurotoren, Martinez
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Carlton ***
+Height: 120
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 1
+
+*** Eurotoren ***
+Height: 80
+Floors: 20
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 2
+
+*** Martinez ***
+Height: 77.8
+Floors: 21
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 3

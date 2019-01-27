@@ -1,0 +1,38 @@
+*** Alicante (4) ***
+1. Estudiotel Alicante, 117m
+2. El Barco, 100m
+3. Tryp Gran Sol Hotel, 97m
+
+******************** DETAILS ********************
+
+*** Alicante ***
+Country: Spain
+Region: Europe
+3 towers: Estudiotel Alicante, El Barco, Tryp Gran Sol Hotel
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Estudiotel Alicante ***
+Height: 117
+Floors: 35
+Status: Completed
+Completed: 1962
+Functions: hotel
+Rank: 1
+
+*** El Barco ***
+Height: 100
+Floors: 30
+Status: Completed
+Completed: 1963
+Functions: residential / office
+Rank: 2
+
+*** Tryp Gran Sol Hotel ***
+Height: 97
+Floors: 31
+Status: Completed
+Completed: 1970
+Functions: hotel
+Rank: 3

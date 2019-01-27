@@ -1,0 +1,2931 @@
+*** Nanning (663) ***
+1.   Skyfame Center Landmark Tower, 420m
+2.   Guangxi China Resources Tower, 403m
+3.   Nanning Logan Century 1, 381m
+4.   Guangxi Financial Investment Center, 330m
+5.   Guangxi Finance Plaza, 321m
+6.   Jiuzhou International Tower, 318m
+7.   Guangxi Wealth Financial Center, 311m
+8.   Logan International Headquarters Tower 1, 278m
+9.   Diwang International Commerce Center, 276m
+10.  Hangyang Sino Plaza 1, 232m
+11.  Hangyang Sino Plaza 3, 232m
+12.  Sankee Plaza, 231m
+13.  KWG International Plaza, 228m
+14.  Hangyang Sino Plaza 2, 226m
+15.  Liyuan Skyline City, 222m
+16.  Tsingtao Haier Union Square Tower 1, 220m
+17.  Park Lane Manor 5, 220m
+18.  Park Lane Manor 6, 220m
+19.  Science and Technology Park Headquarters C3, 220m
+20.  Nanhu Mingdu Plaza, 218m
+21.  Qingxiu Wanda Mansion 1, 216m
+22.  Qingxiu Wanda Mansion 4, 216m
+23.  Yuda Group Headquarters Tower 1, 210m
+24.  Greenland Center Tower 8, 210m
+25.  Triumph One #1, 203m
+26.  Triumph One #2, 203m
+27.  Triumph One #3, 200m
+28.  Triumph One #4, 200m
+29.  Qingxiu Wanda Plaza Office Tower 1, 200m
+30.  Qingxiu Wanda Plaza Office Tower 2, 200m
+31.  Qingxiu Wanda Plaza Office Tower 3, 200m
+32.  Qingxiu Wanda Mansion 2, 195m
+33.  Logan International Headquarters Tower 2, 191m
+34.  Nanning Logan Century 2, 182m
+35.  Xianggang Jie #5-1, 179m
+36.  Xianggang Jie #5-2, 179m
+37.  Vanke City South Area #17, 179m
+38.  Guangxi International Trade Center Main Tower, 177m
+39.  Nanning Taiping Financial Building, 173m
+40.  Vanke City South Area #18, 169m
+41.  Park Lane Manor 7, 169m
+42.  Park Lane Manor 8, 169m
+43.  Park Lane Manor 9, 169m
+44.  Nanning No. 2 Telecom Hinge Building, 168m
+45.  Park Lane Manor 1, 165m
+46.  Park Lane Manor 2, 165m
+47.  Park Lane Manor 3, 165m
+48.  Park Lane Manor 4, 165m
+49.  Vanke City South Area #15, 164m
+50.  Vanke City South Area #16, 164m
+51.  Huarun Jiacheng Five Elephants Office Building, 160m
+52.  Huarun Jiacheng Five Elephants #18, 160m
+53.  Huarun Jiacheng Five Elephants #26, 160m
+54.  Guangxi Water Conservancy Electric Industry Business Building, 158m
+55.  Huarun Jiacheng Five Elephants #13, 157m
+56.  Huarun Jiacheng Five Elephants #16, 157m
+57.  Huarun Jiacheng Five Elephants #21, 157m
+58.  Huarun Jiacheng Five Elephants #23, 157m
+59.  Vanke City South Area #22, 155m
+60.  Cartier Manor 2, 151m
+61.  Jinyuan City Five 1#, 150m
+62.  Jinyuan City Five 2# , 150m
+63.  Jinyuan City Five 3# , 150m
+64.  Jinyuan City Five 6#, 150m
+65.  Jinyuan City Five 7#  , 150m
+66.  Jinyuan City Five 8#  , 150m
+67.  Nanning International Tourism Center 3, 150m
+68.  Long Light Water Yue Longwan 10, 150m
+69.  Long Light Water Yue Longwan 11, 150m
+70.  Yuda Group Headquarters Tower 2, 150m
+71.  Vanke City South Area S3, 150m
+72.  Xianggang Jie #2, 149m
+73.  Xianggang Jie #3, 149m
+74.  Tsingtao Haier Union Square Tower 2, 147m
+75.  Jinyuan City Five 10# , 147m
+76.  Huarun Jiacheng Five Elephants #12, 146m
+77.  Huarun Jiacheng Five Elephants #17, 146m
+78.  Huarun Jiacheng Five Elephants #20, 146m
+79.  Huarun Jiacheng Five Elephants #25, 146m
+80.  Cartier Manor 1, 145m
+81.  Cartier Manor 3, 145m
+82.  Guangxi New Media Center, 145m
+83.  Li Hai · Asia International Lingfeng Block A, 144m
+84.  Li Hai · Asia International Lingfeng Block B, 144m
+85.  Vanke City South Area #21, 140m
+86.  Rong and Banyan Mountain #11, 140m
+87.  Rong and Banyan Mountain #16, 140m
+88.  Rong and Banyan Mountain #17, 140m
+89.  Rong and Banyan Mountain #18, 140m
+90.  Rong and Banyan Mountain #10, 140m
+91.  Rong and Banyan Mountain #20, 140m
+92.  Rong and Banyan Mountain #21, 140m
+93.  Vanke City South Area #11, 140m
+94.  Vanke City South Area #12, 140m
+95.  Huarun Jiacheng Five Elephants #5, 140m
+96.  Huarun Jiacheng Five Elephants #6, 140m
+97.  Vanke City South Area S2, 140m
+98.  Silver Spring Yitian #3, 140m
+99.  Vanke City North Area #1, 139m
+100. Vanke City North Area #2, 139m
+101. Vanke City North Area #3, 139m
+102. Vanke City North Area #4, 139m
+103. Vanke City North Area #15, 139m
+104. Vanke City North Area #16, 139m
+105. Vanke City North Area #8, 139m
+106. Vanke City North Area #9, 139m
+107. Rong and Banyan Mountain #6, 139m
+108. Nanning Rong i Qijiang Yue House #2, 138m
+109. Guangxi Electric Power Mansion, 138m
+110. International Ocean City 3, 138m
+111. Huarun Jiacheng Five Elephants #10, 137m
+112. Huarun Jiacheng Five Elephants #9, 137m
+113. Huarun Jiacheng Five Elephants #11, 137m
+114. Huarun Jiacheng Five Elephants #15, 137m
+115. Huarun Jiacheng Five Elephants #19, 137m
+116. Huarun Jiacheng Five Elephants #22, 137m
+117. Rong and Banyan Mountain #9, 137m
+118. Rong and Banyan Mountain #8, 135m
+119. International Ocean City 2, 135m
+120. Rong and Banyan Mountain #19, 134m
+121. Huarun Jiacheng Five Elephants #3, 134m
+122. Huarun Jiacheng Five Elephants #7, 134m
+123. Vanke City South Area #4, 133m
+124. Vanke City South Area #5, 133m
+125. Guang Investment Xin Environment A, 133m
+126. Residential at Macau Street, 132m
+127. Huarun Jiacheng Five Elephants #8, 131m
+128. Nanning Rong i Qijiang Yue House #3, 130m
+129. Water Resources Department, 128m
+130. Vanke City North Area #25, 124m
+131. Vanke City North Area #5, 122m
+132. Vanke City South Area #20, 122m
+133. Tsingtao Haier Union Square Tower 3, 121m
+134. Golden One 2#, 120m
+135. Golden One 3#, 120m
+136. Golden One 5#, 120m
+137. Golden One 6#, 120m
+138. Golden One 10#, 120m
+139. Golden One 7#, 120m
+140. Golden One 8#, 120m
+141. Golden One 9#, 120m
+142. Vanke City South Area #13, 120m
+143. Vanke City South Area #14, 120m
+144. Vanke City South Area #19, 120m
+145. Vanke City North Area #10, 119m
+146. Vanke City North Area #11, 119m
+147. Vanke City North Area #12, 119m
+148. Vanke City North Area #13, 119m
+149. Vanke City North Area #14, 119m
+150. Vanke City North Area #17, 119m
+151. Vanke City North Area #18, 119m
+152. Vanke City North Area #19, 119m
+153. Vanke City North Area #20, 119m
+154. Vanke City North Area #23, 119m
+155. Vanke City North Area #24, 119m
+156. Silver Spring Yitian #2, 119m
+157. Silver Spring Yitian #4, 119m
+158. Longguang Royal Lake Sunshine 13, 118m
+159. Longguang Royal Lake Sunshine 21, 118m
+160. Vanke City South Area #9, 118m
+161. Vanke City South Area #10, 118m
+162. Guangxi Construction Building #1, 116m
+163. Guangxi Construction Building #2, 116m
+164. International Ocean City 1, 114m
+165. International Ocean City 4, 112m
+166. Greenland Center Tower 2, 110m
+167. Greenland Center Tower 7, 110m
+168. Longguang Royal Lake Sunshine 12, 109m
+169. Longguang Royal Lake Sunshine 22, 109m
+170. Sheng Tian Dong Jun Tower 24, 106m
+171. Sheng Tian Dong Jun Tower 25, 106m
+172. Sheng Tian Dong Jun Tower 26, 106m
+173. Sheng Tian Dong Jun Tower 22, 105m
+174. Sheng Tian Dong Jun Tower 23, 105m
+175. Nanning Rong i Qijiang Yue House #1, 104m
+176. Golden One 11#, 100m
+177. Golden One 12#, 100m
+178. Golden One 13#, 100m
+179. Golden One 15#, 100m
+180. Nanning International Tourism Center 2, 100m
+181. Wanda Vista Nanning, 100m
+182. Sheng Tian Dong Jun Tower 30, 100m
+183. Sheng Tian Dong Jun Towers 31-32, 100m
+184. Sheng Tian Dong Jun Towers 33-35, 100m
+185. Sheng Tian Dong Jun Towers 36-37, 100m
+186. Sheng Tian Dong Jun Towers 12-13, 100m
+187. Longgang Tang Fruit #2, 100m
+188. Longgang Tang Fruit #7, 100m
+189. Sheng Tian Dong Jun Tower 21, 100m
+190. Sheng Tian Dong Jun Towers 15-16, 100m
+191. Sheng Tian Dong Jun Towers 17-18, 100m
+192. Sheng Tian Dong Jun Towers 19-20, 100m
+193. Sheng Tian Dong Jun Towers 8-9, 100m
+194. Sheng Tian Dong Jun Towers 1-2, 100m
+195. Sheng Tian Dong Jun Towers 3-5, 100m
+196. Sheng Tian Dong Jun Towers 6-7, 100m
+197. Huafa Guobin One 11#, 100m
+198. Huafa Guobin One 13#, 100m
+199. Huafa Guobin One 16#, 100m
+200. Huafa Guobin One 18#, 100m
+201. Huafa Guobin One 19#, 100m
+202. Huafa Guobin One 7#, 100m
+203. Huafa Guobin One 8#, 100m
+204. Vanke City South Area #1, 100m
+205. Vanke City South Area #2, 100m
+206. Vanke City South Area #3, 100m
+207. Vanke City South Area #6, 100m
+208. Vanke City South Area #7, 100m
+209. Vanke City South Area #8, 100m
+210. Vanke City North Area #21, 100m
+211. Longguang Royal Lake Sunshine 3, 100m
+212. Haoyuefu 18#, 100m
+213. Haoyuefu 6#, 100m
+214. Haoyuefu 7#, 100m
+215. Haoyuefu 8#, 100m
+216. Guang Investment Xin Environment, 100m
+217. Huarun Jiacheng Five Elephants #2, 99m
+218. Longguang Royal Lake Sunshine 25, 99m
+219. Longguang Royal Lake Sunshine 28, 99m
+220. Longguang Royal Lake Sunshine 29, 99m
+221. Longguang Royal Lake Sunshine 6, 99m
+222. Longguang Royal Lake Sunshine 7, 99m
+223. Rong and Banyan Mountain #12, 99m
+224. Rong and Banyan Mountain #1B, 99m
+225. Rong and Banyan Mountain #5A, 99m
+226. Vanke City North Area #22, 99m
+227. Haoyuefu 11#, 99m
+228. Haoyuefu 16#, 99m
+229. Haoyuefu 17#, 99m
+230. Haoyuefu 3#, 99m
+231. Haoyuefu 5#, 99m
+232. Grand Gateway Huijin, 99m
+233. Vanke City North Area #6, 99m
+234. Longgang Tang Fruit #8, 99m
+235. Haoyuefu 10#, 99m
+236. Haoyuefu 9#, 99m
+237. Longguang Royal Lake Sunshine 10, 99m
+238. Longguang Royal Lake Sunshine 11, 99m
+239. Longguang Royal Lake Sunshine 14, 99m
+240. Longguang Royal Lake Sunshine 9, 99m
+241. Vanke City North Area #7, 98m
+242. Silver Spring Yitian #1, 98m
+243. Longguang Royal Lake Sunshine 2, 98m
+244. Longgang Tang Fruit #3, 97m
+245. Guang Investment Xin Environment B, 97m
+246. Guang Investment Xin Environment C, 97m
+247. Silver Spring Yitian #5, 97m
+248. Huafa Guobin One 10# , 97m
+249. Huafa Guobin One 12#, 97m
+250. Huafa Guobin One 14# , 97m
+251. Huafa Guobin One 15# , 97m
+252. Huafa Guobin One 17#, 97m
+253. Huafa Guobin One 4#, 97m
+254. Huafa Guobin One 9#, 97m
+255. Huarun Jiacheng Five Elephants #1, 97m
+256. Rong and Banyan Mountain #15, 96m
+257. Xianggang Jie #1-1, 96m
+258. Xianggang Jie #1-2, 96m
+259. Yuda Group Headquarters Serviced Apartments, 94m
+260. Huafa Guobin One 5#, 94m
+261. Longguang Royal Lake Sunshine 24, 93m
+262. Longguang Royal Lake Sunshine 26, 93m
+263. Ming Huang Island International Business Plaza, 93m
+264. Longgang Tang Fruit #6, 92m
+265. Tsingtao Haier Union Square Tower 4, 91m
+266. Longguang Royal Lake Sunshine 20, 90m
+267. Longguang Royal Lake Sunshine 23, 90m
+268. Longguang Royal Lake Sunshine 32, 90m
+269. Longguang Royal Lake Sunshine 33, 90m
+270. Longgang Tang Fruit #9, 90m
+271. Silver Spring Yitian #6, 89m
+272. Goldfield Blue Bay #21-1,2, 89m
+273. Huafa Guobin One 1#, 88m
+274. Huafa Guobin One 2# , 88m
+275. Huafa Guobin One 3# , 88m
+276. Huafa Guobin One 6#, 88m
+277. Athens International, 88m
+278. Cloud Star - Qian Long World 1#, 87m
+279. Cloud Star - Qian Long World 2#, 87m
+280. Huafa Guobin One 20#, 85m
+281. Huafa Guobin One 21#, 85m
+282. Rong and Banyan Mountain #7, 84m
+283. Longguang Royal Lake Sunshine 27, 80m
+284. Longguang Royal Lake Sunshine 30, 80m
+285. Jinyuan City Five 5#, 80m
+286. Longguang Royal Lake Sunshine 5, 80m
+287. Longguang Royal Lake Sunshine 8, 80m
+288. Longgang Tang Fruit #5, 79m
+289. Longguang Royal Lake Sunshine 1, 79m
+290. Rong and Banyan Mountain #2B, 79m
+291. Rong and Banyan Mountain #3B, 79m
+292. Longgang Tang Fruit #1, 78m
+293. Longguang Royal Lake Sunshine 4, 78m
+294. Country Garden Tianzhu Bay 14, 77m
+
+******************** DETAILS ********************
+
+*** Nanning ***
+Country: China
+Region: Asia
+294 towers: Skyfame Center Landmark Tower, Guangxi China Resources Tower, Nanning Logan Century 1, Guangxi Financial Investment Center, Guangxi Finance Plaza, Jiuzhou International Tower, Guangxi Wealth Financial Center, Logan International Headquarters Tower 1, Diwang International Commerce Center, Hangyang Sino Plaza 1, Hangyang Sino Plaza 3, Sankee Plaza, KWG International Plaza, Hangyang Sino Plaza 2, Liyuan Skyline City, Tsingtao Haier Union Square Tower 1, Park Lane Manor 5, Park Lane Manor 6, Science and Technology Park Headquarters C3, Nanhu Mingdu Plaza, Qingxiu Wanda Mansion 1, Qingxiu Wanda Mansion 4, Yuda Group Headquarters Tower 1, Greenland Center Tower 8, Triumph One #1, Triumph One #2, Triumph One #3, Triumph One #4, Qingxiu Wanda Plaza Office Tower 1, Qingxiu Wanda Plaza Office Tower 2, Qingxiu Wanda Plaza Office Tower 3, Qingxiu Wanda Mansion 2, Logan International Headquarters Tower 2, Nanning Logan Century 2, Xianggang Jie #5-1, Xianggang Jie #5-2, Vanke City South Area #17, Guangxi International Trade Center Main Tower, Nanning Taiping Financial Building, Vanke City South Area #18, Park Lane Manor 7, Park Lane Manor 8, Park Lane Manor 9, Nanning No. 2 Telecom Hinge Building, Park Lane Manor 1, Park Lane Manor 2, Park Lane Manor 3, Park Lane Manor 4, Vanke City South Area #15, Vanke City South Area #16, Huarun Jiacheng Five Elephants Office Building, Huarun Jiacheng Five Elephants #18, Huarun Jiacheng Five Elephants #26, Guangxi Water Conservancy Electric Industry Business Building, Huarun Jiacheng Five Elephants #13, Huarun Jiacheng Five Elephants #16, Huarun Jiacheng Five Elephants #21, Huarun Jiacheng Five Elephants #23, Vanke City South Area #22, Cartier Manor 2, Jinyuan City Five 1#, Jinyuan City Five 2# , Jinyuan City Five 3# , Jinyuan City Five 6#, Jinyuan City Five 7#  , Jinyuan City Five 8#  , Nanning International Tourism Center 3, Long Light Water Yue Longwan 10, Long Light Water Yue Longwan 11, Yuda Group Headquarters Tower 2, Vanke City South Area S3, Xianggang Jie #2, Xianggang Jie #3, Tsingtao Haier Union Square Tower 2, Jinyuan City Five 10# , Huarun Jiacheng Five Elephants #12, Huarun Jiacheng Five Elephants #17, Huarun Jiacheng Five Elephants #20, Huarun Jiacheng Five Elephants #25, Cartier Manor 1, Cartier Manor 3, Guangxi New Media Center, Li Hai · Asia International Lingfeng Block A, Li Hai · Asia International Lingfeng Block B, Vanke City South Area #21, Rong and Banyan Mountain #11, Rong and Banyan Mountain #16, Rong and Banyan Mountain #17, Rong and Banyan Mountain #18, Rong and Banyan Mountain #10, Rong and Banyan Mountain #20, Rong and Banyan Mountain #21, Vanke City South Area #11, Vanke City South Area #12, Huarun Jiacheng Five Elephants #5, Huarun Jiacheng Five Elephants #6, Vanke City South Area S2, Silver Spring Yitian #3, Vanke City North Area #1, Vanke City North Area #2, Vanke City North Area #3, Vanke City North Area #4, Vanke City North Area #15, Vanke City North Area #16, Vanke City North Area #8, Vanke City North Area #9, Rong and Banyan Mountain #6, Nanning Rong i Qijiang Yue House #2, Guangxi Electric Power Mansion, International Ocean City 3, Huarun Jiacheng Five Elephants #10, Huarun Jiacheng Five Elephants #9, Huarun Jiacheng Five Elephants #11, Huarun Jiacheng Five Elephants #15, Huarun Jiacheng Five Elephants #19, Huarun Jiacheng Five Elephants #22, Rong and Banyan Mountain #9, Rong and Banyan Mountain #8, International Ocean City 2, Rong and Banyan Mountain #19, Huarun Jiacheng Five Elephants #3, Huarun Jiacheng Five Elephants #7, Vanke City South Area #4, Vanke City South Area #5, Guang Investment Xin Environment A, Residential at Macau Street, Huarun Jiacheng Five Elephants #8, Nanning Rong i Qijiang Yue House #3, Water Resources Department, Vanke City North Area #25, Vanke City North Area #5, Vanke City South Area #20, Tsingtao Haier Union Square Tower 3, Golden One 2#, Golden One 3#, Golden One 5#, Golden One 6#, Golden One 10#, Golden One 7#, Golden One 8#, Golden One 9#, Vanke City South Area #13, Vanke City South Area #14, Vanke City South Area #19, Vanke City North Area #10, Vanke City North Area #11, Vanke City North Area #12, Vanke City North Area #13, Vanke City North Area #14, Vanke City North Area #17, Vanke City North Area #18, Vanke City North Area #19, Vanke City North Area #20, Vanke City North Area #23, Vanke City North Area #24, Silver Spring Yitian #2, Silver Spring Yitian #4, Longguang Royal Lake Sunshine 13, Longguang Royal Lake Sunshine 21, Vanke City South Area #9, Vanke City South Area #10, Guangxi Construction Building #1, Guangxi Construction Building #2, International Ocean City 1, International Ocean City 4, Greenland Center Tower 2, Greenland Center Tower 7, Longguang Royal Lake Sunshine 12, Longguang Royal Lake Sunshine 22, Sheng Tian Dong Jun Tower 24, Sheng Tian Dong Jun Tower 25, Sheng Tian Dong Jun Tower 26, Sheng Tian Dong Jun Tower 22, Sheng Tian Dong Jun Tower 23, Nanning Rong i Qijiang Yue House #1, Golden One 11#, Golden One 12#, Golden One 13#, Golden One 15#, Nanning International Tourism Center 2, Wanda Vista Nanning, Sheng Tian Dong Jun Tower 30, Sheng Tian Dong Jun Towers 31-32, Sheng Tian Dong Jun Towers 33-35, Sheng Tian Dong Jun Towers 36-37, Sheng Tian Dong Jun Towers 12-13, Longgang Tang Fruit #2, Longgang Tang Fruit #7, Sheng Tian Dong Jun Tower 21, Sheng Tian Dong Jun Towers 15-16, Sheng Tian Dong Jun Towers 17-18, Sheng Tian Dong Jun Towers 19-20, Sheng Tian Dong Jun Towers 8-9, Sheng Tian Dong Jun Towers 1-2, Sheng Tian Dong Jun Towers 3-5, Sheng Tian Dong Jun Towers 6-7, Huafa Guobin One 11#, Huafa Guobin One 13#, Huafa Guobin One 16#, Huafa Guobin One 18#, Huafa Guobin One 19#, Huafa Guobin One 7#, Huafa Guobin One 8#, Vanke City South Area #1, Vanke City South Area #2, Vanke City South Area #3, Vanke City South Area #6, Vanke City South Area #7, Vanke City South Area #8, Vanke City North Area #21, Longguang Royal Lake Sunshine 3, Haoyuefu 18#, Haoyuefu 6#, Haoyuefu 7#, Haoyuefu 8#, Guang Investment Xin Environment, Huarun Jiacheng Five Elephants #2, Longguang Royal Lake Sunshine 25, Longguang Royal Lake Sunshine 28, Longguang Royal Lake Sunshine 29, Longguang Royal Lake Sunshine 6, Longguang Royal Lake Sunshine 7, Rong and Banyan Mountain #12, Rong and Banyan Mountain #1B, Rong and Banyan Mountain #5A, Vanke City North Area #22, Haoyuefu 11#, Haoyuefu 16#, Haoyuefu 17#, Haoyuefu 3#, Haoyuefu 5#, Grand Gateway Huijin, Vanke City North Area #6, Longgang Tang Fruit #8, Haoyuefu 10#, Haoyuefu 9#, Longguang Royal Lake Sunshine 10, Longguang Royal Lake Sunshine 11, Longguang Royal Lake Sunshine 14, Longguang Royal Lake Sunshine 9, Vanke City North Area #7, Silver Spring Yitian #1, Longguang Royal Lake Sunshine 2, Longgang Tang Fruit #3, Guang Investment Xin Environment B, Guang Investment Xin Environment C, Silver Spring Yitian #5, Huafa Guobin One 10# , Huafa Guobin One 12#, Huafa Guobin One 14# , Huafa Guobin One 15# , Huafa Guobin One 17#, Huafa Guobin One 4#, Huafa Guobin One 9#, Huarun Jiacheng Five Elephants #1, Rong and Banyan Mountain #15, Xianggang Jie #1-1, Xianggang Jie #1-2, Yuda Group Headquarters Serviced Apartments, Huafa Guobin One 5#, Longguang Royal Lake Sunshine 24, Longguang Royal Lake Sunshine 26, Ming Huang Island International Business Plaza, Longgang Tang Fruit #6, Tsingtao Haier Union Square Tower 4, Longguang Royal Lake Sunshine 20, Longguang Royal Lake Sunshine 23, Longguang Royal Lake Sunshine 32, Longguang Royal Lake Sunshine 33, Longgang Tang Fruit #9, Silver Spring Yitian #6, Goldfield Blue Bay #21-1,2, Huafa Guobin One 1#, Huafa Guobin One 2# , Huafa Guobin One 3# , Huafa Guobin One 6#, Athens International, Cloud Star - Qian Long World 1#, Cloud Star - Qian Long World 2#, Huafa Guobin One 20#, Huafa Guobin One 21#, Rong and Banyan Mountain #7, Longguang Royal Lake Sunshine 27, Longguang Royal Lake Sunshine 30, Jinyuan City Five 5#, Longguang Royal Lake Sunshine 5, Longguang Royal Lake Sunshine 8, Longgang Tang Fruit #5, Longguang Royal Lake Sunshine 1, Rong and Banyan Mountain #2B, Rong and Banyan Mountain #3B, Longgang Tang Fruit #1, Longguang Royal Lake Sunshine 4, Country Garden Tianzhu Bay 14
+Tiers: I: 125, II: 98, III: 49, IV: 15, V: 7
+Rating: 663 (30.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Skyfame Center Landmark Tower ***
+Height: 420
+Floors: 90
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: hotel / office
+Rank: 1
+
+*** Guangxi China Resources Tower ***
+Height: 402.65
+Floors: 85
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: hotel / office
+Rank: 2
+
+*** Nanning Logan Century 1 ***
+Height: 381.25
+Floors: 82
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: hotel / office
+Rank: 3
+
+*** Guangxi Financial Investment Center ***
+Height: 330
+Floors: 70
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: hotel / office
+Rank: 4
+
+*** Guangxi Finance Plaza ***
+Height: 321
+Floors: 68
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: hotel / office
+Rank: 5
+
+*** Jiuzhou International Tower ***
+Height: 318
+Floors: 71
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 6
+
+*** Guangxi Wealth Financial Center ***
+Height: 310.75
+Floors: 70
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 7
+
+*** Logan International Headquarters Tower 1 ***
+Height: 278
+Floors: 58
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 8
+
+*** Diwang International Commerce Center ***
+Height: 276
+Floors: 54
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: hotel / office
+Rank: 9
+
+*** Hangyang Sino Plaza 1 ***
+Height: 231.7
+Floors: 53
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office / retail
+Rank: 10
+
+*** Hangyang Sino Plaza 3 ***
+Height: 231.7
+Floors: 53
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office / retail
+Rank: 10
+
+*** Sankee Plaza ***
+Height: 231
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 12
+
+*** KWG International Plaza ***
+Height: 228.1
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 13
+
+*** Hangyang Sino Plaza 2 ***
+Height: 225.7
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: hotel / retail
+Rank: 14
+
+*** Liyuan Skyline City ***
+Height: 221.9
+Floors: 57
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 15
+
+*** Tsingtao Haier Union Square Tower 1 ***
+Height: 220.5
+Floors: 52
+Status: Under Construction
+Started: 2013
+Functions: office
+Rank: 16
+
+*** Park Lane Manor 5 ***
+Height: 220
+Floors: 60
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 17
+
+*** Park Lane Manor 6 ***
+Height: 220
+Floors: 60
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 17
+
+*** Science and Technology Park Headquarters C3 ***
+Height: 220
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 19
+
+*** Nanhu Mingdu Plaza ***
+Height: 218
+Floors: 47
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 20
+
+*** Qingxiu Wanda Mansion 1 ***
+Height: 216.4
+Floors: 60
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 21
+
+*** Qingxiu Wanda Mansion 4 ***
+Height: 216.4
+Floors: 60
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 21
+
+*** Yuda Group Headquarters Tower 1 ***
+Height: 210
+Floors: 50
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 23
+
+*** Greenland Center Tower 8 ***
+Height: 210
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 24
+
+*** Triumph One #1 ***
+Height: 202.9
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 25
+
+*** Triumph One #2 ***
+Height: 202.9
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 25
+
+*** Triumph One #3 ***
+Height: 200.3
+Floors: 46
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 27
+
+*** Triumph One #4 ***
+Height: 200.3
+Floors: 46
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 27
+
+*** Qingxiu Wanda Plaza Office Tower 1 ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 29
+
+*** Qingxiu Wanda Plaza Office Tower 2 ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 29
+
+*** Qingxiu Wanda Plaza Office Tower 3 ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 29
+
+*** Qingxiu Wanda Mansion 2 ***
+Height: 195
+Floors: 60
+Status: Under Construction
+Functions: residential
+Rank: 32
+
+*** Logan International Headquarters Tower 2 ***
+Height: 191
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 33
+
+*** Nanning Logan Century 2 ***
+Height: 181.75
+Floors: 51
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: serviced apartments
+Rank: 34
+
+*** Xianggang Jie #5-1 ***
+Height: 178.95
+Floors: 56
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 35
+
+*** Xianggang Jie #5-2 ***
+Height: 178.95
+Floors: 56
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 35
+
+*** Vanke City South Area #17 ***
+Height: 178.7
+Floors: 55
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 37
+
+*** Guangxi International Trade Center Main Tower ***
+Height: 177.2
+Floors: 45
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 38
+
+*** Nanning Taiping Financial Building ***
+Height: 173
+Floors: 37
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 39
+
+*** Vanke City South Area #18 ***
+Height: 169.3
+Floors: 55
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 40
+
+*** Park Lane Manor 7 ***
+Height: 169
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 41
+
+*** Park Lane Manor 8 ***
+Height: 169
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 41
+
+*** Park Lane Manor 9 ***
+Height: 169
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 41
+
+*** Nanning No. 2 Telecom Hinge Building ***
+Height: 168
+Floors: 33
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 44
+
+*** Park Lane Manor 1 ***
+Height: 165
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 45
+
+*** Park Lane Manor 2 ***
+Height: 165
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 45
+
+*** Park Lane Manor 3 ***
+Height: 165
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 45
+
+*** Park Lane Manor 4 ***
+Height: 165
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 45
+
+*** Vanke City South Area #15 ***
+Height: 164.2
+Floors: 55
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 49
+
+*** Vanke City South Area #16 ***
+Height: 164.2
+Floors: 55
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 49
+
+*** Huarun Jiacheng Five Elephants Office Building ***
+Height: 160.4
+Floors: 40
+Status: Under Construction
+Functions: office
+Rank: 51
+
+*** Huarun Jiacheng Five Elephants #18 ***
+Height: 160.3
+Floors: 54
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 52
+
+*** Huarun Jiacheng Five Elephants #26 ***
+Height: 160.3
+Floors: 54
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 52
+
+*** Guangxi Water Conservancy Electric Industry Business Building ***
+Height: 157.6
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 54
+
+*** Huarun Jiacheng Five Elephants #13 ***
+Height: 157.4
+Floors: 53
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 55
+
+*** Huarun Jiacheng Five Elephants #16 ***
+Height: 157.4
+Floors: 53
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 55
+
+*** Huarun Jiacheng Five Elephants #21 ***
+Height: 157.4
+Floors: 53
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 55
+
+*** Huarun Jiacheng Five Elephants #23 ***
+Height: 157.4
+Floors: 53
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 55
+
+*** Vanke City South Area #22 ***
+Height: 155.3
+Floors: 53
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 59
+
+*** Cartier Manor 2 ***
+Height: 151
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 60
+
+*** Jinyuan City Five 1# ***
+Height: 150
+Floors: 49
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 61
+
+*** Jinyuan City Five 2#  ***
+Height: 150
+Floors: 49
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 61
+
+*** Jinyuan City Five 3#  ***
+Height: 150
+Floors: 49
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 61
+
+*** Jinyuan City Five 6# ***
+Height: 150
+Floors: 49
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 61
+
+*** Jinyuan City Five 7#   ***
+Height: 150
+Floors: 49
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 61
+
+*** Jinyuan City Five 8#   ***
+Height: 150
+Floors: 49
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 61
+
+*** Nanning International Tourism Center 3 ***
+Height: 150
+Floors: 46
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 67
+
+*** Long Light Water Yue Longwan 10 ***
+Height: 150
+Floors: 45
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 68
+
+*** Long Light Water Yue Longwan 11 ***
+Height: 150
+Floors: 45
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 68
+
+*** Yuda Group Headquarters Tower 2 ***
+Height: 150
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hotel
+Rank: 70
+
+*** Vanke City South Area S3 ***
+Height: 150
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 71
+
+*** Xianggang Jie #2 ***
+Height: 149.25
+Floors: 46
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 72
+
+*** Xianggang Jie #3 ***
+Height: 149.25
+Floors: 46
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 72
+
+*** Tsingtao Haier Union Square Tower 2 ***
+Height: 146.95
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 74
+
+*** Jinyuan City Five 10#  ***
+Height: 146.8
+Floors: 45
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 75
+
+*** Huarun Jiacheng Five Elephants #12 ***
+Height: 145.8
+Floors: 49
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 76
+
+*** Huarun Jiacheng Five Elephants #17 ***
+Height: 145.8
+Floors: 49
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 76
+
+*** Huarun Jiacheng Five Elephants #20 ***
+Height: 145.8
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 76
+
+*** Huarun Jiacheng Five Elephants #25 ***
+Height: 145.8
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 76
+
+*** Cartier Manor 1 ***
+Height: 145
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 80
+
+*** Cartier Manor 3 ***
+Height: 145
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 80
+
+*** Guangxi New Media Center ***
+Height: 144.7
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 82
+
+*** Li Hai · Asia International Lingfeng Block A ***
+Height: 144
+Floors: 22
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 83
+
+*** Li Hai · Asia International Lingfeng Block B ***
+Height: 144
+Floors: 22
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 83
+
+*** Vanke City South Area #21 ***
+Height: 139.9
+Floors: 49
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 85
+
+*** Rong and Banyan Mountain #11 ***
+Height: 139.9
+Floors: 45
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 86
+
+*** Rong and Banyan Mountain #16 ***
+Height: 139.85
+Floors: 49
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 87
+
+*** Rong and Banyan Mountain #17 ***
+Height: 139.85
+Floors: 49
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 87
+
+*** Rong and Banyan Mountain #18 ***
+Height: 139.85
+Floors: 49
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 87
+
+*** Rong and Banyan Mountain #10 ***
+Height: 139.8
+Floors: 49
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 90
+
+*** Rong and Banyan Mountain #20 ***
+Height: 139.8
+Floors: 49
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 90
+
+*** Rong and Banyan Mountain #21 ***
+Height: 139.8
+Floors: 49
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 90
+
+*** Vanke City South Area #11 ***
+Height: 139.7
+Floors: 49
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 93
+
+*** Vanke City South Area #12 ***
+Height: 139.7
+Floors: 49
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 93
+
+*** Huarun Jiacheng Five Elephants #5 ***
+Height: 139.7
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 95
+
+*** Huarun Jiacheng Five Elephants #6 ***
+Height: 139.7
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 95
+
+*** Vanke City South Area S2 ***
+Height: 139.7
+Floors: 31
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 97
+
+*** Silver Spring Yitian #3 ***
+Height: 139.5
+Floors: 46
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 98
+
+*** Vanke City North Area #1 ***
+Height: 139.35
+Floors: 45
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 99
+
+*** Vanke City North Area #2 ***
+Height: 139.35
+Floors: 45
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 99
+
+*** Vanke City North Area #3 ***
+Height: 139.35
+Floors: 45
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 99
+
+*** Vanke City North Area #4 ***
+Height: 139.35
+Floors: 45
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 99
+
+*** Vanke City North Area #15 ***
+Height: 138.95
+Floors: 48
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 103
+
+*** Vanke City North Area #16 ***
+Height: 138.95
+Floors: 48
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 103
+
+*** Vanke City North Area #8 ***
+Height: 138.95
+Floors: 48
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 103
+
+*** Vanke City North Area #9 ***
+Height: 138.95
+Floors: 48
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 103
+
+*** Rong and Banyan Mountain #6 ***
+Height: 138.55
+Floors: 46
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 107
+
+*** Nanning Rong i Qijiang Yue House #2 ***
+Height: 138.3
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 108
+
+*** Guangxi Electric Power Mansion ***
+Height: 138
+Floors: 32
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 109
+
+*** International Ocean City 3 ***
+Height: 137.6
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 110
+
+*** Huarun Jiacheng Five Elephants #10 ***
+Height: 137.1
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 111
+
+*** Huarun Jiacheng Five Elephants #9 ***
+Height: 137.1
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 111
+
+*** Huarun Jiacheng Five Elephants #11 ***
+Height: 137.1
+Floors: 46
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 113
+
+*** Huarun Jiacheng Five Elephants #15 ***
+Height: 137.1
+Floors: 46
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 113
+
+*** Huarun Jiacheng Five Elephants #19 ***
+Height: 137.1
+Floors: 46
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 113
+
+*** Huarun Jiacheng Five Elephants #22 ***
+Height: 137.1
+Floors: 46
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 113
+
+*** Rong and Banyan Mountain #9 ***
+Height: 137.1
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 117
+
+*** Rong and Banyan Mountain #8 ***
+Height: 135.3
+Floors: 46
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 118
+
+*** International Ocean City 2 ***
+Height: 135
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 119
+
+*** Rong and Banyan Mountain #19 ***
+Height: 134.2
+Floors: 47
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 120
+
+*** Huarun Jiacheng Five Elephants #3 ***
+Height: 134.2
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 121
+
+*** Huarun Jiacheng Five Elephants #7 ***
+Height: 134.2
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 121
+
+*** Vanke City South Area #4 ***
+Height: 133.3
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 123
+
+*** Vanke City South Area #5 ***
+Height: 133.3
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 123
+
+*** Guang Investment Xin Environment A ***
+Height: 132.7
+Floors: 42
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 125
+
+*** Residential at Macau Street ***
+Height: 132
+Floors: 32
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 126
+
+*** Huarun Jiacheng Five Elephants #8 ***
+Height: 131.3
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 127
+
+*** Nanning Rong i Qijiang Yue House #3 ***
+Height: 130
+Floors: 38
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 128
+
+*** Water Resources Department ***
+Height: 128
+Floors: 29
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 129
+
+*** Vanke City North Area #25 ***
+Height: 123.6
+Floors: 39
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 130
+
+*** Vanke City North Area #5 ***
+Height: 122.35
+Floors: 39
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 131
+
+*** Vanke City South Area #20 ***
+Height: 121.5
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 132
+
+*** Tsingtao Haier Union Square Tower 3 ***
+Height: 120.85
+Floors: 27
+Status: Under Construction
+Started: 2013
+Functions: office
+Rank: 133
+
+*** Golden One 2# ***
+Height: 120.35
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 134
+
+*** Golden One 3# ***
+Height: 120.35
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 134
+
+*** Golden One 5# ***
+Height: 120.35
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 134
+
+*** Golden One 6# ***
+Height: 120.2
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 137
+
+*** Golden One 10# ***
+Height: 120.15
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 138
+
+*** Golden One 7# ***
+Height: 120.15
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 138
+
+*** Golden One 8# ***
+Height: 120.15
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 138
+
+*** Golden One 9# ***
+Height: 120.15
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 138
+
+*** Vanke City South Area #13 ***
+Height: 120.1
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 142
+
+*** Vanke City South Area #14 ***
+Height: 120.1
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 142
+
+*** Vanke City South Area #19 ***
+Height: 119.5
+Floors: 42
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 144
+
+*** Vanke City North Area #10 ***
+Height: 119.35
+Floors: 42
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 145
+
+*** Vanke City North Area #11 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #12 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #13 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #14 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #17 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #18 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #19 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #20 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #23 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 146
+
+*** Vanke City North Area #24 ***
+Height: 119.35
+Floors: 41
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 146
+
+*** Silver Spring Yitian #2 ***
+Height: 119.2
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 156
+
+*** Silver Spring Yitian #4 ***
+Height: 119.2
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 156
+
+*** Longguang Royal Lake Sunshine 13 ***
+Height: 118.35
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 158
+
+*** Longguang Royal Lake Sunshine 21 ***
+Height: 118.35
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 158
+
+*** Vanke City South Area #9 ***
+Height: 118.2
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 160
+
+*** Vanke City South Area #10 ***
+Height: 117.9
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 161
+
+*** Guangxi Construction Building #1 ***
+Height: 116.15
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 162
+
+*** Guangxi Construction Building #2 ***
+Height: 116.15
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 162
+
+*** International Ocean City 1 ***
+Height: 114.3
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 164
+
+*** International Ocean City 4 ***
+Height: 112
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 165
+
+*** Greenland Center Tower 2 ***
+Height: 110
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 166
+
+*** Greenland Center Tower 7 ***
+Height: 110
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 166
+
+*** Longguang Royal Lake Sunshine 12 ***
+Height: 109.35
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 168
+
+*** Longguang Royal Lake Sunshine 22 ***
+Height: 109.35
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 168
+
+*** Sheng Tian Dong Jun Tower 24 ***
+Height: 105.8
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 170
+
+*** Sheng Tian Dong Jun Tower 25 ***
+Height: 105.8
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 170
+
+*** Sheng Tian Dong Jun Tower 26 ***
+Height: 105.8
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 170
+
+*** Sheng Tian Dong Jun Tower 22 ***
+Height: 105.1
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 173
+
+*** Sheng Tian Dong Jun Tower 23 ***
+Height: 105.1
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 173
+
+*** Nanning Rong i Qijiang Yue House #1 ***
+Height: 104
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 175
+
+*** Golden One 11# ***
+Height: 100
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 176
+
+*** Golden One 12# ***
+Height: 100
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 176
+
+*** Golden One 13# ***
+Height: 100
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 178
+
+*** Golden One 15# ***
+Height: 100
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 178
+
+*** Nanning International Tourism Center 2 ***
+Height: 100
+Floors: 17
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 180
+
+*** Wanda Vista Nanning ***
+Height: 100
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: hotel
+Rank: 181
+
+*** Sheng Tian Dong Jun Tower 30 ***
+Height: 99.9
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 182
+
+*** Sheng Tian Dong Jun Towers 31-32 ***
+Height: 99.9
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 182
+
+*** Sheng Tian Dong Jun Towers 33-35 ***
+Height: 99.9
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 182
+
+*** Sheng Tian Dong Jun Towers 36-37 ***
+Height: 99.9
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 182
+
+*** Sheng Tian Dong Jun Towers 12-13 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 186
+
+*** Longgang Tang Fruit #2 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 187
+
+*** Longgang Tang Fruit #7 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 187
+
+*** Sheng Tian Dong Jun Tower 21 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 187
+
+*** Sheng Tian Dong Jun Towers 15-16 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 187
+
+*** Sheng Tian Dong Jun Towers 17-18 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 187
+
+*** Sheng Tian Dong Jun Towers 19-20 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 187
+
+*** Sheng Tian Dong Jun Towers 8-9 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 187
+
+*** Sheng Tian Dong Jun Towers 1-2 ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 194
+
+*** Sheng Tian Dong Jun Towers 3-5 ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 194
+
+*** Sheng Tian Dong Jun Towers 6-7 ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 194
+
+*** Huafa Guobin One 11# ***
+Height: 99.8
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 197
+
+*** Huafa Guobin One 13# ***
+Height: 99.8
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 197
+
+*** Huafa Guobin One 16# ***
+Height: 99.8
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 197
+
+*** Huafa Guobin One 18# ***
+Height: 99.8
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 197
+
+*** Huafa Guobin One 19# ***
+Height: 99.8
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 197
+
+*** Huafa Guobin One 7# ***
+Height: 99.8
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 197
+
+*** Huafa Guobin One 8# ***
+Height: 99.8
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 197
+
+*** Vanke City South Area #1 ***
+Height: 99.7
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 204
+
+*** Vanke City South Area #2 ***
+Height: 99.7
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 204
+
+*** Vanke City South Area #3 ***
+Height: 99.7
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 204
+
+*** Vanke City South Area #6 ***
+Height: 99.7
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 204
+
+*** Vanke City South Area #7 ***
+Height: 99.7
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 204
+
+*** Vanke City South Area #8 ***
+Height: 99.7
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 204
+
+*** Vanke City North Area #21 ***
+Height: 99.69
+Floors: 35
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 210
+
+*** Longguang Royal Lake Sunshine 3 ***
+Height: 99.69
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 211
+
+*** Haoyuefu 18# ***
+Height: 99.6
+Floors: 34
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 212
+
+*** Haoyuefu 6# ***
+Height: 99.6
+Floors: 34
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 212
+
+*** Haoyuefu 7# ***
+Height: 99.6
+Floors: 34
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 212
+
+*** Haoyuefu 8# ***
+Height: 99.6
+Floors: 34
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 212
+
+*** Guang Investment Xin Environment ***
+Height: 99.5
+Floors: 25
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 216
+
+*** Huarun Jiacheng Five Elephants #2 ***
+Height: 99.4
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 217
+
+*** Longguang Royal Lake Sunshine 25 ***
+Height: 99.15
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 218
+
+*** Longguang Royal Lake Sunshine 28 ***
+Height: 99.15
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 218
+
+*** Longguang Royal Lake Sunshine 29 ***
+Height: 99.15
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 218
+
+*** Longguang Royal Lake Sunshine 6 ***
+Height: 99.15
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 218
+
+*** Longguang Royal Lake Sunshine 7 ***
+Height: 99.15
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 218
+
+*** Rong and Banyan Mountain #12 ***
+Height: 99
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 223
+
+*** Rong and Banyan Mountain #1B ***
+Height: 99
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 223
+
+*** Rong and Banyan Mountain #5A ***
+Height: 99
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 223
+
+*** Vanke City North Area #22 ***
+Height: 98.99
+Floors: 34
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 226
+
+*** Haoyuefu 11# ***
+Height: 98.9
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 227
+
+*** Haoyuefu 16# ***
+Height: 98.9
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 227
+
+*** Haoyuefu 17# ***
+Height: 98.9
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 227
+
+*** Haoyuefu 3# ***
+Height: 98.9
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 227
+
+*** Haoyuefu 5# ***
+Height: 98.9
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 227
+
+*** Grand Gateway Huijin ***
+Height: 98.87
+Floors: 21
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 232
+
+*** Vanke City North Area #6 ***
+Height: 98.84
+Floors: 35
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 233
+
+*** Longgang Tang Fruit #8 ***
+Height: 98.8
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 234
+
+*** Haoyuefu 10# ***
+Height: 98.55
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 235
+
+*** Haoyuefu 9# ***
+Height: 98.55
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 235
+
+*** Longguang Royal Lake Sunshine 10 ***
+Height: 98.55
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 237
+
+*** Longguang Royal Lake Sunshine 11 ***
+Height: 98.55
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 237
+
+*** Longguang Royal Lake Sunshine 14 ***
+Height: 98.55
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 237
+
+*** Longguang Royal Lake Sunshine 9 ***
+Height: 98.55
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 237
+
+*** Vanke City North Area #7 ***
+Height: 98.44
+Floors: 34
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 241
+
+*** Silver Spring Yitian #1 ***
+Height: 98.2
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 242
+
+*** Longguang Royal Lake Sunshine 2 ***
+Height: 97.59
+Floors: 29
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 243
+
+*** Longgang Tang Fruit #3 ***
+Height: 97.45
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 244
+
+*** Guang Investment Xin Environment B ***
+Height: 97.2
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 245
+
+*** Guang Investment Xin Environment C ***
+Height: 97.2
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 245
+
+*** Silver Spring Yitian #5 ***
+Height: 97.1
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 247
+
+*** Huafa Guobin One 10#  ***
+Height: 96.8
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 248
+
+*** Huafa Guobin One 12# ***
+Height: 96.8
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 248
+
+*** Huafa Guobin One 14#  ***
+Height: 96.8
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 248
+
+*** Huafa Guobin One 15#  ***
+Height: 96.8
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 248
+
+*** Huafa Guobin One 17# ***
+Height: 96.8
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 248
+
+*** Huafa Guobin One 4# ***
+Height: 96.8
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 248
+
+*** Huafa Guobin One 9# ***
+Height: 96.8
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 248
+
+*** Huarun Jiacheng Five Elephants #1 ***
+Height: 96.7
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 255
+
+*** Rong and Banyan Mountain #15 ***
+Height: 95.85
+Floors: 19
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 256
+
+*** Xianggang Jie #1-1 ***
+Height: 95.65
+Floors: 28
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 257
+
+*** Xianggang Jie #1-2 ***
+Height: 95.65
+Floors: 28
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 257
+
+*** Yuda Group Headquarters Serviced Apartments ***
+Height: 94
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: serviced apartments
+Rank: 259
+
+*** Huafa Guobin One 5# ***
+Height: 93.8
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 260
+
+*** Longguang Royal Lake Sunshine 24 ***
+Height: 93.15
+Floors: 28
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 261
+
+*** Longguang Royal Lake Sunshine 26 ***
+Height: 93.15
+Floors: 28
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 261
+
+*** Ming Huang Island International Business Plaza ***
+Height: 92.8
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: hospital
+Rank: 263
+
+*** Longgang Tang Fruit #6 ***
+Height: 92.1
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 264
+
+*** Tsingtao Haier Union Square Tower 4 ***
+Height: 91.25
+Floors: 22
+Status: Under Construction
+Started: 2013
+Functions: hotel
+Rank: 265
+
+*** Longguang Royal Lake Sunshine 20 ***
+Height: 89.95
+Floors: 27
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 266
+
+*** Longguang Royal Lake Sunshine 23 ***
+Height: 89.95
+Floors: 27
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 266
+
+*** Longguang Royal Lake Sunshine 32 ***
+Height: 89.95
+Floors: 27
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 266
+
+*** Longguang Royal Lake Sunshine 33 ***
+Height: 89.95
+Floors: 27
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 266
+
+*** Longgang Tang Fruit #9 ***
+Height: 89.9
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 270
+
+*** Silver Spring Yitian #6 ***
+Height: 89.2
+Floors: 29
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 271
+
+*** Goldfield Blue Bay #21-1,2 ***
+Height: 89.15
+Floors: 31
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 272
+
+*** Huafa Guobin One 1# ***
+Height: 88.2
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 273
+
+*** Huafa Guobin One 2#  ***
+Height: 88.2
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 273
+
+*** Huafa Guobin One 3#  ***
+Height: 88.2
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 273
+
+*** Huafa Guobin One 6# ***
+Height: 88.2
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 273
+
+*** Athens International ***
+Height: 88.2
+Floors: 21
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 277
+
+*** Cloud Star - Qian Long World 1# ***
+Height: 87
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 278
+
+*** Cloud Star - Qian Long World 2# ***
+Height: 87
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 278
+
+*** Huafa Guobin One 20# ***
+Height: 85.2
+Floors: 27
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 280
+
+*** Huafa Guobin One 21# ***
+Height: 85.2
+Floors: 27
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 280
+
+*** Rong and Banyan Mountain #7 ***
+Height: 84
+Floors: 21
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 282
+
+*** Longguang Royal Lake Sunshine 27 ***
+Height: 80.25
+Floors: 25
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 283
+
+*** Longguang Royal Lake Sunshine 30 ***
+Height: 80.25
+Floors: 25
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 283
+
+*** Jinyuan City Five 5# ***
+Height: 80
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 285
+
+*** Longguang Royal Lake Sunshine 5 ***
+Height: 79.95
+Floors: 25
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 286
+
+*** Longguang Royal Lake Sunshine 8 ***
+Height: 79.95
+Floors: 25
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 286
+
+*** Longgang Tang Fruit #5 ***
+Height: 79.2
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 288
+
+*** Longguang Royal Lake Sunshine 1 ***
+Height: 79.09
+Floors: 24
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 289
+
+*** Rong and Banyan Mountain #2B ***
+Height: 78.7
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 290
+
+*** Rong and Banyan Mountain #3B ***
+Height: 78.7
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 290
+
+*** Longgang Tang Fruit #1 ***
+Height: 78
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 292
+
+*** Longguang Royal Lake Sunshine 4 ***
+Height: 77.59
+Floors: 24
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 293
+
+*** Country Garden Tianzhu Bay 14 ***
+Height: 77.3
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 294

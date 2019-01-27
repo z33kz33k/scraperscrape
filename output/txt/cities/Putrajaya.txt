@@ -1,0 +1,21 @@
+*** Putrajaya (4) ***
+1. Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat, 172m
+
+******************** DETAILS ********************
+
+*** Putrajaya ***
+Country: Malaysia
+Region: Asia
+1 tower: Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat ***
+Height: 171.8
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: hotel / office
+Rank: 1

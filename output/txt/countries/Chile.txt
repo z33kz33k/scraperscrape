@@ -1,0 +1,27 @@
+*** Chile (41) ***
+1. Santiago, 40
+2. Concepcion, 1
+
+******************** DETAILS ********************
+
+*** Chile ***
+Region: South America
+2 cities: Santiago, Concepcion
+Tiers: I: 7, II: 11, III: 1, V: 1
+Rating: 41
+
+*** Santiago ***
+Country: Chile
+Region: South America
+19 towers: Torre Costanera, Titanium La Portada, Torre Telefónica Chile, Boulevard Kennedy & Santiago Marriott, El Bosque 500, Isidora 3000, Costanera Hotel, Torre Centenario, Edificio de la Industria, Edificio Millenium, Grand Hyatt Santiago, Torre Santa Maria, Edificio Las Americas, Torre Interamericana, Espacio 3 Edificio Plaza, Torre Alameda, Edificio Palladio, Edificio Nunoa Capital Office Tower, Edificio Nunoa Capital Residential Tower
+Tiers: I: 6, II: 11, III: 1, V: 1
+Rating: 40
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Concepcion ***
+Country: Chile
+Region: South America
+1 tower: Torre del Mall del Centro
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-21 23:13:21

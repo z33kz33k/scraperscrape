@@ -1,0 +1,18 @@
+*** Luxembourg (4) ***
+1. Luxembourg, 4
+
+******************** DETAILS ********************
+
+*** Luxembourg ***
+Region: Europe
+1 city: Luxembourg
+Tiers: II: 2
+Rating: 4
+
+*** Luxembourg ***
+Country: Luxembourg
+Region: Europe
+2 towers: Cour de Justice Tower I, Cour de Justice Tower II
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16

@@ -1,0 +1,21 @@
+*** Asbury Park (1) ***
+1. Asbury Tower, 78m
+
+******************** DETAILS ********************
+
+*** Asbury Park ***
+Country: United States
+Region: North America
+1 tower: Asbury Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Asbury Tower ***
+Height: 78
+Floors: 26
+Status: Completed
+Started: 1973
+Completed: 1974
+Functions: residential
+Rank: 1

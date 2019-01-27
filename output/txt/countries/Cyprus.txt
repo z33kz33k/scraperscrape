@@ -1,0 +1,18 @@
+*** Cyprus (1) ***
+1. Nicosia, 1
+
+******************** DETAILS ********************
+
+*** Cyprus ***
+Region: Europe
+1 city: Nicosia
+Tiers: I: 1
+Rating: 1
+
+*** Nicosia ***
+Country: Cyprus
+Region: Europe
+1 tower: Wargaming Headquarters
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

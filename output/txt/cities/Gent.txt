@@ -1,0 +1,21 @@
+*** Gent (2) ***
+1. MG Tower, 118m
+
+******************** DETAILS ********************
+
+*** Gent ***
+Country: Belgium
+Region: Europe
+1 tower: MG Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** MG Tower ***
+Height: 118.43
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 1

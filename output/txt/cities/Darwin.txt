@@ -1,0 +1,51 @@
+*** Darwin (4) ***
+1. Evolution on Gardiner, 99m
+2. Mantra Pandanas, 91m
+3. SOHO Tower, 90m
+4. The Charles Darwin Centre, 80m
+
+******************** DETAILS ********************
+
+*** Darwin ***
+Country: Australia
+Region: Oceania
+4 towers: Evolution on Gardiner, Mantra Pandanas, SOHO Tower, The Charles Darwin Centre
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Evolution on Gardiner ***
+Height: 99
+Floors: 33
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Mantra Pandanas ***
+Height: 91
+Floors: 29
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: hotel
+Rank: 2
+
+*** SOHO Tower ***
+Height: 90
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel / residential
+Rank: 3
+
+*** The Charles Darwin Centre ***
+Height: 80.16
+Floors: 20
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 4

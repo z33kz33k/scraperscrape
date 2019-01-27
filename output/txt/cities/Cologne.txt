@@ -1,0 +1,183 @@
+*** Cologne (25) ***
+1.  Koln Turm, 148m
+2.  Colonia-Haus, 147m
+3.  Buroturm Deutsche Welle, 138m
+4.  Uni-Center, 134m
+5.  TUV-Rheinland, 112m
+6.  Ringturm, 109m
+7.  Land- und Amtsgericht, 105m
+8.  KölnTriangle, 103m
+9.  Herkules-Hochhaus, 102m
+10. DeutschlandRadio, 102m
+11. MaxCologne, 95m
+12. Uni-Klinikum, 89m
+13. Studioturm Deutsche Welle, 86m
+14. Wohnheim der FH 1, 85m
+15. DKV-Versicherung, 84m
+16. Mevissenstraße 16, 82m
+17. Wohnheim der Sporthochschule, 77m
+18. Bonner Straße 211, 76m
+19. Deutsche Telekom AG, 75m
+
+******************** DETAILS ********************
+
+*** Cologne ***
+Country: Germany
+Region: Europe
+19 towers: Koln Turm, Colonia-Haus, Buroturm Deutsche Welle, Uni-Center, TUV-Rheinland, Ringturm, Land- und Amtsgericht, KölnTriangle, Herkules-Hochhaus, DeutschlandRadio, MaxCologne, Uni-Klinikum, Studioturm Deutsche Welle, Wohnheim der FH 1, DKV-Versicherung, Mevissenstraße 16, Wohnheim der Sporthochschule, Bonner Straße 211, Deutsche Telekom AG
+Tiers: I: 13, II: 6
+Rating: 25
+Scraped on: 2019-Jan-21 23:13:15
+
+*** Koln Turm ***
+Height: 148.1
+Floors: 43
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: office
+Rank: 1
+
+*** Colonia-Haus ***
+Height: 147
+Floors: 42
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 2
+
+*** Buroturm Deutsche Welle ***
+Height: 138
+Floors: 34
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 3
+
+*** Uni-Center ***
+Height: 134
+Floors: 45
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 4
+
+*** TUV-Rheinland ***
+Height: 112
+Floors: 22
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 5
+
+*** Ringturm ***
+Height: 109.1
+Floors: 26
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 6
+
+*** Land- und Amtsgericht ***
+Height: 105
+Floors: 25
+Status: Completed
+Completed: 1983
+Functions: government
+Rank: 7
+
+*** KölnTriangle ***
+Height: 103.2
+Floors: 29
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: office
+Rank: 8
+
+*** Herkules-Hochhaus ***
+Height: 102
+Floors: 31
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 9
+
+*** DeutschlandRadio ***
+Height: 102
+Floors: 19
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 10
+
+*** MaxCologne ***
+Height: 95
+Floors: 22
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: office
+Rank: 11
+
+*** Uni-Klinikum ***
+Height: 89
+Floors: 23
+Status: Completed
+Completed: 1971
+Functions: hospital
+Rank: 12
+
+*** Studioturm Deutsche Welle ***
+Height: 86
+Floors: 24
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 13
+
+*** Wohnheim der FH 1 ***
+Height: 85.3
+Floors: 21
+Status: Completed
+Functions: residential
+Rank: 14
+
+*** DKV-Versicherung ***
+Height: 84
+Floors: 19
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 15
+
+*** Mevissenstraße 16 ***
+Height: 82
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 16
+
+*** Wohnheim der Sporthochschule ***
+Height: 77
+Floors: 27
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 17
+
+*** Bonner Straße 211 ***
+Height: 76
+Floors: 26
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 18
+
+*** Deutsche Telekom AG ***
+Height: 75
+Floors: 19
+Status: Completed
+Functions: office
+Rank: 19

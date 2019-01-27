@@ -1,0 +1,48 @@
+*** Hamilton (5) ***
+1. Landmark Place, 127m
+2. 20/22 George Street, 104m
+3. Stelco Tower, 103m
+4. The Olympia Apartments, 98m
+
+******************** DETAILS ********************
+
+*** Hamilton ***
+Country: Canada
+Region: North America
+4 towers: Landmark Place, 20/22 George Street, Stelco Tower, The Olympia Apartments
+Tiers: I: 3, II: 1
+Rating: 5 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Landmark Place ***
+Height: 127
+Floors: 43
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 1
+
+*** 20/22 George Street ***
+Height: 103.66
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 2
+
+*** Stelco Tower ***
+Height: 103
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 3
+
+*** The Olympia Apartments ***
+Height: 98
+Floors: 33
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 4

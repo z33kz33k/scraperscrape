@@ -1,0 +1,342 @@
+*** Brazil (1006) ***
+1.  São Paulo, 259
+2.  Fortaleza, 146
+3.  Balneario Camboriu, 134
+4.  Recife, 113
+5.  Goiania, 75
+6.  Rio de Janeiro, 64
+7.  Joao Pessoa, 34
+8.  Curitiba, 28
+9.  Salvador, 20
+10. Chapeco, 18
+11. Belo Horizonte, 13
+12. Belem, 11
+13. Uberlândia, 9
+14. Nova Lima, 8
+15. Barueri, 8
+16. Natal, 8
+17. Praia Grande, 8
+18. Blumeanu, 6
+19. Londrina, 6
+20. Porto Alegre, 4
+21. Santos, 4
+22. Jaboatao dos Guararapes , 3
+23. Campinas, 3
+24. Brasilia, 3
+25. Bauru, 2
+26. Caxias do Sul, 2
+27. Uberaba, 2
+28. Juazeiro do Norte, 2
+29. Sao Bernardo do Campo, 2
+30. Santo André, 2
+31. Maringa, 2
+32. Juiz de Fora, 2
+33. Porto Velho, 1
+34. Cuiaba, 1
+35. Manaus, 1
+36. Novo Hamburgo, 1
+37. Aracaju, 1
+
+******************** DETAILS ********************
+
+*** Brazil ***
+Region: South America
+37 cities: São Paulo, Fortaleza, Balneario Camboriu, Recife, Goiania, Rio de Janeiro, Joao Pessoa, Curitiba, Salvador, Chapeco, Belo Horizonte, Belem, Uberlândia, Nova Lima, Barueri, Natal, Praia Grande, Blumeanu, Londrina, Porto Alegre, Santos, Jaboatao dos Guararapes , Campinas, Brasilia, Bauru, Caxias do Sul, Uberaba, Juazeiro do Norte, Sao Bernardo do Campo, Santo André, Maringa, Juiz de Fora, Porto Velho, Cuiaba, Manaus, Novo Hamburgo, Aracaju
+Tiers: I: 288, II: 249, III: 49, IV: 4
+Rating: 1006 (13.7% uncompleted)
+
+*** São Paulo ***
+Country: Brazil
+Region: South America
+145 towers: Platina 220, Pal&aacute;cio W. Zarzur, Residencial Figueira, Edificio Italia, Altino Arantes, Torre Norte, Begonias, Ipes, Jabuticabeiras, Limantos, Magnolias, Reseda, Zineas, EZ Towers A, EZ Towers B, E-Tower, Birmann 21, BankBoston, Josephine Baker, Banco do Brazil, Canario, Inhambu, Eldorado Business Tower, Itaú Fidelité Marginal Pinheiros, Eco Berrini, WTorre Morumbi, Berrini One, Plaza Centenario, Camargo Corporate North Tower, Camargo Corporate South Tower, Emiliano Analia Franco, Katherine, Mandarim, Torre Sao Paulo, Torre Alpha, Torre Sigma, Banco Real Santander Headquarters, Rochaverá Corporate Tower C, Hospital Sírio-Libanês, 106 Serido Torre 1, 106 Serido Torre 2, Barao de Iguape, Helen, Ciragan, Ipiranga 165, Heritage Cyrela, Saint Claire, Grande Sao Paulo, Mercantil Finasa, Florida Penthouses A, Camille Claudel, Morumbi Corporate Golden Tower, B32, Instituto do Câncer de São Paulo Octavio Frias de Oliveira, Torre Matarazzo, Tower Bridge Corporate, Cipriani Hotel & Residences, WTorre JK Torre 2, Paineiras, Plátano, Montalcini Residencial, Capital Building, Continental Tower, Horizonte, Mirante, Panorama, Urbanity Corporativo, Urbanity Residencial, Florida Penthouses B, Amedeo Modigliani, Bauhaus Residencial 1, Bauhaus Residencial 2, Infinity Tower, Villa Europa, Particolare Torre A, Particolare Torre B, Edificio Copan, Casa Grande Bloco C, Tower Edson, Edifício CBI Esplanada, Edifício Odebrecht São Paulo, The View, Park Tower, Altto Campo Belo, Predio Martinelli, Praca da Bandeira, Code Campo Belo, Jacarandá	, e.Office Design Berrini, FIESP Building, Edifício Othon, Villa Lobos, Edifício Dacon, Concept Anália Franco, Boreal Santana, Studio Composite Des Arts, Morumbi Corporate Diamond Tower, The Summit, Terraços Itapeti, Geometria Itaim, Françoise Sagan, Casa Grande Bloco B, Páteo Leopoldo, Cartier Bresson, Montessori Residencial, La Griffe Résidence, Chateau Latour, Edifício Brasil, Torre Marfim, Torre Pérola, Unitt Urban Living, 701 Arizona, Acervo Pinheiros, Rosewood Tower, Maria Callas 1, Maria Callas 2, Galeria Metrópole, Anna Pavlova, Terraço Leopoldo, Casa Grande Bloco A, Chateau Margaux, Jardin de Mermier, Gran Paradiso Iberapuera, Prodigy Grand Hotel & Suites Berrini, Forma Itaim, Benedito Lapin, Península, Appia, Casa Grande Bloco D, SAX Itaim, Grand Life Ipiranga Torre 1, Grand Life Ipiranga Torre 2, Palais Du Parc, V House, Rochaverá Corporate Tower A, Rochaverá Corporate Tower B, Dupret, Limited Itaim, Attic, Maison Montparnasse, Vivace, L Itaim, Hospital Samaritano, Vitra, Élevé Vila Romana
+Tiers: I: 61, II: 69, III: 15
+Rating: 259 (5.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Fortaleza ***
+Country: Brazil
+Region: South America
+145 towers: Palatium Residencial Meireles, Torre Santos Dumont, Torre Office, Torre Sa�de, Edifício Cidade, Tom Jobim, Vinicius de Moraes, Beira Mar Trade Center, Sky Tower, Edifício Murano, Amazonas Residencial, Edifício Maurice Ravel, Sanford Condominium, Mansão Macêdo, Diego de Lepe, Vicente Pinzón, Edifício Casa Rosa, Paço das Águas, Beira Mar 2020, Atrium, Vila Ideal, Parati, The Palace Condominium, Iracema Residence Service, Vitral dos Mares, Portal das Marés, Coast/Sea Tower, Edifício Piemont, Central Park Business, Ocean Tower, Bougainville Du Parc, Flamboyant Du Parc, Lis Du Parc, Tulipe Du Parc, Edifício Patrícia, Edifício Stella, Le Parc Residence, Zaragozza, Centro Empresarial Clóvis Rolim, Paço Verde - Torre das Árvores, Paço Verde - Torre das Flores, Humberto Santana Business, Ocean Drive, Libanus Condominium, Manhattan Center, Costa do Mar Hotel, Blue Ocean Flat, Fioreto Home Club, Terraço do Atlântico, Paul Gauguin, Ocean Palace, Burle Marx, Forest Park, San Gennaro, Ocean View Residence, The Place Condominium, Edifício Vivence, Saquarema, Jardim Europa Condominium, Residencial Carlos Vasconcelos, Casablanca Condominium, Highland, Montebello, Terranova, Via Veneto Condominium, Vivenda Meireles, Santiago de Compostela, Jardins de Atlântida Torre 1, Jardins de Atlântida Torre 2, Portal da Volta, Fernando Silveira, Plaza de Aníbal, Plaza de Aníbal Torre 2, Delos, Palazzo Residence, Palazzo Positano, Terrasse, Amazônia, Praia Mansa, Vila Verde, Arvoredo Condomínio Clube 1, Arvoredo Condomínio Clube 2, Maximum Residence, Cristal X, Enseada do Mucuripe Torre 1, Enseada do Mucuripe Torre 2, Mar & Mar, Fontana de Trevi, Renaissance Condominium - Da Vinci, Renaissance Condominium - Michelangelo, Lumni, Solar Volta da Jurema, Torre Acqua, Torre Aria, Victor IX, Villa Sonata, Ícone, Centurion Business Center, LC Corporate Green Tower, Athenas Condominium 1, Athenas Condominium 2, Maison Karine, Vila Montalcino, Vila Formosa, Etevaldo Nogueira Business, Palladium, San Carlo, Office Plaza Business Center, José Cabral Residence, Loft Praia, Edifício Degas, Enseada de Iracema, Varandas do Irapuan, The Loft, Vintage Meireles, Bernine & Rodin, Edifício Victória Park, Torre Netuno, Torre Zeus, Port Ideal, San Pietro, Villa Firenze, Studio 1, San Sebastian, Catamarã, Atlantis Beira Mar, Seara Praia Hotel, Parque Stella Maris, Reserva Stella Maris, Villa Damasco, Portal da Natureza, Quality Hotel Fortaleza, Costa Mare, Vila Monte Carlo, Beach Class Fortaleza - Torre 1, Beach Class Fortaleza - Torre 2, Beach Class Fortaleza - Torre 3, Monticelli Residenziale, Vintage Aldeota, Maison Isabel, Marées, Office 13 de Maio, Portal do Canadá I, Portal do Canadá II, Place des Cysne
+Tiers: I: 144, II: 1
+Rating: 146 (1.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Balneario Camboriu ***
+Country: Brazil
+Region: South America
+41 towers: Yachthouse Residence Club by Pininfarina Tower 1, Yachthouse Residence Club by Pininfarina Tower 2, One Tower, Infinity Coast Tower, Epic Tower, Vitra Residence, Millennium Palace, Splendido, Splendia Tower, Alameda Jardins Residence, New York Apartments, Falcon Tower, Império das Ondas, Edifício Pharos, Vision Tower, Villa Serena Home Club Torre A, Villa Serena Home Club Torre B, Olympo Tower, Magnifique Tower, Ocean Palace, Serendipity Village, Eleganza Tower, Ibiza Towers - Torre Central, Praia do Sol, Sky Tower, Argos Residence, Ibiza Towers - Torre Norte, Ibiza Towers - Torre Sul, Marina Beach Towers - Torre Atlantic, Marina Beach Towers - Torre Pacific, Apogee, Metropolis, Alexandria, Condominio Barra Tower, Sea`s Palace Residence, Renaissance Torre A, Renaissance Torre B, Residencial Renaissance Torre A, Residencial Renaissance Torre B, Majestic, Santos Dumont
+Tiers: I: 2, II: 16, III: 19, IV: 4
+Rating: 134 (53.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Recife ***
+Country: Brazil
+Region: South America
+69 towers: Jardins da Aurora - Torre Beberibe, Jardins da Aurora - Torre Capibaribe, Empresarial Charles Darwin, Freguesia de Casa Forte, Pier Duarte Coelho, Pier Mauricio de Nassau, Terras Brasilis, Maria Angela Lucena, Living Tower Andrade Bezerra, Brennand Plaza, Aderbal Jurema, Antonio Espindola, Arcos da Aurora Prince, Beach Class International, Mendo Sampaio, Edifico Maria Edicta, Edificio Alameda Casa Forte, Estacio do Mar, Jardim das Tulipas, Grand Tower Shopping, Beach Class Residence, Casa Rosada, Jardins do Rosarinho, Beach Class Hotel & Residence, Edifício Teresa Novaes, Jardim das Acácias, Beach Class Executive, Governador Cid Sampaio, Maria da Graça, Maria Júlia, Saint Albert, Saint Andre, Maria Diva, Empresarial RioMar Trade Center 1, Empresarial RioMar Trade Center 2, Empresarial RioMar Trade Center 3, Luís Dias Lins, Alameda 17, Grand Tower Boa Vista, Don Miguel Inácio, Saint Elisée, Sítio Rosarinho, Estacao da Jaqueira, Porto Seguro, Ubaias Prince, Ubaias Prince, Castelinho, Castelo del Mar, Costa Azevedo, Maria Flávia, Felicitá Prince, Valdemar de Oliveira, Torre Prince, Promenade Prince, Madison Avenida, Alfred Nobel, Isaac Newton, Maria de Lourdes, Ramada Hotels and Suítes, Lincoln Avenida, Rio Sena, Reginaldo Araújo, Mar Azul, International Trade Center, Maria Alice, Maria Beatriz, Maria Genita, Pernambuco Corporate, Boulevard Prince
+Tiers: I: 25, II: 44
+Rating: 113 (10.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Goiania ***
+Country: Brazil
+Region: South America
+42 towers: Órion Business & Health Complex, Nexus Corporate, Kingdom Park Residence, Premier Vision, Premier Unique, Evidence Office, Premier Lac de Rose, Premier Blanc, Magnific, Essenciale Premier, Jazz Life Style, Winner Sports Life Residence - Torre A, Winner Sports Life Residence - Torre B, Twenty Three Park, Brookfield Tower - Torre A, Park House Flamboyant - Torre Amarela, Park House Flamboyant - Torre Vermelha, Brookfield Tower - Torre B, L'Essence Du Lac, Eminent Setor Bueno, L´Essence Du Parc, Beautiful Park Residence, La Musique - Torre Harmonie, La Musique - Torre Melodie, L'Essence Suíça, L´Essence Platine, L`Essence Flamboyant, Visage Universitário, Premier du Parc, Chateau Bougainville, Boulevard de Roses, L'Essence Bueno, Evidence Ville, Palazzo Avezzano, Oeste Tower Residence, Chamonix Residence, Brezze Lifestyle, Residencial Altana, Chateau du Parc, The Prime Tamandaré Office, Twenty Five Park, Tendence Home Resort
+Tiers: I: 15, II: 24, III: 3
+Rating: 75 (10.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Rio de Janeiro ***
+Country: Brazil
+Region: South America
+30 towers: Rio Sul Center, Centro Candido Mendes, Ventura Corporate Towers, Lelio Gama 105, Edificio Conde Pereira Carneiro, Edificio Santos DuMont, Edificio Lineu de Paula Machado, Edificio Avenida Central, Sede do Banerj, Sede BNH, Seculo Frontin, Frederico Bokel, Banco Centro do Brasil, Morada do Sol VI, Morada do Sol VII, Torre Charles de Gaulle, Torre Ernest Hemingway, Estrada de Ferro Central do Brasil, Treze de Maio 33, Torre Almirante, Morada do Sol II, Morada do Sol V, Morada do Sol III, Manhattan Tower, Hotel Nacional, Morada do Sol IV, Morada do Sol I, Porto Vida Torre 1, AQWA Corporate, RB12
+Tiers: I: 2, II: 25, III: 3
+Rating: 64 (3.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Joao Pessoa ***
+Country: Brazil
+Region: South America
+16 towers: Tour Geneve, Residencial Alfredo Volpi, Mansões Wellington Barreto, Rio Mamore, Residencial Tarsila Do Amaral - Torre A, Residencial Tarsila Do Amaral - Torre B, Altiplex José Olímpio, Tours Mont Blanc Torre A, Tours Mont Blanc Torre B, Mansões Heron Marinho, Porto Real Residence, Ultramare Class Club Residence Torre A, Ultramare Class Club Residence Torre B, Eco Business Center, Duo Corporate Towers - Torre A, Duo Corporate Towers - Torre B
+Tiers: I: 2, II: 12, III: 2
+Rating: 34 (5.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Curitiba ***
+Country: Brazil
+Region: South America
+13 towers: Universe Life Square, Edificio Bergamo, Evolution Corporate, Edificio Champagnat I, Rio Loire, Seventh Avenue, Real Plaza Flat, Centro Comercial Itália, Curitiba Trade Center, Sky, Rio Jardine, Hospital das Clinicas, MAI Home
+Tiers: I: 2, II: 9, III: 2
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Salvador ***
+Country: Brazil
+Region: South America
+9 towers: Mansao Margarida Costa Pinto, Mundo Plaza Empresarial, Vitraux, Horto Santa Luzia, Mundo Plaza Residencial, Terrazzo Imperiale, Boulevard Side Empresarial, Boulevard Side Residencial, Mansão Caymmi
+Tiers: II: 8, III: 1
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chapeco ***
+Country: Brazil
+Region: South America
+12 towers: The One Residence, Avant Garde, Condá Tower, Felicitá, Onno Studio Home, Mozart Residence, Evidence Residential, Edifício Nereu Ramos, Bocaiúva 139, Centenaro Residence, Gran Palazzo, Montreal Palace
+Tiers: I: 6, II: 6
+Rating: 18 (77.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Belo Horizonte ***
+Country: Brazil
+Region: South America
+8 towers: Edifício Aureliano Chaves, Conjunto JK Torre A, Edificio Acaiaca, Conjunto Frederico Correa Garage, Savassi Tower, Othon Palace Hotel, Lolita Guimarães, High Houses
+Tiers: I: 3, II: 5
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Belem ***
+Country: Brazil
+Region: South America
+8 towers: Village Moon, Village Sun, Pegasus, Sintese Plaza, Samurai, Flex Lilás, Sintese 21, Avalon
+Tiers: I: 5, II: 3
+Rating: 11
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Uberlândia ***
+Country: Brazil
+Region: South America
+5 towers: Torre Liber, Torre Aventino, Torre Concord, Uberl&acirc;ndia Business Tower, Edif&iacute;cio Rocha e Silva
+Tiers: I: 1, II: 4
+Rating: 9 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Nova Lima ***
+Country: Brazil
+Region: South America
+4 towers: Concordia Corporate, Saint Paul de Vence, Icon Vila da Serra 1, Icon Vila da Serra 2
+Tiers: I: 2, II: 1, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Barueri ***
+Country: Brazil
+Region: South America
+3 towers: Air Offices, West Side, I-Tower
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Natal ***
+Country: Brazil
+Region: South America
+4 towers: Mirante João Olímpio Filho, Estrela do Atlantico Bloco A, Estrela do Atlantico Bloco B, Issa Hazbun Residencial
+Tiers: II: 4
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Praia Grande ***
+Country: Brazil
+Region: South America
+2 towers: Jardim do Mar 1, Jardim do Mar 2
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Blumeanu ***
+Country: Brazil
+Region: South America
+4 towers: Residencial Dr. Hermann Blumenau, Grand Trianon, Ibiza Trade & Financial Center, Meridian Residencial
+Tiers: I: 2, II: 2
+Rating: 6 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Londrina ***
+Country: Brazil
+Region: South America
+3 towers: Maison Heritage, Maison Infinity, Torre Alicante
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Porto Alegre ***
+Country: Brazil
+Region: South America
+2 towers: Centro Administrativo Do Estado, Edifício Santa Cruz
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Santos ***
+Country: Brazil
+Region: South America
+3 towers: Unlimited Ocean Front, The Garden Torre 1, The Garden Torre 2
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jaboatao dos Guararapes  ***
+Country: Brazil
+Region: South America
+2 towers: Innside Barra, TRYP Pernambuco
+Tiers: I: 1, II: 1
+Rating: 3 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Campinas ***
+Country: Brazil
+Region: South America
+2 towers: Centro Empresarial Conceicao, Mirante
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Brasilia ***
+Country: Brazil
+Region: South America
+3 towers: Banco Central do Brasil, Palacio do Congresso Nacional Anexo I, Palacio do Congresso Nacional Anexo II
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bauru ***
+Country: Brazil
+Region: South America
+1 tower: Burj Bauru
+Tiers: II: 1
+Rating: 2 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Caxias do Sul ***
+Country: Brazil
+Region: South America
+1 tower: Edifício Parque do Sol
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Uberaba ***
+Country: Brazil
+Region: South America
+1 tower: Manhattan Flat
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Juazeiro do Norte ***
+Country: Brazil
+Region: South America
+2 towers: Spazio Bezerra de Menezes Torre 1, Spazio Bezerra de Menezes Torre 2
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sao Bernardo do Campo ***
+Country: Brazil
+Region: South America
+1 tower: Domo Business - Torre Comercial
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Santo André ***
+Country: Brazil
+Region: South America
+2 towers: Century Plaza Business, Jardim Park Business
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Maringa ***
+Country: Brazil
+Region: South America
+1 tower: Royal Garden
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Juiz de Fora ***
+Country: Brazil
+Region: South America
+1 tower: Saint Pietro Residence
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Porto Velho ***
+Country: Brazil
+Region: South America
+1 tower: Maison Chamounix
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Cuiaba ***
+Country: Brazil
+Region: South America
+1 tower: Fontana di Trevi
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Manaus ***
+Country: Brazil
+Region: South America
+1 tower: Soberane
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Novo Hamburgo ***
+Country: Brazil
+Region: South America
+1 tower: Esplêndido Residencias 
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Aracaju ***
+Country: Brazil
+Region: South America
+1 tower: Estado de Sergipe
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

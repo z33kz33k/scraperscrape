@@ -1,0 +1,41 @@
+*** Wuhu (14) ***
+1. Riverside Century Plaza Main Tower, 275m
+2. Riverside Century Plaza Apartment Tower 1, 168m
+3. Riverside Century Plaza Apartment Tower 2, 168m
+
+******************** DETAILS ********************
+
+*** Wuhu ***
+Country: China
+Region: Asia
+3 towers: Riverside Century Plaza Main Tower, Riverside Century Plaza Apartment Tower 1, Riverside Century Plaza Apartment Tower 2
+Tiers: III: 2, IV: 1
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Riverside Century Plaza Main Tower ***
+Height: 275
+Floors: 66
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: hotel / office
+Rank: 1
+
+*** Riverside Century Plaza Apartment Tower 1 ***
+Height: 168
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 2
+
+*** Riverside Century Plaza Apartment Tower 2 ***
+Height: 168
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 2

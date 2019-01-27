@@ -1,0 +1,21 @@
+*** Sevilla (4) ***
+1. Torre Sevilla, 180m
+
+******************** DETAILS ********************
+
+*** Sevilla ***
+Country: Spain
+Region: Europe
+1 tower: Torre Sevilla
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre Sevilla ***
+Height: 180.5
+Floors: 40
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: hotel / office
+Rank: 1

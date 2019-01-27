@@ -1,0 +1,29 @@
+*** Abidjan (3) ***
+1. La Cité Administrative Tour D, 120m
+2. Tour Postel 2001, 106m
+
+******************** DETAILS ********************
+
+*** Abidjan ***
+Country: Ivory Coast
+Region: Africa
+2 towers: La Cité Administrative Tour D, Tour Postel 2001
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** La Cité Administrative Tour D ***
+Height: 120
+Floors: 30
+Status: Completed
+Completed: 1984
+Functions: government
+Rank: 1
+
+*** Tour Postel 2001 ***
+Height: 105.7
+Floors: 26
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 2

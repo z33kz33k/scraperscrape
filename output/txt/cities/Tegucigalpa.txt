@@ -1,0 +1,31 @@
+*** Tegucigalpa (2) ***
+1. Sky Residence Club, 97m
+2. Metropolis Tower 1, 89m
+
+******************** DETAILS ********************
+
+*** Tegucigalpa ***
+Country: Honduras
+Region: Central America
+2 towers: Sky Residence Club, Metropolis Tower 1
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sky Residence Club ***
+Height: 97
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Metropolis Tower 1 ***
+Height: 89.3
+Floors: 23
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 2

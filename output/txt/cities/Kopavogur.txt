@@ -1,0 +1,21 @@
+*** Kopavogur (1) ***
+1. Sm&aacute;ratorg Office Tower, 78m
+
+******************** DETAILS ********************
+
+*** Kopavogur ***
+Country: Iceland
+Region: Europe
+1 tower: Sm&aacute;ratorg Office Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sm&aacute;ratorg Office Tower ***
+Height: 77.6
+Floors: 20
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: office
+Rank: 1

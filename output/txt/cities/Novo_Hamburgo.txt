@@ -1,0 +1,21 @@
+*** Novo Hamburgo (1) ***
+1. Esplêndido Residencias , 104m
+
+******************** DETAILS ********************
+
+*** Novo Hamburgo ***
+Country: Brazil
+Region: South America
+1 tower: Esplêndido Residencias 
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Esplêndido Residencias  ***
+Height: 104.5
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 1

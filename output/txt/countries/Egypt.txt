@@ -1,0 +1,27 @@
+*** Egypt (54) ***
+1. Cairo, 52
+2. Alexandria, 2
+
+******************** DETAILS ********************
+
+*** Egypt ***
+Region: Africa
+2 cities: Cairo, Alexandria
+Tiers: II: 27
+Rating: 54 (7.4% uncompleted)
+
+*** Cairo ***
+Country: Egypt
+Region: Africa
+26 towers: Ministry of Foreign Affairs, El Gezira Tower Movenpick Hotel, Grand Hyatt Cairo, Nile City North Tower, Nile City South Tower, El Maadi Residential Tower XIII, El Maadi Residential Tower XIV, El Maadi Residential Tower XV, El Maadi Residential Tower XVI, El Maadi Residential Tower XVII, El Maadi Residential Tower XVIII, The Nile Corniche Tower 2, The Nile Corniche Tower 1, Cairo Plaza Building, National Bank of Egypt Tower, El Maadi Residential Tower IX, El Maadi Residential Tower V, El Maadi Residential Tower VI, El Maadi Residential Tower VII, El Maadi Residential Tower VIII, El Maadi Residential Tower X, El Maadi Residential Tower XI, El Maadi Residential Tower XII, Residences Roda Island, Ramses Hilton & World Trade Center, Sofitel Cairo Nile El Gezirah
+Tiers: II: 26
+Rating: 52 (7.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Alexandria ***
+Country: Egypt
+Region: Africa
+1 tower: San Stefano Grand Plaza
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

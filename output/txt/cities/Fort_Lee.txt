@@ -1,0 +1,78 @@
+*** Fort Lee (14) ***
+1. The Modern Tower A, 152m
+2. The Modern Tower B, 152m
+3. The Palisades, 132m
+4. Horizon House - North Tower, 85m
+5. Horizon House - South Tower, 85m
+6. The Royal Buckingham, 80m
+7. The Regency, 76m
+
+******************** DETAILS ********************
+
+*** Fort Lee ***
+Country: United States
+Region: North America
+7 towers: The Modern Tower A, The Modern Tower B, The Palisades, Horizon House - North Tower, Horizon House - South Tower, The Royal Buckingham, The Regency
+Tiers: I: 4, II: 1, III: 2
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Modern Tower A ***
+Height: 151.8
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** The Modern Tower B ***
+Height: 151.8
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 1
+
+*** The Palisades ***
+Height: 132.3
+Floors: 41
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 3
+
+*** Horizon House - North Tower ***
+Height: 85.34
+Floors: 28
+Status: Completed
+Started: 1965
+Completed: 1966
+Functions: residential
+Rank: 4
+
+*** Horizon House - South Tower ***
+Height: 85.34
+Floors: 28
+Status: Completed
+Started: 1967
+Completed: 1968
+Functions: residential
+Rank: 4
+
+*** The Royal Buckingham ***
+Height: 80.47
+Floors: 24
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 6
+
+*** The Regency ***
+Height: 75.59
+Floors: 21
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 7

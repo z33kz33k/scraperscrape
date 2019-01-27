@@ -1,0 +1,40 @@
+*** Tilburg (4) ***
+1. Westpoint, 142m
+2. De Stadsheer, 101m
+3. Interpolis, 92m
+
+******************** DETAILS ********************
+
+*** Tilburg ***
+Country: Netherlands
+Region: Europe
+3 towers: Westpoint, De Stadsheer, Interpolis
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Westpoint ***
+Height: 141.6
+Floors: 48
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 1
+
+*** De Stadsheer ***
+Height: 101
+Floors: 31
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 2
+
+*** Interpolis ***
+Height: 92
+Floors: 23
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: office
+Rank: 3

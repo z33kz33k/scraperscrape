@@ -1,0 +1,21 @@
+*** Sulaymaniyah (4) ***
+1. Grand Millennium Hotel, 150m
+
+******************** DETAILS ********************
+
+*** Sulaymaniyah ***
+Country: Iraq
+Region: Middle East
+1 tower: Grand Millennium Hotel
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Grand Millennium Hotel ***
+Height: 150
+Floors: 38
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: hotel
+Rank: 1

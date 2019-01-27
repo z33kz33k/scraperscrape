@@ -1,0 +1,18 @@
+*** Zambia (1) ***
+1. Lusaka, 1
+
+******************** DETAILS ********************
+
+*** Zambia ***
+Region: Africa
+1 city: Lusaka
+Tiers: I: 1
+Rating: 1
+
+*** Lusaka ***
+Country: Zambia
+Region: Africa
+1 tower: Findeco House
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

@@ -1,0 +1,21 @@
+*** Livorno (1) ***
+1. Piazza Matteotti, 85m
+
+******************** DETAILS ********************
+
+*** Livorno ***
+Country: Italy
+Region: Europe
+1 tower: Piazza Matteotti
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Piazza Matteotti ***
+Height: 85
+Floors: 28
+Status: Completed
+Started: 1961
+Completed: 1966
+Functions: residential / office
+Rank: 1

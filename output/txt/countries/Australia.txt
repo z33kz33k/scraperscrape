@@ -1,0 +1,117 @@
+*** Australia (1567) ***
+1.  Melbourne, 548
+2.  Sydney, 505
+3.  Brisbane, 201
+4.  Gold Coast, 171
+5.  Perth, 85
+6.  Parramatta, 30
+7.  Adelaide, 14
+8.  Canberra, 6
+9.  Darwin, 4
+10. Townsville, 1
+11. Tweed Heads South, 1
+12. Blacktown, 1
+
+******************** DETAILS ********************
+
+*** Australia ***
+Region: Oceania
+12 cities: Melbourne, Sydney, Brisbane, Gold Coast, Perth, Parramatta, Adelaide, Canberra, Darwin, Townsville, Tweed Heads South, Blacktown
+Tiers: I: 407, II: 254, III: 93, IV: 44, V: 2
+Rating: 1567 (18.3% uncompleted)
+
+*** Melbourne ***
+Country: Australia
+Region: Oceania
+237 towers: Australia 108, Eureka Tower, Aurora Melbourne Central, West Side Place Tower A, 120 Collins Street, 101 Collins Street, Prima Pearl Apartments, Rialto Towers, Queens Place North Tower, Premier Tower, Victoria One, Swanston Central, Melbourne Square Tower 1, Vision Apartments, 568 Collins Street, Bourke Place, Light House, Telstra Corporate Building, 380 Lonsdale Street, West Side Place Tower B, Melbourne Central, Freshwater Place Residential Tower, Eq. Tower, Empire Melbourne, Melbourne Grand, Collins House, Sofitel Hotel - Collins Place, ANZ Tower - Collins Place, Abode318, 80 Collins Street (South Tower), 80 Collins Street (Old Tower), Melbourne Square Tower 2, Capitol Grand, Scape on Franklin, MY80, Avant, Victoria Police Centre Tower 2, Manhattan @ Upper West Side, 405 Bourke Street, 385 Bourke Street, Zen Apartments, Platinum Tower One, 530 Collins Street, Southbank Place, Casselden Place, The Fifth, Olderfleet, Ernst & Young Plaza, 35 Spring Street, SX Stage 1, Royal Domain Tower, ANZ World Headquarters, National Bank House, 2 Southbank Boulevard, Verve 501 Swanston Tower, Upper West Side Tower 2 (Madison), Paragon, Shadow Play, Southbank Central, Optus Centre, Crown Towers, 140 William Street, Urban Workshop Lonsdale, Fulton Lane Tower 1, Wesley Place, Palladium Tower, Upper West Side Tower 1 (Hudson), Eporo Tower, Scape Melbourne, Collins Arch, KPMG Collins Square, Melbourne One, Argus Centre, QV Residential, Melbourne Quarter East Tower, 360 Collins Street, Australis Apartments, La Trobe Tower, Marina Tower, Yarra's Edge 5, 1 Spring Street, Atira La Trobe Street, The Spencer, IBM Australia, 459 Collins Street, Southbank Grand, 200 Queen Street, Bank Apartments, 333 Collins Street, WRAP Residences, Victoria Point, Melbourne Star, Neo 200 on Spencer, Two Melbourne Quarter, Conservatory, Mainpoint, BHP Billiton Centre, Vogue, Oaks on William, 888 Collins Street, Array, Ibis and Novotel Hotel, 567 Collins Street, Sky One, Milano Apartments, 181 William Street, City Tower, Melbourne Tower Apartments, Southbank One, Union Tower, Marland House, Epic Apartments, The International, Marco Melbourne Tower One, Republic Tower, 303 Collins Street, Collins Square Tower 5, Melbourne Sky, Whitehorse Towers 1, Trillium, Rockmans Regency Tower, Swanston Square Apartment Tower, The Sebel Suites, AMP Square, La Banque, Opus Tower, Upper West Side Tower 4 (Midtown), Herald & Weekly Times Tower, Marco Melbourne Tower Two, The Sentinel, Celsius House, MMBW House, Habitat, The Carlson, Medibank Place / 720 Bourke Street, Tiara Southbank, Vue Grande, Sheraton Melbourne Hotel, 109 Clarendon Street, The Centurion, 500 Collins Street, Owen Dixon Chambers West, Bella Southbank, Grand Hyatt Hotel, Concavo Tower Two, Franklin Lofts, Yarra's Edge 3, Convesso Tower One, A 'Beckett Tower, Atlantis Tower, Citypoint, Twenty8 Freshwater Place, Southpoint, The Quays South Tower, Oaks on Market, Forge Apartments, The Philadelphia Building, Gravity Tower, Crown Metropol, Fifty Albert, Victoria Tower, 33M, Central South Yarra, Century Tower, Concept Blue, Novotel Melbourne South Wharf Hotel, Yarra's Edge 1, Riverina, Dock 5, Yarra Point, Yarra's Edge 4, 90 Collins Street, The Eifel, Triptych Apartments, Claredon Towers, 250E, Dockside Tower, Mayne House, 357 Collins Street, SX Stage 2, RACV Centre, Telstra Exhibition Exchange, 661 Chapel Street, 8 Eastend Apartments, CGU Tower, 50 Albert Road, 889 Collins Street Tower 3, Albert Tower, Liberty Tower, AXA Building, 839 Collins Street, 11 Exhibtion Street, Park Towers, Flinders Lodge, Wills Court, Wills Tower, Crown Promenade Hotel, Enterprise House, AWB House, Cadbury Schweppes House, Oaks on Lonsdale, 883 Collins Street Tower 1, 883 Collins Street Tower 2, No. 1 Collins Wharf, Verge Apartments, 312 Latrobe, Southbank Towers, IGLU Building, The Melburnian West, 321 Exhibition Street, Marsh & Mercer Collins Square, Fulton Lane Tower 2, Phoenix, 452 Flinders Street, Aura on Flinders, 171 Collins Street, The Quays North Tower, The William, 99 Spring Street, 41X, Whitehorse Towers 2, Orica House, Metro Park West, 8 Nicholson Street, Channel 10 Tower, Hilton South Wharf Hotel, Australia Tax Office, Balencea Apartments, Langham Hotel, Istana, The Vic Apartments, ATO Quattro Collins Square, Collins Square Tower 4, Alexander Lombard Tower, 889 Collins Street Tower 4, ILK Apartments, 131-135 Bourke Street
+Tiers: I: 96, II: 78, III: 42, IV: 20, V: 1
+Rating: 548 (22.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sydney ***
+Country: Australia
+Region: Oceania
+275 towers: Crown Sydney Hotel and Resort, Circular Quay Tower, Chifley Tower, Citigroup Centre, Deutsche Bank Place, Sydney Greenland Centre, World Tower, MLC Centre, Governor Phillip Tower, Ernst & Young Tower at Latitude, Aurora Place, International Towers Sydney Tower 1, Quay Quarter Tower, Suncorp Place, ANZ Tower, Century Tower, Grosvenor Place, International Towers Sydney Tower 2, Castlereagh Centre, Meriton Tower, Australia Square Tower, Metro Grand Residences, International Towers Sydney Tower 3, The Peak, 1 O`Connell Street, Westpac Place, 201 Elizabeth Street, Gateway Plaza, HSBC Centre, 1 Denison Street, The Cove, Hordern Towers, The EY Centre, Metro Spire Residences, Angel Place, Sydney Central, Lumiere, 100 Mount Street, The Landmark, 85 Castlereagh Street,  Eighty-Eight by JQZ Tower 1, Colonial State Bank, Governor MacQuarie Tower, Commsec Tower, Horizon Apartments, Rhodes Central Tower A, Quay West Apartments, Swissotel Sydney, 8 Chifley, Quest World Square Apartments, Telstra Plaza, Elan Apartments, 60 Martin Place, 1 Bligh Street, Bankers Trust Tower, Rialto Tower, 420 George Street, Park Regis City Centre, Era, Darling North, Darling One, Victoria Towers, York & George, Wynyard Place, Met Centre, St Leonards Square (The Jackson), St Martins Tower, Sofitel Sydney Darling Harbour, Civic Tower, British Telecom Building, Hilton Sydney, Northpoint Tower, IAG house, Sydney Harbour Marriott Hotel, Inmark Tower, Aon Center, Shangri-La Hotel, Bligh Chambers, 255 George Street, KPMG Centre, Centrium Tower One, Commonwealth Bank of Australia Tower, Price Waterhouse Coopers Tower, Boomerang Tower, 177 Pacific Highway, Amora Jamison Hotel, One30 Hyde Park, National Mutual Centre, Stockland Centre, Castle Residences, University of Technology Building, Observatory Tower, Pavilions, 1 Martin Place, The Hyde, Optus Plaza, Princeton Apartments, 175 Liverpool Street, The Forum I, 135 on King, Macquarie Bank, Opal Tower, One Central Park, Norwich House, Miramar Apartments, Polding Centre, Berry Square, Fraser Suites, 33 Alfred Street, Law Courts Building, 118 Mount Street, AWA Building, Innovation Place, Four Seasons Hotel, Yuhu Hotel, Citadel Tower 1, Meriton Capitol, Roden Cutler House, Defence Plaza, Museum Towers, Centrium Tower Two, Metro View Residences, One Australia Avenue, 230-234 Sussex Street, BNP Paribas Centre, The Summit, Connaught Centre, Westfield Towers, 161 Sussex Street Redevelopment, 321 Kent Street, Regis Towers (Castlereagh), Royal Exchange Building, SkyHaus North Tower, Hotel Intercontinental, Highgate Apartments, 1 Oxford Street, 59 Goulburn Street, Emirates House, Town Hall House, Telstra House, State Street Centre, Energy Australia, Westfield Tower Two, Telstra Kent Exchange, Embassy Tower, St Leonards Square (The William), 141 Walker Street, 80 Arthur Street, Astoria Tower, Cassia Gardens, Epica, Harbour Place, 68 Pitt Street, Ovo, Zenith Apartments, Regis Apartments (Pitt Tower), SkyHaus South tower, Quay Apartments, City Centre, Hooker House, Novell House, Symantec House, Air Apartments, Rhodes Central Tower B, John Madison tower, Zenith Tower 1, Zenith Tower 2, McKell Building, Matavai Apartments, Turanga Apartments, VSQ North, Darling Park Tower III, King and Phillip Residences, Ryde Garden Building B, Radisson Hotel and Suites, Central Square, Hyde Park Towers, Ranelagh Apartments, Standard Chartered House, Travelex Building, John Fairfax Building, Medina Classic, GM Tower, Stamford on Kent, The Mark, Adina Grand Hotel, Maestri Towers, Marina Square Tower A, Wentworth Point, Meriton Bondi Junction East Tower, The Ribbon Hotel and Residences, 100 Pacific Highway, ING Centre, Hyde Park Residences, Commonwealth Bank Building, Regis Apartments (Campbell Street Tower), Stamford Residences, The Georgia, 519 Kent Street, Stamford Marque, ARC by Crown Group, CML Building, 20 Martin Place, 60 Carrington Street, 112 Talavera Road, Building A, The Pinnacle Tower B, Liverpool, Mosaic, York Apartments, Skyline, St Leon, Arthur Young Building, The Regency Tower A, Polaris, Harbour Court, Ocean Court , Mantra on Kent, The Sebel Residence, Forum West, Hyde Park Regency, Trafalgar Apartments, 55 Hunter Street, Taiga, Latitude on Lavender, Marriott Hotel, The Pinnacle, Sydney, Zen at Wentworth Point, The Cambridge, 77 King Street, Hunter Connection, Royal and Sun Alliance, Reserve Bank Building, 383 Kent Street, Australia Towers II, 80 Bathurst Street, Vista 881, The Bentleigh, Belvedere, St James Centre, Blues Point Tower Apartments, Sydney Boulevard Hotel, Allianz Centre, Barrack Place, 5 Martin Place, Ryde Garden Building A, Ark, Burwood Grand Tower B, Rex House, Australia Towers I, Windsor on Kent, 229 on Elizabeth Street, Fujitsu, Powertel Building, Adina Apartments, Sirius Wentworth Point, VQ Harbour Views, 187 Macquarie Street, The Chelsea, Sheraton on the Park, Waldorf Apartments, Pitt Telephone Exchange, AAMI Centre, Arise, Pavillions Building 5, Aura Tower 1, The Retreat Tower 2, Atmosphere (Tower 1), Altura, Vantage North, Vantage South, Holmsdale Tower, Skyview,  Phoenix Tower, Skyview, Hydra Tower, One Twenty Macquarie, The Pinnacle Tower A, Liverpool, Novotel Sydney Olympic Park, Lumley House
+Tiers: I: 151, II: 84, III: 27, IV: 13
+Rating: 505 (15.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Brisbane ***
+Country: Australia
+Region: Oceania
+100 towers: Brisbane Skytower, The One, 1 William Street, Infinity, Soleil, Aurora, Riparian Plaza, One One One Eagle Street, 443 Queen Street, 300 George Street, Central Plaza One, 275 George Street, Waterfront Place, 480 Queen Street, 180 Brisbane, Brisbane Square, Skyline Apartments, 400 George Street, Abian Apartments, Santos Place, M on Mary, 111 George Street, 80 Ann Street, Riverside Centre, Charlotte Towers, Festival Towers, AMP Place, Comalco Place, Spire, Felix Tower, Mary Lane, King George Central, State Law Building, W Hotel, 123 Albert Street, Student One Wharf Street, Admiralty Towers II, River Place Apartments, Macrossan Apartments, River City Apartments, Casino Towers, Metropole Apartments, Commonwealth Bank Building, Emirates House, Suncorp Metway Plaza, Oaks 212 Margaret, Admiralty Quays, Jetset House, Evolution, Hitachi Building, Central Plaza Two, Mineral House, ADC Building, Brisbane Marriot Hotel, Four Points by Sheraton, 97 Elizabeth Street, ANZ Centre, Brisbane Casino Towers, Education House, Terrica Place, Westpac Building, HSBC Centre, National Bank House, 179 Turbot Street, The Milton Residences, Matisse Tower, Mantra on Queen, CPA Centre, 333 Ann Street, No 1 Fortitude Valley, Brisbane 1 Building A, Madison Heights, Lucid, Eve, Ivy, Chifley at Lennons, PIPE Networks House, 175 Eagle Street, FV - Valley House, FV - Flatiron, Brisbane 1 Building B, River Park Central, Hotel Sofitel Brisbane, The Sebel, The Midtown, Mantra Midtown, Ibis Hotel, Brisbane Administration Centre, Grosvenor Apartments, Brisbane Club Tower, Woolloongabba Telstra Exchange, AM-60, Arthouse, Haven, 53 Albert Street, 144 Edward Street, Skyring Apartments, 150 Charlotte Street, McLachlan & Ann Apartment Tower, South Point
+Tiers: I: 43, II: 40, III: 12, IV: 5
+Rating: 201 (14.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gold Coast ***
+Country: Australia
+Region: Oceania
+97 towers: Q1 Tower, Ocean, Soul, Circle on Cavill North Tower, Hilton Surfers Hotel & Residences Orchid Tower, Sundale Apartments, Jewel Hotel, The Dorsett and Star Residences, The Oracle Beach Tower, Circle on Cavill South Tower, Skyline North Tower, 272 Hedges Avenue, Skyline Tower, Jewel North Tower, Grand Mariner Apartments, Breakfree Peninsula, The Oracle Hinterland Tower, Qube, Air on Broadbeach, The Mantra Sun City, Crown Towers Resort, Southport Central Tower B, Rhapsody Surfers North, Skyline Central, Southport Central Tower A, Southport Central Tower C, Pivotal Point, Jewel Beach Tower, Victoria Towers, Hilton Surfers Residences Boulevard Tower, Fifty Cavill Avenue, The Inlet, Imperial Surf, Surfers Aquarius, Contessa Apartments, Avani Broadbeach Residences, Belle Maison, The Wave, Atlantis Apartments East, Atlantis Apartments West, 120 Marine Parade, Shores, Avalon Riverfront Apartments, Carmel by the Sea, Marriott Hotel Resort, Courtyard Surfers Paradise Resort, Broadwater Tower, Focus, Bayview Towers, Axis Tower, Ultra Broadbeach, Marina Tower, Golden Gate Resort, Burleigh Surf, Liberty Panorama, Mantra Sierra Grand, Ruby Tower 1, Marquis on Main, Aegean Resort, Crowne Plaza, Beach Haven, The Waterford on Main, Silverpoint, Surfers Manhattan, The Pinnacle, Artique Resort, Meriton Broadbeach North Tower, Rivage Royale, Sentinel on Main, 2nd Avenue Beachside, Oscar on Main, Bayview Shores, Allunga Tower, Ballah Tower, Aria, Northcliffe Residences, Mecure Beachcomber, Spinnaker, Condor Apartments, Park Lane, De Ville Apartments, Verve Broadbeach, Nexus Tower 1, La Sabbia, The Waratah, Beaches, Surfers Century, Main Beach Tower, Admiral North, Royal Pines Resort, Acapulco Resort, Pinehurst Tower, Synergy Apartments, Royal Palms Resort, Burleigh Esplanade Apartments, Henley on Broadwater, Seascape Apartments
+Tiers: I: 55, II: 31, III: 7, IV: 3, V: 1
+Rating: 171 (14.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Perth ***
+Country: Australia
+Region: Oceania
+50 towers: Central Park Tower, Brookfield Place, BankWest Tower, QV1 Tower, Kings Square VI Tower A, David Malcolm Justice Centre, Exchange Plaza, Kings Square VI Tower B, St. Martins Tower, Woodside Plaza, Allendale Square, AMP Building, Capital Square (Office Tower), Equus, Forrest Centre, Governor Stirling Tower, Westin Hotel, Ritz Carlton Hotel, Raine Square, Crown Towers Perth, Elevation Tower, 100 St. George's Terrace, Fairlanes, The Towers @ Elizabeth Quay, QIII, Telstra Exchange, Rise Apartments, 140 William Street, Alluvion, Pan Pacific Perth Hotel, Kings Square V, Condor Tower, Kings Square I, Westralia Square, St Georges Square, Brookfield Place Tower 2, GSA Student Housing , Westpac Building, Reflections Tower 1, Reflections Tower 2, Parmelia House, Zenith City Centro, QBE House, Strathearn Tower, Fraser Suites Perth, The Quadrant, Adagio, Cirque Apartments , One Eleven, London House
+Tiers: I: 31, II: 14, III: 2, IV: 3
+Rating: 85 (11.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Parramatta ***
+Country: Australia
+Region: Oceania
+18 towers: Altitude Apartments Tower A, The Lennox, 4 Parramatta Square, Skyrise, West Village, Altitude Apartments Tower B, V by Crown, Rise Apartments, B1 Tower, Eclipse, Escen on Church, Commonwealth Centre, 3 Parramatta Square, Building B3. Western Sydney University, Colonial Tower, 10-32 East Street (Block A), Sydney Water HQ, Horizon Towers (Parkes St Tower)
+Tiers: I: 12, II: 3, III: 3
+Rating: 30 (46.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Adelaide ***
+Country: Australia
+Region: Oceania
+11 towers: Frome Central Tower One, Realm Adelaide, Westpac House, Telstra House, Kodo, Grenfell Centre, ANZ House, 115 King William Street, Australis House, Vue on King William, AMP Building
+Tiers: I: 8, II: 3
+Rating: 14 (35.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Canberra ***
+Country: Australia
+Region: Oceania
+5 towers: High Society - Tower One, High Society - Tower Two, Lovett Tower, Wayfarer Apartments, Cirrus Tower One
+Tiers: I: 4, II: 1
+Rating: 6 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Darwin ***
+Country: Australia
+Region: Oceania
+4 towers: Evolution on Gardiner, Mantra Pandanas, SOHO Tower, The Charles Darwin Centre
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Townsville ***
+Country: Australia
+Region: Oceania
+1 tower: Holiday Inn Townsville
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tweed Heads South ***
+Country: Australia
+Region: Oceania
+1 tower: Pinehurst
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Blacktown ***
+Country: Australia
+Region: Oceania
+1 tower: Altitude Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

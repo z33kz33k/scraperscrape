@@ -1,0 +1,20 @@
+*** Maracay (2) ***
+1. Torre Sindoni, 125m
+
+******************** DETAILS ********************
+
+*** Maracay ***
+Country: Venezuela
+Region: South America
+1 tower: Torre Sindoni
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre Sindoni ***
+Height: 125
+Floors: 32
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 1

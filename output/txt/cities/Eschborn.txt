@@ -1,0 +1,48 @@
+*** Eschborn (4) ***
+1. DB Corporate Center Haus A, 89m
+2. Vodafone, 88m
+3. Deutsche Börse Cube, 87m
+4. Ventura Haus, 87m
+
+******************** DETAILS ********************
+
+*** Eschborn ***
+Country: Germany
+Region: Europe
+4 towers: DB Corporate Center Haus A, Vodafone, Deutsche Börse Cube, Ventura Haus
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** DB Corporate Center Haus A ***
+Height: 88.82
+Floors: 20
+Status: Completed
+Functions: office
+Rank: 1
+
+*** Vodafone ***
+Height: 88
+Floors: 23
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 2
+
+*** Deutsche Börse Cube ***
+Height: 87.4
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 3
+
+*** Ventura Haus ***
+Height: 87
+Floors: 22
+Status: Completed
+Started: 1990
+Completed: 1994
+Functions: office
+Rank: 4

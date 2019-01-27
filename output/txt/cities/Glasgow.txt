@@ -1,0 +1,65 @@
+*** Glasgow (6) ***
+1. 10 Red Road Court, 89m
+2. 123 Petershill Drive, 89m
+3. 33 Petershill Drive, 89m
+4. 63 Petershill Drive, 89m
+5. 93 Petershill Drive, 89m
+6. 10 Petershill Court, 80m
+
+******************** DETAILS ********************
+
+*** Glasgow ***
+Country: United Kingdom
+Region: Europe
+6 towers: 10 Red Road Court, 123 Petershill Drive, 33 Petershill Drive, 63 Petershill Drive, 93 Petershill Drive, 10 Petershill Court
+Tiers: I: 6
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 10 Red Road Court ***
+Height: 89
+Floors: 31
+Status: Completed
+Completed: 1966
+Functions: residential
+Rank: 1
+
+*** 123 Petershill Drive ***
+Height: 89
+Floors: 31
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 1
+
+*** 33 Petershill Drive ***
+Height: 89
+Floors: 31
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 1
+
+*** 63 Petershill Drive ***
+Height: 89
+Floors: 31
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 1
+
+*** 93 Petershill Drive ***
+Height: 89
+Floors: 31
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 1
+
+*** 10 Petershill Court ***
+Height: 80
+Floors: 27
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 6

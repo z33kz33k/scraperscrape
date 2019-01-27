@@ -1,0 +1,36 @@
+*** Croatia (9) ***
+1. Zagreb, 6
+2. Split, 2
+3. Rijeka, 1
+
+******************** DETAILS ********************
+
+*** Croatia ***
+Region: Europe
+3 cities: Zagreb, Split, Rijeka
+Tiers: I: 7, II: 1
+Rating: 9 (22.2% uncompleted)
+
+*** Zagreb ***
+Country: Croatia
+Region: Europe
+6 towers: Euro Tower I, Strojarska Business Center, Zagrepcanka, Cibona Tower, Sky Office Towers, Zagreb Tower
+Tiers: I: 6
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Split ***
+Country: Croatia
+Region: Europe
+1 tower: Westgate Tower B
+Tiers: II: 1
+Rating: 2 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Rijeka ***
+Country: Croatia
+Region: Europe
+1 tower: Čandekova 23a
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

@@ -1,0 +1,45 @@
+*** Newport Beach (4) ***
+1. 520 Newport Center Drive, 96m
+2. 650 Newport Center Drive | PIMCO Headquarters, 90m
+3. 610 Newport Center Drive, 84m
+4. 660 Newport Center Drive, 77m
+
+******************** DETAILS ********************
+
+*** Newport Beach ***
+Country: United States
+Region: North America
+4 towers: 520 Newport Center Drive, 650 Newport Center Drive | PIMCO Headquarters, 610 Newport Center Drive, 660 Newport Center Drive
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** 520 Newport Center Drive ***
+Height: 96.01
+Floors: 20
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 1
+
+*** 650 Newport Center Drive | PIMCO Headquarters ***
+Height: 89.92
+Floors: 20
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 2
+
+*** 610 Newport Center Drive ***
+Height: 84.12
+Floors: 18
+Status: Completed
+Functions: office
+Rank: 3
+
+*** 660 Newport Center Drive ***
+Height: 77.11
+Floors: 16
+Status: Completed
+Functions: office
+Rank: 4

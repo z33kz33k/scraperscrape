@@ -1,0 +1,21 @@
+*** Zoetermeer (1) ***
+1. Apollo, 79m
+
+******************** DETAILS ********************
+
+*** Zoetermeer ***
+Country: Netherlands
+Region: Europe
+1 tower: Apollo
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Apollo ***
+Height: 79.17
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 1

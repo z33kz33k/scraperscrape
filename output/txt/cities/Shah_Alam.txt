@@ -1,0 +1,20 @@
+*** Shah Alam (1) ***
+1. Top Glove Tower, 93m
+
+******************** DETAILS ********************
+
+*** Shah Alam ***
+Country: Malaysia
+Region: Asia
+1 tower: Top Glove Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Top Glove Tower ***
+Height: 93.4
+Floors: 23
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 1

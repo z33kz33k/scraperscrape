@@ -1,0 +1,1365 @@
+*** São Paulo (259) ***
+1.   Platina 220, 176m
+2.   Pal&aacute;cio W. Zarzur, 170m
+3.   Residencial Figueira, 168m
+4.   Edificio Italia, 165m
+5.   Altino Arantes, 161m
+6.   Torre Norte, 158m
+7.   Begonias, 158m
+8.   Ipes, 158m
+9.   Jabuticabeiras, 158m
+10.  Limantos, 158m
+11.  Magnolias, 158m
+12.  Reseda, 158m
+13.  Zineas, 158m
+14.  EZ Towers A, 150m
+15.  EZ Towers B, 150m
+16.  E-Tower, 149m
+17.  Birmann 21, 149m
+18.  BankBoston, 145m
+19.  Josephine Baker, 144m
+20.  Banco do Brazil, 143m
+21.  Canario, 141m
+22.  Inhambu, 141m
+23.  Eldorado Business Tower, 141m
+24.  Itaú Fidelité Marginal Pinheiros, 140m
+25.  Eco Berrini, 140m
+26.  WTorre Morumbi, 140m
+27.  Berrini One, 139m
+28.  Plaza Centenario, 139m
+29.  Camargo Corporate North Tower, 139m
+30.  Camargo Corporate South Tower, 139m
+31.  Emiliano Analia Franco, 138m
+32.  Katherine, 138m
+33.  Mandarim, 137m
+34.  Torre Sao Paulo, 136m
+35.  Torre Alpha, 136m
+36.  Torre Sigma, 136m
+37.  Banco Real Santander Headquarters, 135m
+38.  Rochaverá Corporate Tower C, 134m
+39.  Hospital Sírio-Libanês, 134m
+40.  106 Serido Torre 1, 134m
+41.  106 Serido Torre 2, 134m
+42.  Barao de Iguape, 133m
+43.  Helen, 133m
+44.  Ciragan, 132m
+45.  Ipiranga 165, 130m
+46.  Heritage Cyrela, 130m
+47.  Saint Claire, 130m
+48.  Grande Sao Paulo, 129m
+49.  Mercantil Finasa, 129m
+50.  Florida Penthouses A, 129m
+51.  Camille Claudel, 128m
+52.  Morumbi Corporate Golden Tower, 126m
+53.  B32, 126m
+54.  Instituto do Câncer de São Paulo Octavio Frias de Oliveira, 125m
+55.  Torre Matarazzo, 125m
+56.  Tower Bridge Corporate, 124m
+57.  Cipriani Hotel & Residences, 124m
+58.  WTorre JK Torre 2, 124m
+59.  Paineiras, 122m
+60.  Plátano, 122m
+61.  Montalcini Residencial, 122m
+62.  Capital Building, 121m
+63.  Continental Tower, 121m
+64.  Horizonte, 121m
+65.  Mirante, 121m
+66.  Panorama, 121m
+67.  Urbanity Corporativo, 120m
+68.  Urbanity Residencial, 120m
+69.  Florida Penthouses B, 120m
+70.  Amedeo Modigliani, 120m
+71.  Bauhaus Residencial 1, 119m
+72.  Bauhaus Residencial 2, 119m
+73.  Infinity Tower, 118m
+74.  Villa Europa, 117m
+75.  Particolare Torre A, 116m
+76.  Particolare Torre B, 116m
+77.  Edificio Copan, 115m
+78.  Casa Grande Bloco C, 110m
+79.  Tower Edson, 110m
+80.  Edifício CBI Esplanada, 110m
+81.  Edifício Odebrecht São Paulo, 110m
+82.  The View, 107m
+83.  Park Tower, 106m
+84.  Altto Campo Belo, 106m
+85.  Predio Martinelli, 106m
+86.  Praca da Bandeira, 105m
+87.  Code Campo Belo, 103m
+88.  Jacarandá	, 102m
+89.  e.Office Design Berrini, 101m
+90.  FIESP Building, 99m
+91.  Edifício Othon, 98m
+92.  Villa Lobos, 98m
+93.  Edifício Dacon, 96m
+94.  Concept Anália Franco, 96m
+95.  Boreal Santana, 96m
+96.  Studio Composite Des Arts, 96m
+97.  Morumbi Corporate Diamond Tower, 95m
+98.  The Summit, 95m
+99.  Terraços Itapeti, 94m
+100. Geometria Itaim, 94m
+101. Françoise Sagan, 94m
+102. Casa Grande Bloco B, 94m
+103. Páteo Leopoldo, 94m
+104. Cartier Bresson, 93m
+105. Montessori Residencial, 93m
+106. La Griffe Résidence, 93m
+107. Chateau Latour, 93m
+108. Edifício Brasil, 93m
+109. Torre Marfim, 92m
+110. Torre Pérola, 92m
+111. Unitt Urban Living, 92m
+112. 701 Arizona, 91m
+113. Acervo Pinheiros, 90m
+114. Rosewood Tower, 90m
+115. Maria Callas 1, 90m
+116. Maria Callas 2, 90m
+117. Galeria Metrópole, 89m
+118. Anna Pavlova, 89m
+119. Terraço Leopoldo, 89m
+120. Casa Grande Bloco A, 88m
+121. Chateau Margaux, 88m
+122. Jardin de Mermier, 86m
+123. Gran Paradiso Iberapuera, 86m
+124. Prodigy Grand Hotel & Suites Berrini, 85m
+125. Forma Itaim, 85m
+126. Benedito Lapin, 85m
+127. Península, 85m
+128. Appia, 84m
+129. Casa Grande Bloco D, 84m
+130. SAX Itaim, 81m
+131. Grand Life Ipiranga Torre 1, 80m
+132. Grand Life Ipiranga Torre 2, 80m
+133. Palais Du Parc, 80m
+134. V House, 80m
+135. Rochaverá Corporate Tower A, 80m
+136. Rochaverá Corporate Tower B, 80m
+137. Dupret, 80m
+138. Limited Itaim, 79m
+139. Attic, 78m
+140. Maison Montparnasse, 78m
+141. Vivace, 78m
+142. L Itaim, 77m
+143. Hospital Samaritano, 77m
+144. Vitra, 77m
+145. Élevé Vila Romana, 75m
+
+******************** DETAILS ********************
+
+*** São Paulo ***
+Country: Brazil
+Region: South America
+145 towers: Platina 220, Pal&aacute;cio W. Zarzur, Residencial Figueira, Edificio Italia, Altino Arantes, Torre Norte, Begonias, Ipes, Jabuticabeiras, Limantos, Magnolias, Reseda, Zineas, EZ Towers A, EZ Towers B, E-Tower, Birmann 21, BankBoston, Josephine Baker, Banco do Brazil, Canario, Inhambu, Eldorado Business Tower, Itaú Fidelité Marginal Pinheiros, Eco Berrini, WTorre Morumbi, Berrini One, Plaza Centenario, Camargo Corporate North Tower, Camargo Corporate South Tower, Emiliano Analia Franco, Katherine, Mandarim, Torre Sao Paulo, Torre Alpha, Torre Sigma, Banco Real Santander Headquarters, Rochaverá Corporate Tower C, Hospital Sírio-Libanês, 106 Serido Torre 1, 106 Serido Torre 2, Barao de Iguape, Helen, Ciragan, Ipiranga 165, Heritage Cyrela, Saint Claire, Grande Sao Paulo, Mercantil Finasa, Florida Penthouses A, Camille Claudel, Morumbi Corporate Golden Tower, B32, Instituto do Câncer de São Paulo Octavio Frias de Oliveira, Torre Matarazzo, Tower Bridge Corporate, Cipriani Hotel & Residences, WTorre JK Torre 2, Paineiras, Plátano, Montalcini Residencial, Capital Building, Continental Tower, Horizonte, Mirante, Panorama, Urbanity Corporativo, Urbanity Residencial, Florida Penthouses B, Amedeo Modigliani, Bauhaus Residencial 1, Bauhaus Residencial 2, Infinity Tower, Villa Europa, Particolare Torre A, Particolare Torre B, Edificio Copan, Casa Grande Bloco C, Tower Edson, Edifício CBI Esplanada, Edifício Odebrecht São Paulo, The View, Park Tower, Altto Campo Belo, Predio Martinelli, Praca da Bandeira, Code Campo Belo, Jacarandá	, e.Office Design Berrini, FIESP Building, Edifício Othon, Villa Lobos, Edifício Dacon, Concept Anália Franco, Boreal Santana, Studio Composite Des Arts, Morumbi Corporate Diamond Tower, The Summit, Terraços Itapeti, Geometria Itaim, Françoise Sagan, Casa Grande Bloco B, Páteo Leopoldo, Cartier Bresson, Montessori Residencial, La Griffe Résidence, Chateau Latour, Edifício Brasil, Torre Marfim, Torre Pérola, Unitt Urban Living, 701 Arizona, Acervo Pinheiros, Rosewood Tower, Maria Callas 1, Maria Callas 2, Galeria Metrópole, Anna Pavlova, Terraço Leopoldo, Casa Grande Bloco A, Chateau Margaux, Jardin de Mermier, Gran Paradiso Iberapuera, Prodigy Grand Hotel & Suites Berrini, Forma Itaim, Benedito Lapin, Península, Appia, Casa Grande Bloco D, SAX Itaim, Grand Life Ipiranga Torre 1, Grand Life Ipiranga Torre 2, Palais Du Parc, V House, Rochaverá Corporate Tower A, Rochaverá Corporate Tower B, Dupret, Limited Itaim, Attic, Maison Montparnasse, Vivace, L Itaim, Hospital Samaritano, Vitra, Élevé Vila Romana
+Tiers: I: 61, II: 69, III: 15
+Rating: 259 (5.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Platina 220 ***
+Height: 175.74
+Floors: 50
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential / hotel / office
+Rank: 1
+
+*** Pal&aacute;cio W. Zarzur ***
+Height: 170
+Floors: 51
+Status: Completed
+Completed: 1967
+Functions: retail / office
+Rank: 2
+
+*** Residencial Figueira ***
+Height: 168.17
+Floors: 52
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 3
+
+*** Edificio Italia ***
+Height: 165
+Floors: 46
+Status: Completed
+Started: 1956
+Completed: 1965
+Functions: office
+Rank: 4
+
+*** Altino Arantes ***
+Height: 161
+Floors: 36
+Status: Completed
+Started: 1939
+Completed: 1947
+Functions: office
+Rank: 5
+
+*** Torre Norte ***
+Height: 158
+Floors: 38
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 6
+
+*** Begonias ***
+Height: 157.94
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 7
+
+*** Ipes ***
+Height: 157.94
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 7
+
+*** Jabuticabeiras ***
+Height: 157.94
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 7
+
+*** Limantos ***
+Height: 157.94
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 7
+
+*** Magnolias ***
+Height: 157.94
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 7
+
+*** Reseda ***
+Height: 157.94
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 7
+
+*** Zineas ***
+Height: 157.94
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 7
+
+*** EZ Towers A ***
+Height: 150
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 14
+
+*** EZ Towers B ***
+Height: 150
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 14
+
+*** E-Tower ***
+Height: 149
+Floors: 39
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 16
+
+*** Birmann 21 ***
+Height: 149
+Floors: 24
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 17
+
+*** BankBoston ***
+Height: 145
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 18
+
+*** Josephine Baker ***
+Height: 143.87
+Floors: 43
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 19
+
+*** Banco do Brazil ***
+Height: 143
+Floors: 24
+Status: Completed
+Completed: 1955
+Functions: office
+Rank: 20
+
+*** Canario ***
+Height: 141
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 21
+
+*** Inhambu ***
+Height: 141
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 21
+
+*** Eldorado Business Tower ***
+Height: 141
+Floors: 36
+Status: Completed
+Completed: 2007
+Functions: hotel / office
+Rank: 23
+
+*** Itaú Fidelité Marginal Pinheiros ***
+Height: 140.2
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 24
+
+*** Eco Berrini ***
+Height: 140.1
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 25
+
+*** WTorre Morumbi ***
+Height: 140
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 26
+
+*** Berrini One ***
+Height: 139
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 27
+
+*** Plaza Centenario ***
+Height: 139
+Floors: 34
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 27
+
+*** Camargo Corporate North Tower ***
+Height: 139
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 29
+
+*** Camargo Corporate South Tower ***
+Height: 139
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 29
+
+*** Emiliano Analia Franco ***
+Height: 138.38
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 31
+
+*** Katherine ***
+Height: 138.34
+Floors: 39
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 32
+
+*** Mandarim ***
+Height: 137
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 33
+
+*** Torre Sao Paulo ***
+Height: 136.05
+Floors: 34
+Status: Completed
+Started: 1991
+Completed: 2009
+Functions: office
+Rank: 34
+
+*** Torre Alpha ***
+Height: 136
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 35
+
+*** Torre Sigma ***
+Height: 136
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 35
+
+*** Banco Real Santander Headquarters ***
+Height: 135
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 37
+
+*** Rochaverá Corporate Tower C ***
+Height: 134
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 38
+
+*** Hospital Sírio-Libanês ***
+Height: 133.81
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: hospital
+Rank: 39
+
+*** 106 Serido Torre 1 ***
+Height: 133.75
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 40
+
+*** 106 Serido Torre 2 ***
+Height: 133.75
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 40
+
+*** Barao de Iguape ***
+Height: 133
+Floors: 37
+Status: Completed
+Completed: 1959
+Functions: office
+Rank: 42
+
+*** Helen ***
+Height: 132.58
+Floors: 38
+Status: Completed
+Completed: 2018
+Functions: residential
+Rank: 43
+
+*** Ciragan ***
+Height: 131.66
+Floors: 42
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / office
+Rank: 44
+
+*** Ipiranga 165 ***
+Height: 130
+Floors: 36
+Status: Completed
+Completed: 1968
+Functions: hotel
+Rank: 45
+
+*** Heritage Cyrela ***
+Height: 130
+Floors: 33
+Status: Under Construction
+Started: 2017
+Functions: residential
+Rank: 46
+
+*** Saint Claire ***
+Height: 129.85
+Floors: 33
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 47
+
+*** Grande Sao Paulo ***
+Height: 129
+Floors: 36
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 48
+
+*** Mercantil Finasa ***
+Height: 129
+Floors: 35
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 49
+
+*** Florida Penthouses A ***
+Height: 128.63
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 50
+
+*** Camille Claudel ***
+Height: 127.7
+Floors: 37
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 51
+
+*** Morumbi Corporate Golden Tower ***
+Height: 126
+Floors: 29
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 52
+
+*** B32 ***
+Height: 125.59
+Floors: 27
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 53
+
+*** Instituto do Câncer de São Paulo Octavio Frias de Oliveira ***
+Height: 125
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: hospital
+Rank: 54
+
+*** Torre Matarazzo ***
+Height: 125
+Floors: 22
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 55
+
+*** Tower Bridge Corporate ***
+Height: 124
+Floors: 30
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 56
+
+*** Cipriani Hotel & Residences ***
+Height: 123.5
+Floors: 29
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: hotel / retail
+Rank: 57
+
+*** WTorre JK Torre 2 ***
+Height: 123.5
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 58
+
+*** Paineiras ***
+Height: 122.1
+Floors: 40
+Status: Completed
+Started: 1999
+Completed: 2004
+Functions: residential
+Rank: 59
+
+*** Plátano ***
+Height: 122.1
+Floors: 40
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 59
+
+*** Montalcini Residencial ***
+Height: 121.9
+Floors: 34
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 61
+
+*** Capital Building ***
+Height: 121.3
+Floors: 31
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 62
+
+*** Continental Tower ***
+Height: 121.3
+Floors: 29
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 63
+
+*** Horizonte ***
+Height: 121
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 64
+
+*** Mirante ***
+Height: 121
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 64
+
+*** Panorama ***
+Height: 121
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 64
+
+*** Urbanity Corporativo ***
+Height: 120
+Status: Completed
+Completed: 2017
+Functions: office / retail
+Rank: 67
+
+*** Urbanity Residencial ***
+Height: 120
+Status: Completed
+Completed: 2017
+Functions: residential / retail
+Rank: 67
+
+*** Florida Penthouses B ***
+Height: 119.8
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 69
+
+*** Amedeo Modigliani ***
+Height: 119.8
+Floors: 35
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 70
+
+*** Bauhaus Residencial 1 ***
+Height: 119
+Floors: 34
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 71
+
+*** Bauhaus Residencial 2 ***
+Height: 119
+Floors: 34
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 71
+
+*** Infinity Tower ***
+Height: 118
+Floors: 21
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 73
+
+*** Villa Europa ***
+Height: 116.75
+Floors: 31
+Status: Completed
+Started: 1994
+Completed: 2012
+Functions: residential
+Rank: 74
+
+*** Particolare Torre A ***
+Height: 116.13
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 75
+
+*** Particolare Torre B ***
+Height: 116.13
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 75
+
+*** Edificio Copan ***
+Height: 115
+Floors: 35
+Status: Completed
+Started: 1953
+Completed: 1966
+Functions: residential
+Rank: 77
+
+*** Casa Grande Bloco C ***
+Height: 110.33
+Floors: 37
+Status: Completed
+Functions: residential
+Rank: 78
+
+*** Tower Edson ***
+Height: 110
+Floors: 31
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 79
+
+*** Edifício CBI Esplanada ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 1948
+Functions: office
+Rank: 80
+
+*** Edifício Odebrecht São Paulo ***
+Height: 110
+Floors: 28
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 81
+
+*** The View ***
+Height: 107
+Floors: 34
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 82
+
+*** Park Tower ***
+Height: 106.4
+Floors: 27
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 83
+
+*** Altto Campo Belo ***
+Height: 106
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 84
+
+*** Predio Martinelli ***
+Height: 105.7
+Floors: 28
+Status: Completed
+Started: 1922
+Completed: 1929
+Functions: office
+Rank: 85
+
+*** Praca da Bandeira ***
+Height: 105
+Floors: 25
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 86
+
+*** Code Campo Belo ***
+Height: 102.7
+Floors: 31
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 87
+
+*** Jacarandá	 ***
+Height: 102.1
+Floors: 35
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 88
+
+*** e.Office Design Berrini ***
+Height: 100.7
+Floors: 26
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 89
+
+*** FIESP Building ***
+Height: 99.1
+Floors: 22
+Status: Completed
+Started: 1970
+Completed: 1978
+Functions: office
+Rank: 90
+
+*** Edifício Othon ***
+Height: 98
+Floors: 25
+Status: Completed
+Completed: 1954
+Functions: government
+Rank: 91
+
+*** Villa Lobos ***
+Height: 97.5
+Floors: 28
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 92
+
+*** Edifício Dacon ***
+Height: 96
+Floors: 27
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 93
+
+*** Concept Anália Franco ***
+Height: 95.7
+Floors: 32
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 94
+
+*** Boreal Santana ***
+Height: 95.7
+Floors: 29
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 95
+
+*** Studio Composite Des Arts ***
+Height: 95.5
+Floors: 28
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 96
+
+*** Morumbi Corporate Diamond Tower ***
+Height: 95
+Floors: 21
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 97
+
+*** The Summit ***
+Height: 94.8
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 98
+
+*** Terraços Itapeti ***
+Height: 94.5
+Floors: 24
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 99
+
+*** Geometria Itaim ***
+Height: 94
+Floors: 27
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 100
+
+*** Françoise Sagan ***
+Height: 93.88
+Floors: 28
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 101
+
+*** Casa Grande Bloco B ***
+Height: 93.57
+Floors: 33
+Status: Completed
+Functions: residential
+Rank: 102
+
+*** Páteo Leopoldo ***
+Height: 93.5
+Floors: 25
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 103
+
+*** Cartier Bresson ***
+Height: 93
+Floors: 30
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 104
+
+*** Montessori Residencial ***
+Height: 93
+Floors: 28
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 105
+
+*** La Griffe Résidence ***
+Height: 93
+Floors: 27
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 106
+
+*** Chateau Latour ***
+Height: 92.96
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 107
+
+*** Edifício Brasil ***
+Height: 92.7
+Floors: 30
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 108
+
+*** Torre Marfim ***
+Height: 92
+Floors: 30
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Torre Pérola ***
+Height: 92
+Floors: 30
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Unitt Urban Living ***
+Height: 91.73
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 111
+
+*** 701 Arizona ***
+Height: 90.8
+Floors: 28
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 112
+
+*** Acervo Pinheiros ***
+Height: 90.25
+Floors: 29
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 113
+
+*** Rosewood Tower ***
+Height: 90
+Floors: 22
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential / hotel
+Rank: 114
+
+*** Maria Callas 1 ***
+Height: 89.6
+Floors: 32
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 115
+
+*** Maria Callas 2 ***
+Height: 89.6
+Floors: 32
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 115
+
+*** Galeria Metrópole ***
+Height: 89.3
+Floors: 27
+Status: Completed
+Completed: 1956
+Functions: office
+Rank: 117
+
+*** Anna Pavlova ***
+Height: 88.7
+Floors: 27
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 118
+
+*** Terraço Leopoldo ***
+Height: 88.7
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 119
+
+*** Casa Grande Bloco A ***
+Height: 88.4
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 120
+
+*** Chateau Margaux ***
+Height: 88.39
+Floors: 21
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 121
+
+*** Jardin de Mermier ***
+Height: 86.25
+Floors: 28
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 122
+
+*** Gran Paradiso Iberapuera ***
+Height: 86
+Floors: 29
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 123
+
+*** Prodigy Grand Hotel & Suites Berrini ***
+Height: 85.34
+Floors: 27
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 124
+
+*** Forma Itaim ***
+Height: 85
+Floors: 28
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 125
+
+*** Benedito Lapin ***
+Height: 84.75
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 126
+
+*** Península ***
+Height: 84.73
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 127
+
+*** Appia ***
+Height: 84.5
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 128
+
+*** Casa Grande Bloco D ***
+Height: 84
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 129
+
+*** SAX Itaim ***
+Height: 80.77
+Floors: 24
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 130
+
+*** Grand Life Ipiranga Torre 1 ***
+Height: 80.5
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 131
+
+*** Grand Life Ipiranga Torre 2 ***
+Height: 80.5
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 131
+
+*** Palais Du Parc ***
+Height: 80.5
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 131
+
+*** V House ***
+Height: 80
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / residential
+Rank: 134
+
+*** Rochaverá Corporate Tower A ***
+Height: 80
+Floors: 17
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 135
+
+*** Rochaverá Corporate Tower B ***
+Height: 80
+Floors: 17
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 135
+
+*** Dupret ***
+Height: 79.85
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 137
+
+*** Limited Itaim ***
+Height: 79.25
+Floors: 26
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 138
+
+*** Attic ***
+Height: 78
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 139
+
+*** Maison Montparnasse ***
+Height: 78
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 139
+
+*** Vivace ***
+Height: 77.5
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 141
+
+*** L Itaim ***
+Height: 77.42
+Floors: 23
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 142
+
+*** Hospital Samaritano ***
+Height: 76.81
+Floors: 19
+Status: Completed
+Completed: 2007
+Functions: hospital
+Rank: 143
+
+*** Vitra ***
+Height: 76.64
+Floors: 19
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 144
+
+*** Élevé Vila Romana ***
+Height: 75
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 145

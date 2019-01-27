@@ -1,0 +1,118 @@
+*** Pretoria (20) ***
+1.  Reserve Bank Building, 148m
+2.  ABSA Building, 132m
+3.  Telkom Tower South, 119m
+4.  National Treasury Building, 118m
+5.  Telkom Tower North, 116m
+6.  Civitas Building, 113m
+7.  Agricultural Union Centre, 110m
+8.  Poytons Building, 110m
+9.  Saambou Bank Building, 102m
+10. Kruger Park, 100m
+11. African Eagle Life Centre, 95m
+12. Telkom Tower East, 77m
+
+******************** DETAILS ********************
+
+*** Pretoria ***
+Country: South Africa
+Region: Africa
+12 towers: Reserve Bank Building, ABSA Building, Telkom Tower South, National Treasury Building, Telkom Tower North, Civitas Building, Agricultural Union Centre, Poytons Building, Saambou Bank Building, Kruger Park, African Eagle Life Centre, Telkom Tower East
+Tiers: I: 4, II: 8
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Reserve Bank Building ***
+Height: 148
+Floors: 38
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 1
+
+*** ABSA Building ***
+Height: 132
+Floors: 38
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 2
+
+*** Telkom Tower South ***
+Height: 118.85
+Floors: 26
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 3
+
+*** National Treasury Building ***
+Height: 118.25
+Floors: 29
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 4
+
+*** Telkom Tower North ***
+Height: 115.5
+Floors: 26
+Status: Completed
+Functions: office
+Rank: 5
+
+*** Civitas Building ***
+Height: 112.75
+Floors: 31
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 6
+
+*** Agricultural Union Centre ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 7
+
+*** Poytons Building ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 7
+
+*** Saambou Bank Building ***
+Height: 102
+Floors: 30
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 9
+
+*** Kruger Park ***
+Height: 100
+Floors: 33
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 10
+
+*** African Eagle Life Centre ***
+Height: 95
+Floors: 27
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 11
+
+*** Telkom Tower East ***
+Height: 77
+Floors: 18
+Status: Completed
+Functions: office
+Rank: 12

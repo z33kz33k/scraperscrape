@@ -1,0 +1,29 @@
+*** Pearl City (Oahu) (4) ***
+1. Century Park Plaza Tower A, 116m
+2. Century Park Plaza Tower B, 116m
+
+******************** DETAILS ********************
+
+*** Pearl City (Oahu) ***
+Country: United States
+Region: North America
+2 towers: Century Park Plaza Tower A, Century Park Plaza Tower B
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Century Park Plaza Tower A ***
+Height: 116
+Floors: 43
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 1
+
+*** Century Park Plaza Tower B ***
+Height: 116
+Floors: 43
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 1

@@ -1,0 +1,257 @@
+*** Columbus (50) ***
+1.  Rhodes State Office Tower, 190m
+2.  Leveque Tower, 169m
+3.  William Green Building, 162m
+4.  Huntington Center, 156m
+5.  Vern Riffe Center for Govermnment and the Arts, 153m
+6.  One Nationwide Plaza, 148m
+7.  Franklin County Courthouse, 141m
+8.  AEP Building, 139m
+9.  Borden Building, 134m
+10. Three Nationwide Plaza, 124m
+11. One Columbus Center, 112m
+12. Columbus Center, 109m
+13. Capitol Square, 107m
+14. Continental Center, 106m
+15. PNC Bank Building, 97m
+16. Miranova Condominiums, 96m
+17. Fifth Third Center, 92m
+18. Franklin County Municipal Court, 88m
+19. Motorists Mutual Building, 87m
+20. Midland Building, 85m
+21. The Condominiums at North Bank Park, 81m
+22. Lincoln Tower, 79m
+23. Morrill Tower, 79m
+24. Key Bank Building, 77m
+25. Renaissance Columbus Downtown Hotel, 76m
+26. Sheraton Columbus Hotel at Capitol Square, 76m
+
+******************** DETAILS ********************
+
+*** Columbus ***
+Country: United States
+Region: North America
+26 towers: Rhodes State Office Tower, Leveque Tower, William Green Building, Huntington Center, Vern Riffe Center for Govermnment and the Arts, One Nationwide Plaza, Franklin County Courthouse, AEP Building, Borden Building, Three Nationwide Plaza, One Columbus Center, Columbus Center, Capitol Square, Continental Center, PNC Bank Building, Miranova Condominiums, Fifth Third Center, Franklin County Municipal Court, Motorists Mutual Building, Midland Building, The Condominiums at North Bank Park, Lincoln Tower, Morrill Tower, Key Bank Building, Renaissance Columbus Downtown Hotel, Sheraton Columbus Hotel at Capitol Square
+Tiers: I: 12, II: 9, III: 5
+Rating: 50
+Scraped on: 2019-Jan-21 23:13:19
+
+*** Rhodes State Office Tower ***
+Height: 190.2
+Floors: 41
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 1
+
+*** Leveque Tower ***
+Height: 169.3
+Floors: 47
+Status: Completed
+Started: 1924
+Completed: 1927
+Functions: office
+Rank: 2
+
+*** William Green Building ***
+Height: 161.55
+Floors: 33
+Status: Completed
+Started: 1986
+Completed: 1990
+Functions: office
+Rank: 3
+
+*** Huntington Center ***
+Height: 156.06
+Floors: 37
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 4
+
+*** Vern Riffe Center for Govermnment and the Arts ***
+Height: 153.47
+Floors: 33
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 5
+
+*** One Nationwide Plaza ***
+Height: 147.8
+Floors: 40
+Status: Completed
+Started: 1974
+Completed: 1978
+Functions: office
+Rank: 6
+
+*** Franklin County Courthouse ***
+Height: 141.4
+Floors: 27
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: government
+Rank: 7
+
+*** AEP Building ***
+Height: 139
+Floors: 31
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 8
+
+*** Borden Building ***
+Height: 133.5
+Floors: 34
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 9
+
+*** Three Nationwide Plaza ***
+Height: 124.36
+Floors: 26
+Status: Completed
+Started: 1987
+Completed: 1988
+Functions: office
+Rank: 10
+
+*** One Columbus Center ***
+Height: 111.6
+Floors: 26
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 11
+
+*** Columbus Center ***
+Height: 108.8
+Floors: 25
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 12
+
+*** Capitol Square ***
+Height: 106.7
+Floors: 26
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 13
+
+*** Continental Center ***
+Height: 106.1
+Floors: 26
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 14
+
+*** PNC Bank Building ***
+Height: 96.6
+Floors: 24
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 15
+
+*** Miranova Condominiums ***
+Height: 95.71
+Floors: 26
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 16
+
+*** Fifth Third Center ***
+Height: 92.05
+Floors: 21
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 17
+
+*** Franklin County Municipal Court ***
+Height: 87.75
+Floors: 19
+Status: Completed
+Completed: 1979
+Functions: government
+Rank: 18
+
+*** Motorists Mutual Building ***
+Height: 87.17
+Floors: 21
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 19
+
+*** Midland Building ***
+Height: 85.35
+Floors: 21
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 20
+
+*** The Condominiums at North Bank Park ***
+Height: 81.38
+Floors: 20
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: residential
+Rank: 21
+
+*** Lincoln Tower ***
+Height: 79.25
+Floors: 24
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: residential
+Rank: 22
+
+*** Morrill Tower ***
+Height: 79.25
+Floors: 24
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: residential
+Rank: 22
+
+*** Key Bank Building ***
+Height: 77
+Floors: 21
+Status: Completed
+Completed: 1963
+Functions: office
+Rank: 24
+
+*** Renaissance Columbus Downtown Hotel ***
+Height: 76.2
+Floors: 22
+Status: Completed
+Completed: 1961
+Functions: hotel
+Rank: 25
+
+*** Sheraton Columbus Hotel at Capitol Square ***
+Height: 75.8
+Floors: 21
+Status: Completed
+Completed: 1984
+Functions: hotel
+Rank: 26

@@ -1,0 +1,21 @@
+*** Offenbach (2) ***
+1. City Tower, 120m
+
+******************** DETAILS ********************
+
+*** Offenbach ***
+Country: Germany
+Region: Europe
+1 tower: City Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** City Tower ***
+Height: 120
+Floors: 32
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 1

@@ -1,0 +1,21 @@
+*** Hoogvliet (1) ***
+1. Oosterbaken, 99m
+
+******************** DETAILS ********************
+
+*** Hoogvliet ***
+Country: Netherlands
+Region: Europe
+1 tower: Oosterbaken
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Oosterbaken ***
+Height: 99
+Floors: 32
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 1

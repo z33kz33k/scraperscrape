@@ -1,0 +1,72 @@
+*** Poland (111) ***
+1. Warsaw, 88
+2. Wroclaw, 6
+3. Gdansk, 6
+4. Katowice, 4
+5. Gdynia, 3
+6. Poznan, 3
+7. Szczecin, 1
+
+******************** DETAILS ********************
+
+*** Poland ***
+Region: Europe
+7 cities: Warsaw, Wroclaw, Gdansk, Katowice, Gdynia, Poznan, Szczecin
+Tiers: I: 21, II: 14, III: 9, IV: 3, V: 1
+Rating: 111 (22.5% uncompleted)
+
+*** Warsaw ***
+Country: Poland
+Region: Europe
+35 towers: Varso Tower, Palace of Culture and Science, Warsaw Spire, Warsaw Unit, Skyliner, Złota 44, Warsaw Trade Tower, Cosmopolitan Twarda 2/4, InterContinental Warszawa, Rondo 1, Q22 Tower, Warsaw Financial Center, Mennica Legacy Tower, Centrum LIM, Oxford Tower, Intraco I, The Warsaw HUB Office Tower 1, The Warsaw HUB Office Tower 2, TP S.A. Tower, ORCO Tower, Lucka City, Millennium Plaza, Novotel Warsawa Centrum, Skylight, PZU Tower, Blue Tower, Babka Tower, Prime Corporate Center, Hilton Warsaw Hotel and Convention Centre, Westin Warsaw, JM Tower, Varso 2, Alpha, The Warsaw HUB Hotel Tower, Varso 1
+Tiers: I: 12, II: 12, III: 8, IV: 2, V: 1
+Rating: 88 (28.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wroclaw ***
+Country: Poland
+Region: Europe
+1 tower: Sky Tower B2
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Gdansk ***
+Country: Poland
+Region: Europe
+3 towers: Olivia Star, Centrum Biurowe Neptun, Prorem Tower
+Tiers: I: 2, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Katowice ***
+Country: Poland
+Region: Europe
+3 towers: Altus, Stalexport I, Stalexport II
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gdynia ***
+Country: Poland
+Region: Europe
+2 towers: Sea Towers 1, Sea Towers 2
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Poznan ***
+Country: Poland
+Region: Europe
+3 towers: Andersia Tower, Poznań Financial Centre, Collegium Altum
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Szczecin ***
+Country: Poland
+Region: Europe
+1 tower: PAZIM Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

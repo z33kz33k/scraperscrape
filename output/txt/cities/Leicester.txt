@@ -1,0 +1,35 @@
+*** Leicester (3) ***
+1. Cardinal Telephone Exchange, 84m
+2. St Georges Central, 82m
+3. St Georges Tower, 82m
+
+******************** DETAILS ********************
+
+*** Leicester ***
+Country: United Kingdom
+Region: Europe
+3 towers: Cardinal Telephone Exchange, St Georges Central, St Georges Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cardinal Telephone Exchange ***
+Height: 84
+Floors: 17
+Status: Completed
+Functions: office
+Rank: 1
+
+*** St Georges Central ***
+Height: 81.99
+Floors: 22
+Status: Completed
+Functions: hotel / office / residential
+Rank: 2
+
+*** St Georges Tower ***
+Height: 81.99
+Floors: 22
+Status: Completed
+Functions: office
+Rank: 2

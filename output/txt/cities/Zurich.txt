@@ -1,0 +1,59 @@
+*** Zurich (6) ***
+1. Prime Tower, 126m
+2. Hardau Hochhaus I, 92m
+3. Sunrise Tower, 90m
+4. Swissotel Zurich, 85m
+5. Mobino Tower, 81m
+
+******************** DETAILS ********************
+
+*** Zurich ***
+Country: Switzerland
+Region: Europe
+5 towers: Prime Tower, Hardau Hochhaus I, Sunrise Tower, Swissotel Zurich, Mobino Tower
+Tiers: I: 4, II: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Prime Tower ***
+Height: 125.58
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 1
+
+*** Hardau Hochhaus I ***
+Height: 91.9
+Floors: 33
+Status: Completed
+Started: 1976
+Completed: 1978
+Rank: 2
+
+*** Sunrise Tower ***
+Height: 90
+Floors: 26
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: office
+Rank: 3
+
+*** Swissotel Zurich ***
+Height: 85
+Floors: 32
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 4
+
+*** Mobino Tower ***
+Height: 81
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 5

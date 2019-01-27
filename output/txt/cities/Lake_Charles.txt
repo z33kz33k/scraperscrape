@@ -1,0 +1,40 @@
+*** Lake Charles (3) ***
+1. L`Auberge Du Lac Hotel & Casino, 94m
+2. Capital One Bank Tower, 91m
+3. Golden Nugget Lake Charles, 77m
+
+******************** DETAILS ********************
+
+*** Lake Charles ***
+Country: United States
+Region: North America
+3 towers: L`Auberge Du Lac Hotel & Casino, Capital One Bank Tower, Golden Nugget Lake Charles
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** L`Auberge Du Lac Hotel & Casino ***
+Height: 93.87
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: hotel / casino
+Rank: 1
+
+*** Capital One Bank Tower ***
+Height: 91.4
+Floors: 22
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 2
+
+*** Golden Nugget Lake Charles ***
+Height: 77.4
+Floors: 20
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel / casino
+Rank: 3

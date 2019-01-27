@@ -1,0 +1,20 @@
+*** Inazawa (4) ***
+1. Solae Elevator Testing Facility, 173m
+
+******************** DETAILS ********************
+
+*** Inazawa ***
+Country: Japan
+Region: Asia
+1 tower: Solae Elevator Testing Facility
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Solae Elevator Testing Facility ***
+Height: 173
+Floors: 40
+Status: Completed
+Completed: 2007
+Functions: industrial
+Rank: 1

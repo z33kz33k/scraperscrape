@@ -1,0 +1,20 @@
+*** Dunwoody (2) ***
+1. Three Ravinia Drive, 135m
+
+******************** DETAILS ********************
+
+*** Dunwoody ***
+Country: United States
+Region: North America
+1 tower: Three Ravinia Drive
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Three Ravinia Drive ***
+Height: 135.3
+Floors: 33
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 1

@@ -1,0 +1,29 @@
+*** Beer Sheba (3) ***
+1. Rambam Square 2, 112m
+2. Rambam Square 1, 100m
+
+******************** DETAILS ********************
+
+*** Beer Sheba ***
+Country: Israel
+Region: Middle East
+2 towers: Rambam Square 2, Rambam Square 1
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Rambam Square 2 ***
+Height: 112
+Floors: 32
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 1
+
+*** Rambam Square 1 ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 2

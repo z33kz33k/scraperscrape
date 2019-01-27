@@ -1,0 +1,18 @@
+*** Bahrain (85) ***
+1. Manama, 85
+
+******************** DETAILS ********************
+
+*** Bahrain ***
+Region: Middle East
+1 city: Manama
+Tiers: I: 3, II: 3, III: 10, IV: 6
+Rating: 85 (18.8% uncompleted)
+
+*** Manama ***
+Country: Bahrain
+Region: Middle East
+22 towers: Four Seasons Hotel, Dual Towers 1, Dual Towers 2, Bahrain World Trade Center 1, Bahrain World Trade Center 2, Villamar Tower A, Villamar Tower C, United Tower, Era Tower, Gold Pearl Tower, Silver Pearl Tower, Almoayyed Towers, The Breaker, Orchid Plaza, Black Pearl Tower, Diplomat Commercial Office Tower, Dream Tower I, Dream Tower II, Villamar Tower B, National Bank of Bahrain, Al Zamil Tower, Future Bank Headquarters
+Tiers: I: 3, II: 3, III: 10, IV: 6
+Rating: 85 (18.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

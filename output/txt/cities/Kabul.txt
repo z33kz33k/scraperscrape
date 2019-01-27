@@ -1,0 +1,19 @@
+*** Kabul (1) ***
+1. Kabul Tower, 87m
+
+******************** DETAILS ********************
+
+*** Kabul ***
+Country: Afghanistan
+Region: Asia
+1 tower: Kabul Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kabul Tower ***
+Height: 87
+Floors: 18
+Status: Completed
+Functions: office
+Rank: 1

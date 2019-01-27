@@ -1,0 +1,18 @@
+*** Togo (1) ***
+1. Lome, 1
+
+******************** DETAILS ********************
+
+*** Togo ***
+Region: Africa
+1 city: Lome
+Tiers: I: 1
+Rating: 1
+
+*** Lome ***
+Country: Togo
+Region: Africa
+1 tower: 2 Fevrier Sofitel Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

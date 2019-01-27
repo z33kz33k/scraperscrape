@@ -1,0 +1,20 @@
+*** Huangshan (1) ***
+1. Huangshan Mountain Village 6, 82m
+
+******************** DETAILS ********************
+
+*** Huangshan ***
+Country: China
+Region: Asia
+1 tower: Huangshan Mountain Village 6
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Huangshan Mountain Village 6 ***
+Height: 81.6
+Floors: 22
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 1

@@ -1,0 +1,39 @@
+*** Athens (3) ***
+1. Athens Tower 1, 103m
+2. Apollo Tower, 80m
+3. Atrina Center Tower, 80m
+
+******************** DETAILS ********************
+
+*** Athens ***
+Country: Greece
+Region: Europe
+3 towers: Athens Tower 1, Apollo Tower, Atrina Center Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Athens Tower 1 ***
+Height: 103
+Floors: 28
+Status: Completed
+Started: 1968
+Completed: 1971
+Functions: office
+Rank: 1
+
+*** Apollo Tower ***
+Height: 80
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 2
+
+*** Atrina Center Tower ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 3

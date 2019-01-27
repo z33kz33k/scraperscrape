@@ -1,0 +1,21 @@
+*** Acapulco (2) ***
+1. Oceanic 2000, 123m
+
+******************** DETAILS ********************
+
+*** Acapulco ***
+Country: Mexico
+Region: North America
+1 tower: Oceanic 2000
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Oceanic 2000 ***
+Height: 123
+Floors: 33
+Status: Completed
+Started: 1992
+Completed: 1994
+Functions: residential / hotel
+Rank: 1

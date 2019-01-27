@@ -1,0 +1,20 @@
+*** Bauru (2) ***
+1. Burj Bauru, 127m
+
+******************** DETAILS ********************
+
+*** Bauru ***
+Country: Brazil
+Region: South America
+1 tower: Burj Bauru
+Tiers: II: 1
+Rating: 2 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Burj Bauru ***
+Height: 126.6
+Floors: 32
+Status: Under Construction
+Started: 2008
+Functions: residential
+Rank: 1

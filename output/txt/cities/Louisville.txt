@@ -1,0 +1,123 @@
+*** Louisville (23) ***
+1.  400 West Market, 167m
+2.  PNC Tower, 156m
+3.  PNC Plaza, 128m
+4.  Humana Building, 127m
+5.  Omni Louisville Hotel, 113m
+6.  B & W Tower, 111m
+7.  Meidinger Tower, 111m
+8.  Waterfront Plaza I, 104m
+9.  Waterfront Plaza II, 104m
+10. E.ON U.S. Center, 100m
+11. Galt House, 99m
+12. BB&T Building, 95m
+
+******************** DETAILS ********************
+
+*** Louisville ***
+Country: United States
+Region: North America
+12 towers: 400 West Market, PNC Tower, PNC Plaza, Humana Building, Omni Louisville Hotel, B & W Tower, Meidinger Tower, Waterfront Plaza I, Waterfront Plaza II, E.ON U.S. Center, Galt House, BB&T Building
+Tiers: I: 5, II: 5, III: 2
+Rating: 23
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 400 West Market ***
+Height: 167.34
+Floors: 35
+Status: Completed
+Started: 1991
+Completed: 1992
+Functions: office
+Rank: 1
+
+*** PNC Tower ***
+Height: 156.06
+Floors: 40
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: office
+Rank: 2
+
+*** PNC Plaza ***
+Height: 128.02
+Floors: 30
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 3
+
+*** Humana Building ***
+Height: 127.1
+Floors: 27
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 4
+
+*** Omni Louisville Hotel ***
+Height: 112.78
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential / hotel
+Rank: 5
+
+*** B & W Tower ***
+Height: 110.64
+Floors: 26
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 6
+
+*** Meidinger Tower ***
+Height: 110.64
+Floors: 26
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 6
+
+*** Waterfront Plaza I ***
+Height: 103.63
+Floors: 25
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 8
+
+*** Waterfront Plaza II ***
+Height: 103.63
+Floors: 25
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 8
+
+*** E.ON U.S. Center ***
+Height: 100
+Floors: 23
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 10
+
+*** Galt House ***
+Height: 99.06
+Floors: 25
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 11
+
+*** BB&T Building ***
+Height: 95
+Floors: 24
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 12

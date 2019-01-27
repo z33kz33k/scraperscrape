@@ -1,0 +1,29 @@
+*** Hoofddorp (2) ***
+1. Pharos, 80m
+2. Zuidtoren, 75m
+
+******************** DETAILS ********************
+
+*** Hoofddorp ***
+Country: Netherlands
+Region: Europe
+2 towers: Pharos, Zuidtoren
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pharos ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 1
+
+*** Zuidtoren ***
+Height: 75
+Floors: 19
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 2

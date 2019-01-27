@@ -1,0 +1,20 @@
+*** Alexandria (VA) (1) ***
+1. Hilton Alexandria Mark Center, 103m
+
+******************** DETAILS ********************
+
+*** Alexandria (VA) ***
+Country: United States
+Region: North America
+1 tower: Hilton Alexandria Mark Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hilton Alexandria Mark Center ***
+Height: 103.02
+Floors: 30
+Status: Completed
+Completed: 1985
+Functions: hotel
+Rank: 1

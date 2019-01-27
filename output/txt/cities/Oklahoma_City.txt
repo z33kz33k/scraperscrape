@@ -1,0 +1,76 @@
+*** Oklahoma City (22) ***
+1. Devon Energy Center, 257m
+2. Chase Tower, 152m
+3. First National Center, 150m
+4. City Place, 134m
+5. Oklahoma Tower, 132m
+6. BOK Park Plaza, 132m
+7. Sandridge Center, 120m
+
+******************** DETAILS ********************
+
+*** Oklahoma City ***
+Country: United States
+Region: North America
+7 towers: Devon Energy Center, Chase Tower, First National Center, City Place, Oklahoma Tower, BOK Park Plaza, Sandridge Center
+Tiers: II: 4, III: 2, IV: 1
+Rating: 22
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Devon Energy Center ***
+Height: 257.23
+Floors: 52
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 1
+
+*** Chase Tower ***
+Height: 152.4
+Floors: 36
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 2
+
+*** First National Center ***
+Height: 150.27
+Floors: 33
+Status: Completed
+Completed: 1931
+Functions: office
+Rank: 3
+
+*** City Place ***
+Height: 134.1
+Floors: 33
+Status: Completed
+Completed: 1931
+Functions: office
+Rank: 4
+
+*** Oklahoma Tower ***
+Height: 132.3
+Floors: 31
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 5
+
+*** BOK Park Plaza ***
+Height: 132
+Floors: 27
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: office
+Rank: 6
+
+*** Sandridge Center ***
+Height: 119.8
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 7

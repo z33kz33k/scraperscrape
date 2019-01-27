@@ -1,0 +1,50 @@
+*** Helsinki (6) ***
+1. Majakka, 132m
+2. Redi Kalasatama 2, 121m
+3. Cirrus, 86m
+4. Maamerkki, 82m
+
+******************** DETAILS ********************
+
+*** Helsinki ***
+Country: Finland
+Region: Europe
+4 towers: Majakka, Redi Kalasatama 2, Cirrus, Maamerkki
+Tiers: I: 2, II: 2
+Rating: 6 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Majakka ***
+Height: 131.7
+Floors: 35
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Redi Kalasatama 2 ***
+Height: 121
+Floors: 32
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Cirrus ***
+Height: 86
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 3
+
+*** Maamerkki ***
+Height: 82
+Floors: 19
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 4

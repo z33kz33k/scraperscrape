@@ -1,0 +1,50 @@
+*** Baise (5) ***
+1. Baise Chuanhui International Hotel, 123m
+2. Baise Global Financial Center, 102m
+3. Baise Moon Lake Hotel, 102m
+4. Baise Hengsheng Hotel , 100m
+
+******************** DETAILS ********************
+
+*** Baise ***
+Country: China
+Region: Asia
+4 towers: Baise Chuanhui International Hotel, Baise Global Financial Center, Baise Moon Lake Hotel, Baise Hengsheng Hotel 
+Tiers: I: 3, II: 1
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Baise Chuanhui International Hotel ***
+Height: 123
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: hotel
+Rank: 1
+
+*** Baise Global Financial Center ***
+Height: 102.5
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 2
+
+*** Baise Moon Lake Hotel ***
+Height: 102.5
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: hotel
+Rank: 2
+
+*** Baise Hengsheng Hotel  ***
+Height: 100
+Floors: 18
+Status: Completed
+Completed: 2008
+Functions: hotel
+Rank: 4

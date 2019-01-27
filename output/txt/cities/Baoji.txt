@@ -1,0 +1,20 @@
+*** Baoji (4) ***
+1. Baoji IFC, 203m
+
+******************** DETAILS ********************
+
+*** Baoji ***
+Country: China
+Region: Asia
+1 tower: Baoji IFC
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Baoji IFC ***
+Height: 203.2
+Floors: 41
+Status: Completed
+Completed: 2017
+Functions: office / hotel
+Rank: 1

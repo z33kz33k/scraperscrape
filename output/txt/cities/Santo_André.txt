@@ -1,0 +1,29 @@
+*** Santo André (2) ***
+1. Century Plaza Business, 103m
+2. Jardim Park Business, 100m
+
+******************** DETAILS ********************
+
+*** Santo André ***
+Country: Brazil
+Region: South America
+2 towers: Century Plaza Business, Jardim Park Business
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Century Plaza Business ***
+Height: 103.3
+Floors: 30
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 1
+
+*** Jardim Park Business ***
+Height: 100
+Floors: 33
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 2

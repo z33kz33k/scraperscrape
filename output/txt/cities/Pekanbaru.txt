@@ -1,0 +1,31 @@
+*** Pekanbaru (2) ***
+1. The Peak Hotel & Apartment at Pekanbaru, 90m
+2. Menara Dang Merdu Bank Riau Kepri, 83m
+
+******************** DETAILS ********************
+
+*** Pekanbaru ***
+Country: Indonesia
+Region: Asia
+2 towers: The Peak Hotel & Apartment at Pekanbaru, Menara Dang Merdu Bank Riau Kepri
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Peak Hotel & Apartment at Pekanbaru ***
+Height: 90
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: hotel / residential
+Rank: 1
+
+*** Menara Dang Merdu Bank Riau Kepri ***
+Height: 83
+Floors: 16
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 2

@@ -1,0 +1,413 @@
+*** Xiamen (178) ***
+1.  Xiamen Cross Strait Financial Centre, 344m
+2.  Xiamen Shimao Straits Tower B, 295m
+3.  Xinglin Bay Business Tower, 262m
+4.  Dijing Park Tower 1, 258m
+5.  Dijing Park Tower 2, 258m
+6.  Dijing Park Tower 3, 258m
+7.  Dijing Park Tower 4, 258m
+8.  Dijing Park Tower 5, 258m
+9.  Xiamen Shimao Straits Tower A, 250m
+10. Strait Pearl Plaza, 235m
+11. C&D International Tower, 219m
+12. Lucheng Plaza Tower 1, 217m
+13. Xiamen Financial Centre, 213m
+14. Cross Strait Exchange Center Phase 2 Tower A, 205m
+15. Cross Strait Exchange Center Phase 2 Tower B, 205m
+16. AVIC Plaza, 202m
+17. Zijin Mining Plaza, 202m
+18. Kempinski Hotel Xiamen, 198m
+19. Fortune Center, 192m
+20. China Construction Bank, 191m
+21. Zhongmin Building, 178m
+22. The International Bank Plaza, 174m
+23. Airport Hotel, 169m
+24. International Trade Building, 168m
+25. Minnan Hotel, 162m
+26. Silver Palace, 158m
+27. SEC Center Office Building, 157m
+28. Haixi Jingu Plaza Tower 3, 152m
+29. Haixi Jingu Plaza Tower 4, 152m
+30. More Luxurious Mansion 1, 151m
+31. More Luxurious Mansion 2, 151m
+32. More Luxurious Mansion 3, 151m
+33. Hyde Park C2, 150m
+34. Hyde Park C4, 150m
+35. Port Building, 150m
+36. Guanyin Mountain Business Center, Building 11, 149m
+37. Heavens A, 148m
+38. International Plaza, 145m
+39. Haixi Jingu Plaza Tower 1, 143m
+40. Xiamen World Overseas Chinese International Conference Center, 113m
+41. Xiamen Suiwa Tower, 100m
+42. Haixi Jingu Plaza Tower 2, 75m
+
+******************** DETAILS ********************
+
+*** Xiamen ***
+Country: China
+Region: Asia
+42 towers: Xiamen Cross Strait Financial Centre, Xiamen Shimao Straits Tower B, Xinglin Bay Business Tower, Dijing Park Tower 1, Dijing Park Tower 2, Dijing Park Tower 3, Dijing Park Tower 4, Dijing Park Tower 5, Xiamen Shimao Straits Tower A, Strait Pearl Plaza, C&D International Tower, Lucheng Plaza Tower 1, Xiamen Financial Centre, Cross Strait Exchange Center Phase 2 Tower A, Cross Strait Exchange Center Phase 2 Tower B, AVIC Plaza, Zijin Mining Plaza, Kempinski Hotel Xiamen, Fortune Center, China Construction Bank, Zhongmin Building, The International Bank Plaza, Airport Hotel, International Trade Building, Minnan Hotel, Silver Palace, SEC Center Office Building, Haixi Jingu Plaza Tower 3, Haixi Jingu Plaza Tower 4, More Luxurious Mansion 1, More Luxurious Mansion 2, More Luxurious Mansion 3, Hyde Park C2, Hyde Park C4, Port Building, Guanyin Mountain Business Center, Building 11, Heavens A, International Plaza, Haixi Jingu Plaza Tower 1, Xiamen World Overseas Chinese International Conference Center, Xiamen Suiwa Tower, Haixi Jingu Plaza Tower 2
+Tiers: I: 2, II: 6, III: 21, IV: 12, V: 1
+Rating: 178 (28.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Xiamen Cross Strait Financial Centre ***
+Height: 343.88
+Floors: 68
+Status: Architecturally Topped Out
+Started: 1996
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** Xiamen Shimao Straits Tower B ***
+Height: 295.3
+Floors: 67
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 2
+
+*** Xinglin Bay Business Tower ***
+Height: 261.9
+Floors: 54
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 3
+
+*** Dijing Park Tower 1 ***
+Height: 258
+Floors: 62
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: residential
+Rank: 4
+
+*** Dijing Park Tower 2 ***
+Height: 258
+Floors: 62
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: residential
+Rank: 4
+
+*** Dijing Park Tower 3 ***
+Height: 258
+Floors: 62
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: residential
+Rank: 4
+
+*** Dijing Park Tower 4 ***
+Height: 258
+Floors: 62
+Status: Under Construction
+Started: 2013
+Functions: residential
+Rank: 4
+
+*** Dijing Park Tower 5 ***
+Height: 258
+Floors: 62
+Status: Under Construction
+Started: 2013
+Functions: residential
+Rank: 4
+
+*** Xiamen Shimao Straits Tower A ***
+Height: 249.9
+Floors: 59
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential / hotel / office
+Rank: 9
+
+*** Strait Pearl Plaza ***
+Height: 234.6
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 10
+
+*** C&D International Tower ***
+Height: 219.4
+Floors: 49
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 11
+
+*** Lucheng Plaza Tower 1 ***
+Height: 217
+Floors: 53
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 12
+
+*** Xiamen Financial Centre ***
+Height: 212.65
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 13
+
+*** Cross Strait Exchange Center Phase 2 Tower A ***
+Height: 204.7
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 14
+
+*** Cross Strait Exchange Center Phase 2 Tower B ***
+Height: 204.7
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 14
+
+*** AVIC Plaza ***
+Height: 202
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 16
+
+*** Zijin Mining Plaza ***
+Height: 202
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 16
+
+*** Kempinski Hotel Xiamen ***
+Height: 198
+Floors: 49
+Status: Completed
+Completed: 2011
+Functions: hotel
+Rank: 18
+
+*** Fortune Center ***
+Height: 192
+Floors: 43
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 19
+
+*** China Construction Bank ***
+Height: 190.6
+Floors: 43
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 20
+
+*** Zhongmin Building ***
+Height: 178
+Floors: 44
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: office
+Rank: 21
+
+*** The International Bank Plaza ***
+Height: 174
+Floors: 32
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 22
+
+*** Airport Hotel ***
+Height: 169.3
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: hotel
+Rank: 23
+
+*** International Trade Building ***
+Height: 168
+Floors: 45
+Status: Completed
+Started: 1992
+Completed: 1995
+Functions: office
+Rank: 24
+
+*** Minnan Hotel ***
+Height: 162
+Floors: 38
+Status: Completed
+Started: 1991
+Completed: 1995
+Functions: hotel
+Rank: 25
+
+*** Silver Palace ***
+Height: 158
+Floors: 38
+Status: Completed
+Completed: 2008
+Functions: residential / office
+Rank: 26
+
+*** SEC Center Office Building ***
+Height: 156.8
+Floors: 36
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 27
+
+*** Haixi Jingu Plaza Tower 3 ***
+Height: 152.4
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 28
+
+*** Haixi Jingu Plaza Tower 4 ***
+Height: 152.4
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 28
+
+*** More Luxurious Mansion 1 ***
+Height: 151.3
+Floors: 46
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 30
+
+*** More Luxurious Mansion 2 ***
+Height: 151.3
+Floors: 46
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 30
+
+*** More Luxurious Mansion 3 ***
+Height: 151.3
+Floors: 46
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 30
+
+*** Hyde Park C2 ***
+Height: 150
+Floors: 47
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 33
+
+*** Hyde Park C4 ***
+Height: 150
+Floors: 47
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 33
+
+*** Port Building ***
+Height: 149.7
+Floors: 33
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 35
+
+*** Guanyin Mountain Business Center, Building 11 ***
+Height: 149.4
+Floors: 35
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 36
+
+*** Heavens A ***
+Height: 148.5
+Floors: 38
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 37
+
+*** International Plaza ***
+Height: 144.7
+Floors: 44
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 38
+
+*** Haixi Jingu Plaza Tower 1 ***
+Height: 143
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 39
+
+*** Xiamen World Overseas Chinese International Conference Center ***
+Height: 112.8
+Floors: 23
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 40
+
+*** Xiamen Suiwa Tower ***
+Height: 99.7
+Floors: 22
+Status: Architecturally Topped Out
+Started: 2010
+Functions: office
+Rank: 41
+
+*** Haixi Jingu Plaza Tower 2 ***
+Height: 75
+Floors: 15
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 42

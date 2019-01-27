@@ -1,0 +1,80 @@
+*** Krasnogorsk (17) ***
+1. MFK Crocus City, 217m
+2. ART 1, 139m
+3. ART 2, 139m
+4. ART 3, 139m
+5. ART 5, 139m
+6. ART 4, 132m
+7. ART 6, 88m
+
+******************** DETAILS ********************
+
+*** Krasnogorsk ***
+Country: Russia
+Region: Europe
+7 towers: MFK Crocus City, ART 1, ART 2, ART 3, ART 5, ART 4, ART 6
+Tiers: I: 1, II: 5, IV: 1
+Rating: 17 (35.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** MFK Crocus City ***
+Height: 216.8
+Floors: 51
+Status: Under Construction
+Started: 2014
+Functions: office
+Rank: 1
+
+*** ART 1 ***
+Height: 138.6
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 2
+
+*** ART 2 ***
+Height: 138.6
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 2
+
+*** ART 3 ***
+Height: 138.6
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 2
+
+*** ART 5 ***
+Height: 138.6
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 2
+
+*** ART 4 ***
+Height: 132.5
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 6
+
+*** ART 6 ***
+Height: 88.5
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 7

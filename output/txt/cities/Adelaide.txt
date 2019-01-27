@@ -1,0 +1,120 @@
+*** Adelaide (14) ***
+1.  Frome Central Tower One, 134m
+2.  Realm Adelaide, 132m
+3.  Westpac House, 132m
+4.  Telstra House, 104m
+5.  Kodo, 103m
+6.  Grenfell Centre, 103m
+7.  ANZ House, 99m
+8.  115 King William Street, 93m
+9.  Australis House, 91m
+10. Vue on King William, 89m
+11. AMP Building, 75m
+
+******************** DETAILS ********************
+
+*** Adelaide ***
+Country: Australia
+Region: Oceania
+11 towers: Frome Central Tower One, Realm Adelaide, Westpac House, Telstra House, Kodo, Grenfell Centre, ANZ House, 115 King William Street, Australis House, Vue on King William, AMP Building
+Tiers: I: 8, II: 3
+Rating: 14 (35.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Frome Central Tower One ***
+Height: 134
+Floors: 36
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / hotel
+Rank: 1
+
+*** Realm Adelaide ***
+Height: 132
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 2
+
+*** Westpac House ***
+Height: 131.6
+Floors: 31
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 3
+
+*** Telstra House ***
+Height: 104
+Floors: 24
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: office
+Rank: 4
+
+*** Kodo ***
+Height: 103.2
+Floors: 30
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 5
+
+*** Grenfell Centre ***
+Height: 103
+Floors: 26
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: office
+Rank: 6
+
+*** ANZ House ***
+Height: 99
+Floors: 21
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 7
+
+*** 115 King William Street ***
+Height: 92.8
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: office
+Rank: 8
+
+*** Australis House ***
+Height: 91
+Floors: 22
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 9
+
+*** Vue on King William ***
+Height: 89
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 10
+
+*** AMP Building ***
+Height: 75
+Floors: 19
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 11

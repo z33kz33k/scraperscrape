@@ -1,0 +1,20 @@
+*** Balchik (1) ***
+1. Hotel Dobrudja, 91m
+
+******************** DETAILS ********************
+
+*** Balchik ***
+Country: Bulgaria
+Region: Europe
+1 tower: Hotel Dobrudja
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hotel Dobrudja ***
+Height: 91
+Floors: 19
+Status: Completed
+Completed: 1966
+Functions: hotel
+Rank: 1

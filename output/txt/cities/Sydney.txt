@@ -1,0 +1,2669 @@
+*** Sydney (505) ***
+1.   Crown Sydney Hotel and Resort, 271m
+2.   Circular Quay Tower, 263m
+3.   Chifley Tower, 244m
+4.   Citigroup Centre, 243m
+5.   Deutsche Bank Place, 240m
+6.   Sydney Greenland Centre, 236m
+7.   World Tower, 230m
+8.   MLC Centre, 228m
+9.   Governor Phillip Tower, 227m
+10.  Ernst & Young Tower at Latitude, 222m
+11.  Aurora Place, 219m
+12.  International Towers Sydney Tower 1, 217m
+13.  Quay Quarter Tower, 216m
+14.  Suncorp Place, 193m
+15.  ANZ Tower, 191m
+16.  Century Tower, 183m
+17.  Grosvenor Place, 180m
+18.  International Towers Sydney Tower 2, 178m
+19.  Castlereagh Centre, 173m
+20.  Meriton Tower, 170m
+21.  Australia Square Tower, 170m
+22.  Metro Grand Residences, 170m
+23.  International Towers Sydney Tower 3, 169m
+24.  The Peak, 168m
+25.  1 O`Connell Street, 166m
+26.  Westpac Place, 166m
+27.  201 Elizabeth Street, 165m
+28.  Gateway Plaza, 164m
+29.  HSBC Centre, 162m
+30.  1 Denison Street, 159m
+31.  The Cove, 158m
+32.  Hordern Towers, 156m
+33.  The EY Centre, 155m
+34.  Metro Spire Residences, 155m
+35.  Angel Place, 152m
+36.  Sydney Central, 152m
+37.  Lumiere, 152m
+38.  100 Mount Street, 152m
+39.  The Landmark, 152m
+40.  85 Castlereagh Street, 151m
+41.   Eighty-Eight by JQZ Tower 1, 149m
+42.  Colonial State Bank, 148m
+43.  Governor MacQuarie Tower, 145m
+44.  Commsec Tower, 145m
+45.  Horizon Apartments, 144m
+46.  Rhodes Central Tower A, 144m
+47.  Quay West Apartments, 142m
+48.  Swissotel Sydney, 141m
+49.  8 Chifley, 140m
+50.  Quest World Square Apartments, 140m
+51.  Telstra Plaza, 140m
+52.  Elan Apartments, 139m
+53.  60 Martin Place, 139m
+54.  1 Bligh Street, 139m
+55.  Bankers Trust Tower, 138m
+56.  Rialto Tower, 137m
+57.  420 George Street, 136m
+58.  Park Regis City Centre, 136m
+59.  Era, 136m
+60.  Darling North, 136m
+61.  Darling One, 136m
+62.  Victoria Towers, 135m
+63.  York & George, 135m
+64.  Wynyard Place, 134m
+65.  Met Centre, 134m
+66.  St Leonards Square (The Jackson), 133m
+67.  St Martins Tower, 133m
+68.  Sofitel Sydney Darling Harbour, 132m
+69.  Civic Tower, 132m
+70.  British Telecom Building, 132m
+71.  Hilton Sydney, 131m
+72.  Northpoint Tower, 131m
+73.  IAG house, 131m
+74.  Sydney Harbour Marriott Hotel, 130m
+75.  Inmark Tower, 129m
+76.  Aon Center, 128m
+77.  Shangri-La Hotel, 127m
+78.  Bligh Chambers, 127m
+79.  255 George Street, 127m
+80.  KPMG Centre, 127m
+81.  Centrium Tower One, 126m
+82.  Commonwealth Bank of Australia Tower, 126m
+83.  Price Waterhouse Coopers Tower, 126m
+84.  Boomerang Tower, 126m
+85.  177 Pacific Highway, 125m
+86.  Amora Jamison Hotel, 123m
+87.  One30 Hyde Park, 123m
+88.  National Mutual Centre, 123m
+89.  Stockland Centre, 123m
+90.  Castle Residences, 121m
+91.  University of Technology Building, 121m
+92.  Observatory Tower, 121m
+93.  Pavilions, 120m
+94.  1 Martin Place, 120m
+95.  The Hyde, 120m
+96.  Optus Plaza, 120m
+97.  Princeton Apartments, 119m
+98.  175 Liverpool Street, 119m
+99.  The Forum I, 118m
+100. 135 on King, 118m
+101. Macquarie Bank, 118m
+102. Opal Tower, 117m
+103. One Central Park, 117m
+104. Norwich House, 117m
+105. Miramar Apartments, 116m
+106. Polding Centre, 116m
+107. Berry Square, 115m
+108. Fraser Suites, 115m
+109. 33 Alfred Street, 115m
+110. Law Courts Building, 114m
+111. 118 Mount Street, 113m
+112. AWA Building, 112m
+113. Innovation Place, 112m
+114. Four Seasons Hotel, 110m
+115. Yuhu Hotel, 110m
+116. Citadel Tower 1, 110m
+117. Meriton Capitol, 108m
+118. Roden Cutler House, 108m
+119. Defence Plaza, 108m
+120. Museum Towers, 107m
+121. Centrium Tower Two, 107m
+122. Metro View Residences, 107m
+123. One Australia Avenue, 107m
+124. 230-234 Sussex Street, 106m
+125. BNP Paribas Centre, 104m
+126. The Summit, 103m
+127. Connaught Centre, 103m
+128. Westfield Towers, 103m
+129. 161 Sussex Street Redevelopment, 103m
+130. 321 Kent Street, 103m
+131. Regis Towers (Castlereagh), 101m
+132. Royal Exchange Building, 101m
+133. SkyHaus North Tower, 100m
+134. Hotel Intercontinental, 100m
+135. Highgate Apartments, 100m
+136. 1 Oxford Street, 100m
+137. 59 Goulburn Street, 100m
+138. Emirates House, 100m
+139. Town Hall House, 100m
+140. Telstra House, 100m
+141. State Street Centre, 100m
+142. Energy Australia, 99m
+143. Westfield Tower Two, 99m
+144. Telstra Kent Exchange, 99m
+145. Embassy Tower, 98m
+146. St Leonards Square (The William), 98m
+147. 141 Walker Street, 97m
+148. 80 Arthur Street, 97m
+149. Astoria Tower, 97m
+150. Cassia Gardens, 97m
+151. Epica, 96m
+152. Harbour Place, 96m
+153. 68 Pitt Street, 96m
+154. Ovo, 96m
+155. Zenith Apartments, 95m
+156. Regis Apartments (Pitt Tower), 95m
+157. SkyHaus South tower, 95m
+158. Quay Apartments, 95m
+159. City Centre, 95m
+160. Hooker House, 95m
+161. Novell House, 95m
+162. Symantec House, 95m
+163. Air Apartments, 94m
+164. Rhodes Central Tower B, 94m
+165. John Madison tower, 94m
+166. Zenith Tower 1, 94m
+167. Zenith Tower 2, 94m
+168. McKell Building, 94m
+169. Matavai Apartments, 93m
+170. Turanga Apartments, 93m
+171. VSQ North, 93m
+172. Darling Park Tower III, 93m
+173. King and Phillip Residences, 93m
+174. Ryde Garden Building B, 92m
+175. Radisson Hotel and Suites, 92m
+176. Central Square, 92m
+177. Hyde Park Towers, 91m
+178. Ranelagh Apartments, 91m
+179. Standard Chartered House, 91m
+180. Travelex Building, 91m
+181. John Fairfax Building, 91m
+182. Medina Classic, 90m
+183. GM Tower, 90m
+184. Stamford on Kent, 90m
+185. The Mark, 90m
+186. Adina Grand Hotel, 90m
+187. Maestri Towers, 90m
+188. Marina Square Tower A, Wentworth Point, 90m
+189. Meriton Bondi Junction East Tower, 90m
+190. The Ribbon Hotel and Residences, 90m
+191. 100 Pacific Highway, 90m
+192. ING Centre, 90m
+193. Hyde Park Residences, 89m
+194. Commonwealth Bank Building, 89m
+195. Regis Apartments (Campbell Street Tower), 88m
+196. Stamford Residences, 88m
+197. The Georgia, 88m
+198. 519 Kent Street, 88m
+199. Stamford Marque, 88m
+200. ARC by Crown Group, 88m
+201. CML Building, 88m
+202. 20 Martin Place, 88m
+203. 60 Carrington Street, 88m
+204. 112 Talavera Road, Building A, 88m
+205. The Pinnacle Tower B, Liverpool, 87m
+206. Mosaic, 87m
+207. York Apartments, 87m
+208. Skyline, 87m
+209. St Leon, 87m
+210. Arthur Young Building, 87m
+211. The Regency Tower A, 86m
+212. Polaris, 86m
+213. Harbour Court, 85m
+214. Ocean Court , 85m
+215. Mantra on Kent, 85m
+216. The Sebel Residence, 85m
+217. Forum West, 85m
+218. Hyde Park Regency, 85m
+219. Trafalgar Apartments, 85m
+220. 55 Hunter Street, 85m
+221. Taiga, 85m
+222. Latitude on Lavender, 85m
+223. Marriott Hotel, 85m
+224. The Pinnacle, Sydney, 85m
+225. Zen at Wentworth Point, 85m
+226. The Cambridge, 85m
+227. 77 King Street, 85m
+228. Hunter Connection, 85m
+229. Royal and Sun Alliance, 85m
+230. Reserve Bank Building, 85m
+231. 383 Kent Street, 85m
+232. Australia Towers II, 84m
+233. 80 Bathurst Street, 84m
+234. Vista 881, 84m
+235. The Bentleigh, 84m
+236. Belvedere, 84m
+237. St James Centre, 84m
+238. Blues Point Tower Apartments, 83m
+239. Sydney Boulevard Hotel, 83m
+240. Allianz Centre, 83m
+241. Barrack Place, 83m
+242. 5 Martin Place, 83m
+243. Ryde Garden Building A, 82m
+244. Ark, 82m
+245. Burwood Grand Tower B, 81m
+246. Rex House, 81m
+247. Australia Towers I, 81m
+248. Windsor on Kent, 81m
+249. 229 on Elizabeth Street, 81m
+250. Fujitsu, 81m
+251. Powertel Building, 81m
+252. Adina Apartments, 80m
+253. Sirius Wentworth Point, 80m
+254. VQ Harbour Views, 80m
+255. 187 Macquarie Street, 80m
+256. The Chelsea, 80m
+257. Sheraton on the Park, 80m
+258. Waldorf Apartments, 80m
+259. Pitt Telephone Exchange, 80m
+260. AAMI Centre, 80m
+261. Arise, 77m
+262. Pavillions Building 5, 76m
+263. Aura Tower 1, 76m
+264. The Retreat Tower 2, 76m
+265. Atmosphere (Tower 1), 76m
+266. Altura, 75m
+267. Vantage North, 75m
+268. Vantage South, 75m
+269. Holmsdale Tower, 75m
+270. Skyview,  Phoenix Tower, 75m
+271. Skyview, Hydra Tower, 75m
+272. One Twenty Macquarie, 75m
+273. The Pinnacle Tower A, Liverpool, 75m
+274. Novotel Sydney Olympic Park, 75m
+275. Lumley House, 75m
+
+******************** DETAILS ********************
+
+*** Sydney ***
+Country: Australia
+Region: Oceania
+275 towers: Crown Sydney Hotel and Resort, Circular Quay Tower, Chifley Tower, Citigroup Centre, Deutsche Bank Place, Sydney Greenland Centre, World Tower, MLC Centre, Governor Phillip Tower, Ernst & Young Tower at Latitude, Aurora Place, International Towers Sydney Tower 1, Quay Quarter Tower, Suncorp Place, ANZ Tower, Century Tower, Grosvenor Place, International Towers Sydney Tower 2, Castlereagh Centre, Meriton Tower, Australia Square Tower, Metro Grand Residences, International Towers Sydney Tower 3, The Peak, 1 O`Connell Street, Westpac Place, 201 Elizabeth Street, Gateway Plaza, HSBC Centre, 1 Denison Street, The Cove, Hordern Towers, The EY Centre, Metro Spire Residences, Angel Place, Sydney Central, Lumiere, 100 Mount Street, The Landmark, 85 Castlereagh Street,  Eighty-Eight by JQZ Tower 1, Colonial State Bank, Governor MacQuarie Tower, Commsec Tower, Horizon Apartments, Rhodes Central Tower A, Quay West Apartments, Swissotel Sydney, 8 Chifley, Quest World Square Apartments, Telstra Plaza, Elan Apartments, 60 Martin Place, 1 Bligh Street, Bankers Trust Tower, Rialto Tower, 420 George Street, Park Regis City Centre, Era, Darling North, Darling One, Victoria Towers, York & George, Wynyard Place, Met Centre, St Leonards Square (The Jackson), St Martins Tower, Sofitel Sydney Darling Harbour, Civic Tower, British Telecom Building, Hilton Sydney, Northpoint Tower, IAG house, Sydney Harbour Marriott Hotel, Inmark Tower, Aon Center, Shangri-La Hotel, Bligh Chambers, 255 George Street, KPMG Centre, Centrium Tower One, Commonwealth Bank of Australia Tower, Price Waterhouse Coopers Tower, Boomerang Tower, 177 Pacific Highway, Amora Jamison Hotel, One30 Hyde Park, National Mutual Centre, Stockland Centre, Castle Residences, University of Technology Building, Observatory Tower, Pavilions, 1 Martin Place, The Hyde, Optus Plaza, Princeton Apartments, 175 Liverpool Street, The Forum I, 135 on King, Macquarie Bank, Opal Tower, One Central Park, Norwich House, Miramar Apartments, Polding Centre, Berry Square, Fraser Suites, 33 Alfred Street, Law Courts Building, 118 Mount Street, AWA Building, Innovation Place, Four Seasons Hotel, Yuhu Hotel, Citadel Tower 1, Meriton Capitol, Roden Cutler House, Defence Plaza, Museum Towers, Centrium Tower Two, Metro View Residences, One Australia Avenue, 230-234 Sussex Street, BNP Paribas Centre, The Summit, Connaught Centre, Westfield Towers, 161 Sussex Street Redevelopment, 321 Kent Street, Regis Towers (Castlereagh), Royal Exchange Building, SkyHaus North Tower, Hotel Intercontinental, Highgate Apartments, 1 Oxford Street, 59 Goulburn Street, Emirates House, Town Hall House, Telstra House, State Street Centre, Energy Australia, Westfield Tower Two, Telstra Kent Exchange, Embassy Tower, St Leonards Square (The William), 141 Walker Street, 80 Arthur Street, Astoria Tower, Cassia Gardens, Epica, Harbour Place, 68 Pitt Street, Ovo, Zenith Apartments, Regis Apartments (Pitt Tower), SkyHaus South tower, Quay Apartments, City Centre, Hooker House, Novell House, Symantec House, Air Apartments, Rhodes Central Tower B, John Madison tower, Zenith Tower 1, Zenith Tower 2, McKell Building, Matavai Apartments, Turanga Apartments, VSQ North, Darling Park Tower III, King and Phillip Residences, Ryde Garden Building B, Radisson Hotel and Suites, Central Square, Hyde Park Towers, Ranelagh Apartments, Standard Chartered House, Travelex Building, John Fairfax Building, Medina Classic, GM Tower, Stamford on Kent, The Mark, Adina Grand Hotel, Maestri Towers, Marina Square Tower A, Wentworth Point, Meriton Bondi Junction East Tower, The Ribbon Hotel and Residences, 100 Pacific Highway, ING Centre, Hyde Park Residences, Commonwealth Bank Building, Regis Apartments (Campbell Street Tower), Stamford Residences, The Georgia, 519 Kent Street, Stamford Marque, ARC by Crown Group, CML Building, 20 Martin Place, 60 Carrington Street, 112 Talavera Road, Building A, The Pinnacle Tower B, Liverpool, Mosaic, York Apartments, Skyline, St Leon, Arthur Young Building, The Regency Tower A, Polaris, Harbour Court, Ocean Court , Mantra on Kent, The Sebel Residence, Forum West, Hyde Park Regency, Trafalgar Apartments, 55 Hunter Street, Taiga, Latitude on Lavender, Marriott Hotel, The Pinnacle, Sydney, Zen at Wentworth Point, The Cambridge, 77 King Street, Hunter Connection, Royal and Sun Alliance, Reserve Bank Building, 383 Kent Street, Australia Towers II, 80 Bathurst Street, Vista 881, The Bentleigh, Belvedere, St James Centre, Blues Point Tower Apartments, Sydney Boulevard Hotel, Allianz Centre, Barrack Place, 5 Martin Place, Ryde Garden Building A, Ark, Burwood Grand Tower B, Rex House, Australia Towers I, Windsor on Kent, 229 on Elizabeth Street, Fujitsu, Powertel Building, Adina Apartments, Sirius Wentworth Point, VQ Harbour Views, 187 Macquarie Street, The Chelsea, Sheraton on the Park, Waldorf Apartments, Pitt Telephone Exchange, AAMI Centre, Arise, Pavillions Building 5, Aura Tower 1, The Retreat Tower 2, Atmosphere (Tower 1), Altura, Vantage North, Vantage South, Holmsdale Tower, Skyview,  Phoenix Tower, Skyview, Hydra Tower, One Twenty Macquarie, The Pinnacle Tower A, Liverpool, Novotel Sydney Olympic Park, Lumley House
+Tiers: I: 151, II: 84, III: 27, IV: 13
+Rating: 505 (15.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Crown Sydney Hotel and Resort ***
+Height: 271.3
+Floors: 75
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential / hotel / casino
+Rank: 1
+
+*** Circular Quay Tower ***
+Height: 263
+Floors: 55
+Status: Under Construction
+Started: 2019
+Completed: 2021
+Functions: office
+Rank: 2
+
+*** Chifley Tower ***
+Height: 244
+Floors: 50
+Status: Completed
+Started: 1988
+Completed: 1992
+Functions: office
+Rank: 3
+
+*** Citigroup Centre ***
+Height: 243
+Floors: 50
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 4
+
+*** Deutsche Bank Place ***
+Height: 240
+Floors: 39
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 5
+
+*** Sydney Greenland Centre ***
+Height: 236.5
+Floors: 68
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 6
+
+*** World Tower ***
+Height: 230
+Floors: 73
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 7
+
+*** MLC Centre ***
+Height: 228
+Floors: 60
+Status: Completed
+Started: 1972
+Completed: 1977
+Functions: office
+Rank: 8
+
+*** Governor Phillip Tower ***
+Height: 227
+Floors: 54
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 9
+
+*** Ernst & Young Tower at Latitude ***
+Height: 222
+Floors: 45
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 10
+
+*** Aurora Place ***
+Height: 218.85
+Floors: 41
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 11
+
+*** International Towers Sydney Tower 1 ***
+Height: 217
+Floors: 51
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 12
+
+*** Quay Quarter Tower ***
+Height: 216
+Floors: 54
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 13
+
+*** Suncorp Place ***
+Height: 193
+Floors: 48
+Status: Completed
+Started: 1970
+Completed: 1982
+Functions: office
+Rank: 14
+
+*** ANZ Tower ***
+Height: 191
+Floors: 43
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 15
+
+*** Century Tower ***
+Height: 182.97
+Floors: 50
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 16
+
+*** Grosvenor Place ***
+Height: 180
+Floors: 45
+Status: Completed
+Started: 1984
+Completed: 1988
+Functions: office
+Rank: 17
+
+*** International Towers Sydney Tower 2 ***
+Height: 178
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 18
+
+*** Castlereagh Centre ***
+Height: 173
+Floors: 31
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: office
+Rank: 19
+
+*** Meriton Tower ***
+Height: 170
+Floors: 48
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 20
+
+*** Australia Square Tower ***
+Height: 170
+Floors: 46
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: office
+Rank: 21
+
+*** Metro Grand Residences ***
+Height: 170
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 22
+
+*** International Towers Sydney Tower 3 ***
+Height: 169
+Floors: 40
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 23
+
+*** The Peak ***
+Height: 168
+Floors: 46
+Status: Completed
+Started: 1992
+Completed: 1996
+Functions: residential
+Rank: 24
+
+*** 1 O`Connell Street ***
+Height: 166
+Floors: 36
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 25
+
+*** Westpac Place ***
+Height: 166
+Floors: 35
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 26
+
+*** 201 Elizabeth Street ***
+Height: 165
+Floors: 40
+Status: Completed
+Started: 1976
+Completed: 1979
+Functions: office
+Rank: 27
+
+*** Gateway Plaza ***
+Height: 164
+Floors: 46
+Status: Completed
+Started: 1988
+Completed: 1989
+Functions: office
+Rank: 28
+
+*** HSBC Centre ***
+Height: 162
+Floors: 37
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 29
+
+*** 1 Denison Street ***
+Height: 158.65
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office / retail
+Rank: 30
+
+*** The Cove ***
+Height: 158
+Floors: 45
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 31
+
+*** Hordern Towers ***
+Height: 156
+Floors: 48
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 32
+
+*** The EY Centre ***
+Height: 155
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office / retail
+Rank: 33
+
+*** Metro Spire Residences ***
+Height: 155
+Floors: 37
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 34
+
+*** Angel Place ***
+Height: 152.4
+Floors: 35
+Status: Completed
+Started: 1995
+Completed: 2000
+Functions: office
+Rank: 35
+
+*** Sydney Central ***
+Height: 152.3
+Floors: 31
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 36
+
+*** Lumiere ***
+Height: 152
+Floors: 47
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 37
+
+*** 100 Mount Street ***
+Height: 152
+Floors: 39
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 38
+
+*** The Landmark ***
+Height: 151.6
+Floors: 46
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 39
+
+*** 85 Castlereagh Street ***
+Height: 151
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: retail / office
+Rank: 40
+
+***  Eighty-Eight by JQZ Tower 1 ***
+Height: 149
+Floors: 46
+Status: Under Construction
+Started: 2019
+Completed: 2021
+Functions: residential
+Rank: 41
+
+*** Colonial State Bank ***
+Height: 148
+Floors: 36
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 42
+
+*** Governor MacQuarie Tower ***
+Height: 145
+Floors: 36
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 43
+
+*** Commsec Tower ***
+Height: 145
+Floors: 33
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 44
+
+*** Horizon Apartments ***
+Height: 144
+Floors: 43
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 45
+
+*** Rhodes Central Tower A ***
+Height: 144
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 46
+
+*** Quay West Apartments ***
+Height: 142
+Floors: 44
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 47
+
+*** Swissotel Sydney ***
+Height: 141
+Floors: 36
+Status: Completed
+Completed: 1999
+Functions: residential / hotel / retail
+Rank: 48
+
+*** 8 Chifley ***
+Height: 140.5
+Floors: 24
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 49
+
+*** Quest World Square Apartments ***
+Height: 140
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / hotel
+Rank: 50
+
+*** Telstra Plaza ***
+Height: 140
+Floors: 36
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 51
+
+*** Elan Apartments ***
+Height: 139
+Floors: 38
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: residential
+Rank: 52
+
+*** 60 Martin Place ***
+Height: 139
+Floors: 33
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 53
+
+*** 1 Bligh Street ***
+Height: 138.8
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 54
+
+*** Bankers Trust Tower ***
+Height: 138
+Floors: 35
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 55
+
+*** Rialto Tower ***
+Height: 137
+Floors: 45
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 56
+
+*** 420 George Street ***
+Height: 136.37
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office / retail
+Rank: 57
+
+*** Park Regis City Centre ***
+Height: 136
+Floors: 45
+Status: Completed
+Started: 1966
+Completed: 1968
+Functions: residential
+Rank: 58
+
+*** Era ***
+Height: 136
+Floors: 43
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential / office / retail
+Rank: 59
+
+*** Darling North ***
+Height: 136
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 60
+
+*** Darling One ***
+Height: 136
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 61
+
+*** Victoria Towers ***
+Height: 135
+Floors: 39
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 62
+
+*** York & George ***
+Height: 135
+Floors: 39
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 62
+
+*** Wynyard Place ***
+Height: 134
+Floors: 34
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 64
+
+*** Met Centre ***
+Height: 134
+Floors: 19
+Status: Completed
+Started: 1978
+Completed: 1980
+Functions: office
+Rank: 65
+
+*** St Leonards Square (The Jackson) ***
+Height: 133
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 66
+
+*** St Martins Tower ***
+Height: 133
+Floors: 36
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: office
+Rank: 67
+
+*** Sofitel Sydney Darling Harbour ***
+Height: 132
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: hotel
+Rank: 68
+
+*** Civic Tower ***
+Height: 132
+Floors: 35
+Status: Completed
+Started: 1992
+Completed: 1994
+Functions: office
+Rank: 69
+
+*** British Telecom Building ***
+Height: 132
+Floors: 32
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 70
+
+*** Hilton Sydney ***
+Height: 131
+Floors: 45
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 71
+
+*** Northpoint Tower ***
+Height: 131
+Floors: 35
+Status: Completed
+Started: 1978
+Completed: 1980
+Functions: office
+Rank: 72
+
+*** IAG house ***
+Height: 131
+Floors: 32
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 73
+
+*** Sydney Harbour Marriott Hotel ***
+Height: 130
+Floors: 32
+Status: Completed
+Completed: 1988
+Functions: hotel
+Rank: 74
+
+*** Inmark Tower ***
+Height: 129
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 75
+
+*** Aon Center ***
+Height: 128
+Floors: 35
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 76
+
+*** Shangri-La Hotel ***
+Height: 127
+Floors: 37
+Status: Completed
+Completed: 1992
+Functions: hotel
+Rank: 77
+
+*** Bligh Chambers ***
+Height: 127
+Floors: 35
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 78
+
+*** 255 George Street ***
+Height: 127
+Floors: 32
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 79
+
+*** KPMG Centre ***
+Height: 127
+Floors: 30
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 80
+
+*** Centrium Tower One ***
+Height: 126
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** Commonwealth Bank of Australia Tower ***
+Height: 126
+Floors: 32
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 82
+
+*** Price Waterhouse Coopers Tower ***
+Height: 126
+Floors: 32
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 82
+
+*** Boomerang Tower ***
+Height: 125.75
+Floors: 39
+Status: Under Construction
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 84
+
+*** 177 Pacific Highway ***
+Height: 125
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 85
+
+*** Amora Jamison Hotel ***
+Height: 123
+Floors: 38
+Status: Completed
+Completed: 1999
+Functions: hotel
+Rank: 86
+
+*** One30 Hyde Park ***
+Height: 123
+Floors: 38
+Status: Completed
+Started: 2016
+Completed: 2019
+Functions: residential / retail
+Rank: 86
+
+*** National Mutual Centre ***
+Height: 123
+Floors: 32
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 88
+
+*** Stockland Centre ***
+Height: 123
+Floors: 31
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 89
+
+*** Castle Residences ***
+Height: 121
+Floors: 35
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office / residential
+Rank: 90
+
+*** University of Technology Building ***
+Height: 121
+Floors: 33
+Status: Completed
+Started: 1976
+Completed: 1978
+Functions: education
+Rank: 91
+
+*** Observatory Tower ***
+Height: 121
+Floors: 29
+Status: Completed
+Completed: 1964
+Functions: residential
+Rank: 92
+
+*** Pavilions ***
+Height: 120
+Floors: 36
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 93
+
+*** 1 Martin Place ***
+Height: 120
+Floors: 35
+Status: Completed
+Completed: 1999
+Functions: hotel / office
+Rank: 94
+
+*** The Hyde ***
+Height: 120
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 95
+
+*** Optus Plaza ***
+Height: 120
+Floors: 29
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office / retail
+Rank: 96
+
+*** Princeton Apartments ***
+Height: 119
+Floors: 38
+Status: Completed
+Started: 1994
+Completed: 1995
+Functions: residential
+Rank: 97
+
+*** 175 Liverpool Street ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 98
+
+*** The Forum I ***
+Height: 118
+Floors: 38
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 99
+
+*** 135 on King ***
+Height: 118
+Floors: 32
+Status: Completed
+Started: 1989
+Completed: 1990
+Functions: office
+Rank: 100
+
+*** Macquarie Bank ***
+Height: 118
+Floors: 30
+Status: Completed
+Started: 1975
+Completed: 1977
+Functions: office
+Rank: 101
+
+*** Opal Tower ***
+Height: 117
+Floors: 36
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / retail
+Rank: 102
+
+*** One Central Park ***
+Height: 117
+Floors: 34
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 103
+
+*** Norwich House ***
+Height: 117
+Floors: 32
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: office
+Rank: 104
+
+*** Miramar Apartments ***
+Height: 116
+Floors: 38
+Status: Completed
+Started: 1991
+Completed: 1993
+Functions: residential
+Rank: 105
+
+*** Polding Centre ***
+Height: 116
+Floors: 23
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 106
+
+*** Berry Square ***
+Height: 115
+Floors: 36
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential / office
+Rank: 107
+
+*** Fraser Suites ***
+Height: 115
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 108
+
+*** 33 Alfred Street ***
+Height: 115
+Floors: 26
+Status: Completed
+Started: 1959
+Completed: 1962
+Functions: office
+Rank: 109
+
+*** Law Courts Building ***
+Height: 114
+Floors: 30
+Status: Completed
+Completed: 1976
+Functions: government
+Rank: 110
+
+*** 118 Mount Street ***
+Height: 113
+Floors: 29
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 111
+
+*** AWA Building ***
+Height: 112.5
+Floors: 14
+Status: Completed
+Started: 1937
+Completed: 1939
+Functions: office
+Rank: 112
+
+*** Innovation Place ***
+Height: 112
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 113
+
+*** Four Seasons Hotel ***
+Height: 110
+Floors: 30
+Status: Completed
+Started: 1981
+Completed: 1982
+Functions: hotel
+Rank: 114
+
+*** Yuhu Hotel ***
+Height: 110
+Floors: 28
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: hotel
+Rank: 115
+
+*** Citadel Tower 1 ***
+Height: 110
+Floors: 21
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 116
+
+*** Meriton Capitol ***
+Height: 108
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 117
+
+*** Roden Cutler House ***
+Height: 108
+Floors: 30
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: office
+Rank: 118
+
+*** Defence Plaza ***
+Height: 108
+Floors: 27
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 119
+
+*** Museum Towers ***
+Height: 107
+Floors: 34
+Status: Completed
+Started: 1987
+Completed: 1988
+Functions: residential
+Rank: 120
+
+*** Centrium Tower Two ***
+Height: 107
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 121
+
+*** Metro View Residences ***
+Height: 107
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 122
+
+*** One Australia Avenue ***
+Height: 106.89
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 123
+
+*** 230-234 Sussex Street ***
+Height: 106
+Floors: 31
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 124
+
+*** BNP Paribas Centre ***
+Height: 104
+Floors: 27
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: office
+Rank: 125
+
+*** The Summit ***
+Height: 103
+Floors: 34
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 126
+
+*** Connaught Centre ***
+Height: 103
+Floors: 31
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 127
+
+*** Westfield Towers ***
+Height: 103
+Floors: 27
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: office
+Rank: 128
+
+*** 161 Sussex Street Redevelopment ***
+Height: 103
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: office / hotel / exhibition
+Rank: 129
+
+*** 321 Kent Street ***
+Height: 103
+Floors: 24
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 130
+
+*** Regis Towers (Castlereagh) ***
+Height: 101
+Floors: 38
+Status: Completed
+Started: 1997
+Completed: 1998
+Functions: residential
+Rank: 131
+
+*** Royal Exchange Building ***
+Height: 101
+Floors: 28
+Status: Completed
+Started: 1965
+Completed: 1966
+Functions: office
+Rank: 132
+
+*** SkyHaus North Tower ***
+Height: 100.5
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 133
+
+*** Hotel Intercontinental ***
+Height: 100
+Floors: 30
+Status: Completed
+Started: 1982
+Completed: 1984
+Functions: hotel
+Rank: 134
+
+*** Highgate Apartments ***
+Height: 100
+Floors: 28
+Status: Completed
+Started: 1992
+Completed: 1994
+Functions: residential
+Rank: 135
+
+*** 1 Oxford Street ***
+Height: 100
+Floors: 27
+Status: Completed
+Started: 1980
+Completed: 1982
+Functions: office
+Rank: 136
+
+*** 59 Goulburn Street ***
+Height: 100
+Floors: 25
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: office
+Rank: 137
+
+*** Emirates House ***
+Height: 100
+Floors: 25
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: office
+Rank: 137
+
+*** Town Hall House ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 137
+
+*** Telstra House ***
+Height: 100
+Floors: 23
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: office
+Rank: 140
+
+*** State Street Centre ***
+Height: 100
+Floors: 20
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 141
+
+*** Energy Australia ***
+Height: 99
+Floors: 28
+Status: Completed
+Started: 1966
+Completed: 1968
+Functions: office
+Rank: 142
+
+*** Westfield Tower Two ***
+Height: 99
+Floors: 25
+Status: Completed
+Completed: 1985
+Functions: office / retail
+Rank: 143
+
+*** Telstra Kent Exchange ***
+Height: 99
+Floors: 21
+Status: Completed
+Completed: 1985
+Rank: 144
+
+*** Embassy Tower ***
+Height: 98.5
+Floors: 29
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 145
+
+*** St Leonards Square (The William) ***
+Height: 98
+Floors: 28
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 146
+
+*** 141 Walker Street ***
+Height: 97
+Floors: 30
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 147
+
+*** 80 Arthur Street ***
+Height: 97
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: serviced apartments
+Rank: 147
+
+*** Astoria Tower ***
+Height: 97
+Floors: 30
+Status: Completed
+Started: 1995
+Completed: 1996
+Functions: residential
+Rank: 147
+
+*** Cassia Gardens ***
+Height: 97
+Floors: 28
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 150
+
+*** Epica ***
+Height: 96
+Floors: 33
+Status: Completed
+Completed: 2005
+Functions: residential / office
+Rank: 151
+
+*** Harbour Place ***
+Height: 96
+Floors: 29
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 152
+
+*** 68 Pitt Street ***
+Height: 96
+Floors: 27
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 153
+
+*** Ovo ***
+Height: 95.8
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 154
+
+*** Zenith Apartments ***
+Height: 95
+Floors: 37
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: residential
+Rank: 155
+
+*** Regis Apartments (Pitt Tower) ***
+Height: 95
+Floors: 32
+Status: Completed
+Started: 1996
+Completed: 1997
+Functions: residential
+Rank: 156
+
+*** SkyHaus South tower ***
+Height: 95
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 157
+
+*** Quay Apartments ***
+Height: 95
+Floors: 27
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 158
+
+*** City Centre ***
+Height: 95
+Floors: 25
+Status: Completed
+Completed: 1988
+Functions: office / retail
+Rank: 159
+
+*** Hooker House ***
+Height: 95
+Floors: 23
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 160
+
+*** Novell House ***
+Height: 95
+Floors: 23
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: office
+Rank: 160
+
+*** Symantec House ***
+Height: 95
+Floors: 23
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 160
+
+*** Air Apartments ***
+Height: 94
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential / hotel
+Rank: 163
+
+*** Rhodes Central Tower B ***
+Height: 94
+Floors: 29
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 164
+
+*** John Madison tower ***
+Height: 94
+Floors: 27
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 165
+
+*** Zenith Tower 1 ***
+Height: 94
+Floors: 24
+Status: Completed
+Started: 1987
+Completed: 1990
+Functions: office
+Rank: 166
+
+*** Zenith Tower 2 ***
+Height: 94
+Floors: 24
+Status: Completed
+Started: 1987
+Completed: 1990
+Functions: office
+Rank: 166
+
+*** McKell Building ***
+Height: 94
+Floors: 23
+Status: Completed
+Started: 1977
+Completed: 1979
+Functions: office
+Rank: 168
+
+*** Matavai Apartments ***
+Height: 93
+Floors: 32
+Status: Completed
+Started: 1975
+Completed: 1976
+Functions: residential
+Rank: 169
+
+*** Turanga Apartments ***
+Height: 93
+Floors: 32
+Status: Completed
+Started: 1975
+Completed: 1976
+Functions: residential
+Rank: 169
+
+*** VSQ North ***
+Height: 93
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 171
+
+*** Darling Park Tower III ***
+Height: 93
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: office
+Rank: 172
+
+*** King and Phillip Residences ***
+Height: 92.8
+Floors: 27
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / office
+Rank: 173
+
+*** Ryde Garden Building B ***
+Height: 92
+Floors: 27
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 174
+
+*** Radisson Hotel and Suites ***
+Height: 92
+Floors: 25
+Status: Completed
+Completed: 1998
+Functions: residential / hotel
+Rank: 175
+
+*** Central Square ***
+Height: 92
+Floors: 24
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 176
+
+*** Hyde Park Towers ***
+Height: 91
+Floors: 32
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 177
+
+*** Ranelagh Apartments ***
+Height: 91
+Floors: 30
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: residential
+Rank: 178
+
+*** Standard Chartered House ***
+Height: 91
+Floors: 25
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 179
+
+*** Travelex Building ***
+Height: 91
+Floors: 20
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 180
+
+*** John Fairfax Building ***
+Height: 91
+Floors: 13
+Status: Completed
+Started: 1955
+Completed: 1957
+Functions: office / education
+Rank: 181
+
+*** Medina Classic ***
+Height: 90
+Floors: 30
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 182
+
+*** GM Tower ***
+Height: 90
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / office
+Rank: 183
+
+*** Stamford on Kent ***
+Height: 90
+Floors: 27
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 183
+
+*** The Mark ***
+Height: 90
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 183
+
+*** Adina Grand Hotel ***
+Height: 90
+Floors: 26
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: hotel / retail
+Rank: 186
+
+*** Maestri Towers ***
+Height: 90
+Floors: 26
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 186
+
+*** Marina Square Tower A, Wentworth Point ***
+Height: 90
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 186
+
+*** Meriton Bondi Junction East Tower ***
+Height: 90
+Floors: 25
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: residential
+Rank: 189
+
+*** The Ribbon Hotel and Residences ***
+Height: 90
+Floors: 24
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: retail / retail / retail / hotel
+Rank: 190
+
+*** 100 Pacific Highway ***
+Height: 90
+Floors: 22
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 191
+
+*** ING Centre ***
+Height: 90
+Floors: 21
+Status: Completed
+Started: 1991
+Completed: 1997
+Functions: office
+Rank: 192
+
+*** Hyde Park Residences ***
+Height: 89
+Floors: 25
+Status: Completed
+Started: 2010
+Completed: 2011
+Functions: residential
+Rank: 193
+
+*** Commonwealth Bank Building ***
+Height: 89
+Status: Completed
+Started: 1976
+Completed: 1977
+Functions: office
+Rank: 194
+
+*** Regis Apartments (Campbell Street Tower) ***
+Height: 88
+Floors: 30
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 195
+
+*** Stamford Residences ***
+Height: 88
+Floors: 30
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 195
+
+*** The Georgia ***
+Height: 88
+Floors: 29
+Status: Completed
+Started: 1997
+Completed: 1998
+Functions: residential
+Rank: 197
+
+*** 519 Kent Street ***
+Height: 88
+Floors: 28
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 198
+
+*** Stamford Marque ***
+Height: 88
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 199
+
+*** ARC by Crown Group ***
+Height: 88
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential / serviced apartments
+Rank: 200
+
+*** CML Building ***
+Height: 88
+Floors: 21
+Status: Completed
+Started: 1973
+Completed: 1977
+Functions: office
+Rank: 201
+
+*** 20 Martin Place ***
+Height: 88
+Floors: 20
+Status: Completed
+Completed: 1970
+Functions: office / retail
+Rank: 202
+
+*** 60 Carrington Street ***
+Height: 88
+Floors: 15
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 203
+
+*** 112 Talavera Road, Building A ***
+Height: 87.51
+Floors: 27
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 204
+
+*** The Pinnacle Tower B, Liverpool ***
+Height: 87
+Floors: 27
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 205
+
+*** Mosaic ***
+Height: 87
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 206
+
+*** York Apartments ***
+Height: 87
+Floors: 26
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 206
+
+*** Skyline ***
+Height: 87
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 208
+
+*** St Leon ***
+Height: 87
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 209
+
+*** Arthur Young Building ***
+Height: 87
+Floors: 20
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 210
+
+*** The Regency Tower A ***
+Height: 86
+Floors: 28
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 211
+
+*** Polaris ***
+Height: 85.7
+Floors: 24
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 212
+
+*** Harbour Court ***
+Height: 85
+Floors: 29
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 213
+
+*** Ocean Court  ***
+Height: 85
+Floors: 29
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 213
+
+*** Mantra on Kent ***
+Height: 85
+Floors: 28
+Status: Completed
+Completed: 1999
+Functions: hotel
+Rank: 215
+
+*** The Sebel Residence ***
+Height: 85
+Floors: 28
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 215
+
+*** Forum West ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 217
+
+*** Hyde Park Regency ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 217
+
+*** Trafalgar Apartments ***
+Height: 85
+Floors: 27
+Status: Completed
+Started: 2001
+Completed: 2002
+Functions: residential
+Rank: 217
+
+*** 55 Hunter Street ***
+Height: 85
+Floors: 26
+Status: Completed
+Started: 1962
+Completed: 1963
+Functions: office
+Rank: 220
+
+*** Taiga ***
+Height: 85
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 220
+
+*** Latitude on Lavender ***
+Height: 85
+Floors: 25
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 222
+
+*** Marriott Hotel ***
+Height: 85
+Floors: 25
+Status: Completed
+Completed: 1992
+Functions: residential / hotel
+Rank: 222
+
+*** The Pinnacle, Sydney ***
+Height: 85
+Floors: 25
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 222
+
+*** Zen at Wentworth Point ***
+Height: 85
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 222
+
+*** The Cambridge ***
+Height: 85
+Floors: 24
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 226
+
+*** 77 King Street ***
+Height: 85
+Floors: 22
+Status: Completed
+Completed: 1973
+Functions: office / retail
+Rank: 227
+
+*** Hunter Connection ***
+Height: 85
+Floors: 21
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 228
+
+*** Royal and Sun Alliance ***
+Height: 85
+Floors: 18
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 229
+
+*** Reserve Bank Building ***
+Height: 85
+Floors: 17
+Status: Completed
+Started: 1963
+Completed: 1964
+Functions: office
+Rank: 230
+
+*** 383 Kent Street ***
+Height: 85
+Floors: 15
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 231
+
+*** Australia Towers II ***
+Height: 84.4
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 232
+
+*** 80 Bathurst Street ***
+Height: 84
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: residential / hotel
+Rank: 233
+
+*** Vista 881 ***
+Height: 84
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 233
+
+*** The Bentleigh ***
+Height: 84
+Floors: 24
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 235
+
+*** Belvedere ***
+Height: 84
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 236
+
+*** St James Centre ***
+Height: 84
+Floors: 22
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 236
+
+*** Blues Point Tower Apartments ***
+Height: 83
+Floors: 26
+Status: Completed
+Started: 1959
+Completed: 1961
+Functions: residential
+Rank: 238
+
+*** Sydney Boulevard Hotel ***
+Height: 83
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: hotel
+Rank: 239
+
+*** Allianz Centre ***
+Height: 83
+Floors: 21
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 240
+
+*** Barrack Place ***
+Height: 83
+Floors: 20
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: retail / office
+Rank: 241
+
+*** 5 Martin Place ***
+Height: 82.73
+Floors: 20
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 242
+
+*** Ryde Garden Building A ***
+Height: 82
+Floors: 23
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 243
+
+*** Ark ***
+Height: 82
+Floors: 21
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 244
+
+*** Burwood Grand Tower B ***
+Height: 81.4
+Floors: 25
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / retail
+Rank: 245
+
+*** Rex House ***
+Height: 81
+Floors: 27
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 246
+
+*** Australia Towers I ***
+Height: 81
+Floors: 25
+Status: Completed
+Started: 2010
+Completed: 2011
+Functions: residential
+Rank: 247
+
+*** Windsor on Kent ***
+Height: 81
+Floors: 24
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 248
+
+*** 229 on Elizabeth Street ***
+Height: 81
+Floors: 20
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 249
+
+*** Fujitsu ***
+Height: 81
+Floors: 20
+Status: Completed
+Started: 1971
+Completed: 1975
+Functions: office
+Rank: 249
+
+*** Powertel Building ***
+Height: 81
+Floors: 20
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 249
+
+*** Adina Apartments ***
+Height: 80
+Floors: 27
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 252
+
+*** Sirius Wentworth Point ***
+Height: 80
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 253
+
+*** VQ Harbour Views ***
+Height: 80
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 254
+
+*** 187 Macquarie Street ***
+Height: 80
+Floors: 24
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential / office
+Rank: 255
+
+*** The Chelsea ***
+Height: 80
+Floors: 21
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 256
+
+*** Sheraton on the Park ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 1996
+Functions: hotel
+Rank: 257
+
+*** Waldorf Apartments ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 1984
+Functions: hotel
+Rank: 257
+
+*** Pitt Telephone Exchange ***
+Height: 80
+Floors: 16
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 259
+
+*** AAMI Centre ***
+Height: 79.86
+Floors: 25
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 260
+
+*** Arise ***
+Height: 77
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 261
+
+*** Pavillions Building 5 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 262
+
+*** Aura Tower 1 ***
+Height: 76
+Floors: 23
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 263
+
+*** The Retreat Tower 2 ***
+Height: 76
+Floors: 22
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 264
+
+*** Atmosphere (Tower 1) ***
+Height: 76
+Floors: 21
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential / residential / retail
+Rank: 265
+
+*** Altura ***
+Height: 75
+Floors: 25
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 266
+
+*** Vantage North ***
+Height: 75
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 266
+
+*** Vantage South ***
+Height: 75
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 266
+
+*** Holmsdale Tower ***
+Height: 75
+Floors: 24
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 269
+
+*** Skyview,  Phoenix Tower ***
+Height: 75
+Floors: 24
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 269
+
+*** Skyview, Hydra Tower ***
+Height: 75
+Floors: 24
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 269
+
+*** One Twenty Macquarie ***
+Height: 75
+Floors: 23
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 272
+
+*** The Pinnacle Tower A, Liverpool ***
+Height: 75
+Floors: 23
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 272
+
+*** Novotel Sydney Olympic Park ***
+Height: 75
+Floors: 19
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: hotel
+Rank: 274
+
+*** Lumley House ***
+Height: 75
+Floors: 16
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 275

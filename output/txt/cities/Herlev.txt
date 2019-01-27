@@ -1,0 +1,20 @@
+*** Herlev (2) ***
+1. Herlev Hospital, 120m
+
+******************** DETAILS ********************
+
+*** Herlev ***
+Country: Denmark
+Region: Europe
+1 tower: Herlev Hospital
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Herlev Hospital ***
+Height: 120
+Floors: 25
+Status: Completed
+Completed: 1976
+Functions: hospital
+Rank: 1

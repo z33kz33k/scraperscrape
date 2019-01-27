@@ -1,0 +1,20 @@
+*** Leuven (2) ***
+1. Sint-Maartensdal, Blok 5, 112m
+
+******************** DETAILS ********************
+
+*** Leuven ***
+Country: Belgium
+Region: Europe
+1 tower: Sint-Maartensdal, Blok 5
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sint-Maartensdal, Blok 5 ***
+Height: 112
+Floors: 22
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 1

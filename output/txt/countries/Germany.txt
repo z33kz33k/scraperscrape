@@ -1,0 +1,243 @@
+*** Germany (273) ***
+1.  Frankfurt am Main, 126
+2.  Berlin, 33
+3.  Cologne, 25
+4.  Hamburg, 17
+5.  Munich, 13
+6.  Dusseldorf, 10
+7.  Bonn, 6
+8.  Essen, 6
+9.  Hannover, 4
+10. Eschborn, 4
+11. Leipzig, 4
+12. Stuttgart, 3
+13. Mannheim, 2
+14. Jena, 2
+15. Travemunde, 2
+16. Augsburg, 2
+17. Offenbach, 2
+18. Nuremberg, 2
+19. Bremerhaven, 2
+20. Mainz, 2
+21. Dortmund, 1
+22. Chemnitz, 1
+23. Potsdam, 1
+24. Bochum, 1
+25. Bremen, 1
+26. Timmendorfer Strand, 1
+
+******************** DETAILS ********************
+
+*** Germany ***
+Region: Europe
+26 cities: Frankfurt am Main, Berlin, Cologne, Hamburg, Munich, Dusseldorf, Bonn, Essen, Hannover, Eschborn, Leipzig, Stuttgart, Mannheim, Jena, Travemunde, Augsburg, Offenbach, Nuremberg, Bremerhaven, Mainz, Dortmund, Chemnitz, Potsdam, Bochum, Bremen, Timmendorfer Strand
+Tiers: I: 93, II: 50, III: 17, IV: 2
+Rating: 273 (8.4% uncompleted)
+
+*** Frankfurt am Main ***
+Country: Germany
+Region: Europe
+49 towers: Commerzbank Tower, MesseTurm, Westendstrasse 1, Main Tower, Tower 185, ONE, OMNITURM, Trianon, ECB - European Central Bank, Grand Tower, TaunusTurm, Opernturm, Silver Tower, Westend Gate, Deutsche Bank Tower I, Deutsche Bank Tower II, Marienturm, Skyper, Eurotower, Frankfurter Buro-Center, City-Haus (DG Bank), One Forty West, Neuer Henninger Turm, Gallileo, Nextower, Pollux, The Spin , Garden Towers, Messe Torhaus, Parktower, Japan Center, Westhafen Tower, IBC Tower, Eurotheum, WinX Tower, B&uuml;ro Center Nibelungenplatz, Neue Mainzer Stra&szlig;e 32-36, Leonardo Royal Hotel Frankfurt, Jumeirah Frankfurt Hotel, Tower 90, Hochhaus am Park, WestendDuo, Kastor, Deutsche Bank IBCF, Burohochhaus Commerzbank Trading Center, Wiesenhüttenstraße 2-12, B&uuml;rohaus an der Alten Oper, Main Plaza, Radisson BLU
+Tiers: I: 12, II: 19, III: 16, IV: 2
+Rating: 126 (16.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Berlin ***
+Country: Germany
+Region: Europe
+27 towers: Park Inn Berlin Alexanderplatz, Hochhaus Treptower, Upper West, Zoofenster, Steglitzer Kreisel, Debis Tower, Bahn Tower, Europa Center, Kudamm Karree, Kollhoff Tower, Die Pyramide, Charite, Internationales Handelszentrum Berlin, Deutsche Rentenversicherung Bund, Max, Postbank-Hochhaus, Moritz, GSW Hauptverwaltung, Telefunken-Hochhaus, Potsdamer Platz 11, Leipziger Straße 51, Leipziger Straße 40/41, Leipziger Straße 43/44, Leipziger Straße 46/47, Leipziger Straße 48/49, Axel-Springer-Hochhaus,  Königstadt-Carrée
+Tiers: I: 21, II: 6
+Rating: 33 (6.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cologne ***
+Country: Germany
+Region: Europe
+19 towers: Koln Turm, Colonia-Haus, Buroturm Deutsche Welle, Uni-Center, TUV-Rheinland, Ringturm, Land- und Amtsgericht, KölnTriangle, Herkules-Hochhaus, DeutschlandRadio, MaxCologne, Uni-Klinikum, Studioturm Deutsche Welle, Wohnheim der FH 1, DKV-Versicherung, Mevissenstraße 16, Wohnheim der Sporthochschule, Bonner Straße 211, Deutsche Telekom AG
+Tiers: I: 13, II: 6
+Rating: 25
+Scraped on: 2019-Jan-21 23:13:15
+
+*** Hamburg ***
+Country: Germany
+Region: Europe
+15 towers: Elbphilharmonie, Radisson SAS Hamburg, Mundsburg Turm I, Emporio, Mundsburg Turm III, Mundsburg Turm II, Berliner Tor Center 1, Berliner Tor Center 2, Atlantik-Hochhaus, Geomatikum der Universität Hamburg, Tango Towers, Berliner Tor Center 3, Jessenstraße 4, Hanseatic Trade Center Tower, Wohnhochhaus Palmaille 35
+Tiers: I: 13, II: 2
+Rating: 17
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Munich ***
+Country: Germany
+Region: Europe
+9 towers: Uptown Munchen, Highlight I, HVB Tower, Highlight II, SV-Zentrale, BMW Building, ADAC Headquarters, Central Tower, OSRAM Lighthouse
+Tiers: I: 5, II: 4
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Dusseldorf ***
+Country: Germany
+Region: Europe
+7 towers: ARAG Tower, LVA Hauptgebaude, VICTORIA-Haus, Dreischeibenhaus, Sky Office Duesseldorf, Vodafone Hochhaus, SIGN Dusseldorf
+Tiers: I: 4, II: 3
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bonn ***
+Country: Germany
+Region: Europe
+2 towers: Post Turm, UN-Hochhaus
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Essen ***
+Country: Germany
+Region: Europe
+4 towers: RWE Turm, Rathaus, RellingHaus II. BA, Postbank AG Niederlassung Essen
+Tiers: I: 2, II: 2
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hannover ***
+Country: Germany
+Region: Europe
+4 towers: Ihmeplatz 2, Lister Tor, Verwaltungsgebäude der NORD/LB, DMAG Administration Building
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Eschborn ***
+Country: Germany
+Region: Europe
+4 towers: DB Corporate Center Haus A, Vodafone, Deutsche Börse Cube, Ventura Haus
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Leipzig ***
+Country: Germany
+Region: Europe
+3 towers: Panorama Tower, Hotel The Westin Leipzig, Wintergarten Hochhaus
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Stuttgart ***
+Country: Germany
+Region: Europe
+3 towers: LBBW-Hochhaus, Skyline, Millennium Hotel & Resort
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mannheim ***
+Country: Germany
+Region: Europe
+2 towers: Appartment-Hochhaus am Collini-Center, Victoria Turm
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jena ***
+Country: Germany
+Region: Europe
+1 tower: JenTower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Travemunde ***
+Country: Germany
+Region: Europe
+1 tower: Maritim Hotel Travem&uuml;nde
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Augsburg ***
+Country: Germany
+Region: Europe
+1 tower: Dorint Augsburg
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Offenbach ***
+Country: Germany
+Region: Europe
+1 tower: City Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Nuremberg ***
+Country: Germany
+Region: Europe
+1 tower: Business Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bremerhaven ***
+Country: Germany
+Region: Europe
+1 tower: Atlantic Hotel Sail City
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Mainz ***
+Country: Germany
+Region: Europe
+2 towers: Bonifazius Platz I, Bonifazius Platz II
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dortmund ***
+Country: Germany
+Region: Europe
+1 tower: RWE Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Chemnitz ***
+Country: Germany
+Region: Europe
+1 tower: Hotel Mercure Kongress Chemnitz
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Potsdam ***
+Country: Germany
+Region: Europe
+1 tower: Stern-Plaza
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bochum ***
+Country: Germany
+Region: Europe
+1 tower: Exzenterhaus Bochum
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bremen ***
+Country: Germany
+Region: Europe
+1 tower: Weser Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Timmendorfer Strand ***
+Country: Germany
+Region: Europe
+1 tower: Maritim ClubHotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

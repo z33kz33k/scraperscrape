@@ -1,0 +1,20 @@
+*** Maia (1) ***
+1. Torre do Lidador, 92m
+
+******************** DETAILS ********************
+
+*** Maia ***
+Country: Portugal
+Region: Europe
+1 tower: Torre do Lidador
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre do Lidador ***
+Height: 92
+Floors: 22
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 1

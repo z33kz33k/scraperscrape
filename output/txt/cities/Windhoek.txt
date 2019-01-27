@@ -1,0 +1,21 @@
+*** Windhoek (1) ***
+1. Old Mutual Namibia Headquarters, 100m
+
+******************** DETAILS ********************
+
+*** Windhoek ***
+Country: Namibia
+Region: Africa
+1 tower: Old Mutual Namibia Headquarters
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Old Mutual Namibia Headquarters ***
+Height: 100
+Floors: 21
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 1

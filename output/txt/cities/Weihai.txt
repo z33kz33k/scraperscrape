@@ -1,0 +1,28 @@
+*** Weihai (6) ***
+1. Zhongxin Finance Tower, 171m
+2. Weihai CITIC Financial Building, 147m
+
+******************** DETAILS ********************
+
+*** Weihai ***
+Country: China
+Region: Asia
+2 towers: Zhongxin Finance Tower, Weihai CITIC Financial Building
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zhongxin Finance Tower ***
+Height: 171.2
+Floors: 42
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 1
+
+*** Weihai CITIC Financial Building ***
+Height: 147
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 2

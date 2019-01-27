@@ -1,0 +1,111 @@
+*** Albany (15) ***
+1.  Erastus Corning II Tower, 180m
+2.  Alfred E. Smith State Office Building, 118m
+3.  1 Empire State Plaza, 94m
+4.  2 Empire State Plaza, 94m
+5.  3 Empire State Plaza, 94m
+6.  4 Empire State Plaza, 94m
+7.  Eastman Tower, 87m
+8.  Livingston Tower, 87m
+9.  Mohawk Tower, 87m
+10. Stuyvesant Tower, 87m
+11. 11 North Pearl Street, 84m
+
+******************** DETAILS ********************
+
+*** Albany ***
+Country: United States
+Region: North America
+11 towers: Erastus Corning II Tower, Alfred E. Smith State Office Building, 1 Empire State Plaza, 2 Empire State Plaza, 3 Empire State Plaza, 4 Empire State Plaza, Eastman Tower, Livingston Tower, Mohawk Tower, Stuyvesant Tower, 11 North Pearl Street
+Tiers: I: 9, II: 1, III: 1
+Rating: 15
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Erastus Corning II Tower ***
+Height: 179.53
+Floors: 44
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 1
+
+*** Alfred E. Smith State Office Building ***
+Height: 118.26
+Floors: 34
+Status: Completed
+Started: 1927
+Completed: 1930
+Functions: office
+Rank: 2
+
+*** 1 Empire State Plaza ***
+Height: 94.49
+Floors: 23
+Status: Completed
+Completed: 1973
+Functions: government
+Rank: 3
+
+*** 2 Empire State Plaza ***
+Height: 94.49
+Floors: 23
+Status: Completed
+Completed: 1973
+Functions: government
+Rank: 3
+
+*** 3 Empire State Plaza ***
+Height: 94.49
+Floors: 23
+Status: Completed
+Completed: 1973
+Functions: government
+Rank: 3
+
+*** 4 Empire State Plaza ***
+Height: 94.49
+Floors: 23
+Status: Completed
+Completed: 1974
+Functions: government
+Rank: 3
+
+*** Eastman Tower ***
+Height: 87.17
+Floors: 22
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 7
+
+*** Livingston Tower ***
+Height: 87.17
+Floors: 22
+Status: Completed
+Completed: 1965
+Functions: residential
+Rank: 7
+
+*** Mohawk Tower ***
+Height: 87.17
+Floors: 22
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 7
+
+*** Stuyvesant Tower ***
+Height: 87.17
+Floors: 22
+Status: Completed
+Completed: 1964
+Functions: residential
+Rank: 7
+
+*** 11 North Pearl Street ***
+Height: 84.12
+Floors: 21
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 11

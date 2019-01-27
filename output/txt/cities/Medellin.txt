@@ -1,0 +1,59 @@
+*** Medellin (12) ***
+1. Edificio Coltejer, 175m
+2. Torre del Cafe, 160m
+3. Edificio Camara de Comercio, 139m
+4. Palacio de Justicia de Medellín, 97m
+5. Intermedica Centro de Especialistas, 81m
+
+******************** DETAILS ********************
+
+*** Medellin ***
+Country: Colombia
+Region: South America
+5 towers: Edificio Coltejer, Torre del Cafe, Edificio Camara de Comercio, Palacio de Justicia de Medellín, Intermedica Centro de Especialistas
+Tiers: I: 2, II: 1, III: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Edificio Coltejer ***
+Height: 175
+Floors: 37
+Status: Completed
+Started: 1968
+Completed: 1972
+Functions: office
+Rank: 1
+
+*** Torre del Cafe ***
+Height: 160
+Floors: 36
+Status: Completed
+Started: 1972
+Completed: 1975
+Functions: office
+Rank: 2
+
+*** Edificio Camara de Comercio ***
+Height: 139
+Floors: 32
+Status: Completed
+Started: 1972
+Completed: 1977
+Functions: office
+Rank: 3
+
+*** Palacio de Justicia de Medellín ***
+Height: 97
+Floors: 30
+Status: Completed
+Completed: 1988
+Functions: government
+Rank: 4
+
+*** Intermedica Centro de Especialistas ***
+Height: 81
+Floors: 20
+Status: Completed
+Completed: 2006
+Functions: hospital
+Rank: 5

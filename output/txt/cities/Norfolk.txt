@@ -1,0 +1,29 @@
+*** Norfolk (2) ***
+1. Dominion Tower, 104m
+2. Bank of America Center, 93m
+
+******************** DETAILS ********************
+
+*** Norfolk ***
+Country: United States
+Region: North America
+2 towers: Dominion Tower, Bank of America Center
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Dominion Tower ***
+Height: 103.63
+Floors: 26
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 1
+
+*** Bank of America Center ***
+Height: 92.66
+Floors: 23
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 2

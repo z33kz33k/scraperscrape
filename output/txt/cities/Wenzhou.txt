@@ -1,0 +1,59 @@
+*** Wenzhou (26) ***
+1. Wenzhou Trade Center, 322m
+2. Wenzhou Zhixin Plaza, 255m
+3. Wenzhou Zhixin Plaza Residential Tower, 189m
+4. Huameng Commerce Plaza, 168m
+5. China Telecom Building, 156m
+
+******************** DETAILS ********************
+
+*** Wenzhou ***
+Country: China
+Region: Asia
+5 towers: Wenzhou Trade Center, Wenzhou Zhixin Plaza, Wenzhou Zhixin Plaza Residential Tower, Huameng Commerce Plaza, China Telecom Building
+Tiers: III: 3, IV: 1, V: 1
+Rating: 26
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wenzhou Trade Center ***
+Height: 321.9
+Floors: 68
+Status: Completed
+Started: 2002
+Completed: 2011
+Functions: hotel / office
+Rank: 1
+
+*** Wenzhou Zhixin Plaza ***
+Height: 255
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2016
+Functions: hotel / office
+Rank: 2
+
+*** Wenzhou Zhixin Plaza Residential Tower ***
+Height: 189
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2016
+Functions: residential
+Rank: 3
+
+*** Huameng Commerce Plaza ***
+Height: 168
+Floors: 45
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 4
+
+*** China Telecom Building ***
+Height: 156
+Floors: 31
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 5

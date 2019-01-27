@@ -1,0 +1,30 @@
+*** Vientiane (6) ***
+1. Sky Office at Vientiane World Trade Center, 150m
+2. Portofina Hotel, 138m
+
+******************** DETAILS ********************
+
+*** Vientiane ***
+Country: Laos
+Region: Asia
+2 towers: Sky Office at Vientiane World Trade Center, Portofina Hotel
+Tiers: II: 1, III: 1
+Rating: 6 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sky Office at Vientiane World Trade Center ***
+Height: 150
+Floors: 33
+Status: Under Construction
+Started: 2014
+Functions: office
+Rank: 1
+
+*** Portofina Hotel ***
+Height: 138
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: hotel
+Rank: 2

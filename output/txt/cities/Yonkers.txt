@@ -1,0 +1,28 @@
+*** Yonkers (2) ***
+1. Seven Pines Tower, 85m
+2. St. Casimir Apartments, 84m
+
+******************** DETAILS ********************
+
+*** Yonkers ***
+Country: United States
+Region: North America
+2 towers: Seven Pines Tower, St. Casimir Apartments
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Seven Pines Tower ***
+Height: 84.73
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 1
+
+*** St. Casimir Apartments ***
+Height: 84.43
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 2

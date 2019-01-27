@@ -1,0 +1,18 @@
+*** Uganda (1) ***
+1. Kampala, 1
+
+******************** DETAILS ********************
+
+*** Uganda ***
+Region: Africa
+1 city: Kampala
+Tiers: I: 1
+Rating: 1
+
+*** Kampala ***
+Country: Uganda
+Region: Africa
+1 tower: Kampala Hilton
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

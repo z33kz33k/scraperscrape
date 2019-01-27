@@ -1,0 +1,30 @@
+*** Maldonado (2) ***
+1. Torre Aquarela, 84m
+2. Le Jardin Residence, 80m
+
+******************** DETAILS ********************
+
+*** Maldonado ***
+Country: Uruguay
+Region: South America
+2 towers: Torre Aquarela, Le Jardin Residence
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre Aquarela ***
+Height: 84
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Le Jardin Residence ***
+Height: 80
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 2

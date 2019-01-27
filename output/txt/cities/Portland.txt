@@ -1,0 +1,158 @@
+*** Portland (31) ***
+1.  Wells Fargo Center, 166m
+2.  Park Avenue West, 164m
+3.  U.S. Bancorp Tower, 163m
+4.  KOIN Center, 155m
+5.  Pacwest Center, 127m
+6.  Fox Tower, 113m
+7.  Standard Insurance Center, 112m
+8.  Edith Green-Wendell Wyatt Federal Building, 110m
+9.  Cosmopolitan on the Park, 104m
+10. The John Ross Tower, 99m
+11. Mirabella, 99m
+12. The Ardea, 99m
+13. Multnomah County Central Courthouse, 99m
+14. Twelve West, 83m
+15. Broadway Tower, 78m
+
+******************** DETAILS ********************
+
+*** Portland ***
+Country: United States
+Region: North America
+15 towers: Wells Fargo Center, Park Avenue West, U.S. Bancorp Tower, KOIN Center, Pacwest Center, Fox Tower, Standard Insurance Center, Edith Green-Wendell Wyatt Federal Building, Cosmopolitan on the Park, The John Ross Tower, Mirabella, The Ardea, Multnomah County Central Courthouse, Twelve West, Broadway Tower
+Tiers: I: 7, II: 4, III: 4
+Rating: 31 (6.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wells Fargo Center ***
+Height: 166.42
+Floors: 40
+Status: Completed
+Started: 1969
+Completed: 1973
+Functions: office
+Rank: 1
+
+*** Park Avenue West ***
+Height: 163.69
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2016
+Functions: residential / office
+Rank: 2
+
+*** U.S. Bancorp Tower ***
+Height: 163.38
+Floors: 42
+Status: Completed
+Started: 1973
+Completed: 1983
+Functions: office
+Rank: 3
+
+*** KOIN Center ***
+Height: 155.15
+Floors: 31
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: multiple
+Rank: 4
+
+*** Pacwest Center ***
+Height: 127.4
+Floors: 30
+Status: Completed
+Started: 1982
+Completed: 1984
+Functions: office
+Rank: 5
+
+*** Fox Tower ***
+Height: 113.39
+Floors: 27
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 6
+
+*** Standard Insurance Center ***
+Height: 111.86
+Floors: 27
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 7
+
+*** Edith Green-Wendell Wyatt Federal Building ***
+Height: 110
+Floors: 18
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 8
+
+*** Cosmopolitan on the Park ***
+Height: 103.63
+Floors: 28
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** The John Ross Tower ***
+Height: 99.06
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 10
+
+*** Mirabella ***
+Height: 99.06
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 11
+
+*** The Ardea ***
+Height: 99.06
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 11
+
+*** Multnomah County Central Courthouse ***
+Height: 98.76
+Floors: 17
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: government
+Rank: 13
+
+*** Twelve West ***
+Height: 83.2
+Floors: 17
+Status: Completed
+Completed: 2009
+Functions: residential / office
+Rank: 14
+
+*** Broadway Tower ***
+Height: 78.5
+Floors: 19
+Status: Under Construction
+Started: 2016
+Functions: office / hotel
+Rank: 15

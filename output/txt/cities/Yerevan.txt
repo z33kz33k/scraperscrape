@@ -1,0 +1,31 @@
+*** Yerevan (2) ***
+1. Elite Plaza Business Center, 85m
+2. Sayat-Nova 19, 75m
+
+******************** DETAILS ********************
+
+*** Yerevan ***
+Country: Armenia
+Region: Asia
+2 towers: Elite Plaza Business Center, Sayat-Nova 19
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Elite Plaza Business Center ***
+Height: 85
+Floors: 19
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 1
+
+*** Sayat-Nova 19 ***
+Height: 75.36
+Floors: 21
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 2

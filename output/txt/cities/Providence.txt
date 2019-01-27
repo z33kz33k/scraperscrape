@@ -1,0 +1,66 @@
+*** Providence (9) ***
+1. Bank of America Building, 130m
+2. One Financial Plaza, 125m
+3. The Residences Providence, 116m
+4. The Westin Providence, 100m
+5. Textron Tower, 92m
+6. 50 Kennedy Plaza, 87m
+
+******************** DETAILS ********************
+
+*** Providence ***
+Country: United States
+Region: North America
+6 towers: Bank of America Building, One Financial Plaza, The Residences Providence, The Westin Providence, Textron Tower, 50 Kennedy Plaza
+Tiers: I: 3, II: 3
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bank of America Building ***
+Height: 130.46
+Floors: 26
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 1
+
+*** One Financial Plaza ***
+Height: 124.97
+Floors: 28
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 2
+
+*** The Residences Providence ***
+Height: 115.82
+Floors: 31
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 3
+
+*** The Westin Providence ***
+Height: 100.28
+Floors: 25
+Status: Completed
+Completed: 1993
+Functions: hotel
+Rank: 4
+
+*** Textron Tower ***
+Height: 91.74
+Floors: 23
+Status: Completed
+Started: 1969
+Completed: 1972
+Functions: office
+Rank: 5
+
+*** 50 Kennedy Plaza ***
+Height: 86.87
+Floors: 20
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 6

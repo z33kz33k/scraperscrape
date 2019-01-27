@@ -1,0 +1,21 @@
+*** Molde (1) ***
+1. Rica Seilet, 82m
+
+******************** DETAILS ********************
+
+*** Molde ***
+Country: Norway
+Region: Europe
+1 tower: Rica Seilet
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Rica Seilet ***
+Height: 82
+Floors: 16
+Status: Completed
+Started: 2001
+Completed: 2002
+Functions: hotel
+Rank: 1

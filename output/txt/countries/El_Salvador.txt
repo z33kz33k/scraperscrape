@@ -1,0 +1,18 @@
+*** El Salvador (2) ***
+1. Antiguo Cuscatlán, 2
+
+******************** DETAILS ********************
+
+*** El Salvador ***
+Region: Central America
+1 city: Antiguo Cuscatlán
+Tiers: II: 1
+Rating: 2
+
+*** Antiguo Cuscatlán ***
+Country: El Salvador
+Region: Central America
+1 tower: El Pedregal - Multiplaza
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

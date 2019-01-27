@@ -1,0 +1,1498 @@
+*** Guangzhou (681) ***
+1.   Guangzhou CTF Finance Centre, 530m
+2.   Guangzhou International Finance Center, 439m
+3.   CITIC Plaza, 390m
+4.   Guangdong Business Center, 376m
+5.   The Pinnacle, 350m
+6.   East Gate Tower, 350m
+7.   Huijin Center 1, 320m
+8.   Junchao Plaza, 320m
+9.   Global City Square, 319m
+10.  Poly Pazhou C2, 311m
+11.  Pearl River Tower, 309m
+12.  Fortune Center, 309m
+13.  Guangfa Securities Headquarters, 308m
+14.  Leatop Plaza, 303m
+15.  San Cheng Finance Tower 1, 300m
+16.  R&F Yingkai Square, 296m
+17.  GT Land Landmark Plaza South Tower, 283m
+18.  Tianhui Plaza C3, 270m
+19.  China International Center Tower B, 270m
+20.  Dapeng International Plaza, 269m
+21.  Bank of Guangzhou Tower, 268m
+22.  Guangdong Telecom Plaza, 260m
+23.  Cadre City Plaza West Tower , 257m
+24.  R&F International Business Center Phase 2, 253m
+25.  Banghua World Trade Center, 250m
+26.  South China International Wharf Service Center, 250m
+27.  R&F Center, 243m
+28.  New World Zengcheng Mixed Use Development C1 Tower, 241m
+29.  Guangzhou Fuli Dongshan Xintiandi, 233m
+30.  Kingold Century, 228m
+31.  Wanbo Tianhe Shopping Center Tower C, 228m
+32.  Victory Plaza Tower A, 223m
+33.  Aoyuan International Center, 220m
+34.  Huijin Center 2, 220m
+35.  Guangzhou Nimble Square 1, 220m
+36.  Onelink Center, 218m
+37.  Tianhebei Tower, 212m
+38.  TaiKoo Hui Tower 1, 212m
+39.  Vertical City, 208m
+40.  CCCC South Headquarters, 208m
+41.  Alibaba South Tower, 207m
+42.  GT Land Landmark Plaza North Tower, 207m
+43.  Center Plaza, 202m
+44.  Cadre City Plaza East Tower, 202m
+45.  Nanfang International Mansion, 201m
+46.  New World Zengcheng Mixed Use Development C2 Tower, 201m
+47.  Guangdong International Building, 200m
+48.  Guangzhou Greenland Baiyun Center, 200m
+49.  Metro Plaza I, 199m
+50.  The Canton Fair Westin Hotel, 199m
+51.  Shangdong Hanyu Yayuan Apartments, 198m
+52.  International Finance Place, 198m
+53.  Poly Pazhou C1, 198m
+54.  Matsunichi Tower, 195m
+55.  Teem Plaza East Tower, 195m
+56.  Guangzhou Electric Power Building, 194m
+57.  Victory Garden Block C, 192m
+58.  Aiqun Huijing Wan Tower A, 192m
+59.  Aiqun Huijing Wan Tower B, 192m
+60.  Bercy Plaza I, 191m
+61.  Bercy Plaza II, 191m
+62.  Agile Corporation Headquarters Tower, 190m
+63.  Guangzhou Marriott Hotel Tianhe, 189m
+64.  Tianhui Plaza C1, 188m
+65.  The Centrepointe, 188m
+66.  China Shine Plaza, 187m
+67.  R&F Ritz-Carlton Hotel, 182m
+68.  Tianhui Plaza A6, 181m
+69.  Guangdong Asia International Hotel, 180m
+70.  Poly Tower V, 180m
+71.  Yuecai Building, 180m
+72.  Yuexiu City Plaza South Tower, 180m
+73.  RenFun Business Mansion, 180m
+74.  The Riverside 1, 179m
+75.  The Riverside 2, 179m
+76.  Tianhui Plaza A2, 178m
+77.  Tianhui Plaza A3, 178m
+78.  Tianhui Plaza A4-A5, 178m
+79.  Hong Kong Macau Centre, 178m
+80.  Tianhui Plaza C2, 178m
+81.  CC Tower, 178m
+82.  New World Zengcheng Mixed Use Development Residential Tower 2, 177m
+83.  Canton Fair Command Center, 177m
+84.  Pearl River International Building, 175m
+85.  Westin Guangzhou Hotel, 175m
+86.  R&F Profit Plaza, 173m
+87.  Huabang International Centre Tower 1, 172m
+88.  New World Zengcheng Mixed Use Development Residential Tower 1, 171m
+89.  Poly Center, 170m
+90.  Guangzhou Nimble Square 2, 170m
+91.  W Guangzhou, 170m
+92.  GIE Tower, 168m
+93.  Guangzhou International Trade Center, 167m
+94.  GZITIC Mansion, 167m
+95.  Soluxe Hotel Guangzhou, 166m
+96.  Guangdong GoTone Building, 165m
+97.  TaiKoo Hui Tower 2, 165m
+98.  Top View 2, 164m
+99.  Zhonghai Guanyuan International, 164m
+100. The Riverside 3, 164m
+101. The Riverside 4, 164m
+102. R&F Yinglong Plaza, 163m
+103. Times Property Centre, 162m
+104. New China Mansion, 162m
+105. Haizhu Peninsula Garden Tower 4, 162m
+106. Haizhu Peninsula Garden Tower 5, 162m
+107. Haizhu Peninsula Garden Tower 6, 162m
+108. Haizhu Peninsula Garden Tower 7, 162m
+109. Haizhu Peninsula Garden Tower 8, 162m
+110. Haizhu Peninsula Garden Tower 9, 162m
+111. Victory Plaza Tower B, 161m
+112. Poly Real Estate Headquarters Tower 1, 161m
+113. Poly Real Estate Headquarters Tower 2, 161m
+114. Victory Garden Block B, 160m
+115. Post Chateau Block A, 159m
+116. Post Chateau Block B, 159m
+117. Guangdong Color TV Center, 154m
+118. Le Palais, 153m
+119. Dongzhao Building, 153m
+120. Rengfeng Tower, 152m
+121. Riverside Hotel Central Tower, 152m
+122. The Regal Harbour 1, 151m
+123. The Regal Harbour 2, 151m
+124. The Regal Harbour 3, 151m
+125. Shun Tak Business Centre, 151m
+126. The Cosmos 1, 150m
+127. The Cosmos 2, 150m
+128. King Peak Garden Block D, 150m
+129. King Peak Garden Block E, 150m
+130. Guangdong Development Bank Center, 150m
+131. Guangzhou Development Center Building, 150m
+132. Guangzhou Nimble Square 3, 150m
+133. Huabang International Centre Tower 2, 150m
+134. Xinyu Building, 148m
+135. Xinyuan Mansion, 146m
+136. The Cosmos 3, 145m
+137. The Cosmos 4, 145m
+138. The Cosmos 5, 145m
+139. CITIC Plaza Apartments I, 142m
+140. CITIC Plaza Apartments II, 142m
+141. Guangzhou Circle, 138m
+142. King Peak Garden Block A, 137m
+143. The Riverside 5, 133m
+144. The Riverside 6, 133m
+145. Taikoo Hui Mandarin Oriental Hotel, 128m
+146. Guangzhou Linhe Office, 120m
+147. China Mayors Plaza, 116m
+148. Guangdong Provincial Outpatient Hospital, 112m
+149. Guangzhou Poly National Tax Bureau Building, 110m
+150. The Riverside 7, 104m
+151. The Riverside 8, 104m
+152. Grand Hyatt Hotel Guangzhou, 104m
+153. Unlimited Center, 104m
+154. Lingnan Building of Sun Yat-sen Memorial Hospital, 102m
+155. White Swan Hotel, 100m
+156. Matsunichi Heaquarters Building, 100m
+
+******************** DETAILS ********************
+
+*** Guangzhou ***
+Country: China
+Region: Asia
+156 towers: Guangzhou CTF Finance Centre, Guangzhou International Finance Center, CITIC Plaza, Guangdong Business Center, The Pinnacle, East Gate Tower, Huijin Center 1, Junchao Plaza, Global City Square, Poly Pazhou C2, Pearl River Tower, Fortune Center, Guangfa Securities Headquarters, Leatop Plaza, San Cheng Finance Tower 1, R&F Yingkai Square, GT Land Landmark Plaza South Tower, Tianhui Plaza C3, China International Center Tower B, Dapeng International Plaza, Bank of Guangzhou Tower, Guangdong Telecom Plaza, Cadre City Plaza West Tower , R&F International Business Center Phase 2, Banghua World Trade Center, South China International Wharf Service Center, R&F Center, New World Zengcheng Mixed Use Development C1 Tower, Guangzhou Fuli Dongshan Xintiandi, Kingold Century, Wanbo Tianhe Shopping Center Tower C, Victory Plaza Tower A, Aoyuan International Center, Huijin Center 2, Guangzhou Nimble Square 1, Onelink Center, Tianhebei Tower, TaiKoo Hui Tower 1, Vertical City, CCCC South Headquarters, Alibaba South Tower, GT Land Landmark Plaza North Tower, Center Plaza, Cadre City Plaza East Tower, Nanfang International Mansion, New World Zengcheng Mixed Use Development C2 Tower, Guangdong International Building, Guangzhou Greenland Baiyun Center, Metro Plaza I, The Canton Fair Westin Hotel, Shangdong Hanyu Yayuan Apartments, International Finance Place, Poly Pazhou C1, Matsunichi Tower, Teem Plaza East Tower, Guangzhou Electric Power Building, Victory Garden Block C, Aiqun Huijing Wan Tower A, Aiqun Huijing Wan Tower B, Bercy Plaza I, Bercy Plaza II, Agile Corporation Headquarters Tower, Guangzhou Marriott Hotel Tianhe, Tianhui Plaza C1, The Centrepointe, China Shine Plaza, R&F Ritz-Carlton Hotel, Tianhui Plaza A6, Guangdong Asia International Hotel, Poly Tower V, Yuecai Building, Yuexiu City Plaza South Tower, RenFun Business Mansion, The Riverside 1, The Riverside 2, Tianhui Plaza A2, Tianhui Plaza A3, Tianhui Plaza A4-A5, Hong Kong Macau Centre, Tianhui Plaza C2, CC Tower, New World Zengcheng Mixed Use Development Residential Tower 2, Canton Fair Command Center, Pearl River International Building, Westin Guangzhou Hotel, R&F Profit Plaza, Huabang International Centre Tower 1, New World Zengcheng Mixed Use Development Residential Tower 1, Poly Center, Guangzhou Nimble Square 2, W Guangzhou, GIE Tower, Guangzhou International Trade Center, GZITIC Mansion, Soluxe Hotel Guangzhou, Guangdong GoTone Building, TaiKoo Hui Tower 2, Top View 2, Zhonghai Guanyuan International, The Riverside 3, The Riverside 4, R&F Yinglong Plaza, Times Property Centre, New China Mansion, Haizhu Peninsula Garden Tower 4, Haizhu Peninsula Garden Tower 5, Haizhu Peninsula Garden Tower 6, Haizhu Peninsula Garden Tower 7, Haizhu Peninsula Garden Tower 8, Haizhu Peninsula Garden Tower 9, Victory Plaza Tower B, Poly Real Estate Headquarters Tower 1, Poly Real Estate Headquarters Tower 2, Victory Garden Block B, Post Chateau Block A, Post Chateau Block B, Guangdong Color TV Center, Le Palais, Dongzhao Building, Rengfeng Tower, Riverside Hotel Central Tower, The Regal Harbour 1, The Regal Harbour 2, The Regal Harbour 3, Shun Tak Business Centre, The Cosmos 1, The Cosmos 2, King Peak Garden Block D, King Peak Garden Block E, Guangdong Development Bank Center, Guangzhou Development Center Building, Guangzhou Nimble Square 3, Huabang International Centre Tower 2, Xinyu Building, Xinyuan Mansion, The Cosmos 3, The Cosmos 4, The Cosmos 5, CITIC Plaza Apartments I, CITIC Plaza Apartments II, Guangzhou Circle, King Peak Garden Block A, The Riverside 5, The Riverside 6, Taikoo Hui Mandarin Oriental Hotel, Guangzhou Linhe Office, China Mayors Plaza, Guangdong Provincial Outpatient Hospital, Guangzhou Poly National Tax Bureau Building, The Riverside 7, The Riverside 8, Grand Hyatt Hotel Guangzhou, Unlimited Center, Lingnan Building of Sun Yat-sen Memorial Hospital, White Swan Hotel, Matsunichi Heaquarters Building
+Tiers: I: 7, II: 16, III: 95, IV: 23, V: 13, VI: 2
+Rating: 681 (18.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Guangzhou CTF Finance Centre ***
+Height: 530
+Floors: 111
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: hotel / residential / office
+Rank: 1
+
+*** Guangzhou International Finance Center ***
+Height: 438.6
+Floors: 103
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: hotel / office
+Rank: 2
+
+*** CITIC Plaza ***
+Height: 390.2
+Floors: 80
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: office
+Rank: 3
+
+*** Guangdong Business Center ***
+Height: 375.5
+Floors: 60
+Status: Under Construction
+Started: 2018
+Functions: office
+Rank: 4
+
+*** The Pinnacle ***
+Height: 350.3
+Floors: 60
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 5
+
+*** East Gate Tower ***
+Height: 350
+Status: Under Construction
+Started: 2018
+Functions: residential / hotel / office
+Rank: 6
+
+*** Huijin Center 1 ***
+Height: 320
+Floors: 69
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: office
+Rank: 7
+
+*** Junchao Plaza ***
+Height: 320
+Floors: 67
+Status: Under Construction
+Started: 2017
+Functions: office / retail
+Rank: 8
+
+*** Global City Square ***
+Height: 318.85
+Floors: 67
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 9
+
+*** Poly Pazhou C2 ***
+Height: 311
+Floors: 61
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 10
+
+*** Pearl River Tower ***
+Height: 309.4
+Floors: 71
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: office
+Rank: 11
+
+*** Fortune Center ***
+Height: 309.4
+Floors: 68
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 12
+
+*** Guangfa Securities Headquarters ***
+Height: 308
+Floors: 59
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 13
+
+*** Leatop Plaza ***
+Height: 302.7
+Floors: 64
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 14
+
+*** San Cheng Finance Tower 1 ***
+Height: 300
+Floors: 66
+Status: Under Construction
+Started: 2018
+Functions: office
+Rank: 15
+
+*** R&F Yingkai Square ***
+Height: 296.2
+Floors: 66
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential / hotel / office
+Rank: 16
+
+*** GT Land Landmark Plaza South Tower ***
+Height: 282.8
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential / hotel
+Rank: 17
+
+*** Tianhui Plaza C3 ***
+Height: 270
+Floors: 60
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 18
+
+*** China International Center Tower B ***
+Height: 269.52
+Floors: 62
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: office
+Rank: 19
+
+*** Dapeng International Plaza ***
+Height: 269.4
+Floors: 56
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: office
+Rank: 20
+
+*** Bank of Guangzhou Tower ***
+Height: 267.75
+Floors: 57
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 21
+
+*** Guangdong Telecom Plaza ***
+Height: 260
+Floors: 68
+Status: Completed
+Started: 1997
+Completed: 2002
+Functions: office
+Rank: 22
+
+*** Cadre City Plaza West Tower  ***
+Height: 257
+Floors: 60
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: SOHO / office / hotel / retail
+Rank: 23
+
+*** R&F International Business Center Phase 2 ***
+Height: 252.55
+Floors: 53
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 24
+
+*** Banghua World Trade Center ***
+Height: 250
+Floors: 55
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office / residential
+Rank: 25
+
+*** South China International Wharf Service Center ***
+Height: 250
+Floors: 55
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 25
+
+*** R&F Center ***
+Height: 243
+Floors: 54
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 27
+
+*** New World Zengcheng Mixed Use Development C1 Tower ***
+Height: 240.7
+Floors: 47
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office
+Rank: 28
+
+*** Guangzhou Fuli Dongshan Xintiandi ***
+Height: 233
+Floors: 52
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 29
+
+*** Kingold Century ***
+Height: 228
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: serviced apartments / office
+Rank: 30
+
+*** Wanbo Tianhe Shopping Center Tower C ***
+Height: 227.65
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office / retail
+Rank: 31
+
+*** Victory Plaza Tower A ***
+Height: 223
+Floors: 54
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 32
+
+*** Aoyuan International Center ***
+Height: 220
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 33
+
+*** Huijin Center 2 ***
+Height: 220
+Floors: 50
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Rank: 33
+
+*** Guangzhou Nimble Square 1 ***
+Height: 220
+Floors: 44
+Status: Under Construction
+Functions: office
+Rank: 35
+
+*** Onelink Center ***
+Height: 218
+Floors: 53
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / hotel
+Rank: 36
+
+*** Tianhebei Tower ***
+Height: 212
+Floors: 55
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 37
+
+*** TaiKoo Hui Tower 1 ***
+Height: 211.95
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 38
+
+*** Vertical City ***
+Height: 208
+Floors: 51
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel / residential / office
+Rank: 39
+
+*** CCCC South Headquarters ***
+Height: 208
+Floors: 50
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 40
+
+*** Alibaba South Tower ***
+Height: 207
+Floors: 37
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 41
+
+*** GT Land Landmark Plaza North Tower ***
+Height: 206.8
+Floors: 46
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 42
+
+*** Center Plaza ***
+Height: 202.1
+Floors: 47
+Status: Completed
+Completed: 2004
+Functions: hotel / office
+Rank: 43
+
+*** Cadre City Plaza East Tower ***
+Height: 202
+Floors: 43
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: SOHO / retail
+Rank: 44
+
+*** Nanfang International Mansion ***
+Height: 201
+Floors: 48
+Status: Completed
+Completed: 1998
+Functions: hotel / office
+Rank: 45
+
+*** New World Zengcheng Mixed Use Development C2 Tower ***
+Height: 200.75
+Floors: 47
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office
+Rank: 46
+
+*** Guangdong International Building ***
+Height: 200.25
+Floors: 63
+Status: Completed
+Started: 1985
+Completed: 1990
+Functions: hotel / office
+Rank: 47
+
+*** Guangzhou Greenland Baiyun Center ***
+Height: 199.85
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 48
+
+*** Metro Plaza I ***
+Height: 198.8
+Floors: 48
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office
+Rank: 49
+
+*** The Canton Fair Westin Hotel ***
+Height: 198.8
+Floors: 43
+Status: Completed
+Completed: 2011
+Functions: hotel / office
+Rank: 50
+
+*** Shangdong Hanyu Yayuan Apartments ***
+Height: 198
+Floors: 52
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 51
+
+*** International Finance Place ***
+Height: 198
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 52
+
+*** Poly Pazhou C1 ***
+Height: 197.5
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel
+Rank: 53
+
+*** Matsunichi Tower ***
+Height: 195
+Floors: 45
+Status: Under Construction
+Started: 2011
+Functions: residential / hotel
+Rank: 54
+
+*** Teem Plaza East Tower ***
+Height: 195
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 54
+
+*** Guangzhou Electric Power Building ***
+Height: 194
+Floors: 35
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 56
+
+*** Victory Garden Block C ***
+Height: 192
+Floors: 52
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 57
+
+*** Aiqun Huijing Wan Tower A ***
+Height: 192
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 58
+
+*** Aiqun Huijing Wan Tower B ***
+Height: 192
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 58
+
+*** Bercy Plaza I ***
+Height: 190.81
+Floors: 51
+Status: Completed
+Started: 1995
+Completed: 2007
+Functions: office
+Rank: 60
+
+*** Bercy Plaza II ***
+Height: 190.81
+Floors: 51
+Status: Completed
+Started: 1995
+Completed: 2007
+Functions: office
+Rank: 60
+
+*** Agile Corporation Headquarters Tower ***
+Height: 189.7
+Floors: 39
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 62
+
+*** Guangzhou Marriott Hotel Tianhe ***
+Height: 188.8
+Floors: 48
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 63
+
+*** Tianhui Plaza C1 ***
+Height: 188
+Floors: 55
+Status: Under Construction
+Started: 2012
+Rank: 64
+
+*** The Centrepointe ***
+Height: 188
+Floors: 46
+Status: Completed
+Completed: 2008
+Functions: residential / office
+Rank: 65
+
+*** China Shine Plaza ***
+Height: 187
+Floors: 45
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 66
+
+*** R&F Ritz-Carlton Hotel ***
+Height: 181.5
+Floors: 39
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 67
+
+*** Tianhui Plaza A6 ***
+Height: 181.4
+Floors: 53
+Status: Under Construction
+Started: 2012
+Functions: residential
+Rank: 68
+
+*** Guangdong Asia International Hotel ***
+Height: 180
+Floors: 51
+Status: Completed
+Started: 1995
+Completed: 2001
+Functions: hotel
+Rank: 69
+
+*** Poly Tower V ***
+Height: 180
+Floors: 40
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 70
+
+*** Yuecai Building ***
+Height: 180
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 70
+
+*** Yuexiu City Plaza South Tower ***
+Height: 180
+Floors: 39
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 72
+
+*** RenFun Business Mansion ***
+Height: 179.6
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 73
+
+*** The Riverside 1 ***
+Height: 179.4
+Floors: 50
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 74
+
+*** The Riverside 2 ***
+Height: 179.4
+Floors: 50
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 74
+
+*** Tianhui Plaza A2 ***
+Height: 178
+Floors: 52
+Status: Under Construction
+Started: 2012
+Functions: residential
+Rank: 76
+
+*** Tianhui Plaza A3 ***
+Height: 178
+Floors: 52
+Status: Under Construction
+Started: 2012
+Functions: residential
+Rank: 76
+
+*** Tianhui Plaza A4-A5 ***
+Height: 178
+Floors: 52
+Status: Under Construction
+Started: 2012
+Functions: residential
+Rank: 76
+
+*** Hong Kong Macau Centre ***
+Height: 178
+Floors: 51
+Status: Completed
+Completed: 1996
+Functions: multiple
+Rank: 79
+
+*** Tianhui Plaza C2 ***
+Height: 178
+Floors: 48
+Status: Under Construction
+Started: 2012
+Rank: 80
+
+*** CC Tower ***
+Height: 178
+Floors: 32
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 81
+
+*** New World Zengcheng Mixed Use Development Residential Tower 2 ***
+Height: 177
+Floors: 56
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 82
+
+*** Canton Fair Command Center ***
+Height: 176.8
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 83
+
+*** Pearl River International Building ***
+Height: 175.1
+Floors: 45
+Status: Completed
+Started: 2003
+Completed: 2010
+Functions: office
+Rank: 84
+
+*** Westin Guangzhou Hotel ***
+Height: 175
+Floors: 40
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 85
+
+*** R&F Profit Plaza ***
+Height: 173.1
+Floors: 42
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 86
+
+*** Huabang International Centre Tower 1 ***
+Height: 172
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 87
+
+*** New World Zengcheng Mixed Use Development Residential Tower 1 ***
+Height: 171.2
+Floors: 54
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 88
+
+*** Poly Center ***
+Height: 170.5
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 89
+
+*** Guangzhou Nimble Square 2 ***
+Height: 170
+Floors: 38
+Status: Under Construction
+Functions: serviced apartments
+Rank: 90
+
+*** W Guangzhou ***
+Height: 169.5
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: residential / hotel
+Rank: 91
+
+*** GIE Tower ***
+Height: 168
+Floors: 35
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 92
+
+*** Guangzhou International Trade Center ***
+Height: 167
+Floors: 48
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 93
+
+*** GZITIC Mansion ***
+Height: 167
+Floors: 47
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 94
+
+*** Soluxe Hotel Guangzhou ***
+Height: 166
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hotel
+Rank: 95
+
+*** Guangdong GoTone Building ***
+Height: 165.2
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 96
+
+*** TaiKoo Hui Tower 2 ***
+Height: 165
+Floors: 29
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 97
+
+*** Top View 2 ***
+Height: 163.8
+Floors: 45
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 98
+
+*** Zhonghai Guanyuan International ***
+Height: 163.8
+Floors: 45
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 98
+
+*** The Riverside 3 ***
+Height: 163.7
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 100
+
+*** The Riverside 4 ***
+Height: 163.7
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 100
+
+*** R&F Yinglong Plaza ***
+Height: 163
+Floors: 41
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: office
+Rank: 102
+
+*** Times Property Centre ***
+Height: 162.25
+Floors: 39
+Status: Completed
+Started: 1995
+Completed: 1999
+Functions: office
+Rank: 103
+
+*** New China Mansion ***
+Height: 162
+Floors: 43
+Status: Completed
+Started: 1996
+Functions: office
+Rank: 104
+
+*** Haizhu Peninsula Garden Tower 4 ***
+Height: 161.71
+Floors: 45
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 105
+
+*** Haizhu Peninsula Garden Tower 5 ***
+Height: 161.71
+Floors: 45
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 105
+
+*** Haizhu Peninsula Garden Tower 6 ***
+Height: 161.71
+Floors: 45
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 105
+
+*** Haizhu Peninsula Garden Tower 7 ***
+Height: 161.71
+Floors: 45
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 105
+
+*** Haizhu Peninsula Garden Tower 8 ***
+Height: 161.71
+Floors: 45
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 105
+
+*** Haizhu Peninsula Garden Tower 9 ***
+Height: 161.71
+Floors: 45
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 105
+
+*** Victory Plaza Tower B ***
+Height: 161.1
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 111
+
+*** Poly Real Estate Headquarters Tower 1 ***
+Height: 160.6
+Floors: 34
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 112
+
+*** Poly Real Estate Headquarters Tower 2 ***
+Height: 160.6
+Floors: 34
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 112
+
+*** Victory Garden Block B ***
+Height: 159.9
+Floors: 48
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 114
+
+*** Post Chateau Block A ***
+Height: 159
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 115
+
+*** Post Chateau Block B ***
+Height: 159
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 115
+
+*** Guangdong Color TV Center ***
+Height: 154
+Floors: 33
+Status: Completed
+Started: 1985
+Completed: 1991
+Functions: office
+Rank: 117
+
+*** Le Palais ***
+Height: 153
+Floors: 52
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 118
+
+*** Dongzhao Building ***
+Height: 153
+Floors: 42
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 119
+
+*** Rengfeng Tower ***
+Height: 152.5
+Floors: 41
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 120
+
+*** Riverside Hotel Central Tower ***
+Height: 152
+Floors: 45
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 121
+
+*** The Regal Harbour 1 ***
+Height: 151.3
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 122
+
+*** The Regal Harbour 2 ***
+Height: 151.3
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 122
+
+*** The Regal Harbour 3 ***
+Height: 151.3
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 122
+
+*** Shun Tak Business Centre ***
+Height: 150.6
+Floors: 38
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 125
+
+*** The Cosmos 1 ***
+Height: 150.4
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 126
+
+*** The Cosmos 2 ***
+Height: 150.4
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 126
+
+*** King Peak Garden Block D ***
+Height: 150
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 128
+
+*** King Peak Garden Block E ***
+Height: 150
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 128
+
+*** Guangdong Development Bank Center ***
+Height: 150
+Floors: 41
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 130
+
+*** Guangzhou Development Center Building ***
+Height: 150
+Floors: 37
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 131
+
+*** Guangzhou Nimble Square 3 ***
+Height: 150
+Floors: 34
+Status: Under Construction
+Functions: hotel
+Rank: 132
+
+*** Huabang International Centre Tower 2 ***
+Height: 150
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 133
+
+*** Xinyu Building ***
+Height: 148
+Floors: 39
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 134
+
+*** Xinyuan Mansion ***
+Height: 146
+Floors: 36
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 135
+
+*** The Cosmos 3 ***
+Height: 144.8
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 136
+
+*** The Cosmos 4 ***
+Height: 144.8
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 136
+
+*** The Cosmos 5 ***
+Height: 144.8
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 136
+
+*** CITIC Plaza Apartments I ***
+Height: 142
+Floors: 38
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 139
+
+*** CITIC Plaza Apartments II ***
+Height: 142
+Floors: 38
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 139
+
+*** Guangzhou Circle ***
+Height: 137.8
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 141
+
+*** King Peak Garden Block A ***
+Height: 137
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 142
+
+*** The Riverside 5 ***
+Height: 132.7
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 143
+
+*** The Riverside 6 ***
+Height: 132.7
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 143
+
+*** Taikoo Hui Mandarin Oriental Hotel ***
+Height: 128
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: hotel
+Rank: 145
+
+*** Guangzhou Linhe Office ***
+Height: 120
+Floors: 22
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 146
+
+*** China Mayors Plaza ***
+Height: 116
+Floors: 28
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: hotel / office
+Rank: 147
+
+*** Guangdong Provincial Outpatient Hospital ***
+Height: 111.7
+Floors: 29
+Status: Completed
+Completed: 2003
+Functions: hospital
+Rank: 148
+
+*** Guangzhou Poly National Tax Bureau Building ***
+Height: 110.35
+Floors: 27
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 149
+
+*** The Riverside 7 ***
+Height: 104.4
+Floors: 27
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 150
+
+*** The Riverside 8 ***
+Height: 104.4
+Floors: 27
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 150
+
+*** Grand Hyatt Hotel Guangzhou ***
+Height: 103.63
+Floors: 26
+Status: Completed
+Completed: 2008
+Functions: hotel
+Rank: 152
+
+*** Unlimited Center ***
+Height: 103.63
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 153
+
+*** Lingnan Building of Sun Yat-sen Memorial Hospital ***
+Height: 101.63
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: hospital
+Rank: 154
+
+*** White Swan Hotel ***
+Height: 100
+Floors: 29
+Status: Completed
+Started: 1979
+Completed: 1983
+Functions: hotel
+Rank: 155
+
+*** Matsunichi Heaquarters Building ***
+Height: 100
+Floors: 22
+Status: Under Construction
+Started: 2011
+Functions: office
+Rank: 156

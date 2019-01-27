@@ -1,0 +1,20 @@
+*** Antiguo Cuscatlán (2) ***
+1. El Pedregal - Multiplaza, 112m
+
+******************** DETAILS ********************
+
+*** Antiguo Cuscatlán ***
+Country: El Salvador
+Region: Central America
+1 tower: El Pedregal - Multiplaza
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** El Pedregal - Multiplaza ***
+Height: 112
+Floors: 28
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 1

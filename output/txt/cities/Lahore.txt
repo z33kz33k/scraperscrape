@@ -1,0 +1,20 @@
+*** Lahore (2) ***
+1. Software Technology Park, 106m
+
+******************** DETAILS ********************
+
+*** Lahore ***
+Country: Pakistan
+Region: Asia
+1 tower: Software Technology Park
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Software Technology Park ***
+Height: 106.1
+Floors: 17
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 1

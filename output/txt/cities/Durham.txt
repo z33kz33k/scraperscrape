@@ -1,0 +1,39 @@
+*** Durham (4) ***
+1. University Tower, 109m
+2. City Center, 90m
+3. Legacy Tower, 77m
+
+******************** DETAILS ********************
+
+*** Durham ***
+Country: United States
+Region: North America
+3 towers: University Tower, City Center, Legacy Tower
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** University Tower ***
+Height: 108.51
+Floors: 17
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 1
+
+*** City Center ***
+Height: 90.22
+Floors: 27
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential / office
+Rank: 2
+
+*** Legacy Tower ***
+Height: 76.8
+Floors: 14
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 3

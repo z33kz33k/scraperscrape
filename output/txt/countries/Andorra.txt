@@ -1,0 +1,18 @@
+*** Andorra (1) ***
+1. Andorra La Vela, 1
+
+******************** DETAILS ********************
+
+*** Andorra ***
+Region: Europe
+1 city: Andorra La Vela
+Tiers: I: 1
+Rating: 1
+
+*** Andorra La Vela ***
+Country: Andorra
+Region: Europe
+1 tower: Caldea Hotel Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

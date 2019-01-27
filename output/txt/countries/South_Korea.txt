@@ -1,0 +1,153 @@
+*** South Korea (1267) ***
+1.  Seoul, 490
+2.  Busan, 368
+3.  Incheon, 153
+4.  Goyang, 82
+5.  Daejeon, 40
+6.  Daegu, 36
+7.  Hwaseong, 22
+8.  Ulsan, 20
+9.  Bucheon, 12
+10. Changwon, 8
+11. Anyang, 8
+12. Seongnam, 8
+13. Suwon, 8
+14. Chonan, 6
+15. Cheongju, 4
+16. Gwangju, 2
+
+******************** DETAILS ********************
+
+*** South Korea ***
+Region: Asia
+16 cities: Seoul, Busan, Incheon, Goyang, Daejeon, Daegu, Hwaseong, Ulsan, Bucheon, Changwon, Anyang, Seongnam, Suwon, Chonan, Cheongju, Gwangju
+Tiers: I: 7, II: 90, III: 179, IV: 51, V: 6, VI: 1
+Rating: 1267 (8.1% uncompleted)
+
+*** Seoul ***
+Country: South Korea
+Region: Asia
+149 towers: Lotte World Tower, Parc1 Tower A, Three International Finance Center, Tower Palace Three, Tower G, Parc1 Tower B, Mokdong Hyperion Tower A, KLI 63 Building, FKI Tower, Mokdong Hyperion Tower B, Tower Palace One, Tower B, Trade Tower, Tower Palace One, Tower A, Tower Palace One, Tower C, Seoul Forest E-Convenient World Tower 1, Seoul Forest E-Convenient World Tower 2, Star Tower, Gangnam Finance Center, Samsung Electronics Corporation HQ, Mokdong Hyperion Tower C, Ichon Rex Tower A, Seoul Trimage Tower I, Seoul Trimage Tower II, Conrad Seoul, Gundae Posco The Star City Tower A, Sharp Star City Tower A, Tower Palace Two, Tower E, Tower Palace Two, Tower F, Daeseong D-Cube City Headquarters, Techno Mart 21, Mokdong Trapalace Tower A, Daeseong D3-City Residential 1, Daeseong D3-City Residential 2, Parnas Tower, Sangbong Premier's AMCO Tower 1, One International Finance Center, Mokdong Trapalace Tower C, Shindorim Techno Mart, Seoul Trimage Tower III, Seoul Trimage Tower IV, LG Gangnam Tower, Gundae Posco The Star City Tower B, ASEM Tower, Two International Finance Center, Boramae Chereville, Sharp Star City Tower C, Seoul Forest E-Convenient World Office Tower , Galleria Foret Tower 1, Galleria Foret Tower 2, Hyundai 41 Tower, Academy Sweet, SBS Broadcasting Center, Ichon Rex Tower B, Seogyo Xi West Valley Office Tower, Daelim Acrovill One, Daelim Acrovill Two, Mokdong Trapalace Tower B, Hyundai Superville Tower D, SK Building, Raemian Yongsan Tower 1, Raemian Yongsan Tower 2, Mokdong Trapalace Tower D, Sharp Star City Tower D, Sangbong Premier's AMCO Tower 2, Sangbong Premier's AMCO Tower 3, I-Park Tower 103, Dongbu Finance Building, Yeongdeungpo SK Leaders View Officetel, Wing 2, Doosan Tower, I-Park Tower 101, Sangbong Sante-ciel 1, Sangbong Sante-ciel 2, Brownstone Seoul 101, S-Trenue, Samsung Raemian Gangdong Palace Office Tower, Tower Palace One, Tower D, Samsung C&T Corporation HQ, Samsung Life Insurance Corporation HQ, Lotte Castle President 101, Lotte Castle President 102, Kumho Richensia Tower A, Kumho Richensia Tower B, Samsung Raemian Gangdong Palace Residential Tower 103, Co-op Starclass Residential Complex Tower 1, Yeongdeungpo SK Leaders View Officetel, Wing 1, Ichon Rex Tower C, Wolgok New City Tower 1, Galleria Palace Tower A, Galleria Palace Tower B, Galleria Palace Tower C, Lotte Castle Gold 1, Lotte Castle Gold 2, SK Telecom Headquarters, Glostar Center Tower 1, Glostar Center Tower 2, Wolgok New City Tower 2, Lucky-Goldstar Tower I, Wolgok New City Tower 3, Co-op Starclass Residential Complex Tower 2, Tong Yang Fire & Marine Building, Samsung Raemian Gangdong Palace Residential Tower 101, Samsung Raemian Gangdong Palace Residential Tower 102, Meritz Building, Boramae Nasan Suite, Wolgok New City Tower 4, Boramae Fantasia Tower, Ssangyong Finance Building, Brownstone Seoul 102, Lotte Hotel Seoul, Daelim Acrotel, MMAA Building, POSCO Centre East Tower, Park Suites Seoul Tower A, Park Suites Seoul Tower B, Daewoo Trumpworld Two, Tower I, Daewoo Trumpworld Two, Tower II, Good Morning Securities Building, Hanwa Securities Building, Mok-Dong Chereville Tower I, Mok-Dong Chereville Tower II, Samsung Jong-Ro Tower, Lucky-Goldstar Tower II, I-Park Tower 102, Posteel Tower, Daewoo Trumpworld One, Tower I, Daewoo Trumpworld One, Tower II, Hyundai Superville Tower C, Seocho Garak Tower East, Daewoo Worldmark Yongsan 1, Daewoo Worldmark Yongsan 2, Yongsan 3 District Dongbu Asterium 1, Yongsan 3 District Dongbu Asterium 2, Hyundai Parkville, Korea HP Plaza, Ferrum Tower, Korea Special Construction Center, Chang Kyong Building, Hanwha Headquarters, Daelim Acroriver Tower A, Sharp Star City Tower B, Glass Tower, Boutique Monaco, Hana Bank Headquarters, Amorepacific Headquarters, Yonsei Medical Center Severance Hospital, COEX InterContinental Seoul, Namdaemun Office Building, Hyundai Superville Tower B, Samsung Medical Center, Central Goverment Complex, Hyundai Superville Tower A
+Tiers: I: 6, II: 58, III: 74, IV: 9, V: 1, VI: 1
+Rating: 490 (5.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Busan ***
+Country: South Korea
+Region: Asia
+90 towers: LCT Landmark Tower, LCT Residential Tower A, LCT Residential Tower B, Doosan Haeundae We've the Zenith Tower A, Haeundae I Park Marina Tower 2, Busan International Finance Center Landmark Tower, Doosan Haeundae We've the Zenith Tower B, Haeundae I Park Marina Tower 1, Doosan Haeundae We've the Zenith Tower C, WBC The Palace 1, WBC The Palace 2, The-W 101, The-W 102, The-W 103, The-W 104, Songdo Ijin Bay City Tower 1, Songdo Ijin Bay City Tower 2, Songdo Ijin Bay City Tower 3, Centum Star B, Seomyeon Central Star A, Haeundae I Park Marina Tower 3, Golden View Central Park Tower A, Golden View Central Park Tower B, Golden View Central Park Tower C, Daewoo Haeundae Aratrium, Centum Leaders Mark, Centum Star C, Centum Star A, SK HUB Sky Tower 1, SK HUB Sky Tower 2, Haeundae Hillside We've Tower 102, Haeundae Hillside We've Tower 202, Kyungdong Jade 103, Lotte Hotel Busan, Seomyeon Central Star C, Seomyeon Central Star D, Haeundae Iaan Exordium 101, Majestower Beomil 101, Majestower Beomil 102, Seomyeon Central Star E, Seomyeon Central Star B, Haeundae Hillside We've Tower 104, Kyungdong Jade 102, Beomil LH Ocean Bridge Tower A, Beomil LH Ocean Bridge Tower B, Haeundae Lotte Castle Star 101, Haeundae Lotte Castle Star 102, Haeundae Lotte Castle Star 103, Haeundae Lotte Castle Star 104, Marine City Xi, Dongrae Hyosung Hellington Place Tower A, Dongrae Hyosung Hellington Place Tower B, Dongrae Hyosung Hellington Place Tower C, Majestower Beomil 103, Haeundae Hillside We've Tower 201, Sharp Centum Park 102, Sharp Centum Park 104, Sharp Centum Park 106, Sharp Centum Park 107, Sharp Centum Park 108, Sharp Centum Park 110, Sharp Centum Park 112, Sharp Centum Park 113, Sharp Centum Park 114, Hotel Lamuette, Haeundae Hillside We've Tower 105, Sharp Centum Park 202, Sharp Centum Park 204, Sharp Centum Park 206, Kyungdong Jade 101, Haeundae Hillside We've Tower 103, We've the Zenith Poseidon A, We've the Zenith Poseidon B, The Sharp Adele-Reese 101, The Sharp Adele-Reese 102, Sharp Centum Park 101, Sharp Centum Park 109, Sharp Centum Park 111, Sharp Centum Park 205, Woosin Golden Sweet Complex, Daewoo Trump World Marine A, Daewoo Trump World Marine B, Haeundae Hillside We've Tower 204, Haeundae Iaan Exordium 102, Haeundae Iaan Exordium 103, Haeundae Hillside We've Tower 101, Hanhwa Resort Hotel, Daewoo Trump World Centum A, Daewoo Trump World Centum B, Haeundae Hillside We've Tower 203
+Tiers: II: 19, III: 52, IV: 15, V: 4
+Rating: 368 (20.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Incheon ***
+Country: South Korea
+Region: Asia
+37 towers: Northeast Asia Trade Tower, Artwin I, Artwin II, The First World Tower 1, The First World Tower 2, The First World Tower 3, The First World Tower 4, Cheongna Posco The Lake Park 2801, Songdo Posco Centroad Tower 1, Cheongna Exllu Tower A, Cheongna Exllu Tower B, Cheongna Daewoo Prugio Tower 1, Songdo Posco E&C Center 1, Songdo Posco E&C Center 2, Cheongna Posco The Lake Park 2802, Cheongna Posco The Lake Park 2803, Cheongna Posco The Lake Park 2804, Yeonsu Daewoo Prugio Park View Tower A, Songdo Central Park Prugio Tower I, Songdo Central Park Prugio Tower II, Songdo Central Park Prugio Tower III, The # Central Park II 203, Cheongna Lotte Castle Premium Town Tower 1, The # Central Park I 101, The # Central Park I 102, The # Central Park I 103, Cheongna Exllu Tower C, The # Central Park II 201, The # Central Park II 202, I Tower, Songdo Xi Harbour View Tower A, Songdo Xi Harbour View Tower B, Songdo Posco Centroad Tower 2, Songdo Posco Centroad Tower 3, Songdo Xi Harbour View Tower C, Songdo Xi Harbour View Tower D, Sheraton Incheon Hotel
+Tiers: I: 1, II: 4, III: 25, IV: 6, V: 1
+Rating: 153
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Goyang ***
+Country: South Korea
+Region: Asia
+14 towers: Ilsan Yojin Y-City Tower 103, Ilsan Yojin Y-City Tower 105, Tanhyun Doosan We've the Zenith 105, Ilsan Yojin Y-City Tower 102, Ilsan Yojin Y-City Tower 104, Tanhyun Doosan We've the Zenith 104, Ilsan Yojin Y-City Tower 106, Tanhyun Doosan We've the Zenith 102, Tanhyun Doosan We've the Zenith 103, Tanhyun Doosan We've the Zenith 106, Ilsan Yojin Y-City Tower 101, Tanhyun Doosan We've the Zenith 101, Tanhyun Doosan We've the Zenith 107, Tanhyun Doosan We've the Zenith 108
+Tiers: III: 1, IV: 13
+Rating: 82
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Daejeon ***
+Country: South Korea
+Region: Asia
+10 towers: Kumgang Exllu Tower 102, Kumgang Exllu Tower 103, Kumgang Exllu Tower 105, Kumgang Exllu Tower 106, Kumgang Exllu Tower 107, Kumgang Exllu Tower 108, Kumgang Exllu Tower 110, Kumgang Exllu Tower 111, Korail Headquarters Tower A, Korail Headquarters Tower B
+Tiers: III: 10
+Rating: 40
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Daegu ***
+Country: South Korea
+Region: Asia
+10 towers: Suseong Leader's View Tower A, Suseong Leader's View Tower B, Suseong We've The Zenith 101, Suseong We've The Zenith 102, Worldmark Westend 105, Worldmark Westend 102, Worldmark Westend 103, Worldmark Westend 101, Centro Palace Tower 101, Centro Palace Tower 102
+Tiers: II: 4, III: 4, IV: 2
+Rating: 36
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hwaseong ***
+Country: South Korea
+Region: Asia
+4 towers: Hwaseong Dongtan Metapolis 101, Hwaseong Dongtan Metapolis 104, Hwaseong Dongtan Metapolis 102, Hwaseong Dongtan Metapolis 103
+Tiers: III: 1, IV: 3
+Rating: 22
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ulsan ***
+Country: South Korea
+Region: Asia
+5 towers: Taehwa River Iaan Exordium 1, Taehwa River Iaan Exordium 2, Ulsan Doosan We've The Zenith Tower A, Ulsan Doosan We've The Zenith Tower B, Hyundae Fire & Marine Insurance HQ
+Tiers: III: 5
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bucheon ***
+Country: South Korea
+Region: Asia
+2 towers: Bucheon Kumho Richensia Tower 1, Bucheon Kumho Richensia Tower 2
+Tiers: IV: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Changwon ***
+Country: South Korea
+Region: Asia
+2 towers: The City 7 Xi Tower 1, The City 7 Xi Tower 2
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Anyang ***
+Country: South Korea
+Region: Asia
+2 towers: AcroTower 1, AcroTower 2
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Seongnam ***
+Country: South Korea
+Region: Asia
+4 towers: NHN Green Factory, Kolon Tripolis I Tower A, Kolon Tripolis I Tower B, Kolon Tripolis I Tower C
+Tiers: II: 4
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Suwon ***
+Country: South Korea
+Region: Asia
+2 towers: Samsung Electronics Research & Development Center Phase II, Worldmark Gwanggyo Pugio Tower 1
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chonan ***
+Country: South Korea
+Region: Asia
+1 tower: Asan SK Pentaport Residential Tower 3
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cheongju ***
+Country: South Korea
+Region: Asia
+1 tower: G-Well City Landmark Tower
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gwangju ***
+Country: South Korea
+Region: Asia
+1 tower: Kumho Insurance Office Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

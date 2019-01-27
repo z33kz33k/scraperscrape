@@ -1,0 +1,56 @@
+*** Bethesda (5) ***
+1. Market East Tower, 88m
+2. One White Flint North, 81m
+3. National Naval Medical Center, 80m
+4. Chevy Chase Bank East Tower, 76m
+5. Chevy Chase Bank West Tower, 76m
+
+******************** DETAILS ********************
+
+*** Bethesda ***
+Country: United States
+Region: North America
+5 towers: Market East Tower, One White Flint North, National Naval Medical Center, Chevy Chase Bank East Tower, Chevy Chase Bank West Tower
+Tiers: I: 5
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Market East Tower ***
+Height: 88.1
+Floors: 24
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** One White Flint North ***
+Height: 81.1
+Floors: 18
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 2
+
+*** National Naval Medical Center ***
+Height: 80.5
+Floors: 19
+Status: Completed
+Completed: 1942
+Functions: hospital
+Rank: 3
+
+*** Chevy Chase Bank East Tower ***
+Height: 76.2
+Floors: 19
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 4
+
+*** Chevy Chase Bank West Tower ***
+Height: 76.2
+Floors: 19
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 4

@@ -1,0 +1,18 @@
+*** Mali (1) ***
+1. Bamako, 1
+
+******************** DETAILS ********************
+
+*** Mali ***
+Region: Africa
+1 city: Bamako
+Tiers: I: 1
+Rating: 1
+
+*** Bamako ***
+Country: Mali
+Region: Africa
+1 tower: BCEAO Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

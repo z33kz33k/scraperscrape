@@ -1,0 +1,277 @@
+*** Berlin (33) ***
+1.  Park Inn Berlin Alexanderplatz, 125m
+2.  Hochhaus Treptower, 125m
+3.  Upper West, 119m
+4.  Zoofenster, 119m
+5.  Steglitzer Kreisel, 118m
+6.  Debis Tower, 106m
+7.  Bahn Tower, 103m
+8.  Europa Center, 103m
+9.  Kudamm Karree, 102m
+10. Kollhoff Tower, 101m
+11. Die Pyramide, 100m
+12. Charite, 100m
+13. Internationales Handelszentrum Berlin, 96m
+14. Deutsche Rentenversicherung Bund, 95m
+15. Max, 95m
+16. Postbank-Hochhaus, 89m
+17. Moritz, 85m
+18. GSW Hauptverwaltung, 82m
+19. Telefunken-Hochhaus, 79m
+20. Potsdamer Platz 11, 79m
+21. Leipziger Straße 51, 78m
+22. Leipziger Straße 40/41, 78m
+23. Leipziger Straße 43/44, 78m
+24. Leipziger Straße 46/47, 78m
+25. Leipziger Straße 48/49, 78m
+26. Axel-Springer-Hochhaus, 78m
+27.  Königstadt-Carrée, 77m
+
+******************** DETAILS ********************
+
+*** Berlin ***
+Country: Germany
+Region: Europe
+27 towers: Park Inn Berlin Alexanderplatz, Hochhaus Treptower, Upper West, Zoofenster, Steglitzer Kreisel, Debis Tower, Bahn Tower, Europa Center, Kudamm Karree, Kollhoff Tower, Die Pyramide, Charite, Internationales Handelszentrum Berlin, Deutsche Rentenversicherung Bund, Max, Postbank-Hochhaus, Moritz, GSW Hauptverwaltung, Telefunken-Hochhaus, Potsdamer Platz 11, Leipziger Straße 51, Leipziger Straße 40/41, Leipziger Straße 43/44, Leipziger Straße 46/47, Leipziger Straße 48/49, Axel-Springer-Hochhaus,  Königstadt-Carrée
+Tiers: I: 21, II: 6
+Rating: 33 (6.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Park Inn Berlin Alexanderplatz ***
+Height: 125
+Floors: 41
+Status: Completed
+Started: 1967
+Completed: 1970
+Functions: hotel
+Rank: 1
+
+*** Hochhaus Treptower ***
+Height: 125
+Floors: 32
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 2
+
+*** Upper West ***
+Height: 119
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office / hotel / retail
+Rank: 3
+
+*** Zoofenster ***
+Height: 118.8
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hotel / office
+Rank: 4
+
+*** Steglitzer Kreisel ***
+Height: 118.5
+Floors: 30
+Status: Completed
+Started: 1969
+Completed: 1980
+Functions: abandoned
+Rank: 5
+
+*** Debis Tower ***
+Height: 106
+Floors: 22
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 6
+
+*** Bahn Tower ***
+Height: 103
+Floors: 26
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 7
+
+*** Europa Center ***
+Height: 103
+Floors: 22
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 8
+
+*** Kudamm Karree ***
+Height: 102
+Floors: 23
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 9
+
+*** Kollhoff Tower ***
+Height: 101
+Floors: 23
+Status: Completed
+Started: 1994
+Completed: 1999
+Functions: office
+Rank: 10
+
+*** Die Pyramide ***
+Height: 100
+Floors: 23
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 11
+
+*** Charite ***
+Height: 100
+Floors: 21
+Status: Completed
+Started: 1976
+Completed: 1982
+Functions: hospital
+Rank: 12
+
+*** Internationales Handelszentrum Berlin ***
+Height: 96
+Floors: 23
+Status: Completed
+Started: 1976
+Completed: 1978
+Functions: office
+Rank: 13
+
+*** Deutsche Rentenversicherung Bund ***
+Height: 95.4
+Floors: 23
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 14
+
+*** Max ***
+Height: 95
+Floors: 26
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 15
+
+*** Postbank-Hochhaus ***
+Height: 89
+Floors: 24
+Status: Completed
+Started: 1965
+Completed: 1971
+Functions: office
+Rank: 16
+
+*** Moritz ***
+Height: 85
+Floors: 23
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 17
+
+*** GSW Hauptverwaltung ***
+Height: 81.5
+Floors: 22
+Status: Completed
+Started: 1995
+Completed: 1999
+Functions: office
+Rank: 18
+
+*** Telefunken-Hochhaus ***
+Height: 79
+Floors: 22
+Status: Completed
+Started: 1958
+Completed: 1960
+Functions: education
+Rank: 19
+
+*** Potsdamer Platz 11 ***
+Height: 79
+Floors: 19
+Status: Completed
+Started: 1995
+Completed: 1999
+Functions: office
+Rank: 20
+
+*** Leipziger Straße 51 ***
+Height: 78.3
+Floors: 20
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 21
+
+*** Leipziger Straße 40/41 ***
+Height: 78
+Floors: 25
+Status: Completed
+Started: 1972
+Completed: 1977
+Functions: residential / retail
+Rank: 22
+
+*** Leipziger Straße 43/44 ***
+Height: 78
+Floors: 25
+Status: Completed
+Started: 1972
+Completed: 1977
+Functions: residential / retail
+Rank: 22
+
+*** Leipziger Straße 46/47 ***
+Height: 78
+Floors: 25
+Status: Completed
+Started: 1972
+Completed: 1977
+Functions: residential / retail
+Rank: 22
+
+*** Leipziger Straße 48/49 ***
+Height: 78
+Floors: 25
+Status: Completed
+Started: 1972
+Completed: 1977
+Functions: residential / retail
+Rank: 22
+
+*** Axel-Springer-Hochhaus ***
+Height: 78
+Floors: 20
+Status: Completed
+Started: 1961
+Completed: 1964
+Functions: office
+Rank: 26
+
+***  Königstadt-Carrée ***
+Height: 76.8
+Floors: 22
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 27

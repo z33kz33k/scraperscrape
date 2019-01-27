@@ -1,0 +1,39 @@
+*** Little Rock (8) ***
+1. Simmons Tower, 166m
+2. Regions Center, 138m
+3. Bank of America Plaza, 114m
+
+******************** DETAILS ********************
+
+*** Little Rock ***
+Country: United States
+Region: North America
+3 towers: Simmons Tower, Regions Center, Bank of America Plaza
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Simmons Tower ***
+Height: 166.42
+Floors: 40
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: office
+Rank: 1
+
+*** Regions Center ***
+Height: 138.38
+Floors: 30
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 2
+
+*** Bank of America Plaza ***
+Height: 114.3
+Floors: 24
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 3

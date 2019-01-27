@@ -1,0 +1,41 @@
+*** Khon Kaen (5) ***
+1. The Houze, 137m
+2. The Base Height Mittraphap, 120m
+3. Pullman Khon Kaen Raja Orchid, 104m
+
+******************** DETAILS ********************
+
+*** Khon Kaen ***
+Country: Thailand
+Region: Asia
+3 towers: The Houze, The Base Height Mittraphap, Pullman Khon Kaen Raja Orchid
+Tiers: I: 1, II: 2
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Houze ***
+Height: 137
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** The Base Height Mittraphap ***
+Height: 120
+Floors: 37
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 2
+
+*** Pullman Khon Kaen Raja Orchid ***
+Height: 104
+Floors: 26
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: hotel
+Rank: 3

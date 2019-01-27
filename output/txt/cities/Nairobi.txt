@@ -1,0 +1,199 @@
+*** Nairobi (43) ***
+1.  The Pinnacle Tower, 320m
+2.  Pinnacle Tower II, 201m
+3.  Britam Tower, 200m
+4.  Global Trade Center Office Tower, 184m
+5.  UAP Old Mutual Tower, 163m
+6.  Times Tower, 140m
+7.  Parliament Tower, 125m
+8.  Teleposta Towers, 120m
+9.  Kenya Commercial Bank Plaza, 109m
+10. Kenyatta International Conference Centre, 105m
+11. Social Security House, 103m
+12. I & M Bank Tower, 99m
+13. Sanlam Tower, 88m
+14. Nyayo House, 84m
+15. Cooperative Bank House, 83m
+16. Nation Centre, 83m
+17. National Bank House, 82m
+18. Anniversary Towers, 80m
+19. Lonrho House, 80m
+20. Reinsurance Plaza, 77m
+
+******************** DETAILS ********************
+
+*** Nairobi ***
+Country: Kenya
+Region: Africa
+20 towers: The Pinnacle Tower, Pinnacle Tower II, Britam Tower, Global Trade Center Office Tower, UAP Old Mutual Tower, Times Tower, Parliament Tower, Teleposta Towers, Kenya Commercial Bank Plaza, Kenyatta International Conference Centre, Social Security House, I & M Bank Tower, Sanlam Tower, Nyayo House, Cooperative Bank House, Nation Centre, National Bank House, Anniversary Towers, Lonrho House, Reinsurance Plaza
+Tiers: I: 11, II: 4, III: 4, V: 1
+Rating: 43 (41.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Pinnacle Tower ***
+Height: 320
+Floors: 67
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential / office / hotel
+Rank: 1
+
+*** Pinnacle Tower II ***
+Height: 201
+Floors: 45
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: hotel / retail
+Rank: 2
+
+*** Britam Tower ***
+Height: 200.07
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 3
+
+*** Global Trade Center Office Tower ***
+Height: 184
+Floors: 43
+Status: Under Construction
+Completed: 2020
+Functions: office
+Rank: 4
+
+*** UAP Old Mutual Tower ***
+Height: 163
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 5
+
+*** Times Tower ***
+Height: 140
+Floors: 38
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 6
+
+*** Parliament Tower ***
+Height: 125
+Floors: 26
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: government
+Rank: 7
+
+*** Teleposta Towers ***
+Height: 120
+Floors: 27
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 8
+
+*** Kenya Commercial Bank Plaza ***
+Height: 109.13
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 9
+
+*** Kenyatta International Conference Centre ***
+Height: 105.16
+Floors: 32
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 10
+
+*** Social Security House ***
+Height: 102.72
+Floors: 28
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 11
+
+*** I & M Bank Tower ***
+Height: 99.06
+Floors: 18
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 12
+
+*** Sanlam Tower ***
+Height: 88.2
+Floors: 19
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 13
+
+*** Nyayo House ***
+Height: 84.13
+Floors: 27
+Status: Completed
+Completed: 1982
+Functions: government
+Rank: 14
+
+*** Cooperative Bank House ***
+Height: 83
+Floors: 25
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 15
+
+*** Nation Centre ***
+Height: 82.9
+Floors: 17
+Status: Completed
+Started: 1992
+Completed: 1997
+Functions: office
+Rank: 16
+
+*** National Bank House ***
+Height: 82
+Floors: 21
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 17
+
+*** Anniversary Towers ***
+Height: 79.86
+Floors: 26
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 18
+
+*** Lonrho House ***
+Height: 79.86
+Floors: 22
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 19
+
+*** Reinsurance Plaza ***
+Height: 77
+Floors: 20
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 20

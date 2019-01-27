@@ -1,0 +1,354 @@
+*** Paris (46) ***
+1.  Tribunal de Paris, 160m
+2.  Hotel Concorde Lafayette, 137m
+3.  Tour Prelude, 123m
+4.  Hotel Meridien Montparnasse, 116m
+5.  Tour Super-Italie, 112m
+6.  Tour Fugue, 108m
+7.  Tour Helsinki, 104m
+8.  Tour Anvers, 104m
+9.  Tour Athènes, 104m
+10. Tour Londres, 104m
+11. Tour Mexico, 104m
+12. Tour Sapporo, 104m
+13. Tour Tokyo, 104m
+14. Tour Cortina, 104m
+15. Tour Chéops, 103m
+16. Tour Mykérinos, 103m
+17. Tour Ancône, 102m
+18. Tour Bologne, 102m
+19. Tour Ferrare, 102m
+20. Tour Palerme, 102m
+21. Tour Ravenne, 102m
+22. Tour Cantate, 101m
+23. Tour Panorama, 100m
+24. Tour Totem, 100m
+25. Résidence Paris Côté Seine, 98m
+26. Tour de Seine, 98m
+27. Tour Chambord, 96m
+28. Tour Mantoue, 95m
+29. Tour Puccini, 95m
+30. Tour Verdi, 95m
+31. Tour HT1, 95m
+32. Novotel Tour Eiffel, 94m
+33. Tour de Flandre, 93m
+34. Tour Saint Blaise, 90m
+35. Tour de Nombres, 80m
+36. Tour des Lettres, 80m
+37. Tour des Lois, 80m
+38. Tour des Temps, 80m
+
+******************** DETAILS ********************
+
+*** Paris ***
+Country: France
+Region: Europe
+38 towers: Tribunal de Paris, Hotel Concorde Lafayette, Tour Prelude, Hotel Meridien Montparnasse, Tour Super-Italie, Tour Fugue, Tour Helsinki, Tour Anvers, Tour Athènes, Tour Londres, Tour Mexico, Tour Sapporo, Tour Tokyo, Tour Cortina, Tour Chéops, Tour Mykérinos, Tour Ancône, Tour Bologne, Tour Ferrare, Tour Palerme, Tour Ravenne, Tour Cantate, Tour Panorama, Tour Totem, Résidence Paris Côté Seine, Tour de Seine, Tour Chambord, Tour Mantoue, Tour Puccini, Tour Verdi, Tour HT1, Novotel Tour Eiffel, Tour de Flandre, Tour Saint Blaise, Tour de Nombres, Tour des Lettres, Tour des Lois, Tour des Temps
+Tiers: I: 32, II: 5, III: 1
+Rating: 46
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tribunal de Paris ***
+Height: 159.65
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 1
+
+*** Hotel Concorde Lafayette ***
+Height: 137
+Floors: 34
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 2
+
+*** Tour Prelude ***
+Height: 123
+Floors: 39
+Status: Completed
+Completed: 1979
+Functions: residential
+Rank: 3
+
+*** Hotel Meridien Montparnasse ***
+Height: 116
+Floors: 31
+Status: Completed
+Completed: 1971
+Functions: hotel
+Rank: 4
+
+*** Tour Super-Italie ***
+Height: 112
+Floors: 38
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 5
+
+*** Tour Fugue ***
+Height: 108
+Floors: 35
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 6
+
+*** Tour Helsinki ***
+Height: 104
+Floors: 37
+Status: Completed
+Started: 1968
+Completed: 1974
+Functions: residential
+Rank: 7
+
+*** Tour Anvers ***
+Height: 104
+Floors: 36
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 8
+
+*** Tour Athènes ***
+Height: 104
+Floors: 36
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 8
+
+*** Tour Londres ***
+Height: 104
+Floors: 36
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 8
+
+*** Tour Mexico ***
+Height: 104
+Floors: 36
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 8
+
+*** Tour Sapporo ***
+Height: 104
+Floors: 36
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 8
+
+*** Tour Tokyo ***
+Height: 104
+Floors: 36
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 8
+
+*** Tour Cortina ***
+Height: 104
+Floors: 34
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 14
+
+*** Tour Chéops ***
+Height: 103
+Floors: 35
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 15
+
+*** Tour Mykérinos ***
+Height: 103
+Floors: 31
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 16
+
+*** Tour Ancône ***
+Height: 102
+Floors: 35
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 17
+
+*** Tour Bologne ***
+Height: 102
+Floors: 35
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 17
+
+*** Tour Ferrare ***
+Height: 102
+Floors: 35
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 17
+
+*** Tour Palerme ***
+Height: 102
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 17
+
+*** Tour Ravenne ***
+Height: 102
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 17
+
+*** Tour Cantate ***
+Height: 101
+Floors: 30
+Status: Completed
+Completed: 1979
+Functions: residential
+Rank: 22
+
+*** Tour Panorama ***
+Height: 100
+Floors: 31
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 23
+
+*** Tour Totem ***
+Height: 100
+Floors: 31
+Status: Completed
+Started: 1976
+Completed: 1979
+Functions: residential
+Rank: 23
+
+*** Résidence Paris Côté Seine ***
+Height: 98
+Floors: 32
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 25
+
+*** Tour de Seine ***
+Height: 98
+Floors: 31
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 26
+
+*** Tour Chambord ***
+Height: 96
+Floors: 34
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 27
+
+*** Tour Mantoue ***
+Height: 95
+Floors: 33
+Status: Completed
+Functions: residential
+Rank: 28
+
+*** Tour Puccini ***
+Height: 95
+Floors: 33
+Status: Completed
+Functions: residential
+Rank: 28
+
+*** Tour Verdi ***
+Height: 95
+Floors: 33
+Status: Completed
+Functions: residential
+Rank: 28
+
+*** Tour HT1 ***
+Height: 94.8
+Floors: 33
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 31
+
+*** Novotel Tour Eiffel ***
+Height: 94
+Floors: 31
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 32
+
+*** Tour de Flandre ***
+Height: 93
+Floors: 31
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 33
+
+*** Tour Saint Blaise ***
+Height: 90
+Floors: 31
+Status: Completed
+Functions: residential
+Rank: 34
+
+*** Tour de Nombres ***
+Height: 79.9
+Floors: 22
+Status: Completed
+Started: 1989
+Completed: 1995
+Functions: library
+Rank: 35
+
+*** Tour des Lettres ***
+Height: 79.9
+Floors: 22
+Status: Completed
+Started: 1989
+Completed: 1995
+Functions: library
+Rank: 35
+
+*** Tour des Lois ***
+Height: 79.9
+Floors: 22
+Status: Completed
+Started: 1989
+Completed: 1995
+Functions: library
+Rank: 35
+
+*** Tour des Temps ***
+Height: 79.9
+Floors: 22
+Status: Completed
+Started: 1989
+Completed: 1995
+Functions: library
+Rank: 35

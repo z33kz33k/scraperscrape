@@ -1,0 +1,376 @@
+*** Yokohama (86) ***
+1.  Landmark Tower, 296m
+2.  The Tower Yokohama Kitanaka, 212m
+3.  Queen's Tower A, 172m
+4.  Bay Quarter, 156m
+5.  Bank of Yokohama, 153m
+6.  Yokohama Mitsui Building, 152m
+7.  Mitsubishi Jyuko Yokohama Building, 152m
+8.  Nabule Yokohama Tower and Residence, 150m
+9.  Shin-Yokohama Prince Hotel, 149m
+10. The Yokohama Towers (East), 144m
+11. The Yokohama Towers (West), 144m
+12. Park Tower Yokohama Station Premier, 140m
+13. Yokohama Grand Inter-Continental Hotel, 140m
+14. Queen's Tower B, 138m
+15. Marina Gate Tower, 135m
+16. New Japan Oil Building, 133m
+17. Yokohama Sky Building, 132m
+18. Minato Mirai Grand Central Tower, 124m
+19. Yokohama I-land Tower, 120m
+20. Queen's Tower C, 109m
+21. M.M. Towers the East, 109m
+22. M.M. Towers the South, 109m
+23. M.M. Towers the West, 109m
+24. M.M. Towers Foresis-L, 107m
+25. M.M. Towers Foresis-R, 107m
+26. Brilla Grande Minato Mirai East Tower, 107m
+27. Brilla Grande Minato Mirai West Tower, 107m
+28. M.M. Mid Square The Tower Residence, 106m
+29. Yokohama Bay Hotel Tokyu, 105m
+30. Fujisoft ABC Sakuragicho Building, 105m
+31. Fuji Xerox R&D Square, 105m
+32. Yokohama Media Tower, 105m
+33. Pacific Royal Court Minatomirai Ocean Tower, 102m
+34. Pacific Royal Court Minatomirai Urban Tower, 102m
+35. Yokohama Sakuragicho Washington Hotel, 100m
+36. Nissan Motors Global Headquarters, 99m
+37. Mark-one Tower Nagatsuta, 99m
+38. Yokohama City University General Medical Center, 82m
+
+******************** DETAILS ********************
+
+*** Yokohama ***
+Country: Japan
+Region: Asia
+38 towers: Landmark Tower, The Tower Yokohama Kitanaka, Queen's Tower A, Bay Quarter, Bank of Yokohama, Yokohama Mitsui Building, Mitsubishi Jyuko Yokohama Building, Nabule Yokohama Tower and Residence, Shin-Yokohama Prince Hotel, The Yokohama Towers (East), The Yokohama Towers (West), Park Tower Yokohama Station Premier, Yokohama Grand Inter-Continental Hotel, Queen's Tower B, Marina Gate Tower, New Japan Oil Building, Yokohama Sky Building, Minato Mirai Grand Central Tower, Yokohama I-land Tower, Queen's Tower C, M.M. Towers the East, M.M. Towers the South, M.M. Towers the West, M.M. Towers Foresis-L, M.M. Towers Foresis-R, Brilla Grande Minato Mirai East Tower, Brilla Grande Minato Mirai West Tower, M.M. Mid Square The Tower Residence, Yokohama Bay Hotel Tokyu, Fujisoft ABC Sakuragicho Building, Fuji Xerox R&D Square, Yokohama Media Tower, Pacific Royal Court Minatomirai Ocean Tower, Pacific Royal Court Minatomirai Urban Tower, Yokohama Sakuragicho Washington Hotel, Nissan Motors Global Headquarters, Mark-one Tower Nagatsuta, Yokohama City University General Medical Center
+Tiers: I: 10, II: 20, III: 6, IV: 2
+Rating: 86 (7.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Landmark Tower ***
+Height: 296.33
+Floors: 73
+Status: Completed
+Completed: 1993
+Functions: hotel / office
+Rank: 1
+
+*** The Tower Yokohama Kitanaka ***
+Height: 211.95
+Floors: 58
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential / hotel / office
+Rank: 2
+
+*** Queen's Tower A ***
+Height: 171.8
+Floors: 36
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 3
+
+*** Bay Quarter ***
+Height: 156.5
+Floors: 31
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 4
+
+*** Bank of Yokohama ***
+Height: 153
+Floors: 28
+Status: Completed
+Started: 1990
+Completed: 1993
+Functions: office
+Rank: 5
+
+*** Yokohama Mitsui Building ***
+Height: 152.2
+Floors: 31
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 6
+
+*** Mitsubishi Jyuko Yokohama Building ***
+Height: 151.9
+Floors: 34
+Status: Completed
+Started: 1992
+Completed: 1993
+Functions: office
+Rank: 7
+
+*** Nabule Yokohama Tower and Residence ***
+Height: 150
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 8
+
+*** Shin-Yokohama Prince Hotel ***
+Height: 149.4
+Floors: 43
+Status: Completed
+Completed: 1992
+Functions: hotel
+Rank: 9
+
+*** The Yokohama Towers (East) ***
+Height: 144
+Floors: 42
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 10
+
+*** The Yokohama Towers (West) ***
+Height: 144
+Floors: 42
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 10
+
+*** Park Tower Yokohama Station Premier ***
+Height: 140.3
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 12
+
+*** Yokohama Grand Inter-Continental Hotel ***
+Height: 140.2
+Floors: 31
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: hotel
+Rank: 13
+
+*** Queen's Tower B ***
+Height: 137.8
+Floors: 28
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office / retail
+Rank: 14
+
+*** Marina Gate Tower ***
+Height: 135
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 15
+
+*** New Japan Oil Building ***
+Height: 133
+Floors: 30
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office
+Rank: 16
+
+*** Yokohama Sky Building ***
+Height: 132
+Floors: 29
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office / retail
+Rank: 17
+
+*** Minato Mirai Grand Central Tower ***
+Height: 123.6
+Floors: 26
+Status: Completed
+Completed: 2011
+Functions: office / retail
+Rank: 18
+
+*** Yokohama I-land Tower ***
+Height: 120
+Floors: 27
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 19
+
+*** Queen's Tower C ***
+Height: 109.1
+Floors: 21
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office / retail
+Rank: 20
+
+*** M.M. Towers the East ***
+Height: 109
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 21
+
+*** M.M. Towers the South ***
+Height: 109
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 21
+
+*** M.M. Towers the West ***
+Height: 109
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 21
+
+*** M.M. Towers Foresis-L ***
+Height: 107.3
+Floors: 30
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 24
+
+*** M.M. Towers Foresis-R ***
+Height: 107.3
+Floors: 30
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 24
+
+*** Brilla Grande Minato Mirai East Tower ***
+Height: 106.68
+Floors: 30
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 26
+
+*** Brilla Grande Minato Mirai West Tower ***
+Height: 106.68
+Floors: 30
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 26
+
+*** M.M. Mid Square The Tower Residence ***
+Height: 106
+Floors: 31
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 28
+
+*** Yokohama Bay Hotel Tokyu ***
+Height: 105.2
+Floors: 25
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: hotel
+Rank: 29
+
+*** Fujisoft ABC Sakuragicho Building ***
+Height: 105.2
+Floors: 21
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 30
+
+*** Fuji Xerox R&D Square ***
+Height: 104.85
+Floors: 20
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 31
+
+*** Yokohama Media Tower ***
+Height: 104.6
+Floors: 22
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 32
+
+*** Pacific Royal Court Minatomirai Ocean Tower ***
+Height: 102.1
+Floors: 29
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 33
+
+*** Pacific Royal Court Minatomirai Urban Tower ***
+Height: 102.1
+Floors: 29
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 33
+
+*** Yokohama Sakuragicho Washington Hotel ***
+Height: 100
+Floors: 25
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: hotel
+Rank: 35
+
+*** Nissan Motors Global Headquarters ***
+Height: 99.4
+Floors: 22
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 36
+
+*** Mark-one Tower Nagatsuta ***
+Height: 98.6
+Floors: 29
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 37
+
+*** Yokohama City University General Medical Center ***
+Height: 82.3
+Floors: 15
+Status: Completed
+Completed: 1999
+Functions: hospital
+Rank: 38

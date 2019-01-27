@@ -1,0 +1,38 @@
+*** Springfield (MA) (5) ***
+1. Monarch Place, 122m
+2. Tower Square, 110m
+3. Chestnut Park, 88m
+
+******************** DETAILS ********************
+
+*** Springfield (MA) ***
+Country: United States
+Region: North America
+3 towers: Monarch Place, Tower Square, Chestnut Park
+Tiers: I: 1, II: 2
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Monarch Place ***
+Height: 121.92
+Floors: 26
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 1
+
+*** Tower Square ***
+Height: 109.73
+Floors: 28
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 2
+
+*** Chestnut Park ***
+Height: 88.09
+Floors: 33
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 3

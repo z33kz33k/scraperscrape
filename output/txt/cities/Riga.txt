@@ -1,0 +1,136 @@
+*** Riga (18) ***
+1.  Z-tornis A, 130m
+2.  Swedbank Central Office, 121m
+3.  Panorama Plaza II, 114m
+4.  Academy of Sciences, 108m
+5.  Z-tornis B, 107m
+6.  Panorama Plaza I, 99m
+7.  Reval Hotel Latvia, 95m
+8.  Ministry of Agriculture Building, 92m
+9.  Tatvijas Televizija, 89m
+10. AstraLux, 81m
+11. Solaris I, 78m
+12. Solaris II, 78m
+13. Preses Nams, 77m
+
+******************** DETAILS ********************
+
+*** Riga ***
+Country: Latvia
+Region: Europe
+13 towers: Z-tornis A, Swedbank Central Office, Panorama Plaza II, Academy of Sciences, Z-tornis B, Panorama Plaza I, Reval Hotel Latvia, Ministry of Agriculture Building, Tatvijas Televizija, AstraLux, Solaris I, Solaris II, Preses Nams
+Tiers: I: 8, II: 5
+Rating: 18
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Z-tornis A ***
+Height: 130
+Floors: 33
+Status: Completed
+Started: 2006
+Completed: 2016
+Functions: hotel / office
+Rank: 1
+
+*** Swedbank Central Office ***
+Height: 120.8
+Floors: 27
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 2
+
+*** Panorama Plaza II ***
+Height: 113.9
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 3
+
+*** Academy of Sciences ***
+Height: 107.6
+Floors: 21
+Status: Completed
+Completed: 1955
+Functions: education
+Rank: 4
+
+*** Z-tornis B ***
+Height: 107
+Floors: 28
+Status: Completed
+Started: 2006
+Completed: 2016
+Functions: office
+Rank: 5
+
+*** Panorama Plaza I ***
+Height: 98.9
+Floors: 27
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 6
+
+*** Reval Hotel Latvia ***
+Height: 95
+Floors: 27
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 7
+
+*** Ministry of Agriculture Building ***
+Height: 92
+Floors: 26
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 8
+
+*** Tatvijas Televizija ***
+Height: 89
+Floors: 22
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 9
+
+*** AstraLux ***
+Height: 81
+Floors: 24
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 10
+
+*** Solaris I ***
+Height: 77.92
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 11
+
+*** Solaris II ***
+Height: 77.92
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 11
+
+*** Preses Nams ***
+Height: 76.8
+Floors: 22
+Status: Completed
+Started: 1973
+Completed: 1977
+Functions: office
+Rank: 13

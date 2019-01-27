@@ -1,0 +1,21 @@
+*** Hemel Hempstead (1) ***
+1. KD Tower, 85m
+
+******************** DETAILS ********************
+
+*** Hemel Hempstead ***
+Country: United Kingdom
+Region: Europe
+1 tower: KD Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** KD Tower ***
+Height: 85
+Floors: 20
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 1

@@ -1,0 +1,21 @@
+*** Columbia (2) ***
+1. Capitol Center, 106m
+
+******************** DETAILS ********************
+
+*** Columbia ***
+Country: United States
+Region: North America
+1 tower: Capitol Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-21 23:13:18
+
+*** Capitol Center ***
+Height: 106.38
+Floors: 25
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 1

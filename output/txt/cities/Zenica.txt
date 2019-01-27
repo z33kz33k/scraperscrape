@@ -1,0 +1,21 @@
+*** Zenica (1) ***
+1. Lamela, 102m
+
+******************** DETAILS ********************
+
+*** Zenica ***
+Country: Bosnia And Herzegovina
+Region: Europe
+1 tower: Lamela
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Lamela ***
+Height: 102
+Floors: 27
+Status: Completed
+Started: 1971
+Completed: 1976
+Functions: residential
+Rank: 1

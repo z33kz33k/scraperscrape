@@ -1,0 +1,47 @@
+*** Natal (8) ***
+1. Mirante João Olímpio Filho, 138m
+2. Estrela do Atlantico Bloco A, 130m
+3. Estrela do Atlantico Bloco B, 130m
+4. Issa Hazbun Residencial, 123m
+
+******************** DETAILS ********************
+
+*** Natal ***
+Country: Brazil
+Region: South America
+4 towers: Mirante João Olímpio Filho, Estrela do Atlantico Bloco A, Estrela do Atlantico Bloco B, Issa Hazbun Residencial
+Tiers: II: 4
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mirante João Olímpio Filho ***
+Height: 138
+Floors: 43
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** Estrela do Atlantico Bloco A ***
+Height: 130
+Floors: 43
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 2
+
+*** Estrela do Atlantico Bloco B ***
+Height: 130
+Floors: 43
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 2
+
+*** Issa Hazbun Residencial ***
+Height: 122.8
+Floors: 37
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 4

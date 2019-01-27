@@ -1,0 +1,108 @@
+*** Philippines (588) ***
+1.  Makati, 256
+2.  Mandaluyong, 104
+3.  Taguig City, 84
+4.  Manila, 53
+5.  Pasig, 48
+6.  Quezon City, 16
+7.  San Juan (PH), 10
+8.  Cebu, 8
+9.  Cagayan de Oro, Mindanao, 4
+10. Muntinlupa, 4
+11. Davao, Mindanao, 1
+
+******************** DETAILS ********************
+
+*** Philippines ***
+Region: Asia
+11 cities: Makati, Mandaluyong, Taguig City, Manila, Pasig, Quezon City, San Juan (PH), Cebu, Cagayan de Oro, Mindanao, Muntinlupa, Davao, Mindanao
+Tiers: I: 8, II: 47, III: 81, IV: 27
+Rating: 588 (23.3% uncompleted)
+
+*** Makati ***
+Country: Philippines
+Region: Asia
+70 towers: Park Central North Tower, Philippine Bank of Communications, Trump Tower At Century City, The Shang Salcedo, Century Spire, Gramercy Residences, Discovery Primea, Alphaland Makati Place, GT International Tower, Park Central South Tower, Garden Towers 1, The Rise Makati, Park Terraces Point Tower, Petron Megaplaza, The Knightsbridge Residences, San Lorenzo Tower, One Rockwell West Tower, Garden Towers 2, Three Central, Philamlife Tower, The Beacon Arnaiz Tower, Milano Residences, Air Residences, One Central, Ayala Triangle Gardens North, RCBC Plaza Yuchengco Tower, Park Terraces Tower 1, Park Terraces Tower 2, Shang Grand Tower, LKG Tower, Alphaland Tower, One Roxas Triangle, Robinsons Summit Center, Enterprise Center Tower I, Laguna Tower, Manila Tower, RCBC Plaza Tower 2, One Rockwell East Tower, Rufino Pacific Tower, Edades Tower and Garden Villas, Ayala Tower One, The Beacon Roces Tower, Kroma Tower, Rizal Tower, Exportbank Plaza, Zuellig Building, BSA Makati Tower, The World Centre, Pacific Plaza Condominiums, One Legazpi Park, The Columns Legazpi Village Tower I, The Columns Legazpi Village Tower II, The Peak, Enterprise Center Tower II, Luna Gardens, Oxford Suites, Two Central, Laureano Di Trevi, Citibank Tower, Centuria Medical Makati, Oakwood Premier Ayala Center Tower 1, Oakwood Premier Ayala Center Tower 2, BSA Suites, Amorsolo West, Makati Prime Tower Suites, Citadel Inn Makati, Lezgaspi Place, Makati Sky Plaza, Kingswood Makati, Hidalgo Place
+Tiers: I: 6, II: 14, III: 39, IV: 11
+Rating: 256 (18.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Mandaluyong ***
+Country: Philippines
+Region: Asia
+25 towers: The Mega Tower, One Shangri-La Place North Tower, One Shangri-la Place South Tower, BSA Twin Tower 1, BSA Twin Tower 2, The St. Francis Shangri-la Place Tower 1, The St. Francis Shangri-la Place Tower 2, BDO Corporate Center Ortigas, SM Keppel Tower, The Exchange Square, Jollibee Tower, Westin Manila Sonata Place Residential Tower, Paragon Plaza, Twin Oaks Place East Tower, Twin Oaks Place West Tower, GA Twin Tower I, GA Twin Tower II, Flair Towers - North Tower, Flair Towers - South Tower, Lancaster Suites Tower I, Frame Residences Tower 1, Frame Residences Tower 2, Frame Residences Tower 3, Frame Residences Tower 4, Westin Manila Sonata Place Hotel Tower
+Tiers: II: 5, III: 13, IV: 7
+Rating: 104 (30.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Taguig City ***
+Country: Philippines
+Region: Asia
+27 towers: Grand Hyatt Metrocenter, Shangri-La at the Fort, The Suites at One Bonifacio High Street, 8 Forbestown Road, The Finance Centre, Pacific Plaza Tower 1, Pacific Plaza Tower 2, West Gallery Place, East Gallery Place, RCBC Savings Bank Corporate Center, Net Park, Bellagio Golfview Residences Tower 3, One McKinley Place, Bellagio Golfview Residences Tower 2, The Curve, Bellagio Golfview Residences Tower 1, Manila Golf Crest, One World Place, SM Aura Premier, Net Lima, Comeron Tower, Lawson Tower, The Conservatorium, City Center Tower, Ecotower, Regent Parkway, World Plaza
+Tiers: II: 15, III: 9, IV: 3
+Rating: 84 (19.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Manila ***
+Country: Philippines
+Region: Asia
+16 towers: Grand Riviera Suites, Park Royal Ongpin, Anchor Grand Suites, 1322 Golden Empire Tower, Admiral Baysuites, Anchor Skysuites, Birch Tower, Noble Place, Torre de Manila, Mandarin Square, Robinson Place Tower I, Robinson Place Tower II, Mayfair Tower, 2-Torre Lorenzo, Goldland Plaza, FEU TECH Building
+Tiers: I: 1, II: 6, III: 7, IV: 2
+Rating: 53 (26.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pasig ***
+Country: Philippines
+Region: Asia
+11 towers: The Imperium at Capital Commons, The Royalton, Corporate Finance Plaza, Union Bank Plaza, One Corporate Center, One San Miguel Avenue, Robinsons Equitable Tower, Discovery Centre, Exquadra Office Tower, J Tower, Medical Plaza Ortigas Center
+Tiers: II: 1, III: 7, IV: 3
+Rating: 48 (45.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Quezon City ***
+Country: Philippines
+Region: Asia
+4 towers: Skysuites Residential Tower, Aspire at Nuvo City, Dream at Nuvo City, Blue Residences 
+Tiers: II: 1, III: 2, IV: 1
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:17
+
+*** San Juan (PH) ***
+Country: Philippines
+Region: Asia
+3 towers: Viridian at Greenhills, Atlanta Centre, Baron Tower
+Tiers: II: 1, III: 2
+Rating: 10 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Cebu ***
+Country: Philippines
+Region: Asia
+3 towers: Horizons 101 Tower 1, Crown Regency Hotel & Towers Fuente Tower 1, Ultima Residences Fuente Tower 3
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cagayan de Oro, Mindanao ***
+Country: Philippines
+Region: Asia
+1 tower: Gateway Tower
+Tiers: III: 1
+Rating: 4 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Muntinlupa ***
+Country: Philippines
+Region: Asia
+2 towers: Insular Life Corporate Center I, Insular Life Corporate Center II
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Davao, Mindanao ***
+Country: Philippines
+Region: Asia
+1 tower: Aeon Towers
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

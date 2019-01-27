@@ -1,0 +1,75 @@
+*** Montevideo (14) ***
+1. Torre ANTEL, 158m
+2. World Trade Center Torre 4, 130m
+3. World Trade Center Torre 1, 120m
+4. World Trade Center Torre 2, 120m
+5. Radisson Montevideo Hotel, Torre Norte, 115m
+6. Torre El Gaucho, 95m
+7. Palacio Salvo, 84m
+
+******************** DETAILS ********************
+
+*** Montevideo ***
+Country: Uruguay
+Region: South America
+7 towers: Torre ANTEL, World Trade Center Torre 4, World Trade Center Torre 1, World Trade Center Torre 2, Radisson Montevideo Hotel, Torre Norte, Torre El Gaucho, Palacio Salvo
+Tiers: I: 2, II: 4, III: 1
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre ANTEL ***
+Height: 157.6
+Floors: 32
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 1
+
+*** World Trade Center Torre 4 ***
+Height: 130
+Floors: 39
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 2
+
+*** World Trade Center Torre 1 ***
+Height: 120
+Floors: 22
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 3
+
+*** World Trade Center Torre 2 ***
+Height: 120
+Floors: 22
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 3
+
+*** Radisson Montevideo Hotel, Torre Norte ***
+Height: 115
+Floors: 25
+Status: Completed
+Completed: 1996
+Functions: hotel
+Rank: 5
+
+*** Torre El Gaucho ***
+Height: 95
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 6
+
+*** Palacio Salvo ***
+Height: 83.82
+Floors: 27
+Status: Completed
+Completed: 1928
+Functions: residential / office
+Rank: 7

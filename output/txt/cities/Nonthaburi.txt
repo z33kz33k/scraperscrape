@@ -1,0 +1,21 @@
+*** Nonthaburi (4) ***
+1. Jasmine International Tower, 206m
+
+******************** DETAILS ********************
+
+*** Nonthaburi ***
+Country: Thailand
+Region: Asia
+1 tower: Jasmine International Tower
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jasmine International Tower ***
+Height: 206
+Floors: 41
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 1

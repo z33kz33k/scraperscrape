@@ -1,0 +1,382 @@
+*** Austin (69) ***
+1.  The Independent, 210m
+2.  The Austonian, 208m
+3.  Fairmont Austin, 181m
+4.  360 Condominiums, 177m
+5.  Frost Bank Tower, 157m
+6.  W Austin Hotel & Residences, 145m
+7.  Fifth & West, 140m
+8.  Spring, 132m
+9.  Northshore, 129m
+10. The Bowie, 129m
+11. 70 Rainey, 128m
+12. Ashton, 126m
+13. JW Marriott Convention Hotel, 124m
+14. Four Seasons Residences Austin, 122m
+15. One American Center, 122m
+16. 500 West 2nd Street, 122m
+17. One Congress Plaza, 121m
+18. Austin Proper, 121m
+19. Colorado Tower, 121m
+20. Third + Shoal, 118m
+21. Austin Hilton Covention Center Hotel, 115m
+22. Seaholm Residences, 104m
+23. Windsor on the Lake, 103m
+24. Bank of America Center, 102m
+25. Aloft Austin Downtown and Element Austin Downtown, 100m
+26. 300 West 6th Street, 100m
+27. Chase Bank Tower, 99m
+28. The Monarch, 98m
+29. 100 Congress Avenue, 98m
+30. San Jacinto Center, 94m
+31. University of Texas Tower, 94m
+32. Dobie Center, 94m
+33. 301 Congress Avenue, 93m
+34. Hotel ZaZa & Apartments, 93m
+35. SkyHouse Austin, 80m
+36. Seven, 80m
+37. Westgate Tower, 80m
+38. The Shore, 78m
+
+******************** DETAILS ********************
+
+*** Austin ***
+Country: United States
+Region: North America
+38 towers: The Independent, The Austonian, Fairmont Austin, 360 Condominiums, Frost Bank Tower, W Austin Hotel & Residences, Fifth & West, Spring, Northshore, The Bowie, 70 Rainey, Ashton, JW Marriott Convention Hotel, Four Seasons Residences Austin, One American Center, 500 West 2nd Street, One Congress Plaza, Austin Proper, Colorado Tower, Third + Shoal, Austin Hilton Covention Center Hotel, Seaholm Residences, Windsor on the Lake, Bank of America Center, Aloft Austin Downtown and Element Austin Downtown, 300 West 6th Street, Chase Bank Tower, The Monarch, 100 Congress Avenue, San Jacinto Center, University of Texas Tower, Dobie Center, 301 Congress Avenue, Hotel ZaZa & Apartments, SkyHouse Austin, Seven, Westgate Tower, The Shore
+Tiers: I: 17, II: 16, III: 5
+Rating: 69 (15.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Independent ***
+Height: 209.7
+Floors: 58
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** The Austonian ***
+Height: 208.15
+Floors: 56
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 2
+
+*** Fairmont Austin ***
+Height: 181.4
+Floors: 36
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hotel
+Rank: 3
+
+*** 360 Condominiums ***
+Height: 177.1
+Floors: 45
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 4
+
+*** Frost Bank Tower ***
+Height: 157.2
+Floors: 33
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 5
+
+*** W Austin Hotel & Residences ***
+Height: 145.27
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential / hotel
+Rank: 6
+
+*** Fifth & West ***
+Height: 139.9
+Floors: 39
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 7
+
+*** Spring ***
+Height: 132.29
+Floors: 43
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 8
+
+*** Northshore ***
+Height: 129.26
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** The Bowie ***
+Height: 128.9
+Floors: 37
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 10
+
+*** 70 Rainey ***
+Height: 127.7
+Floors: 33
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 11
+
+*** Ashton ***
+Height: 125.5
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 12
+
+*** JW Marriott Convention Hotel ***
+Height: 124.4
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel
+Rank: 13
+
+*** Four Seasons Residences Austin ***
+Height: 122.25
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 14
+
+*** One American Center ***
+Height: 122.22
+Floors: 32
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 15
+
+*** 500 West 2nd Street ***
+Height: 121.9
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 16
+
+*** One Congress Plaza ***
+Height: 121.31
+Floors: 30
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 17
+
+*** Austin Proper ***
+Height: 121
+Floors: 32
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / hotel
+Rank: 18
+
+*** Colorado Tower ***
+Height: 121
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 19
+
+*** Third + Shoal ***
+Height: 118
+Floors: 28
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: office
+Rank: 20
+
+*** Austin Hilton Covention Center Hotel ***
+Height: 114.91
+Floors: 31
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: hotel
+Rank: 21
+
+*** Seaholm Residences ***
+Height: 103.9
+Floors: 30
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 22
+
+*** Windsor on the Lake ***
+Height: 103.33
+Floors: 31
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: residential
+Rank: 23
+
+*** Bank of America Center ***
+Height: 102.41
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 24
+
+*** Aloft Austin Downtown and Element Austin Downtown ***
+Height: 100
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: hotel
+Rank: 25
+
+*** 300 West 6th Street ***
+Height: 99.97
+Floors: 23
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 26
+
+*** Chase Bank Tower ***
+Height: 99.06
+Floors: 22
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 27
+
+*** The Monarch ***
+Height: 98.45
+Floors: 29
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 28
+
+*** 100 Congress Avenue ***
+Height: 97.54
+Floors: 22
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 29
+
+*** San Jacinto Center ***
+Height: 94.49
+Floors: 21
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 30
+
+*** University of Texas Tower ***
+Height: 93.6
+Floors: 29
+Status: Completed
+Started: 1935
+Completed: 1937
+Functions: office
+Rank: 31
+
+*** Dobie Center ***
+Height: 93.57
+Floors: 29
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 32
+
+*** 301 Congress Avenue ***
+Height: 93.27
+Floors: 22
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 33
+
+*** Hotel ZaZa & Apartments ***
+Height: 92.96
+Floors: 24
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: residential / hotel
+Rank: 34
+
+*** SkyHouse Austin ***
+Height: 80.47
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 35
+
+*** Seven ***
+Height: 80.16
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 36
+
+*** Westgate Tower ***
+Height: 79.55
+Floors: 25
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: residential
+Rank: 37
+
+*** The Shore ***
+Height: 78.33
+Floors: 22
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 38

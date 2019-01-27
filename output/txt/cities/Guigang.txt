@@ -1,0 +1,1370 @@
+*** Guigang (171) ***
+1.   Songda view the world 8#, 200m
+2.   Triumph International Office A, 149m
+3.   Guigang Golden Age 10#, 140m
+4.   Guigang Golden Age 11#, 140m
+5.   Spirit Park View 1#, 138m
+6.   Spirit Park View 6# , 138m
+7.   Spirit Park View 2# , 132m
+8.   Spirit Park View 3# , 132m
+9.   Spirit Park View 4#, 132m
+10.  Spirit Park View 5# , 132m
+11.  Triumph International 10#, 130m
+12.  Songda View The World 1#, 128m
+13.  Songda View The World 10# , 128m
+14.  Songda View The World 11# , 128m
+15.  Songda View The World 12#, 128m
+16.  Songda View The World 2# , 128m
+17.  Songda View The World 3# , 128m
+18.  Songda View The World 4# , 128m
+19.  Songda View The World 5# , 128m
+20.  Songda View The World 6#, 128m
+21.  Songda View The World 7#, 128m
+22.  Songda View The World 9#, 128m
+23.  Guigang Marriott Belvedere C1, 124m
+24.  Guigang Marriott Belvedere C2, 124m
+25.  Guigang Golden Age 13#, 121m
+26.  Guigang Golden Age 16#, 121m
+27.  Guigang Golden Age 12#, 114m
+28.  Guigang Golden Age 17#, 114m
+29.  Guigang Marriott Belvedere C3, 109m
+30.  Guigang Marriott Belvedere C4, 109m
+31.  Guigang Marriott Belvedere C5, 109m
+32.  Oriental Paris Office, 107m
+33.  Guigang Bank of China Tower, 106m
+34.  New Greatwall Hotel, 105m
+35.  Guanghui·Holy Lake City #10, 103m
+36.  Guanghui·Holy Lake City #11, 103m
+37.  Guanghui·Holy Lake City #22, 103m
+38.  Guanghui·Holy Lake City #8, 103m
+39.  Guanghui·Holy Lake City 9#, 103m
+40.  Guigang Golden Age 14#, 102m
+41.  Guigang Golden Age 15#, 102m
+42.  Golden Age Dutch City A-1 Area #5, 100m
+43.  Golden Age Dutch City A-1 Area #6, 100m
+44.  Golden Age Dutch City A-1 Area #8, 100m
+45.  Golden Age Dutch City A-1 Area #1, 100m
+46.  Golden Age Dutch City A-1 Area #2 , 100m
+47.  Golden Age Dutch City A-3 Area #1, 100m
+48.  Golden Age Dutch City A-3 Area #2  , 100m
+49.  Golden Age Dutch City A-3 Area #3, 100m
+50.  Triumph International 1#, 100m
+51.  Triumph International 13#, 100m
+52.  Triumph International 15#, 100m
+53.  Triumph International 2#, 100m
+54.  Triumph International 3#, 100m
+55.  Triumph International 5#, 100m
+56.  Triumph International 6#, 100m
+57.  Triumph International 7#, 100m
+58.  Triumph International 8#, 100m
+59.  Triumph International 9#, 100m
+60.  Tian Yue Shangcheng 11#, 100m
+61.  Tian Yue Shangcheng 12#, 100m
+62.  Tian Yue Shangcheng 1A#, 100m
+63.  Tian Yue Shangcheng 1B#, 100m
+64.  Tian Yue Shangcheng 3#, 100m
+65.  Tian Yue Shangcheng 5#, 100m
+66.  Tian Yue Shangcheng 6#, 100m
+67.  Tian Yue Shangcheng 7#, 100m
+68.  Tian Yue Shangcheng 8#, 100m
+69.  Tian Yue Shangcheng 9#, 100m
+70.  Elysee Wutai 4#, 100m
+71.  Elysee Wutai 6#, 100m
+72.  Elysee Wutai 7#, 100m
+73.  Elysee Wutai 8#, 100m
+74.  Triumph International 11#, 100m
+75.  Triumph International 12#, 100m
+76.  Triumph International 16#, 100m
+77.  Triumph International 17#, 100m
+78.  Tian Yue Shangcheng 13#, 100m
+79.  Tian Yue Shangcheng 10#, 100m
+80.  Tian Yue Shangcheng 15#, 100m
+81.  Guowang Garden 1#, 99m
+82.  Guowang Garden 2# , 99m
+83.  Guowang Garden 3# , 99m
+84.  Guowang Garden 4# , 99m
+85.  Guowang Garden 5# , 99m
+86.  Guowang Garden 6# , 99m
+87.  Oriental Paris 1#, 99m
+88.  Oriental Paris 2#, 99m
+89.  Oriental Paris 3#, 99m
+90.  Oriental Paris 4#, 99m
+91.  Oriental Paris 5#, 99m
+92.  Elysee Wutai 9#, 99m
+93.  Elysee Wutai 10#, 99m
+94.  Sheng Jia Jiayuan 1#, 99m
+95.  Sheng Jia Jiayuan 2#, 99m
+96.  Sheng Jia Jiayuan 3#, 99m
+97.  Sheng Jia Jiayuan 4#, 99m
+98.  Sheng Jia Jiayuan 5#, 99m
+99.  Sheng Jia Jiayuan 6#, 99m
+100. Sheng Jia Jiayuan 7#, 99m
+101. Xijiang Greentown 5#, 99m
+102. Xijiang Greentown 7#, 99m
+103. Xijiang Greentown 8#, 99m
+104. Chinatown, 99m
+105. Elysee Wutai 1#, 98m
+106. Elysee Wutai 2#, 98m
+107. Guanghui East Lake City 4#, 98m
+108. Guanghui East Lake City 6#, 98m
+109. Guigang Donghu 10#, 98m
+110. Guigang Donghu 16#, 98m
+111. Guigang Donghu 23#, 98m
+112. Guigang Donghu 7#, 98m
+113. Guigang Donghu 8#, 98m
+114. Guigang Donghu 9#, 98m
+115. Golden Age Dutch City A-1 Area #3, 98m
+116. Golden Age Dutch City A-1 Area #7, 98m
+117. Guanghui East Lake City 1#, 97m
+118. Guanghui East Lake City 2# , 97m
+119. Guanghui East Lake City 3# , 97m
+120. Guanghui East Lake City 9#, 97m
+121. Tian Yue Shangcheng 2#, 94m
+122. Elysee Wutai 5#, 91m
+123. Elysee Wutai 3#, 89m
+124. Tian Yue Shangcheng 16#, 88m
+125. Guigang Donghu 11#, 88m
+126. Guigang Donghu 12#, 88m
+127. Guigang Donghu 19#, 88m
+128. Guigang Donghu 20#, 88m
+129. Qili Xiangjiang A, 83m
+130. Qili Xiangjiang B, 83m
+131. Guanghui·Holy Lake City #5, 81m
+132. Guanghui·Holy Lake City 23#, 81m
+133. Guanghui·Holy Lake City #19, 78m
+134. Guanghui East Lake City 5#, 78m
+135. Golden Age Dutch City A-2 Area #1, 76m
+136. Golden Age Dutch City A-2 Area #2, 76m
+137. Golden Age Dutch City A-2 Area #4, 76m
+
+******************** DETAILS ********************
+
+*** Guigang ***
+Country: China
+Region: Asia
+137 towers: Songda view the world 8#, Triumph International Office A, Guigang Golden Age 10#, Guigang Golden Age 11#, Spirit Park View 1#, Spirit Park View 6# , Spirit Park View 2# , Spirit Park View 3# , Spirit Park View 4#, Spirit Park View 5# , Triumph International 10#, Songda View The World 1#, Songda View The World 10# , Songda View The World 11# , Songda View The World 12#, Songda View The World 2# , Songda View The World 3# , Songda View The World 4# , Songda View The World 5# , Songda View The World 6#, Songda View The World 7#, Songda View The World 9#, Guigang Marriott Belvedere C1, Guigang Marriott Belvedere C2, Guigang Golden Age 13#, Guigang Golden Age 16#, Guigang Golden Age 12#, Guigang Golden Age 17#, Guigang Marriott Belvedere C3, Guigang Marriott Belvedere C4, Guigang Marriott Belvedere C5, Oriental Paris Office, Guigang Bank of China Tower, New Greatwall Hotel, Guanghui·Holy Lake City #10, Guanghui·Holy Lake City #11, Guanghui·Holy Lake City #22, Guanghui·Holy Lake City #8, Guanghui·Holy Lake City 9#, Guigang Golden Age 14#, Guigang Golden Age 15#, Golden Age Dutch City A-1 Area #5, Golden Age Dutch City A-1 Area #6, Golden Age Dutch City A-1 Area #8, Golden Age Dutch City A-1 Area #1, Golden Age Dutch City A-1 Area #2 , Golden Age Dutch City A-3 Area #1, Golden Age Dutch City A-3 Area #2  , Golden Age Dutch City A-3 Area #3, Triumph International 1#, Triumph International 13#, Triumph International 15#, Triumph International 2#, Triumph International 3#, Triumph International 5#, Triumph International 6#, Triumph International 7#, Triumph International 8#, Triumph International 9#, Tian Yue Shangcheng 11#, Tian Yue Shangcheng 12#, Tian Yue Shangcheng 1A#, Tian Yue Shangcheng 1B#, Tian Yue Shangcheng 3#, Tian Yue Shangcheng 5#, Tian Yue Shangcheng 6#, Tian Yue Shangcheng 7#, Tian Yue Shangcheng 8#, Tian Yue Shangcheng 9#, Elysee Wutai 4#, Elysee Wutai 6#, Elysee Wutai 7#, Elysee Wutai 8#, Triumph International 11#, Triumph International 12#, Triumph International 16#, Triumph International 17#, Tian Yue Shangcheng 13#, Tian Yue Shangcheng 10#, Tian Yue Shangcheng 15#, Guowang Garden 1#, Guowang Garden 2# , Guowang Garden 3# , Guowang Garden 4# , Guowang Garden 5# , Guowang Garden 6# , Oriental Paris 1#, Oriental Paris 2#, Oriental Paris 3#, Oriental Paris 4#, Oriental Paris 5#, Elysee Wutai 9#, Elysee Wutai 10#, Sheng Jia Jiayuan 1#, Sheng Jia Jiayuan 2#, Sheng Jia Jiayuan 3#, Sheng Jia Jiayuan 4#, Sheng Jia Jiayuan 5#, Sheng Jia Jiayuan 6#, Sheng Jia Jiayuan 7#, Xijiang Greentown 5#, Xijiang Greentown 7#, Xijiang Greentown 8#, Chinatown, Elysee Wutai 1#, Elysee Wutai 2#, Guanghui East Lake City 4#, Guanghui East Lake City 6#, Guigang Donghu 10#, Guigang Donghu 16#, Guigang Donghu 23#, Guigang Donghu 7#, Guigang Donghu 8#, Guigang Donghu 9#, Golden Age Dutch City A-1 Area #3, Golden Age Dutch City A-1 Area #7, Guanghui East Lake City 1#, Guanghui East Lake City 2# , Guanghui East Lake City 3# , Guanghui East Lake City 9#, Tian Yue Shangcheng 2#, Elysee Wutai 5#, Elysee Wutai 3#, Tian Yue Shangcheng 16#, Guigang Donghu 11#, Guigang Donghu 12#, Guigang Donghu 19#, Guigang Donghu 20#, Qili Xiangjiang A, Qili Xiangjiang B, Guanghui·Holy Lake City #5, Guanghui·Holy Lake City 23#, Guanghui·Holy Lake City #19, Guanghui East Lake City 5#, Golden Age Dutch City A-2 Area #1, Golden Age Dutch City A-2 Area #2, Golden Age Dutch City A-2 Area #4
+Tiers: I: 105, II: 31, III: 1
+Rating: 171 (19.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Songda view the world 8# ***
+Height: 200
+Floors: 50
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office / hotel
+Rank: 1
+
+*** Triumph International Office A ***
+Height: 149.3
+Floors: 32
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** Guigang Golden Age 10# ***
+Height: 140
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 3
+
+*** Guigang Golden Age 11# ***
+Height: 140
+Floors: 37
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Spirit Park View 1# ***
+Height: 137.8
+Floors: 40
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** Spirit Park View 6#  ***
+Height: 137.8
+Floors: 40
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** Spirit Park View 2#  ***
+Height: 131.6
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 7
+
+*** Spirit Park View 3#  ***
+Height: 131.6
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 7
+
+*** Spirit Park View 4# ***
+Height: 131.6
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 7
+
+*** Spirit Park View 5#  ***
+Height: 131.6
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 7
+
+*** Triumph International 10# ***
+Height: 129.9
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Songda View The World 1# ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 10#  ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 11#  ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 12# ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 2#  ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 3#  ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 4#  ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 5#  ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 6# ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 7# ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songda View The World 9# ***
+Height: 127.55
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Guigang Marriott Belvedere C1 ***
+Height: 124.5
+Floors: 39
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 23
+
+*** Guigang Marriott Belvedere C2 ***
+Height: 124.5
+Floors: 39
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 23
+
+*** Guigang Golden Age 13# ***
+Height: 121
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 25
+
+*** Guigang Golden Age 16# ***
+Height: 121
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 25
+
+*** Guigang Golden Age 12# ***
+Height: 113.5
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 27
+
+*** Guigang Golden Age 17# ***
+Height: 113.5
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 27
+
+*** Guigang Marriott Belvedere C3 ***
+Height: 109
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Guigang Marriott Belvedere C4 ***
+Height: 109
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Guigang Marriott Belvedere C5 ***
+Height: 109
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Oriental Paris Office ***
+Height: 107
+Floors: 27
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 32
+
+*** Guigang Bank of China Tower ***
+Height: 105.8
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 33
+
+*** New Greatwall Hotel ***
+Height: 105
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: hotel
+Rank: 34
+
+*** Guanghui·Holy Lake City #10 ***
+Height: 103.1
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Guanghui·Holy Lake City #11 ***
+Height: 103.1
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Guanghui·Holy Lake City #22 ***
+Height: 103.1
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 35
+
+*** Guanghui·Holy Lake City #8 ***
+Height: 103.1
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 35
+
+*** Guanghui·Holy Lake City 9# ***
+Height: 103.1
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 35
+
+*** Guigang Golden Age 14# ***
+Height: 102
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 40
+
+*** Guigang Golden Age 15# ***
+Height: 102
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 40
+
+*** Golden Age Dutch City A-1 Area #5 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 42
+
+*** Golden Age Dutch City A-1 Area #6 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 42
+
+*** Golden Age Dutch City A-1 Area #8 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 42
+
+*** Golden Age Dutch City A-1 Area #1 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 45
+
+*** Golden Age Dutch City A-1 Area #2  ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 45
+
+*** Golden Age Dutch City A-3 Area #1 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 45
+
+*** Golden Age Dutch City A-3 Area #2   ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 45
+
+*** Golden Age Dutch City A-3 Area #3 ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 45
+
+*** Triumph International 1# ***
+Height: 99.9
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 45
+
+*** Triumph International 13# ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 45
+
+*** Triumph International 15# ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 45
+
+*** Triumph International 2# ***
+Height: 99.9
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 45
+
+*** Triumph International 3# ***
+Height: 99.9
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 45
+
+*** Triumph International 5# ***
+Height: 99.9
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 45
+
+*** Triumph International 6# ***
+Height: 99.9
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 45
+
+*** Triumph International 7# ***
+Height: 99.9
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 45
+
+*** Triumph International 8# ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 45
+
+*** Triumph International 9# ***
+Height: 99.9
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 45
+
+*** Tian Yue Shangcheng 11# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 12# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 1A# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 1B# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 3# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 5# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 6# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 7# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 8# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 60
+
+*** Tian Yue Shangcheng 9# ***
+Height: 99.9
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 60
+
+*** Elysee Wutai 4# ***
+Height: 99.8
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 70
+
+*** Elysee Wutai 6# ***
+Height: 99.8
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 70
+
+*** Elysee Wutai 7# ***
+Height: 99.8
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 70
+
+*** Elysee Wutai 8# ***
+Height: 99.8
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 70
+
+*** Triumph International 11# ***
+Height: 99.7
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 74
+
+*** Triumph International 12# ***
+Height: 99.7
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 74
+
+*** Triumph International 16# ***
+Height: 99.7
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 74
+
+*** Triumph International 17# ***
+Height: 99.7
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 74
+
+*** Tian Yue Shangcheng 13# ***
+Height: 99.6
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 78
+
+*** Tian Yue Shangcheng 10# ***
+Height: 99.6
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 79
+
+*** Tian Yue Shangcheng 15# ***
+Height: 99.6
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 79
+
+*** Guowang Garden 1# ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** Guowang Garden 2#  ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** Guowang Garden 3#  ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** Guowang Garden 4#  ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** Guowang Garden 5#  ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** Guowang Garden 6#  ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** Oriental Paris 1# ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 81
+
+*** Oriental Paris 2# ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 81
+
+*** Oriental Paris 3# ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 81
+
+*** Oriental Paris 4# ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 81
+
+*** Oriental Paris 5# ***
+Height: 99.2
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 81
+
+*** Elysee Wutai 9# ***
+Height: 99.2
+Floors: 31
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 92
+
+*** Elysee Wutai 10# ***
+Height: 99.2
+Floors: 30
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 93
+
+*** Sheng Jia Jiayuan 1# ***
+Height: 98.9
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 94
+
+*** Sheng Jia Jiayuan 2# ***
+Height: 98.9
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 94
+
+*** Sheng Jia Jiayuan 3# ***
+Height: 98.9
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 94
+
+*** Sheng Jia Jiayuan 4# ***
+Height: 98.9
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 94
+
+*** Sheng Jia Jiayuan 5# ***
+Height: 98.9
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 94
+
+*** Sheng Jia Jiayuan 6# ***
+Height: 98.9
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 94
+
+*** Sheng Jia Jiayuan 7# ***
+Height: 98.9
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 94
+
+*** Xijiang Greentown 5# ***
+Height: 98.6
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 101
+
+*** Xijiang Greentown 7# ***
+Height: 98.6
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 101
+
+*** Xijiang Greentown 8# ***
+Height: 98.6
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 101
+
+*** Chinatown ***
+Height: 98.6
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office / hotel / retail
+Rank: 104
+
+*** Elysee Wutai 1# ***
+Height: 98.2
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 105
+
+*** Elysee Wutai 2# ***
+Height: 98.2
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 105
+
+*** Guanghui East Lake City 4# ***
+Height: 98
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 107
+
+*** Guanghui East Lake City 6# ***
+Height: 98
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 107
+
+*** Guigang Donghu 10# ***
+Height: 97.95
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Guigang Donghu 16# ***
+Height: 97.95
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Guigang Donghu 23# ***
+Height: 97.95
+Floors: 33
+Status: Completed
+Started: 2019
+Completed: 2021
+Functions: residential
+Rank: 109
+
+*** Guigang Donghu 7# ***
+Height: 97.95
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Guigang Donghu 8# ***
+Height: 97.95
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Guigang Donghu 9# ***
+Height: 97.95
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Golden Age Dutch City A-1 Area #3 ***
+Height: 97.7
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 115
+
+*** Golden Age Dutch City A-1 Area #7 ***
+Height: 97.7
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 115
+
+*** Guanghui East Lake City 1# ***
+Height: 97.4
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 117
+
+*** Guanghui East Lake City 2#  ***
+Height: 97.4
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 117
+
+*** Guanghui East Lake City 3#  ***
+Height: 97.4
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 117
+
+*** Guanghui East Lake City 9# ***
+Height: 97.4
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 117
+
+*** Tian Yue Shangcheng 2# ***
+Height: 93.9
+Floors: 28
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 121
+
+*** Elysee Wutai 5# ***
+Height: 90.8
+Floors: 29
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 122
+
+*** Elysee Wutai 3# ***
+Height: 89.2
+Floors: 28
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 123
+
+*** Tian Yue Shangcheng 16# ***
+Height: 88
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 124
+
+*** Guigang Donghu 11# ***
+Height: 87.95
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 125
+
+*** Guigang Donghu 12# ***
+Height: 87.95
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 125
+
+*** Guigang Donghu 19# ***
+Height: 87.75
+Floors: 18
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 127
+
+*** Guigang Donghu 20# ***
+Height: 87.75
+Floors: 18
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 127
+
+*** Qili Xiangjiang A ***
+Height: 83.2
+Floors: 26
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 129
+
+*** Qili Xiangjiang B ***
+Height: 83.2
+Floors: 26
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 129
+
+*** Guanghui·Holy Lake City #5 ***
+Height: 81.3
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 131
+
+*** Guanghui·Holy Lake City 23# ***
+Height: 81.3
+Floors: 26
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 131
+
+*** Guanghui·Holy Lake City #19 ***
+Height: 78.1
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 133
+
+*** Guanghui East Lake City 5# ***
+Height: 77.7
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 134
+
+*** Golden Age Dutch City A-2 Area #1 ***
+Height: 75.9
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 135
+
+*** Golden Age Dutch City A-2 Area #2 ***
+Height: 75.9
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 135
+
+*** Golden Age Dutch City A-2 Area #4 ***
+Height: 75.9
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 135

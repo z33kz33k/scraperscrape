@@ -1,0 +1,20 @@
+*** Izumisano (6) ***
+1. Rinku Gate Tower, 256m
+
+******************** DETAILS ********************
+
+*** Izumisano ***
+Country: Japan
+Region: Asia
+1 tower: Rinku Gate Tower
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Rinku Gate Tower ***
+Height: 256
+Floors: 56
+Status: Completed
+Completed: 1996
+Functions: hotel / office
+Rank: 1

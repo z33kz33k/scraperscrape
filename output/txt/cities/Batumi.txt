@@ -1,0 +1,59 @@
+*** Batumi (14) ***
+1. Batumi Technological University Tower, 200m
+2. Porta Batumi Tower, 164m
+3. Alliance Palace, 132m
+4. Orbi Sea Central Tower, 130m
+5. Sheraton Batumi Hotel, 118m
+
+******************** DETAILS ********************
+
+*** Batumi ***
+Country: Georgia
+Region: Asia
+5 towers: Batumi Technological University Tower, Porta Batumi Tower, Alliance Palace, Orbi Sea Central Tower, Sheraton Batumi Hotel
+Tiers: II: 3, III: 2
+Rating: 14 (14.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Batumi Technological University Tower ***
+Height: 200
+Floors: 35
+Status: Completed
+Completed: 2012
+Functions: observation / education
+Rank: 1
+
+*** Porta Batumi Tower ***
+Height: 164
+Floors: 43
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 2
+
+*** Alliance Palace ***
+Height: 132
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / hotel
+Rank: 3
+
+*** Orbi Sea Central Tower ***
+Height: 130
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 4
+
+*** Sheraton Batumi Hotel ***
+Height: 118
+Floors: 22
+Status: Completed
+Completed: 2010
+Functions: hotel
+Rank: 5

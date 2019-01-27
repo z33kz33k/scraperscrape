@@ -1,0 +1,108 @@
+*** Copenhagen (10) ***
+1.  Bohrs Tårn , 100m
+2.  UCC Carlsberg, 100m
+3.  Carlsberg Hovedkontor, 88m
+4.  Radisson SAS Scandinavia, 86m
+5.  Crowne Plaza, 85m
+6.  North Wing, 81m
+7.  Ferring International Center, 80m
+8.  Bella Sky Tower 1, 76m
+9.  Bella Sky Tower 2, 76m
+10. Maersk Tower, 75m
+
+******************** DETAILS ********************
+
+*** Copenhagen ***
+Country: Denmark
+Region: Europe
+10 towers: Bohrs Tårn , UCC Carlsberg, Carlsberg Hovedkontor, Radisson SAS Scandinavia, Crowne Plaza, North Wing, Ferring International Center, Bella Sky Tower 1, Bella Sky Tower 2, Maersk Tower
+Tiers: I: 10
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bohrs Tårn  ***
+Height: 100
+Floors: 30
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** UCC Carlsberg ***
+Height: 100
+Floors: 30
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / office / education
+Rank: 1
+
+*** Carlsberg Hovedkontor ***
+Height: 88
+Floors: 22
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 3
+
+*** Radisson SAS Scandinavia ***
+Height: 86
+Floors: 26
+Status: Completed
+Completed: 1973
+Functions: hotel
+Rank: 4
+
+*** Crowne Plaza ***
+Height: 85
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: hotel
+Rank: 5
+
+*** North Wing ***
+Height: 80.77
+Floors: 22
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 6
+
+*** Ferring International Center ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 7
+
+*** Bella Sky Tower 1 ***
+Height: 76.5
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: hotel
+Rank: 8
+
+*** Bella Sky Tower 2 ***
+Height: 76.5
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: hotel
+Rank: 8
+
+*** Maersk Tower ***
+Height: 75
+Floors: 16
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: education
+Rank: 10

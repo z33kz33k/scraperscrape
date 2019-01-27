@@ -1,0 +1,60 @@
+*** White Plains (9) ***
+1. The Residences at the Ritz Carlton, Westchester - North Tower, 148m
+2. The Residences at the Ritz Carlton, Westchester - South Tower, 148m
+3. One City Place, 108m
+4. Trump Tower at City Center, 108m
+5. Westchester County Courthouse, 83m
+
+******************** DETAILS ********************
+
+*** White Plains ***
+Country: United States
+Region: North America
+5 towers: The Residences at the Ritz Carlton, Westchester - North Tower, The Residences at the Ritz Carlton, Westchester - South Tower, One City Place, Trump Tower at City Center, Westchester County Courthouse
+Tiers: I: 1, II: 4
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Residences at the Ritz Carlton, Westchester - North Tower ***
+Height: 147.52
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** The Residences at the Ritz Carlton, Westchester - South Tower ***
+Height: 147.52
+Floors: 44
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential / hotel
+Rank: 1
+
+*** One City Place ***
+Height: 107.9
+Floors: 35
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 3
+
+*** Trump Tower at City Center ***
+Height: 107.9
+Floors: 35
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 3
+
+*** Westchester County Courthouse ***
+Height: 82.6
+Floors: 20
+Status: Completed
+Completed: 1974
+Functions: government
+Rank: 5

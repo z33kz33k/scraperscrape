@@ -1,0 +1,18 @@
+*** Papua New Guinea (1) ***
+1. Port Moresby, 1
+
+******************** DETAILS ********************
+
+*** Papua New Guinea ***
+Region: Oceania
+1 city: Port Moresby
+Tiers: I: 1
+Rating: 1
+
+*** Port Moresby ***
+Country: Papua New Guinea
+Region: Oceania
+1 tower: Grand Papua Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

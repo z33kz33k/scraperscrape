@@ -1,0 +1,209 @@
+*** Laibin (46) ***
+1.  Laibin Yuda Building, 167m
+2.  Yuda Central City - Water Gate South Gate, 152m
+3.  Riverside Park #6, 151m
+4.  Riverside Park #7, 151m
+5.  Riverside Park #8, 151m
+6.  Riverside Park #9, 151m
+7.  Yuda Gold Biyu #1, 121m
+8.  Yuda Gold Biyu #2, 121m
+9.  Yuda Gold Biyu #7, 121m
+10. Yuda Gold Biyu #8, 121m
+11. Riverside Park #1, 112m
+12. Riverside Park #2, 112m
+13. Riverside Park #3, 112m
+14. Riverside Park #5, 112m
+15. Yuda Gold Biyu #3, 100m
+16. Yuda Gold Biyu #4, 100m
+17. Yuda Gold Biyu #5, 100m
+18. Yuda Gold Biyu #6, 100m
+19. Yuda Gold Biyu #11, 96m
+20. Yuda Gold Biyu #12, 96m
+
+******************** DETAILS ********************
+
+*** Laibin ***
+Country: China
+Region: Asia
+20 towers: Laibin Yuda Building, Yuda Central City - Water Gate South Gate, Riverside Park #6, Riverside Park #7, Riverside Park #8, Riverside Park #9, Yuda Gold Biyu #1, Yuda Gold Biyu #2, Yuda Gold Biyu #7, Yuda Gold Biyu #8, Riverside Park #1, Riverside Park #2, Riverside Park #3, Riverside Park #5, Yuda Gold Biyu #3, Yuda Gold Biyu #4, Yuda Gold Biyu #5, Yuda Gold Biyu #6, Yuda Gold Biyu #11, Yuda Gold Biyu #12
+Tiers: I: 6, II: 8, III: 6
+Rating: 46 (4.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Laibin Yuda Building ***
+Height: 167
+Floors: 38
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 1
+
+*** Yuda Central City - Water Gate South Gate ***
+Height: 151.9
+Floors: 49
+Status: Completed
+Functions: residential
+Rank: 2
+
+*** Riverside Park #6 ***
+Height: 150.75
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Riverside Park #7 ***
+Height: 150.75
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Riverside Park #8 ***
+Height: 150.75
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Riverside Park #9 ***
+Height: 150.75
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Yuda Gold Biyu #1 ***
+Height: 120.9
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Yuda Gold Biyu #2 ***
+Height: 120.9
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Yuda Gold Biyu #7 ***
+Height: 120.9
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Yuda Gold Biyu #8 ***
+Height: 120.9
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Riverside Park #1 ***
+Height: 112.35
+Floors: 34
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 11
+
+*** Riverside Park #2 ***
+Height: 112.35
+Floors: 34
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 11
+
+*** Riverside Park #3 ***
+Height: 112.35
+Floors: 34
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 11
+
+*** Riverside Park #5 ***
+Height: 112.35
+Floors: 34
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 11
+
+*** Yuda Gold Biyu #3 ***
+Height: 99.55
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Yuda Gold Biyu #4 ***
+Height: 99.55
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Yuda Gold Biyu #5 ***
+Height: 99.55
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Yuda Gold Biyu #6 ***
+Height: 99.55
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Yuda Gold Biyu #11 ***
+Height: 96.5
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 19
+
+*** Yuda Gold Biyu #12 ***
+Height: 96.5
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 19

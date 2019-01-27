@@ -1,0 +1,30 @@
+*** Barranquilla (8) ***
+1. Mirage 57, 162m
+2. Edificio Grattacielo, 153m
+
+******************** DETAILS ********************
+
+*** Barranquilla ***
+Country: Colombia
+Region: South America
+2 towers: Mirage 57, Edificio Grattacielo
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Mirage 57 ***
+Height: 162
+Floors: 43
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 1
+
+*** Edificio Grattacielo ***
+Height: 153.07
+Floors: 40
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 2

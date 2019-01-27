@@ -1,0 +1,70 @@
+*** Niagara Falls (12) ***
+1. Niagara Falls Hilton Fallsview North Tower, 177m
+2. Embassy Suites Hotel Niagara Falls - Fallsview, 118m
+3. Niagara Fallsview Casino Resort, 111m
+4. Marriott Fallsview Hotel, 108m
+5. Niagara Falls Hilton Fallsview South Tower, 103m
+6. The Tower Hotel, 99m
+
+******************** DETAILS ********************
+
+*** Niagara Falls ***
+Country: Canada
+Region: North America
+6 towers: Niagara Falls Hilton Fallsview North Tower, Embassy Suites Hotel Niagara Falls - Fallsview, Niagara Fallsview Casino Resort, Marriott Fallsview Hotel, Niagara Falls Hilton Fallsview South Tower, The Tower Hotel
+Tiers: I: 2, II: 3, III: 1
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Niagara Falls Hilton Fallsview North Tower ***
+Height: 177.09
+Floors: 58
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: hotel
+Rank: 1
+
+*** Embassy Suites Hotel Niagara Falls - Fallsview ***
+Height: 118
+Floors: 36
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: hotel
+Rank: 2
+
+*** Niagara Fallsview Casino Resort ***
+Height: 111
+Floors: 32
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: hotel / casino
+Rank: 3
+
+*** Marriott Fallsview Hotel ***
+Height: 107.9
+Floors: 31
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: hotel
+Rank: 4
+
+*** Niagara Falls Hilton Fallsview South Tower ***
+Height: 103
+Floors: 30
+Status: Completed
+Completed: 1999
+Functions: hotel
+Rank: 5
+
+*** The Tower Hotel ***
+Height: 99
+Floors: 30
+Status: Completed
+Started: 1961
+Completed: 1962
+Functions: observation / hotel
+Rank: 6

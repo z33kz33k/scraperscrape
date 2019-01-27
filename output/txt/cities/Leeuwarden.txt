@@ -1,0 +1,31 @@
+*** Leeuwarden (3) ***
+1. Achmea, 115m
+2. Avero, 77m
+
+******************** DETAILS ********************
+
+*** Leeuwarden ***
+Country: Netherlands
+Region: Europe
+2 towers: Achmea, Avero
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Achmea ***
+Height: 115
+Floors: 28
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 1
+
+*** Avero ***
+Height: 76.8
+Floors: 20
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 2

@@ -1,0 +1,21 @@
+*** Arnhem (1) ***
+1. Ohra, 78m
+
+******************** DETAILS ********************
+
+*** Arnhem ***
+Country: Netherlands
+Region: Europe
+1 tower: Ohra
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ohra ***
+Height: 78
+Floors: 17
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 1

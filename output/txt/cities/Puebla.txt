@@ -1,0 +1,59 @@
+*** Puebla (20) ***
+1. Oak 58 High Living, 232m
+2. Torre JV Angelopolis, 220m
+3. Torre NVBOLA, 175m
+4. Torre JV III, 121m
+5. Torre Adamant, 111m
+
+******************** DETAILS ********************
+
+*** Puebla ***
+Country: Mexico
+Region: North America
+5 towers: Oak 58 High Living, Torre JV Angelopolis, Torre NVBOLA, Torre JV III, Torre Adamant
+Tiers: II: 2, III: 1, IV: 2
+Rating: 20 (80.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Oak 58 High Living ***
+Height: 232
+Floors: 58
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential
+Rank: 1
+
+*** Torre JV Angelopolis ***
+Height: 220
+Floors: 46
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 2
+
+*** Torre NVBOLA ***
+Height: 175
+Floors: 43
+Status: Structurally Topped Out
+Started: 2013
+Completed: 2019
+Functions: residential
+Rank: 3
+
+*** Torre JV III ***
+Height: 121
+Floors: 27
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 4
+
+*** Torre Adamant ***
+Height: 111.25
+Floors: 30
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 5

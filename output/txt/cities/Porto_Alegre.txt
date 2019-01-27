@@ -1,0 +1,29 @@
+*** Porto Alegre (4) ***
+1. Centro Administrativo Do Estado, 119m
+2. Edifício Santa Cruz, 107m
+
+******************** DETAILS ********************
+
+*** Porto Alegre ***
+Country: Brazil
+Region: South America
+2 towers: Centro Administrativo Do Estado, Edifício Santa Cruz
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Centro Administrativo Do Estado ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 1983
+Functions: government
+Rank: 1
+
+*** Edifício Santa Cruz ***
+Height: 107
+Floors: 32
+Status: Completed
+Completed: 1965
+Functions: residential / office
+Rank: 2

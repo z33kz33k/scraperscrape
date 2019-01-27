@@ -1,0 +1,21 @@
+*** Bochum (1) ***
+1. Exzenterhaus Bochum, 89m
+
+******************** DETAILS ********************
+
+*** Bochum ***
+Country: Germany
+Region: Europe
+1 tower: Exzenterhaus Bochum
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Exzenterhaus Bochum ***
+Height: 88.59
+Floors: 25
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 1

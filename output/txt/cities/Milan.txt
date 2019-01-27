@@ -1,0 +1,365 @@
+*** Milan (61) ***
+1.  Unicredit Tower, 218m
+2.  Allianz Tower, 209m
+3.  Generali Tower, 177m
+4.  PwC Tower, 176m
+5.  Palazzo Lombardia, 161m
+6.  Solaria, 143m
+7.  Diamantone, 140m
+8.  Pirelli Building, 127m
+9.  UnipolSai Tower, 124m
+10. Torre Breda, 117m
+11. Bosco Verticale Torre E, 116m
+12. Torre Velasca, 106m
+13. Torre Galfa, 102m
+14. Porta Nuova Garibaldi Tower B, 100m
+15. Torre Garibaldi B, 98m
+16. Gemini Center 2, 96m
+17. Gemini Center 1, 96m
+18. Torre Garibaldi A, 94m
+19. Torre Servizi Tecnici Comunali, 90m
+20. Barcelò Milan, 90m
+21. Porta Romana Tower, 89m
+22. Quercia, 87m
+23. Sequoia, 87m
+24. Bosco Verticale Torre D, 85m
+25. Torre Baggio 1, 80m
+26. Torre Baggio 2, 80m
+27. Torre Baggio 3, 80m
+28. Torre Baggio 4, 80m
+29. Torre Revere, 80m
+30. Citta Contemporanea, 80m
+31. Centro Svizzero, 80m
+32. RCS-Headquarters, 80m
+33. World Jewellery Center, 78m
+34. Torre Monforte, 78m
+35. Giax Tower, 78m
+36. Torre Dacia, 77m
+37. Torre di Adriano, 75m
+
+******************** DETAILS ********************
+
+*** Milan ***
+Country: Italy
+Region: Europe
+37 towers: Unicredit Tower, Allianz Tower, Generali Tower, PwC Tower, Palazzo Lombardia, Solaria, Diamantone, Pirelli Building, UnipolSai Tower, Torre Breda, Bosco Verticale Torre E, Torre Velasca, Torre Galfa, Porta Nuova Garibaldi Tower B, Torre Garibaldi B, Gemini Center 2, Gemini Center 1, Torre Garibaldi A, Torre Servizi Tecnici Comunali, Barcelò Milan, Porta Romana Tower, Quercia, Sequoia, Bosco Verticale Torre D, Torre Baggio 1, Torre Baggio 2, Torre Baggio 3, Torre Baggio 4, Torre Revere, Citta Contemporanea, Centro Svizzero, RCS-Headquarters, World Jewellery Center, Torre Monforte, Giax Tower, Torre Dacia, Torre di Adriano
+Tiers: I: 25, II: 7, III: 4, IV: 1
+Rating: 61 (9.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Unicredit Tower ***
+Height: 217.7
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 1
+
+*** Allianz Tower ***
+Height: 209.2
+Floors: 50
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 2
+
+*** Generali Tower ***
+Height: 177.36
+Floors: 43
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 3
+
+*** PwC Tower ***
+Height: 175.5
+Floors: 34
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: office
+Rank: 4
+
+*** Palazzo Lombardia ***
+Height: 161.3
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: government
+Rank: 5
+
+*** Solaria ***
+Height: 143
+Floors: 37
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 6
+
+*** Diamantone ***
+Height: 140
+Floors: 31
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 7
+
+*** Pirelli Building ***
+Height: 127.1
+Floors: 32
+Status: Completed
+Started: 1956
+Completed: 1958
+Functions: office
+Rank: 8
+
+*** UnipolSai Tower ***
+Height: 124
+Floors: 23
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 9
+
+*** Torre Breda ***
+Height: 117
+Floors: 30
+Status: Completed
+Completed: 1954
+Functions: office
+Rank: 10
+
+*** Bosco Verticale Torre E ***
+Height: 115.86
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 11
+
+*** Torre Velasca ***
+Height: 106
+Floors: 26
+Status: Completed
+Started: 1956
+Completed: 1958
+Functions: residential / office
+Rank: 12
+
+*** Torre Galfa ***
+Height: 102.37
+Floors: 31
+Status: Completed
+Started: 1956
+Completed: 1959
+Functions: abandoned
+Rank: 13
+
+*** Porta Nuova Garibaldi Tower B ***
+Height: 100
+Floors: 18
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 14
+
+*** Torre Garibaldi B ***
+Height: 98
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 15
+
+*** Gemini Center 2 ***
+Height: 96
+Floors: 22
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 16
+
+*** Gemini Center 1 ***
+Height: 96
+Floors: 21
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 17
+
+*** Torre Garibaldi A ***
+Height: 93.51
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 18
+
+*** Torre Servizi Tecnici Comunali ***
+Height: 90
+Floors: 24
+Status: Completed
+Completed: 1963
+Functions: office
+Rank: 19
+
+*** Barcelò Milan ***
+Height: 90
+Floors: 21
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: hotel
+Rank: 20
+
+*** Porta Romana Tower ***
+Height: 89
+Floors: 25
+Status: Completed
+Started: 1962
+Completed: 1965
+Functions: residential
+Rank: 21
+
+*** Quercia ***
+Height: 87
+Floors: 25
+Status: Completed
+Started: 1989
+Completed: 1996
+Functions: office
+Rank: 22
+
+*** Sequoia ***
+Height: 87
+Floors: 25
+Status: Completed
+Started: 1989
+Completed: 1996
+Functions: office
+Rank: 22
+
+*** Bosco Verticale Torre D ***
+Height: 85
+Floors: 19
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 24
+
+*** Torre Baggio 1 ***
+Height: 80.5
+Floors: 19
+Status: Completed
+Functions: residential
+Rank: 25
+
+*** Torre Baggio 2 ***
+Height: 80.5
+Floors: 19
+Status: Completed
+Functions: residential
+Rank: 25
+
+*** Torre Baggio 3 ***
+Height: 80.5
+Floors: 19
+Status: Completed
+Functions: residential
+Rank: 25
+
+*** Torre Baggio 4 ***
+Height: 80.5
+Floors: 19
+Status: Completed
+Functions: residential
+Rank: 25
+
+*** Torre Revere ***
+Height: 80.2
+Floors: 20
+Status: Completed
+Started: 1953
+Completed: 1956
+Functions: residential
+Rank: 29
+
+*** Citta Contemporanea ***
+Height: 80
+Floors: 23
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 30
+
+*** Centro Svizzero ***
+Height: 80
+Floors: 21
+Status: Completed
+Started: 1949
+Completed: 1952
+Functions: office
+Rank: 31
+
+*** RCS-Headquarters ***
+Height: 80
+Floors: 19
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 32
+
+*** World Jewellery Center ***
+Height: 78
+Floors: 20
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office / retail
+Rank: 33
+
+*** Torre Monforte ***
+Height: 78
+Floors: 18
+Status: Completed
+Completed: 1950
+Functions: residential
+Rank: 34
+
+*** Giax Tower ***
+Height: 77.67
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 35
+
+*** Torre Dacia ***
+Height: 77
+Floors: 22
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 36
+
+*** Torre di Adriano ***
+Height: 75
+Floors: 21
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 37

@@ -1,0 +1,99 @@
+*** Cartagena (28) ***
+1. Hotel Estelar Bocagrande, 202m
+2. Hyatt Regency Bocagrande, 190m
+3. Grand Bay Club, 170m
+4. Palmetto Eliptic, 156m
+5. Morros City, 152m
+6. Edificio Horizontes, 140m
+7. Palmetto Bocagrande, 138m
+8. Parke 475, 136m
+9. Ocean Tower, 130m
+
+******************** DETAILS ********************
+
+*** Cartagena ***
+Country: Colombia
+Region: South America
+9 towers: Hotel Estelar Bocagrande, Hyatt Regency Bocagrande, Grand Bay Club, Palmetto Eliptic, Morros City, Edificio Horizontes, Palmetto Bocagrande, Parke 475, Ocean Tower
+Tiers: II: 4, III: 5
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hotel Estelar Bocagrande ***
+Height: 202
+Floors: 52
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential / hotel
+Rank: 1
+
+*** Hyatt Regency Bocagrande ***
+Height: 190
+Floors: 44
+Status: Completed
+Completed: 2017
+Functions: residential / hotel / retail
+Rank: 2
+
+*** Grand Bay Club ***
+Height: 170
+Floors: 46
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 3
+
+*** Palmetto Eliptic ***
+Height: 156
+Floors: 41
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 4
+
+*** Morros City ***
+Height: 151.8
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 5
+
+*** Edificio Horizontes ***
+Height: 140
+Floors: 37
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 6
+
+*** Palmetto Bocagrande ***
+Height: 137.6
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 7
+
+*** Parke 475 ***
+Height: 136
+Floors: 36
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 8
+
+*** Ocean Tower ***
+Height: 130
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential / hotel
+Rank: 9

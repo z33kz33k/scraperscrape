@@ -1,0 +1,120 @@
+*** Ordos (28) ***
+1.  Cathay Pacific Plaza 1, 189m
+2.  Cathay Pacific Plaza 2, 189m
+3.  Meng Yuan Building, 158m
+4.  Cathay Pacific Plaza 3, 140m
+5.  Cathay Pacific Plaza 4, 140m
+6.  Fangyuan Yixia, 138m
+7.  Wulan International Hotel, 126m
+8.  Yiqi Industry & Trade Building A, 120m
+9.  Yiqi Industry & Trade Building B, 120m
+10. Cathay Pacific Plaza 5, 110m
+11. Cathay Pacific Plaza 6, 110m
+
+******************** DETAILS ********************
+
+*** Ordos ***
+Country: China
+Region: Asia
+11 towers: Cathay Pacific Plaza 1, Cathay Pacific Plaza 2, Meng Yuan Building, Cathay Pacific Plaza 3, Cathay Pacific Plaza 4, Fangyuan Yixia, Wulan International Hotel, Yiqi Industry & Trade Building A, Yiqi Industry & Trade Building B, Cathay Pacific Plaza 5, Cathay Pacific Plaza 6
+Tiers: II: 8, III: 3
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Cathay Pacific Plaza 1 ***
+Height: 189
+Floors: 41
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** Cathay Pacific Plaza 2 ***
+Height: 189
+Floors: 41
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** Meng Yuan Building ***
+Height: 158.3
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: office
+Rank: 3
+
+*** Cathay Pacific Plaza 3 ***
+Height: 140
+Floors: 26
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 4
+
+*** Cathay Pacific Plaza 4 ***
+Height: 140
+Floors: 26
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 4
+
+*** Fangyuan Yixia ***
+Height: 138
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: office
+Rank: 6
+
+*** Wulan International Hotel ***
+Height: 126
+Floors: 23
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: hotel / SOHO
+Rank: 7
+
+*** Yiqi Industry & Trade Building A ***
+Height: 120
+Floors: 27
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 8
+
+*** Yiqi Industry & Trade Building B ***
+Height: 120
+Floors: 27
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 8
+
+*** Cathay Pacific Plaza 5 ***
+Height: 110
+Floors: 22
+Status: Completed
+Started: 2009
+Completed: 2014
+Rank: 10
+
+*** Cathay Pacific Plaza 6 ***
+Height: 110
+Floors: 22
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 10

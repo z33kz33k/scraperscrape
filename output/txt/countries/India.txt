@@ -1,0 +1,99 @@
+*** India (732) ***
+1.  Mumbai, 544
+2.  Kolkata, 51
+3.  Gurgaon, 45
+4.  Noida, 42
+5.  Bangalore, 16
+6.  Hyderabad, 14
+7.  Thane, 10
+8.  Chennai, 6
+9.  Mangalore, 2
+10. New Delhi, 2
+
+******************** DETAILS ********************
+
+*** India ***
+Region: Asia
+10 cities: Mumbai, Kolkata, Gurgaon, Noida, Bangalore, Hyderabad, Thane, Chennai, Mangalore, New Delhi
+Tiers: I: 40, II: 56, III: 84, IV: 38, V: 2
+Rating: 732 (50.1% uncompleted)
+
+*** Mumbai ***
+Country: India
+Region: Asia
+157 towers: Three Sixty West Tower B, World View, Indiabulls Sky Suites, Indiabulls Sky Forest, Piramal Aranya Tower A, Orchid Heights 1, Satellite Group Sesen, The Park 1, The Park 2, The Park 3, The Park 4, The Park 5, Omkar 1973 Worli Tower A, Omkar 1973 Worli Tower B, Nathani Heights, The Imperial I, The Imperial II, Three Sixty West Tower A, Four Seasons Private Residences, Ahuja Towers, One Avighna Park, Trump Tower @ The Park, Celestia Spaces 1, Celestia Spaces 2, Auris Serenity Tower 1, Auris Serenity Tower 2, Auris Serenity Tower 3, Raheja Artesia, Eon Tower, Salsette 27 Tower A, Salsette 27 Tower B, Two ICC, World Crest, One Indiabulls Sky Blu, Omkar Alta Monte Tower B, Lodha Venezia Tower A, Lodha Venezia Tower B, Sky City at Borivali Tower A, Sky City at Borivali Tower B, Sky City at Borivali Tower C, Sky City at Borivali Tower D, Oberoi Enigma Tower 1, Oberoi Enigma Tower 2, Kalpataru Avana, Orchid Heights 2, One ICC, Lodha Bellissimo Tower 2, Lodha Bellissimo, Lodha Altamount, Raheja Vivarea 1, Raheja Vivarea 2, Raheja Vivarea 3, Raheja Vivarea 4, Ashok Towers D, Oberoi Eternia Tower 1, Oberoi Eternia Tower 2, Ruby Mills Tower, Raheja Imperia, Orchid Woods 1, Orchid Woods 2, Orchid Woods 3, One Indiabulls Vista Blu, Urmi Estate, Planet Godrej, Omkar Alta Monte Tower A, Sunshine Tower, RA Residence Tower A, RA Residence Tower B, Victorian, Victoria Tower, Residence Antilia, One Indiabulls Iris Blu, Vasant Splendour, Vasant Grandeur, Oberoi Exquisite Tower 1, Oberoi Exquisite Tower 2, Oberoi Exquisite Tower 3, Marathon Futurex, Aquaria Grande Tower A, Aquaria Grande Tower B, Arista, Tabrez Tower, Central Park, Tirumala Habitats, RNA Mirage, MVRDC, St. Regis Mumbai, Shreepati Arcade, Vasant Polaris, Le Palazzo, Oberoi Skyheights Tower 1, Belvedere Court, Four Seasons Mumbai, Lodha Imperia, Kalpatru Heights, Shreepati Jewels, Oberoi Commerz II, JK House, Imperial Heights Tower A, Imperial Heights Tower B, Imperial Heights Tower C, Imperial Heights Tower D, Zenriba Terraces, Heritage, Tahnee Heights, Transcon Triumph, Kalpataru Towers, Commerz Tower, Ekta Tripolis Tower 1, Ekta Tripolis Tower 2, Ekta Tripolis Tower 3, Oberoi Woods Tower I, Oberoi Woods Tower II, Oberoi Woods Tower III, Verona, Divum, Avalon, ITC Grand Central, Phiroze Jeejeebhoy Towers, Oberoi Trident, DSK Durgamata Towers, Saifee Park, Dhawalgiri, Zahra, Samudra Mahal, Glen Classic, Glen Croft, Ahuja L'amor Tower 1, IDBI Towers, Air India Building, Express Towers, Odyssey II, Excalibur by Nahar, Tivoli, Petit, Odyssey I, Kshitij Apartments, Chaitanya Towers, Glen Heights, Jupiter Tower, Venus Tower, Tridev Tower, Grand Paradi A, Grand Paradi B, Grand Paradi C, Twin Towers A, Twin Towers B, Buckley Court, Kanchanjunga Apartments, The Capital, Mont Blanc, Supremus Office, Taj Mahal Tower, Jaslok Hospital & Research Centre, Dharavi Redevelopment Project, Mandke Heart Hospital and Research Centre, C G House
+Tiers: I: 28, II: 38, III: 54, IV: 36, V: 1
+Rating: 544 (49.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kolkata ***
+Country: India
+Region: Asia
+13 towers: The 42, Urbana Tower 2, Urbana Tower 3, Urbana Tower 1, Urbana Tower 4, Urbana Tower 5, Urbana Tower 6, Urbana Tower 7, Forum Atmosphere Tower 1, Forum Atmosphere Tower 2, The V Kolkata Tower 1, The V Kolkata Tower 2, Chatterji International Centre
+Tiers: I: 1, III: 11, IV: 1
+Rating: 51 (27.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gurgaon ***
+Country: India
+Region: Asia
+17 towers: Raheja Revanta, Golf Estate Twin Tower 1, Golf Estate Twin Tower 2, Indiabulls House Gurgaon, IREO Victory Valley Tower A,  Latitude, DLF Camellias, IREO Victory Valley Tower B, IREO Skyon 1, St. Andrews Tower, DLF Crest, IREO Victory Valley Tower C, One Horizon Center, Two Horizon Center, Michael Schumacher World Tower, Tower G, Oyster Grande, Escala Residential Tower
+Tiers: I: 5, II: 4, III: 8
+Rating: 45 (86.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Noida ***
+Country: India
+Region: Asia
+11 towers: Supernova Spira, North Eye, Supertech Nova East, Supertech Nova West, ORB Homes Tower A, Orb Homes Tower B, Orb Homes Tower C, Wave One Noida, Celeste Towers 1, Celeste Towers 2, Supertech Astralis
+Tiers: II: 4, III: 5, IV: 1, V: 1
+Rating: 42 (71.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bangalore ***
+Country: India
+Region: Asia
+9 towers: Mantri Pinnacle, World Trade Center, UB Tower, UB City Concord Tower, Subhas Chandra Bose Tower, Aquila Heights Tower A, Aquila Heights Tower B, Aquila Heights Tower C, UB City Canberra Tower
+Tiers: I: 4, II: 4, III: 1
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hyderabad ***
+Country: India
+Region: Asia
+5 towers: Lodha Bellezza 3, Lodha Bellezza 4, Lodha Bellezza 5, Lodha Bellezza 1, Lodha Bellezza 2
+Tiers: II: 3, III: 2
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Thane ***
+Country: India
+Region: Asia
+4 towers: Parkwoods D5, Parkwoods D6, Whitefield, Springhill
+Tiers: I: 2, III: 2
+Rating: 10 (80.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chennai ***
+Country: India
+Region: Asia
+2 towers: Anchorage, House of Hiranandani, Bay View Hiranandani
+Tiers: II: 1, III: 1
+Rating: 6 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Mangalore ***
+Country: India
+Region: Asia
+1 tower: Planet SKS
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** New Delhi ***
+Country: India
+Region: Asia
+1 tower: Civic Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17

@@ -1,0 +1,20 @@
+*** Springfield (IL) (2) ***
+1. Springfield Hilton, 107m
+
+******************** DETAILS ********************
+
+*** Springfield (IL) ***
+Country: United States
+Region: North America
+1 tower: Springfield Hilton
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Springfield Hilton ***
+Height: 107.3
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: hotel
+Rank: 1

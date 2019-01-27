@@ -1,0 +1,76 @@
+*** Belgrade (11) ***
+1. Kula Belgrade, 168m
+2. Zgrada Geneks, 119m
+3. USCE Office Tower 1, 105m
+4. Belgrade Palace, 101m
+5. Rudo Beograd-Kapija 2, 100m
+6. Rudo Beograd-Kapija 3, 100m
+7. Rudo Beograd-Kapija 1, 100m
+
+******************** DETAILS ********************
+
+*** Belgrade ***
+Country: Serbia
+Region: Europe
+7 towers: Kula Belgrade, Zgrada Geneks, USCE Office Tower 1, Belgrade Palace, Rudo Beograd-Kapija 2, Rudo Beograd-Kapija 3, Rudo Beograd-Kapija 1
+Tiers: I: 5, II: 1, III: 1
+Rating: 11 (36.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kula Belgrade ***
+Height: 168
+Floors: 42
+Status: Under Construction
+Started: 2016
+Functions: residential / hotel
+Rank: 1
+
+*** Zgrada Geneks ***
+Height: 119
+Floors: 35
+Status: Completed
+Started: 1976
+Completed: 1979
+Functions: office / residential
+Rank: 2
+
+*** USCE Office Tower 1 ***
+Height: 105.16
+Floors: 26
+Status: Completed
+Started: 1961
+Completed: 1965
+Functions: office
+Rank: 3
+
+*** Belgrade Palace ***
+Height: 101
+Floors: 24
+Status: Completed
+Started: 1969
+Completed: 1974
+Functions: office / retail
+Rank: 4
+
+*** Rudo Beograd-Kapija 2 ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 5
+
+*** Rudo Beograd-Kapija 3 ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 5
+
+*** Rudo Beograd-Kapija 1 ***
+Height: 100
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 7

@@ -1,0 +1,621 @@
+*** Krasnodar (61) ***
+1.  Crystal Tower, 99m
+2.  Dom Skala, 91m
+3.  Moskva 1, 82m
+4.  Moskva 2, 82m
+5.  Bolshoi 1, 79m
+6.  Bolshoi 2, 79m
+7.  Bolshoi 4, 79m
+8.  Bolshoi 5, 79m
+9.  Krasnodar, 79m
+10. Novyi Gorod 14, 79m
+11. Perspektiva 4.1.2, 79m
+12. Sedmoi Kontinent 1, 79m
+13. Sedmoi Kontinent 2, 79m
+14. Sedmoi Kontinent 3, 79m
+15. Sedmoi Kontinent 4, 79m
+16. Sedmoi Kontinent 5, 79m
+17. Sedmoi Kontinent 7, 79m
+18. Turgenev 1, 79m
+19. Yantar 3, 79m
+20. Yantar 4, 79m
+21. Bolshaya Tamanskaya 1 - Purple, 79m
+22. Bolshaya Tamanskaya 2 - Orange, 79m
+23. Bolshaya Tamanskaya 3 - Scarlet, 79m
+24. Bolshaya Tamanskaya 4 - Emerald, 79m
+25. Bolshaya Tamanskaya 5 - Turquoise, 79m
+26. Oscar, 79m
+27. Tri Bogatyrya 1, 79m
+28. Tri Bogatyrya 2, 79m
+29. Admiral 5.1, 76m
+30. Admiral 5.2, 76m
+31. Akademicheskii, 76m
+32. Anit-City 1, 76m
+33. Anit-City 2, 76m
+34. Avrora, 76m
+35. Avtolyubitelei 52, 76m
+36. Bolshaya Rossiiskaya, 76m
+37. Cheremushki 2/1, 76m
+38. Cheremushki 2/2, 76m
+39. Cheremushki 2/3, 76m
+40. Dostoevskii 1, 76m
+41. Dostoevskii 2, 76m
+42. Evropeiskii 1, 76m
+43. Evropeiskii 2, 76m
+44. Evropeiskii 3, 76m
+45. Gubernskii 2, 76m
+46. Luch, 76m
+47. Na Montazhnikov, 76m
+48. Parusnaya Regata 1 - Kruzenshtern, 76m
+49. Parusnaya Regata 2 - Sedov, 76m
+50. Parusnaya Regata 3 - Nadezhda, 76m
+51. Rezidentsiya, 76m
+52. Simfoniya 3-2, 76m
+53. Solnechnyi Ostrov 2, 76m
+54. Triumf 1, 76m
+55. Triumf 3, 76m
+56. Tsentralnyi, 76m
+57. Znamenskogo 9 - 16.1, 76m
+58. Znamenskogo 9 - 16.2, 76m
+59. Festivalnyi, 76m
+60. Solnechnoe Nastroenie, 76m
+61. Vozrozhdenie 6 - Sapfir, 76m
+
+******************** DETAILS ********************
+
+*** Krasnodar ***
+Country: Russia
+Region: Europe
+61 towers: Crystal Tower, Dom Skala, Moskva 1, Moskva 2, Bolshoi 1, Bolshoi 2, Bolshoi 4, Bolshoi 5, Krasnodar, Novyi Gorod 14, Perspektiva 4.1.2, Sedmoi Kontinent 1, Sedmoi Kontinent 2, Sedmoi Kontinent 3, Sedmoi Kontinent 4, Sedmoi Kontinent 5, Sedmoi Kontinent 7, Turgenev 1, Yantar 3, Yantar 4, Bolshaya Tamanskaya 1 - Purple, Bolshaya Tamanskaya 2 - Orange, Bolshaya Tamanskaya 3 - Scarlet, Bolshaya Tamanskaya 4 - Emerald, Bolshaya Tamanskaya 5 - Turquoise, Oscar, Tri Bogatyrya 1, Tri Bogatyrya 2, Admiral 5.1, Admiral 5.2, Akademicheskii, Anit-City 1, Anit-City 2, Avrora, Avtolyubitelei 52, Bolshaya Rossiiskaya, Cheremushki 2/1, Cheremushki 2/2, Cheremushki 2/3, Dostoevskii 1, Dostoevskii 2, Evropeiskii 1, Evropeiskii 2, Evropeiskii 3, Gubernskii 2, Luch, Na Montazhnikov, Parusnaya Regata 1 - Kruzenshtern, Parusnaya Regata 2 - Sedov, Parusnaya Regata 3 - Nadezhda, Rezidentsiya, Simfoniya 3-2, Solnechnyi Ostrov 2, Triumf 1, Triumf 3, Tsentralnyi, Znamenskogo 9 - 16.1, Znamenskogo 9 - 16.2, Festivalnyi, Solnechnoe Nastroenie, Vozrozhdenie 6 - Sapfir
+Tiers: I: 61
+Rating: 61 (39.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Crystal Tower ***
+Height: 99
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential / office
+Rank: 1
+
+*** Dom Skala ***
+Height: 91.2
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 2
+
+*** Moskva 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / office
+Rank: 3
+
+*** Moskva 2 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / office
+Rank: 3
+
+*** Bolshoi 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / retail
+Rank: 5
+
+*** Bolshoi 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / retail
+Rank: 5
+
+*** Bolshoi 4 ***
+Height: 79
+Floors: 25
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2017
+Functions: residential / retail
+Rank: 5
+
+*** Bolshoi 5 ***
+Height: 79
+Floors: 25
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2017
+Functions: residential / retail
+Rank: 5
+
+*** Krasnodar ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 5
+
+*** Novyi Gorod 14 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential
+Rank: 5
+
+*** Perspektiva 4.1.2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** Sedmoi Kontinent 1 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 5
+
+*** Sedmoi Kontinent 2 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 5
+
+*** Sedmoi Kontinent 3 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / office
+Rank: 5
+
+*** Sedmoi Kontinent 4 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / office
+Rank: 5
+
+*** Sedmoi Kontinent 5 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 5
+
+*** Sedmoi Kontinent 7 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** Turgenev 1 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 5
+
+*** Yantar 3 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 5
+
+*** Yantar 4 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 5
+
+*** Bolshaya Tamanskaya 1 - Purple ***
+Height: 79
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 21
+
+*** Bolshaya Tamanskaya 2 - Orange ***
+Height: 79
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 21
+
+*** Bolshaya Tamanskaya 3 - Scarlet ***
+Height: 79
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 21
+
+*** Bolshaya Tamanskaya 4 - Emerald ***
+Height: 79
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 21
+
+*** Bolshaya Tamanskaya 5 - Turquoise ***
+Height: 79
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 21
+
+*** Oscar ***
+Height: 79
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 21
+
+*** Tri Bogatyrya 1 ***
+Height: 79
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 21
+
+*** Tri Bogatyrya 2 ***
+Height: 79
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 21
+
+*** Admiral 5.1 ***
+Height: 76
+Floors: 24
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Admiral 5.2 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Akademicheskii ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Anit-City 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: residential
+Rank: 29
+
+*** Anit-City 2 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Avrora ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 29
+
+*** Avtolyubitelei 52 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Bolshaya Rossiiskaya ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Cheremushki 2/1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 29
+
+*** Cheremushki 2/2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 29
+
+*** Cheremushki 2/3 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 29
+
+*** Dostoevskii 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 29
+
+*** Dostoevskii 2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 29
+
+*** Evropeiskii 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 29
+
+*** Evropeiskii 2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 29
+
+*** Evropeiskii 3 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 29
+
+*** Gubernskii 2 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Luch ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 29
+
+*** Na Montazhnikov ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 29
+
+*** Parusnaya Regata 1 - Kruzenshtern ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 29
+
+*** Parusnaya Regata 2 - Sedov ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Parusnaya Regata 3 - Nadezhda ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Rezidentsiya ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Simfoniya 3-2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 29
+
+*** Solnechnyi Ostrov 2 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 29
+
+*** Triumf 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2016
+Functions: residential
+Rank: 29
+
+*** Triumf 3 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: residential
+Rank: 29
+
+*** Tsentralnyi ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 29
+
+*** Znamenskogo 9 - 16.1 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Znamenskogo 9 - 16.2 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Festivalnyi ***
+Height: 76
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 59
+
+*** Solnechnoe Nastroenie ***
+Height: 76
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 59
+
+*** Vozrozhdenie 6 - Sapfir ***
+Height: 76
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential / retail
+Rank: 59

@@ -1,0 +1,20 @@
+*** Portimao (1) ***
+1. Jardins da Rocha, 85m
+
+******************** DETAILS ********************
+
+*** Portimao ***
+Country: Portugal
+Region: Europe
+1 tower: Jardins da Rocha
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jardins da Rocha ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 1

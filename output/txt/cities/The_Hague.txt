@@ -1,0 +1,204 @@
+*** The Hague (27) ***
+1.  Ministerie van Binnenlandse Zaken, 146m
+2.  Ministerie van Justitie, 146m
+3.  Hoftoren, 142m
+4.  New Babylon City Tower, 142m
+5.  Het Strijkijzer, 132m
+6.  De Kroon, 131m
+7.  Prinsenhof, 109m
+8.  Castalia, 104m
+9.  New Babylon Park Tower, 102m
+10. Zurichtoren, 88m
+11. Leonardo da Vinci I, 87m
+12. Muzentoren, 78m
+13. Witte Anna, 77m
+14. Prinsenhof Residential Block 1, 75m
+15. Prinsenhof Residential Block 2, 75m
+16. Prinsenhof Residential Block 3, 75m
+17. Malietoren, 75m
+18. TPG Post, 75m
+19. Centre Court, 75m
+20. De Zilveren Toren, 75m
+
+******************** DETAILS ********************
+
+*** The Hague ***
+Country: Netherlands
+Region: Europe
+20 towers: Ministerie van Binnenlandse Zaken, Ministerie van Justitie, Hoftoren, New Babylon City Tower, Het Strijkijzer, De Kroon, Prinsenhof, Castalia, New Babylon Park Tower, Zurichtoren, Leonardo da Vinci I, Muzentoren, Witte Anna, Prinsenhof Residential Block 1, Prinsenhof Residential Block 2, Prinsenhof Residential Block 3, Malietoren, TPG Post, Centre Court, De Zilveren Toren
+Tiers: I: 13, II: 7
+Rating: 27
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ministerie van Binnenlandse Zaken ***
+Height: 146
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 1
+
+*** Ministerie van Justitie ***
+Height: 146
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 1
+
+*** Hoftoren ***
+Height: 141.86
+Floors: 29
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: office
+Rank: 3
+
+*** New Babylon City Tower ***
+Height: 141.84
+Floors: 45
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: residential
+Rank: 4
+
+*** Het Strijkijzer ***
+Height: 131.58
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 5
+
+*** De Kroon ***
+Height: 131.2
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 6
+
+*** Prinsenhof ***
+Height: 109.49
+Floors: 25
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: office
+Rank: 7
+
+*** Castalia ***
+Height: 104
+Floors: 20
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 8
+
+*** New Babylon Park Tower ***
+Height: 101.64
+Floors: 31
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 9
+
+*** Zurichtoren ***
+Height: 88
+Floors: 19
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 10
+
+*** Leonardo da Vinci I ***
+Height: 87
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 11
+
+*** Muzentoren ***
+Height: 78
+Floors: 17
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 12
+
+*** Witte Anna ***
+Height: 77
+Floors: 25
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 13
+
+*** Prinsenhof Residential Block 1 ***
+Height: 75.1
+Floors: 22
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential
+Rank: 14
+
+*** Prinsenhof Residential Block 2 ***
+Height: 75.1
+Floors: 22
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential
+Rank: 14
+
+*** Prinsenhof Residential Block 3 ***
+Height: 75.1
+Floors: 22
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential
+Rank: 14
+
+*** Malietoren ***
+Height: 75
+Floors: 19
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office
+Rank: 17
+
+*** TPG Post ***
+Height: 75
+Floors: 19
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 17
+
+*** Centre Court ***
+Height: 75
+Floors: 17
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 19
+
+*** De Zilveren Toren ***
+Height: 75
+Floors: 16
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 20

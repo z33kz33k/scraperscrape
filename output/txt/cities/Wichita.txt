@@ -1,0 +1,21 @@
+*** Wichita (1) ***
+1. Epic Center, 98m
+
+******************** DETAILS ********************
+
+*** Wichita ***
+Country: United States
+Region: North America
+1 tower: Epic Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Epic Center ***
+Height: 97.54
+Floors: 22
+Status: Completed
+Started: 1985
+Completed: 1989
+Functions: office
+Rank: 1

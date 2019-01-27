@@ -1,0 +1,41 @@
+*** Evanston (3) ***
+1. Chase Bank Building, 84m
+2. Sherman Plaza, 84m
+3. Optima Views, 81m
+
+******************** DETAILS ********************
+
+*** Evanston ***
+Country: United States
+Region: North America
+3 towers: Chase Bank Building, Sherman Plaza, Optima Views
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Chase Bank Building ***
+Height: 84.37
+Floors: 22
+Status: Completed
+Started: 1968
+Completed: 1969
+Functions: office
+Rank: 1
+
+*** Sherman Plaza ***
+Height: 84.23
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 2
+
+*** Optima Views ***
+Height: 80.77
+Floors: 28
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 3

@@ -1,0 +1,38 @@
+*** Markham (3) ***
+1. World on Yonge I, 106m
+2. World on Yonge II, 106m
+3. World on Yonge Office/Hotel Tower, 81m
+
+******************** DETAILS ********************
+
+*** Markham ***
+Country: Canada
+Region: North America
+3 towers: World on Yonge I, World on Yonge II, World on Yonge Office/Hotel Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** World on Yonge I ***
+Height: 105.5
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** World on Yonge II ***
+Height: 105.5
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** World on Yonge Office/Hotel Tower ***
+Height: 81
+Floors: 20
+Status: Completed
+Completed: 2014
+Functions: hotel / office
+Rank: 3

@@ -1,0 +1,20 @@
+*** Cikarang (6) ***
+1. Lippo Sixty One Plaza, 261m
+
+******************** DETAILS ********************
+
+*** Cikarang ***
+Country: Indonesia
+Region: Asia
+1 tower: Lippo Sixty One Plaza
+Tiers: IV: 1
+Rating: 6 (100.0% uncompleted)
+Scraped on: 2019-Jan-21 23:13:04
+
+*** Lippo Sixty One Plaza ***
+Height: 261.4
+Floors: 61
+Status: Under Construction
+Started: 2016
+Functions: hotel / residential / office / retail
+Rank: 1

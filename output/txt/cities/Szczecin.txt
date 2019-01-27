@@ -1,0 +1,20 @@
+*** Szczecin (1) ***
+1. PAZIM Center, 92m
+
+******************** DETAILS ********************
+
+*** Szczecin ***
+Country: Poland
+Region: Europe
+1 tower: PAZIM Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** PAZIM Center ***
+Height: 92
+Floors: 22
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 1

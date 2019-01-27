@@ -1,0 +1,20 @@
+*** Saint Julian's (1) ***
+1. Portomaso Business Tower, 98m
+
+******************** DETAILS ********************
+
+*** Saint Julian's ***
+Country: Malta
+Region: Europe
+1 tower: Portomaso Business Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Portomaso Business Tower ***
+Height: 97.54
+Floors: 23
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 1

@@ -1,0 +1,18 @@
+*** Cuba (6) ***
+1. Havana, 6
+
+******************** DETAILS ********************
+
+*** Cuba ***
+Region: Central America
+1 city: Havana
+Tiers: II: 3
+Rating: 6
+
+*** Havana ***
+Country: Cuba
+Region: Central America
+3 towers: Edificio FOSCA, Habana Libre Hotel, Hospital Clinico Quirurgico Hermanos Ameijeiras
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16

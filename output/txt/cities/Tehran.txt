@@ -1,0 +1,221 @@
+*** Tehran (35) ***
+1.  Fereshteh Pasargad Hotel, 188m
+2.  Tehran International Tower, 162m
+3.  Tehran International Financial Center, 138m
+4.  Kapsad Development Housing, 135m
+5.  B3 Tower, 122m
+6.  Imperial Medical Center, 120m
+7.  Third Millennium Tower, 120m
+8.  Sepher Tower, 115m
+9.  Farmaneih Residential Commercial Tower, 105m
+10. Golnar Tower, 100m
+11. Shahin Dezh I, 97m
+12. Shahin Dezh II, 97m
+13. Shahin Dezh III, 97m
+14. Shahin Dezh IV, 97m
+15. Kohe Nore Tower, 95m
+16. Apadana Tower II, 92m
+17. Apadana Tower III, 92m
+18. Azadi Grand Hotel, 90m
+19. Bonyad-e-Tarikh Administrative Tower, 84m
+20. Seda-va-sima Tower, 84m
+21. Iran Zamin Towers, 80m
+22. Apadana Tower I, 78m
+23. Foreign Trade Bank of Iran, 75m
+
+******************** DETAILS ********************
+
+*** Tehran ***
+Country: Iran
+Region: Middle East
+23 towers: Fereshteh Pasargad Hotel, Tehran International Tower, Tehran International Financial Center, Kapsad Development Housing, B3 Tower, Imperial Medical Center, Third Millennium Tower, Sepher Tower, Farmaneih Residential Commercial Tower, Golnar Tower, Shahin Dezh I, Shahin Dezh II, Shahin Dezh III, Shahin Dezh IV, Kohe Nore Tower, Apadana Tower II, Apadana Tower III, Azadi Grand Hotel, Bonyad-e-Tarikh Administrative Tower, Seda-va-sima Tower, Iran Zamin Towers, Apadana Tower I, Foreign Trade Bank of Iran
+Tiers: I: 15, II: 6, III: 2
+Rating: 35 (22.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Fereshteh Pasargad Hotel ***
+Height: 188
+Floors: 36
+Status: Under Construction
+Started: 2011
+Completed: 2019
+Functions: serviced apartments / hotel
+Rank: 1
+
+*** Tehran International Tower ***
+Height: 162
+Floors: 54
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 2
+
+*** Tehran International Financial Center ***
+Height: 138.4
+Floors: 27
+Status: Under Construction
+Started: 2010
+Completed: 2018
+Functions: office
+Rank: 3
+
+*** Kapsad Development Housing ***
+Height: 135
+Floors: 38
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 4
+
+*** B3 Tower ***
+Height: 122
+Floors: 30
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 5
+
+*** Imperial Medical Center ***
+Height: 120
+Floors: 36
+Status: Completed
+Completed: 2003
+Functions: hospital
+Rank: 6
+
+*** Third Millennium Tower ***
+Height: 120
+Floors: 36
+Status: Architecturally Topped Out
+Started: 2006
+Completed: 2017
+Functions: residential / office
+Rank: 6
+
+*** Sepher Tower ***
+Height: 115
+Floors: 33
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 8
+
+*** Farmaneih Residential Commercial Tower ***
+Height: 105
+Floors: 28
+Status: Completed
+Completed: 2005
+Functions: residential / office
+Rank: 9
+
+*** Golnar Tower ***
+Height: 100
+Floors: 27
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 10
+
+*** Shahin Dezh I ***
+Height: 97
+Floors: 26
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 11
+
+*** Shahin Dezh II ***
+Height: 97
+Floors: 26
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 11
+
+*** Shahin Dezh III ***
+Height: 97
+Floors: 26
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 11
+
+*** Shahin Dezh IV ***
+Height: 97
+Floors: 26
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 11
+
+*** Kohe Nore Tower ***
+Height: 95
+Floors: 25
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 15
+
+*** Apadana Tower II ***
+Height: 92
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 16
+
+*** Apadana Tower III ***
+Height: 92
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 16
+
+*** Azadi Grand Hotel ***
+Height: 90
+Floors: 26
+Status: Completed
+Completed: 1978
+Functions: hotel
+Rank: 18
+
+*** Bonyad-e-Tarikh Administrative Tower ***
+Height: 84
+Floors: 24
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 19
+
+*** Seda-va-sima Tower ***
+Height: 84
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: residential / office
+Rank: 19
+
+*** Iran Zamin Towers ***
+Height: 80
+Floors: 23
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 21
+
+*** Apadana Tower I ***
+Height: 78
+Floors: 22
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 22
+
+*** Foreign Trade Bank of Iran ***
+Height: 75
+Floors: 20
+Status: Completed
+Completed: 1978
+Functions: commercial / office
+Rank: 23

@@ -1,0 +1,45 @@
+*** Thailand (555) ***
+1. Bangkok, 480
+2. Pattaya, 66
+3. Khon Kaen, 5
+4. Nonthaburi, 4
+
+******************** DETAILS ********************
+
+*** Thailand ***
+Region: Asia
+4 cities: Bangkok, Pattaya, Khon Kaen, Nonthaburi
+Tiers: I: 15, II: 30, III: 88, IV: 16, V: 4
+Rating: 555 (12.3% uncompleted)
+
+*** Bangkok ***
+Country: Thailand
+Region: Asia
+131 towers: Magnolias Waterfront Residences Tower 1, King Power MahaNakhon, Baiyoke Tower II, Four Seasons Hotel and Private Residences and Capella Hotel, Mandarin Oriental Residences Bangkok , The River South Tower, Canapaya Residences I, State Tower, Waldorf Astoria + Magnolias Ratchaprasong, Eastin Grand Hotel Phayathai Bangkok, Menam Residence, The ESSE Asoke, Centara Grand, The Met, Empire Tower, MARQUE Sukhumvit, Jewelry Trade Center, The Pano, Nimit Langsuan, CRC Tower, StarView Condo Tower B, ASHTON Chula-Silom, Singha Complex Tower 1, Millennium Residence 2, Millennium Residence 3, The Offices at CentralWorld, M Silom, Centrepointe Ratchadamri, Siamese Sukhumvit, Sinn Sathorn Tower, Thai Wah Tower II, ASHTON Asoke, Millennium Residence 1, Millennium Residence 4, Krungsri Ploenchit Tower, Cyber World Tower 1, Noble BE19, 28 Chidlom, Watermark Chaophraya Tower A, The Bangkok Sathorn, The Issara, Empire Place, Lumpini Sukhumvit 24, United Center, St. Regis Hotel & Residences Bangkok, Abdulrahim Place, Park 24 Tower B, Park 24 Tower A, Noble Ploenchit Tower B, Sathorn Square Office Tower, ASHTON Silom, Whizdom Essence, Tipco Tower, Rhythm Pahol-Ari, Terminal 21, Banyan Tree Residences Riverside, Kasikorn Bank Head Office, Exchange Tower, Sathorn House, Q Sukhumvit, The Hansar, The Line Sathorn, Q Asoke, Hyde Sukhumvit 13, Emporium Suites Tower, Hyde Sukhumvit 11, Somkid Tower, StarView Condo Tower A, Sukhothai Residences, Cyber World Tower 2, Noble Ploenchit Tower C, Italthai Tower, The Aguston Tower A, RS Tower, The Fullerton, Q Chidlom, Pyne By Sansiri, Vanit Tower II, U Chu Liang Building, Cathedral of Learning, Grand Langsuan Condominium, Q Langsuan, Chamchuri Office Tower, Interchange 21, Wish Signature @ Midtown Siam, Rama 9 Square Tower, Rosewood Bangkok Hotel, The River North Tower, Park 24 Tower C, Baiyoke Tower I, IDEO Q Chula Samyan, The Peninsula Bangkok Hotel, The LINE, The Infinity Sathorn Square, Pearl Building, Shinawatra Tower III, Chidlom Tower, The Line Ratchathewi, Park Ventures, Piriyapul Tower, Capitol Tower, M-Thai Tower, Siam Commercial Bank Tower A, IDEO Q Siam Ratchathewi, Bangkok Bank Building, Saladaeng One, IDEO Morph 38, Ashton Tower, Baan Siri Twenty Four, Thai Military Bank Headquarters, Eastin Grand Hotel Sathorn, Queen Sirikit National Institute of Child Health, Sathorn City Tower, Gaysorn Office Tower, Bhumisirimangkhlanusorn Building, Park 24 Tower D, Novotel Bangkok Fenix Ploenchit, Park 24 Tower E, Ivy Thonglor, Blossom Condo@Fashion, Elephant Tower, Rajavithi Hospital, Siamese Blossom@Fashion Beyond, Saladaeng Residences, Por Por Ror Building, Siamese Exclusive 31, Siamese Ratchakru Tower 2, Hotel Muse, H.M. Queen Sirikit Building, Bank of Asia Tower, Hua Chiew Hospital, Dusit Thani Bangkok
+Tiers: I: 14, II: 23, III: 76, IV: 14, V: 4
+Rating: 480 (12.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pattaya ***
+Country: Thailand
+Region: Asia
+18 towers: Reflection Jomtien Beach Oceanfront Tower 1, North Point Tower 1, Zire Wongamat Tower A, Reflection Jomtien Beach Oceanview Tower 2, Pattaya Park Beach Hotel, North Point Tower 2, Park Plaza Waterfront, Cetus, The Palm Wongamat Beach Tower A, Mövenpick Siam Hotel & Residences, Centric Sea Pattaya Tower A, Unixx Tower I, The Riviera South Tower, The Riviera Jomtien, Sky Beach Condominium Tower A, Metro Jomtien Condotel, The Riviera North Tower, Aeras Condominium
+Tiers: II: 5, III: 11, IV: 2
+Rating: 66 (9.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Khon Kaen ***
+Country: Thailand
+Region: Asia
+3 towers: The Houze, The Base Height Mittraphap, Pullman Khon Kaen Raja Orchid
+Tiers: I: 1, II: 2
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nonthaburi ***
+Country: Thailand
+Region: Asia
+1 tower: Jasmine International Tower
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17

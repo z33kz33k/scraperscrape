@@ -1,0 +1,50 @@
+*** Groningen (4) ***
+1. EEA and Tax Office, 92m
+2. Nederlande Gasunie, 87m
+3. Brander, 80m
+4. Stoker, 80m
+
+******************** DETAILS ********************
+
+*** Groningen ***
+Country: Netherlands
+Region: Europe
+4 towers: EEA and Tax Office, Nederlande Gasunie, Brander, Stoker
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** EEA and Tax Office ***
+Height: 91.65
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 1
+
+*** Nederlande Gasunie ***
+Height: 87
+Floors: 17
+Status: Completed
+Started: 1991
+Completed: 1994
+Functions: office
+Rank: 2
+
+*** Brander ***
+Height: 80
+Floors: 23
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 3
+
+*** Stoker ***
+Height: 80
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 3

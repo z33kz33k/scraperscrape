@@ -1,0 +1,3769 @@
+*** Dubai (1454) ***
+1.   Burj Khalifa, 828m
+2.   Marina 101, 425m
+3.   Princess Tower, 413m
+4.   23 Marina, 392m
+5.   La Maison by HDS, 386m
+6.   Elite Residence, 380m
+7.   Uptown Tower, 370m
+8.   The Address Boulevard, 370m
+9.   Almas Tower, 360m
+10.  Gevora Hotel, 356m
+11.  Il Primo Tower 1, 356m
+12.  JW Marriott Marquis Hotel Dubai Tower 1, 355m
+13.  JW Marriott Marquis Hotel Dubai Tower 2, 355m
+14.  Ciel Tower, 355m
+15.  Emirates Tower One, 355m
+16.  The Torch, 352m
+17.  WOW Hotel & Hotel Apartments, 336m
+18.  DAMAC Heights, 335m
+19.  Rose Rayhaan by Rotana, 333m
+20.  A Tower, 333m
+21.  The Address Residence - Fountain Views III, 331m
+22.  One Za'abeel Tower 1, 330m
+23.  Al Yaqoub Tower, 328m
+24.  The Index, 326m
+25.  Burj Al Arab, 321m
+26.  Blue Tower, 318m
+27.  FIVE Jumeirah Village Dubai, 314m
+28.  Ocean Heights, 310m
+29.  Emirates Tower Two, 309m
+30.  Amna Tower, 307m
+31.  Noora Tower, 307m
+32.  Cayan Tower, 306m
+33.  The Address, 302m
+34.  Al Wasl Tower, 302m
+35.  Jumeirah Gate, 301m
+36.  Emirates Crown, 296m
+37.  Aykon City Tower A, 295m
+38.  Millennium Hotel, 294m
+39.  Sulafa Tower, 288m
+40.  Millennium Tower, 285m
+41.  Tubular Tower, 285m
+42.  The Address Residence - Fountain Views I, 283m
+43.  The Address Residence - Fountain Views II, 283m
+44.  Al Hekma Tower, 282m
+45.  ICD Brookfield Place, 282m
+46.  Marina Pinnacle, 280m
+47.  Boulevard Point, 280m
+48.  D1 Tower, 278m
+49.  Burj Vista Tower 1, 272m
+50.  Radisson Royal Hotel Dubai, 269m
+51.  21st Century Tower, 269m
+52.  DAMAC Paramount Hotel & Residences, 268m
+53.  DAMAC Towers by Paramount, Tower 1, 268m
+54.  DAMAC Towers By Paramount, Tower 2, 268m
+55.  DAMAC Towers by Paramount, Tower 3, 268m
+56.  Aykon City Tower D, 267m
+57.  Business Central Tower 1, 265m
+58.  Business Central Tower 2, 265m
+59.  U-Bora Tower 1, 263m
+60.  The Address Residence Sky View Tower 1, 261m
+61.  Vision Tower, 260m
+62.  Meydan Beach Hotel, 258m
+63.  Marina Gate II, 258m
+64.  Dubai Marriott Harbour Hotel and Suites , 254m
+65.  Conrad Dubai, 251m
+66.  Paramount Tower Hotel & Residences, 250m
+67.  Chelsea Tower, 250m
+68.  Rolex Tower, 247m
+69.  Al Fattan Tower, 245m
+70.  Oasis Beach Tower, 245m
+71.  Arenco Tower, 244m
+72.  The Tower, 243m
+73.  The Address Residence Sky View Tower 2, 237m
+74.  Arady Office Tower, 237m
+75.  Burj Daman, 235m
+76.  Churchill Residence, 235m
+77.  One Za'abeel Tower 2, 235m
+78.  Park Place, 234m
+79.  MAG 218 Tower, 232m
+80.  Palm Tower, 232m
+81.  Aykon City Tower B, 231m
+82.  Vida Hotel and Residences - Dubai Marina Yacht Club, 230m
+83.  ASPIN Tower, 226m
+84.  Al Tayer Tower, 225m
+85.  Jumeirah Living Marina Gate, 224m
+86.  The Bay Gate, 221m
+87.  Aykon City Tower C, 221m
+88.  Angsana Hotel Tower, 221m
+89.  Angsana Suites Tower, 221m
+90.  Jumeirah Bay X2, 218m
+91.  Arady Residential Tower, 216m
+92.  Al Seef Tower, 215m
+93.  Meera Tower, 213m
+94.  Central Tower, 211m
+95.  Grosvenor House The Residence, 210m
+96.  Grosvenor House West Marina Beach, 210m
+97.  Al Rostamani Maze Tower, 210m
+98.  Executive Towers Building M, 210m
+99.  Le Reve, 210m
+100. Dubai Tower, 210m
+101. Latifa Tower, 210m
+102. Stella Maris, 209m
+103. Marina Heights, 208m
+104. The 118 , 208m
+105. Tamani Hotel Marina, 207m
+106. Marina Crown, 207m
+107. Harbour Views Tower 1, 207m
+108. Harbour Views Tower 2, 207m
+109. Marina Gate I, 206m
+110. Beach Tower, 205m
+111. RP Heights, 204m
+112. Nassima Tower, 204m
+113. 48 Burj Gate, 203m
+114. The Citadel, 201m
+115. MBK Tower, 200m
+116. Burj Al Salam, 197m
+117. Al Bateen Residential Tower, 196m
+118. Preatoni Tower, 196m
+119. Shangri-La Hotel, 196m
+120. Al Salam Tecom Tower, 195m
+121. The Distinction, 195m
+122. Saba Tower 4, 195m
+123. Sama Tower, 194m
+124. Tiara United Tower 1, 193m
+125. Tiara United Tower 2, 193m
+126. Royal Atlantis, 193m
+127. The Address Dubai Mall, 192m
+128. Duja Tower, 191m
+129. The Signature, 190m
+130. Executive Towers Building B, 190m
+131. Horizon Tower, 190m
+132. Platinum Tower, 190m
+133. Dubai Jewel Tower, 190m
+134. Sidra Tower, 187m
+135. Al Sahab Tower I, 187m
+136. Jumeirah Lake Terrace, 187m
+137. Executive Tower K, 186m
+138. 29 Boulevard Tower 2, 185m
+139. 29 Boulevard Tower 1, 185m
+140. Mesk Tower, 185m
+141. Murjan Tower, 185m
+142. Etisalat Tower 2, 185m
+143. Capricorn Tower, 185m
+144. Marina Terrace, 183m
+145. Executive Tower H, 182m
+146. Tiffany Tower, 182m
+147. Bay Central 2, 180m
+148. Mazaya Business Avenue 1, 180m
+149. Mazaya Business Avenue 2, 180m
+150. Mazaya Business Avenue 3, 180m
+151. Botanica Tower, 179m
+152. Al Seef Tower II, 179m
+153. JBR Area B Tower B03 T01, 177m
+154. Sadaf 4, 177m
+155. Sofitel Dubai Jumeirah Beach, 177m
+156. The Dome, 176m
+157. Mohammed Ibrahim Tower, 175m
+158. Media One Tower, 175m
+159. Iris Bay, 175m
+160. Cayan Cantara Branded Residences, 175m
+161. Dusit Residence, 174m
+162. H Office Tower, 174m
+163. Dream Tower, 173m
+164. The One at Jumeirah Village Circle, 172m
+165. Churchill Executive, 172m
+166. Escape Tower, 172m
+167. Bahar 1, 171m
+168. Single Business Tower, 170m
+169. Executive Tower G, 170m
+170. Executive Tower J, 170m
+171. Executive Tower L, 170m
+172. Burlington Tower, 170m
+173. Boulevard Plaza 1, 168m
+174. Jumeirah Business Center 1, 167m
+175. Shatha Tower, 167m
+176. Armada Tower 1, 167m
+177. Dubai Creek Heights, 166m
+178. Concorde Tower, 166m
+179. Four Points by Sheraton, 166m
+180. Liberty House, 166m
+181. The Prism, 166m
+182. Lakeshore Tower 1, 165m
+183. Goldcrest Executive Tower, 165m
+184. Al Kharbash Tower, 165m
+185. Jumeirah Bay X1, 164m
+186. Jumeirah Bay X3, 164m
+187. Falcon Tower, 163m
+188. Bay Central 3, 163m
+189. Bahar 3, 161m
+190. Ramada Plaza Jumeirah Beach, 161m
+191. Swiss Tower, 161m
+192. Sky Gardens, 160m
+193. Shahla Tower, 160m
+194. Al Seef Tower III, 160m
+195. Tamweel Tower, 160m
+196. Goldcrest Views 1, 159m
+197. Bahar 5, 158m
+198. Lake Point Tower, 158m
+199. Al Saqr Business Tower, 158m
+200. World Trade Center Residences, 158m
+201. Prime Tower, 158m
+202. Time Place, 158m
+203. AG Tower, 158m
+204. V3 Tower, 156m
+205. MAG 214, 155m
+206. Bay Central 1, 155m
+207. Saeed Tower II, 155m
+208. Shaiba Tower 1, 155m
+209. Silverene Tower A, 153m
+210. AU Tower, 153m
+211. Dusit Thani Hotel, 153m
+212. The Fairmont Dubai, 153m
+213. Dubai Arch Tower, 153m
+214. Laguna Tower, 152m
+215. Dalma Tower, 152m
+216. Al Habtoor Business Tower, 152m
+217. Al Yassat Tower, 151m
+218. Murjan 1, 151m
+219. Rimal 1, 151m
+220. Sadaf 1 & 2, 151m
+221. Sadaf 8, 151m
+222. The Icon Tower 1, 151m
+223. The Icon Tower 2, 151m
+224. Mashreq Bank Headquarters, 151m
+225. Dubai Gate Tower 1, 151m
+226. Cayan Cantara Hotel Apartments, 151m
+227. Saba Tower 1, 150m
+228. Armada Tower 2, 150m
+229. Armada Tower 3, 150m
+230. Saba Tower 2, 150m
+231. Saba Tower 3, 150m
+232. Park Lane Tower, 150m
+233. Saeed Tower I, 150m
+234. Bonnington Tower, 150m
+235. World Trade Center, 149m
+236. Volante, 149m
+237. Sadaf 6 & 7, 149m
+238. Jumeirah Business Center 2, 148m
+239. Jumeirah Business Center 3, 148m
+240. Jumeirah Business Center 4, 148m
+241. Jumeirah Business Center 5, 148m
+242. Green Lakes 2, 148m
+243. LIWA Heights, 148m
+244. BurJuman Centre, 148m
+245. Silver Tower, 148m
+246. Fortune Executive, 147m
+247. Lake View, 146m
+248. Paloma Tower, 146m
+249. Goldcrest Views 2, 146m
+250. Al Shera Tower, 146m
+251. O2 Residence, 146m
+252. Marina Tower, 145m
+253. East South Ridge Tower 6, 145m
+254. West South Ridge Tower 1, 145m
+255.  One Business Bay, 143m
+256. Pullman Jumeirah Lakes Towers - Hotel & Residence, 143m
+257. H Hotel & Convention Center Hotel Tower, 143m
+258. Boulevard Plaza 2, 141m
+259. The Residences Tower 1, 140m
+260. Dubai Gate 2 Tower, 140m
+261. The Palladium, 140m
+262. Indigo Tower, 140m
+263. Shams 1, 139m
+264. Fortune Tower, 139m
+265. Wind Tower 1, 138m
+266. Al Mass Tower, 138m
+267. Wind Tower 2, 136m
+268. Amwaj 4	, 136m
+269. Global Lake View, 136m
+270. Marina Mansions, 136m
+271. Palace Tower 1, 135m
+272. The Aspect Tower, 135m
+273. Bayswater Omniyat Tower, 135m
+274. Deira Tower, 135m
+275. Emirates Financial Towers 1, 135m
+276. Emirates Financial Towers 2, 135m
+277. Shaiba Tower 2, 135m
+278. The Regal Tower, 134m
+279. The Lofts East Tower, 134m
+280. The Lofts West Tower, 134m
+281. The Imperial Residence A, 134m
+282. The Imperial Residence B, 134m
+283. One Lake Plaza, 134m
+284. Ramada Downtown Dubai, 134m
+285. The Oberoi Center, 134m
+286. Burj Views Tower 1, 133m
+287. Burj Views Tower 2, 133m
+288. Burj Views Tower 3, 133m
+289. Hyatt Regency, 133m
+290. Murjan 5, 133m
+291. Murjan 6, 133m
+292. Rimal 3, 133m
+293. Shams 2, 133m
+294. Shams 4, 133m
+295. Sofitel Dubai Downtown, 133m
+296. Landmark Group Headquarters, 132m
+297. Al Waleed Paradise Tower, 131m
+298. Ghaya Residence, 131m
+299. Green Lakes 1, 131m
+300. Green Lakes 3, 131m
+301. API World Tower, 130m
+302. Al Attar Tower, 130m
+303. Al Hawai Tower, 130m
+304. The Point, 130m
+305. Rimal 5, 130m
+306. Lakeside Residence, 129m
+307. Lillian Towers, 127m
+308. Rimal 2, 126m
+309. Sadaf 2, 126m
+310. Al Meraikhi Tower, 125m
+311. Union Tower, 125m
+312. The Metropolis, 125m
+313. Al Yass Tower, 124m
+314. National Bank of Dubai Building, 124m
+315. The Address Dubai Marina, 123m
+316. Sadaf 5, 123m
+317. Indigo Icon Tower, 122m
+318. The Residences Tower 5, 122m
+319. Silverene Tower B, 121m
+320. Oasis Tower, 121m
+321. Tameen House Office Building, 120m
+322. Rimal 4, 120m
+323. Rimal 6, 120m
+324. Al Moosa Tower 2, 120m
+325. Executive Tower F, 120m
+326. B2B Tower, 120m
+327. Sheik Essa Tower, 119m
+328. Executive Tower E, 118m
+329. Dubai Creek Tower, 117m
+330. Khalid Al Attar Tower, 116m
+331. Dubai Marina Tower, 116m
+332. Damac Business Tower, 116m
+333. The Residences Tower 3, 115m
+334. Sahara Tower, 115m
+335. XL Tower, 115m
+336. Blakely Tower, 115m
+337. Sanibel Tower, 115m
+338.  Al Thuraya Tower 2, 114m
+339. Executive Tower C, 114m
+340. Bahar 2, 114m
+341. Al Bateen Hotel Tower, 111m
+342. Amwaj 3, 111m
+343. Murjan 4, 111m
+344. Habtoor Grand Hotel Tower 2, 108m
+345. Lake Central Tower, 107m
+346. O-14, 106m
+347. ARBIFT Tower, 105m
+348. Bahar 4, 104m
+349. Hilliana Tower, 104m
+350. Jumeirah Beach Hotel, 104m
+351. The Pad, 103m
+352. Al Reem Tower, 103m
+353. Gargash Tower, 103m
+354. Deira Twin Tower 1, 102m
+355. Deira Twin Tower 2, 102m
+356. Raffles Hotel Wafi City, 101m
+357. One at Palm Jumeirah, 100m
+358. Baniyas Tower Block A, 100m
+359. Baniyas Tower Block B, 100m
+360. Art Tamani Offices, 100m
+361. Etisalat Tower 1, 100m
+362. Fairooz Tower, 98m
+363. Fifty One @ Business Bay, 98m
+364. Bunyan Tower, 93m
+365. The Opus, 93m
+366. Grosvenor Business Bay Tower, 93m
+367. Clayton Residency, 92m
+368. Dubai Chamber Of Commerce & Industry 1, 91m
+369. Mayfair Residency, 88m
+370. Al Bareeq Tower, 88m
+371. Al Madar, 88m
+372. Habtoor Grand Hotel Tower 1, 88m
+373. The Residences Tower 4, 85m
+374. DAMAC The Residences at Business Central, 85m
+375. Empire Heights Tower A, 85m
+376. Empire Heights Tower B, 85m
+377. Anbar Tower, 85m
+378. U-Bora Tower 2, 83m
+379. The Gate, 80m
+380. Museum of The Future, 78m
+381. The Residences Tower 6, 76m
+
+******************** DETAILS ********************
+
+*** Dubai ***
+Country: United Arab Emirates
+Region: Middle East
+381 towers: Burj Khalifa, Marina 101, Princess Tower, 23 Marina, La Maison by HDS, Elite Residence, Uptown Tower, The Address Boulevard, Almas Tower, Gevora Hotel, Il Primo Tower 1, JW Marriott Marquis Hotel Dubai Tower 1, JW Marriott Marquis Hotel Dubai Tower 2, Ciel Tower, Emirates Tower One, The Torch, WOW Hotel & Hotel Apartments, DAMAC Heights, Rose Rayhaan by Rotana, A Tower, The Address Residence - Fountain Views III, One Za'abeel Tower 1, Al Yaqoub Tower, The Index, Burj Al Arab, Blue Tower, FIVE Jumeirah Village Dubai, Ocean Heights, Emirates Tower Two, Amna Tower, Noora Tower, Cayan Tower, The Address, Al Wasl Tower, Jumeirah Gate, Emirates Crown, Aykon City Tower A, Millennium Hotel, Sulafa Tower, Millennium Tower, Tubular Tower, The Address Residence - Fountain Views I, The Address Residence - Fountain Views II, Al Hekma Tower, ICD Brookfield Place, Marina Pinnacle, Boulevard Point, D1 Tower, Burj Vista Tower 1, Radisson Royal Hotel Dubai, 21st Century Tower, DAMAC Paramount Hotel & Residences, DAMAC Towers by Paramount, Tower 1, DAMAC Towers By Paramount, Tower 2, DAMAC Towers by Paramount, Tower 3, Aykon City Tower D, Business Central Tower 1, Business Central Tower 2, U-Bora Tower 1, The Address Residence Sky View Tower 1, Vision Tower, Meydan Beach Hotel, Marina Gate II, Dubai Marriott Harbour Hotel and Suites , Conrad Dubai, Paramount Tower Hotel & Residences, Chelsea Tower, Rolex Tower, Al Fattan Tower, Oasis Beach Tower, Arenco Tower, The Tower, The Address Residence Sky View Tower 2, Arady Office Tower, Burj Daman, Churchill Residence, One Za'abeel Tower 2, Park Place, MAG 218 Tower, Palm Tower, Aykon City Tower B, Vida Hotel and Residences - Dubai Marina Yacht Club, ASPIN Tower, Al Tayer Tower, Jumeirah Living Marina Gate, The Bay Gate, Aykon City Tower C, Angsana Hotel Tower, Angsana Suites Tower, Jumeirah Bay X2, Arady Residential Tower, Al Seef Tower, Meera Tower, Central Tower, Grosvenor House The Residence, Grosvenor House West Marina Beach, Al Rostamani Maze Tower, Executive Towers Building M, Le Reve, Dubai Tower, Latifa Tower, Stella Maris, Marina Heights, The 118 , Tamani Hotel Marina, Marina Crown, Harbour Views Tower 1, Harbour Views Tower 2, Marina Gate I, Beach Tower, RP Heights, Nassima Tower, 48 Burj Gate, The Citadel, MBK Tower, Burj Al Salam, Al Bateen Residential Tower, Preatoni Tower, Shangri-La Hotel, Al Salam Tecom Tower, The Distinction, Saba Tower 4, Sama Tower, Tiara United Tower 1, Tiara United Tower 2, Royal Atlantis, The Address Dubai Mall, Duja Tower, The Signature, Executive Towers Building B, Horizon Tower, Platinum Tower, Dubai Jewel Tower, Sidra Tower, Al Sahab Tower I, Jumeirah Lake Terrace, Executive Tower K, 29 Boulevard Tower 2, 29 Boulevard Tower 1, Mesk Tower, Murjan Tower, Etisalat Tower 2, Capricorn Tower, Marina Terrace, Executive Tower H, Tiffany Tower, Bay Central 2, Mazaya Business Avenue 1, Mazaya Business Avenue 2, Mazaya Business Avenue 3, Botanica Tower, Al Seef Tower II, JBR Area B Tower B03 T01, Sadaf 4, Sofitel Dubai Jumeirah Beach, The Dome, Mohammed Ibrahim Tower, Media One Tower, Iris Bay, Cayan Cantara Branded Residences, Dusit Residence, H Office Tower, Dream Tower, The One at Jumeirah Village Circle, Churchill Executive, Escape Tower, Bahar 1, Single Business Tower, Executive Tower G, Executive Tower J, Executive Tower L, Burlington Tower, Boulevard Plaza 1, Jumeirah Business Center 1, Shatha Tower, Armada Tower 1, Dubai Creek Heights, Concorde Tower, Four Points by Sheraton, Liberty House, The Prism, Lakeshore Tower 1, Goldcrest Executive Tower, Al Kharbash Tower, Jumeirah Bay X1, Jumeirah Bay X3, Falcon Tower, Bay Central 3, Bahar 3, Ramada Plaza Jumeirah Beach, Swiss Tower, Sky Gardens, Shahla Tower, Al Seef Tower III, Tamweel Tower, Goldcrest Views 1, Bahar 5, Lake Point Tower, Al Saqr Business Tower, World Trade Center Residences, Prime Tower, Time Place, AG Tower, V3 Tower, MAG 214, Bay Central 1, Saeed Tower II, Shaiba Tower 1, Silverene Tower A, AU Tower, Dusit Thani Hotel, The Fairmont Dubai, Dubai Arch Tower, Laguna Tower, Dalma Tower, Al Habtoor Business Tower, Al Yassat Tower, Murjan 1, Rimal 1, Sadaf 1 & 2, Sadaf 8, The Icon Tower 1, The Icon Tower 2, Mashreq Bank Headquarters, Dubai Gate Tower 1, Cayan Cantara Hotel Apartments, Saba Tower 1, Armada Tower 2, Armada Tower 3, Saba Tower 2, Saba Tower 3, Park Lane Tower, Saeed Tower I, Bonnington Tower, World Trade Center, Volante, Sadaf 6 & 7, Jumeirah Business Center 2, Jumeirah Business Center 3, Jumeirah Business Center 4, Jumeirah Business Center 5, Green Lakes 2, LIWA Heights, BurJuman Centre, Silver Tower, Fortune Executive, Lake View, Paloma Tower, Goldcrest Views 2, Al Shera Tower, O2 Residence, Marina Tower, East South Ridge Tower 6, West South Ridge Tower 1,  One Business Bay, Pullman Jumeirah Lakes Towers - Hotel & Residence, H Hotel & Convention Center Hotel Tower, Boulevard Plaza 2, The Residences Tower 1, Dubai Gate 2 Tower, The Palladium, Indigo Tower, Shams 1, Fortune Tower, Wind Tower 1, Al Mass Tower, Wind Tower 2, Amwaj 4	, Global Lake View, Marina Mansions, Palace Tower 1, The Aspect Tower, Bayswater Omniyat Tower, Deira Tower, Emirates Financial Towers 1, Emirates Financial Towers 2, Shaiba Tower 2, The Regal Tower, The Lofts East Tower, The Lofts West Tower, The Imperial Residence A, The Imperial Residence B, One Lake Plaza, Ramada Downtown Dubai, The Oberoi Center, Burj Views Tower 1, Burj Views Tower 2, Burj Views Tower 3, Hyatt Regency, Murjan 5, Murjan 6, Rimal 3, Shams 2, Shams 4, Sofitel Dubai Downtown, Landmark Group Headquarters, Al Waleed Paradise Tower, Ghaya Residence, Green Lakes 1, Green Lakes 3, API World Tower, Al Attar Tower, Al Hawai Tower, The Point, Rimal 5, Lakeside Residence, Lillian Towers, Rimal 2, Sadaf 2, Al Meraikhi Tower, Union Tower, The Metropolis, Al Yass Tower, National Bank of Dubai Building, The Address Dubai Marina, Sadaf 5, Indigo Icon Tower, The Residences Tower 5, Silverene Tower B, Oasis Tower, Tameen House Office Building, Rimal 4, Rimal 6, Al Moosa Tower 2, Executive Tower F, B2B Tower, Sheik Essa Tower, Executive Tower E, Dubai Creek Tower, Khalid Al Attar Tower, Dubai Marina Tower, Damac Business Tower, The Residences Tower 3, Sahara Tower, XL Tower, Blakely Tower, Sanibel Tower,  Al Thuraya Tower 2, Executive Tower C, Bahar 2, Al Bateen Hotel Tower, Amwaj 3, Murjan 4, Habtoor Grand Hotel Tower 2, Lake Central Tower, O-14, ARBIFT Tower, Bahar 4, Hilliana Tower, Jumeirah Beach Hotel, The Pad, Al Reem Tower, Gargash Tower, Deira Twin Tower 1, Deira Twin Tower 2, Raffles Hotel Wafi City, One at Palm Jumeirah, Baniyas Tower Block A, Baniyas Tower Block B, Art Tamani Offices, Etisalat Tower 1, Fairooz Tower, Fifty One @ Business Bay, Bunyan Tower, The Opus, Grosvenor Business Bay Tower, Clayton Residency, Dubai Chamber Of Commerce & Industry 1, Mayfair Residency, Al Bareeq Tower, Al Madar, Habtoor Grand Hotel Tower 1, The Residences Tower 4, DAMAC The Residences at Business Central, Empire Heights Tower A, Empire Heights Tower B, Anbar Tower, U-Bora Tower 2, The Gate, Museum of The Future, The Residences Tower 6
+Tiers: I: 36, II: 112, III: 139, IV: 59, V: 33, VI: 2
+Rating: 1454 (18.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Burj Khalifa ***
+Height: 828
+Floors: 163
+Status: Completed
+Started: 2004
+Completed: 2010
+Functions: office / residential / hotel
+Rank: 1
+
+*** Marina 101 ***
+Height: 425
+Floors: 101
+Status: Completed
+Started: 2006
+Completed: 2017
+Functions: residential / hotel
+Rank: 2
+
+*** Princess Tower ***
+Height: 413.36
+Floors: 101
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: residential
+Rank: 3
+
+*** 23 Marina ***
+Height: 392.35
+Floors: 88
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: residential
+Rank: 4
+
+*** La Maison by HDS ***
+Height: 386.5
+Floors: 105
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential
+Rank: 5
+
+*** Elite Residence ***
+Height: 380.49
+Floors: 87
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 6
+
+*** Uptown Tower ***
+Height: 370
+Floors: 78
+Status: Under Construction
+Started: 2017
+Functions: residential / hotel / office
+Rank: 7
+
+*** The Address Boulevard ***
+Height: 370
+Floors: 73
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential / hotel / retail
+Rank: 8
+
+*** Almas Tower ***
+Height: 360
+Floors: 68
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 9
+
+*** Gevora Hotel ***
+Height: 356.33
+Floors: 75
+Status: Completed
+Started: 2005
+Completed: 2017
+Functions: hotel
+Rank: 10
+
+*** Il Primo Tower 1 ***
+Height: 356
+Floors: 88
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 11
+
+*** JW Marriott Marquis Hotel Dubai Tower 1 ***
+Height: 355.35
+Floors: 82
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: hotel
+Rank: 12
+
+*** JW Marriott Marquis Hotel Dubai Tower 2 ***
+Height: 355.35
+Floors: 82
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: hotel
+Rank: 12
+
+*** Ciel Tower ***
+Height: 355
+Floors: 77
+Status: Under Construction
+Started: 2016
+Functions: serviced apartments / hotel
+Rank: 14
+
+*** Emirates Tower One ***
+Height: 354.6
+Floors: 54
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 15
+
+*** The Torch ***
+Height: 352
+Floors: 86
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 16
+
+*** WOW Hotel & Hotel Apartments ***
+Height: 336
+Floors: 78
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: hotel
+Rank: 17
+
+*** DAMAC Heights ***
+Height: 335.09
+Floors: 88
+Status: Completed
+Started: 2011
+Completed: 2018
+Functions: residential
+Rank: 18
+
+*** Rose Rayhaan by Rotana ***
+Height: 333
+Floors: 71
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel
+Rank: 19
+
+*** A Tower ***
+Height: 333
+Floors: 62
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 20
+
+*** The Address Residence - Fountain Views III ***
+Height: 331.4
+Floors: 77
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: serviced apartments / hotel
+Rank: 21
+
+*** One Za'abeel Tower 1 ***
+Height: 330
+Floors: 67
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: office
+Rank: 22
+
+*** Al Yaqoub Tower ***
+Height: 328
+Floors: 69
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: hotel / office
+Rank: 23
+
+*** The Index ***
+Height: 326
+Floors: 80
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential / office
+Rank: 24
+
+*** Burj Al Arab ***
+Height: 321
+Floors: 56
+Status: Completed
+Started: 1994
+Completed: 1999
+Functions: hotel
+Rank: 25
+
+*** Blue Tower ***
+Height: 317.6
+Floors: 72
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 26
+
+*** FIVE Jumeirah Village Dubai ***
+Height: 314
+Floors: 65
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / hotel
+Rank: 27
+
+*** Ocean Heights ***
+Height: 310
+Floors: 83
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 28
+
+*** Emirates Tower Two ***
+Height: 309
+Floors: 56
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 29
+
+*** Amna Tower ***
+Height: 307
+Floors: 75
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 30
+
+*** Noora Tower ***
+Height: 307
+Floors: 75
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 30
+
+*** Cayan Tower ***
+Height: 306.37
+Floors: 73
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: residential
+Rank: 32
+
+*** The Address ***
+Height: 302.2
+Floors: 63
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential / hotel
+Rank: 33
+
+*** Al Wasl Tower ***
+Height: 302
+Floors: 63
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential / hotel / office
+Rank: 34
+
+*** Jumeirah Gate ***
+Height: 301.03
+Floors: 77
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: serviced apartments / residential / hotel
+Rank: 35
+
+*** Emirates Crown ***
+Height: 296
+Floors: 63
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 36
+
+*** Aykon City Tower A ***
+Height: 294.8
+Floors: 80
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: hotel / serviced apartments
+Rank: 37
+
+*** Millennium Hotel ***
+Height: 294
+Floors: 66
+Status: Completed
+Started: 2004
+Completed: 2011
+Functions: hotel
+Rank: 38
+
+*** Sulafa Tower ***
+Height: 288
+Floors: 76
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 39
+
+*** Millennium Tower ***
+Height: 285.05
+Floors: 59
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 40
+
+*** Tubular Tower ***
+Height: 285
+Floors: 61
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 41
+
+*** The Address Residence - Fountain Views I ***
+Height: 283.2
+Floors: 70
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: serviced apartments
+Rank: 42
+
+*** The Address Residence - Fountain Views II ***
+Height: 282.65
+Floors: 70
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: serviced apartments
+Rank: 43
+
+*** Al Hekma Tower ***
+Height: 282
+Floors: 64
+Status: Completed
+Started: 2006
+Completed: 2016
+Functions: office
+Rank: 44
+
+*** ICD Brookfield Place ***
+Height: 282
+Floors: 54
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office / retail
+Rank: 45
+
+*** Marina Pinnacle ***
+Height: 280
+Floors: 73
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 46
+
+*** Boulevard Point ***
+Height: 279.8
+Floors: 69
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 47
+
+*** D1 Tower ***
+Height: 277.54
+Floors: 78
+Status: Completed
+Started: 2007
+Completed: 2015
+Functions: residential
+Rank: 48
+
+*** Burj Vista Tower 1 ***
+Height: 272
+Floors: 63
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 49
+
+*** Radisson Royal Hotel Dubai ***
+Height: 269
+Floors: 60
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel
+Rank: 50
+
+*** 21st Century Tower ***
+Height: 269
+Floors: 55
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 51
+
+*** DAMAC Paramount Hotel & Residences ***
+Height: 268.05
+Floors: 69
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential / hotel
+Rank: 52
+
+*** DAMAC Towers by Paramount, Tower 1 ***
+Height: 268.05
+Floors: 69
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 52
+
+*** DAMAC Towers By Paramount, Tower 2 ***
+Height: 268.05
+Floors: 69
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 52
+
+*** DAMAC Towers by Paramount, Tower 3 ***
+Height: 268.05
+Floors: 69
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 52
+
+*** Aykon City Tower D ***
+Height: 267.3
+Floors: 65
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: office
+Rank: 56
+
+*** Business Central Tower 1 ***
+Height: 265
+Floors: 53
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 57
+
+*** Business Central Tower 2 ***
+Height: 265
+Floors: 53
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 57
+
+*** U-Bora Tower 1 ***
+Height: 262.8
+Floors: 58
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 59
+
+*** The Address Residence Sky View Tower 1 ***
+Height: 260.85
+Floors: 60
+Status: Structurally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 60
+
+*** Vision Tower ***
+Height: 260
+Floors: 60
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 61
+
+*** Meydan Beach Hotel ***
+Height: 258.1
+Floors: 55
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: hotel
+Rank: 62
+
+*** Marina Gate II ***
+Height: 257.8
+Floors: 64
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 63
+
+*** Dubai Marriott Harbour Hotel and Suites  ***
+Height: 253.8
+Floors: 63
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / hotel
+Rank: 64
+
+*** Conrad Dubai ***
+Height: 251.2
+Floors: 51
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: hotel / office
+Rank: 65
+
+*** Paramount Tower Hotel & Residences ***
+Height: 250
+Floors: 65
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: serviced apartments / hotel
+Rank: 66
+
+*** Chelsea Tower ***
+Height: 250
+Floors: 49
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential / hotel
+Rank: 67
+
+*** Rolex Tower ***
+Height: 246.8
+Floors: 59
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office
+Rank: 68
+
+*** Al Fattan Tower ***
+Height: 245
+Floors: 51
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 69
+
+*** Oasis Beach Tower ***
+Height: 245
+Floors: 51
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 69
+
+*** Arenco Tower ***
+Height: 243.84
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 71
+
+*** The Tower ***
+Height: 242.6
+Floors: 54
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 72
+
+*** The Address Residence Sky View Tower 2 ***
+Height: 237.45
+Floors: 55
+Status: Structurally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential / hotel
+Rank: 73
+
+*** Arady Office Tower ***
+Height: 237.21
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2015
+Functions: office
+Rank: 74
+
+*** Burj Daman ***
+Height: 235
+Floors: 65
+Status: Completed
+Started: 2006
+Completed: 2014
+Functions: residential / hotel / office
+Rank: 75
+
+*** Churchill Residence ***
+Height: 235
+Floors: 61
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 76
+
+*** One Za'abeel Tower 2 ***
+Height: 235
+Floors: 57
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential / hotel
+Rank: 77
+
+*** Park Place ***
+Height: 234
+Floors: 56
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / office
+Rank: 78
+
+*** MAG 218 Tower ***
+Height: 231.8
+Floors: 66
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 79
+
+*** Palm Tower ***
+Height: 231.5
+Floors: 53
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / hotel
+Rank: 80
+
+*** Aykon City Tower B ***
+Height: 231.4
+Floors: 63
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: serviced apartments
+Rank: 81
+
+*** Vida Hotel and Residences - Dubai Marina Yacht Club ***
+Height: 229.72
+Floors: 57
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: hotel / residential / retail
+Rank: 82
+
+*** ASPIN Tower ***
+Height: 225.6
+Floors: 60
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential / office
+Rank: 83
+
+*** Al Tayer Tower ***
+Height: 225
+Floors: 55
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 84
+
+*** Jumeirah Living Marina Gate ***
+Height: 224.25
+Floors: 56
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 85
+
+*** The Bay Gate ***
+Height: 221
+Floors: 53
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: office
+Rank: 86
+
+*** Aykon City Tower C ***
+Height: 220.9
+Floors: 60
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential
+Rank: 87
+
+*** Angsana Hotel Tower ***
+Height: 220.68
+Floors: 49
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hotel
+Rank: 88
+
+*** Angsana Suites Tower ***
+Height: 220.68
+Floors: 49
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 88
+
+*** Jumeirah Bay X2 ***
+Height: 218
+Floors: 47
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 90
+
+*** Arady Residential Tower ***
+Height: 215.66
+Floors: 51
+Status: Completed
+Started: 2007
+Completed: 2015
+Functions: residential
+Rank: 91
+
+*** Al Seef Tower ***
+Height: 215
+Floors: 44
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 92
+
+*** Meera Tower ***
+Height: 213
+Floors: 52
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 93
+
+*** Central Tower ***
+Height: 211
+Floors: 49
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 94
+
+*** Grosvenor House The Residence ***
+Height: 210.4
+Floors: 48
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 95
+
+*** Grosvenor House West Marina Beach ***
+Height: 210.4
+Floors: 48
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / hotel
+Rank: 95
+
+*** Al Rostamani Maze Tower ***
+Height: 210
+Floors: 57
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / office
+Rank: 97
+
+*** Executive Towers Building M ***
+Height: 210
+Floors: 52
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / hotel
+Rank: 98
+
+*** Le Reve ***
+Height: 210
+Floors: 50
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 99
+
+*** Dubai Tower ***
+Height: 210
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 100
+
+*** Latifa Tower ***
+Height: 210
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 100
+
+*** Stella Maris ***
+Height: 208.6
+Floors: 54
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: residential
+Rank: 102
+
+*** Marina Heights ***
+Height: 208.4
+Floors: 55
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 103
+
+*** The 118  ***
+Height: 207.85
+Floors: 46
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 104
+
+*** Tamani Hotel Marina ***
+Height: 207
+Floors: 54
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: hotel
+Rank: 105
+
+*** Marina Crown ***
+Height: 207
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 106
+
+*** Harbour Views Tower 1 ***
+Height: 207
+Floors: 51
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 107
+
+*** Harbour Views Tower 2 ***
+Height: 207
+Floors: 51
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 107
+
+*** Marina Gate I ***
+Height: 206.5
+Floors: 52
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 109
+
+*** Beach Tower ***
+Height: 205
+Floors: 48
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 110
+
+*** RP Heights ***
+Height: 204
+Floors: 50
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 111
+
+*** Nassima Tower ***
+Height: 204
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office
+Rank: 112
+
+*** 48 Burj Gate ***
+Height: 203.18
+Floors: 51
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential / office
+Rank: 113
+
+*** The Citadel ***
+Height: 201
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 114
+
+*** MBK Tower ***
+Height: 200
+Floors: 59
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / office
+Rank: 115
+
+*** Burj Al Salam ***
+Height: 197.45
+Floors: 58
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: serviced apartments / hotel / office
+Rank: 116
+
+*** Al Bateen Residential Tower ***
+Height: 196.25
+Floors: 50
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 117
+
+*** Preatoni Tower ***
+Height: 196
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2018
+Functions: residential / office
+Rank: 118
+
+*** Shangri-La Hotel ***
+Height: 196
+Floors: 43
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: hotel
+Rank: 119
+
+*** Al Salam Tecom Tower ***
+Height: 195.05
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 120
+
+*** The Distinction ***
+Height: 195
+Floors: 53
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 121
+
+*** Saba Tower 4 ***
+Height: 194.9
+Floors: 48
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 122
+
+*** Sama Tower ***
+Height: 193.6
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / office
+Rank: 123
+
+*** Tiara United Tower 1 ***
+Height: 193
+Floors: 46
+Status: Architecturally Topped Out
+Started: 2007
+Completed: 2019
+Functions: hotel
+Rank: 124
+
+*** Tiara United Tower 2 ***
+Height: 193
+Floors: 46
+Status: Architecturally Topped Out
+Started: 2007
+Completed: 2019
+Functions: office
+Rank: 124
+
+*** Royal Atlantis ***
+Height: 193
+Floors: 43
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: hotel / residential
+Rank: 126
+
+*** The Address Dubai Mall ***
+Height: 191.75
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel
+Rank: 127
+
+*** Duja Tower ***
+Height: 191
+Floors: 57
+Status: Completed
+Started: 2009
+Completed: 2017
+Functions: residential / office
+Rank: 128
+
+*** The Signature ***
+Height: 190
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: serviced apartments
+Rank: 129
+
+*** Executive Towers Building B ***
+Height: 190
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 130
+
+*** Horizon Tower ***
+Height: 190
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 131
+
+*** Platinum Tower ***
+Height: 190
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 131
+
+*** Dubai Jewel Tower ***
+Height: 190
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / office
+Rank: 133
+
+*** Sidra Tower ***
+Height: 187
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 134
+
+*** Al Sahab Tower I ***
+Height: 187
+Floors: 44
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 135
+
+*** Jumeirah Lake Terrace ***
+Height: 187
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 136
+
+*** Executive Tower K ***
+Height: 186
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 137
+
+*** 29 Boulevard Tower 2 ***
+Height: 185
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: residential
+Rank: 138
+
+*** 29 Boulevard Tower 1 ***
+Height: 185
+Floors: 44
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: residential
+Rank: 139
+
+*** Mesk Tower ***
+Height: 185
+Floors: 40
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 140
+
+*** Murjan Tower ***
+Height: 185
+Floors: 40
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 140
+
+*** Etisalat Tower 2 ***
+Height: 185
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 142
+
+*** Capricorn Tower ***
+Height: 184.52
+Floors: 46
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential / office
+Rank: 143
+
+*** Marina Terrace ***
+Height: 183
+Floors: 38
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 144
+
+*** Executive Tower H ***
+Height: 182
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 145
+
+*** Tiffany Tower ***
+Height: 181.9
+Floors: 45
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 146
+
+*** Bay Central 2 ***
+Height: 180
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 147
+
+*** Mazaya Business Avenue 1 ***
+Height: 180
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 147
+
+*** Mazaya Business Avenue 2 ***
+Height: 180
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 147
+
+*** Mazaya Business Avenue 3 ***
+Height: 180
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 147
+
+*** Botanica Tower ***
+Height: 179.3
+Floors: 42
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 151
+
+*** Al Seef Tower II ***
+Height: 179
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 152
+
+*** JBR Area B Tower B03 T01 ***
+Height: 177
+Floors: 54
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 153
+
+*** Sadaf 4 ***
+Height: 177
+Floors: 54
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 153
+
+*** Sofitel Dubai Jumeirah Beach ***
+Height: 177
+Floors: 54
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 153
+
+*** The Dome ***
+Height: 176
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: office
+Rank: 156
+
+*** Mohammed Ibrahim Tower ***
+Height: 175
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 157
+
+*** Media One Tower ***
+Height: 175
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office / hotel
+Rank: 158
+
+*** Iris Bay ***
+Height: 175
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2015
+Functions: office
+Rank: 159
+
+*** Cayan Cantara Branded Residences ***
+Height: 174.96
+Floors: 42
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 160
+
+*** Dusit Residence ***
+Height: 174
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 161
+
+*** H Office Tower ***
+Height: 173.53
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 162
+
+*** Dream Tower ***
+Height: 173.4
+Floors: 43
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential
+Rank: 163
+
+*** The One at Jumeirah Village Circle ***
+Height: 172.1
+Floors: 44
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: hotel
+Rank: 164
+
+*** Churchill Executive ***
+Height: 172
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 165
+
+*** Escape Tower ***
+Height: 172
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 166
+
+*** Bahar 1 ***
+Height: 171
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 167
+
+*** Single Business Tower ***
+Height: 170
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 168
+
+*** Executive Tower G ***
+Height: 170
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 169
+
+*** Executive Tower J ***
+Height: 170
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 169
+
+*** Executive Tower L ***
+Height: 170
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 171
+
+*** Burlington Tower ***
+Height: 170
+Floors: 40
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 172
+
+*** Boulevard Plaza 1 ***
+Height: 168.45
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 173
+
+*** Jumeirah Business Center 1 ***
+Height: 167
+Floors: 46
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 174
+
+*** Shatha Tower ***
+Height: 167
+Floors: 41
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 175
+
+*** Armada Tower 1 ***
+Height: 167
+Floors: 39
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 176
+
+*** Dubai Creek Heights ***
+Height: 166.5
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2015
+Functions: residential
+Rank: 177
+
+*** Concorde Tower ***
+Height: 166
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 178
+
+*** Four Points by Sheraton ***
+Height: 166
+Floors: 43
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / hotel
+Rank: 179
+
+*** Liberty House ***
+Height: 166
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / office
+Rank: 180
+
+*** The Prism ***
+Height: 166
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 181
+
+*** Lakeshore Tower 1 ***
+Height: 165
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 182
+
+*** Goldcrest Executive Tower ***
+Height: 165
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / office
+Rank: 183
+
+*** Al Kharbash Tower ***
+Height: 165
+Floors: 36
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 184
+
+*** Jumeirah Bay X1 ***
+Height: 164
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 185
+
+*** Jumeirah Bay X3 ***
+Height: 164
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 185
+
+*** Falcon Tower ***
+Height: 162.65
+Floors: 41
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 187
+
+*** Bay Central 3 ***
+Height: 162.53
+Floors: 41
+Status: Completed
+Completed: 2015
+Functions: hotel
+Rank: 188
+
+*** Bahar 3 ***
+Height: 161
+Floors: 49
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 189
+
+*** Ramada Plaza Jumeirah Beach ***
+Height: 161
+Floors: 49
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel
+Rank: 189
+
+*** Swiss Tower ***
+Height: 160.8
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office
+Rank: 191
+
+*** Sky Gardens ***
+Height: 160
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 192
+
+*** Shahla Tower ***
+Height: 160
+Floors: 40
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 193
+
+*** Al Seef Tower III ***
+Height: 160
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 194
+
+*** Tamweel Tower ***
+Height: 160
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / office
+Rank: 194
+
+*** Goldcrest Views 1 ***
+Height: 159
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 196
+
+*** Bahar 5 ***
+Height: 158
+Floors: 48
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 197
+
+*** Lake Point Tower ***
+Height: 158
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 198
+
+*** Al Saqr Business Tower ***
+Height: 158
+Floors: 38
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: office
+Rank: 199
+
+*** World Trade Center Residences ***
+Height: 158
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 199
+
+*** Prime Tower ***
+Height: 158
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: office
+Rank: 201
+
+*** Time Place ***
+Height: 158
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 202
+
+*** AG Tower ***
+Height: 157.5
+Floors: 37
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 203
+
+*** V3 Tower ***
+Height: 155.75
+Floors: 39
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 204
+
+*** MAG 214 ***
+Height: 155
+Floors: 44
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / office
+Rank: 205
+
+*** Bay Central 1 ***
+Height: 155
+Floors: 42
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 206
+
+*** Saeed Tower II ***
+Height: 155
+Floors: 38
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: residential / office
+Rank: 207
+
+*** Shaiba Tower 1 ***
+Height: 155
+Floors: 34
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 208
+
+*** Silverene Tower A ***
+Height: 153.06
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 209
+
+*** AU Tower ***
+Height: 153
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 210
+
+*** Dusit Thani Hotel ***
+Height: 152.92
+Floors: 37
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential / hotel
+Rank: 211
+
+*** The Fairmont Dubai ***
+Height: 152.85
+Floors: 37
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: hotel
+Rank: 212
+
+*** Dubai Arch Tower ***
+Height: 152.55
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 213
+
+*** Laguna Tower ***
+Height: 152.5
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2012
+Functions: hotel / office
+Rank: 214
+
+*** Dalma Tower ***
+Height: 152.05
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 215
+
+*** Al Habtoor Business Tower ***
+Height: 152
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 216
+
+*** Al Yassat Tower ***
+Height: 151.35
+Floors: 41
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 217
+
+*** Murjan 1 ***
+Height: 151
+Floors: 46
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 218
+
+*** Rimal 1 ***
+Height: 151
+Floors: 46
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 218
+
+*** Sadaf 1 & 2 ***
+Height: 151
+Floors: 46
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 218
+
+*** Sadaf 8 ***
+Height: 151
+Floors: 46
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 218
+
+*** The Icon Tower 1 ***
+Height: 151
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 222
+
+*** The Icon Tower 2 ***
+Height: 151
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 222
+
+*** Mashreq Bank Headquarters ***
+Height: 151
+Floors: 36
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 224
+
+*** Dubai Gate Tower 1 ***
+Height: 150.8
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 225
+
+*** Cayan Cantara Hotel Apartments ***
+Height: 150.57
+Floors: 34
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: hotel / residential
+Rank: 226
+
+*** Saba Tower 1 ***
+Height: 150
+Floors: 37
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 227
+
+*** Armada Tower 2 ***
+Height: 150
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 228
+
+*** Armada Tower 3 ***
+Height: 150
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 228
+
+*** Saba Tower 2 ***
+Height: 150
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 228
+
+*** Saba Tower 3 ***
+Height: 150
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 228
+
+*** Park Lane Tower ***
+Height: 150
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2016
+Functions: hotel / office
+Rank: 232
+
+*** Saeed Tower I ***
+Height: 150
+Floors: 34
+Status: Completed
+Functions: residential / office
+Rank: 233
+
+*** Bonnington Tower ***
+Height: 149.6
+Floors: 41
+Status: Completed
+Completed: 2008
+Functions: residential / hotel
+Rank: 234
+
+*** World Trade Center ***
+Height: 149
+Floors: 39
+Status: Completed
+Started: 1974
+Completed: 1979
+Functions: office
+Rank: 235
+
+*** Volante ***
+Height: 149
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 236
+
+*** Sadaf 6 & 7 ***
+Height: 148.75
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 237
+
+*** Jumeirah Business Center 2 ***
+Height: 148.5
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 238
+
+*** Jumeirah Business Center 3 ***
+Height: 148.5
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 238
+
+*** Jumeirah Business Center 4 ***
+Height: 148.5
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 238
+
+*** Jumeirah Business Center 5 ***
+Height: 148.5
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 238
+
+*** Green Lakes 2 ***
+Height: 148.5
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 242
+
+*** LIWA Heights ***
+Height: 148.2
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 243
+
+*** BurJuman Centre ***
+Height: 148
+Floors: 28
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 244
+
+*** Silver Tower ***
+Height: 147.5
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 245
+
+*** Fortune Executive ***
+Height: 147
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: office
+Rank: 246
+
+*** Lake View ***
+Height: 146.46
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 247
+
+*** Paloma Tower ***
+Height: 146.3
+Floors: 39
+Status: Completed
+Functions: residential
+Rank: 248
+
+*** Goldcrest Views 2 ***
+Height: 146.25
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 249
+
+*** Al Shera Tower ***
+Height: 146
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 250
+
+*** O2 Residence ***
+Height: 145.8
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 251
+
+*** Marina Tower ***
+Height: 145
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 252
+
+*** East South Ridge Tower 6 ***
+Height: 144.9
+Floors: 44
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 253
+
+*** West South Ridge Tower 1 ***
+Height: 144.9
+Floors: 44
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 253
+
+***  One Business Bay ***
+Height: 143
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 255
+
+*** Pullman Jumeirah Lakes Towers - Hotel & Residence ***
+Height: 143
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2015
+Functions: hotel
+Rank: 255
+
+*** H Hotel & Convention Center Hotel Tower ***
+Height: 142.6
+Floors: 34
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel
+Rank: 257
+
+*** Boulevard Plaza 2 ***
+Height: 141.13
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 258
+
+*** The Residences Tower 1 ***
+Height: 140
+Floors: 42
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 259
+
+*** Dubai Gate 2 Tower ***
+Height: 140
+Floors: 36
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 260
+
+*** The Palladium ***
+Height: 140
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 261
+
+*** Indigo Tower ***
+Height: 139.5
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / office
+Rank: 262
+
+*** Shams 1 ***
+Height: 139
+Floors: 42
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 263
+
+*** Fortune Tower ***
+Height: 139
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 264
+
+*** Wind Tower 1 ***
+Height: 138.5
+Floors: 38
+Status: Architecturally Topped Out
+Started: 2005
+Completed: 2018
+Functions: residential / office
+Rank: 265
+
+*** Al Mass Tower ***
+Height: 138
+Floors: 31
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 266
+
+*** Wind Tower 2 ***
+Height: 136.5
+Floors: 38
+Status: Architecturally Topped Out
+Started: 2005
+Completed: 2019
+Functions: residential / office
+Rank: 267
+
+*** Amwaj 4	 ***
+Height: 136
+Floors: 41
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 268
+
+*** Global Lake View ***
+Height: 136
+Floors: 34
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 269
+
+*** Marina Mansions ***
+Height: 136
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 270
+
+*** Palace Tower 1 ***
+Height: 135.03
+Floors: 29
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 271
+
+*** The Aspect Tower ***
+Height: 135
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 272
+
+*** Bayswater Omniyat Tower ***
+Height: 135
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 273
+
+*** Deira Tower ***
+Height: 135
+Floors: 29
+Status: Completed
+Started: 1979
+Completed: 1980
+Functions: government
+Rank: 274
+
+*** Emirates Financial Towers 1 ***
+Height: 135
+Floors: 29
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 274
+
+*** Emirates Financial Towers 2 ***
+Height: 135
+Floors: 29
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 274
+
+*** Shaiba Tower 2 ***
+Height: 135
+Floors: 27
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 277
+
+*** The Regal Tower ***
+Height: 134.4
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: office
+Rank: 278
+
+*** The Lofts East Tower ***
+Height: 134.1
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 279
+
+*** The Lofts West Tower ***
+Height: 134.1
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 279
+
+*** The Imperial Residence A ***
+Height: 134.02
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: hotel / residential
+Rank: 281
+
+*** The Imperial Residence B ***
+Height: 134.02
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: hotel / residential
+Rank: 281
+
+*** One Lake Plaza ***
+Height: 134
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 283
+
+*** Ramada Downtown Dubai ***
+Height: 134
+Floors: 38
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 284
+
+*** The Oberoi Center ***
+Height: 134
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: office
+Rank: 285
+
+*** Burj Views Tower 1 ***
+Height: 133.4
+Floors: 30
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 286
+
+*** Burj Views Tower 2 ***
+Height: 133.4
+Floors: 30
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 286
+
+*** Burj Views Tower 3 ***
+Height: 133.4
+Floors: 30
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 286
+
+*** Hyatt Regency ***
+Height: 133.3
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2015
+Functions: hotel
+Rank: 289
+
+*** Murjan 5 ***
+Height: 133
+Floors: 40
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 290
+
+*** Murjan 6 ***
+Height: 133
+Floors: 40
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 290
+
+*** Rimal 3 ***
+Height: 133
+Floors: 40
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 290
+
+*** Shams 2 ***
+Height: 133
+Floors: 40
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 290
+
+*** Shams 4 ***
+Height: 133
+Floors: 40
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 290
+
+*** Sofitel Dubai Downtown ***
+Height: 132.58
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: hotel
+Rank: 295
+
+*** Landmark Group Headquarters ***
+Height: 131.5
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 296
+
+*** Al Waleed Paradise Tower ***
+Height: 131
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 297
+
+*** Ghaya Residence ***
+Height: 131
+Floors: 34
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 298
+
+*** Green Lakes 1 ***
+Height: 131
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 298
+
+*** Green Lakes 3 ***
+Height: 131
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 298
+
+*** API World Tower ***
+Height: 130.5
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 301
+
+*** Al Attar Tower ***
+Height: 130
+Floors: 32
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: residential
+Rank: 302
+
+*** Al Hawai Tower ***
+Height: 130
+Floors: 31
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 303
+
+*** The Point ***
+Height: 130
+Floors: 30
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 304
+
+*** Rimal 5 ***
+Height: 129.5
+Floors: 39
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 305
+
+*** Lakeside Residence ***
+Height: 129
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: residential
+Rank: 306
+
+*** Lillian Towers ***
+Height: 126.8
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2007
+Completed: 2019
+Functions: serviced apartments / hotel
+Rank: 307
+
+*** Rimal 2 ***
+Height: 126.5
+Floors: 38
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 308
+
+*** Sadaf 2 ***
+Height: 126.5
+Floors: 38
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 308
+
+*** Al Meraikhi Tower ***
+Height: 125
+Floors: 32
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 310
+
+*** Union Tower ***
+Height: 125
+Floors: 30
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: residential / office
+Rank: 311
+
+*** The Metropolis ***
+Height: 125
+Floors: 27
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 312
+
+*** Al Yass Tower ***
+Height: 124
+Floors: 27
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 313
+
+*** National Bank of Dubai Building ***
+Height: 124
+Floors: 20
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 314
+
+*** The Address Dubai Marina ***
+Height: 123.44
+Floors: 44
+Status: Completed
+Completed: 2009
+Functions: serviced apartments / hotel
+Rank: 315
+
+*** Sadaf 5 ***
+Height: 123.14
+Floors: 37
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 316
+
+*** Indigo Icon Tower ***
+Height: 122.5
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: commercial
+Rank: 317
+
+*** The Residences Tower 5 ***
+Height: 121.9
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 318
+
+*** Silverene Tower B ***
+Height: 121.31
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 319
+
+*** Oasis Tower ***
+Height: 121
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 320
+
+*** Tameen House Office Building ***
+Height: 120.1
+Floors: 30
+Status: Completed
+Functions: residential / office
+Rank: 321
+
+*** Rimal 4 ***
+Height: 120
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 322
+
+*** Rimal 6 ***
+Height: 120
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 322
+
+*** Al Moosa Tower 2 ***
+Height: 120
+Floors: 31
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 324
+
+*** Executive Tower F ***
+Height: 120
+Floors: 31
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 324
+
+*** B2B Tower ***
+Height: 120
+Floors: 23
+Status: Completed
+Started: 2006
+Completed: 2015
+Functions: office
+Rank: 326
+
+*** Sheik Essa Tower ***
+Height: 118.9
+Floors: 31
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: residential / office
+Rank: 327
+
+*** Executive Tower E ***
+Height: 118
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 328
+
+*** Dubai Creek Tower ***
+Height: 117
+Floors: 29
+Status: Completed
+Started: 1993
+Completed: 1995
+Functions: residential / office
+Rank: 329
+
+*** Khalid Al Attar Tower ***
+Height: 116.13
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 330
+
+*** Dubai Marina Tower ***
+Height: 116.1
+Floors: 27
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 331
+
+*** Damac Business Tower ***
+Height: 116
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 332
+
+*** The Residences Tower 3 ***
+Height: 115
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 333
+
+*** Sahara Tower ***
+Height: 115
+Floors: 31
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 334
+
+*** XL Tower ***
+Height: 115
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 335
+
+*** Blakely Tower ***
+Height: 114.65
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 336
+
+*** Sanibel Tower ***
+Height: 114.65
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 336
+
+***  Al Thuraya Tower 2 ***
+Height: 114
+Floors: 30
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 338
+
+*** Executive Tower C ***
+Height: 114
+Floors: 28
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 339
+
+*** Bahar 2 ***
+Height: 113.7
+Floors: 34
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 340
+
+*** Al Bateen Hotel Tower ***
+Height: 110.75
+Floors: 27
+Status: Completed
+Completed: 2013
+Functions: hotel
+Rank: 341
+
+*** Amwaj 3 ***
+Height: 110.64
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 342
+
+*** Murjan 4 ***
+Height: 110.64
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 342
+
+*** Habtoor Grand Hotel Tower 2 ***
+Height: 108.5
+Floors: 24
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: hotel
+Rank: 344
+
+*** Lake Central Tower ***
+Height: 107
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 345
+
+*** O-14 ***
+Height: 105.7
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 346
+
+*** ARBIFT Tower ***
+Height: 105
+Floors: 23
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 347
+
+*** Bahar 4 ***
+Height: 104.25
+Floors: 31
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 348
+
+*** Hilliana Tower ***
+Height: 104
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 349
+
+*** Jumeirah Beach Hotel ***
+Height: 104
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 350
+
+*** The Pad ***
+Height: 103
+Floors: 28
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 351
+
+*** Al Reem Tower ***
+Height: 103
+Floors: 22
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 352
+
+*** Gargash Tower ***
+Height: 102.65
+Floors: 21
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 353
+
+*** Deira Twin Tower 1 ***
+Height: 102.41
+Floors: 22
+Status: Completed
+Completed: 1998
+Functions: residential / office
+Rank: 354
+
+*** Deira Twin Tower 2 ***
+Height: 102.41
+Floors: 22
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 354
+
+*** Raffles Hotel Wafi City ***
+Height: 101
+Floors: 19
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: hotel
+Rank: 356
+
+*** One at Palm Jumeirah ***
+Height: 100
+Floors: 25
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 357
+
+*** Baniyas Tower Block A ***
+Height: 100
+Floors: 22
+Status: Completed
+Started: 1997
+Completed: 1997
+Functions: office
+Rank: 358
+
+*** Baniyas Tower Block B ***
+Height: 100
+Floors: 22
+Status: Completed
+Started: 1997
+Completed: 1997
+Functions: residential
+Rank: 358
+
+*** Art Tamani Offices ***
+Height: 100
+Floors: 21
+Status: Completed
+Started: 2010
+Functions: office / hotel / retail
+Rank: 360
+
+*** Etisalat Tower 1 ***
+Height: 100
+Floors: 17
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 361
+
+*** Fairooz Tower ***
+Height: 98
+Floors: 23
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 362
+
+*** Fifty One @ Business Bay ***
+Height: 98
+Floors: 21
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 363
+
+*** Bunyan Tower ***
+Height: 93
+Floors: 22
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 364
+
+*** The Opus ***
+Height: 93
+Floors: 21
+Status: Completed
+Completed: 2017
+Functions: serviced apartments / hotel / office
+Rank: 365
+
+*** Grosvenor Business Bay Tower ***
+Height: 93
+Floors: 20
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 366
+
+*** Clayton Residency ***
+Height: 92
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 367
+
+*** Dubai Chamber Of Commerce & Industry 1 ***
+Height: 91
+Floors: 18
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 368
+
+*** Mayfair Residency ***
+Height: 88
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 369
+
+*** Al Bareeq Tower ***
+Height: 88
+Floors: 22
+Status: Completed
+Started: 2007
+Completed: 2017
+Functions: hotel
+Rank: 370
+
+*** Al Madar ***
+Height: 88
+Floors: 22
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 370
+
+*** Habtoor Grand Hotel Tower 1 ***
+Height: 87.5
+Floors: 18
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: hotel
+Rank: 372
+
+*** The Residences Tower 4 ***
+Height: 85
+Floors: 29
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 373
+
+*** DAMAC The Residences at Business Central ***
+Height: 85
+Floors: 23
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 374
+
+*** Empire Heights Tower A ***
+Height: 85
+Floors: 20
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 375
+
+*** Empire Heights Tower B ***
+Height: 85
+Floors: 20
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 375
+
+*** Anbar Tower ***
+Height: 85
+Floors: 19
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 377
+
+*** U-Bora Tower 2 ***
+Height: 83
+Floors: 22
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 378
+
+*** The Gate ***
+Height: 80
+Floors: 15
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 379
+
+*** Museum of The Future ***
+Height: 77.8
+Floors: 11
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: Museum / retail
+Rank: 380
+
+*** The Residences Tower 6 ***
+Height: 76
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 381

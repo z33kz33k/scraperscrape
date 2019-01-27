@@ -1,0 +1,21 @@
+*** Ledyard Center (1) ***
+1. MGM Grand at Foxwoods, 99m
+
+******************** DETAILS ********************
+
+*** Ledyard Center ***
+Country: United States
+Region: North America
+1 tower: MGM Grand at Foxwoods
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** MGM Grand at Foxwoods ***
+Height: 99.1
+Floors: 26
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: hotel / casino
+Rank: 1

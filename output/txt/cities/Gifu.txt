@@ -1,0 +1,21 @@
+*** Gifu (4) ***
+1. Gifu City Tower 43, 163m
+
+******************** DETAILS ********************
+
+*** Gifu ***
+Country: Japan
+Region: Asia
+1 tower: Gifu City Tower 43
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gifu City Tower 43 ***
+Height: 163
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 1

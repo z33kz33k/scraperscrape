@@ -1,0 +1,73 @@
+*** Mar del Plata (9) ***
+1. Edificio Demetrio Eliades, 125m
+2. Edificio Cosmos, 119m
+3. Torre Luna, 100m
+4. Torre Sol, 100m
+5. Edificio Eden, 88m
+6. Almeria I, 80m
+7. Independencia 1717, 75m
+
+******************** DETAILS ********************
+
+*** Mar del Plata ***
+Country: Argentina
+Region: South America
+7 towers: Edificio Demetrio Eliades, Edificio Cosmos, Torre Luna, Torre Sol, Edificio Eden, Almeria I, Independencia 1717
+Tiers: I: 5, II: 2
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Edificio Demetrio Eliades ***
+Height: 125
+Floors: 40
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 1
+
+*** Edificio Cosmos ***
+Height: 119
+Floors: 38
+Status: Completed
+Completed: 1964
+Functions: residential
+Rank: 2
+
+*** Torre Luna ***
+Height: 100
+Floors: 29
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 3
+
+*** Torre Sol ***
+Height: 100
+Floors: 29
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 3
+
+*** Edificio Eden ***
+Height: 88
+Floors: 26
+Status: Completed
+Started: 1958
+Completed: 1962
+Functions: residential
+Rank: 5
+
+*** Almeria I ***
+Height: 80
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 6
+
+*** Independencia 1717 ***
+Height: 75
+Floors: 22
+Status: Completed
+Functions: residential
+Rank: 7

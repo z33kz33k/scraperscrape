@@ -1,0 +1,1958 @@
+*** London (366) ***
+1.   The Shard, 306m
+2.   Twentytwo, 278m
+3.   One Canada Square, 236m
+4.   Landmark Pinnacle, 233m
+5.   Salesforce Tower, 230m
+6.   The Leadenhall Building, 224m
+7.   Newfoundland, 220m
+8.   Valiant Tower, 214m
+9.   One Park Drive, 205m
+10.  25 Canada Square, 201m
+11.  8 Canada Square, 200m
+12.  City Tower, 199m
+13.  The Scalpel, 190m
+14.  Wardian East Tower, 187m
+15.  Tower 42, 183m
+16.  The Madison, 182m
+17.  The Tower, One St George Wharf, 181m
+18.  30 St Mary Axe, 180m
+19.  100 Bishopsgate, 172m
+20.  AYKON London One, 170m
+21.  Wardian West Tower, 168m
+22.  One Blackfriars, 165m
+23.  Principal Tower , 161m
+24.  The Broadgate Tower, 161m
+25.  20 Fenchurch Street, 160m
+26.  River Tower, 160m
+27.  One Churchill Place, 156m
+28.  25 Bank Street, 153m
+29.  40 Bank Street, 153m
+30.  10 Upper Bank Street, 151m
+31.  South Bank Tower, 150m
+32.  Carrara Tower, 150m
+33.  Arena Tower, 149m
+34.  10 Park Drive, 149m
+35.  Castilla, 149m
+36.  Guy's Tower, 149m
+37.  Pan Peninsula East Tower, 148m
+38.  Strata, 148m
+39.  1 Bank Street, 145m
+40.  Harbour Central-Maine Tower, 144m
+41.  Manhattan Loft Gardens, 142m
+42.  Imperial West Tower, 138m
+43.  Landmark East Tower, 136m
+44.  Providence Tower, 136m
+45.  Pan Pacific Hotel, 135m
+46.  101 George Street, 135m
+47.  Atlas, 135m
+48.  Pinnacle Apartments, 134m
+49.  Stratford Halo, 133m
+50.  Keybridge Lofts, 133m
+51.  Valencia Tower, 130m
+52.  The GRID Building, 128m
+53.  CityPoint, 127m
+54.  The Stage, 126m
+55.  Nine Elms Point, Albert Point, 126m
+56.  Two Fifty One, 125m
+57.  Harbour Central-Block C, 125m
+58.  The Willis Building, 125m
+59.  Euston Tower, 124m
+60.  One Crown Place South, 123m
+61.  One The Elephant, 123m
+62.  Cromwell Tower, 123m
+63.  Lauderdale Tower, 123m
+64.  Shakespeare Tower, 123m
+65.  Chelsea Waterfront-West Tower, 122m
+66.  One Casson Square, 122m
+67.  Pan Peninsula West Tower, 122m
+68.  Vauxhall Sky Gardens, 120m
+69.  Novotel Canary Wharf, 119m
+70.  Millbank Tower, 119m
+71.  25 Churchill Place, 118m
+72.  Aviva Tower, 118m
+73.  Centre Point, 117m
+74.  Stratosphere Tower, 117m
+75.  Chronicle Tower, 115m
+76.  East Village Site N08 Tower 2, 113m
+77.  The Heron, 112m
+78.  Chapter London Spitalfields, 112m
+79.  Capital Towers-Sky View Tower, 112m
+80.  Dollar Bay, 109m
+81.  No. 1 West India Quay, 108m
+82.  Shell Centre, 107m
+83.  One Crown Place North, 106m
+84.  Ontario Tower, 106m
+85.  30 Casson Square, 105m
+86.  33 Canada Square, 105m
+87.  Shoreditch Highgate Hotel, 105m
+88.  Pioneer Point Tower 2, 105m
+89.  99 Bishopsgate, 104m
+90.  125 Old Broad Street, 103m
+91.  Stratford Central-Legacy Tower, 103m
+92.  Empress State Building, 102m
+93.  Upper Riverside-Building 5, 102m
+94.  West End Gate-Tower A, 102m
+95.  West Grove-The Highwood, 102m
+96.  Woodberry Down-Skyline, 101m
+97.  Portland House, 101m
+98.  The London Hilton on Park Lane, 101m
+99.  Angel Court, 101m
+100. 4 Casson Square, 100m
+101. East Village Site N08 Tower 1, 100m
+102. Trellick Tower, 98m
+103. The Atlas, 96m
+104. Shard Place, 96m
+105. Upper Riverside-Building 4, 96m
+106. Canaletto, 96m
+107. The Waterman, 96m
+108. The Dumont, 96m
+109. Ropemaker, 95m
+110. Cassia Point, 95m
+111. The Lloyd's Building, 95m
+112. Lincoln Plaza-Franklin Tower, 95m
+113. Landmark West Tower, 95m
+114. Vauxhall Square-Miles Street South, 95m
+115. Harbour Central-Block A, 94m
+116. Upper Riverside-Building 3, 94m
+117. Knightsbridge Barracks, 94m
+118. Holiday Inn Kensington Forum, 94m
+119. Stratford Plaza, 93m
+120. Kew Eye, 93m
+121. 206-214 High Street, 93m
+122. Conquest Tower, 92m
+123. 20 Gracechurch, 92m
+124. London Hilton Metropole, 92m
+125. Duncan House, 91m
+126. Lombard Wharf, 91m
+127. 200 Aldersgate Street, 91m
+128. 70 St. Mary Axe, 90m
+129. Stratford Riverside, 90m
+130. Nine Elms Point, Doulton Point, 90m
+131. Harbour Central-Block B2, 89m
+132. 11 Mapleton Crescent, 89m
+133. International Quarter Site S5, 88m
+134. City Island-Caledonia House, 88m
+135. Ontario Point, 87m
+136. Arora Tower, 87m
+137. Nova Victoria-South, 87m
+138. The Royal London Hospital, 86m
+139. 240 Blackfriars Road, 86m
+140. Hawfinch House, 85m
+141. Merano Residences, 85m
+142. Chelsea Waterfront East Tower, 85m
+143. The Corniche, Building 2, 85m
+144. London Television Centre, 85m
+145. Balfron Tower, 84m
+146. Altitude Aldgate, 84m
+147. Unite Stratford One, 84m
+148. The Liberty Building, 83m
+149. Apex House, 83m
+150. NEO Bankside Building C, 82m
+151. One Croydon, 82m
+152. Athena Court, 82m
+153. Distillery Tower, 82m
+154. The Eagle, 82m
+155. The Triton Building, 82m
+156. Pioneer Point Tower 1, 82m
+157. Streamlight Tower, 82m
+158. Marlin Apartments, 82m
+159. Aldgate Place, Central Tower, 82m
+160. 30 Crown Place, 82m
+161. Moor House, 82m
+162. Lewisham Gateway-Portrait, 82m
+163. One Creechurch Place, 81m
+164. Tolworth Tower, 81m
+165. Horizons, 81m
+166. Urbanest King's Cross, 81m
+167. Two Southbank Place, 81m
+168. The Lighterman, 80m
+169. Peregrine House, 80m
+170. Woodberry Down-Residence, 80m
+171. Wembley Point, 80m
+172. 6-8 Bishopsgate, 79m
+173. St. George's House, 79m
+174. Upper Riverside-Building 2, 79m
+175. One Commercial Street, 79m
+176. Aldgate Place, Gateway Tower, 79m
+177. Blackwall Reach-Plot H, 79m
+178. Aldgate Tower, 79m
+179. Whitgift Centre-Centre Tower, 79m
+180. Copperas Street Development, 78m
+181. Aberfield Estate-Maydew House, 78m
+182. Pepy's Estate-Daubeney Tower, 78m
+183. Pepy's Estate-Eddystone Tower, 78m
+184. Sienna Alto, 78m
+185. The News Building, 78m
+186. Chelsea Creek-The Tower, 78m
+187. University College London Hospital, 78m
+188. Marner Point, 77m
+189. Grampian House, 76m
+190. Mendip House, 76m
+191. Pennine House, 76m
+192. Elektron Tower, 76m
+193. The Corniche, Building 1, 76m
+194. Elephant 1 Block A, 76m
+195. Apex Tower, 76m
+196. City Island-Dawsonne House, 76m
+197. Goodman's Fields-Tower 7, 75m
+198. Rothschild Bank Headquarters, 75m
+199. White Collar Factory, 75m
+200. Nightingale Heights, 75m
+201. City Island-Bridgwater House, 75m
+202. One Tower Bridge Building D, 75m
+203. Vermilion, 75m
+204. Charing Cross Hospital, Main Building, 75m
+
+******************** DETAILS ********************
+
+*** London ***
+Country: United Kingdom
+Region: Europe
+204 towers: The Shard, Twentytwo, One Canada Square, Landmark Pinnacle, Salesforce Tower, The Leadenhall Building, Newfoundland, Valiant Tower, One Park Drive, 25 Canada Square, 8 Canada Square, City Tower, The Scalpel, Wardian East Tower, Tower 42, The Madison, The Tower, One St George Wharf, 30 St Mary Axe, 100 Bishopsgate, AYKON London One, Wardian West Tower, One Blackfriars, Principal Tower , The Broadgate Tower, 20 Fenchurch Street, River Tower, One Churchill Place, 25 Bank Street, 40 Bank Street, 10 Upper Bank Street, South Bank Tower, Carrara Tower, Arena Tower, 10 Park Drive, Castilla, Guy's Tower, Pan Peninsula East Tower, Strata, 1 Bank Street, Harbour Central-Maine Tower, Manhattan Loft Gardens, Imperial West Tower, Landmark East Tower, Providence Tower, Pan Pacific Hotel, 101 George Street, Atlas, Pinnacle Apartments, Stratford Halo, Keybridge Lofts, Valencia Tower, The GRID Building, CityPoint, The Stage, Nine Elms Point, Albert Point, Two Fifty One, Harbour Central-Block C, The Willis Building, Euston Tower, One Crown Place South, One The Elephant, Cromwell Tower, Lauderdale Tower, Shakespeare Tower, Chelsea Waterfront-West Tower, One Casson Square, Pan Peninsula West Tower, Vauxhall Sky Gardens, Novotel Canary Wharf, Millbank Tower, 25 Churchill Place, Aviva Tower, Centre Point, Stratosphere Tower, Chronicle Tower, East Village Site N08 Tower 2, The Heron, Chapter London Spitalfields, Capital Towers-Sky View Tower, Dollar Bay, No. 1 West India Quay, Shell Centre, One Crown Place North, Ontario Tower, 30 Casson Square, 33 Canada Square, Shoreditch Highgate Hotel, Pioneer Point Tower 2, 99 Bishopsgate, 125 Old Broad Street, Stratford Central-Legacy Tower, Empress State Building, Upper Riverside-Building 5, West End Gate-Tower A, West Grove-The Highwood, Woodberry Down-Skyline, Portland House, The London Hilton on Park Lane, Angel Court, 4 Casson Square, East Village Site N08 Tower 1, Trellick Tower, The Atlas, Shard Place, Upper Riverside-Building 4, Canaletto, The Waterman, The Dumont, Ropemaker, Cassia Point, The Lloyd's Building, Lincoln Plaza-Franklin Tower, Landmark West Tower, Vauxhall Square-Miles Street South, Harbour Central-Block A, Upper Riverside-Building 3, Knightsbridge Barracks, Holiday Inn Kensington Forum, Stratford Plaza, Kew Eye, 206-214 High Street, Conquest Tower, 20 Gracechurch, London Hilton Metropole, Duncan House, Lombard Wharf, 200 Aldersgate Street, 70 St. Mary Axe, Stratford Riverside, Nine Elms Point, Doulton Point, Harbour Central-Block B2, 11 Mapleton Crescent, International Quarter Site S5, City Island-Caledonia House, Ontario Point, Arora Tower, Nova Victoria-South, The Royal London Hospital, 240 Blackfriars Road, Hawfinch House, Merano Residences, Chelsea Waterfront East Tower, The Corniche, Building 2, London Television Centre, Balfron Tower, Altitude Aldgate, Unite Stratford One, The Liberty Building, Apex House, NEO Bankside Building C, One Croydon, Athena Court, Distillery Tower, The Eagle, The Triton Building, Pioneer Point Tower 1, Streamlight Tower, Marlin Apartments, Aldgate Place, Central Tower, 30 Crown Place, Moor House, Lewisham Gateway-Portrait, One Creechurch Place, Tolworth Tower, Horizons, Urbanest King's Cross, Two Southbank Place, The Lighterman, Peregrine House, Woodberry Down-Residence, Wembley Point, 6-8 Bishopsgate, St. George's House, Upper Riverside-Building 2, One Commercial Street, Aldgate Place, Gateway Tower, Blackwall Reach-Plot H, Aldgate Tower, Whitgift Centre-Centre Tower, Copperas Street Development, Aberfield Estate-Maydew House, Pepy's Estate-Daubeney Tower, Pepy's Estate-Eddystone Tower, Sienna Alto, The News Building, Chelsea Creek-The Tower, University College London Hospital, Marner Point, Grampian House, Mendip House, Pennine House, Elektron Tower, The Corniche, Building 1, Elephant 1 Block A, Apex Tower, City Island-Dawsonne House, Goodman's Fields-Tower 7, Rothschild Bank Headquarters, White Collar Factory, Nightingale Heights, City Island-Bridgwater House, One Tower Bridge Building D, Vermilion, Charing Cross Hospital, Main Building
+Tiers: I: 122, II: 51, III: 23, IV: 7, V: 1
+Rating: 366 (33.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Shard ***
+Height: 306
+Floors: 73
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential / hotel / office
+Rank: 1
+
+*** Twentytwo ***
+Height: 278.19
+Floors: 62
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** One Canada Square ***
+Height: 236
+Floors: 50
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 3
+
+*** Landmark Pinnacle ***
+Height: 233.2
+Floors: 77
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: serviced apartments / residential
+Rank: 4
+
+*** Salesforce Tower ***
+Height: 230
+Floors: 46
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 5
+
+*** The Leadenhall Building ***
+Height: 224
+Floors: 52
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 6
+
+*** Newfoundland ***
+Height: 219.8
+Floors: 58
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 7
+
+*** Valiant Tower ***
+Height: 214.5
+Floors: 68
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 8
+
+*** One Park Drive ***
+Height: 204.93
+Floors: 57
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 9
+
+*** 25 Canada Square ***
+Height: 201
+Floors: 42
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 10
+
+*** 8 Canada Square ***
+Height: 199.51
+Floors: 42
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 11
+
+*** City Tower ***
+Height: 199.4
+Floors: 58
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential / retail
+Rank: 12
+
+*** The Scalpel ***
+Height: 190.1
+Floors: 39
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 13
+
+*** Wardian East Tower ***
+Height: 187.23
+Floors: 55
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 14
+
+*** Tower 42 ***
+Height: 182.9
+Floors: 43
+Status: Completed
+Started: 1971
+Completed: 1980
+Functions: office
+Rank: 15
+
+*** The Madison ***
+Height: 181.95
+Floors: 55
+Status: Under Construction
+Started: 2016
+Functions: residential / office
+Rank: 16
+
+*** The Tower, One St George Wharf ***
+Height: 180.6
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 17
+
+*** 30 St Mary Axe ***
+Height: 179.8
+Floors: 40
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: office
+Rank: 18
+
+*** 100 Bishopsgate ***
+Height: 171.6
+Floors: 40
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 19
+
+*** AYKON London One ***
+Height: 169.75
+Floors: 50
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 20
+
+*** Wardian West Tower ***
+Height: 168.08
+Floors: 50
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 21
+
+*** One Blackfriars ***
+Height: 165
+Floors: 52
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 22
+
+*** Principal Tower  ***
+Height: 161.28
+Floors: 50
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 23
+
+*** The Broadgate Tower ***
+Height: 161.25
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 24
+
+*** 20 Fenchurch Street ***
+Height: 160.12
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 25
+
+*** River Tower ***
+Height: 160.1
+Floors: 42
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential / hotel / retail
+Rank: 26
+
+*** One Churchill Place ***
+Height: 156.34
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 27
+
+*** 25 Bank Street ***
+Height: 153
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 28
+
+*** 40 Bank Street ***
+Height: 153
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 28
+
+*** 10 Upper Bank Street ***
+Height: 150.9
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 30
+
+*** South Bank Tower ***
+Height: 150.44
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 31
+
+*** Carrara Tower ***
+Height: 149.6
+Floors: 43
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / office / retail
+Rank: 32
+
+*** Arena Tower ***
+Height: 149.1
+Floors: 45
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** 10 Park Drive ***
+Height: 148.89
+Floors: 43
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 34
+
+*** Castilla ***
+Height: 148.7
+Floors: 46
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 35
+
+*** Guy's Tower ***
+Height: 148.65
+Floors: 34
+Status: Completed
+Completed: 2015
+Functions: hospital
+Rank: 36
+
+*** Pan Peninsula East Tower ***
+Height: 148
+Floors: 48
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 37
+
+*** Strata ***
+Height: 147.85
+Floors: 43
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 38
+
+*** 1 Bank Street ***
+Height: 145.4
+Floors: 27
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 39
+
+*** Harbour Central-Maine Tower ***
+Height: 143.7
+Floors: 42
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 40
+
+*** Manhattan Loft Gardens ***
+Height: 142
+Floors: 42
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / hotel
+Rank: 41
+
+*** Imperial West Tower ***
+Height: 138.5
+Floors: 35
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 42
+
+*** Landmark East Tower ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 43
+
+*** Providence Tower ***
+Height: 136
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 44
+
+*** Pan Pacific Hotel ***
+Height: 135.33
+Floors: 44
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / hotel
+Rank: 45
+
+*** 101 George Street ***
+Height: 135
+Floors: 44
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 46
+
+*** Atlas ***
+Height: 134.52
+Floors: 40
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 47
+
+*** Pinnacle Apartments ***
+Height: 134
+Floors: 44
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential
+Rank: 48
+
+*** Stratford Halo ***
+Height: 133.1
+Floors: 43
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 49
+
+*** Keybridge Lofts ***
+Height: 133
+Floors: 36
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / office / retail
+Rank: 50
+
+*** Valencia Tower ***
+Height: 129.85
+Floors: 37
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential / office / retail
+Rank: 51
+
+*** The GRID Building ***
+Height: 128.12
+Floors: 36
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 52
+
+*** CityPoint ***
+Height: 127.1
+Floors: 36
+Status: Completed
+Started: 1962
+Completed: 2000
+Functions: office
+Rank: 53
+
+*** The Stage ***
+Height: 126
+Floors: 38
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 54
+
+*** Nine Elms Point, Albert Point ***
+Height: 126
+Floors: 34
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 55
+
+*** Two Fifty One ***
+Height: 125.2
+Floors: 39
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 56
+
+*** Harbour Central-Block C ***
+Height: 124.8
+Floors: 36
+Status: Architecturally Topped Out
+Completed: 2019
+Functions: residential
+Rank: 57
+
+*** The Willis Building ***
+Height: 124.77
+Floors: 28
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 58
+
+*** Euston Tower ***
+Height: 124.3
+Floors: 36
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 59
+
+*** One Crown Place South ***
+Height: 123.43
+Floors: 35
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / office / retail
+Rank: 60
+
+*** One The Elephant ***
+Height: 123.3
+Floors: 37
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 61
+
+*** Cromwell Tower ***
+Height: 123
+Floors: 42
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 62
+
+*** Lauderdale Tower ***
+Height: 123
+Floors: 42
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 62
+
+*** Shakespeare Tower ***
+Height: 123
+Floors: 42
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 62
+
+*** Chelsea Waterfront-West Tower ***
+Height: 122.45
+Floors: 37
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 65
+
+*** One Casson Square ***
+Height: 122.3
+Floors: 37
+Status: Under Construction
+Completed: 2018
+Functions: residential
+Rank: 66
+
+*** Pan Peninsula West Tower ***
+Height: 122
+Floors: 39
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 67
+
+*** Vauxhall Sky Gardens ***
+Height: 120
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 68
+
+*** Novotel Canary Wharf ***
+Height: 119.3
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hotel
+Rank: 69
+
+*** Millbank Tower ***
+Height: 118.87
+Floors: 33
+Status: Completed
+Started: 1959
+Completed: 1962
+Functions: office
+Rank: 70
+
+*** 25 Churchill Place ***
+Height: 118
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 71
+
+*** Aviva Tower ***
+Height: 117.9
+Floors: 28
+Status: Completed
+Started: 1968
+Completed: 1969
+Functions: office
+Rank: 72
+
+*** Centre Point ***
+Height: 117.3
+Floors: 35
+Status: Completed
+Started: 1963
+Completed: 1966
+Functions: office
+Rank: 73
+
+*** Stratosphere Tower ***
+Height: 117
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 74
+
+*** Chronicle Tower ***
+Height: 115
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 75
+
+*** East Village Site N08 Tower 2 ***
+Height: 113
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 76
+
+*** The Heron ***
+Height: 112
+Floors: 36
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 77
+
+*** Chapter London Spitalfields ***
+Height: 111.9
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 78
+
+*** Capital Towers-Sky View Tower ***
+Height: 111.5
+Floors: 35
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 79
+
+*** Dollar Bay ***
+Height: 108.95
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 80
+
+*** No. 1 West India Quay ***
+Height: 108
+Floors: 36
+Status: Completed
+Completed: 2004
+Functions: residential / hotel
+Rank: 81
+
+*** Shell Centre ***
+Height: 107
+Floors: 26
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 82
+
+*** One Crown Place North ***
+Height: 105.94
+Floors: 30
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / office / retail
+Rank: 83
+
+*** Ontario Tower ***
+Height: 105.5
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 84
+
+*** 30 Casson Square ***
+Height: 105.4
+Floors: 30
+Status: Structurally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 85
+
+*** 33 Canada Square ***
+Height: 105
+Floors: 18
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 86
+
+*** Shoreditch Highgate Hotel ***
+Height: 105
+Status: Under Construction
+Completed: 2020
+Functions: hotel / office
+Rank: 87
+
+*** Pioneer Point Tower 2 ***
+Height: 104.7
+Floors: 31
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 88
+
+*** 99 Bishopsgate ***
+Height: 104
+Floors: 26
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 89
+
+*** 125 Old Broad Street ***
+Height: 103.3
+Floors: 27
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 90
+
+*** Stratford Central-Legacy Tower ***
+Height: 103
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 91
+
+*** Empress State Building ***
+Height: 102.5
+Floors: 31
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 92
+
+*** Upper Riverside-Building 5 ***
+Height: 102
+Floors: 31
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 93
+
+*** West End Gate-Tower A ***
+Height: 101.72
+Floors: 30
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 94
+
+*** West Grove-The Highwood ***
+Height: 101.5
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 95
+
+*** Woodberry Down-Skyline ***
+Height: 101
+Floors: 31
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 96
+
+*** Portland House ***
+Height: 101
+Floors: 29
+Status: Completed
+Completed: 1963
+Functions: office
+Rank: 97
+
+*** The London Hilton on Park Lane ***
+Height: 101
+Floors: 29
+Status: Completed
+Completed: 1963
+Functions: hotel
+Rank: 97
+
+*** Angel Court ***
+Height: 100.7
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 99
+
+*** 4 Casson Square ***
+Height: 100
+Floors: 29
+Status: Structurally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 100
+
+*** East Village Site N08 Tower 1 ***
+Height: 99.8
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 101
+
+*** Trellick Tower ***
+Height: 98.1
+Floors: 32
+Status: Completed
+Started: 1968
+Completed: 1972
+Functions: residential
+Rank: 102
+
+*** The Atlas ***
+Height: 96.5
+Floors: 32
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 103
+
+*** Shard Place ***
+Height: 96.2
+Floors: 27
+Status: Under Construction
+Completed: 2019
+Functions: residential
+Rank: 104
+
+*** Upper Riverside-Building 4 ***
+Height: 96.1
+Floors: 29
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 105
+
+*** Canaletto ***
+Height: 95.56
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 106
+
+*** The Waterman ***
+Height: 95.5
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 107
+
+*** The Dumont ***
+Height: 95.5
+Floors: 30
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 108
+
+*** Ropemaker ***
+Height: 95.4
+Floors: 22
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 109
+
+*** Cassia Point ***
+Height: 95.2
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 110
+
+*** The Lloyd's Building ***
+Height: 95.1
+Floors: 14
+Status: Completed
+Started: 1978
+Completed: 1986
+Functions: office
+Rank: 111
+
+*** Lincoln Plaza-Franklin Tower ***
+Height: 95
+Floors: 32
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 112
+
+*** Landmark West Tower ***
+Height: 94.9
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 113
+
+*** Vauxhall Square-Miles Street South ***
+Height: 94.9
+Floors: 30
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 113
+
+*** Harbour Central-Block A ***
+Height: 94.3
+Floors: 28
+Status: Architecturally Topped Out
+Completed: 2019
+Functions: residential
+Rank: 115
+
+*** Upper Riverside-Building 3 ***
+Height: 94.1
+Floors: 26
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 116
+
+*** Knightsbridge Barracks ***
+Height: 94
+Floors: 32
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 117
+
+*** Holiday Inn Kensington Forum ***
+Height: 93.9
+Floors: 28
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 118
+
+*** Stratford Plaza ***
+Height: 93
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential / office / retail
+Rank: 119
+
+*** Kew Eye ***
+Height: 92.9
+Floors: 27
+Status: Completed
+Completed: 2014
+Functions: observation / residential / hotel
+Rank: 120
+
+*** 206-214 High Street ***
+Height: 92.6
+Floors: 26
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 121
+
+*** Conquest Tower ***
+Height: 92.3
+Floors: 28
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 122
+
+*** 20 Gracechurch ***
+Height: 91.74
+Floors: 17
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 123
+
+*** London Hilton Metropole ***
+Height: 91.5
+Floors: 28
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 124
+
+*** Duncan House ***
+Height: 91.4
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential / education
+Rank: 125
+
+*** Lombard Wharf ***
+Height: 91.19
+Floors: 28
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 126
+
+*** 200 Aldersgate Street ***
+Height: 91
+Floors: 21
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 127
+
+*** 70 St. Mary Axe ***
+Height: 90.5
+Floors: 22
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 128
+
+*** Stratford Riverside ***
+Height: 90.25
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 129
+
+*** Nine Elms Point, Doulton Point ***
+Height: 90
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 130
+
+*** Harbour Central-Block B2 ***
+Height: 89.4
+Floors: 25
+Status: Architecturally Topped Out
+Completed: 2019
+Functions: residential
+Rank: 131
+
+*** 11 Mapleton Crescent ***
+Height: 89.24
+Floors: 27
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 132
+
+*** International Quarter Site S5 ***
+Height: 88
+Floors: 20
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 133
+
+*** City Island-Caledonia House ***
+Height: 87.8
+Floors: 25
+Status: Under Construction
+Completed: 2018
+Functions: residential
+Rank: 134
+
+*** Ontario Point ***
+Height: 87
+Floors: 27
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 135
+
+*** Arora Tower ***
+Height: 86.7
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 136
+
+*** Nova Victoria-South ***
+Height: 86.7
+Floors: 19
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 137
+
+*** The Royal London Hospital ***
+Height: 86.3
+Floors: 18
+Status: Completed
+Completed: 2010
+Functions: hospital
+Rank: 138
+
+*** 240 Blackfriars Road ***
+Height: 85.5
+Floors: 20
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office / residential
+Rank: 139
+
+*** Hawfinch House ***
+Height: 85.4
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 140
+
+*** Merano Residences ***
+Height: 85
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 141
+
+*** Chelsea Waterfront East Tower ***
+Height: 85
+Floors: 25
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 142
+
+*** The Corniche, Building 2 ***
+Height: 85
+Floors: 18
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 143
+
+*** London Television Centre ***
+Height: 84.7
+Floors: 24
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 144
+
+*** Balfron Tower ***
+Height: 84
+Floors: 28
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: residential
+Rank: 145
+
+*** Altitude Aldgate ***
+Height: 83.6
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential / office / retail
+Rank: 146
+
+*** Unite Stratford One ***
+Height: 83.5
+Floors: 27
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 147
+
+*** The Liberty Building ***
+Height: 82.97
+Floors: 27
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 148
+
+*** Apex House ***
+Height: 82.8
+Floors: 28
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 149
+
+*** NEO Bankside Building C ***
+Height: 82.49
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 150
+
+*** One Croydon ***
+Height: 82.3
+Floors: 24
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 151
+
+*** Athena Court ***
+Height: 82
+Floors: 27
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 152
+
+*** Distillery Tower ***
+Height: 82
+Floors: 27
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 152
+
+*** The Eagle ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential
+Rank: 154
+
+*** The Triton Building ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 154
+
+*** Pioneer Point Tower 1 ***
+Height: 82
+Floors: 25
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 156
+
+*** Streamlight Tower ***
+Height: 82
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 156
+
+*** Marlin Apartments ***
+Height: 82
+Floors: 22
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 158
+
+*** Aldgate Place, Central Tower ***
+Height: 81.98
+Floors: 26
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 159
+
+*** 30 Crown Place ***
+Height: 81.69
+Floors: 19
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 160
+
+*** Moor House ***
+Height: 81.69
+Floors: 19
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 160
+
+*** Lewisham Gateway-Portrait ***
+Height: 81.5
+Floors: 25
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 162
+
+*** One Creechurch Place ***
+Height: 81.31
+Floors: 19
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 163
+
+*** Tolworth Tower ***
+Height: 81
+Floors: 22
+Status: Completed
+Completed: 1964
+Functions: hotel / office
+Rank: 164
+
+*** Horizons ***
+Height: 80.96
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 165
+
+*** Urbanest King's Cross ***
+Height: 80.95
+Floors: 27
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 166
+
+*** Two Southbank Place ***
+Height: 80.7
+Floors: 16
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: office
+Rank: 167
+
+*** The Lighterman ***
+Height: 80.25
+Floors: 24
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 168
+
+*** Peregrine House ***
+Height: 80
+Floors: 27
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 169
+
+*** Woodberry Down-Residence ***
+Height: 80
+Floors: 27
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 169
+
+*** Wembley Point ***
+Height: 80
+Floors: 21
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 171
+
+*** 6-8 Bishopsgate ***
+Height: 79.4
+Floors: 24
+Status: Completed
+Started: 1977
+Completed: 1981
+Functions: office
+Rank: 172
+
+*** St. George's House ***
+Height: 79.2
+Status: Completed
+Completed: 1964
+Functions: abandoned
+Rank: 173
+
+*** Upper Riverside-Building 2 ***
+Height: 79.1
+Floors: 24
+Status: Under Construction
+Started: 2015
+Functions: residential
+Rank: 174
+
+*** One Commercial Street ***
+Height: 79
+Floors: 23
+Status: Completed
+Completed: 2014
+Functions: residential / office / retail
+Rank: 175
+
+*** Aldgate Place, Gateway Tower ***
+Height: 78.98
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 176
+
+*** Blackwall Reach-Plot H ***
+Height: 78.92
+Floors: 24
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 177
+
+*** Aldgate Tower ***
+Height: 78.9
+Floors: 17
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 178
+
+*** Whitgift Centre-Centre Tower ***
+Height: 78.6
+Floors: 21
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 179
+
+*** Copperas Street Development ***
+Height: 78.46
+Floors: 23
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 180
+
+*** Aberfield Estate-Maydew House ***
+Height: 78.3
+Floors: 26
+Status: Completed
+Completed: 1964
+Functions: residential
+Rank: 181
+
+*** Pepy's Estate-Daubeney Tower ***
+Height: 78.3
+Floors: 26
+Status: Completed
+Completed: 1962
+Functions: residential
+Rank: 181
+
+*** Pepy's Estate-Eddystone Tower ***
+Height: 78.3
+Floors: 26
+Status: Completed
+Completed: 1962
+Functions: residential
+Rank: 181
+
+*** Sienna Alto ***
+Height: 78.3
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 184
+
+*** The News Building ***
+Height: 78.2
+Floors: 19
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 185
+
+*** Chelsea Creek-The Tower ***
+Height: 78.1
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 186
+
+*** University College London Hospital ***
+Height: 77.7
+Floors: 18
+Status: Completed
+Started: 2000
+Completed: 2005
+Functions: hospital
+Rank: 187
+
+*** Marner Point ***
+Height: 77.4
+Floors: 26
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 188
+
+*** Grampian House ***
+Height: 76.5
+Floors: 26
+Status: Completed
+Completed: 1972
+Functions: residential / retail
+Rank: 189
+
+*** Mendip House ***
+Height: 76.5
+Floors: 26
+Status: Completed
+Completed: 1972
+Functions: residential / retail
+Rank: 189
+
+*** Pennine House ***
+Height: 76.5
+Floors: 26
+Status: Completed
+Completed: 1972
+Functions: residential / retail
+Rank: 189
+
+*** Elektron Tower ***
+Height: 76.2
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 192
+
+*** The Corniche, Building 1 ***
+Height: 76
+Floors: 27
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 193
+
+*** Elephant 1 Block A ***
+Height: 76
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / retail
+Rank: 194
+
+*** Apex Tower ***
+Height: 76
+Floors: 21
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 195
+
+*** City Island-Dawsonne House ***
+Height: 75.6
+Floors: 23
+Status: Under Construction
+Completed: 2018
+Functions: residential
+Rank: 196
+
+*** Goodman's Fields-Tower 7 ***
+Height: 75.43
+Floors: 23
+Status: Under Construction
+Completed: 2019
+Functions: residential
+Rank: 197
+
+*** Rothschild Bank Headquarters ***
+Height: 75.4
+Floors: 16
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 198
+
+*** White Collar Factory ***
+Height: 75.25
+Floors: 17
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 199
+
+*** Nightingale Heights ***
+Height: 75
+Floors: 25
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 200
+
+*** City Island-Bridgwater House ***
+Height: 75
+Floors: 24
+Status: Under Construction
+Completed: 2018
+Functions: residential
+Rank: 201
+
+*** One Tower Bridge Building D ***
+Height: 75
+Floors: 21
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 202
+
+*** Vermilion ***
+Height: 75
+Floors: 21
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 202
+
+*** Charing Cross Hospital, Main Building ***
+Height: 75
+Floors: 17
+Status: Completed
+Completed: 1972
+Functions: hospital
+Rank: 204

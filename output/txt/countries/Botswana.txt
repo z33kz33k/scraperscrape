@@ -1,0 +1,18 @@
+*** Botswana (1) ***
+1. Gaborone, 1
+
+******************** DETAILS ********************
+
+*** Botswana ***
+Region: Africa
+1 city: Gaborone
+Tiers: I: 1
+Rating: 1
+
+*** Gaborone ***
+Country: Botswana
+Region: Africa
+1 tower: iTower 2
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

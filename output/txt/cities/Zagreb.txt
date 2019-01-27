@@ -1,0 +1,67 @@
+*** Zagreb (6) ***
+1. Euro Tower I, 97m
+2. Strojarska Business Center, 96m
+3. Zagrepcanka, 95m
+4. Cibona Tower, 92m
+5. Sky Office Towers, 90m
+6. Zagreb Tower, 79m
+
+******************** DETAILS ********************
+
+*** Zagreb ***
+Country: Croatia
+Region: Europe
+6 towers: Euro Tower I, Strojarska Business Center, Zagrepcanka, Cibona Tower, Sky Office Towers, Zagreb Tower
+Tiers: I: 6
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Euro Tower I ***
+Height: 97
+Floors: 26
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 1
+
+*** Strojarska Business Center ***
+Height: 96.15
+Floors: 25
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 2
+
+*** Zagrepcanka ***
+Height: 94.6
+Floors: 27
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 3
+
+*** Cibona Tower ***
+Height: 92
+Floors: 22
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 4
+
+*** Sky Office Towers ***
+Height: 90
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 5
+
+*** Zagreb Tower ***
+Height: 79
+Floors: 22
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 6

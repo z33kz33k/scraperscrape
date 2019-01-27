@@ -1,0 +1,20 @@
+*** South Bend (1) ***
+1. Chase Tower, 101m
+
+******************** DETAILS ********************
+
+*** South Bend ***
+Country: United States
+Region: North America
+1 tower: Chase Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chase Tower ***
+Height: 101.2
+Floors: 25
+Status: Completed
+Completed: 1971
+Functions: hotel / office
+Rank: 1

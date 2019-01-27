@@ -1,0 +1,21 @@
+*** Plymouth (1) ***
+1. Beckley Court, 78m
+
+******************** DETAILS ********************
+
+*** Plymouth ***
+Country: United Kingdom
+Region: Europe
+1 tower: Beckley Court
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Beckley Court ***
+Height: 78
+Floors: 22
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 1

@@ -1,0 +1,20 @@
+*** Lome (1) ***
+1. 2 Fevrier Sofitel Hotel, 102m
+
+******************** DETAILS ********************
+
+*** Lome ***
+Country: Togo
+Region: Africa
+1 tower: 2 Fevrier Sofitel Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 2 Fevrier Sofitel Hotel ***
+Height: 102
+Floors: 36
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 1

@@ -1,0 +1,21 @@
+*** Lansing (1) ***
+1. Boji Tower, 90m
+
+******************** DETAILS ********************
+
+*** Lansing ***
+Country: United States
+Region: North America
+1 tower: Boji Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Boji Tower ***
+Height: 90.5
+Floors: 23
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: office
+Rank: 1

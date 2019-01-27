@@ -1,0 +1,20 @@
+*** Miyazaki (4) ***
+1. Sheraton Grande Ocean Resort, 154m
+
+******************** DETAILS ********************
+
+*** Miyazaki ***
+Country: Japan
+Region: Asia
+1 tower: Sheraton Grande Ocean Resort
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sheraton Grande Ocean Resort ***
+Height: 154
+Floors: 45
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 1

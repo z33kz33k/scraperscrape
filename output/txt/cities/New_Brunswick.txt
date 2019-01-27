@@ -1,0 +1,30 @@
+*** New Brunswick (2) ***
+1. The Gateway, 91m
+2. One Spring Street, 79m
+
+******************** DETAILS ********************
+
+*** New Brunswick ***
+Country: United States
+Region: North America
+2 towers: The Gateway, One Spring Street
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Gateway ***
+Height: 90.83
+Floors: 22
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: commercial / office / residential
+Rank: 1
+
+*** One Spring Street ***
+Height: 78.64
+Floors: 23
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 2

@@ -1,0 +1,30 @@
+*** Ljubljana (2) ***
+1. Crystal Palace, 89m
+2. World Trade Center Ljubljana, 75m
+
+******************** DETAILS ********************
+
+*** Ljubljana ***
+Country: Slovenia
+Region: Europe
+2 towers: Crystal Palace, World Trade Center Ljubljana
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Crystal Palace ***
+Height: 89
+Floors: 21
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 1
+
+*** World Trade Center Ljubljana ***
+Height: 75
+Floors: 18
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 2

@@ -1,0 +1,20 @@
+*** Creteil (1) ***
+1. CHU Henri Mondor, 80m
+
+******************** DETAILS ********************
+
+*** Creteil ***
+Country: France
+Region: Europe
+1 tower: CHU Henri Mondor
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** CHU Henri Mondor ***
+Height: 80
+Floors: 16
+Status: Completed
+Completed: 1969
+Functions: hospital
+Rank: 1

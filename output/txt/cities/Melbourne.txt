@@ -1,0 +1,2297 @@
+*** Melbourne (548) ***
+1.   Australia 108, 317m
+2.   Eureka Tower, 297m
+3.   Aurora Melbourne Central, 270m
+4.   West Side Place Tower A, 270m
+5.   120 Collins Street, 265m
+6.   101 Collins Street, 260m
+7.   Prima Pearl Apartments, 254m
+8.   Rialto Towers, 251m
+9.   Queens Place North Tower, 250m
+10.  Premier Tower, 249m
+11.  Victoria One, 247m
+12.  Swanston Central, 237m
+13.  Melbourne Square Tower 1, 231m
+14.  Vision Apartments, 229m
+15.  568 Collins Street, 224m
+16.  Bourke Place, 224m
+17.  Light House, 218m
+18.  Telstra Corporate Building, 218m
+19.  380 Lonsdale Street, 218m
+20.  West Side Place Tower B, 211m
+21.  Melbourne Central, 211m
+22.  Freshwater Place Residential Tower, 205m
+23.  Eq. Tower, 202m
+24.  Empire Melbourne, 198m
+25.  Melbourne Grand, 198m
+26.  Collins House, 190m
+27.  Sofitel Hotel - Collins Place, 188m
+28.  ANZ Tower - Collins Place, 188m
+29.  Abode318, 187m
+30.  80 Collins Street (South Tower), 187m
+31.  80 Collins Street (Old Tower), 182m
+32.  Melbourne Square Tower 2, 179m
+33.  Capitol Grand, 178m
+34.  Scape on Franklin, 175m
+35.  MY80, 173m
+36.  Avant, 172m
+37.  Victoria Police Centre Tower 2, 171m
+38.  Manhattan @ Upper West Side, 170m
+39.  405 Bourke Street, 170m
+40.  385 Bourke Street, 169m
+41.  Zen Apartments, 168m
+42.  Platinum Tower One, 167m
+43.  530 Collins Street, 167m
+44.  Southbank Place, 166m
+45.  Casselden Place, 166m
+46.  The Fifth, 165m
+47.  Olderfleet, 165m
+48.  Ernst & Young Plaza, 165m
+49.  35 Spring Street, 164m
+50.  SX Stage 1, 163m
+51.  Royal Domain Tower, 162m
+52.  ANZ World Headquarters, 162m
+53.  National Bank House, 161m
+54.  2 Southbank Boulevard, 161m
+55.  Verve 501 Swanston Tower, 159m
+56.  Upper West Side Tower 2 (Madison), 156m
+57.  Paragon, 155m
+58.  Shadow Play, 153m
+59.  Southbank Central, 153m
+60.  Optus Centre, 153m
+61.  Crown Towers, 152m
+62.  140 William Street, 152m
+63.  Urban Workshop Lonsdale, 150m
+64.  Fulton Lane Tower 1, 148m
+65.  Wesley Place, 148m
+66.  Palladium Tower, 147m
+67.  Upper West Side Tower 1 (Hudson), 147m
+68.  Eporo Tower, 147m
+69.  Scape Melbourne, 146m
+70.  Collins Arch, 146m
+71.  KPMG Collins Square, 145m
+72.  Melbourne One, 144m
+73.  Argus Centre, 144m
+74.  QV Residential, 143m
+75.  Melbourne Quarter East Tower, 143m
+76.  360 Collins Street, 142m
+77.  Australis Apartments, 138m
+78.  La Trobe Tower, 137m
+79.  Marina Tower, 135m
+80.  Yarra's Edge 5, 134m
+81.  1 Spring Street, 132m
+82.  Atira La Trobe Street, 131m
+83.  The Spencer, 131m
+84.  IBM Australia, 131m
+85.  459 Collins Street, 131m
+86.  Southbank Grand, 130m
+87.  200 Queen Street, 130m
+88.  Bank Apartments, 130m
+89.  333 Collins Street, 129m
+90.  WRAP Residences, 129m
+91.  Victoria Point, 128m
+92.  Melbourne Star, 128m
+93.  Neo 200 on Spencer, 128m
+94.  Two Melbourne Quarter, 128m
+95.  Conservatory, 128m
+96.  Mainpoint, 127m
+97.  BHP Billiton Centre, 127m
+98.  Vogue, 126m
+99.  Oaks on William, 126m
+100. 888 Collins Street, 125m
+101. Array, 125m
+102. Ibis and Novotel Hotel, 125m
+103. 567 Collins Street, 125m
+104. Sky One, 123m
+105. Milano Apartments, 123m
+106. 181 William Street, 123m
+107. City Tower, 122m
+108. Melbourne Tower Apartments, 122m
+109. Southbank One, 122m
+110. Union Tower, 122m
+111. Marland House, 121m
+112. Epic Apartments, 120m
+113. The International, 120m
+114. Marco Melbourne Tower One, 120m
+115. Republic Tower, 120m
+116. 303 Collins Street, 120m
+117. Collins Square Tower 5, 117m
+118. Melbourne Sky, 116m
+119. Whitehorse Towers 1, 116m
+120. Trillium, 115m
+121. Rockmans Regency Tower, 115m
+122. Swanston Square Apartment Tower, 115m
+123. The Sebel Suites, 115m
+124. AMP Square, 113m
+125. La Banque, 112m
+126. Opus Tower, 111m
+127. Upper West Side Tower 4 (Midtown), 111m
+128. Herald & Weekly Times Tower, 111m
+129. Marco Melbourne Tower Two, 110m
+130. The Sentinel, 110m
+131. Celsius House, 110m
+132. MMBW House, 110m
+133. Habitat, 109m
+134. The Carlson, 109m
+135. Medibank Place / 720 Bourke Street, 109m
+136. Tiara Southbank, 107m
+137. Vue Grande, 107m
+138. Sheraton Melbourne Hotel, 106m
+139. 109 Clarendon Street, 106m
+140. The Centurion, 106m
+141. 500 Collins Street, 106m
+142. Owen Dixon Chambers West, 106m
+143. Bella Southbank, 105m
+144. Grand Hyatt Hotel, 104m
+145. Concavo Tower Two, 104m
+146. Franklin Lofts, 104m
+147. Yarra's Edge 3, 104m
+148. Convesso Tower One, 104m
+149. A 'Beckett Tower, 103m
+150. Atlantis Tower, 103m
+151. Citypoint, 103m
+152. Twenty8 Freshwater Place, 103m
+153. Southpoint, 102m
+154. The Quays South Tower, 101m
+155. Oaks on Market, 101m
+156. Forge Apartments, 100m
+157. The Philadelphia Building, 100m
+158. Gravity Tower, 99m
+159. Crown Metropol, 98m
+160. Fifty Albert, 98m
+161. Victoria Tower, 98m
+162. 33M, 97m
+163. Central South Yarra, 97m
+164. Century Tower, 97m
+165. Concept Blue, 97m
+166. Novotel Melbourne South Wharf Hotel, 97m
+167. Yarra's Edge 1, 96m
+168. Riverina, 96m
+169. Dock 5, 96m
+170. Yarra Point, 96m
+171. Yarra's Edge 4, 96m
+172. 90 Collins Street, 96m
+173. The Eifel, 95m
+174. Triptych Apartments, 95m
+175. Claredon Towers, 95m
+176. 250E, 95m
+177. Dockside Tower, 95m
+178. Mayne House, 95m
+179. 357 Collins Street, 95m
+180. SX Stage 2, 95m
+181. RACV Centre, 95m
+182. Telstra Exhibition Exchange, 95m
+183. 661 Chapel Street, 94m
+184. 8 Eastend Apartments, 94m
+185. CGU Tower, 94m
+186. 50 Albert Road, 94m
+187. 889 Collins Street Tower 3, 94m
+188. Albert Tower, 93m
+189. Liberty Tower, 93m
+190. AXA Building, 93m
+191. 839 Collins Street, 93m
+192. 11 Exhibtion Street, 93m
+193. Park Towers, 92m
+194. Flinders Lodge, 92m
+195. Wills Court, 92m
+196. Wills Tower, 92m
+197. Crown Promenade Hotel, 92m
+198. Enterprise House, 92m
+199. AWB House, 92m
+200. Cadbury Schweppes House, 92m
+201. Oaks on Lonsdale, 92m
+202. 883 Collins Street Tower 1, 91m
+203. 883 Collins Street Tower 2, 91m
+204. No. 1 Collins Wharf, 90m
+205. Verge Apartments, 90m
+206. 312 Latrobe, 90m
+207. Southbank Towers, 90m
+208. IGLU Building, 90m
+209. The Melburnian West, 90m
+210. 321 Exhibition Street, 90m
+211. Marsh & Mercer Collins Square, 90m
+212. Fulton Lane Tower 2, 89m
+213. Phoenix, 88m
+214. 452 Flinders Street, 88m
+215. Aura on Flinders, 87m
+216. 171 Collins Street, 86m
+217. The Quays North Tower, 86m
+218. The William, 86m
+219. 99 Spring Street, 85m
+220. 41X, 85m
+221. Whitehorse Towers 2, 84m
+222. Orica House, 84m
+223. Metro Park West, 83m
+224. 8 Nicholson Street, 83m
+225. Channel 10 Tower, 83m
+226. Hilton South Wharf Hotel, 82m
+227. Australia Tax Office, 82m
+228. Balencea Apartments, 81m
+229. Langham Hotel, 81m
+230. Istana, 80m
+231. The Vic Apartments, 80m
+232. ATO Quattro Collins Square, 80m
+233. Collins Square Tower 4, 79m
+234. Alexander Lombard Tower, 78m
+235. 889 Collins Street Tower 4, 76m
+236. ILK Apartments, 76m
+237. 131-135 Bourke Street, 76m
+
+******************** DETAILS ********************
+
+*** Melbourne ***
+Country: Australia
+Region: Oceania
+237 towers: Australia 108, Eureka Tower, Aurora Melbourne Central, West Side Place Tower A, 120 Collins Street, 101 Collins Street, Prima Pearl Apartments, Rialto Towers, Queens Place North Tower, Premier Tower, Victoria One, Swanston Central, Melbourne Square Tower 1, Vision Apartments, 568 Collins Street, Bourke Place, Light House, Telstra Corporate Building, 380 Lonsdale Street, West Side Place Tower B, Melbourne Central, Freshwater Place Residential Tower, Eq. Tower, Empire Melbourne, Melbourne Grand, Collins House, Sofitel Hotel - Collins Place, ANZ Tower - Collins Place, Abode318, 80 Collins Street (South Tower), 80 Collins Street (Old Tower), Melbourne Square Tower 2, Capitol Grand, Scape on Franklin, MY80, Avant, Victoria Police Centre Tower 2, Manhattan @ Upper West Side, 405 Bourke Street, 385 Bourke Street, Zen Apartments, Platinum Tower One, 530 Collins Street, Southbank Place, Casselden Place, The Fifth, Olderfleet, Ernst & Young Plaza, 35 Spring Street, SX Stage 1, Royal Domain Tower, ANZ World Headquarters, National Bank House, 2 Southbank Boulevard, Verve 501 Swanston Tower, Upper West Side Tower 2 (Madison), Paragon, Shadow Play, Southbank Central, Optus Centre, Crown Towers, 140 William Street, Urban Workshop Lonsdale, Fulton Lane Tower 1, Wesley Place, Palladium Tower, Upper West Side Tower 1 (Hudson), Eporo Tower, Scape Melbourne, Collins Arch, KPMG Collins Square, Melbourne One, Argus Centre, QV Residential, Melbourne Quarter East Tower, 360 Collins Street, Australis Apartments, La Trobe Tower, Marina Tower, Yarra's Edge 5, 1 Spring Street, Atira La Trobe Street, The Spencer, IBM Australia, 459 Collins Street, Southbank Grand, 200 Queen Street, Bank Apartments, 333 Collins Street, WRAP Residences, Victoria Point, Melbourne Star, Neo 200 on Spencer, Two Melbourne Quarter, Conservatory, Mainpoint, BHP Billiton Centre, Vogue, Oaks on William, 888 Collins Street, Array, Ibis and Novotel Hotel, 567 Collins Street, Sky One, Milano Apartments, 181 William Street, City Tower, Melbourne Tower Apartments, Southbank One, Union Tower, Marland House, Epic Apartments, The International, Marco Melbourne Tower One, Republic Tower, 303 Collins Street, Collins Square Tower 5, Melbourne Sky, Whitehorse Towers 1, Trillium, Rockmans Regency Tower, Swanston Square Apartment Tower, The Sebel Suites, AMP Square, La Banque, Opus Tower, Upper West Side Tower 4 (Midtown), Herald & Weekly Times Tower, Marco Melbourne Tower Two, The Sentinel, Celsius House, MMBW House, Habitat, The Carlson, Medibank Place / 720 Bourke Street, Tiara Southbank, Vue Grande, Sheraton Melbourne Hotel, 109 Clarendon Street, The Centurion, 500 Collins Street, Owen Dixon Chambers West, Bella Southbank, Grand Hyatt Hotel, Concavo Tower Two, Franklin Lofts, Yarra's Edge 3, Convesso Tower One, A 'Beckett Tower, Atlantis Tower, Citypoint, Twenty8 Freshwater Place, Southpoint, The Quays South Tower, Oaks on Market, Forge Apartments, The Philadelphia Building, Gravity Tower, Crown Metropol, Fifty Albert, Victoria Tower, 33M, Central South Yarra, Century Tower, Concept Blue, Novotel Melbourne South Wharf Hotel, Yarra's Edge 1, Riverina, Dock 5, Yarra Point, Yarra's Edge 4, 90 Collins Street, The Eifel, Triptych Apartments, Claredon Towers, 250E, Dockside Tower, Mayne House, 357 Collins Street, SX Stage 2, RACV Centre, Telstra Exhibition Exchange, 661 Chapel Street, 8 Eastend Apartments, CGU Tower, 50 Albert Road, 889 Collins Street Tower 3, Albert Tower, Liberty Tower, AXA Building, 839 Collins Street, 11 Exhibtion Street, Park Towers, Flinders Lodge, Wills Court, Wills Tower, Crown Promenade Hotel, Enterprise House, AWB House, Cadbury Schweppes House, Oaks on Lonsdale, 883 Collins Street Tower 1, 883 Collins Street Tower 2, No. 1 Collins Wharf, Verge Apartments, 312 Latrobe, Southbank Towers, IGLU Building, The Melburnian West, 321 Exhibition Street, Marsh & Mercer Collins Square, Fulton Lane Tower 2, Phoenix, 452 Flinders Street, Aura on Flinders, 171 Collins Street, The Quays North Tower, The William, 99 Spring Street, 41X, Whitehorse Towers 2, Orica House, Metro Park West, 8 Nicholson Street, Channel 10 Tower, Hilton South Wharf Hotel, Australia Tax Office, Balencea Apartments, Langham Hotel, Istana, The Vic Apartments, ATO Quattro Collins Square, Collins Square Tower 4, Alexander Lombard Tower, 889 Collins Street Tower 4, ILK Apartments, 131-135 Bourke Street
+Tiers: I: 96, II: 78, III: 42, IV: 20, V: 1
+Rating: 548 (22.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Australia 108 ***
+Height: 316.68
+Floors: 100
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: residential
+Rank: 1
+
+*** Eureka Tower ***
+Height: 297.28
+Floors: 91
+Status: Completed
+Started: 2001
+Completed: 2006
+Functions: residential
+Rank: 2
+
+*** Aurora Melbourne Central ***
+Height: 270.5
+Floors: 84
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / serviced apartments
+Rank: 3
+
+*** West Side Place Tower A ***
+Height: 270
+Floors: 81
+Status: Under Construction
+Started: 2017
+Completed: 2022
+Functions: hotel / residential
+Rank: 4
+
+*** 120 Collins Street ***
+Height: 264.9
+Floors: 52
+Status: Completed
+Started: 1986
+Completed: 1991
+Functions: office
+Rank: 5
+
+*** 101 Collins Street ***
+Height: 260
+Floors: 50
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 6
+
+*** Prima Pearl Apartments ***
+Height: 254
+Floors: 72
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 7
+
+*** Rialto Towers ***
+Height: 251.07
+Floors: 63
+Status: Completed
+Started: 1982
+Completed: 1986
+Functions: office
+Rank: 8
+
+*** Queens Place North Tower ***
+Height: 249.9
+Floors: 79
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 9
+
+*** Premier Tower ***
+Height: 248.6
+Floors: 78
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential / hotel
+Rank: 10
+
+*** Victoria One ***
+Height: 246.8
+Floors: 76
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 11
+
+*** Swanston Central ***
+Height: 236.7
+Floors: 71
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / retail
+Rank: 12
+
+*** Melbourne Square Tower 1 ***
+Height: 231
+Floors: 70
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 13
+
+*** Vision Apartments ***
+Height: 229
+Floors: 70
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 14
+
+*** 568 Collins Street ***
+Height: 224
+Floors: 68
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / office / retail
+Rank: 15
+
+*** Bourke Place ***
+Height: 224
+Floors: 49
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 16
+
+*** Light House ***
+Height: 218
+Floors: 69
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 17
+
+*** Telstra Corporate Building ***
+Height: 218
+Floors: 47
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 18
+
+*** 380 Lonsdale Street ***
+Height: 217.5
+Floors: 67
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / hotel
+Rank: 19
+
+*** West Side Place Tower B ***
+Height: 211
+Floors: 65
+Status: Under Construction
+Started: 2017
+Completed: 2022
+Functions: hotel / residential
+Rank: 20
+
+*** Melbourne Central ***
+Height: 211
+Floors: 53
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 21
+
+*** Freshwater Place Residential Tower ***
+Height: 205
+Floors: 63
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 22
+
+*** Eq. Tower ***
+Height: 202
+Floors: 63
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 23
+
+*** Empire Melbourne ***
+Height: 198.39
+Floors: 62
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 24
+
+*** Melbourne Grand ***
+Height: 198
+Floors: 57
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 25
+
+*** Collins House ***
+Height: 189.6
+Floors: 60
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 26
+
+*** Sofitel Hotel - Collins Place ***
+Height: 188
+Floors: 50
+Status: Completed
+Started: 1978
+Completed: 1980
+Functions: hotel / office
+Rank: 27
+
+*** ANZ Tower - Collins Place ***
+Height: 188
+Floors: 46
+Status: Completed
+Started: 1973
+Completed: 1978
+Functions: office
+Rank: 28
+
+*** Abode318 ***
+Height: 187.27
+Floors: 57
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 29
+
+*** 80 Collins Street (South Tower) ***
+Height: 187
+Floors: 37
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 30
+
+*** 80 Collins Street (Old Tower) ***
+Height: 182
+Floors: 49
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 31
+
+*** Melbourne Square Tower 2 ***
+Height: 179
+Floors: 59
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: hotel / residential
+Rank: 32
+
+*** Capitol Grand ***
+Height: 177.8
+Floors: 50
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / office / retail
+Rank: 33
+
+*** Scape on Franklin ***
+Height: 175
+Floors: 55
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / hotel / office
+Rank: 34
+
+*** MY80 ***
+Height: 173
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 35
+
+*** Avant ***
+Height: 172
+Floors: 55
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 36
+
+*** Victoria Police Centre Tower 2 ***
+Height: 171
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office / government
+Rank: 37
+
+*** Manhattan @ Upper West Side ***
+Height: 170
+Floors: 53
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 38
+
+*** 405 Bourke Street ***
+Height: 170
+Floors: 39
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / retail
+Rank: 39
+
+*** 385 Bourke Street ***
+Height: 169
+Floors: 43
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 40
+
+*** Zen Apartments ***
+Height: 167.76
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 41
+
+*** Platinum Tower One ***
+Height: 167
+Floors: 52
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 42
+
+*** 530 Collins Street ***
+Height: 167
+Floors: 40
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 43
+
+*** Southbank Place ***
+Height: 166
+Floors: 52
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 44
+
+*** Casselden Place ***
+Height: 166
+Floors: 43
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 45
+
+*** The Fifth ***
+Height: 165.45
+Floors: 51
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 46
+
+*** Olderfleet ***
+Height: 165
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 47
+
+*** Ernst & Young Plaza ***
+Height: 164.7
+Floors: 40
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential / office
+Rank: 48
+
+*** 35 Spring Street ***
+Height: 164.37
+Floors: 44
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 49
+
+*** SX Stage 1 ***
+Height: 163.03
+Floors: 40
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 50
+
+*** Royal Domain Tower ***
+Height: 162
+Floors: 46
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 51
+
+*** ANZ World Headquarters ***
+Height: 162
+Floors: 37
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 52
+
+*** National Bank House ***
+Height: 161
+Floors: 40
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 53
+
+*** 2 Southbank Boulevard ***
+Height: 160.81
+Floors: 40
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 54
+
+*** Verve 501 Swanston Tower ***
+Height: 159
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential / retail
+Rank: 55
+
+*** Upper West Side Tower 2 (Madison) ***
+Height: 156
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 56
+
+*** Paragon ***
+Height: 155
+Floors: 48
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 57
+
+*** Shadow Play ***
+Height: 153
+Floors: 52
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 58
+
+*** Southbank Central ***
+Height: 153
+Floors: 48
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 59
+
+*** Optus Centre ***
+Height: 153
+Floors: 34
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 60
+
+*** Crown Towers ***
+Height: 152.46
+Floors: 43
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 61
+
+*** 140 William Street ***
+Height: 152.46
+Floors: 41
+Status: Completed
+Started: 1969
+Completed: 1972
+Functions: office
+Rank: 62
+
+*** Urban Workshop Lonsdale ***
+Height: 150
+Floors: 34
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 63
+
+*** Fulton Lane Tower 1 ***
+Height: 148
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / retail
+Rank: 64
+
+*** Wesley Place ***
+Height: 148
+Floors: 35
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 65
+
+*** Palladium Tower ***
+Height: 147
+Floors: 47
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 66
+
+*** Upper West Side Tower 1 (Hudson) ***
+Height: 147
+Floors: 46
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 67
+
+*** Eporo Tower ***
+Height: 146.7
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 68
+
+*** Scape Melbourne ***
+Height: 146
+Floors: 47
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 69
+
+*** Collins Arch ***
+Height: 146
+Floors: 42
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential / hotel / office
+Rank: 70
+
+*** KPMG Collins Square ***
+Height: 145
+Floors: 36
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 71
+
+*** Melbourne One ***
+Height: 144
+Floors: 47
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 72
+
+*** Argus Centre ***
+Height: 144
+Floors: 34
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 73
+
+*** QV Residential ***
+Height: 143
+Floors: 47
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 74
+
+*** Melbourne Quarter East Tower ***
+Height: 143
+Floors: 40
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 75
+
+*** 360 Collins Street ***
+Height: 142
+Floors: 37
+Status: Completed
+Started: 1976
+Completed: 1978
+Functions: office
+Rank: 76
+
+*** Australis Apartments ***
+Height: 138
+Floors: 46
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 77
+
+*** La Trobe Tower ***
+Height: 137.08
+Floors: 44
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 78
+
+*** Marina Tower ***
+Height: 134.85
+Floors: 44
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 79
+
+*** Yarra's Edge 5 ***
+Height: 134
+Floors: 41
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 80
+
+*** 1 Spring Street ***
+Height: 132
+Floors: 32
+Status: Completed
+Started: 1987
+Completed: 1988
+Functions: office
+Rank: 81
+
+*** Atira La Trobe Street ***
+Height: 131
+Floors: 44
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 82
+
+*** The Spencer ***
+Height: 131
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 83
+
+*** IBM Australia ***
+Height: 131
+Floors: 34
+Status: Completed
+Started: 1991
+Completed: 1993
+Functions: office
+Rank: 84
+
+*** 459 Collins Street ***
+Height: 131
+Status: Completed
+Started: 1987
+Completed: 1988
+Functions: office
+Rank: 85
+
+*** Southbank Grand ***
+Height: 130
+Floors: 43
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 86
+
+*** 200 Queen Street ***
+Height: 130
+Floors: 34
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 87
+
+*** Bank Apartments ***
+Height: 129.7
+Floors: 41
+Status: Completed
+Started: 2010
+Completed: 2011
+Functions: residential
+Rank: 88
+
+*** 333 Collins Street ***
+Height: 129
+Floors: 33
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 89
+
+*** WRAP Residences ***
+Height: 128.75
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 90
+
+*** Victoria Point ***
+Height: 128
+Floors: 42
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 91
+
+*** Melbourne Star ***
+Height: 128
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 92
+
+*** Neo 200 on Spencer ***
+Height: 128
+Floors: 41
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 92
+
+*** Two Melbourne Quarter ***
+Height: 128
+Floors: 25
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 94
+
+*** Conservatory ***
+Height: 127.5
+Floors: 42
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 95
+
+*** Mainpoint ***
+Height: 127
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 96
+
+*** BHP Billiton Centre ***
+Height: 127
+Floors: 29
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 97
+
+*** Vogue ***
+Height: 126.4
+Floors: 31
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 98
+
+*** Oaks on William ***
+Height: 126
+Floors: 36
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 99
+
+*** 888 Collins Street ***
+Height: 125
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 100
+
+*** Array ***
+Height: 125
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 100
+
+*** Ibis and Novotel Hotel ***
+Height: 125
+Floors: 34
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: hotel
+Rank: 102
+
+*** 567 Collins Street ***
+Height: 125
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 103
+
+*** Sky One ***
+Height: 123
+Floors: 36
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 104
+
+*** Milano Apartments ***
+Height: 123
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 105
+
+*** 181 William Street ***
+Height: 123
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 106
+
+*** City Tower ***
+Height: 122
+Floors: 37
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: residential
+Rank: 107
+
+*** Melbourne Tower Apartments ***
+Height: 122
+Floors: 37
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 107
+
+*** Southbank One ***
+Height: 122
+Floors: 37
+Status: Completed
+Started: 2009
+Completed: 2010
+Functions: residential
+Rank: 107
+
+*** Union Tower ***
+Height: 122
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 110
+
+*** Marland House ***
+Height: 121
+Floors: 32
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: office
+Rank: 111
+
+*** Epic Apartments ***
+Height: 120
+Floors: 38
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 112
+
+*** The International ***
+Height: 120
+Floors: 38
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 112
+
+*** Marco Melbourne Tower One ***
+Height: 120
+Floors: 37
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 114
+
+*** Republic Tower ***
+Height: 120
+Floors: 36
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 115
+
+*** 303 Collins Street ***
+Height: 120
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 116
+
+*** Collins Square Tower 5 ***
+Height: 117
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 117
+
+*** Melbourne Sky ***
+Height: 116
+Floors: 36
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 118
+
+*** Whitehorse Towers 1 ***
+Height: 116
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 118
+
+*** Trillium ***
+Height: 115
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 120
+
+*** Rockmans Regency Tower ***
+Height: 115
+Floors: 33
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 121
+
+*** Swanston Square Apartment Tower ***
+Height: 115
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 121
+
+*** The Sebel Suites ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 123
+
+*** AMP Square ***
+Height: 113.4
+Floors: 28
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: office
+Rank: 124
+
+*** La Banque ***
+Height: 112
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2010
+Functions: residential
+Rank: 125
+
+*** Opus Tower ***
+Height: 111
+Floors: 37
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 126
+
+*** Upper West Side Tower 4 (Midtown) ***
+Height: 111
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 127
+
+*** Herald & Weekly Times Tower ***
+Height: 111
+Floors: 26
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 128
+
+*** Marco Melbourne Tower Two ***
+Height: 110
+Floors: 34
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 129
+
+*** The Sentinel ***
+Height: 110
+Floors: 34
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 129
+
+*** Celsius House ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 131
+
+*** MMBW House ***
+Height: 110
+Floors: 25
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 132
+
+*** Habitat ***
+Height: 109.4
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 133
+
+*** The Carlson ***
+Height: 109.12
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 134
+
+*** Medibank Place / 720 Bourke Street ***
+Height: 108.95
+Floors: 24
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 135
+
+*** Tiara Southbank ***
+Height: 107
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 136
+
+*** Vue Grande ***
+Height: 106.7
+Floors: 35
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 137
+
+*** Sheraton Melbourne Hotel ***
+Height: 106.14
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / hotel
+Rank: 138
+
+*** 109 Clarendon Street ***
+Height: 106
+Floors: 34
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 139
+
+*** The Centurion ***
+Height: 106
+Floors: 31
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 140
+
+*** 500 Collins Street ***
+Height: 106
+Floors: 29
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 141
+
+*** Owen Dixon Chambers West ***
+Height: 105.5
+Floors: 23
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 142
+
+*** Bella Southbank ***
+Height: 105
+Floors: 34
+Status: Completed
+Started: 2015
+Completed: 2015
+Functions: residential
+Rank: 143
+
+*** Grand Hyatt Hotel ***
+Height: 104
+Floors: 32
+Status: Completed
+Completed: 1986
+Functions: hotel
+Rank: 144
+
+*** Concavo Tower Two ***
+Height: 104
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 145
+
+*** Franklin Lofts ***
+Height: 104
+Floors: 31
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 145
+
+*** Yarra's Edge 3 ***
+Height: 104
+Floors: 31
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 145
+
+*** Convesso Tower One ***
+Height: 104
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 148
+
+*** A 'Beckett Tower ***
+Height: 103
+Floors: 33
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 149
+
+*** Atlantis Tower ***
+Height: 103
+Floors: 32
+Status: Completed
+Completed: 2009
+Functions: residential / hotel
+Rank: 150
+
+*** Citypoint ***
+Height: 103
+Floors: 31
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 151
+
+*** Twenty8 Freshwater Place ***
+Height: 103
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 152
+
+*** Southpoint ***
+Height: 102.5
+Floors: 32
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 153
+
+*** The Quays South Tower ***
+Height: 101
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 154
+
+*** Oaks on Market ***
+Height: 101
+Floors: 27
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 155
+
+*** Forge Apartments ***
+Height: 100
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 156
+
+*** The Philadelphia Building ***
+Height: 100
+Floors: 27
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 157
+
+*** Gravity Tower ***
+Height: 98.55
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 158
+
+*** Crown Metropol ***
+Height: 98.5
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel
+Rank: 159
+
+*** Fifty Albert ***
+Height: 98.1
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 160
+
+*** Victoria Tower ***
+Height: 98
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 161
+
+*** 33M ***
+Height: 97
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 162
+
+*** Central South Yarra ***
+Height: 97
+Floors: 30
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 162
+
+*** Century Tower ***
+Height: 97
+Floors: 30
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 162
+
+*** Concept Blue ***
+Height: 97
+Floors: 27
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 165
+
+*** Novotel Melbourne South Wharf Hotel ***
+Height: 97
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: hotel
+Rank: 166
+
+*** Yarra's Edge 1 ***
+Height: 96
+Floors: 32
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 167
+
+*** Riverina ***
+Height: 96
+Floors: 31
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 168
+
+*** Dock 5 ***
+Height: 96
+Floors: 30
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 169
+
+*** Yarra Point ***
+Height: 96
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 169
+
+*** Yarra's Edge 4 ***
+Height: 96
+Floors: 30
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 169
+
+*** 90 Collins Street ***
+Height: 96
+Floors: 22
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 172
+
+*** The Eifel ***
+Height: 95
+Floors: 30
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 173
+
+*** Triptych Apartments ***
+Height: 95
+Floors: 30
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 173
+
+*** Claredon Towers ***
+Height: 95
+Floors: 28
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 175
+
+*** 250E ***
+Height: 95
+Floors: 25
+Status: Completed
+Completed: 1980
+Functions: residential
+Rank: 176
+
+*** Dockside Tower ***
+Height: 95
+Floors: 25
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 176
+
+*** Mayne House ***
+Height: 95
+Floors: 24
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 178
+
+*** 357 Collins Street ***
+Height: 95
+Floors: 22
+Status: Completed
+Started: 1967
+Completed: 2013
+Functions: office
+Rank: 179
+
+*** SX Stage 2 ***
+Height: 95
+Floors: 21
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: office
+Rank: 180
+
+*** RACV Centre ***
+Height: 95
+Floors: 20
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 181
+
+*** Telstra Exhibition Exchange ***
+Height: 95
+Floors: 20
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 181
+
+*** 661 Chapel Street ***
+Height: 94
+Floors: 29
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 183
+
+*** 8 Eastend Apartments ***
+Height: 94
+Floors: 29
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 183
+
+*** CGU Tower ***
+Height: 94
+Floors: 23
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 185
+
+*** 50 Albert Road ***
+Height: 93.88
+Floors: 27
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 186
+
+*** 889 Collins Street Tower 3 ***
+Height: 93.86
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 187
+
+*** Albert Tower ***
+Height: 93.2
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 188
+
+*** Liberty Tower ***
+Height: 93
+Floors: 27
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 189
+
+*** AXA Building ***
+Height: 93
+Floors: 24
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 190
+
+*** 839 Collins Street ***
+Height: 93
+Floors: 20
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 191
+
+*** 11 Exhibtion Street ***
+Height: 92.6
+Floors: 19
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 192
+
+*** Park Towers ***
+Height: 92
+Floors: 31
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 193
+
+*** Flinders Lodge ***
+Height: 92
+Floors: 29
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 194
+
+*** Wills Court ***
+Height: 92
+Floors: 28
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 195
+
+*** Wills Tower ***
+Height: 92
+Floors: 27
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 196
+
+*** Crown Promenade Hotel ***
+Height: 92
+Floors: 25
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 197
+
+*** Enterprise House ***
+Height: 92
+Floors: 25
+Status: Completed
+Completed: 1976
+Functions: abandoned
+Rank: 197
+
+*** AWB House ***
+Height: 92
+Floors: 23
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 199
+
+*** Cadbury Schweppes House ***
+Height: 92
+Floors: 20
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 200
+
+*** Oaks on Lonsdale ***
+Height: 91.5
+Floors: 30
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 201
+
+*** 883 Collins Street Tower 1 ***
+Height: 91
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 202
+
+*** 883 Collins Street Tower 2 ***
+Height: 91
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 202
+
+*** No. 1 Collins Wharf ***
+Height: 90.1
+Floors: 29
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 204
+
+*** Verge Apartments ***
+Height: 90
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 205
+
+*** 312 Latrobe ***
+Height: 90
+Floors: 30
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 206
+
+*** Southbank Towers ***
+Height: 90
+Floors: 28
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 207
+
+*** IGLU Building ***
+Height: 90
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 208
+
+*** The Melburnian West ***
+Height: 90
+Floors: 25
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 208
+
+*** 321 Exhibition Street ***
+Height: 90
+Floors: 22
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 210
+
+*** Marsh & Mercer Collins Square ***
+Height: 90
+Floors: 19
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: office
+Rank: 211
+
+*** Fulton Lane Tower 2 ***
+Height: 89
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential / retail
+Rank: 212
+
+*** Phoenix ***
+Height: 88.5
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 213
+
+*** 452 Flinders Street ***
+Height: 88
+Floors: 17
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 214
+
+*** Aura on Flinders ***
+Height: 87
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential / hotel
+Rank: 215
+
+*** 171 Collins Street ***
+Height: 86.2
+Floors: 20
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 216
+
+*** The Quays North Tower ***
+Height: 86
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 217
+
+*** The William ***
+Height: 86
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 218
+
+*** 99 Spring Street ***
+Height: 85.35
+Floors: 24
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 219
+
+*** 41X ***
+Height: 84.9
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 220
+
+*** Whitehorse Towers 2 ***
+Height: 84
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 221
+
+*** Orica House ***
+Height: 83.8
+Floors: 20
+Status: Completed
+Started: 1955
+Completed: 1958
+Functions: office
+Rank: 222
+
+*** Metro Park West ***
+Height: 83
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 223
+
+*** 8 Nicholson Street ***
+Height: 83
+Floors: 19
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 224
+
+*** Channel 10 Tower ***
+Height: 83
+Floors: 17
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 225
+
+*** Hilton South Wharf Hotel ***
+Height: 82.3
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: hotel
+Rank: 226
+
+*** Australia Tax Office ***
+Height: 81.69
+Floors: 20
+Status: Completed
+Functions: office
+Rank: 227
+
+*** Balencea Apartments ***
+Height: 81.45
+Floors: 23
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 228
+
+*** Langham Hotel ***
+Height: 81
+Floors: 22
+Status: Completed
+Completed: 1992
+Functions: hotel
+Rank: 229
+
+*** Istana ***
+Height: 80
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 230
+
+*** The Vic Apartments ***
+Height: 80
+Floors: 22
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 231
+
+*** ATO Quattro Collins Square ***
+Height: 80
+Floors: 16
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 232
+
+*** Collins Square Tower 4 ***
+Height: 79
+Floors: 21
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 233
+
+*** Alexander Lombard Tower ***
+Height: 78
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 234
+
+*** 889 Collins Street Tower 4 ***
+Height: 76.36
+Floors: 23
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 235
+
+*** ILK Apartments ***
+Height: 76
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 236
+
+*** 131-135 Bourke Street ***
+Height: 75.6
+Floors: 24
+Status: Completed
+Completed: 2010
+Functions: hotel
+Rank: 237

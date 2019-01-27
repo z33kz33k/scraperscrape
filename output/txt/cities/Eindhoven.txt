@@ -1,0 +1,77 @@
+*** Eindhoven (7) ***
+1. De Admirant, 105m
+2. Porthos, 101m
+3. De Regent, 96m
+4. Vestedatoren, 90m
+5. Onyx, 83m
+6. Kennedy Toren, 83m
+7. Zorgcentrum Gagelbosch Toren II, 75m
+
+******************** DETAILS ********************
+
+*** Eindhoven ***
+Country: Netherlands
+Region: Europe
+7 towers: De Admirant, Porthos, De Regent, Vestedatoren, Onyx, Kennedy Toren, Zorgcentrum Gagelbosch Toren II
+Tiers: I: 7
+Rating: 7 (28.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** De Admirant ***
+Height: 105
+Floors: 31
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 1
+
+*** Porthos ***
+Height: 101
+Floors: 32
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 2
+
+*** De Regent ***
+Height: 96
+Floors: 32
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 3
+
+*** Vestedatoren ***
+Height: 90
+Floors: 28
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 4
+
+*** Onyx ***
+Height: 83
+Floors: 25
+Status: Under Construction
+Started: 2018
+Completed: 2019
+Functions: residential / retail
+Rank: 5
+
+*** Kennedy Toren ***
+Height: 83
+Floors: 21
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 6
+
+*** Zorgcentrum Gagelbosch Toren II ***
+Height: 75.19
+Floors: 22
+Status: Architecturally Topped Out
+Functions: residential
+Rank: 7

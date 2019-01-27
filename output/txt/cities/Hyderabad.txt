@@ -1,0 +1,56 @@
+*** Hyderabad (14) ***
+1. Lodha Bellezza 3, 153m
+2. Lodha Bellezza 4, 153m
+3. Lodha Bellezza 5, 132m
+4. Lodha Bellezza 1, 115m
+5. Lodha Bellezza 2, 115m
+
+******************** DETAILS ********************
+
+*** Hyderabad ***
+Country: India
+Region: Asia
+5 towers: Lodha Bellezza 3, Lodha Bellezza 4, Lodha Bellezza 5, Lodha Bellezza 1, Lodha Bellezza 2
+Tiers: II: 3, III: 2
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lodha Bellezza 3 ***
+Height: 153
+Floors: 45
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Lodha Bellezza 4 ***
+Height: 153
+Floors: 45
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Lodha Bellezza 5 ***
+Height: 132
+Floors: 39
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Lodha Bellezza 1 ***
+Height: 115
+Floors: 32
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 4
+
+*** Lodha Bellezza 2 ***
+Height: 115
+Floors: 32
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 4

@@ -1,0 +1,41 @@
+*** Chongzuo (6) ***
+1. Chongzuo FBC Financial Center, 168m
+2. ASEAN • International City, 99m
+3. Chongzuo International Hotel, 93m
+
+******************** DETAILS ********************
+
+*** Chongzuo ***
+Country: China
+Region: Asia
+3 towers: Chongzuo FBC Financial Center, ASEAN • International City, Chongzuo International Hotel
+Tiers: I: 2, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Chongzuo FBC Financial Center ***
+Height: 168
+Floors: 41
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 1
+
+*** ASEAN • International City ***
+Height: 99
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel
+Rank: 2
+
+*** Chongzuo International Hotel ***
+Height: 93
+Floors: 23
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: hotel
+Rank: 3

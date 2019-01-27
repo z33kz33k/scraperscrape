@@ -1,0 +1,636 @@
+*** Hangzhou (259) ***
+1.  Greenland Center 1, 310m
+2.  Greenland Center 2, 310m
+3.  Hangzhou Centre Tower A, 293m
+4.  Shimao Hangzhou Twin Tower A, 282m
+5.  Shimao Hangzhou Twin Tower B, 282m
+6.  Bodi Center Tower C, 280m
+7.  Longda Tower 1, 268m
+8.  Zhe Jiang Fortune Financial Center - Tower 1, 258m
+9.  Grand Parkray Hangzhou Hotel Tower 1, 258m
+10. Raffles City Hangzhou Tower 2, 256m
+11. Raffles City Hangzhou Tower 1, 256m
+12. Hangzhou Telecom Mansion, 248m
+13. Wanxiang City Tower 1, 230m
+14. New Century Grand Hotel, 218m
+15. Zhejiang Television Center, 218m
+16. MT Tower Building, 215m
+17. Sunyard Plaza 1, 213m
+18. Wanyin International 2, 205m
+19. Dicara Gold Tower - Hilton Hotel, 200m
+20. Jumeirah Hangzhou Hotel, 200m
+21. Wanyin International 3, 200m
+22. Linping Xizi International Building No. 4, 200m
+23. Longda Tower 2, 198m
+24. Wanxiang City Tower 3, 190m
+25. Zhe Jiang Fortune Financial Center - Tower 2, 188m
+26. Huacheng Mansion, 188m
+27. TA Tower Building, 187m
+28. Asian Packaging Center Mansion East Tower, 180m
+29. Asian Packaging Center Mansion West Tower, 180m
+30. Hangzhou Centre Tower C, 180m
+31. Wanxiang City Tower 4, 180m
+32. TD Tower Building, 179m
+33. Wanyin International 1, 175m
+34. Xihuwenhua Square, 170m
+35. Linping Xizi International Building No. 1, 170m
+36. Dikai International Center, 165m
+37. Zun Bao Gold Tower, 160m
+38. Zun Bao Silver Tower, 160m
+39. Hangzhou Centre Tower D, 160m
+40. Wanxiang City Tower 5, 160m
+41. TC Tower Building, 160m
+42. TB Tower Building, 152m
+43. Sunyard Plaza 2, 151m
+44. Bodi Center Tower A, 150m
+45. Bodi Center Tower B, 150m
+46. Sunrise Qiantang Mansion, 150m
+47. Sheng Ao Tower, 150m
+48. Hangzhou Centre Tower E, 150m
+49. Jimei International Tower, 149m
+50. Hangzhou Xizi International Center Building 1, 145m
+51. Hangzhou Centre Tower B, 145m
+52. Grand Parkray Hangzhou Hotel Tower 2, 138m
+53. Hangzhou Xizi International Center Building 2, 125m
+54. Hangzhou Civic Center 1, 110m
+55. Hangzhou Civic Center 2, 110m
+56. Hangzhou Civic Center 3, 110m
+57. Hangzhou Civic Center 4, 110m
+58. Hangzhou Civic Center 5, 110m
+59. Hangzhou Civic Center 6, 110m
+60. Green Residence Tower 1, 102m
+61. Green Residence Tower 2, 102m
+62. Green Residence Tower 3, 102m
+63. Hangzhou Xizi International Center Building 3, 100m
+64. CITIC Bank Headquarters, 100m
+65. Linping Xizi International Building No. 2, 99m
+66. Shimao Hangzhou Tower C, 89m
+
+******************** DETAILS ********************
+
+*** Hangzhou ***
+Country: China
+Region: Asia
+66 towers: Greenland Center 1, Greenland Center 2, Hangzhou Centre Tower A, Shimao Hangzhou Twin Tower A, Shimao Hangzhou Twin Tower B, Bodi Center Tower C, Longda Tower 1, Zhe Jiang Fortune Financial Center - Tower 1, Grand Parkray Hangzhou Hotel Tower 1, Raffles City Hangzhou Tower 2, Raffles City Hangzhou Tower 1, Hangzhou Telecom Mansion, Wanxiang City Tower 1, New Century Grand Hotel, Zhejiang Television Center, MT Tower Building, Sunyard Plaza 1, Wanyin International 2, Dicara Gold Tower - Hilton Hotel, Jumeirah Hangzhou Hotel, Wanyin International 3, Linping Xizi International Building No. 4, Longda Tower 2, Wanxiang City Tower 3, Zhe Jiang Fortune Financial Center - Tower 2, Huacheng Mansion, TA Tower Building, Asian Packaging Center Mansion East Tower, Asian Packaging Center Mansion West Tower, Hangzhou Centre Tower C, Wanxiang City Tower 4, TD Tower Building, Wanyin International 1, Xihuwenhua Square, Linping Xizi International Building No. 1, Dikai International Center, Zun Bao Gold Tower, Zun Bao Silver Tower, Hangzhou Centre Tower D, Wanxiang City Tower 5, TC Tower Building, TB Tower Building, Sunyard Plaza 2, Bodi Center Tower A, Bodi Center Tower B, Sunrise Qiantang Mansion, Sheng Ao Tower, Hangzhou Centre Tower E, Jimei International Tower, Hangzhou Xizi International Center Building 1, Hangzhou Centre Tower B, Grand Parkray Hangzhou Hotel Tower 2, Hangzhou Xizi International Center Building 2, Hangzhou Civic Center 1, Hangzhou Civic Center 2, Hangzhou Civic Center 3, Hangzhou Civic Center 4, Hangzhou Civic Center 5, Hangzhou Civic Center 6, Green Residence Tower 1, Green Residence Tower 2, Green Residence Tower 3, Hangzhou Xizi International Center Building 3, CITIC Bank Headquarters, Linping Xizi International Building No. 2, Shimao Hangzhou Tower C
+Tiers: I: 7, II: 11, III: 31, IV: 15, V: 2
+Rating: 259 (26.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Greenland Center 1 ***
+Height: 310
+Floors: 67
+Status: Under Construction
+Started: 2017
+Functions: hotel / office / retail
+Rank: 1
+
+*** Greenland Center 2 ***
+Height: 310
+Floors: 67
+Status: Under Construction
+Started: 2017
+Functions: hotel / office / retail
+Rank: 1
+
+*** Hangzhou Centre Tower A ***
+Height: 292.8
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 3
+
+*** Shimao Hangzhou Twin Tower A ***
+Height: 281.6
+Floors: 63
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 4
+
+*** Shimao Hangzhou Twin Tower B ***
+Height: 281.6
+Floors: 63
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 4
+
+*** Bodi Center Tower C ***
+Height: 279.73
+Floors: 57
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 6
+
+*** Longda Tower 1 ***
+Height: 268
+Floors: 61
+Status: Under Construction
+Started: 2012
+Functions: office
+Rank: 7
+
+*** Zhe Jiang Fortune Financial Center - Tower 1 ***
+Height: 258
+Floors: 52
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 8
+
+*** Grand Parkray Hangzhou Hotel Tower 1 ***
+Height: 258
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: hotel
+Rank: 9
+
+*** Raffles City Hangzhou Tower 2 ***
+Height: 256.45
+Floors: 59
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: residential / hotel / office / retail
+Rank: 10
+
+*** Raffles City Hangzhou Tower 1 ***
+Height: 256.25
+Floors: 61
+Status: Completed
+Started: 2009
+Completed: 2017
+Functions: SOHO / serviced apartments / office / retail
+Rank: 11
+
+*** Hangzhou Telecom Mansion ***
+Height: 248
+Floors: 41
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: office
+Rank: 12
+
+*** Wanxiang City Tower 1 ***
+Height: 229.9
+Floors: 50
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel / office / retail
+Rank: 13
+
+*** New Century Grand Hotel ***
+Height: 218
+Floors: 45
+Status: Completed
+Completed: 2005
+Functions: hotel
+Rank: 14
+
+*** Zhejiang Television Center ***
+Height: 218
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 15
+
+*** MT Tower Building ***
+Height: 214.95
+Floors: 51
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office / hotel
+Rank: 16
+
+*** Sunyard Plaza 1 ***
+Height: 213
+Floors: 49
+Status: Under Construction
+Started: 2008
+Rank: 17
+
+*** Wanyin International 2 ***
+Height: 205
+Floors: 43
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 18
+
+*** Dicara Gold Tower - Hilton Hotel ***
+Height: 200
+Floors: 55
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel
+Rank: 19
+
+*** Jumeirah Hangzhou Hotel ***
+Height: 200
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: hotel
+Rank: 20
+
+*** Wanyin International 3 ***
+Height: 200
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 21
+
+*** Linping Xizi International Building No. 4 ***
+Height: 200
+Floors: 32
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 22
+
+*** Longda Tower 2 ***
+Height: 198
+Floors: 43
+Status: Under Construction
+Started: 2012
+Functions: office
+Rank: 23
+
+*** Wanxiang City Tower 3 ***
+Height: 190
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 24
+
+*** Zhe Jiang Fortune Financial Center - Tower 2 ***
+Height: 188
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 25
+
+*** Huacheng Mansion ***
+Height: 188
+Floors: 35
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 26
+
+*** TA Tower Building ***
+Height: 186.7
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 27
+
+*** Asian Packaging Center Mansion East Tower ***
+Height: 180
+Floors: 47
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 28
+
+*** Asian Packaging Center Mansion West Tower ***
+Height: 180
+Floors: 42
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 29
+
+*** Hangzhou Centre Tower C ***
+Height: 180
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / office
+Rank: 30
+
+*** Wanxiang City Tower 4 ***
+Height: 180
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 30
+
+*** TD Tower Building ***
+Height: 179.45
+Floors: 53
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 32
+
+*** Wanyin International 1 ***
+Height: 175
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 33
+
+*** Xihuwenhua Square ***
+Height: 170
+Floors: 41
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / hotel
+Rank: 34
+
+*** Linping Xizi International Building No. 1 ***
+Height: 170
+Floors: 38
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 35
+
+*** Dikai International Center ***
+Height: 165
+Floors: 40
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 36
+
+*** Zun Bao Gold Tower ***
+Height: 160
+Floors: 45
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 37
+
+*** Zun Bao Silver Tower ***
+Height: 160
+Floors: 45
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 37
+
+*** Hangzhou Centre Tower D ***
+Height: 160
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / office
+Rank: 39
+
+*** Wanxiang City Tower 5 ***
+Height: 160
+Status: Completed
+Started: 2012
+Completed: 2014
+Rank: 39
+
+*** TC Tower Building ***
+Height: 159.65
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 41
+
+*** TB Tower Building ***
+Height: 151.95
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 42
+
+*** Sunyard Plaza 2 ***
+Height: 151
+Floors: 45
+Status: Under Construction
+Started: 2008
+Rank: 43
+
+*** Bodi Center Tower A ***
+Height: 150.2
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 44
+
+*** Bodi Center Tower B ***
+Height: 150.2
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office / hotel
+Rank: 45
+
+*** Sunrise Qiantang Mansion ***
+Height: 150
+Floors: 37
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 46
+
+*** Sheng Ao Tower ***
+Height: 150
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 47
+
+*** Hangzhou Centre Tower E ***
+Height: 150
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / office
+Rank: 48
+
+*** Jimei International Tower ***
+Height: 149
+Floors: 36
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 49
+
+*** Hangzhou Xizi International Center Building 1 ***
+Height: 145
+Floors: 39
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 50
+
+*** Hangzhou Centre Tower B ***
+Height: 145
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 51
+
+*** Grand Parkray Hangzhou Hotel Tower 2 ***
+Height: 138
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: hotel
+Rank: 52
+
+*** Hangzhou Xizi International Center Building 2 ***
+Height: 125
+Floors: 36
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 53
+
+*** Hangzhou Civic Center 1 ***
+Height: 109.6
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2012
+Functions: office / government
+Rank: 54
+
+*** Hangzhou Civic Center 2 ***
+Height: 109.6
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2012
+Functions: office / government
+Rank: 54
+
+*** Hangzhou Civic Center 3 ***
+Height: 109.6
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2012
+Functions: office / government
+Rank: 54
+
+*** Hangzhou Civic Center 4 ***
+Height: 109.6
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2012
+Functions: office / government
+Rank: 54
+
+*** Hangzhou Civic Center 5 ***
+Height: 109.6
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2012
+Functions: office / government
+Rank: 54
+
+*** Hangzhou Civic Center 6 ***
+Height: 109.6
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2012
+Functions: office / government
+Rank: 54
+
+*** Green Residence Tower 1 ***
+Height: 102.2
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 60
+
+*** Green Residence Tower 2 ***
+Height: 102.2
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 60
+
+*** Green Residence Tower 3 ***
+Height: 102.2
+Floors: 33
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 60
+
+*** Hangzhou Xizi International Center Building 3 ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 2015
+Functions: residential / hotel
+Rank: 63
+
+*** CITIC Bank Headquarters ***
+Height: 100
+Floors: 20
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 64
+
+*** Linping Xizi International Building No. 2 ***
+Height: 99
+Floors: 25
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 65
+
+*** Shimao Hangzhou Tower C ***
+Height: 88.96
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 66

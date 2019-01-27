@@ -1,0 +1,244 @@
+*** Cairo (52) ***
+1.  Ministry of Foreign Affairs, 143m
+2.  El Gezira Tower Movenpick Hotel, 142m
+3.  Grand Hyatt Cairo, 142m
+4.  Nile City North Tower, 142m
+5.  Nile City South Tower, 142m
+6.  El Maadi Residential Tower XIII, 140m
+7.  El Maadi Residential Tower XIV, 140m
+8.  El Maadi Residential Tower XV, 140m
+9.  El Maadi Residential Tower XVI, 140m
+10. El Maadi Residential Tower XVII, 140m
+11. El Maadi Residential Tower XVIII, 140m
+12. The Nile Corniche Tower 2, 136m
+13. The Nile Corniche Tower 1, 136m
+14. Cairo Plaza Building, 135m
+15. National Bank of Egypt Tower, 135m
+16. El Maadi Residential Tower IX, 122m
+17. El Maadi Residential Tower V, 122m
+18. El Maadi Residential Tower VI, 122m
+19. El Maadi Residential Tower VII, 122m
+20. El Maadi Residential Tower VIII, 122m
+21. El Maadi Residential Tower X, 122m
+22. El Maadi Residential Tower XI, 122m
+23. El Maadi Residential Tower XII, 122m
+24. Residences Roda Island, 118m
+25. Ramses Hilton & World Trade Center, 110m
+26. Sofitel Cairo Nile El Gezirah, 110m
+
+******************** DETAILS ********************
+
+*** Cairo ***
+Country: Egypt
+Region: Africa
+26 towers: Ministry of Foreign Affairs, El Gezira Tower Movenpick Hotel, Grand Hyatt Cairo, Nile City North Tower, Nile City South Tower, El Maadi Residential Tower XIII, El Maadi Residential Tower XIV, El Maadi Residential Tower XV, El Maadi Residential Tower XVI, El Maadi Residential Tower XVII, El Maadi Residential Tower XVIII, The Nile Corniche Tower 2, The Nile Corniche Tower 1, Cairo Plaza Building, National Bank of Egypt Tower, El Maadi Residential Tower IX, El Maadi Residential Tower V, El Maadi Residential Tower VI, El Maadi Residential Tower VII, El Maadi Residential Tower VIII, El Maadi Residential Tower X, El Maadi Residential Tower XI, El Maadi Residential Tower XII, Residences Roda Island, Ramses Hilton & World Trade Center, Sofitel Cairo Nile El Gezirah
+Tiers: II: 26
+Rating: 52 (7.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ministry of Foreign Affairs ***
+Height: 143
+Floors: 39
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 1
+
+*** El Gezira Tower Movenpick Hotel ***
+Height: 142
+Floors: 43
+Status: Completed
+Completed: 1996
+Functions: hotel
+Rank: 2
+
+*** Grand Hyatt Cairo ***
+Height: 142
+Floors: 41
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 3
+
+*** Nile City North Tower ***
+Height: 142
+Floors: 34
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 4
+
+*** Nile City South Tower ***
+Height: 142
+Floors: 34
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 4
+
+*** El Maadi Residential Tower XIII ***
+Height: 140
+Floors: 42
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 6
+
+*** El Maadi Residential Tower XIV ***
+Height: 140
+Floors: 42
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 6
+
+*** El Maadi Residential Tower XV ***
+Height: 140
+Floors: 42
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 6
+
+*** El Maadi Residential Tower XVI ***
+Height: 140
+Floors: 42
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 6
+
+*** El Maadi Residential Tower XVII ***
+Height: 140
+Floors: 42
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 6
+
+*** El Maadi Residential Tower XVIII ***
+Height: 140
+Floors: 42
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 6
+
+*** The Nile Corniche Tower 2 ***
+Height: 136
+Floors: 38
+Status: Under Construction
+Started: 2012
+Functions: residential / hotel
+Rank: 12
+
+*** The Nile Corniche Tower 1 ***
+Height: 136
+Floors: 37
+Status: Under Construction
+Started: 2012
+Functions: residential / office
+Rank: 13
+
+*** Cairo Plaza Building ***
+Height: 135
+Floors: 33
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 14
+
+*** National Bank of Egypt Tower ***
+Height: 135
+Floors: 33
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 14
+
+*** El Maadi Residential Tower IX ***
+Height: 122
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 16
+
+*** El Maadi Residential Tower V ***
+Height: 122
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 16
+
+*** El Maadi Residential Tower VI ***
+Height: 122
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 16
+
+*** El Maadi Residential Tower VII ***
+Height: 122
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 16
+
+*** El Maadi Residential Tower VIII ***
+Height: 122
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 16
+
+*** El Maadi Residential Tower X ***
+Height: 122
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 16
+
+*** El Maadi Residential Tower XI ***
+Height: 122
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 16
+
+*** El Maadi Residential Tower XII ***
+Height: 122
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 16
+
+*** Residences Roda Island ***
+Height: 118
+Floors: 39
+Status: Completed
+Functions: residential
+Rank: 24
+
+*** Ramses Hilton & World Trade Center ***
+Height: 110
+Floors: 36
+Status: Completed
+Completed: 1980
+Functions: hotel / office
+Rank: 25
+
+*** Sofitel Cairo Nile El Gezirah ***
+Height: 109.7
+Floors: 30
+Status: Completed
+Completed: 1984
+Functions: hotel
+Rank: 26

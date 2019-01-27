@@ -1,0 +1,18 @@
+*** Paraguay (4) ***
+1. Asuncion, 4
+
+******************** DETAILS ********************
+
+*** Paraguay ***
+Region: South America
+1 city: Asuncion
+Tiers: II: 2
+Rating: 4
+
+*** Asuncion ***
+Country: Paraguay
+Region: South America
+2 towers: Icono Lofts, Edificio Wilson
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16

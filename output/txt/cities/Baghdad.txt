@@ -1,0 +1,20 @@
+*** Baghdad (1) ***
+1. Sheraton Ishtar Hotel, 99m
+
+******************** DETAILS ********************
+
+*** Baghdad ***
+Country: Iraq
+Region: Middle East
+1 tower: Sheraton Ishtar Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sheraton Ishtar Hotel ***
+Height: 99
+Floors: 21
+Status: Completed
+Completed: 1982
+Functions: hotel
+Rank: 1

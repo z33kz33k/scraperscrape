@@ -1,0 +1,54 @@
+*** Bulgaria (25) ***
+1. Sofia, 19
+2. Burgas, 2
+3. Plovdiv, 2
+4. Balchik, 1
+5. Ruse, 1
+
+******************** DETAILS ********************
+
+*** Bulgaria ***
+Region: Europe
+5 cities: Sofia, Burgas, Plovdiv, Balchik, Ruse
+Tiers: I: 15, II: 3, III: 1
+Rating: 25 (16.0% uncompleted)
+
+*** Sofia ***
+Country: Bulgaria
+Region: Europe
+13 towers: Sky Fort, Capital Fort Business Center, Millennium Center 1, Millennium Center 2, Hotel Rodina, CITUB Administrative Building, Kempinski Hotel Zografski, Millennium Center 3, Sopharma Business Tower A, Hemus Hotel, NPC - Prono, Park Hotel Moskva, City Tower
+Tiers: I: 9, II: 3, III: 1
+Rating: 19 (21.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Burgas ***
+Country: Bulgaria
+Region: Europe
+2 towers: GM Stroy Residential Tower, Hotel Mirage
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Plovdiv ***
+Country: Bulgaria
+Region: Europe
+2 towers: Park Sankt Peterburg Hotel, Hotel Moskva
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Balchik ***
+Country: Bulgaria
+Region: Europe
+1 tower: Hotel Dobrudja
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ruse ***
+Country: Bulgaria
+Region: Europe
+1 tower: Riga Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

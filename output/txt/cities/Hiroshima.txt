@@ -1,0 +1,88 @@
+*** Hiroshima (22) ***
+1. City Tower Hiroshima, 193m
+2. Hitoto - The Tower, 178m
+3. Urban View Grand Tower, 166m
+4. Grand Cross Tower, 163m
+5. NTT Cred Motomachi Building, 150m
+6. NTT DoCoMo Chugoku Building, 139m
+7. NHK Hiroshima, 101m
+8. The Parkhouse Hiroshima Tower, 91m
+
+******************** DETAILS ********************
+
+*** Hiroshima ***
+Country: Japan
+Region: Asia
+8 towers: City Tower Hiroshima, Hitoto - The Tower, Urban View Grand Tower, Grand Cross Tower, NTT Cred Motomachi Building, NTT DoCoMo Chugoku Building, NHK Hiroshima, The Parkhouse Hiroshima Tower
+Tiers: I: 2, II: 2, III: 4
+Rating: 22 (18.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** City Tower Hiroshima ***
+Height: 193
+Floors: 54
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: hotel / office
+Rank: 1
+
+*** Hitoto - The Tower ***
+Height: 178.04
+Floors: 53
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 2
+
+*** Urban View Grand Tower ***
+Height: 166
+Floors: 43
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: hotel / office
+Rank: 3
+
+*** Grand Cross Tower ***
+Height: 163.07
+Floors: 46
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 4
+
+*** NTT Cred Motomachi Building ***
+Height: 149.96
+Floors: 35
+Status: Completed
+Completed: 1993
+Functions: hotel
+Rank: 5
+
+*** NTT DoCoMo Chugoku Building ***
+Height: 139
+Floors: 21
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 6
+
+*** NHK Hiroshima ***
+Height: 101.3
+Floors: 21
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 7
+
+*** The Parkhouse Hiroshima Tower ***
+Height: 90.57
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 8

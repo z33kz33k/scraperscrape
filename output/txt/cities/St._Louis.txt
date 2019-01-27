@@ -1,0 +1,337 @@
+*** St. Louis (50) ***
+1.  One Metropolitan Square, 181m
+2.  AT&T Center, 179m
+3.  Thomas Eagleton Federal Courthouse, 170m
+4.  One US Bank Plaza, 148m
+5.  Laclede Gas Building, 122m
+6.  Southwestern Telephone Building, 122m
+7.  Civil Courts Building, 118m
+8.  Bank of America Plaza, 117m
+9.  One Hundred, 116m
+10. 600 Washington, 114m
+11. One Cardinal Way, 102m
+12. Park East Tower, 101m
+13. Park Plaza Apartments, 96m
+14. Roberts Tower at Mayfair Plaza, 95m
+15. 1010 Market Street, 90m
+16. Millennium Hotel Tower I, 88m
+17. Four Seasons Hotel St. Louis, 88m
+18. Crowne Plaza St. Louis, 87m
+19. Mansion House Apartments, 87m
+20. The Gentry's Landing, 87m
+21. Continental Life Building, 87m
+22. 500 Broadway Building, 86m
+23. Hilton - St. Louis at the Ballpark East Tower, 85m
+24. Council House East, 85m
+25. Railway Exchange Building, 84m
+26. Bank of America Tower, 84m
+27. Equitable Building, 83m
+28. Park Pacific, 81m
+29. KMOV Gateway Tower, 80m
+30. Queeny Tower, 79m
+31. Barnes-Jewish Hospital South, 78m
+32. Saint Louis Place, 77m
+33. Desloge Towers, 76m
+34. Millennium Center, 76m
+
+******************** DETAILS ********************
+
+*** St. Louis ***
+Country: United States
+Region: North America
+34 towers: One Metropolitan Square, AT&T Center, Thomas Eagleton Federal Courthouse, One US Bank Plaza, Laclede Gas Building, Southwestern Telephone Building, Civil Courts Building, Bank of America Plaza, One Hundred, 600 Washington, One Cardinal Way, Park East Tower, Park Plaza Apartments, Roberts Tower at Mayfair Plaza, 1010 Market Street, Millennium Hotel Tower I, Four Seasons Hotel St. Louis, Crowne Plaza St. Louis, Mansion House Apartments, The Gentry's Landing, Continental Life Building, 500 Broadway Building, Hilton - St. Louis at the Ballpark East Tower, Council House East, Railway Exchange Building, Bank of America Tower, Equitable Building, Park Pacific, KMOV Gateway Tower, Queeny Tower, Barnes-Jewish Hospital South, Saint Louis Place, Desloge Towers, Millennium Center
+Tiers: I: 24, II: 7, III: 3
+Rating: 50 (6.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** One Metropolitan Square ***
+Height: 180.75
+Floors: 42
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 1
+
+*** AT&T Center ***
+Height: 179.23
+Floors: 44
+Status: Completed
+Completed: 1984
+Functions: abandoned
+Rank: 2
+
+*** Thomas Eagleton Federal Courthouse ***
+Height: 169.84
+Floors: 29
+Status: Completed
+Started: 1994
+Completed: 2000
+Functions: government
+Rank: 3
+
+*** One US Bank Plaza ***
+Height: 147.6
+Floors: 35
+Status: Completed
+Started: 1973
+Completed: 1976
+Functions: office
+Rank: 4
+
+*** Laclede Gas Building ***
+Height: 122.2
+Floors: 31
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: office
+Rank: 5
+
+*** Southwestern Telephone Building ***
+Height: 121.66
+Floors: 26
+Status: Completed
+Completed: 1926
+Functions: office
+Rank: 6
+
+*** Civil Courts Building ***
+Height: 117.7
+Floors: 13
+Status: Completed
+Completed: 1929
+Functions: government
+Rank: 7
+
+*** Bank of America Plaza ***
+Height: 117.05
+Floors: 31
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 8
+
+*** One Hundred ***
+Height: 116.08
+Floors: 36
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 9
+
+*** 600 Washington ***
+Height: 114.3
+Floors: 25
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 10
+
+*** One Cardinal Way ***
+Height: 101.8
+Floors: 29
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 11
+
+*** Park East Tower ***
+Height: 100.66
+Floors: 26
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 12
+
+*** Park Plaza Apartments ***
+Height: 95.5
+Floors: 27
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: residential / hotel
+Rank: 13
+
+*** Roberts Tower at Mayfair Plaza ***
+Height: 95.1
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 14
+
+*** 1010 Market Street ***
+Height: 90.3
+Floors: 20
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 15
+
+*** Millennium Hotel Tower I ***
+Height: 88.09
+Floors: 28
+Status: Completed
+Completed: 1968
+Functions: hotel
+Rank: 16
+
+*** Four Seasons Hotel St. Louis ***
+Height: 88
+Floors: 20
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: hotel / retail
+Rank: 17
+
+*** Crowne Plaza St. Louis ***
+Height: 87.48
+Floors: 28
+Status: Completed
+Started: 1964
+Completed: 1965
+Functions: hotel
+Rank: 18
+
+*** Mansion House Apartments ***
+Height: 87.48
+Floors: 28
+Status: Completed
+Started: 1964
+Completed: 1965
+Functions: residential
+Rank: 18
+
+*** The Gentry's Landing ***
+Height: 87.48
+Floors: 28
+Status: Completed
+Started: 1964
+Completed: 1965
+Functions: residential
+Rank: 18
+
+*** Continental Life Building ***
+Height: 87.1
+Floors: 22
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: residential
+Rank: 21
+
+*** 500 Broadway Building ***
+Height: 85.83
+Floors: 22
+Status: Completed
+Started: 1969
+Completed: 1970
+Functions: office
+Rank: 22
+
+*** Hilton - St. Louis at the Ballpark East Tower ***
+Height: 85.35
+Floors: 27
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: hotel
+Rank: 23
+
+*** Council House East ***
+Height: 85.34
+Floors: 26
+Status: Completed
+Started: 1968
+Completed: 1969
+Functions: residential
+Rank: 24
+
+*** Railway Exchange Building ***
+Height: 84.43
+Floors: 21
+Status: Completed
+Completed: 1914
+Functions: office
+Rank: 25
+
+*** Bank of America Tower ***
+Height: 83.82
+Floors: 22
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 26
+
+*** Equitable Building ***
+Height: 82.91
+Floors: 22
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: office
+Rank: 27
+
+*** Park Pacific ***
+Height: 80.7
+Floors: 23
+Status: Completed
+Completed: 1928
+Functions: residential
+Rank: 28
+
+*** KMOV Gateway Tower ***
+Height: 79.55
+Floors: 21
+Status: Completed
+Started: 1966
+Completed: 1967
+Functions: office
+Rank: 29
+
+*** Queeny Tower ***
+Height: 78.6
+Floors: 19
+Status: Completed
+Completed: 1965
+Functions: hospital
+Rank: 30
+
+*** Barnes-Jewish Hospital South ***
+Height: 77.7
+Floors: 18
+Status: Completed
+Completed: 1971
+Functions: hospital
+Rank: 31
+
+*** Saint Louis Place ***
+Height: 77.12
+Floors: 20
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: office
+Rank: 32
+
+*** Desloge Towers ***
+Height: 76.2
+Floors: 15
+Status: Completed
+Started: 1931
+Completed: 1933
+Functions: hospital
+Rank: 33
+
+*** Millennium Center ***
+Height: 76
+Floors: 20
+Status: Completed
+Completed: 1963
+Functions: office
+Rank: 34

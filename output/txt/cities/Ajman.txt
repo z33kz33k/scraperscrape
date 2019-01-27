@@ -1,0 +1,20 @@
+*** Ajman (6) ***
+1. Corniche Tower, 213m
+
+******************** DETAILS ********************
+
+*** Ajman ***
+Country: United Arab Emirates
+Region: Middle East
+1 tower: Corniche Tower
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Corniche Tower ***
+Height: 213
+Floors: 53
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 1

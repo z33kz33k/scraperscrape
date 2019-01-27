@@ -1,0 +1,65 @@
+*** Southfield (9) ***
+1. 3000 Town Center, 122m
+2. 1000 Town Center, 120m
+3. 2000 Town Center, 113m
+4. American Center, 101m
+5. 5000 Town Center, 100m
+6. 4000 Town Center, 82m
+
+******************** DETAILS ********************
+
+*** Southfield ***
+Country: United States
+Region: North America
+6 towers: 3000 Town Center, 1000 Town Center, 2000 Town Center, American Center, 5000 Town Center, 4000 Town Center
+Tiers: I: 3, II: 3
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** 3000 Town Center ***
+Height: 122.38
+Floors: 32
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 1
+
+*** 1000 Town Center ***
+Height: 120.4
+Floors: 28
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 2
+
+*** 2000 Town Center ***
+Height: 112.93
+Floors: 28
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 3
+
+*** American Center ***
+Height: 100.89
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 4
+
+*** 5000 Town Center ***
+Height: 99.98
+Floors: 33
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 5
+
+*** 4000 Town Center ***
+Height: 82.25
+Floors: 20
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 6

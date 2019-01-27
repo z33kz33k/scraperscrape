@@ -1,0 +1,29 @@
+*** Gatineau (3) ***
+1. Terrasses de la Chaudière I - Central Tower, 117m
+2. Place du Portage I, 102m
+
+******************** DETAILS ********************
+
+*** Gatineau ***
+Country: Canada
+Region: North America
+2 towers: Terrasses de la Chaudière I - Central Tower, Place du Portage I
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Terrasses de la Chaudière I - Central Tower ***
+Height: 117
+Floors: 30
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 1
+
+*** Place du Portage I ***
+Height: 102
+Floors: 24
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 2

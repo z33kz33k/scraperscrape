@@ -1,0 +1,40 @@
+*** San José (3) ***
+1. Torre Paseo Colón 2, 101m
+2. Torre Paseo Col&oacute;n 1, 98m
+3. Banco Nacional, 82m
+
+******************** DETAILS ********************
+
+*** San José ***
+Country: Costa Rica
+Region: Central America
+3 towers: Torre Paseo Colón 2, Torre Paseo Col&oacute;n 1, Banco Nacional
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre Paseo Colón 2 ***
+Height: 101.35
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 1
+
+*** Torre Paseo Col&oacute;n 1 ***
+Height: 98.15
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / office
+Rank: 2
+
+*** Banco Nacional ***
+Height: 82
+Floors: 20
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 3

@@ -1,0 +1,72 @@
+*** Belgium (54) ***
+1. Brussels, 37
+2. Antwerp, 8
+3. Gent, 2
+4. Oostende, 2
+5. Leuven, 2
+6. Liège, 2
+7. Charleroi, 1
+
+******************** DETAILS ********************
+
+*** Belgium ***
+Region: Europe
+7 cities: Brussels, Antwerp, Gent, Oostende, Leuven, Liège, Charleroi
+Tiers: I: 26, II: 14
+Rating: 54 (3.7% uncompleted)
+
+*** Brussels ***
+Country: Belgium
+Region: Europe
+26 towers: Tour du Midi, Belfius Tower, UP-site, Tour Finances, Silver Tower, Madou Plaza, Proximus Tower I, Tour Brusilia, North Galaxy Tour A, North Galaxy Tour B, Tour Astro, World Trade Center Tower III, Proximus Tower II, Manhattan Center, World Trade Center Tower I, World Trade Center Tower II, Covent Garden Tower B, The Hotel, Zenith Building, Bastion Tower, Blue Tower, BelView, Ellipse Building A, IT Tower, Tour TBR, Botanic Building
+Tiers: I: 15, II: 11
+Rating: 37 (5.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Antwerp ***
+Country: Belgium
+Region: Europe
+8 towers: KBC Tower, Antwerp Tower, Chicago Building, Park Tower, London Tower, Theatre Building, Politietoren, Lichttoren
+Tiers: I: 8
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gent ***
+Country: Belgium
+Region: Europe
+1 tower: MG Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Oostende ***
+Country: Belgium
+Region: Europe
+2 towers: Europacentrum, Residentie de Mast
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Leuven ***
+Country: Belgium
+Region: Europe
+1 tower: Sint-Maartensdal, Blok 5
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Liège ***
+Country: Belgium
+Region: Europe
+1 tower: Tour Paradis
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Charleroi ***
+Country: Belgium
+Region: Europe
+1 tower: Police Headquarters & Charleroi Danses
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

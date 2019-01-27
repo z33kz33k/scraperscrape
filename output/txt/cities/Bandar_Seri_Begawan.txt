@@ -1,0 +1,20 @@
+*** Bandar Seri Begawan (2) ***
+1. Ministry of Finance, 120m
+
+******************** DETAILS ********************
+
+*** Bandar Seri Begawan ***
+Country: Brunei
+Region: Asia
+1 tower: Ministry of Finance
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ministry of Finance ***
+Height: 120
+Floors: 21
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 1

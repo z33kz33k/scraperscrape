@@ -1,0 +1,413 @@
+*** Goiania (75) ***
+1.  Órion Business & Health Complex, 191m
+2.  Nexus Corporate, 180m
+3.  Kingdom Park Residence, 178m
+4.  Premier Vision, 148m
+5.  Premier Unique, 142m
+6.  Evidence Office, 135m
+7.  Premier Lac de Rose, 131m
+8.  Premier Blanc, 129m
+9.  Magnific, 123m
+10. Essenciale Premier, 120m
+11. Jazz Life Style, 117m
+12. Winner Sports Life Residence - Torre A, 117m
+13. Winner Sports Life Residence - Torre B, 117m
+14. Twenty Three Park, 115m
+15. Brookfield Tower - Torre A, 115m
+16. Park House Flamboyant - Torre Amarela, 115m
+17. Park House Flamboyant - Torre Vermelha, 115m
+18. Brookfield Tower - Torre B, 115m
+19. L'Essence Du Lac, 114m
+20. Eminent Setor Bueno, 112m
+21. L´Essence Du Parc, 108m
+22. Beautiful Park Residence, 108m
+23. La Musique - Torre Harmonie, 108m
+24. La Musique - Torre Melodie, 108m
+25. L'Essence Suíça, 108m
+26. L´Essence Platine, 106m
+27. L`Essence Flamboyant, 106m
+28. Visage Universitário, 106m
+29. Premier du Parc, 104m
+30. Chateau Bougainville, 104m
+31. Boulevard de Roses, 102m
+32. L'Essence Bueno, 102m
+33. Evidence Ville, 101m
+34. Palazzo Avezzano, 101m
+35. Oeste Tower Residence, 100m
+36. Chamonix Residence, 100m
+37. Brezze Lifestyle, 100m
+38. Residencial Altana, 97m
+39. Chateau du Parc, 97m
+40. The Prime Tamandaré Office, 97m
+41. Twenty Five Park, 94m
+42. Tendence Home Resort, 85m
+
+******************** DETAILS ********************
+
+*** Goiania ***
+Country: Brazil
+Region: South America
+42 towers: Órion Business & Health Complex, Nexus Corporate, Kingdom Park Residence, Premier Vision, Premier Unique, Evidence Office, Premier Lac de Rose, Premier Blanc, Magnific, Essenciale Premier, Jazz Life Style, Winner Sports Life Residence - Torre A, Winner Sports Life Residence - Torre B, Twenty Three Park, Brookfield Tower - Torre A, Park House Flamboyant - Torre Amarela, Park House Flamboyant - Torre Vermelha, Brookfield Tower - Torre B, L'Essence Du Lac, Eminent Setor Bueno, L´Essence Du Parc, Beautiful Park Residence, La Musique - Torre Harmonie, La Musique - Torre Melodie, L'Essence Suíça, L´Essence Platine, L`Essence Flamboyant, Visage Universitário, Premier du Parc, Chateau Bougainville, Boulevard de Roses, L'Essence Bueno, Evidence Ville, Palazzo Avezzano, Oeste Tower Residence, Chamonix Residence, Brezze Lifestyle, Residencial Altana, Chateau du Parc, The Prime Tamandaré Office, Twenty Five Park, Tendence Home Resort
+Tiers: I: 15, II: 24, III: 3
+Rating: 75 (10.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Órion Business & Health Complex ***
+Height: 191.48
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: hotel / hospital / office
+Rank: 1
+
+*** Nexus Corporate ***
+Height: 180
+Floors: 42
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: office / retail
+Rank: 2
+
+*** Kingdom Park Residence ***
+Height: 178
+Floors: 52
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 3
+
+*** Premier Vision ***
+Height: 148
+Floors: 44
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 4
+
+*** Premier Unique ***
+Height: 142
+Floors: 44
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 5
+
+*** Evidence Office ***
+Height: 135
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 6
+
+*** Premier Lac de Rose ***
+Height: 131
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 7
+
+*** Premier Blanc ***
+Height: 128.6
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** Magnific ***
+Height: 122.83
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 9
+
+*** Essenciale Premier ***
+Height: 119.75
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office / residential
+Rank: 10
+
+*** Jazz Life Style ***
+Height: 117
+Floors: 34
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 11
+
+*** Winner Sports Life Residence - Torre A ***
+Height: 116.75
+Floors: 37
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 12
+
+*** Winner Sports Life Residence - Torre B ***
+Height: 116.75
+Floors: 37
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 12
+
+*** Twenty Three Park ***
+Height: 115.2
+Floors: 35
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 14
+
+*** Brookfield Tower - Torre A ***
+Height: 114.6
+Floors: 34
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office / residential
+Rank: 15
+
+*** Park House Flamboyant - Torre Amarela ***
+Height: 114.6
+Floors: 34
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 15
+
+*** Park House Flamboyant - Torre Vermelha ***
+Height: 114.6
+Floors: 34
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 15
+
+*** Brookfield Tower - Torre B ***
+Height: 114.6
+Floors: 32
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 18
+
+*** L'Essence Du Lac ***
+Height: 113.7
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 19
+
+*** Eminent Setor Bueno ***
+Height: 111.86
+Floors: 37
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 20
+
+*** L´Essence Du Parc ***
+Height: 108.5
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 21
+
+*** Beautiful Park Residence ***
+Height: 108.2
+Floors: 33
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 22
+
+*** La Musique - Torre Harmonie ***
+Height: 107.9
+Floors: 36
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 23
+
+*** La Musique - Torre Melodie ***
+Height: 107.9
+Floors: 36
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 23
+
+*** L'Essence Suíça ***
+Height: 107.9
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 25
+
+*** L´Essence Platine ***
+Height: 106.38
+Floors: 36
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 26
+
+*** L`Essence Flamboyant ***
+Height: 106
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 27
+
+*** Visage Universitário ***
+Height: 105.75
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 28
+
+*** Premier du Parc ***
+Height: 103.9
+Floors: 30
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 29
+
+*** Chateau Bougainville ***
+Height: 103.6
+Floors: 33
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 30
+
+*** Boulevard de Roses ***
+Height: 102.4
+Floors: 33
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 31
+
+*** L'Essence Bueno ***
+Height: 102.4
+Floors: 33
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 31
+
+*** Evidence Ville ***
+Height: 100.6
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 33
+
+*** Palazzo Avezzano ***
+Height: 100.6
+Floors: 30
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 34
+
+*** Oeste Tower Residence ***
+Height: 100
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 35
+
+*** Chamonix Residence ***
+Height: 100
+Floors: 33
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 36
+
+*** Brezze Lifestyle ***
+Height: 100
+Floors: 31
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 37
+
+*** Residencial Altana ***
+Height: 97.25
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 38
+
+*** Chateau du Parc ***
+Height: 97.2
+Floors: 29
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 39
+
+*** The Prime Tamandaré Office ***
+Height: 97
+Floors: 26
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 40
+
+*** Twenty Five Park ***
+Height: 94.5
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 41
+
+*** Tendence Home Resort ***
+Height: 85.3
+Floors: 30
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 42

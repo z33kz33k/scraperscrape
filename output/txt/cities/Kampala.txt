@@ -1,0 +1,21 @@
+*** Kampala (1) ***
+1. Kampala Hilton, 90m
+
+******************** DETAILS ********************
+
+*** Kampala ***
+Country: Uganda
+Region: Africa
+1 tower: Kampala Hilton
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kampala Hilton ***
+Height: 90
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: hotel
+Rank: 1

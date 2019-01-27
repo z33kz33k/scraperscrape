@@ -1,0 +1,30 @@
+*** Tallahassee (2) ***
+1. State Capitol Tower, 98m
+2. Plaza Tower at Kleman Plaza, 75m
+
+******************** DETAILS ********************
+
+*** Tallahassee ***
+Country: United States
+Region: North America
+2 towers: State Capitol Tower, Plaza Tower at Kleman Plaza
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** State Capitol Tower ***
+Height: 98.15
+Floors: 23
+Status: Completed
+Started: 1974
+Completed: 1977
+Functions: government
+Rank: 1
+
+*** Plaza Tower at Kleman Plaza ***
+Height: 75
+Floors: 23
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 2

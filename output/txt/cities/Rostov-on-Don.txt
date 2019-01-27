@@ -1,0 +1,187 @@
+*** Rostov-on-Don (18) ***
+1.  Izvilistaya 7/2, 85m
+2.  Ekaterininskii, 85m
+3.  Ekaterininskii-1, 82m
+4.  Akvarel 4, 79m
+5.  Akvarel 5, 79m
+6.  Argo, 79m
+7.  Gvardeiskii-2, 79m
+8.  Zapadnye Vorota 3-13, 79m
+9.  Zapadnye Vorota 3-9, 79m
+10. Admiral, 76m
+11. Aleksandriiskii, 76m
+12. Aleksandriiskii 2, 76m
+13. Budennovskii 1, 76m
+14. Budennovskii 2, 76m
+15. Izvilistaya 13/1, 76m
+16. Lermontov, 76m
+17. Rostov-City, 76m
+18. Voenved-City, 76m
+
+******************** DETAILS ********************
+
+*** Rostov-on-Don ***
+Country: Russia
+Region: Europe
+18 towers: Izvilistaya 7/2, Ekaterininskii, Ekaterininskii-1, Akvarel 4, Akvarel 5, Argo, Gvardeiskii-2, Zapadnye Vorota 3-13, Zapadnye Vorota 3-9, Admiral, Aleksandriiskii, Aleksandriiskii 2, Budennovskii 1, Budennovskii 2, Izvilistaya 13/1, Lermontov, Rostov-City, Voenved-City
+Tiers: I: 18
+Rating: 18 (16.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Izvilistaya 7/2 ***
+Height: 85.25
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** Ekaterininskii ***
+Height: 85.25
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 2
+
+*** Ekaterininskii-1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 3
+
+*** Akvarel 4 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 4
+
+*** Akvarel 5 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 4
+
+*** Argo ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 4
+
+*** Gvardeiskii-2 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 4
+
+*** Zapadnye Vorota 3-13 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 4
+
+*** Zapadnye Vorota 3-9 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 4
+
+*** Admiral ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 10
+
+*** Aleksandriiskii ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 10
+
+*** Aleksandriiskii 2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 10
+
+*** Budennovskii 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 10
+
+*** Budennovskii 2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 10
+
+*** Izvilistaya 13/1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 10
+
+*** Lermontov ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 10
+
+*** Rostov-City ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential / retail
+Rank: 10
+
+*** Voenved-City ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 10

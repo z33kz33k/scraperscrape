@@ -1,0 +1,21 @@
+*** Burbank (2) ***
+1. The Tower, 140m
+
+******************** DETAILS ********************
+
+*** Burbank ***
+Country: United States
+Region: North America
+1 tower: The Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Tower ***
+Height: 140.2
+Floors: 32
+Status: Completed
+Started: 1987
+Completed: 1988
+Functions: office
+Rank: 1

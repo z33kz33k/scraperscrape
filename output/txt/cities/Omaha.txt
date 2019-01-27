@@ -1,0 +1,49 @@
+*** Omaha (8) ***
+1. One First National Center, 193m
+2. Woodmen Tower, 146m
+3. Union Pacific Center, 100m
+4. AT&T Building, 81m
+
+******************** DETAILS ********************
+
+*** Omaha ***
+Country: United States
+Region: North America
+4 towers: One First National Center, Woodmen Tower, Union Pacific Center, AT&T Building
+Tiers: I: 2, II: 1, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** One First National Center ***
+Height: 193.25
+Floors: 45
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 1
+
+*** Woodmen Tower ***
+Height: 145.7
+Floors: 30
+Status: Completed
+Started: 1966
+Completed: 1969
+Functions: office
+Rank: 2
+
+*** Union Pacific Center ***
+Height: 99.97
+Floors: 19
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 3
+
+*** AT&T Building ***
+Height: 80.77
+Floors: 16
+Status: Completed
+Completed: 1919
+Functions: telecommunications / office
+Rank: 4

@@ -1,0 +1,20 @@
+*** Aubervilliers (2) ***
+1. Tour la Villette, 125m
+
+******************** DETAILS ********************
+
+*** Aubervilliers ***
+Country: France
+Region: Europe
+1 tower: Tour la Villette
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour la Villette ***
+Height: 125
+Floors: 35
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 1

@@ -1,0 +1,21 @@
+*** Mangalore (2) ***
+1. Planet SKS, 125m
+
+******************** DETAILS ********************
+
+*** Mangalore ***
+Country: India
+Region: Asia
+1 tower: Planet SKS
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Planet SKS ***
+Height: 125
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 1

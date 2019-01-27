@@ -1,0 +1,94 @@
+*** Salvador (20) ***
+1. Mansao Margarida Costa Pinto, 154m
+2. Mundo Plaza Empresarial, 136m
+3. Vitraux, 134m
+4. Horto Santa Luzia, 132m
+5. Mundo Plaza Residencial, 131m
+6. Terrazzo Imperiale, 125m
+7. Boulevard Side Empresarial, 124m
+8. Boulevard Side Residencial, 123m
+9. Mansão Caymmi, 112m
+
+******************** DETAILS ********************
+
+*** Salvador ***
+Country: Brazil
+Region: South America
+9 towers: Mansao Margarida Costa Pinto, Mundo Plaza Empresarial, Vitraux, Horto Santa Luzia, Mundo Plaza Residencial, Terrazzo Imperiale, Boulevard Side Empresarial, Boulevard Side Residencial, Mansão Caymmi
+Tiers: II: 8, III: 1
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mansao Margarida Costa Pinto ***
+Height: 154.45
+Floors: 43
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Mundo Plaza Empresarial ***
+Height: 135.55
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 2
+
+*** Vitraux ***
+Height: 134
+Floors: 32
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 3
+
+*** Horto Santa Luzia ***
+Height: 132
+Floors: 40
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 4
+
+*** Mundo Plaza Residencial ***
+Height: 131.35
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 5
+
+*** Terrazzo Imperiale ***
+Height: 125
+Floors: 40
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 6
+
+*** Boulevard Side Empresarial ***
+Height: 123.75
+Floors: 34
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 7
+
+*** Boulevard Side Residencial ***
+Height: 122.8
+Floors: 35
+Status: Completed
+Completed: 2012
+Functions: residential / hotel
+Rank: 8
+
+*** Mansão Caymmi ***
+Height: 111.56
+Floors: 33
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 9

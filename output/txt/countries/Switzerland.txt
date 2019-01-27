@@ -1,0 +1,54 @@
+*** Switzerland (20) ***
+1. Basel, 9
+2. Zurich, 6
+3. Winterthur, 2
+4. Geneva, 2
+5. Montreux, 1
+
+******************** DETAILS ********************
+
+*** Switzerland ***
+Region: Europe
+5 cities: Basel, Zurich, Winterthur, Geneva, Montreux
+Tiers: I: 10, II: 1, III: 2
+Rating: 20 (20.0% uncompleted)
+
+*** Basel ***
+Country: Switzerland
+Region: Europe
+3 towers: Roche Turm Bau 2, Roche Turm Bau 1, Basler Messeturm
+Tiers: I: 1, III: 2
+Rating: 9 (44.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Zurich ***
+Country: Switzerland
+Region: Europe
+5 towers: Prime Tower, Hardau Hochhaus I, Sunrise Tower, Swissotel Zurich, Mobino Tower
+Tiers: I: 4, II: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Winterthur ***
+Country: Switzerland
+Region: Europe
+2 towers: Wintower, Swisscom Tower
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Geneva ***
+Country: Switzerland
+Region: Europe
+2 towers: Cite du Lignon Large Tower, Cite du Lignon Small Tower
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Montreux ***
+Country: Switzerland
+Region: Europe
+1 tower: Tour D`Ivoire
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

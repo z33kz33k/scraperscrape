@@ -1,0 +1,51 @@
+*** Essen (6) ***
+1. RWE Turm, 127m
+2. Rathaus, 106m
+3. RellingHaus II. BA, 100m
+4. Postbank AG Niederlassung Essen, 92m
+
+******************** DETAILS ********************
+
+*** Essen ***
+Country: Germany
+Region: Europe
+4 towers: RWE Turm, Rathaus, RellingHaus II. BA, Postbank AG Niederlassung Essen
+Tiers: I: 2, II: 2
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** RWE Turm ***
+Height: 127
+Floors: 31
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office
+Rank: 1
+
+*** Rathaus ***
+Height: 106
+Floors: 23
+Status: Completed
+Started: 1975
+Completed: 1979
+Functions: government
+Rank: 2
+
+*** RellingHaus II. BA ***
+Height: 100
+Floors: 21
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 3
+
+*** Postbank AG Niederlassung Essen ***
+Height: 91.59
+Floors: 19
+Status: Completed
+Started: 1963
+Completed: 1968
+Functions: office
+Rank: 4

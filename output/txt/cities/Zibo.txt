@@ -1,0 +1,70 @@
+*** Zibo (12) ***
+1. Zibo Huijin Building, 187m
+2. Zibo Broadcast & TV Building, 168m
+3. Gold No.1 Mansion, 106m
+4. China International, 105m
+5. Weitong International Center A, 101m
+6. Weitong International Center B, 101m
+
+******************** DETAILS ********************
+
+*** Zibo ***
+Country: China
+Region: Asia
+6 towers: Zibo Huijin Building, Zibo Broadcast & TV Building, Gold No.1 Mansion, China International, Weitong International Center A, Weitong International Center B
+Tiers: I: 4, III: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zibo Huijin Building ***
+Height: 187
+Floors: 36
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 1
+
+*** Zibo Broadcast & TV Building ***
+Height: 168
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 2
+
+*** Gold No.1 Mansion ***
+Height: 105.84
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** China International ***
+Height: 105
+Floors: 28
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel / office
+Rank: 4
+
+*** Weitong International Center A ***
+Height: 101
+Floors: 27
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office / residential
+Rank: 5
+
+*** Weitong International Center B ***
+Height: 101
+Floors: 27
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office / residential
+Rank: 5

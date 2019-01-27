@@ -1,0 +1,99 @@
+*** Middle East (2907) ***
+1.  United Arab Emirates, 1754
+2.  Saudi Arabia, 308
+3.  Qatar, 207
+4.  Israel, 203
+5.  Turkey, 160
+6.  Kuwait, 98
+7.  Bahrain, 85
+8.  Iran, 37
+9.  Lebanon, 36
+10. Iraq, 9
+11. Jordan, 7
+12. Syria, 2
+13. Yemen, 1
+
+******************** DETAILS ********************
+
+*** Middle East ***
+13 countries: United Arab Emirates, Saudi Arabia, Qatar, Israel, Turkey, Kuwait, Bahrain, Iran, Lebanon, Iraq, Jordan, Syria, Yemen
+Tiers: I: 131, II: 253, III: 277, IV: 124, V: 46, VI: 5
+Rating: 2907 (17.6% uncompleted)
+
+*** United Arab Emirates ***
+Region: Middle East
+6 cities: Dubai, Abu Dhabi, Sharjah, Al Fujayrah, Ajman, Ras al Khaimah
+Tiers: I: 42, II: 127, III: 167, IV: 79, V: 37, VI: 2
+Rating: 1754 (15.2% uncompleted)
+
+*** Saudi Arabia ***
+Region: Middle East
+4 cities: Riyadh, Mecca, Jeddah, Al Khobar
+Tiers: I: 16, II: 18, III: 23, IV: 17, V: 4, VI: 3
+Rating: 308 (40.9% uncompleted)
+
+*** Qatar ***
+Region: Middle East
+1 city: Doha
+Tiers: I: 3, II: 10, III: 26, IV: 12, V: 1
+Rating: 207 (9.7% uncompleted)
+
+*** Israel ***
+Region: Middle East
+7 cities: Tel Aviv, Ramat Gan, Bnei Brak, Bat Yam, Haifa, Givatayim, Beer Sheba
+Tiers: I: 23, II: 43, III: 19, IV: 3
+Rating: 203 (13.3% uncompleted)
+
+*** Turkey ***
+Region: Middle East
+4 cities: Ankara, Izmir, Konya, Mersin
+Tiers: I: 14, II: 29, III: 17, IV: 2, V: 1
+Rating: 160 (20.0% uncompleted)
+
+*** Kuwait ***
+Region: Middle East
+1 city: Kuwait City
+Tiers: II: 4, III: 9, IV: 5, V: 3
+Rating: 98 (8.2% uncompleted)
+
+*** Bahrain ***
+Region: Middle East
+1 city: Manama
+Tiers: I: 3, II: 3, III: 10, IV: 6
+Rating: 85 (18.8% uncompleted)
+
+*** Iran ***
+Region: Middle East
+2 cities: Tehran, Shiraz
+Tiers: I: 15, II: 7, III: 2
+Rating: 37 (27.0% uncompleted)
+
+*** Lebanon ***
+Region: Middle East
+1 city: Beirut
+Tiers: I: 10, II: 9, III: 2
+Rating: 36 (13.9% uncompleted)
+
+*** Iraq ***
+Region: Middle East
+3 cities: Erbil, Sulaymaniyah, Baghdad
+Tiers: I: 3, II: 1, III: 1
+Rating: 9 (22.2% uncompleted)
+
+*** Jordan ***
+Region: Middle East
+1 city: Amman
+Tiers: I: 1, II: 1, III: 1
+Rating: 7
+
+*** Syria ***
+Region: Middle East
+1 city: Damascus (Damas)
+Tiers: II: 1
+Rating: 2
+
+*** Yemen ***
+Region: Middle East
+1 city: Sana'a
+Tiers: I: 1
+Rating: 1

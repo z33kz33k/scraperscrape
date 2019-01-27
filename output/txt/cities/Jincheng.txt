@@ -1,0 +1,19 @@
+*** Jincheng (1) ***
+1. JinCheng Office Building, 86m
+
+******************** DETAILS ********************
+
+*** Jincheng ***
+Country: China
+Region: Asia
+1 tower: JinCheng Office Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** JinCheng Office Building ***
+Height: 85.8
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 1

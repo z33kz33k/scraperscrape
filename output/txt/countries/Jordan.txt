@@ -1,0 +1,18 @@
+*** Jordan (7) ***
+1. Amman, 7
+
+******************** DETAILS ********************
+
+*** Jordan ***
+Region: Middle East
+1 city: Amman
+Tiers: I: 1, II: 1, III: 1
+Rating: 7
+
+*** Amman ***
+Country: Jordan
+Region: Middle East
+3 towers: Amman Rotana Hotel, The Heights, Le Royal Hotel
+Tiers: I: 1, II: 1, III: 1
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16

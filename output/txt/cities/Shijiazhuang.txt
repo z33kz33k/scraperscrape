@@ -1,0 +1,143 @@
+*** Shijiazhuang (55) ***
+1.  Kaiyuan Finance Center, 246m
+2.  Shijiazhuang No. 2 Telecommunications Hub, 213m
+3.  Lerthai Center 2, 213m
+4.  Suning Plaza, 199m
+5.  Lerthai Center 3, 195m
+6.  Xinyanzhao Fortune Center 1, 187m
+7.  Xinyanzhao Fortune Center 2, 187m
+8.  Lerthai Center 1, 180m
+9.  Huaqiang Plaza, 170m
+10. New Cooperation Tower, 167m
+11. Shijiazhuang Pelagic Hotel, 158m
+12. Hebei JinGu Building, 148m
+13. Lerthai Center 4, 134m
+14. Shijiazhuang No.1 Hospital Medical Technique Building, 95m
+
+******************** DETAILS ********************
+
+*** Shijiazhuang ***
+Country: China
+Region: Asia
+14 towers: Kaiyuan Finance Center, Shijiazhuang No. 2 Telecommunications Hub, Lerthai Center 2, Suning Plaza, Lerthai Center 3, Xinyanzhao Fortune Center 1, Xinyanzhao Fortune Center 2, Lerthai Center 1, Huaqiang Plaza, New Cooperation Tower, Shijiazhuang Pelagic Hotel, Hebei JinGu Building, Lerthai Center 4, Shijiazhuang No.1 Hospital Medical Technique Building
+Tiers: I: 1, II: 2, III: 8, IV: 3
+Rating: 55 (21.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kaiyuan Finance Center ***
+Height: 246
+Floors: 52
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential / hotel / office
+Rank: 1
+
+*** Shijiazhuang No. 2 Telecommunications Hub ***
+Height: 213
+Floors: 43
+Status: Completed
+Started: 1996
+Completed: 2001
+Functions: office
+Rank: 2
+
+*** Lerthai Center 2 ***
+Height: 212.8
+Floors: 46
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 3
+
+*** Suning Plaza ***
+Height: 198.8
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 4
+
+*** Lerthai Center 3 ***
+Height: 195
+Floors: 45
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential / hotel
+Rank: 5
+
+*** Xinyanzhao Fortune Center 1 ***
+Height: 186.8
+Floors: 46
+Status: Under Construction
+Started: 2012
+Functions: multiple
+Rank: 6
+
+*** Xinyanzhao Fortune Center 2 ***
+Height: 186.8
+Floors: 46
+Status: Under Construction
+Started: 2012
+Functions: multiple
+Rank: 6
+
+*** Lerthai Center 1 ***
+Height: 179.9
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 8
+
+*** Huaqiang Plaza ***
+Height: 170
+Floors: 38
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: multiple
+Rank: 9
+
+*** New Cooperation Tower ***
+Height: 166.8
+Floors: 38
+Status: Under Construction
+Functions: office
+Rank: 10
+
+*** Shijiazhuang Pelagic Hotel ***
+Height: 158
+Floors: 38
+Status: Completed
+Completed: 2009
+Functions: hotel
+Rank: 11
+
+*** Hebei JinGu Building ***
+Height: 148
+Floors: 30
+Status: Completed
+Functions: office
+Rank: 12
+
+*** Lerthai Center 4 ***
+Height: 134
+Floors: 30
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 13
+
+*** Shijiazhuang No.1 Hospital Medical Technique Building ***
+Height: 95
+Floors: 20
+Status: Completed
+Completed: 2002
+Functions: hospital
+Rank: 14

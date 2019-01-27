@@ -1,0 +1,41 @@
+*** Phnom Penh (10) ***
+1. Morgan Tower, 210m
+2. Vattanac Capital, 185m
+3. OCIC Tower, 118m
+
+******************** DETAILS ********************
+
+*** Phnom Penh ***
+Country: Cambodia
+Region: Asia
+3 towers: Morgan Tower, Vattanac Capital, OCIC Tower
+Tiers: II: 1, III: 2
+Rating: 10 (40.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Morgan Tower ***
+Height: 210
+Floors: 46
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: hotel / office
+Rank: 1
+
+*** Vattanac Capital ***
+Height: 184.74
+Floors: 38
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: hotel / office
+Rank: 2
+
+*** OCIC Tower ***
+Height: 118.1
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 3

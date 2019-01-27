@@ -1,0 +1,29 @@
+*** Irvine (2) ***
+1. 200 Spectrum Center Drive, 99m
+2. 400 Spectrum Center Drive, 99m
+
+******************** DETAILS ********************
+
+*** Irvine ***
+Country: United States
+Region: North America
+2 towers: 200 Spectrum Center Drive, 400 Spectrum Center Drive
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 200 Spectrum Center Drive ***
+Height: 98.65
+Floors: 20
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 1
+
+*** 400 Spectrum Center Drive ***
+Height: 98.55
+Floors: 20
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 2

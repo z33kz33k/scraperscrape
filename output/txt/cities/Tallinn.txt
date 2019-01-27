@@ -1,0 +1,81 @@
+*** Tallinn (10) ***
+1. Swissotel Tallinn, 117m
+2. Tornimae, 113m
+3. Maakri Torn, 110m
+4. Radisson SAS Hotel, 103m
+5. SEB Pank, 94m
+6. Radisson Blu Hotel Olumpia, 84m
+7. City Plaza, 78m
+
+******************** DETAILS ********************
+
+*** Tallinn ***
+Country: Estonia
+Region: Europe
+7 towers: Swissotel Tallinn, Tornimae, Maakri Torn, Radisson SAS Hotel, SEB Pank, Radisson Blu Hotel Olumpia, City Plaza
+Tiers: I: 4, II: 3
+Rating: 10 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Swissotel Tallinn ***
+Height: 117
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel
+Rank: 1
+
+*** Tornimae ***
+Height: 113
+Floors: 31
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential / office
+Rank: 2
+
+*** Maakri Torn ***
+Height: 110
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 3
+
+*** Radisson SAS Hotel ***
+Height: 103
+Floors: 25
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: hotel / office
+Rank: 4
+
+*** SEB Pank ***
+Height: 94.4
+Floors: 24
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 5
+
+*** Radisson Blu Hotel Olumpia ***
+Height: 84
+Floors: 28
+Status: Completed
+Started: 1974
+Completed: 1980
+Functions: hotel
+Rank: 6
+
+*** City Plaza ***
+Height: 78
+Floors: 23
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 7

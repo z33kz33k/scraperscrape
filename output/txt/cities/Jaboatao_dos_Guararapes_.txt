@@ -1,0 +1,29 @@
+*** Jaboatao dos Guararapes  (3) ***
+1. Innside Barra, 134m
+2. TRYP Pernambuco, 95m
+
+******************** DETAILS ********************
+
+*** Jaboatao dos Guararapes  ***
+Country: Brazil
+Region: South America
+2 towers: Innside Barra, TRYP Pernambuco
+Tiers: I: 1, II: 1
+Rating: 3 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Innside Barra ***
+Height: 133.66
+Floors: 36
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: hotel
+Rank: 1
+
+*** TRYP Pernambuco ***
+Height: 94.51
+Floors: 30
+Status: Completed
+Completed: 2016
+Functions: hotel
+Rank: 2

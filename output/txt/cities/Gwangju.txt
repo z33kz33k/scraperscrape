@@ -1,0 +1,20 @@
+*** Gwangju (2) ***
+1. Kumho Insurance Office Building, 127m
+
+******************** DETAILS ********************
+
+*** Gwangju ***
+Country: South Korea
+Region: Asia
+1 tower: Kumho Insurance Office Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kumho Insurance Office Building ***
+Height: 127
+Floors: 30
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 1

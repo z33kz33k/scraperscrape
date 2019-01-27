@@ -1,0 +1,18 @@
+*** Cambodia (10) ***
+1. Phnom Penh, 10
+
+******************** DETAILS ********************
+
+*** Cambodia ***
+Region: Asia
+1 city: Phnom Penh
+Tiers: II: 1, III: 2
+Rating: 10 (40.0% uncompleted)
+
+*** Phnom Penh ***
+Country: Cambodia
+Region: Asia
+3 towers: Morgan Tower, Vattanac Capital, OCIC Tower
+Tiers: II: 1, III: 2
+Rating: 10 (40.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17

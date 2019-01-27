@@ -1,0 +1,41 @@
+*** Stuttgart (3) ***
+1. LBBW-Hochhaus, 79m
+2. Skyline, 75m
+3. Millennium Hotel & Resort, 75m
+
+******************** DETAILS ********************
+
+*** Stuttgart ***
+Country: Germany
+Region: Europe
+3 towers: LBBW-Hochhaus, Skyline, Millennium Hotel & Resort
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** LBBW-Hochhaus ***
+Height: 79
+Floors: 18
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 1
+
+*** Skyline ***
+Height: 75
+Floors: 20
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / hotel
+Rank: 2
+
+*** Millennium Hotel & Resort ***
+Height: 75
+Floors: 17
+Status: Completed
+Started: 1993
+Completed: 1995
+Functions: hotel
+Rank: 3

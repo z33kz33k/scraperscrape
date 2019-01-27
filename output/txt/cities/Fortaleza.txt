@@ -1,0 +1,1339 @@
+*** Fortaleza (146) ***
+1.   Palatium Residencial Meireles, 108m
+2.   Torre Santos Dumont, 96m
+3.   Torre Office, 95m
+4.   Torre Sa�de, 95m
+5.   Edifício Cidade, 95m
+6.   Tom Jobim, 93m
+7.   Vinicius de Moraes, 93m
+8.   Beira Mar Trade Center, 90m
+9.   Sky Tower, 90m
+10.  Edifício Murano, 88m
+11.  Amazonas Residencial, 88m
+12.  Edifício Maurice Ravel, 88m
+13.  Sanford Condominium, 88m
+14.  Mansão Macêdo, 86m
+15.  Diego de Lepe, 86m
+16.  Vicente Pinzón, 86m
+17.  Edifício Casa Rosa, 85m
+18.  Paço das Águas, 85m
+19.  Beira Mar 2020, 85m
+20.  Atrium, 85m
+21.  Vila Ideal, 84m
+22.  Parati, 84m
+23.  The Palace Condominium, 83m
+24.  Iracema Residence Service, 83m
+25.  Vitral dos Mares, 83m
+26.  Portal das Marés, 83m
+27.  Coast/Sea Tower, 83m
+28.  Edifício Piemont, 82m
+29.  Central Park Business, 82m
+30.  Ocean Tower, 82m
+31.  Bougainville Du Parc, 82m
+32.  Flamboyant Du Parc, 82m
+33.  Lis Du Parc, 82m
+34.  Tulipe Du Parc, 82m
+35.  Edifício Patrícia, 82m
+36.  Edifício Stella, 82m
+37.  Le Parc Residence, 82m
+38.  Zaragozza, 82m
+39.  Centro Empresarial Clóvis Rolim, 82m
+40.  Paço Verde - Torre das Árvores, 82m
+41.  Paço Verde - Torre das Flores, 82m
+42.  Humberto Santana Business, 82m
+43.  Ocean Drive, 81m
+44.  Libanus Condominium, 81m
+45.  Manhattan Center, 81m
+46.  Costa do Mar Hotel, 81m
+47.  Blue Ocean Flat, 81m
+48.  Fioreto Home Club, 81m
+49.  Terraço do Atlântico, 81m
+50.  Paul Gauguin, 81m
+51.  Ocean Palace, 80m
+52.  Burle Marx, 80m
+53.  Forest Park, 80m
+54.  San Gennaro, 80m
+55.  Ocean View Residence, 80m
+56.  The Place Condominium, 80m
+57.  Edifício Vivence, 80m
+58.  Saquarema, 80m
+59.  Jardim Europa Condominium, 80m
+60.  Residencial Carlos Vasconcelos, 80m
+61.  Casablanca Condominium, 80m
+62.  Highland, 79m
+63.  Montebello, 79m
+64.  Terranova, 79m
+65.  Via Veneto Condominium, 79m
+66.  Vivenda Meireles, 79m
+67.  Santiago de Compostela, 79m
+68.  Jardins de Atlântida Torre 1, 79m
+69.  Jardins de Atlântida Torre 2, 79m
+70.  Portal da Volta, 79m
+71.  Fernando Silveira, 79m
+72.  Plaza de Aníbal, 79m
+73.  Plaza de Aníbal Torre 2, 79m
+74.  Delos, 79m
+75.  Palazzo Residence, 79m
+76.  Palazzo Positano, 79m
+77.  Terrasse, 79m
+78.  Amazônia, 78m
+79.  Praia Mansa, 78m
+80.  Vila Verde, 78m
+81.  Arvoredo Condomínio Clube 1, 78m
+82.  Arvoredo Condomínio Clube 2, 78m
+83.  Maximum Residence, 78m
+84.  Cristal X, 78m
+85.  Enseada do Mucuripe Torre 1, 78m
+86.  Enseada do Mucuripe Torre 2, 78m
+87.  Mar & Mar, 78m
+88.  Fontana de Trevi, 78m
+89.  Renaissance Condominium - Da Vinci, 78m
+90.  Renaissance Condominium - Michelangelo, 78m
+91.  Lumni, 78m
+92.  Solar Volta da Jurema, 78m
+93.  Torre Acqua, 78m
+94.  Torre Aria, 78m
+95.  Victor IX, 78m
+96.  Villa Sonata, 78m
+97.  Ícone, 78m
+98.  Centurion Business Center, 78m
+99.  LC Corporate Green Tower, 78m
+100. Athenas Condominium 1, 77m
+101. Athenas Condominium 2, 77m
+102. Maison Karine, 77m
+103. Vila Montalcino, 77m
+104. Vila Formosa, 77m
+105. Etevaldo Nogueira Business, 77m
+106. Palladium, 77m
+107. San Carlo, 77m
+108. Office Plaza Business Center, 77m
+109. José Cabral Residence, 77m
+110. Loft Praia, 76m
+111. Edifício Degas, 76m
+112. Enseada de Iracema, 76m
+113. Varandas do Irapuan, 76m
+114. The Loft, 76m
+115. Vintage Meireles, 76m
+116. Bernine & Rodin, 76m
+117. Edifício Victória Park, 76m
+118. Torre Netuno, 76m
+119. Torre Zeus, 76m
+120. Port Ideal, 76m
+121. San Pietro, 76m
+122. Villa Firenze, 76m
+123. Studio 1, 76m
+124. San Sebastian, 76m
+125. Catamarã, 76m
+126. Atlantis Beira Mar, 76m
+127. Seara Praia Hotel, 76m
+128. Parque Stella Maris, 76m
+129. Reserva Stella Maris, 76m
+130. Villa Damasco, 76m
+131. Portal da Natureza, 76m
+132. Quality Hotel Fortaleza, 75m
+133. Costa Mare, 75m
+134. Vila Monte Carlo, 75m
+135. Beach Class Fortaleza - Torre 1, 75m
+136. Beach Class Fortaleza - Torre 2, 75m
+137. Beach Class Fortaleza - Torre 3, 75m
+138. Monticelli Residenziale, 75m
+139. Vintage Aldeota, 75m
+140. Maison Isabel, 75m
+141. Marées, 75m
+142. Office 13 de Maio, 75m
+143. Portal do Canadá I, 75m
+144. Portal do Canadá II, 75m
+145. Place des Cysne, 75m
+
+******************** DETAILS ********************
+
+*** Fortaleza ***
+Country: Brazil
+Region: South America
+145 towers: Palatium Residencial Meireles, Torre Santos Dumont, Torre Office, Torre Sa�de, Edifício Cidade, Tom Jobim, Vinicius de Moraes, Beira Mar Trade Center, Sky Tower, Edifício Murano, Amazonas Residencial, Edifício Maurice Ravel, Sanford Condominium, Mansão Macêdo, Diego de Lepe, Vicente Pinzón, Edifício Casa Rosa, Paço das Águas, Beira Mar 2020, Atrium, Vila Ideal, Parati, The Palace Condominium, Iracema Residence Service, Vitral dos Mares, Portal das Marés, Coast/Sea Tower, Edifício Piemont, Central Park Business, Ocean Tower, Bougainville Du Parc, Flamboyant Du Parc, Lis Du Parc, Tulipe Du Parc, Edifício Patrícia, Edifício Stella, Le Parc Residence, Zaragozza, Centro Empresarial Clóvis Rolim, Paço Verde - Torre das Árvores, Paço Verde - Torre das Flores, Humberto Santana Business, Ocean Drive, Libanus Condominium, Manhattan Center, Costa do Mar Hotel, Blue Ocean Flat, Fioreto Home Club, Terraço do Atlântico, Paul Gauguin, Ocean Palace, Burle Marx, Forest Park, San Gennaro, Ocean View Residence, The Place Condominium, Edifício Vivence, Saquarema, Jardim Europa Condominium, Residencial Carlos Vasconcelos, Casablanca Condominium, Highland, Montebello, Terranova, Via Veneto Condominium, Vivenda Meireles, Santiago de Compostela, Jardins de Atlântida Torre 1, Jardins de Atlântida Torre 2, Portal da Volta, Fernando Silveira, Plaza de Aníbal, Plaza de Aníbal Torre 2, Delos, Palazzo Residence, Palazzo Positano, Terrasse, Amazônia, Praia Mansa, Vila Verde, Arvoredo Condomínio Clube 1, Arvoredo Condomínio Clube 2, Maximum Residence, Cristal X, Enseada do Mucuripe Torre 1, Enseada do Mucuripe Torre 2, Mar & Mar, Fontana de Trevi, Renaissance Condominium - Da Vinci, Renaissance Condominium - Michelangelo, Lumni, Solar Volta da Jurema, Torre Acqua, Torre Aria, Victor IX, Villa Sonata, Ícone, Centurion Business Center, LC Corporate Green Tower, Athenas Condominium 1, Athenas Condominium 2, Maison Karine, Vila Montalcino, Vila Formosa, Etevaldo Nogueira Business, Palladium, San Carlo, Office Plaza Business Center, José Cabral Residence, Loft Praia, Edifício Degas, Enseada de Iracema, Varandas do Irapuan, The Loft, Vintage Meireles, Bernine & Rodin, Edifício Victória Park, Torre Netuno, Torre Zeus, Port Ideal, San Pietro, Villa Firenze, Studio 1, San Sebastian, Catamarã, Atlantis Beira Mar, Seara Praia Hotel, Parque Stella Maris, Reserva Stella Maris, Villa Damasco, Portal da Natureza, Quality Hotel Fortaleza, Costa Mare, Vila Monte Carlo, Beach Class Fortaleza - Torre 1, Beach Class Fortaleza - Torre 2, Beach Class Fortaleza - Torre 3, Monticelli Residenziale, Vintage Aldeota, Maison Isabel, Marées, Office 13 de Maio, Portal do Canadá I, Portal do Canadá II, Place des Cysne
+Tiers: I: 144, II: 1
+Rating: 146 (1.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Palatium Residencial Meireles ***
+Height: 107.62
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 1
+
+*** Torre Santos Dumont ***
+Height: 96
+Floors: 21
+Status: Completed
+Started: 1997
+Completed: 2002
+Functions: office
+Rank: 2
+
+*** Torre Office ***
+Height: 95.23
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 3
+
+*** Torre Sa�de ***
+Height: 95.23
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: hospital
+Rank: 3
+
+*** Edifício Cidade ***
+Height: 95
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential / residential
+Rank: 5
+
+*** Tom Jobim ***
+Height: 92.6
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 6
+
+*** Vinicius de Moraes ***
+Height: 92.6
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 6
+
+*** Beira Mar Trade Center ***
+Height: 90.25
+Floors: 27
+Status: Completed
+Completed: 1995
+Functions: office / office
+Rank: 8
+
+*** Sky Tower ***
+Height: 90
+Floors: 30
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 9
+
+*** Edifício Murano ***
+Height: 87.75
+Floors: 24
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 10
+
+*** Amazonas Residencial ***
+Height: 87.5
+Floors: 29
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 11
+
+*** Edifício Maurice Ravel ***
+Height: 87.5
+Floors: 27
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 12
+
+*** Sanford Condominium ***
+Height: 87.5
+Floors: 24
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 13
+
+*** Mansão Macêdo ***
+Height: 86.5
+Floors: 24
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 14
+
+*** Diego de Lepe ***
+Height: 86.25
+Floors: 25
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 15
+
+*** Vicente Pinzón ***
+Height: 86.25
+Floors: 25
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 15
+
+*** Edifício Casa Rosa ***
+Height: 85.4
+Floors: 24
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 17
+
+*** Paço das Águas ***
+Height: 85
+Floors: 25
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 18
+
+*** Beira Mar 2020 ***
+Height: 84.9
+Floors: 24
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 19
+
+*** Atrium ***
+Height: 84.75
+Floors: 24
+Status: Completed
+Started: 2003
+Completed: 2010
+Functions: residential
+Rank: 20
+
+*** Vila Ideal ***
+Height: 84.5
+Floors: 23
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 21
+
+*** Parati ***
+Height: 84
+Floors: 25
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 22
+
+*** The Palace Condominium ***
+Height: 83.2
+Floors: 24
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 23
+
+*** Iracema Residence Service ***
+Height: 83
+Floors: 24
+Status: Completed
+Completed: 1991
+Functions: hotel
+Rank: 24
+
+*** Vitral dos Mares ***
+Height: 82.9
+Floors: 25
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 25
+
+*** Portal das Marés ***
+Height: 82.9
+Floors: 24
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 26
+
+*** Coast/Sea Tower ***
+Height: 82.6
+Floors: 28
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 27
+
+*** Edifício Piemont ***
+Height: 82.3
+Floors: 25
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 28
+
+*** Central Park Business ***
+Height: 82.3
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 29
+
+*** Ocean Tower ***
+Height: 82.3
+Floors: 24
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 29
+
+*** Bougainville Du Parc ***
+Height: 82.27
+Floors: 26
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 31
+
+*** Flamboyant Du Parc ***
+Height: 82.27
+Floors: 26
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 31
+
+*** Lis Du Parc ***
+Height: 82.27
+Floors: 26
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 31
+
+*** Tulipe Du Parc ***
+Height: 82.27
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 31
+
+*** Edifício Patrícia ***
+Height: 82
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 35
+
+*** Edifício Stella ***
+Height: 82
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 35
+
+*** Le Parc Residence ***
+Height: 82
+Floors: 25
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 35
+
+*** Zaragozza ***
+Height: 82
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 38
+
+*** Centro Empresarial Clóvis Rolim ***
+Height: 82
+Floors: 22
+Status: Completed
+Started: 1984
+Completed: 1988
+Functions: office
+Rank: 39
+
+*** Paço Verde - Torre das Árvores ***
+Height: 81.7
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 40
+
+*** Paço Verde - Torre das Flores ***
+Height: 81.7
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 40
+
+*** Humberto Santana Business ***
+Height: 81.5
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 42
+
+*** Ocean Drive ***
+Height: 81.4
+Floors: 25
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 43
+
+*** Libanus Condominium ***
+Height: 81.4
+Floors: 24
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 44
+
+*** Manhattan Center ***
+Height: 81.4
+Floors: 23
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 45
+
+*** Costa do Mar Hotel ***
+Height: 81
+Floors: 27
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 46
+
+*** Blue Ocean Flat ***
+Height: 81
+Floors: 25
+Status: Completed
+Completed: 1999
+Functions: hotel
+Rank: 47
+
+*** Fioreto Home Club ***
+Height: 81
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 47
+
+*** Terraço do Atlântico ***
+Height: 81
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 47
+
+*** Paul Gauguin ***
+Height: 80.75
+Floors: 24
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 50
+
+*** Ocean Palace ***
+Height: 80.5
+Floors: 26
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 51
+
+*** Burle Marx ***
+Height: 80.5
+Floors: 25
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 52
+
+*** Forest Park ***
+Height: 80.5
+Floors: 25
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 52
+
+*** San Gennaro ***
+Height: 80.5
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 52
+
+*** Ocean View Residence ***
+Height: 80.2
+Floors: 25
+Status: Completed
+Completed: 1996
+Functions: hotel / retail
+Rank: 55
+
+*** The Place Condominium ***
+Height: 80
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 56
+
+*** Edifício Vivence ***
+Height: 80
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 57
+
+*** Saquarema ***
+Height: 80
+Floors: 24
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: residential
+Rank: 57
+
+*** Jardim Europa Condominium ***
+Height: 79.56
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 59
+
+*** Residencial Carlos Vasconcelos ***
+Height: 79.5
+Floors: 25
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 60
+
+*** Casablanca Condominium ***
+Height: 79.5
+Floors: 24
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 61
+
+*** Highland ***
+Height: 79.25
+Floors: 26
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 62
+
+*** Montebello ***
+Height: 79.25
+Floors: 26
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 62
+
+*** Terranova ***
+Height: 79.25
+Floors: 25
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 64
+
+*** Via Veneto Condominium ***
+Height: 79.25
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 64
+
+*** Vivenda Meireles ***
+Height: 79.25
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 64
+
+*** Santiago de Compostela ***
+Height: 79.25
+Floors: 24
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 67
+
+*** Jardins de Atlântida Torre 1 ***
+Height: 79
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 68
+
+*** Jardins de Atlântida Torre 2 ***
+Height: 79
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 68
+
+*** Portal da Volta ***
+Height: 79
+Floors: 24
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 70
+
+*** Fernando Silveira ***
+Height: 79
+Floors: 23
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential
+Rank: 71
+
+*** Plaza de Aníbal ***
+Height: 79
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 71
+
+*** Plaza de Aníbal Torre 2 ***
+Height: 79
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 71
+
+*** Delos ***
+Height: 78.98
+Floors: 24
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 74
+
+*** Palazzo Residence ***
+Height: 78.98
+Floors: 24
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 74
+
+*** Palazzo Positano ***
+Height: 78.6
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 76
+
+*** Terrasse ***
+Height: 78.6
+Floors: 25
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 76
+
+*** Amazônia ***
+Height: 78.33
+Floors: 25
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 78
+
+*** Praia Mansa ***
+Height: 78.33
+Floors: 24
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: residential
+Rank: 79
+
+*** Vila Verde ***
+Height: 78.3
+Floors: 25
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 80
+
+*** Arvoredo Condomínio Clube 1 ***
+Height: 78.3
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 81
+
+*** Arvoredo Condomínio Clube 2 ***
+Height: 78.3
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 81
+
+*** Maximum Residence ***
+Height: 78.3
+Floors: 24
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 81
+
+*** Cristal X ***
+Height: 78.3
+Floors: 23
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 84
+
+*** Enseada do Mucuripe Torre 1 ***
+Height: 78
+Floors: 27
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 85
+
+*** Enseada do Mucuripe Torre 2 ***
+Height: 78
+Floors: 27
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 85
+
+*** Mar & Mar ***
+Height: 78
+Floors: 25
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 87
+
+*** Fontana de Trevi ***
+Height: 78
+Floors: 24
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 88
+
+*** Renaissance Condominium - Da Vinci ***
+Height: 78
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 88
+
+*** Renaissance Condominium - Michelangelo ***
+Height: 78
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 88
+
+*** Lumni ***
+Height: 78
+Floors: 23
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 91
+
+*** Solar Volta da Jurema ***
+Height: 78
+Floors: 21
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 92
+
+*** Torre Acqua ***
+Height: 77.75
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 93
+
+*** Torre Aria ***
+Height: 77.75
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 93
+
+*** Victor IX ***
+Height: 77.75
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 93
+
+*** Villa Sonata ***
+Height: 77.75
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 93
+
+*** Ícone ***
+Height: 77.5
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 97
+
+*** Centurion Business Center ***
+Height: 77.5
+Floors: 23
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 98
+
+*** LC Corporate Green Tower ***
+Height: 77.5
+Floors: 21
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 99
+
+*** Athenas Condominium 1 ***
+Height: 77
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 100
+
+*** Athenas Condominium 2 ***
+Height: 77
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 100
+
+*** Maison Karine ***
+Height: 77
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 100
+
+*** Vila Montalcino ***
+Height: 77
+Floors: 24
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 100
+
+*** Vila Formosa ***
+Height: 77
+Floors: 23
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 104
+
+*** Etevaldo Nogueira Business ***
+Height: 77
+Floors: 22
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 105
+
+*** Palladium ***
+Height: 76.8
+Floors: 25
+Status: Completed
+Started: 1993
+Completed: 1997
+Functions: residential
+Rank: 106
+
+*** San Carlo ***
+Height: 76.8
+Floors: 25
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 106
+
+*** Office Plaza Business Center ***
+Height: 76.8
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: office
+Rank: 108
+
+*** José Cabral Residence ***
+Height: 76.8
+Floors: 23
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 109
+
+*** Loft Praia ***
+Height: 76.5
+Floors: 27
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 110
+
+*** Edifício Degas ***
+Height: 76.5
+Floors: 24
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 111
+
+*** Enseada de Iracema ***
+Height: 76.5
+Floors: 24
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 111
+
+*** Varandas do Irapuan ***
+Height: 76.5
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 111
+
+*** The Loft ***
+Height: 76.5
+Floors: 23
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 114
+
+*** Vintage Meireles ***
+Height: 76.2
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 115
+
+*** Bernine & Rodin ***
+Height: 76.2
+Floors: 24
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 116
+
+*** Edifício Victória Park ***
+Height: 76.2
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 116
+
+*** Torre Netuno ***
+Height: 76.2
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 116
+
+*** Torre Zeus ***
+Height: 76.2
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 116
+
+*** Port Ideal ***
+Height: 76.2
+Floors: 23
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 120
+
+*** San Pietro ***
+Height: 76.2
+Floors: 23
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 120
+
+*** Villa Firenze ***
+Height: 76.2
+Floors: 23
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 120
+
+*** Studio 1 ***
+Height: 76.2
+Floors: 22
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 123
+
+*** San Sebastian ***
+Height: 75.9
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 124
+
+*** Catamarã ***
+Height: 75.69
+Floors: 23
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 125
+
+*** Atlantis Beira Mar ***
+Height: 75.6
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 126
+
+*** Seara Praia Hotel ***
+Height: 75.6
+Floors: 25
+Status: Completed
+Completed: 1993
+Functions: hotel
+Rank: 126
+
+*** Parque Stella Maris ***
+Height: 75.6
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 128
+
+*** Reserva Stella Maris ***
+Height: 75.6
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 128
+
+*** Villa Damasco ***
+Height: 75.6
+Floors: 24
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 128
+
+*** Portal da Natureza ***
+Height: 75.6
+Floors: 23
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 131
+
+*** Quality Hotel Fortaleza ***
+Height: 75.3
+Floors: 25
+Status: Completed
+Completed: 2001
+Functions: hotel
+Rank: 132
+
+*** Costa Mare ***
+Height: 75.25
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 133
+
+*** Vila Monte Carlo ***
+Height: 75.25
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 133
+
+*** Beach Class Fortaleza - Torre 1 ***
+Height: 75.25
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential / hotel
+Rank: 135
+
+*** Beach Class Fortaleza - Torre 2 ***
+Height: 75.25
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential / hotel
+Rank: 135
+
+*** Beach Class Fortaleza - Torre 3 ***
+Height: 75.25
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential / hotel
+Rank: 135
+
+*** Monticelli Residenziale ***
+Height: 75.25
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 135
+
+*** Vintage Aldeota ***
+Height: 75.25
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 135
+
+*** Maison Isabel ***
+Height: 75.25
+Floors: 23
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 140
+
+*** Marées ***
+Height: 75.25
+Floors: 23
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 140
+
+*** Office 13 de Maio ***
+Height: 75.25
+Floors: 23
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 140
+
+*** Portal do Canadá I ***
+Height: 75.25
+Floors: 23
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 140
+
+*** Portal do Canadá II ***
+Height: 75.25
+Floors: 23
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 140
+
+*** Place des Cysne ***
+Height: 75
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 145

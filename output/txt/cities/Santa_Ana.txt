@@ -1,0 +1,30 @@
+*** Santa Ana (2) ***
+1. Essex Skyline North Tower, 82m
+2. Essex Skyline South Tower, 82m
+
+******************** DETAILS ********************
+
+*** Santa Ana ***
+Country: United States
+Region: North America
+2 towers: Essex Skyline North Tower, Essex Skyline South Tower
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Essex Skyline North Tower ***
+Height: 82.3
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** Essex Skyline South Tower ***
+Height: 82.3
+Floors: 25
+Status: Completed
+Started: 2009
+Functions: residential
+Rank: 1

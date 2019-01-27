@@ -1,0 +1,276 @@
+*** Wuxi (127) ***
+1.  Wuxi International Finance Square, 339m
+2.  Longxi International Hotel, 328m
+3.  Wuxi Suning Plaza 1, 328m
+4.  Wuxi Maoye City - Marriott Hotel, 304m
+5.  Heilan Fortune Center, 258m
+6.  Center 66 Office 1, 250m
+7.  Yunfu Tower, 249m
+8.  RunHua International Building, 248m
+9.  Hongdou International Plaza, 248m
+10. Jiangyin Chengxing Square, 242m
+11. Moresky 360, 209m
+12. Kempinski Hotel, 206m
+13. Center 66 Office 2, 200m
+14. Jiangyin Howard Johnson International Apartment, 188m
+15. Wuxi Suning Plaza 2, 183m
+16. Intercontinental Hotel Wuxi, 180m
+17. Shanghai Center 1, 167m
+18. Shanghai Center 2, 167m
+19. First International 1, 165m
+20. Xi Sui Dong 1, 158m
+21. Xi Sui Dong 2, 158m
+22. First International 2, 150m
+23. Guamai Tower, 145m
+24. Wuxi Camphor Wood Plot 2-5, 142m
+25. Huaguang Building, 141m
+26. Wuxi Camphor Wood Plot 2-6 Tower 2, 134m
+27. Wuxi Comphor Wood Plot 2-6 Tower 1, 115m
+28. Wuxi Medical Center, 80m
+
+******************** DETAILS ********************
+
+*** Wuxi ***
+Country: China
+Region: Asia
+28 towers: Wuxi International Finance Square, Longxi International Hotel, Wuxi Suning Plaza 1, Wuxi Maoye City - Marriott Hotel, Heilan Fortune Center, Center 66 Office 1, Yunfu Tower, RunHua International Building, Hongdou International Plaza, Jiangyin Chengxing Square, Moresky 360, Kempinski Hotel, Center 66 Office 2, Jiangyin Howard Johnson International Apartment, Wuxi Suning Plaza 2, Intercontinental Hotel Wuxi, Shanghai Center 1, Shanghai Center 2, First International 1, Xi Sui Dong 1, Xi Sui Dong 2, First International 2, Guamai Tower, Wuxi Camphor Wood Plot 2-5, Huaguang Building, Wuxi Camphor Wood Plot 2-6 Tower 2, Wuxi Comphor Wood Plot 2-6 Tower 1, Wuxi Medical Center
+Tiers: I: 1, II: 5, III: 12, IV: 6, V: 4
+Rating: 127 (9.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wuxi International Finance Square ***
+Height: 339
+Floors: 68
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: hotel / office
+Rank: 1
+
+*** Longxi International Hotel ***
+Height: 328
+Floors: 72
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / hotel
+Rank: 2
+
+*** Wuxi Suning Plaza 1 ***
+Height: 328
+Floors: 67
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel / serviced apartments / office
+Rank: 3
+
+*** Wuxi Maoye City - Marriott Hotel ***
+Height: 303.8
+Floors: 68
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: hotel
+Rank: 4
+
+*** Heilan Fortune Center ***
+Height: 258
+Floors: 59
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 5
+
+*** Center 66 Office 1 ***
+Height: 250
+Floors: 44
+Status: Completed
+Completed: 2014
+Functions: office / retail
+Rank: 6
+
+*** Yunfu Tower ***
+Height: 249
+Floors: 53
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 7
+
+*** RunHua International Building ***
+Height: 248
+Floors: 55
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / hotel / office
+Rank: 8
+
+*** Hongdou International Plaza ***
+Height: 248
+Floors: 45
+Status: Completed
+Completed: 2009
+Functions: residential / office
+Rank: 9
+
+*** Jiangyin Chengxing Square ***
+Height: 242
+Floors: 51
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: hotel
+Rank: 10
+
+*** Moresky 360 ***
+Height: 209
+Floors: 48
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: hotel / office
+Rank: 11
+
+*** Kempinski Hotel ***
+Height: 206
+Floors: 50
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 12
+
+*** Center 66 Office 2 ***
+Height: 200
+Floors: 34
+Status: Under Construction
+Started: 2009
+Functions: office
+Rank: 13
+
+*** Jiangyin Howard Johnson International Apartment ***
+Height: 188
+Floors: 39
+Status: Completed
+Completed: 2012
+Functions: residential / hotel
+Rank: 14
+
+*** Wuxi Suning Plaza 2 ***
+Height: 183
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 15
+
+*** Intercontinental Hotel Wuxi ***
+Height: 180
+Floors: 36
+Status: Completed
+Completed: 2011
+Functions: hotel
+Rank: 16
+
+*** Shanghai Center 1 ***
+Height: 167
+Floors: 42
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: hotel / office
+Rank: 17
+
+*** Shanghai Center 2 ***
+Height: 167
+Floors: 42
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: hotel / office
+Rank: 17
+
+*** First International 1 ***
+Height: 165
+Floors: 55
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 19
+
+*** Xi Sui Dong 1 ***
+Height: 158.3
+Floors: 49
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 20
+
+*** Xi Sui Dong 2 ***
+Height: 158.3
+Floors: 49
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 20
+
+*** First International 2 ***
+Height: 150
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 22
+
+*** Guamai Tower ***
+Height: 145
+Floors: 33
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 23
+
+*** Wuxi Camphor Wood Plot 2-5 ***
+Height: 142.5
+Floors: 44
+Status: Under Construction
+Functions: residential
+Rank: 24
+
+*** Huaguang Building ***
+Height: 141
+Floors: 39
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 25
+
+*** Wuxi Camphor Wood Plot 2-6 Tower 2 ***
+Height: 134.05
+Floors: 40
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 26
+
+*** Wuxi Comphor Wood Plot 2-6 Tower 1 ***
+Height: 115.15
+Floors: 34
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 27
+
+*** Wuxi Medical Center ***
+Height: 80.5
+Floors: 20
+Status: Completed
+Completed: 2007
+Functions: hospital
+Rank: 28

@@ -1,0 +1,20 @@
+*** Coquitlam (1) ***
+1. Evergreen, 86m
+
+******************** DETAILS ********************
+
+*** Coquitlam ***
+Country: Canada
+Region: North America
+1 tower: Evergreen
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Evergreen ***
+Height: 85.65
+Floors: 28
+Status: Completed
+Completed: 2015
+Functions: residential / office
+Rank: 1

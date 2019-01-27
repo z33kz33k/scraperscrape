@@ -1,0 +1,20 @@
+*** Los Barrios (1) ***
+1. Torres de Hercules, 101m
+
+******************** DETAILS ********************
+
+*** Los Barrios ***
+Country: Spain
+Region: Europe
+1 tower: Torres de Hercules
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torres de Hercules ***
+Height: 100.6
+Floors: 21
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 1

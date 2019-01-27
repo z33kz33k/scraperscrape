@@ -1,0 +1,705 @@
+*** Yulin (79) ***
+1.  Yulin Tianyuan Emerald International, 192m
+2.  Yulin Beiliu Tianhe Fortune Square, 158m
+3.  Yulin Yun Temple, 108m
+4.  Yuchai Building, 100m
+5.  Yulin Yongli Square Happiness A, 100m
+6.  Yulin Yongli Square Happiness B, 100m
+7.  Zhongding Park Holiday B1, 100m
+8.  Zhongding Park Holiday B2, 100m
+9.  Zhongding Park Holiday B3, 100m
+10. Zhongding Park Holiday B5, 100m
+11. Zhongding Park Holiday B6, 100m
+12. Zhongding Park Holiday B7, 100m
+13. Zhongding Park Holiday B8, 100m
+14. Zhongding Park Holiday A1, 100m
+15. Zhongding Park Holiday A2, 100m
+16. Zhongding Park Holiday A3, 100m
+17. Huashang International #18, 100m
+18. Huashang International #19, 100m
+19. Huashang International #20, 100m
+20. Sofitel Yulin Everbright International Hotel, 100m
+21. Tianhu. Yulin Bay #1, 100m
+22. Tianhu. Yulin Bay #2, 100m
+23. Huashang International #2, 100m
+24. Huashang International #4, 100m
+25. Huashang International #5-6-7, 100m
+26. Hengda Dragon Court #1, 99m
+27. Hengda Dragon Court #2, 99m
+28. Zhongding Park Holiday B10, 99m
+29. Zhongding Park Holiday B11, 99m
+30. Zhongding Park Holiday B12, 99m
+31. Zhongding Park Holiday B13, 99m
+32. Huashang International #3, 99m
+33. Tianhu. Yulin Bay #10, 98m
+34. Tianhu. Yulin Bay #11, 98m
+35. Tianhu. Yulin Bay #12, 98m
+36. Tianhu. Yulin Bay #13-14, 98m
+37. Tianhu. Yulin Bay #15, 98m
+38. Tianhu. Yulin Bay #16, 98m
+39. Tianhu. Yulin Bay #17-18, 98m
+40. Tianhu. Yulin Bay #19, 98m
+41. Tianhu. Yulin Bay #20, 98m
+42. Tianhu. Yulin Bay #21, 98m
+43. Tianhu. Yulin Bay #3, 98m
+44. Tianhu. Yulin Bay #4, 98m
+45. Tianhu. Yulin Bay #5, 98m
+46. Tianhu. Yulin Bay #6, 98m
+47. Tianhu. Yulin Bay #7, 98m
+48. Tianhu. Yulin Bay #9, 98m
+49. Hengda Dragon Court #3, 96m
+50. Hengda Dragon Court #4, 96m
+51. Tianhu. Yulin Bay #8, 95m
+52. Zhongding Park Holiday B16, 94m
+53. Zhongding Park Holiday B17, 94m
+54. Zhongding Park Holiday B19, 94m
+55. Zhongding Park Holiday B20, 94m
+56. Zhongding Park Holiday B21, 94m
+57. Aofeng International A, 89m
+58. Aofeng International B-C, 89m
+59. Aofeng International D-E, 89m
+60. Zhongding Park Holiday B15, 88m
+61. Zhongding Park Holiday B18, 88m
+62. Zhongding Park Holiday B22, 88m
+63. Zhongding Park Holiday B9, 88m
+64. Yuehai Times New City #8, 81m
+65. Yuehai Times New City #6, 81m
+66. Yuehai Times New City #9, 81m
+67. Yuehai Times New City #3, 81m
+68. Yuehai Times New City #5, 81m
+69. Huashang International #14, 81m
+70. Huashang International #15, 81m
+71. Yuehai Times New City #2, 80m
+72. Yuehai Times New City #1, 79m
+
+******************** DETAILS ********************
+
+*** Yulin ***
+Country: China
+Region: Asia
+72 towers: Yulin Tianyuan Emerald International, Yulin Beiliu Tianhe Fortune Square, Yulin Yun Temple, Yuchai Building, Yulin Yongli Square Happiness A, Yulin Yongli Square Happiness B, Zhongding Park Holiday B1, Zhongding Park Holiday B2, Zhongding Park Holiday B3, Zhongding Park Holiday B5, Zhongding Park Holiday B6, Zhongding Park Holiday B7, Zhongding Park Holiday B8, Zhongding Park Holiday A1, Zhongding Park Holiday A2, Zhongding Park Holiday A3, Huashang International #18, Huashang International #19, Huashang International #20, Sofitel Yulin Everbright International Hotel, Tianhu. Yulin Bay #1, Tianhu. Yulin Bay #2, Huashang International #2, Huashang International #4, Huashang International #5-6-7, Hengda Dragon Court #1, Hengda Dragon Court #2, Zhongding Park Holiday B10, Zhongding Park Holiday B11, Zhongding Park Holiday B12, Zhongding Park Holiday B13, Huashang International #3, Tianhu. Yulin Bay #10, Tianhu. Yulin Bay #11, Tianhu. Yulin Bay #12, Tianhu. Yulin Bay #13-14, Tianhu. Yulin Bay #15, Tianhu. Yulin Bay #16, Tianhu. Yulin Bay #17-18, Tianhu. Yulin Bay #19, Tianhu. Yulin Bay #20, Tianhu. Yulin Bay #21, Tianhu. Yulin Bay #3, Tianhu. Yulin Bay #4, Tianhu. Yulin Bay #5, Tianhu. Yulin Bay #6, Tianhu. Yulin Bay #7, Tianhu. Yulin Bay #9, Hengda Dragon Court #3, Hengda Dragon Court #4, Tianhu. Yulin Bay #8, Zhongding Park Holiday B16, Zhongding Park Holiday B17, Zhongding Park Holiday B19, Zhongding Park Holiday B20, Zhongding Park Holiday B21, Aofeng International A, Aofeng International B-C, Aofeng International D-E, Zhongding Park Holiday B15, Zhongding Park Holiday B18, Zhongding Park Holiday B22, Zhongding Park Holiday B9, Yuehai Times New City #8, Yuehai Times New City #6, Yuehai Times New City #9, Yuehai Times New City #3, Yuehai Times New City #5, Huashang International #14, Huashang International #15, Yuehai Times New City #2, Yuehai Times New City #1
+Tiers: I: 69, II: 1, III: 2
+Rating: 79 (21.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yulin Tianyuan Emerald International ***
+Height: 191.5
+Floors: 42
+Status: Under Construction
+Started: 2013
+Functions: office
+Rank: 1
+
+*** Yulin Beiliu Tianhe Fortune Square ***
+Height: 158
+Floors: 44
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office / hotel / residential
+Rank: 2
+
+*** Yulin Yun Temple ***
+Height: 108
+Floors: 21
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: religious
+Rank: 3
+
+*** Yuchai Building ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 4
+
+*** Yulin Yongli Square Happiness A ***
+Height: 100
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** Yulin Yongli Square Happiness B ***
+Height: 100
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** Zhongding Park Holiday B1 ***
+Height: 99.9
+Floors: 33
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 7
+
+*** Zhongding Park Holiday B2 ***
+Height: 99.9
+Floors: 33
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 7
+
+*** Zhongding Park Holiday B3 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 7
+
+*** Zhongding Park Holiday B5 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 7
+
+*** Zhongding Park Holiday B6 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 7
+
+*** Zhongding Park Holiday B7 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 7
+
+*** Zhongding Park Holiday B8 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Zhongding Park Holiday A1 ***
+Height: 99.9
+Floors: 27
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 14
+
+*** Zhongding Park Holiday A2 ***
+Height: 99.9
+Floors: 27
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 14
+
+*** Zhongding Park Holiday A3 ***
+Height: 99.9
+Floors: 27
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 14
+
+*** Huashang International #18 ***
+Height: 99.8
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 17
+
+*** Huashang International #19 ***
+Height: 99.8
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 17
+
+*** Huashang International #20 ***
+Height: 99.8
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 17
+
+*** Sofitel Yulin Everbright International Hotel ***
+Height: 99.7
+Floors: 26
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: hotel
+Rank: 20
+
+*** Tianhu. Yulin Bay #1 ***
+Height: 99.6
+Floors: 34
+Status: Completed
+Functions: residential
+Rank: 21
+
+*** Tianhu. Yulin Bay #2 ***
+Height: 99.6
+Floors: 34
+Status: Completed
+Functions: residential
+Rank: 21
+
+*** Huashang International #2 ***
+Height: 99.55
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 23
+
+*** Huashang International #4 ***
+Height: 99.55
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 23
+
+*** Huashang International #5-6-7 ***
+Height: 99.55
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 23
+
+*** Hengda Dragon Court #1 ***
+Height: 99.3
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 26
+
+*** Hengda Dragon Court #2 ***
+Height: 99.3
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 26
+
+*** Zhongding Park Holiday B10 ***
+Height: 98.9
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 28
+
+*** Zhongding Park Holiday B11 ***
+Height: 98.9
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 28
+
+*** Zhongding Park Holiday B12 ***
+Height: 98.9
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 28
+
+*** Zhongding Park Holiday B13 ***
+Height: 98.9
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 28
+
+*** Huashang International #3 ***
+Height: 98.7
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 32
+
+*** Tianhu. Yulin Bay #10 ***
+Height: 98
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #11 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #12 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #13-14 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #15 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #16 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #17-18 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #19 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #20 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #21 ***
+Height: 98
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #3 ***
+Height: 98
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #4 ***
+Height: 98
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #5 ***
+Height: 98
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #6 ***
+Height: 98
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #7 ***
+Height: 98
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 33
+
+*** Tianhu. Yulin Bay #9 ***
+Height: 98
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 33
+
+*** Hengda Dragon Court #3 ***
+Height: 96.3
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 49
+
+*** Hengda Dragon Court #4 ***
+Height: 96.3
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 49
+
+*** Tianhu. Yulin Bay #8 ***
+Height: 95.2
+Floors: 34
+Status: Completed
+Functions: residential
+Rank: 51
+
+*** Zhongding Park Holiday B16 ***
+Height: 94.2
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 52
+
+*** Zhongding Park Holiday B17 ***
+Height: 94.2
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 52
+
+*** Zhongding Park Holiday B19 ***
+Height: 94.2
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 52
+
+*** Zhongding Park Holiday B20 ***
+Height: 94.2
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 52
+
+*** Zhongding Park Holiday B21 ***
+Height: 94.2
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 52
+
+*** Aofeng International A ***
+Height: 88.9
+Floors: 29
+Status: Structurally Topped Out
+Started: 2014
+Functions: residential
+Rank: 57
+
+*** Aofeng International B-C ***
+Height: 88.9
+Floors: 29
+Status: Structurally Topped Out
+Started: 2014
+Functions: residential
+Rank: 57
+
+*** Aofeng International D-E ***
+Height: 88.9
+Floors: 29
+Status: Structurally Topped Out
+Started: 2014
+Functions: residential
+Rank: 57
+
+*** Zhongding Park Holiday B15 ***
+Height: 88.2
+Floors: 29
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 60
+
+*** Zhongding Park Holiday B18 ***
+Height: 88.2
+Floors: 29
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 60
+
+*** Zhongding Park Holiday B22 ***
+Height: 88.2
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 60
+
+*** Zhongding Park Holiday B9 ***
+Height: 88.2
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 60
+
+*** Yuehai Times New City #8 ***
+Height: 81.2
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 64
+
+*** Yuehai Times New City #6 ***
+Height: 81.2
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 65
+
+*** Yuehai Times New City #9 ***
+Height: 81.2
+Floors: 19
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 66
+
+*** Yuehai Times New City #3 ***
+Height: 81.2
+Floors: 18
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 67
+
+*** Yuehai Times New City #5 ***
+Height: 81.2
+Floors: 18
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 67
+
+*** Huashang International #14 ***
+Height: 81.1
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 69
+
+*** Huashang International #15 ***
+Height: 81.1
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 69
+
+*** Yuehai Times New City #2 ***
+Height: 79.9
+Floors: 18
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 71
+
+*** Yuehai Times New City #1 ***
+Height: 79.1
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 72

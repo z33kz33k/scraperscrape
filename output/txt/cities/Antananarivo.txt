@@ -1,0 +1,21 @@
+*** Antananarivo (2) ***
+1. Orange Telecommunication Tower, 125m
+
+******************** DETAILS ********************
+
+*** Antananarivo ***
+Country: Madagascar
+Region: Africa
+1 tower: Orange Telecommunication Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Orange Telecommunication Tower ***
+Height: 125
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 1

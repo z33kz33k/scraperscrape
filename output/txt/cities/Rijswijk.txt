@@ -1,0 +1,48 @@
+*** Rijswijk (5) ***
+1. European Patent Office, 109m
+2. European Patent Office, 84m
+3. Sir Winston Churchill Tower, 82m
+4. Hoogvoorde, 80m
+
+******************** DETAILS ********************
+
+*** Rijswijk ***
+Country: Netherlands
+Region: Europe
+4 towers: European Patent Office, European Patent Office, Sir Winston Churchill Tower, Hoogvoorde
+Tiers: I: 3, II: 1
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:17
+
+*** European Patent Office ***
+Height: 108.8
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 1
+
+*** European Patent Office ***
+Height: 84
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 2
+
+*** Sir Winston Churchill Tower ***
+Height: 82
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 3
+
+*** Hoogvoorde ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 4

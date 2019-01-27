@@ -1,0 +1,20 @@
+*** Povoa de Varzim (1) ***
+1. Ed&iacute;ficio Nova P&oacute;voa, 84m
+
+******************** DETAILS ********************
+
+*** Povoa de Varzim ***
+Country: Portugal
+Region: Europe
+1 tower: Ed&iacute;ficio Nova P&oacute;voa
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ed&iacute;ficio Nova P&oacute;voa ***
+Height: 84
+Floors: 29
+Status: Completed
+Completed: 1980
+Functions: residential
+Rank: 1

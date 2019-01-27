@@ -1,0 +1,20 @@
+*** Denton (1) ***
+1. John A. Guinn Hall, 83m
+
+******************** DETAILS ********************
+
+*** Denton ***
+Country: United States
+Region: North America
+1 tower: John A. Guinn Hall
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** John A. Guinn Hall ***
+Height: 82.6
+Floors: 24
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 1

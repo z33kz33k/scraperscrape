@@ -1,0 +1,38 @@
+*** El Segundo (4) ***
+1. Pacific Corporate Towers III, 110m
+2. Pacific Corporate Towers I, 91m
+3. Pacific Corporate Towers II, 91m
+
+******************** DETAILS ********************
+
+*** El Segundo ***
+Country: United States
+Region: North America
+3 towers: Pacific Corporate Towers III, Pacific Corporate Towers I, Pacific Corporate Towers II
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pacific Corporate Towers III ***
+Height: 109.7
+Floors: 24
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 1
+
+*** Pacific Corporate Towers I ***
+Height: 91.4
+Floors: 20
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 2
+
+*** Pacific Corporate Towers II ***
+Height: 91.3
+Floors: 20
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 3

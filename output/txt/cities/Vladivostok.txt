@@ -1,0 +1,61 @@
+*** Vladivostok (10) ***
+1. Aquamarine 2-3, 160m
+2. Magnum 1, 132m
+3. Magnum 2, 132m
+4. Atlantics City 1, 101m
+5. Atlantics City 2, 101m
+
+******************** DETAILS ********************
+
+*** Vladivostok ***
+Country: Russia
+Region: Asia
+5 towers: Aquamarine 2-3, Magnum 1, Magnum 2, Atlantics City 1, Atlantics City 2
+Tiers: I: 2, II: 2, III: 1
+Rating: 10 (80.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Aquamarine 2-3 ***
+Height: 160
+Floors: 40
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Magnum 1 ***
+Height: 132
+Floors: 28
+Status: Architecturally Topped Out
+Started: 2007
+Completed: 2018
+Functions: residential
+Rank: 2
+
+*** Magnum 2 ***
+Height: 132
+Floors: 28
+Status: Architecturally Topped Out
+Started: 2007
+Completed: 2018
+Functions: residential
+Rank: 2
+
+*** Atlantics City 1 ***
+Height: 101
+Floors: 29
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / retail
+Rank: 4
+
+*** Atlantics City 2 ***
+Height: 101
+Floors: 29
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / retail
+Rank: 4

@@ -1,0 +1,207 @@
+*** Burnaby (50) ***
+1.  Solo District - Altus, 188m
+2.  Brentwood One, 186m
+3.  Brentwood Two, 186m
+4.  Brentwood Three, 182m
+5.  6000 McKay, 172m
+6.  4670 Assembly Way, 163m
+7.  Sovereign, 156m
+8.  Solo District - Stratus, 149m
+9.  MetroPlace, 141m
+10. 6890 Station Street, 138m
+11. Silver, 127m
+12. Chancellor, 115m
+13. Metro Tower II, 111m
+14. Metro Tower III, 109m
+15. Centrepoint, 109m
+16. 4688 Kingsway, 108m
+17. Metro Tower I, 104m
+18. Vantage, 99m
+19. Moda, 95m
+20. Reflections, 85m
+
+******************** DETAILS ********************
+
+*** Burnaby ***
+Country: Canada
+Region: North America
+20 towers: Solo District - Altus, Brentwood One, Brentwood Two, Brentwood Three, 6000 McKay, 4670 Assembly Way, Sovereign, Solo District - Stratus, MetroPlace, 6890 Station Street, Silver, Chancellor, Metro Tower II, Metro Tower III, Centrepoint, 4688 Kingsway, Metro Tower I, Vantage, Moda, Reflections
+Tiers: I: 4, II: 9, III: 7
+Rating: 50 (32.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Solo District - Altus ***
+Height: 187.8
+Floors: 49
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential / hotel
+Rank: 1
+
+*** Brentwood One ***
+Height: 186.2
+Floors: 56
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Brentwood Two ***
+Height: 186.2
+Floors: 56
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Brentwood Three ***
+Height: 182
+Floors: 55
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 4
+
+*** 6000 McKay ***
+Height: 172
+Floors: 52
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 5
+
+*** 4670 Assembly Way ***
+Height: 163
+Floors: 48
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 6
+
+*** Sovereign ***
+Height: 155.9
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / hotel
+Rank: 7
+
+*** Solo District - Stratus ***
+Height: 149.1
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 8
+
+*** MetroPlace ***
+Height: 141.12
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 9
+
+*** 6890 Station Street ***
+Height: 138
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 10
+
+*** Silver ***
+Height: 127
+Floors: 38
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 11
+
+*** Chancellor ***
+Height: 114.6
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 12
+
+*** Metro Tower II ***
+Height: 111.3
+Floors: 30
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 13
+
+*** Metro Tower III ***
+Height: 109
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 14
+
+*** Centrepoint ***
+Height: 108.6
+Floors: 32
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 15
+
+*** 4688 Kingsway ***
+Height: 108
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 16
+
+*** Metro Tower I ***
+Height: 103.6
+Floors: 28
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 17
+
+*** Vantage ***
+Height: 98.75
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 18
+
+*** Moda ***
+Height: 94.8
+Floors: 32
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** Reflections ***
+Height: 84.75
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 20

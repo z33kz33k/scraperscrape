@@ -1,0 +1,18 @@
+*** Greece (3) ***
+1. Athens, 3
+
+******************** DETAILS ********************
+
+*** Greece ***
+Region: Europe
+1 city: Athens
+Tiers: I: 3
+Rating: 3
+
+*** Athens ***
+Country: Greece
+Region: Europe
+3 towers: Athens Tower 1, Apollo Tower, Atrina Center Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16

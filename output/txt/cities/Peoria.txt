@@ -1,0 +1,29 @@
+*** Peoria (2) ***
+1. Twin Towers 1, 86m
+2. Twin Towers 2, 86m
+
+******************** DETAILS ********************
+
+*** Peoria ***
+Country: United States
+Region: North America
+2 towers: Twin Towers 1, Twin Towers 2
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Twin Towers 1 ***
+Height: 85.95
+Floors: 29
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 1
+
+*** Twin Towers 2 ***
+Height: 85.95
+Floors: 29
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 1

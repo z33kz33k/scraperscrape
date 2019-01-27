@@ -1,0 +1,129 @@
+*** Dongguan (68) ***
+1.  Dongguan International Trade Center 1, 427m
+2.  Dongguan TBA Tower, 289m
+3.  Vanke Chang'an Center, 260m
+4.  Dongguan International Trade Center 2, 260m
+5.  Huanghe River Center Building, 230m
+6.  Regal Palace Hotel, 230m
+7.  Huijing Center Tower 1, 208m
+8.  HJ International Hotel, 208m
+9.  Dongguan International Trade Center 3, 195m
+10. Dongguan Guangying Tower, 172m
+11. Dongguan China Telecom Tower, 153m
+12. Jinyuan Center, 152m
+13. Central Wealth District Block C, 150m
+
+******************** DETAILS ********************
+
+*** Dongguan ***
+Country: China
+Region: Asia
+13 towers: Dongguan International Trade Center 1, Dongguan TBA Tower, Vanke Chang'an Center, Dongguan International Trade Center 2, Huanghe River Center Building, Regal Palace Hotel, Huijing Center Tower 1, HJ International Hotel, Dongguan International Trade Center 3, Dongguan Guangying Tower, Dongguan China Telecom Tower, Jinyuan Center, Central Wealth District Block C
+Tiers: III: 7, IV: 5, VI: 1
+Rating: 68 (29.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dongguan International Trade Center 1 ***
+Height: 426.9
+Floors: 88
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: office
+Rank: 1
+
+*** Dongguan TBA Tower ***
+Height: 289
+Floors: 68
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: hotel / office
+Rank: 2
+
+*** Vanke Chang'an Center ***
+Height: 260
+Floors: 60
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 3
+
+*** Dongguan International Trade Center 2 ***
+Height: 260
+Status: Under Construction
+Started: 2014
+Functions: residential / office
+Rank: 4
+
+*** Huanghe River Center Building ***
+Height: 230
+Floors: 62
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 5
+
+*** Regal Palace Hotel ***
+Height: 230
+Floors: 53
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 6
+
+*** Huijing Center Tower 1 ***
+Height: 208
+Floors: 52
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel
+Rank: 7
+
+*** HJ International Hotel ***
+Height: 208
+Floors: 49
+Status: Completed
+Completed: 2010
+Functions: hotel
+Rank: 8
+
+*** Dongguan International Trade Center 3 ***
+Height: 195
+Status: Under Construction
+Started: 2014
+Functions: office
+Rank: 9
+
+*** Dongguan Guangying Tower ***
+Height: 172
+Floors: 42
+Status: Completed
+Completed: 2011
+Rank: 10
+
+*** Dongguan China Telecom Tower ***
+Height: 152.7
+Floors: 24
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 11
+
+*** Jinyuan Center ***
+Height: 152
+Floors: 36
+Status: Completed
+Completed: 2001
+Rank: 12
+
+*** Central Wealth District Block C ***
+Height: 150
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: hotel / office
+Rank: 13

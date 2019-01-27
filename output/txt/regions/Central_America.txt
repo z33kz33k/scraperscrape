@@ -1,0 +1,78 @@
+*** Central America (336) ***
+1.  Panama, 279
+2.  Dominican Republic, 34
+3.  Cuba, 6
+4.  Honduras, 5
+5.  Trinidad And Tobago, 4
+6.  Costa Rica, 3
+7.  El Salvador, 2
+8.  Bahamas, 1
+9.  Guatemala, 1
+10. Puerto Rico, 1
+
+******************** DETAILS ********************
+
+*** Central America ***
+10 countries: Panama, Dominican Republic, Cuba, Honduras, Trinidad And Tobago, Costa Rica, El Salvador, Bahamas, Guatemala, Puerto Rico
+Tiers: I: 22, II: 31, III: 36, IV: 18
+Rating: 336 (0.6% uncompleted)
+
+*** Panama ***
+Region: Central America
+1 city: Panama City
+Tiers: I: 1, II: 17, III: 34, IV: 18
+Rating: 279
+
+*** Dominican Republic ***
+Region: Central America
+1 city: Santo Domingo
+Tiers: I: 10, II: 8, III: 2
+Rating: 34
+
+*** Cuba ***
+Region: Central America
+1 city: Havana
+Tiers: II: 3
+Rating: 6
+
+*** Honduras ***
+Region: Central America
+2 cities: San Pedro Sula, Tegucigalpa
+Tiers: I: 3, II: 1
+Rating: 5 (40.0% uncompleted)
+
+*** Trinidad And Tobago ***
+Region: Central America
+1 city: Port-of-Spain
+Tiers: I: 2, II: 1
+Rating: 4
+
+*** Costa Rica ***
+Region: Central America
+1 city: San José
+Tiers: I: 3
+Rating: 3
+
+*** El Salvador ***
+Region: Central America
+1 city: Antiguo Cuscatlán
+Tiers: II: 1
+Rating: 2
+
+*** Bahamas ***
+Region: Central America
+1 city: Paradise Island
+Tiers: I: 1
+Rating: 1
+
+*** Guatemala ***
+Region: Central America
+1 city: Guatemala City
+Tiers: I: 1
+Rating: 1
+
+*** Puerto Rico ***
+Region: Central America
+1 city: San Juan
+Tiers: I: 1
+Rating: 1

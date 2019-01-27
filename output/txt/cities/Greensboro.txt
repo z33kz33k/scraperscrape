@@ -1,0 +1,20 @@
+*** Greensboro (2) ***
+1. Lincoln Financial Building, 114m
+
+******************** DETAILS ********************
+
+*** Greensboro ***
+Country: United States
+Region: North America
+1 tower: Lincoln Financial Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lincoln Financial Building ***
+Height: 114
+Floors: 20
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 1

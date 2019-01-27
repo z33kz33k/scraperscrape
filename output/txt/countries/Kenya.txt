@@ -1,0 +1,18 @@
+*** Kenya (43) ***
+1. Nairobi, 43
+
+******************** DETAILS ********************
+
+*** Kenya ***
+Region: Africa
+1 city: Nairobi
+Tiers: I: 11, II: 4, III: 4, V: 1
+Rating: 43 (41.9% uncompleted)
+
+*** Nairobi ***
+Country: Kenya
+Region: Africa
+20 towers: The Pinnacle Tower, Pinnacle Tower II, Britam Tower, Global Trade Center Office Tower, UAP Old Mutual Tower, Times Tower, Parliament Tower, Teleposta Towers, Kenya Commercial Bank Plaza, Kenyatta International Conference Centre, Social Security House, I & M Bank Tower, Sanlam Tower, Nyayo House, Cooperative Bank House, Nation Centre, National Bank House, Anniversary Towers, Lonrho House, Reinsurance Plaza
+Tiers: I: 11, II: 4, III: 4, V: 1
+Rating: 43 (41.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17

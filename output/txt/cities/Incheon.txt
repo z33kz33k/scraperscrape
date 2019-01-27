@@ -1,0 +1,379 @@
+*** Incheon (153) ***
+1.  Northeast Asia Trade Tower, 305m
+2.  Artwin I, 248m
+3.  Artwin II, 248m
+4.  The First World Tower 1, 237m
+5.  The First World Tower 2, 237m
+6.  The First World Tower 3, 237m
+7.  The First World Tower 4, 237m
+8.  Cheongna Posco The Lake Park 2801, 190m
+9.  Songdo Posco Centroad Tower 1, 190m
+10. Cheongna Exllu Tower A, 190m
+11. Cheongna Exllu Tower B, 190m
+12. Cheongna Daewoo Prugio Tower 1, 189m
+13. Songdo Posco E&C Center 1, 185m
+14. Songdo Posco E&C Center 2, 185m
+15. Cheongna Posco The Lake Park 2802, 180m
+16. Cheongna Posco The Lake Park 2803, 180m
+17. Cheongna Posco The Lake Park 2804, 180m
+18. Yeonsu Daewoo Prugio Park View Tower A, 180m
+19. Songdo Central Park Prugio Tower I, 175m
+20. Songdo Central Park Prugio Tower II, 175m
+21. Songdo Central Park Prugio Tower III, 175m
+22. The # Central Park II 203, 175m
+23. Cheongna Lotte Castle Premium Town Tower 1, 170m
+24. The # Central Park I 101, 163m
+25. The # Central Park I 102, 163m
+26. The # Central Park I 103, 163m
+27. Cheongna Exllu Tower C, 157m
+28. The # Central Park II 201, 153m
+29. The # Central Park II 202, 153m
+30. I Tower, 151m
+31. Songdo Xi Harbour View Tower A, 150m
+32. Songdo Xi Harbour View Tower B, 150m
+33. Songdo Posco Centroad Tower 2, 145m
+34. Songdo Posco Centroad Tower 3, 145m
+35. Songdo Xi Harbour View Tower C, 120m
+36. Songdo Xi Harbour View Tower D, 120m
+37. Sheraton Incheon Hotel, 102m
+
+******************** DETAILS ********************
+
+*** Incheon ***
+Country: South Korea
+Region: Asia
+37 towers: Northeast Asia Trade Tower, Artwin I, Artwin II, The First World Tower 1, The First World Tower 2, The First World Tower 3, The First World Tower 4, Cheongna Posco The Lake Park 2801, Songdo Posco Centroad Tower 1, Cheongna Exllu Tower A, Cheongna Exllu Tower B, Cheongna Daewoo Prugio Tower 1, Songdo Posco E&C Center 1, Songdo Posco E&C Center 2, Cheongna Posco The Lake Park 2802, Cheongna Posco The Lake Park 2803, Cheongna Posco The Lake Park 2804, Yeonsu Daewoo Prugio Park View Tower A, Songdo Central Park Prugio Tower I, Songdo Central Park Prugio Tower II, Songdo Central Park Prugio Tower III, The # Central Park II 203, Cheongna Lotte Castle Premium Town Tower 1, The # Central Park I 101, The # Central Park I 102, The # Central Park I 103, Cheongna Exllu Tower C, The # Central Park II 201, The # Central Park II 202, I Tower, Songdo Xi Harbour View Tower A, Songdo Xi Harbour View Tower B, Songdo Posco Centroad Tower 2, Songdo Posco Centroad Tower 3, Songdo Xi Harbour View Tower C, Songdo Xi Harbour View Tower D, Sheraton Incheon Hotel
+Tiers: I: 1, II: 4, III: 25, IV: 6, V: 1
+Rating: 153
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Northeast Asia Trade Tower ***
+Height: 305
+Floors: 68
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential / hotel / office
+Rank: 1
+
+*** Artwin I ***
+Height: 247.8
+Floors: 72
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / hotel
+Rank: 2
+
+*** Artwin II ***
+Height: 247.8
+Floors: 72
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / hotel
+Rank: 2
+
+*** The First World Tower 1 ***
+Height: 236.6
+Floors: 67
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** The First World Tower 2 ***
+Height: 236.6
+Floors: 67
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** The First World Tower 3 ***
+Height: 236.6
+Floors: 67
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** The First World Tower 4 ***
+Height: 236.6
+Floors: 67
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** Cheongna Posco The Lake Park 2801 ***
+Height: 190
+Floors: 58
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 8
+
+*** Songdo Posco Centroad Tower 1 ***
+Height: 190
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: hotel
+Rank: 9
+
+*** Cheongna Exllu Tower A ***
+Height: 189.5
+Floors: 55
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 10
+
+*** Cheongna Exllu Tower B ***
+Height: 189.5
+Floors: 55
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 10
+
+*** Cheongna Daewoo Prugio Tower 1 ***
+Height: 189.1
+Floors: 58
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 12
+
+*** Songdo Posco E&C Center 1 ***
+Height: 185
+Floors: 39
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 13
+
+*** Songdo Posco E&C Center 2 ***
+Height: 185
+Floors: 39
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 13
+
+*** Cheongna Posco The Lake Park 2802 ***
+Height: 180
+Floors: 55
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 15
+
+*** Cheongna Posco The Lake Park 2803 ***
+Height: 180
+Floors: 55
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 15
+
+*** Cheongna Posco The Lake Park 2804 ***
+Height: 180
+Floors: 55
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 15
+
+*** Yeonsu Daewoo Prugio Park View Tower A ***
+Height: 179.8
+Floors: 43
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 18
+
+*** Songdo Central Park Prugio Tower I ***
+Height: 175
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** Songdo Central Park Prugio Tower II ***
+Height: 175
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** Songdo Central Park Prugio Tower III ***
+Height: 175
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** The # Central Park II 203 ***
+Height: 174.62
+Floors: 52
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 22
+
+*** Cheongna Lotte Castle Premium Town Tower 1 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 23
+
+*** The # Central Park I 101 ***
+Height: 163
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 24
+
+*** The # Central Park I 102 ***
+Height: 163
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 24
+
+*** The # Central Park I 103 ***
+Height: 163
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 24
+
+*** Cheongna Exllu Tower C ***
+Height: 156.8
+Floors: 47
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 27
+
+*** The # Central Park II 201 ***
+Height: 152.72
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 28
+
+*** The # Central Park II 202 ***
+Height: 152.72
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 28
+
+*** I Tower ***
+Height: 150.6
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 30
+
+*** Songdo Xi Harbour View Tower A ***
+Height: 150
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 31
+
+*** Songdo Xi Harbour View Tower B ***
+Height: 150
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 31
+
+*** Songdo Posco Centroad Tower 2 ***
+Height: 145
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 33
+
+*** Songdo Posco Centroad Tower 3 ***
+Height: 145
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 33
+
+*** Songdo Xi Harbour View Tower C ***
+Height: 120
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 35
+
+*** Songdo Xi Harbour View Tower D ***
+Height: 120
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 35
+
+*** Sheraton Incheon Hotel ***
+Height: 101.6
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: hotel
+Rank: 37

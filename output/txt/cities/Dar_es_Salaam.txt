@@ -1,0 +1,49 @@
+*** Dar es Salaam (13) ***
+1. Tanzania Ports Authority Headquarters, 157m
+2. PSPF Commercial Tower A, 153m
+3. PSPF Commercial Tower B, 153m
+4. Benjamin William Mkapa Pension Towers, 93m
+
+******************** DETAILS ********************
+
+*** Dar es Salaam ***
+Country: Tanzania
+Region: Africa
+4 towers: Tanzania Ports Authority Headquarters, PSPF Commercial Tower A, PSPF Commercial Tower B, Benjamin William Mkapa Pension Towers
+Tiers: I: 1, III: 3
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tanzania Ports Authority Headquarters ***
+Height: 157
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 1
+
+*** PSPF Commercial Tower A ***
+Height: 152.7
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 2
+
+*** PSPF Commercial Tower B ***
+Height: 152.7
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 2
+
+*** Benjamin William Mkapa Pension Towers ***
+Height: 93
+Floors: 21
+Status: Completed
+Functions: office
+Rank: 4

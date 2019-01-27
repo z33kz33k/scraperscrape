@@ -1,0 +1,21 @@
+*** Caxias do Sul (2) ***
+1. Edifício Parque do Sol, 114m
+
+******************** DETAILS ********************
+
+*** Caxias do Sul ***
+Country: Brazil
+Region: South America
+1 tower: Edifício Parque do Sol
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Edifício Parque do Sol ***
+Height: 114
+Floors: 36
+Status: Completed
+Started: 1967
+Completed: 1976
+Functions: residential
+Rank: 1

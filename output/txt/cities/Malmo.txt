@@ -1,0 +1,49 @@
+*** Malmo (8) ***
+1. Turning Torso, 190m
+2. Point Hyllie, 110m
+3. Malm&ouml; Live, 87m
+4. Kronprinsen, 82m
+
+******************** DETAILS ********************
+
+*** Malmo ***
+Country: Sweden
+Region: Europe
+4 towers: Turning Torso, Point Hyllie, Malm&ouml; Live, Kronprinsen
+Tiers: I: 2, II: 1, III: 1
+Rating: 8 (25.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Turning Torso ***
+Height: 190
+Floors: 57
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential / office
+Rank: 1
+
+*** Point Hyllie ***
+Height: 110
+Floors: 27
+Status: Under Construction
+Started: 2009
+Functions: residential
+Rank: 2
+
+*** Malm&ouml; Live ***
+Height: 87.4
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel
+Rank: 3
+
+*** Kronprinsen ***
+Height: 82
+Floors: 27
+Status: Completed
+Completed: 1964
+Functions: residential / office
+Rank: 4

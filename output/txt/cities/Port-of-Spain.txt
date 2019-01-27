@@ -1,0 +1,41 @@
+*** Port-of-Spain (4) ***
+1. International Waterfront Tower C, 109m
+2. Central Bank Tower, 92m
+3. Eric Williams Finance Building, 92m
+
+******************** DETAILS ********************
+
+*** Port-of-Spain ***
+Country: Trinidad And Tobago
+Region: Central America
+3 towers: International Waterfront Tower C, Central Bank Tower, Eric Williams Finance Building
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** International Waterfront Tower C ***
+Height: 108.82
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 1
+
+*** Central Bank Tower ***
+Height: 92.05
+Floors: 22
+Status: Completed
+Started: 1979
+Completed: 1986
+Functions: office
+Rank: 2
+
+*** Eric Williams Finance Building ***
+Height: 92.05
+Floors: 22
+Status: Completed
+Started: 1979
+Completed: 1986
+Functions: office
+Rank: 2

@@ -1,0 +1,379 @@
+*** Taipei (121) ***
+1.  TAIPEI 101, 508m
+2.  Taipei Nan Shan Plaza, 272m
+3.  Fubon Group Xinyi Headquarters, 266m
+4.  Shin Kong Life Tower, 245m
+5.  Cathay Landmark, 212m
+6.  Farglory Financial Center, 208m
+7.  Far Eastern Plaza 2, 165m
+8.  Far Eastern Plaza 1, 165m
+9.  Yihwa International Residential Tower A, 160m
+10. Yihwa International Residential Tower B, 160m
+11. Huaku Sky Garden, 157m
+12. Hua Nan Bank Headquarters, 154m
+13. President Enterprise Corporation Tower, 154m
+14. Yihwa International Hotel, 150m
+15. W Hotel, 150m
+16. Tuntex Tower, 143m
+17. International Trade Building, 143m
+18. Taipei Sky Dome Tower 1, 142m
+19. Taipei Sky Dome Tower 2, 142m
+20. Taipei Sky Dome Tower 3, 142m
+21. Taipei Sky Dome Tower 4, 142m
+22. Taipei Sky Dome Tower 5, 142m
+23. Taipei County Hall, 141m
+24. Ocean Blue Residences, 140m
+25. CEC Tower, 140m
+26. One Park Taipei Tower 1, 140m
+27. Sky City I, 130m
+28. Sky City II, 130m
+29. Sky City III, 130m
+30. An-Tai Tower, 130m
+31. Taiwan Power Building, 127m
+32. 55 Timeless, 127m
+33. One Park Taipei Tower 2, 126m
+34. Fubon Banking Center, 125m
+35. Taishin International Bank Tower, 123m
+36. HSBC Building, 121m
+37. Taipei Veterans General Hospital Chung-Cheng Building, 112m
+38. National Taiwan University Hospital Child Medical Treatment Building, 108m
+39. Tao Zhu Yin Yuan, 93m
+
+******************** DETAILS ********************
+
+*** Taipei ***
+Country: Taiwan
+Region: Asia
+39 towers: TAIPEI 101, Taipei Nan Shan Plaza, Fubon Group Xinyi Headquarters, Shin Kong Life Tower, Cathay Landmark, Farglory Financial Center, Far Eastern Plaza 2, Far Eastern Plaza 1, Yihwa International Residential Tower A, Yihwa International Residential Tower B, Huaku Sky Garden, Hua Nan Bank Headquarters, President Enterprise Corporation Tower, Yihwa International Hotel, W Hotel, Tuntex Tower, International Trade Building, Taipei Sky Dome Tower 1, Taipei Sky Dome Tower 2, Taipei Sky Dome Tower 3, Taipei Sky Dome Tower 4, Taipei Sky Dome Tower 5, Taipei County Hall, Ocean Blue Residences, CEC Tower, One Park Taipei Tower 1, Sky City I, Sky City II, Sky City III, An-Tai Tower, Taiwan Power Building, 55 Timeless, One Park Taipei Tower 2, Fubon Banking Center, Taishin International Bank Tower, HSBC Building, Taipei Veterans General Hospital Chung-Cheng Building, National Taiwan University Hospital Child Medical Treatment Building, Tao Zhu Yin Yuan
+Tiers: I: 1, II: 23, III: 10, IV: 4, VI: 1
+Rating: 121 (5.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** TAIPEI 101 ***
+Height: 508
+Floors: 101
+Status: Completed
+Started: 1999
+Completed: 2004
+Functions: office
+Rank: 1
+
+*** Taipei Nan Shan Plaza ***
+Height: 272
+Floors: 48
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 2
+
+*** Fubon Group Xinyi Headquarters ***
+Height: 266.33
+Floors: 56
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office
+Rank: 3
+
+*** Shin Kong Life Tower ***
+Height: 244.76
+Floors: 51
+Status: Completed
+Started: 1989
+Completed: 1993
+Functions: office
+Rank: 4
+
+*** Cathay Landmark ***
+Height: 212
+Floors: 46
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 5
+
+*** Farglory Financial Center ***
+Height: 208.3
+Floors: 32
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 6
+
+*** Far Eastern Plaza 2 ***
+Height: 165
+Floors: 43
+Status: Completed
+Started: 1990
+Completed: 1994
+Functions: hotel
+Rank: 7
+
+*** Far Eastern Plaza 1 ***
+Height: 165
+Floors: 41
+Status: Completed
+Started: 1990
+Completed: 1994
+Functions: office
+Rank: 8
+
+*** Yihwa International Residential Tower A ***
+Height: 160
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 9
+
+*** Yihwa International Residential Tower B ***
+Height: 160
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 9
+
+*** Huaku Sky Garden ***
+Height: 156.7
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** Hua Nan Bank Headquarters ***
+Height: 154.5
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 12
+
+*** President Enterprise Corporation Tower ***
+Height: 154
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 13
+
+*** Yihwa International Hotel ***
+Height: 150
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel
+Rank: 14
+
+*** W Hotel ***
+Height: 150
+Floors: 31
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: hotel / office
+Rank: 15
+
+*** Tuntex Tower ***
+Height: 143
+Floors: 38
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 16
+
+*** International Trade Building ***
+Height: 143
+Floors: 34
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 17
+
+*** Taipei Sky Dome Tower 1 ***
+Height: 142
+Floors: 37
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 18
+
+*** Taipei Sky Dome Tower 2 ***
+Height: 142
+Floors: 37
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 18
+
+*** Taipei Sky Dome Tower 3 ***
+Height: 142
+Floors: 37
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 18
+
+*** Taipei Sky Dome Tower 4 ***
+Height: 142
+Floors: 37
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 18
+
+*** Taipei Sky Dome Tower 5 ***
+Height: 142
+Floors: 37
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 18
+
+*** Taipei County Hall ***
+Height: 141
+Floors: 34
+Status: Completed
+Completed: 2002
+Functions: government
+Rank: 23
+
+*** Ocean Blue Residences ***
+Height: 140.3
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 24
+
+*** CEC Tower ***
+Height: 140
+Floors: 31
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 25
+
+*** One Park Taipei Tower 1 ***
+Height: 139.5
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 26
+
+*** Sky City I ***
+Height: 130
+Floors: 34
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 27
+
+*** Sky City II ***
+Height: 130
+Floors: 34
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 27
+
+*** Sky City III ***
+Height: 130
+Floors: 34
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 27
+
+*** An-Tai Tower ***
+Height: 130
+Floors: 31
+Status: Completed
+Functions: multiple
+Rank: 30
+
+*** Taiwan Power Building ***
+Height: 127
+Floors: 27
+Status: Completed
+Functions: office
+Rank: 31
+
+*** 55 Timeless ***
+Height: 127
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 32
+
+*** One Park Taipei Tower 2 ***
+Height: 126
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 33
+
+*** Fubon Banking Center ***
+Height: 125
+Floors: 24
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 34
+
+*** Taishin International Bank Tower ***
+Height: 123
+Floors: 25
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 35
+
+*** HSBC Building ***
+Height: 121
+Floors: 34
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 36
+
+*** Taipei Veterans General Hospital Chung-Cheng Building ***
+Height: 112
+Floors: 23
+Status: Completed
+Completed: 1989
+Functions: hospital
+Rank: 37
+
+*** National Taiwan University Hospital Child Medical Treatment Building ***
+Height: 108.2
+Floors: 22
+Status: Completed
+Completed: 2007
+Functions: hospital
+Rank: 38
+
+*** Tao Zhu Yin Yuan ***
+Height: 93.2
+Floors: 21
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 39

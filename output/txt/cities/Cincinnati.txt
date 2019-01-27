@@ -1,0 +1,195 @@
+*** Cincinnati (39) ***
+1.  Great American Tower at Queen City Square, 203m
+2.  Carew Tower, 175m
+3.  PNC Tower, 151m
+4.  Scripps Center, 143m
+5.  Fifth Third Center, 129m
+6.  Center 600 Vine, 127m
+7.  Chemed Center, 125m
+8.  Hilton Cincinnati Netherland Plaza, 113m
+9.  Chiquita Center, 112m
+10. PNC Center, 108m
+11. Atrium Two, 107m
+12. US Bank Tower/Westin Hotel, 107m
+13. Millennium Hotel Cincinnati, 107m
+14. 36 East Seventh Street, 98m
+15. Kroger Building, 98m
+16. Macy's Building, 97m
+17. 525 Vine Center, 94m
+18. Edgecliff Point Condos, 86m
+19. Crown Plaza Cincinnati, 83m
+20. Atrium One, 77m
+
+******************** DETAILS ********************
+
+*** Cincinnati ***
+Country: United States
+Region: North America
+20 towers: Great American Tower at Queen City Square, Carew Tower, PNC Tower, Scripps Center, Fifth Third Center, Center 600 Vine, Chemed Center, Hilton Cincinnati Netherland Plaza, Chiquita Center, PNC Center, Atrium Two, US Bank Tower/Westin Hotel, Millennium Hotel Cincinnati, 36 East Seventh Street, Kroger Building, Macy's Building, 525 Vine Center, Edgecliff Point Condos, Crown Plaza Cincinnati, Atrium One
+Tiers: I: 7, II: 10, III: 3
+Rating: 39
+Scraped on: 2019-Jan-21 23:13:06
+
+*** Great American Tower at Queen City Square ***
+Height: 202.69
+Floors: 40
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 1
+
+*** Carew Tower ***
+Height: 175
+Floors: 49
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: office
+Rank: 2
+
+*** PNC Tower ***
+Height: 150.88
+Floors: 31
+Status: Completed
+Completed: 1913
+Functions: office
+Rank: 3
+
+*** Scripps Center ***
+Height: 142.65
+Floors: 36
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 4
+
+*** Fifth Third Center ***
+Height: 129
+Floors: 32
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 5
+
+*** Center 600 Vine ***
+Height: 127.4
+Floors: 30
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 6
+
+*** Chemed Center ***
+Height: 125
+Floors: 32
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 7
+
+*** Hilton Cincinnati Netherland Plaza ***
+Height: 113.4
+Floors: 31
+Status: Completed
+Completed: 1931
+Functions: hotel
+Rank: 8
+
+*** Chiquita Center ***
+Height: 112.2
+Floors: 29
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 9
+
+*** PNC Center ***
+Height: 108
+Floors: 27
+Status: Completed
+Started: 1978
+Completed: 1979
+Functions: office
+Rank: 10
+
+*** Atrium Two ***
+Height: 107
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 11
+
+*** US Bank Tower/Westin Hotel ***
+Height: 107
+Floors: 26
+Status: Completed
+Completed: 1981
+Functions: hotel / office
+Rank: 12
+
+*** Millennium Hotel Cincinnati ***
+Height: 106.7
+Floors: 32
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 13
+
+*** 36 East Seventh Street ***
+Height: 98
+Floors: 26
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 14
+
+*** Kroger Building ***
+Height: 97.54
+Floors: 25
+Status: Completed
+Completed: 1954
+Functions: office
+Rank: 15
+
+*** Macy's Building ***
+Height: 96.7
+Floors: 21
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 16
+
+*** 525 Vine Center ***
+Height: 94.18
+Floors: 23
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 17
+
+*** Edgecliff Point Condos ***
+Height: 86.5
+Floors: 24
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 18
+
+*** Crown Plaza Cincinnati ***
+Height: 82.91
+Floors: 19
+Status: Completed
+Started: 1947
+Completed: 1949
+Functions: hotel / residential
+Rank: 19
+
+*** Atrium One ***
+Height: 76.8
+Floors: 20
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 20

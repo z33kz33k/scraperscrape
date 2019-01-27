@@ -1,0 +1,40 @@
+*** Novosibirsk (3) ***
+1. Kobra Business Center, 88m
+2. Kommunisticheskaya 50, 88m
+3. Saret, 85m
+
+******************** DETAILS ********************
+
+*** Novosibirsk ***
+Country: Russia
+Region: Asia
+3 towers: Kobra Business Center, Kommunisticheskaya 50, Saret
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kobra Business Center ***
+Height: 87.9
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 1
+
+*** Kommunisticheskaya 50 ***
+Height: 87.9
+Floors: 21
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 2
+
+*** Saret ***
+Height: 84.6
+Floors: 23
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 3

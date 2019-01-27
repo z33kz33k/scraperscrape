@@ -1,0 +1,30 @@
+*** Tijuana (3) ***
+1. New City Medical Plaza, 113m
+2. New City Residential Diamond Tower, 102m
+
+******************** DETAILS ********************
+
+*** Tijuana ***
+Country: Mexico
+Region: North America
+2 towers: New City Medical Plaza, New City Residential Diamond Tower
+Tiers: I: 1, II: 1
+Rating: 3 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** New City Medical Plaza ***
+Height: 112.9
+Floors: 28
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: hospital
+Rank: 1
+
+*** New City Residential Diamond Tower ***
+Height: 101.8
+Floors: 27
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 2

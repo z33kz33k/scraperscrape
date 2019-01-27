@@ -1,0 +1,21 @@
+*** Juiz de Fora (2) ***
+1. Saint Pietro Residence, 120m
+
+******************** DETAILS ********************
+
+*** Juiz de Fora ***
+Country: Brazil
+Region: South America
+1 tower: Saint Pietro Residence
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Saint Pietro Residence ***
+Height: 120.36
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 1

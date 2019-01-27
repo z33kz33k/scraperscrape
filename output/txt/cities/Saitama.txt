@@ -1,0 +1,31 @@
+*** Saitama (8) ***
+1. Land Axis Tower, 168m
+2. Saitama-Shintoshin National Government Building Tower 1, 154m
+
+******************** DETAILS ********************
+
+*** Saitama ***
+Country: Japan
+Region: Asia
+2 towers: Land Axis Tower, Saitama-Shintoshin National Government Building Tower 1
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Land Axis Tower ***
+Height: 168.3
+Floors: 35
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 1
+
+*** Saitama-Shintoshin National Government Building Tower 1 ***
+Height: 153.93
+Floors: 31
+Status: Completed
+Started: 1996
+Completed: 2000
+Functions: government
+Rank: 2

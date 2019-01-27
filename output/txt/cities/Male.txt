@@ -1,0 +1,20 @@
+*** Male (1) ***
+1. Dharumavantha Hospital, 100m
+
+******************** DETAILS ********************
+
+*** Male ***
+Country: Maldives
+Region: Asia
+1 tower: Dharumavantha Hospital
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dharumavantha Hospital ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 2018
+Functions: hospital
+Rank: 1

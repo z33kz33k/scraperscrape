@@ -1,0 +1,39 @@
+*** Huixquilucan (6) ***
+1. Bosque Real Tower A, 118m
+2. Bosque Real Tower B, 118m
+3. Bosque Real Tower C, 118m
+
+******************** DETAILS ********************
+
+*** Huixquilucan ***
+Country: Mexico
+Region: North America
+3 towers: Bosque Real Tower A, Bosque Real Tower B, Bosque Real Tower C
+Tiers: II: 3
+Rating: 6 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bosque Real Tower A ***
+Height: 117.5
+Floors: 36
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 1
+
+*** Bosque Real Tower B ***
+Height: 117.5
+Floors: 36
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 1
+
+*** Bosque Real Tower C ***
+Height: 117.5
+Floors: 36
+Status: Under Construction
+Started: 2015
+Functions: residential
+Rank: 1

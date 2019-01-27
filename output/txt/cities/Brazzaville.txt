@@ -1,0 +1,21 @@
+*** Brazzaville (2) ***
+1. Tour Nabemba, 106m
+
+******************** DETAILS ********************
+
+*** Brazzaville ***
+Country: Congo
+Region: Africa
+1 tower: Tour Nabemba
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour Nabemba ***
+Height: 106
+Floors: 30
+Status: Completed
+Started: 1983
+Completed: 1986
+Functions: office
+Rank: 1

@@ -1,0 +1,20 @@
+*** Nantes (2) ***
+1. Tour de Bretagne, 144m
+
+******************** DETAILS ********************
+
+*** Nantes ***
+Country: France
+Region: Europe
+1 tower: Tour de Bretagne
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tour de Bretagne ***
+Height: 144
+Floors: 32
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 1

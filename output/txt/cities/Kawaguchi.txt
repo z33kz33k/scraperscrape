@@ -1,0 +1,20 @@
+*** Kawaguchi (4) ***
+1. Elsa Tower 55, 186m
+
+******************** DETAILS ********************
+
+*** Kawaguchi ***
+Country: Japan
+Region: Asia
+1 tower: Elsa Tower 55
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Elsa Tower 55 ***
+Height: 186
+Floors: 55
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 1

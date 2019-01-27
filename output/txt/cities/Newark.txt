@@ -1,0 +1,188 @@
+*** Newark (24) ***
+1.  National Newark Building, 142m
+2.  Eleven80, 137m
+3.  Prudential Plaza, 112m
+4.  80 Park Plaza, 110m
+5.  Gateway One, 108m
+6.  One Newark Center, 99m
+7.  15 Washington Street, 98m
+8.  Prudential Headquarters Tower A, 94m
+9.  33 Washington Street, 94m
+10. Prudential Building, 91m
+11. 540 Broad Street, 84m
+12. Gateway Two, 83m
+13. 520 Broad Street, 83m
+14. Stanley S. Bergen Building, 82m
+15. Military Park Building, 81m
+16. 153 Halsey Street, 80m
+17. 24 Commerce Street, 79m
+18. One Theatre Square, 77m
+19. Zion Towers, 77m
+
+******************** DETAILS ********************
+
+*** Newark ***
+Country: United States
+Region: North America
+19 towers: National Newark Building, Eleven80, Prudential Plaza, 80 Park Plaza, Gateway One, One Newark Center, 15 Washington Street, Prudential Headquarters Tower A, 33 Washington Street, Prudential Building, 540 Broad Street, Gateway Two, 520 Broad Street, Stanley S. Bergen Building, Military Park Building, 153 Halsey Street, 24 Commerce Street, One Theatre Square, Zion Towers
+Tiers: I: 14, II: 5
+Rating: 24
+Scraped on: 2019-Jan-20 16:05:17
+
+*** National Newark Building ***
+Height: 141.73
+Floors: 34
+Status: Completed
+Started: 1930
+Completed: 1931
+Functions: office
+Rank: 1
+
+*** Eleven80 ***
+Height: 136.6
+Floors: 35
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: office
+Rank: 2
+
+*** Prudential Plaza ***
+Height: 112.47
+Floors: 24
+Status: Completed
+Started: 1956
+Completed: 1960
+Functions: office
+Rank: 3
+
+*** 80 Park Plaza ***
+Height: 109.73
+Floors: 26
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 4
+
+*** Gateway One ***
+Height: 108.2
+Floors: 30
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 5
+
+*** One Newark Center ***
+Height: 99.36
+Floors: 22
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 6
+
+*** 15 Washington Street ***
+Height: 98.15
+Floors: 16
+Status: Completed
+Completed: 1930
+Functions: education
+Rank: 7
+
+*** Prudential Headquarters Tower A ***
+Height: 94.5
+Floors: 20
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 8
+
+*** 33 Washington Street ***
+Height: 94.5
+Floors: 18
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 9
+
+*** Prudential Building ***
+Height: 91.44
+Floors: 20
+Status: Completed
+Completed: 1942
+Functions: office
+Rank: 10
+
+*** 540 Broad Street ***
+Height: 83.82
+Floors: 20
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 11
+
+*** Gateway Two ***
+Height: 82.9
+Floors: 18
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 12
+
+*** 520 Broad Street ***
+Height: 82.6
+Floors: 18
+Status: Completed
+Completed: 1957
+Functions: office
+Rank: 13
+
+*** Stanley S. Bergen Building ***
+Height: 81.69
+Floors: 19
+Status: Completed
+Completed: 1958
+Functions: hospital
+Rank: 14
+
+*** Military Park Building ***
+Height: 80.77
+Floors: 21
+Status: Completed
+Started: 1925
+Completed: 1926
+Functions: office
+Rank: 15
+
+*** 153 Halsey Street ***
+Height: 80.16
+Floors: 14
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 16
+
+*** 24 Commerce Street ***
+Height: 79.25
+Floors: 19
+Status: Completed
+Completed: 1926
+Functions: office
+Rank: 17
+
+*** One Theatre Square ***
+Height: 77.42
+Floors: 22
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential / retail
+Rank: 18
+
+*** Zion Towers ***
+Height: 76.8
+Floors: 28
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 19

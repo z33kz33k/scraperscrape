@@ -1,0 +1,786 @@
+*** Buenos Aires (168) ***
+1.  Alvear Tower Puerto Madero, 235m
+2.  Harbour Tower, 192m
+3.  Torre Cavia, 173m
+4.  Torre Renoir 2, 172m
+5.  Mulieris Torre Norte, 161m
+6.  Mulieris Torre Sur, 161m
+7.  Torre El Faro I, 160m
+8.  Torre El Faro II, 160m
+9.  Torre Repsol YPF, 160m
+10. Torre Le Parc, 158m
+11. Chateau Puerto Madero, 156m
+12. Torre BBVA, 155m
+13. Torre Galicia Central, 145m
+14. Torre del Boulevard, 144m
+15. Torre del Parque, 144m
+16. Torre del Rio, 144m
+17. Edificio Alas, 141m
+18. Torre BankBoston, 137m
+19. Complejo Bellini Plaza San Martín 2, 136m
+20. Torre Renoir 1, 135m
+21. Libertador 4444, 135m
+22. Torres del Yacht I, 135m
+23. Torres del Yacht II, 135m
+24. 955 Belgrano Office, 135m
+25. Chateau Libertador, 133m
+26. Sede Corporativa Banco Macro, 130m
+27. Madero Office, 130m
+28. Alvear Icon Hotel & Residences, 130m
+29. Mirabilia Palermo 1, 129m
+30. Mirabilia Palermo 2, 129m
+31. Torre Alto Palermo I, 126m
+32. Torre Alto Palermo II, 126m
+33. Torre Odeon, 125m
+34. Torre Alcorta, 123m
+35. San Martin 344, 122m
+36. Torre Alem Plaza, 121m
+37. Torre Carlos Pellegrini, 121m
+38. Libertador 380, 120m
+39. Edifcio Kavanagh, 120m
+40. Torre Alcorta, 120m
+41. Torre Bulnes, 119m
+42. Torre Ruggieri, 119m
+43. Inter-Continental Plaza, 117m
+44. Torre Bellini, 116m
+45. Catalinas Plaza, 115m
+46. Torre Bouchard, 115m
+47. Torre Catalinas Plaza, 115m
+48. Catalinas Norte, 115m
+49. Dosplaza I, 114m
+50. Edificio Chacofi, 113m
+51. Promenade Palermo, 112m
+52. Promenade Palermo, 112m
+53. Galería Jardín - Torre Florida, 110m
+54. Torres de Montaneses - Torre Central, 110m
+55. Torre HSBC, 109m
+56. Torre Forum, 108m
+57. O' Higgins 1826, 107m
+58. Edificio Prourban, 107m
+59. Torre Vuelta de Dorrego, 107m
+60. Plaza San Marco, 107m
+61. Caballito Nuevo I, 106m
+62. Caballito Nuevo II, 106m
+63. Torre Union, 106m
+64. Torre Intecons, 105m
+65. Palermo Uno, 103m
+66. Edificio Sudamérica, 102m
+67. Torre Dorrego, 102m
+68. Plaza Bucale, 102m
+69. Quartier de Oro, 102m
+70. Torre Brunetta, 101m
+71. Torre Riverview I, 100m
+72. Torre Riverview II, 100m
+73. R. Scalabrini Ortiz 3226, 99m
+74. R. Scalabrini Ortiz 3282, 99m
+75. Galería Jardín - Torre Tucumán, 99m
+76. Quartier Demaria Norte, 96m
+77. Quartier Demaria Sur, 96m
+78. Palermo View - Torre Santa Fe, 96m
+79. Faculties of Health Sciences - University of Buenos Aires, 86m
+80. Palermo View - Torre Maria Luis Campos, 84m
+81. Terrazas del Yacht Edificio C, 77m
+82. Terrazas del Yacht Edificio D, 77m
+
+******************** DETAILS ********************
+
+*** Buenos Aires ***
+Country: Argentina
+Region: South America
+82 towers: Alvear Tower Puerto Madero, Harbour Tower, Torre Cavia, Torre Renoir 2, Mulieris Torre Norte, Mulieris Torre Sur, Torre El Faro I, Torre El Faro II, Torre Repsol YPF, Torre Le Parc, Chateau Puerto Madero, Torre BBVA, Torre Galicia Central, Torre del Boulevard, Torre del Parque, Torre del Rio, Edificio Alas, Torre BankBoston, Complejo Bellini Plaza San Martín 2, Torre Renoir 1, Libertador 4444, Torres del Yacht I, Torres del Yacht II, 955 Belgrano Office, Chateau Libertador, Sede Corporativa Banco Macro, Madero Office, Alvear Icon Hotel & Residences, Mirabilia Palermo 1, Mirabilia Palermo 2, Torre Alto Palermo I, Torre Alto Palermo II, Torre Odeon, Torre Alcorta, San Martin 344, Torre Alem Plaza, Torre Carlos Pellegrini, Libertador 380, Edifcio Kavanagh, Torre Alcorta, Torre Bulnes, Torre Ruggieri, Inter-Continental Plaza, Torre Bellini, Catalinas Plaza, Torre Bouchard, Torre Catalinas Plaza, Catalinas Norte, Dosplaza I, Edificio Chacofi, Promenade Palermo, Promenade Palermo, Galería Jardín - Torre Florida, Torres de Montaneses - Torre Central, Torre HSBC, Torre Forum, O' Higgins 1826, Edificio Prourban, Torre Vuelta de Dorrego, Plaza San Marco, Caballito Nuevo I, Caballito Nuevo II, Torre Union, Torre Intecons, Palermo Uno, Edificio Sudamérica, Torre Dorrego, Plaza Bucale, Quartier de Oro, Torre Brunetta, Torre Riverview I, Torre Riverview II, R. Scalabrini Ortiz 3226, R. Scalabrini Ortiz 3282, Galería Jardín - Torre Tucumán, Quartier Demaria Norte, Quartier Demaria Sur, Palermo View - Torre Santa Fe, Faculties of Health Sciences - University of Buenos Aires, Palermo View - Torre Maria Luis Campos, Terrazas del Yacht Edificio C, Terrazas del Yacht Edificio D
+Tiers: I: 22, II: 48, III: 11, IV: 1
+Rating: 168 (3.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Alvear Tower Puerto Madero ***
+Height: 235
+Floors: 56
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 1
+
+*** Harbour Tower ***
+Height: 192
+Floors: 53
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 2
+
+*** Torre Cavia ***
+Height: 172.8
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 3
+
+*** Torre Renoir 2 ***
+Height: 171.8
+Floors: 51
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 4
+
+*** Mulieris Torre Norte ***
+Height: 161.4
+Floors: 45
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 5
+
+*** Mulieris Torre Sur ***
+Height: 161.4
+Floors: 45
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 5
+
+*** Torre El Faro I ***
+Height: 160.04
+Floors: 46
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 7
+
+*** Torre El Faro II ***
+Height: 160.04
+Floors: 46
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 7
+
+*** Torre Repsol YPF ***
+Height: 160
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 9
+
+*** Torre Le Parc ***
+Height: 157.9
+Floors: 51
+Status: Completed
+Started: 1992
+Completed: 1996
+Functions: residential
+Rank: 10
+
+*** Chateau Puerto Madero ***
+Height: 155.7
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 11
+
+*** Torre BBVA ***
+Height: 155
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 12
+
+*** Torre Galicia Central ***
+Height: 145
+Floors: 33
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 13
+
+*** Torre del Boulevard ***
+Height: 144
+Floors: 43
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 14
+
+*** Torre del Parque ***
+Height: 144
+Floors: 43
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 14
+
+*** Torre del Rio ***
+Height: 144
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 14
+
+*** Edificio Alas ***
+Height: 141
+Floors: 41
+Status: Completed
+Completed: 1950
+Functions: office
+Rank: 17
+
+*** Torre BankBoston ***
+Height: 137
+Floors: 35
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 18
+
+*** Complejo Bellini Plaza San Martín 2 ***
+Height: 136
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 19
+
+*** Torre Renoir 1 ***
+Height: 135.43
+Floors: 41
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 20
+
+*** Libertador 4444 ***
+Height: 135
+Floors: 45
+Status: Completed
+Started: 1992
+Completed: 1994
+Functions: residential
+Rank: 21
+
+*** Torres del Yacht I ***
+Height: 135
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 21
+
+*** Torres del Yacht II ***
+Height: 135
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 21
+
+*** 955 Belgrano Office ***
+Height: 135
+Floors: 29
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 24
+
+*** Chateau Libertador ***
+Height: 133
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 25
+
+*** Sede Corporativa Banco Macro ***
+Height: 130
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 26
+
+*** Madero Office ***
+Height: 130
+Floors: 27
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 27
+
+*** Alvear Icon Hotel & Residences ***
+Height: 129.5
+Floors: 32
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential / hotel
+Rank: 28
+
+*** Mirabilia Palermo 1 ***
+Height: 129
+Floors: 45
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 29
+
+*** Mirabilia Palermo 2 ***
+Height: 129
+Floors: 45
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 29
+
+*** Torre Alto Palermo I ***
+Height: 126
+Floors: 35
+Status: Completed
+Started: 1994
+Completed: 1995
+Functions: residential
+Rank: 31
+
+*** Torre Alto Palermo II ***
+Height: 126
+Floors: 35
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: residential
+Rank: 31
+
+*** Torre Odeon ***
+Height: 125
+Floors: 32
+Status: Under Construction
+Functions: office
+Rank: 33
+
+*** Torre Alcorta ***
+Height: 123
+Floors: 29
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 34
+
+*** San Martin 344 ***
+Height: 122
+Floors: 29
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 35
+
+*** Torre Alem Plaza ***
+Height: 121
+Floors: 32
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 36
+
+*** Torre Carlos Pellegrini ***
+Height: 120.7
+Floors: 31
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: office
+Rank: 37
+
+*** Libertador 380 ***
+Height: 120
+Floors: 35
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 38
+
+*** Edifcio Kavanagh ***
+Height: 120
+Floors: 33
+Status: Completed
+Started: 1934
+Completed: 1936
+Functions: residential
+Rank: 39
+
+*** Torre Alcorta ***
+Height: 120
+Floors: 29
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 40
+
+*** Torre Bulnes ***
+Height: 118.8
+Floors: 37
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 41
+
+*** Torre Ruggieri ***
+Height: 118.8
+Floors: 37
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 41
+
+*** Inter-Continental Plaza ***
+Height: 117
+Floors: 26
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 43
+
+*** Torre Bellini ***
+Height: 116
+Floors: 37
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 44
+
+*** Catalinas Plaza ***
+Height: 115
+Floors: 29
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 45
+
+*** Torre Bouchard ***
+Height: 115
+Floors: 29
+Status: Completed
+Started: 1996
+Completed: 1997
+Functions: office
+Rank: 45
+
+*** Torre Catalinas Plaza ***
+Height: 114.9
+Floors: 29
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 47
+
+*** Catalinas Norte ***
+Height: 114.6
+Floors: 29
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 48
+
+*** Dosplaza I ***
+Height: 114
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 49
+
+*** Edificio Chacofi ***
+Height: 113
+Floors: 29
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 50
+
+*** Promenade Palermo ***
+Height: 111.8
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 51
+
+*** Promenade Palermo ***
+Height: 111.75
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 52
+
+*** Galería Jardín - Torre Florida ***
+Height: 110.5
+Floors: 28
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 53
+
+*** Torres de Montaneses - Torre Central ***
+Height: 110
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 54
+
+*** Torre HSBC ***
+Height: 108.8
+Floors: 29
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 55
+
+*** Torre Forum ***
+Height: 107.6
+Floors: 35
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 56
+
+*** O' Higgins 1826 ***
+Height: 107
+Floors: 35
+Status: Completed
+Functions: residential
+Rank: 57
+
+*** Edificio Prourban ***
+Height: 107
+Floors: 29
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 58
+
+*** Torre Vuelta de Dorrego ***
+Height: 107
+Floors: 27
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 59
+
+*** Plaza San Marco ***
+Height: 106.7
+Floors: 36
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 60
+
+*** Caballito Nuevo I ***
+Height: 105.75
+Floors: 34
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 61
+
+*** Caballito Nuevo II ***
+Height: 105.75
+Floors: 34
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 61
+
+*** Torre Union ***
+Height: 105.5
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 63
+
+*** Torre Intecons ***
+Height: 105
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 64
+
+*** Palermo Uno ***
+Height: 103.4
+Floors: 33
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 65
+
+*** Edificio Sudamérica ***
+Height: 102
+Floors: 33
+Status: Completed
+Started: 1957
+Completed: 1964
+Functions: residential
+Rank: 66
+
+*** Torre Dorrego ***
+Height: 102
+Floors: 32
+Status: Completed
+Started: 1968
+Completed: 1972
+Functions: residential
+Rank: 67
+
+*** Plaza Bucale ***
+Height: 101.8
+Floors: 35
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 68
+
+*** Quartier de Oro ***
+Height: 101.8
+Floors: 33
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 69
+
+*** Torre Brunetta ***
+Height: 101
+Floors: 32
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 70
+
+*** Torre Riverview I ***
+Height: 100
+Floors: 34
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 71
+
+*** Torre Riverview II ***
+Height: 100
+Floors: 34
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 71
+
+*** R. Scalabrini Ortiz 3226 ***
+Height: 99
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 73
+
+*** R. Scalabrini Ortiz 3282 ***
+Height: 99
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 73
+
+*** Galería Jardín - Torre Tucumán ***
+Height: 99
+Floors: 31
+Status: Completed
+Functions: residential
+Rank: 75
+
+*** Quartier Demaria Norte ***
+Height: 96.3
+Floors: 30
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: residential
+Rank: 76
+
+*** Quartier Demaria Sur ***
+Height: 96.3
+Floors: 30
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: residential
+Rank: 76
+
+*** Palermo View - Torre Santa Fe ***
+Height: 96
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 78
+
+*** Faculties of Health Sciences - University of Buenos Aires ***
+Height: 86.5
+Floors: 19
+Status: Completed
+Started: 1937
+Completed: 1944
+Functions: education
+Rank: 79
+
+*** Palermo View - Torre Maria Luis Campos ***
+Height: 84.5
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 80
+
+*** Terrazas del Yacht Edificio C ***
+Height: 76.83
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 81
+
+*** Terrazas del Yacht Edificio D ***
+Height: 76.83
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 81

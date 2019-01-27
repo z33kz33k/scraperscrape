@@ -1,0 +1,29 @@
+*** Mainz (2) ***
+1. Bonifazius Platz I, 95m
+2. Bonifazius Platz II, 95m
+
+******************** DETAILS ********************
+
+*** Mainz ***
+Country: Germany
+Region: Europe
+2 towers: Bonifazius Platz I, Bonifazius Platz II
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bonifazius Platz I ***
+Height: 94.7
+Floors: 24
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 1
+
+*** Bonifazius Platz II ***
+Height: 94.7
+Floors: 24
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 1

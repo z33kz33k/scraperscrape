@@ -1,0 +1,83 @@
+*** Belo Horizonte (13) ***
+1. Edifício Aureliano Chaves, 121m
+2. Conjunto JK Torre A, 120m
+3. Edificio Acaiaca, 120m
+4. Conjunto Frederico Correa Garage, 115m
+5. Savassi Tower, 112m
+6. Othon Palace Hotel, 101m
+7. Lolita Guimarães, 88m
+8. High Houses, 88m
+
+******************** DETAILS ********************
+
+*** Belo Horizonte ***
+Country: Brazil
+Region: South America
+8 towers: Edifício Aureliano Chaves, Conjunto JK Torre A, Edificio Acaiaca, Conjunto Frederico Correa Garage, Savassi Tower, Othon Palace Hotel, Lolita Guimarães, High Houses
+Tiers: I: 3, II: 5
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Edifício Aureliano Chaves ***
+Height: 121.1
+Floors: 24
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** Conjunto JK Torre A ***
+Height: 120
+Floors: 36
+Status: Completed
+Completed: 1963
+Functions: residential
+Rank: 2
+
+*** Edificio Acaiaca ***
+Height: 120
+Floors: 30
+Status: Completed
+Completed: 1943
+Functions: office
+Rank: 3
+
+*** Conjunto Frederico Correa Garage ***
+Height: 115.22
+Floors: 42
+Status: Completed
+Functions: other
+Rank: 4
+
+*** Savassi Tower ***
+Height: 112.5
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 5
+
+*** Othon Palace Hotel ***
+Height: 101
+Floors: 32
+Status: Completed
+Completed: 1978
+Functions: hotel
+Rank: 6
+
+*** Lolita Guimarães ***
+Height: 88.4
+Floors: 23
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 7
+
+*** High Houses ***
+Height: 88
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 8

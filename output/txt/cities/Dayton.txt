@@ -1,0 +1,59 @@
+*** Dayton (7) ***
+1. Kettering Tower, 124m
+2. KeyBank Tower, 117m
+3. One Dayton Centre, 102m
+4. 40 West 4th Centre, 101m
+5. Premier Health Center, 100m
+
+******************** DETAILS ********************
+
+*** Dayton ***
+Country: United States
+Region: North America
+5 towers: Kettering Tower, KeyBank Tower, One Dayton Centre, 40 West 4th Centre, Premier Health Center
+Tiers: I: 3, II: 2
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kettering Tower ***
+Height: 123.55
+Floors: 30
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: office
+Rank: 1
+
+*** KeyBank Tower ***
+Height: 117.35
+Floors: 27
+Status: Completed
+Started: 1975
+Completed: 1976
+Functions: office
+Rank: 2
+
+*** One Dayton Centre ***
+Height: 102.41
+Floors: 20
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 3
+
+*** 40 West 4th Centre ***
+Height: 100.89
+Floors: 22
+Status: Completed
+Started: 1968
+Completed: 1969
+Functions: office
+Rank: 4
+
+*** Premier Health Center ***
+Height: 100
+Floors: 20
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 5

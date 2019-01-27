@@ -1,0 +1,75 @@
+*** Banciao City (26) ***
+1. Far Eastern Banqiao Tower, 207m
+2. Neo Sky Dome Tower B, 188m
+3. Bank of Pansin Tower 1, 180m
+4. Neo Sky Dome Tower C, 178m
+5. Neo Sky Dome Tower D, 178m
+6. Neo Sky Dome Tower A, 156m
+7. Taipei County Government Hall, 145m
+
+******************** DETAILS ********************
+
+*** Banciao City ***
+Country: Taiwan
+Region: Asia
+7 towers: Far Eastern Banqiao Tower, Neo Sky Dome Tower B, Bank of Pansin Tower 1, Neo Sky Dome Tower C, Neo Sky Dome Tower D, Neo Sky Dome Tower A, Taipei County Government Hall
+Tiers: II: 1, III: 6
+Rating: 26
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Far Eastern Banqiao Tower ***
+Height: 207.4
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: hotel / office / retail
+Rank: 1
+
+*** Neo Sky Dome Tower B ***
+Height: 188.35
+Floors: 46
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 2
+
+*** Bank of Pansin Tower 1 ***
+Height: 180
+Floors: 34
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 3
+
+*** Neo Sky Dome Tower C ***
+Height: 177.57
+Floors: 43
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 4
+
+*** Neo Sky Dome Tower D ***
+Height: 177.57
+Floors: 43
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 4
+
+*** Neo Sky Dome Tower A ***
+Height: 155.75
+Floors: 40
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 6
+
+*** Taipei County Government Hall ***
+Height: 145
+Floors: 34
+Status: Completed
+Completed: 2003
+Functions: government
+Rank: 7

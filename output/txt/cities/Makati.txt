@@ -1,0 +1,680 @@
+*** Makati (256) ***
+1.  Park Central North Tower, 276m
+2.  Philippine Bank of Communications, 259m
+3.  Trump Tower At Century City, 251m
+4.  The Shang Salcedo, 250m
+5.  Century Spire, 245m
+6.  Gramercy Residences, 244m
+7.  Discovery Primea, 239m
+8.  Alphaland Makati Place, 220m
+9.  GT International Tower, 217m
+10. Park Central South Tower, 217m
+11. Garden Towers 1, 215m
+12. The Rise Makati, 210m
+13. Park Terraces Point Tower, 210m
+14. Petron Megaplaza, 210m
+15. The Knightsbridge Residences, 209m
+16. San Lorenzo Tower, 204m
+17. One Rockwell West Tower, 202m
+18. Garden Towers 2, 200m
+19. Three Central, 200m
+20. Philamlife Tower, 200m
+21. The Beacon Arnaiz Tower, 197m
+22. Milano Residences, 196m
+23. Air Residences, 196m
+24. One Central, 195m
+25. Ayala Triangle Gardens North, 195m
+26. RCBC Plaza Yuchengco Tower, 192m
+27. Park Terraces Tower 1, 187m
+28. Park Terraces Tower 2, 187m
+29. Shang Grand Tower, 180m
+30. LKG Tower, 180m
+31. Alphaland Tower, 180m
+32. One Roxas Triangle, 174m
+33. Robinsons Summit Center, 174m
+34. Enterprise Center Tower I, 172m
+35. Laguna Tower, 171m
+36. Manila Tower, 171m
+37. RCBC Plaza Tower 2, 170m
+38. One Rockwell East Tower, 165m
+39. Rufino Pacific Tower, 162m
+40. Edades Tower and Garden Villas, 161m
+41. Ayala Tower One, 160m
+42. The Beacon Roces Tower, 158m
+43. Kroma Tower, 157m
+44. Rizal Tower, 156m
+45. Exportbank Plaza, 155m
+46. Zuellig Building, 155m
+47. BSA Makati Tower, 154m
+48. The World Centre, 152m
+49. Pacific Plaza Condominiums, 150m
+50. One Legazpi Park, 150m
+51. The Columns Legazpi Village Tower I, 146m
+52. The Columns Legazpi Village Tower II, 146m
+53. The Peak, 138m
+54. Enterprise Center Tower II, 135m
+55. Luna Gardens, 135m
+56. Oxford Suites, 130m
+57. Two Central, 125m
+58. Laureano Di Trevi, 121m
+59. Citibank Tower, 119m
+60. Centuria Medical Makati, 118m
+61. Oakwood Premier Ayala Center Tower 1, 116m
+62. Oakwood Premier Ayala Center Tower 2, 116m
+63. BSA Suites, 112m
+64. Amorsolo West, 107m
+65. Makati Prime Tower Suites, 105m
+66. Citadel Inn Makati, 105m
+67. Lezgaspi Place, 101m
+68. Makati Sky Plaza, 100m
+69. Kingswood Makati, 88m
+70. Hidalgo Place, 88m
+
+******************** DETAILS ********************
+
+*** Makati ***
+Country: Philippines
+Region: Asia
+70 towers: Park Central North Tower, Philippine Bank of Communications, Trump Tower At Century City, The Shang Salcedo, Century Spire, Gramercy Residences, Discovery Primea, Alphaland Makati Place, GT International Tower, Park Central South Tower, Garden Towers 1, The Rise Makati, Park Terraces Point Tower, Petron Megaplaza, The Knightsbridge Residences, San Lorenzo Tower, One Rockwell West Tower, Garden Towers 2, Three Central, Philamlife Tower, The Beacon Arnaiz Tower, Milano Residences, Air Residences, One Central, Ayala Triangle Gardens North, RCBC Plaza Yuchengco Tower, Park Terraces Tower 1, Park Terraces Tower 2, Shang Grand Tower, LKG Tower, Alphaland Tower, One Roxas Triangle, Robinsons Summit Center, Enterprise Center Tower I, Laguna Tower, Manila Tower, RCBC Plaza Tower 2, One Rockwell East Tower, Rufino Pacific Tower, Edades Tower and Garden Villas, Ayala Tower One, The Beacon Roces Tower, Kroma Tower, Rizal Tower, Exportbank Plaza, Zuellig Building, BSA Makati Tower, The World Centre, Pacific Plaza Condominiums, One Legazpi Park, The Columns Legazpi Village Tower I, The Columns Legazpi Village Tower II, The Peak, Enterprise Center Tower II, Luna Gardens, Oxford Suites, Two Central, Laureano Di Trevi, Citibank Tower, Centuria Medical Makati, Oakwood Premier Ayala Center Tower 1, Oakwood Premier Ayala Center Tower 2, BSA Suites, Amorsolo West, Makati Prime Tower Suites, Citadel Inn Makati, Lezgaspi Place, Makati Sky Plaza, Kingswood Makati, Hidalgo Place
+Tiers: I: 6, II: 14, III: 39, IV: 11
+Rating: 256 (18.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Park Central North Tower ***
+Height: 276
+Floors: 69
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 1
+
+*** Philippine Bank of Communications ***
+Height: 258.6
+Floors: 55
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 2
+
+*** Trump Tower At Century City ***
+Height: 250.66
+Floors: 58
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 3
+
+*** The Shang Salcedo ***
+Height: 249.8
+Floors: 67
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 4
+
+*** Century Spire ***
+Height: 245
+Floors: 60
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential / office
+Rank: 5
+
+*** Gramercy Residences ***
+Height: 243.92
+Floors: 71
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 6
+
+*** Discovery Primea ***
+Height: 238.8
+Floors: 67
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential / hotel
+Rank: 7
+
+*** Alphaland Makati Place ***
+Height: 220
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 8
+
+*** GT International Tower ***
+Height: 217.2
+Floors: 43
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 9
+
+*** Park Central South Tower ***
+Height: 217
+Floors: 57
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 10
+
+*** Garden Towers 1 ***
+Height: 215
+Floors: 60
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 11
+
+*** The Rise Makati ***
+Height: 210
+Floors: 63
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 12
+
+*** Park Terraces Point Tower ***
+Height: 210
+Floors: 59
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Petron Megaplaza ***
+Height: 210
+Floors: 45
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 14
+
+*** The Knightsbridge Residences ***
+Height: 209.4
+Floors: 62
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 15
+
+*** San Lorenzo Tower ***
+Height: 204
+Floors: 57
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 16
+
+*** One Rockwell West Tower ***
+Height: 201.85
+Floors: 55
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 17
+
+*** Garden Towers 2 ***
+Height: 200
+Floors: 54
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 18
+
+*** Three Central ***
+Height: 200
+Floors: 51
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 19
+
+*** Philamlife Tower ***
+Height: 200
+Floors: 47
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 20
+
+*** The Beacon Arnaiz Tower ***
+Height: 197
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 21
+
+*** Milano Residences ***
+Height: 196
+Floors: 53
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 22
+
+*** Air Residences ***
+Height: 195.6
+Floors: 60
+Status: Under Construction
+Completed: 2020
+Functions: residential
+Rank: 23
+
+*** One Central ***
+Height: 195
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 24
+
+*** Ayala Triangle Gardens North ***
+Height: 194.6
+Floors: 40
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 25
+
+*** RCBC Plaza Yuchengco Tower ***
+Height: 192
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 26
+
+*** Park Terraces Tower 1 ***
+Height: 187
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential
+Rank: 27
+
+*** Park Terraces Tower 2 ***
+Height: 187
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 27
+
+*** Shang Grand Tower ***
+Height: 180
+Floors: 46
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 29
+
+*** LKG Tower ***
+Height: 180
+Floors: 43
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 30
+
+*** Alphaland Tower ***
+Height: 180
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 31
+
+*** One Roxas Triangle ***
+Height: 174.25
+Floors: 51
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 32
+
+*** Robinsons Summit Center ***
+Height: 174.04
+Floors: 38
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 33
+
+*** Enterprise Center Tower I ***
+Height: 172
+Floors: 40
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 34
+
+*** Laguna Tower ***
+Height: 171.03
+Floors: 48
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 35
+
+*** Manila Tower ***
+Height: 171.03
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 35
+
+*** RCBC Plaza Tower 2 ***
+Height: 170.03
+Floors: 41
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 37
+
+*** One Rockwell East Tower ***
+Height: 165.15
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 38
+
+*** Rufino Pacific Tower ***
+Height: 162.03
+Floors: 41
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 39
+
+*** Edades Tower and Garden Villas ***
+Height: 161.2
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 40
+
+*** Ayala Tower One ***
+Height: 160
+Floors: 35
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: office
+Rank: 41
+
+*** The Beacon Roces Tower ***
+Height: 158
+Floors: 44
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 42
+
+*** Kroma Tower ***
+Height: 157
+Floors: 52
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 43
+
+*** Rizal Tower ***
+Height: 155.95
+Floors: 49
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 44
+
+*** Exportbank Plaza ***
+Height: 155
+Floors: 38
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 45
+
+*** Zuellig Building ***
+Height: 155
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 46
+
+*** BSA Makati Tower ***
+Height: 153.93
+Floors: 37
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 47
+
+*** The World Centre ***
+Height: 152.4
+Floors: 30
+Status: Completed
+Started: 1992
+Completed: 1995
+Functions: office
+Rank: 48
+
+*** Pacific Plaza Condominiums ***
+Height: 150.03
+Floors: 44
+Status: Completed
+Completed: 1992
+Functions: residential
+Rank: 49
+
+*** One Legazpi Park ***
+Height: 150.01
+Floors: 45
+Status: Completed
+Started: 2001
+Completed: 2006
+Functions: residential
+Rank: 50
+
+*** The Columns Legazpi Village Tower I ***
+Height: 146
+Floors: 41
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 51
+
+*** The Columns Legazpi Village Tower II ***
+Height: 146
+Floors: 41
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 51
+
+*** The Peak ***
+Height: 138
+Floors: 38
+Status: Completed
+Completed: 1991
+Functions: residential / office
+Rank: 53
+
+*** Enterprise Center Tower II ***
+Height: 135
+Floors: 30
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 54
+
+*** Luna Gardens ***
+Height: 134.9
+Floors: 42
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 55
+
+*** Oxford Suites ***
+Height: 130
+Floors: 30
+Status: Completed
+Completed: 1995
+Functions: hotel
+Rank: 56
+
+*** Two Central ***
+Height: 125
+Floors: 29
+Status: Under Construction
+Started: 2012
+Functions: residential
+Rank: 57
+
+*** Laureano Di Trevi ***
+Height: 121.2
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential / retail
+Rank: 58
+
+*** Citibank Tower ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 59
+
+*** Centuria Medical Makati ***
+Height: 118.28
+Floors: 28
+Status: Completed
+Completed: 2015
+Functions: hospital
+Rank: 60
+
+*** Oakwood Premier Ayala Center Tower 1 ***
+Height: 116
+Floors: 26
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 61
+
+*** Oakwood Premier Ayala Center Tower 2 ***
+Height: 116
+Floors: 26
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 61
+
+*** BSA Suites ***
+Height: 112
+Floors: 31
+Status: Completed
+Completed: 1998
+Rank: 63
+
+*** Amorsolo West ***
+Height: 107
+Floors: 30
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 64
+
+*** Makati Prime Tower Suites ***
+Height: 105
+Floors: 35
+Status: Completed
+Completed: 1997
+Functions: residential / hotel
+Rank: 65
+
+*** Citadel Inn Makati ***
+Height: 105
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 66
+
+*** Lezgaspi Place ***
+Height: 101
+Floors: 32
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 67
+
+*** Makati Sky Plaza ***
+Height: 100
+Floors: 24
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 68
+
+*** Kingswood Makati ***
+Height: 88
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 69
+
+*** Hidalgo Place ***
+Height: 87.6
+Floors: 24
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 70

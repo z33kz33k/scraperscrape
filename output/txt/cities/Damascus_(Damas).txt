@@ -1,0 +1,19 @@
+*** Damascus (Damas) (2) ***
+1. Damascus Tower, 120m
+
+******************** DETAILS ********************
+
+*** Damascus (Damas) ***
+Country: Syria
+Region: Middle East
+1 tower: Damascus Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Damascus Tower ***
+Height: 120.2
+Floors: 29
+Status: Completed
+Functions: office
+Rank: 1

@@ -1,0 +1,19 @@
+*** Nampo (2) ***
+1. Nampo Tower, 110m
+
+******************** DETAILS ********************
+
+*** Nampo ***
+Country: North Korea
+Region: Asia
+1 tower: Nampo Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Nampo Tower ***
+Height: 110
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 1

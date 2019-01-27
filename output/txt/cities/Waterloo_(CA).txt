@@ -1,0 +1,20 @@
+*** Waterloo (CA) (1) ***
+1. Sun Life Building, 78m
+
+******************** DETAILS ********************
+
+*** Waterloo (CA) ***
+Country: Canada
+Region: North America
+1 tower: Sun Life Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sun Life Building ***
+Height: 78
+Floors: 18
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 1

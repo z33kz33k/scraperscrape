@@ -1,0 +1,18 @@
+*** Mongolia (20) ***
+1. Ulaanbaatar, 20
+
+******************** DETAILS ********************
+
+*** Mongolia ***
+Region: Asia
+1 city: Ulaanbaatar
+Tiers: I: 8, II: 6
+Rating: 20
+
+*** Ulaanbaatar ***
+Country: Mongolia
+Region: Asia
+14 towers: Shangri-La Wind Valley Wing Hotel, Soyombo Tower, Shangri-La Office Tower, Best Western Tuushin, Khurd Tower, Central Tower, Blue Sky Tower, Bella Vista Tower 1, Bella Vista Tower 2, Bella Vista Tower 3, Bella Vista Tower 4, International Commerce Center, Shangri-La Ulaanbaatar Hotel, Monnis Tower
+Tiers: I: 8, II: 6
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17

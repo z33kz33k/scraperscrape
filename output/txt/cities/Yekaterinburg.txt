@@ -1,0 +1,1690 @@
+*** Yekaterinburg (196) ***
+1.   Iset Tower, 209m
+2.   Vysotsky Business Center, 188m
+3.   OPERA Tower, 158m
+4.   Sverdlovsk, 151m
+5.   February Revolution, 139m
+6.   Demidov Plaza, 130m
+7.   Olimpiiskii 1, 128m
+8.   Olimpiiskii 2, 128m
+9.   Olimpiiskii 3, 128m
+10.  Malevich 2, 111m
+11.  Arbatskii, 108m
+12.  Aleksandrovskii Kvartal 2, 101m
+13.  Krylov 2, 100m
+14.  Federation Quarter, 100m
+15.  Svetlyi 5, 98m
+16.  Gorkogo 79, 97m
+17.  World Trade Center Ekaterinburg, 94m
+18.  Summit, 94m
+19.  Akvamarin 2, 93m
+20.  3D-Club 1, 92m
+21.  Admiralskii - Phase 1-3, 92m
+22.  Kamennyi Ruchei 1, 91m
+23.  Kamennyi Ruchei 2, 91m
+24.  Kamennyi Ruchei 3, 91m
+25.  Admiralskii - Phase 1-1, 91m
+26.  Admiralskii - Phase 1-2, 91m
+27.  Mayakovskii Park 1, 90m
+28.  Mayakovskii Park 2, 90m
+29.  Malevich 1, 89m
+30.  Malevich 3, 89m
+31.  Malevich 4, 89m
+32.  Bazhovskii Premium, 89m
+33.  State Government, 89m
+34.  Premier-2 A, 89m
+35.  Newtone Park 1, 88m
+36.  Zhemchyuzhina Sortirovki, 88m
+37.  Apelsin, 88m
+38.  Vremena Goda A, 88m
+39.  Vremena Goda G, 88m
+40.  Raduzhnyi, 86m
+41.  Nikonova 21, 86m
+42.  Na Postovskogo 1, 85m
+43.  Na Postovskogo 2, 85m
+44.  Bilimbaevskaya 35, 85m
+45.  Kamennyi Ruchei 4, 85m
+46.  Millenium 5-6, 85m
+47.  Avangard 1, 85m
+48.  Avangard 2, 85m
+49.  Chkalova 124, 85m
+50.  Nebesnyi 1, 85m
+51.  Nebesnyi 2, 85m
+52.  Ordenonostsev 10, 85m
+53.  Ordenonostsev 8, 85m
+54.  Severnoe Siyanie 1, 85m
+55.  Severnoe Siyanie 2, 85m
+56.  Tehnicheskaya 14/2, 85m
+57.  Tihii Bereg 3-1, 85m
+58.  Tihii Bereg 3-2, 85m
+59.  Vilonova 18, 85m
+60.  Atrium, 85m
+61.  Koltso Ekateriny 2, 85m
+62.  3D-Club 2, 85m
+63.  3D-Club 3, 85m
+64.  Premier 1, 84m
+65.  Premier 2, 84m
+66.  Premier-2 D, 84m
+67.  Novyi Uktus 2, 84m
+68.  Novyi Uktus 4, 84m
+69.  Novyi Uktus 5, 84m
+70.  Hyatt Regency Ekaterinburg, 83m
+71.  Golfstrim 4, 82m
+72.  Golfstrim 5, 82m
+73.  Kuibysheva 98, 82m
+74.  Pervyi Nikolaevskii 3, 82m
+75.  Golfstrim 1, 82m
+76.  Golfstrim 2, 82m
+77.  Azbuka, 82m
+78.  Baltiiskii 1, 82m
+79.  Dom u Pruda, 82m
+80.  Liga Chempionov, 82m
+81.  Mashinistov 3, 82m
+82.  Millenium 3, 82m
+83.  Moskovskii, 82m
+84.  Moskva, 82m
+85.  Oazis, 82m
+86.  Peremena 1, 82m
+87.  Peremena 2, 82m
+88.  Rassvetnaya 9a, 82m
+89.  Rassvetnyi 1, 82m
+90.  Rassvetnyi 2, 82m
+91.  Rassvetnyi 3, 82m
+92.  Rassvetnyi 4, 82m
+93.  Rassvetnyi 5, 82m
+94.  Repin Park 1, 82m
+95.  Repina-Leningradskaya, 82m
+96.  Semitsvet 1, 82m
+97.  Semitsvet 2, 82m
+98.  Solnechnyi Ostrov 5, 82m
+99.  Universitetskii - Kopernik, 82m
+100. Universitetskii - Lomonosov, 82m
+101. Universitetskii - Mendeleev, 82m
+102. Universitetskii 2, 82m
+103. Universitetskii 3, 82m
+104. Olhovskii Park 1, 82m
+105. President, 82m
+106. Atlant, 82m
+107. Gazprom Transgaz Ekaterinburg, 80m
+108. Na Industrii, 79m
+109. Admiral, 79m
+110. Admiralskii - Phase 2-1, 79m
+111. Admiralskii - Phase 2-2, 79m
+112. Antares 1, 79m
+113. Aston Plaza, 79m
+114. Avrora, 79m
+115. Berezovaya Rosha 5, 79m
+116. Berezovaya Rosha 6, 79m
+117. Chermet Plaza, 79m
+118. Flagman 1, 79m
+119. Forest 1, 79m
+120. Forest 2, 79m
+121. Gagarinskii 3, 79m
+122. Kalinovskii 8, 79m
+123. Kalinovskii 9, 79m
+124. Kosmos 1, 79m
+125. Kosmos 2, 79m
+126. Krylov 1, 79m
+127. Lastochkino Gnezdo, 79m
+128. Millenium 1, 79m
+129. Novgorodtsevoi 25, 79m
+130. Olymp, 79m
+131. Ordenonostsev 4, 79m
+132. Ordenonostsev 6, 79m
+133. Parnikovaya 6, 79m
+134. Polese 2 - 19, 79m
+135. Polese 2 - 23, 79m
+136. Prestizh, 79m
+137. Profsoyuznaya 43, 79m
+138. Roshinskii 7, 79m
+139. Simfoniya 1, 79m
+140. Solnechnyi Ostrov 1, 79m
+141. Solnechnyi Ostrov 4, 79m
+142. Sozvezdie 2, 79m
+143. Staryh Bolshevikov 1v, 79m
+144. Svetlyi 1, 79m
+145. Svetlyi 2, 79m
+146. Svetlyi 3, 79m
+147. Svetlyi 4, 79m
+148. Tatisheva 122, 79m
+149. Tri Kapitana 2, 79m
+150. Tri Kapitana 3, 79m
+151. Uralskaya 75, 79m
+152. Uralskii 1, 79m
+153. Vertikal, 79m
+154. Vilonova 24, 79m
+155. Vilonova 8, 79m
+156. Vysotskogo 18d, 79m
+157. Yuzhnye Vorota, 79m
+158. Tatishevskii 1, 79m
+159. Tatishevskii 2, 79m
+160. Tatishevskii 3, 79m
+161. Gulliver, 77m
+162. Sochi 1A, 77m
+163. Akademicheskiy. Block 1.1.2, 76m
+164. Akademicheskiy. Block 1.1.3, 76m
+165. Akademicheskiy. Block 1.2, 76m
+166. Akademicheskiy. Block 1.3, 76m
+167. Aleksandrovskii Kvartal 1, 76m
+168. Clever Park. Phase 1-1, 76m
+169. Duet 1, 76m
+170. Duet 2, 76m
+171. Kosmonavtov 46a, 76m
+172. Kvartal Hudozhnikov, 76m
+173. Kvartet 1, 76m
+174. Universitetskii 1, 76m
+175. Zelenyi Mys, 76m
+176. Antei 1, 76m
+177. Klen 1, 75m
+
+******************** DETAILS ********************
+
+*** Yekaterinburg ***
+Country: Russia
+Region: Asia
+177 towers: Iset Tower, Vysotsky Business Center, OPERA Tower, Sverdlovsk, February Revolution, Demidov Plaza, Olimpiiskii 1, Olimpiiskii 2, Olimpiiskii 3, Malevich 2, Arbatskii, Aleksandrovskii Kvartal 2, Krylov 2, Federation Quarter, Svetlyi 5, Gorkogo 79, World Trade Center Ekaterinburg, Summit, Akvamarin 2, 3D-Club 1, Admiralskii - Phase 1-3, Kamennyi Ruchei 1, Kamennyi Ruchei 2, Kamennyi Ruchei 3, Admiralskii - Phase 1-1, Admiralskii - Phase 1-2, Mayakovskii Park 1, Mayakovskii Park 2, Malevich 1, Malevich 3, Malevich 4, Bazhovskii Premium, State Government, Premier-2 A, Newtone Park 1, Zhemchyuzhina Sortirovki, Apelsin, Vremena Goda A, Vremena Goda G, Raduzhnyi, Nikonova 21, Na Postovskogo 1, Na Postovskogo 2, Bilimbaevskaya 35, Kamennyi Ruchei 4, Millenium 5-6, Avangard 1, Avangard 2, Chkalova 124, Nebesnyi 1, Nebesnyi 2, Ordenonostsev 10, Ordenonostsev 8, Severnoe Siyanie 1, Severnoe Siyanie 2, Tehnicheskaya 14/2, Tihii Bereg 3-1, Tihii Bereg 3-2, Vilonova 18, Atrium, Koltso Ekateriny 2, 3D-Club 2, 3D-Club 3, Premier 1, Premier 2, Premier-2 D, Novyi Uktus 2, Novyi Uktus 4, Novyi Uktus 5, Hyatt Regency Ekaterinburg, Golfstrim 4, Golfstrim 5, Kuibysheva 98, Pervyi Nikolaevskii 3, Golfstrim 1, Golfstrim 2, Azbuka, Baltiiskii 1, Dom u Pruda, Liga Chempionov, Mashinistov 3, Millenium 3, Moskovskii, Moskva, Oazis, Peremena 1, Peremena 2, Rassvetnaya 9a, Rassvetnyi 1, Rassvetnyi 2, Rassvetnyi 3, Rassvetnyi 4, Rassvetnyi 5, Repin Park 1, Repina-Leningradskaya, Semitsvet 1, Semitsvet 2, Solnechnyi Ostrov 5, Universitetskii - Kopernik, Universitetskii - Lomonosov, Universitetskii - Mendeleev, Universitetskii 2, Universitetskii 3, Olhovskii Park 1, President, Atlant, Gazprom Transgaz Ekaterinburg, Na Industrii, Admiral, Admiralskii - Phase 2-1, Admiralskii - Phase 2-2, Antares 1, Aston Plaza, Avrora, Berezovaya Rosha 5, Berezovaya Rosha 6, Chermet Plaza, Flagman 1, Forest 1, Forest 2, Gagarinskii 3, Kalinovskii 8, Kalinovskii 9, Kosmos 1, Kosmos 2, Krylov 1, Lastochkino Gnezdo, Millenium 1, Novgorodtsevoi 25, Olymp, Ordenonostsev 4, Ordenonostsev 6, Parnikovaya 6, Polese 2 - 19, Polese 2 - 23, Prestizh, Profsoyuznaya 43, Roshinskii 7, Simfoniya 1, Solnechnyi Ostrov 1, Solnechnyi Ostrov 4, Sozvezdie 2, Staryh Bolshevikov 1v, Svetlyi 1, Svetlyi 2, Svetlyi 3, Svetlyi 4, Tatisheva 122, Tri Kapitana 2, Tri Kapitana 3, Uralskaya 75, Uralskii 1, Vertikal, Vilonova 24, Vilonova 8, Vysotskogo 18d, Yuzhnye Vorota, Tatishevskii 1, Tatishevskii 2, Tatishevskii 3, Gulliver, Sochi 1A, Akademicheskiy. Block 1.1.2, Akademicheskiy. Block 1.1.3, Akademicheskiy. Block 1.2, Akademicheskiy. Block 1.3, Aleksandrovskii Kvartal 1, Clever Park. Phase 1-1, Duet 1, Duet 2, Kosmonavtov 46a, Kvartal Hudozhnikov, Kvartet 1, Universitetskii 1, Zelenyi Mys, Antei 1, Klen 1
+Tiers: I: 166, II: 7, III: 4
+Rating: 196 (9.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Iset Tower ***
+Height: 209
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential
+Rank: 1
+
+*** Vysotsky Business Center ***
+Height: 188.3
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: hotel / office
+Rank: 2
+
+*** OPERA Tower ***
+Height: 158
+Floors: 42
+Status: Under Construction
+Started: 2013
+Completed: 2019
+Functions: residential / residential / hotel / office
+Rank: 3
+
+*** Sverdlovsk ***
+Height: 151
+Floors: 37
+Status: Completed
+Started: 2005
+Completed: 2015
+Functions: office / retail
+Rank: 4
+
+*** February Revolution ***
+Height: 138.79
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 5
+
+*** Demidov Plaza ***
+Height: 130
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2015
+Functions: office / retail
+Rank: 6
+
+*** Olimpiiskii 1 ***
+Height: 128
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / retail
+Rank: 7
+
+*** Olimpiiskii 2 ***
+Height: 128
+Floors: 37
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 7
+
+*** Olimpiiskii 3 ***
+Height: 128
+Floors: 37
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential / retail
+Rank: 7
+
+*** Malevich 2 ***
+Height: 110.8
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 10
+
+*** Arbatskii ***
+Height: 108
+Floors: 32
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** Aleksandrovskii Kvartal 2 ***
+Height: 100.75
+Floors: 32
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Krylov 2 ***
+Height: 100
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Federation Quarter ***
+Height: 100
+Floors: 20
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 14
+
+*** Svetlyi 5 ***
+Height: 97.65
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Gorkogo 79 ***
+Height: 97
+Floors: 32
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 16
+
+*** World Trade Center Ekaterinburg ***
+Height: 94
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: office / hotel
+Rank: 17
+
+*** Summit ***
+Height: 93.85
+Floors: 22
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 18
+
+*** Akvamarin 2 ***
+Height: 93
+Floors: 26
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 19
+
+*** 3D-Club 1 ***
+Height: 92.42
+Floors: 28
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 20
+
+*** Admiralskii - Phase 1-3 ***
+Height: 92
+Floors: 29
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 21
+
+*** Kamennyi Ruchei 1 ***
+Height: 91.45
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential / education
+Rank: 22
+
+*** Kamennyi Ruchei 2 ***
+Height: 91.45
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential / retail
+Rank: 22
+
+*** Kamennyi Ruchei 3 ***
+Height: 91.45
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential / retail
+Rank: 22
+
+*** Admiralskii - Phase 1-1 ***
+Height: 91.3
+Floors: 29
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 25
+
+*** Admiralskii - Phase 1-2 ***
+Height: 91.3
+Floors: 29
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 25
+
+*** Mayakovskii Park 1 ***
+Height: 89.5
+Floors: 26
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 27
+
+*** Mayakovskii Park 2 ***
+Height: 89.5
+Floors: 26
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 27
+
+*** Malevich 1 ***
+Height: 89.1
+Floors: 27
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 29
+
+*** Malevich 3 ***
+Height: 89.1
+Floors: 27
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Malevich 4 ***
+Height: 89.1
+Floors: 27
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Bazhovskii Premium ***
+Height: 89
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential / office
+Rank: 32
+
+*** State Government ***
+Height: 89
+Floors: 24
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 33
+
+*** Premier-2 A ***
+Height: 88.8
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 34
+
+*** Newtone Park 1 ***
+Height: 88.35
+Floors: 28
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 35
+
+*** Zhemchyuzhina Sortirovki ***
+Height: 88.3
+Floors: 28
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 36
+
+*** Apelsin ***
+Height: 88
+Floors: 28
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 37
+
+*** Vremena Goda A ***
+Height: 88
+Floors: 28
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 37
+
+*** Vremena Goda G ***
+Height: 88
+Floors: 28
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 37
+
+*** Raduzhnyi ***
+Height: 86
+Floors: 28
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 40
+
+*** Nikonova 21 ***
+Height: 86
+Floors: 25
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 41
+
+*** Na Postovskogo 1 ***
+Height: 85.3
+Floors: 26
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 42
+
+*** Na Postovskogo 2 ***
+Height: 85.3
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 42
+
+*** Bilimbaevskaya 35 ***
+Height: 85.25
+Floors: 27
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 44
+
+*** Kamennyi Ruchei 4 ***
+Height: 85.25
+Floors: 27
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential / retail
+Rank: 44
+
+*** Millenium 5-6 ***
+Height: 85.2
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 46
+
+*** Avangard 1 ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 47
+
+*** Avangard 2 ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 47
+
+*** Chkalova 124 ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 47
+
+*** Nebesnyi 1 ***
+Height: 85
+Floors: 27
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 47
+
+*** Nebesnyi 2 ***
+Height: 85
+Floors: 27
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 47
+
+*** Ordenonostsev 10 ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 47
+
+*** Ordenonostsev 8 ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 47
+
+*** Severnoe Siyanie 1 ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 47
+
+*** Severnoe Siyanie 2 ***
+Height: 85
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 47
+
+*** Tehnicheskaya 14/2 ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2011
+Functions: residential / office
+Rank: 47
+
+*** Tihii Bereg 3-1 ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 47
+
+*** Tihii Bereg 3-2 ***
+Height: 85
+Floors: 27
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 47
+
+*** Vilonova 18 ***
+Height: 85
+Floors: 27
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 47
+
+*** Atrium ***
+Height: 85
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 60
+
+*** Koltso Ekateriny 2 ***
+Height: 85
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 60
+
+*** 3D-Club 2 ***
+Height: 85
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 62
+
+*** 3D-Club 3 ***
+Height: 85
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 62
+
+*** Premier 1 ***
+Height: 84.4
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 64
+
+*** Premier 2 ***
+Height: 84.4
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 64
+
+*** Premier-2 D ***
+Height: 84.4
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 64
+
+*** Novyi Uktus 2 ***
+Height: 83.5
+Floors: 26
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 67
+
+*** Novyi Uktus 4 ***
+Height: 83.5
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 67
+
+*** Novyi Uktus 5 ***
+Height: 83.5
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 67
+
+*** Hyatt Regency Ekaterinburg ***
+Height: 83
+Floors: 21
+Status: Completed
+Completed: 2008
+Functions: hotel
+Rank: 70
+
+*** Golfstrim 4 ***
+Height: 82.22
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 71
+
+*** Golfstrim 5 ***
+Height: 82.22
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 71
+
+*** Kuibysheva 98 ***
+Height: 82.2
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 73
+
+*** Pervyi Nikolaevskii 3 ***
+Height: 82.1
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 74
+
+*** Golfstrim 1 ***
+Height: 82
+Floors: 27
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 75
+
+*** Golfstrim 2 ***
+Height: 82
+Floors: 27
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 75
+
+*** Azbuka ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 77
+
+*** Baltiiskii 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 77
+
+*** Dom u Pruda ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 77
+
+*** Liga Chempionov ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 77
+
+*** Mashinistov 3 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 77
+
+*** Millenium 3 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 77
+
+*** Moskovskii ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 77
+
+*** Moskva ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 77
+
+*** Oazis ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 77
+
+*** Peremena 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 77
+
+*** Peremena 2 ***
+Height: 82
+Floors: 26
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 77
+
+*** Rassvetnaya 9a ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 77
+
+*** Rassvetnyi 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 77
+
+*** Rassvetnyi 2 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 77
+
+*** Rassvetnyi 3 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 77
+
+*** Rassvetnyi 4 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 77
+
+*** Rassvetnyi 5 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 77
+
+*** Repin Park 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 77
+
+*** Repina-Leningradskaya ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 77
+
+*** Semitsvet 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 77
+
+*** Semitsvet 2 ***
+Height: 82
+Floors: 26
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 77
+
+*** Solnechnyi Ostrov 5 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 77
+
+*** Universitetskii - Kopernik ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 77
+
+*** Universitetskii - Lomonosov ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 77
+
+*** Universitetskii - Mendeleev ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 77
+
+*** Universitetskii 2 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 77
+
+*** Universitetskii 3 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 77
+
+*** Olhovskii Park 1 ***
+Height: 82
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 104
+
+*** President ***
+Height: 82
+Floors: 20
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 105
+
+*** Atlant ***
+Height: 81.8
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 106
+
+*** Gazprom Transgaz Ekaterinburg ***
+Height: 80
+Floors: 20
+Status: Completed
+Started: 1976
+Completed: 2008
+Functions: office
+Rank: 107
+
+*** Na Industrii ***
+Height: 79
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 108
+
+*** Admiral ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 109
+
+*** Admiralskii - Phase 2-1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 109
+
+*** Admiralskii - Phase 2-2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 109
+
+*** Antares 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 109
+
+*** Aston Plaza ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 109
+
+*** Avrora ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 109
+
+*** Berezovaya Rosha 5 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 109
+
+*** Berezovaya Rosha 6 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 109
+
+*** Chermet Plaza ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 109
+
+*** Flagman 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Forest 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 109
+
+*** Forest 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Gagarinskii 3 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 109
+
+*** Kalinovskii 8 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: residential / retail
+Rank: 109
+
+*** Kalinovskii 9 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: residential / retail
+Rank: 109
+
+*** Kosmos 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 109
+
+*** Kosmos 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 109
+
+*** Krylov 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Lastochkino Gnezdo ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 109
+
+*** Millenium 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 109
+
+*** Novgorodtsevoi 25 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Olymp ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Ordenonostsev 4 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 109
+
+*** Ordenonostsev 6 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 109
+
+*** Parnikovaya 6 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 109
+
+*** Polese 2 - 19 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Polese 2 - 23 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Prestizh ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 109
+
+*** Profsoyuznaya 43 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 109
+
+*** Roshinskii 7 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Simfoniya 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Solnechnyi Ostrov 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 109
+
+*** Solnechnyi Ostrov 4 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Sozvezdie 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 109
+
+*** Staryh Bolshevikov 1v ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Svetlyi 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Svetlyi 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Svetlyi 3 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Svetlyi 4 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 109
+
+*** Tatisheva 122 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 109
+
+*** Tri Kapitana 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 109
+
+*** Tri Kapitana 3 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 109
+
+*** Uralskaya 75 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 109
+
+*** Uralskii 1 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 109
+
+*** Vertikal ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 109
+
+*** Vilonova 24 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 109
+
+*** Vilonova 8 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 109
+
+*** Vysotskogo 18d ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 109
+
+*** Yuzhnye Vorota ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 109
+
+*** Tatishevskii 1 ***
+Height: 79
+Floors: 23
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 158
+
+*** Tatishevskii 2 ***
+Height: 79
+Floors: 23
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 158
+
+*** Tatishevskii 3 ***
+Height: 79
+Floors: 23
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 158
+
+*** Gulliver ***
+Height: 77
+Floors: 25
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 161
+
+*** Sochi 1A ***
+Height: 77
+Floors: 23
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 162
+
+*** Akademicheskiy. Block 1.1.2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 163
+
+*** Akademicheskiy. Block 1.1.3 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 163
+
+*** Akademicheskiy. Block 1.2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 163
+
+*** Akademicheskiy. Block 1.3 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 163
+
+*** Aleksandrovskii Kvartal 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 163
+
+*** Clever Park. Phase 1-1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: residential / office / retail
+Rank: 163
+
+*** Duet 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 163
+
+*** Duet 2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 163
+
+*** Kosmonavtov 46a ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 163
+
+*** Kvartal Hudozhnikov ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 163
+
+*** Kvartet 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential / office
+Rank: 163
+
+*** Universitetskii 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 163
+
+*** Zelenyi Mys ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 163
+
+*** Antei 1 ***
+Height: 76
+Floors: 22
+Status: Completed
+Completed: 2004
+Functions: hotel / office / retail
+Rank: 176
+
+*** Klen 1 ***
+Height: 75
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 177

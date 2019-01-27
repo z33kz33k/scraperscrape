@@ -1,0 +1,20 @@
+*** Shchyolkovo (2) ***
+1. Astrum Spa & Conference Hotel, 115m
+
+******************** DETAILS ********************
+
+*** Shchyolkovo ***
+Country: Russia
+Region: Europe
+1 tower: Astrum Spa & Conference Hotel
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Astrum Spa & Conference Hotel ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 2015
+Functions: hotel
+Rank: 1

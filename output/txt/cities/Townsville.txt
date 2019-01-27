@@ -1,0 +1,20 @@
+*** Townsville (1) ***
+1. Holiday Inn Townsville, 76m
+
+******************** DETAILS ********************
+
+*** Townsville ***
+Country: Australia
+Region: Oceania
+1 tower: Holiday Inn Townsville
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Holiday Inn Townsville ***
+Height: 76
+Floors: 20
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 1

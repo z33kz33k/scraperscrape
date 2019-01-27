@@ -1,0 +1,166 @@
+*** Johannesburg (37) ***
+1.  Carlton Centre, 201m
+2.  Ponte Tower, 173m
+3.  Marble Towers, 152m
+4.  Kwadukuza Egoli Hotel Tower 1, 140m
+5.  ABSA Building, 140m
+6.  Trust Bank Centre, 140m
+7.  Standard Bank Centre, 139m
+8.  Southern Life Centre, 138m
+9.  209 Smit Street, 128m
+10. Kine Centre, 123m
+11. Carlton Hotel, 119m
+12. Sixty-Nine President, 115m
+13. 37 Sauer Street, 115m
+14. Schlesinger Building, 110m
+15. Highpoint Hillbrow, 105m
+16. Logistics House, 95m
+17. IBM Building, 91m
+
+******************** DETAILS ********************
+
+*** Johannesburg ***
+Country: South Africa
+Region: Africa
+17 towers: Carlton Centre, Ponte Tower, Marble Towers, Kwadukuza Egoli Hotel Tower 1, ABSA Building, Trust Bank Centre, Standard Bank Centre, Southern Life Centre, 209 Smit Street, Kine Centre, Carlton Hotel, Sixty-Nine President, 37 Sauer Street, Schlesinger Building, Highpoint Hillbrow, Logistics House, IBM Building
+Tiers: I: 3, II: 11, III: 3
+Rating: 37
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Carlton Centre ***
+Height: 201.17
+Floors: 50
+Status: Completed
+Started: 1967
+Completed: 1973
+Functions: office
+Rank: 1
+
+*** Ponte Tower ***
+Height: 172.82
+Floors: 54
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 2
+
+*** Marble Towers ***
+Height: 152.1
+Floors: 32
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 3
+
+*** Kwadukuza Egoli Hotel Tower 1 ***
+Height: 140
+Floors: 40
+Status: Completed
+Completed: 1985
+Functions: hotel
+Rank: 4
+
+*** ABSA Building ***
+Height: 140
+Floors: 31
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 5
+
+*** Trust Bank Centre ***
+Height: 140
+Floors: 31
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 5
+
+*** Standard Bank Centre ***
+Height: 139
+Floors: 34
+Status: Completed
+Started: 1966
+Completed: 1968
+Functions: office
+Rank: 7
+
+*** Southern Life Centre ***
+Height: 138
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 8
+
+*** 209 Smit Street ***
+Height: 128
+Floors: 30
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 9
+
+*** Kine Centre ***
+Height: 123
+Floors: 27
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 10
+
+*** Carlton Hotel ***
+Height: 119
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: hotel
+Rank: 11
+
+*** Sixty-Nine President ***
+Height: 114.9
+Floors: 28
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 12
+
+*** 37 Sauer Street ***
+Height: 114.9
+Floors: 26
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 13
+
+*** Schlesinger Building ***
+Height: 110
+Floors: 21
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 14
+
+*** Highpoint Hillbrow ***
+Height: 105
+Floors: 28
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 15
+
+*** Logistics House ***
+Height: 95
+Floors: 25
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 16
+
+*** IBM Building ***
+Height: 91
+Floors: 25
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 17

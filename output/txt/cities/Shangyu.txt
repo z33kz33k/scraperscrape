@@ -1,0 +1,21 @@
+*** Shangyu (4) ***
+1. Baiguan Plaza, 207m
+
+******************** DETAILS ********************
+
+*** Shangyu ***
+Country: China
+Region: Asia
+1 tower: Baiguan Plaza
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Baiguan Plaza ***
+Height: 207
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hotel / office
+Rank: 1

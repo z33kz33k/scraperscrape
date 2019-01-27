@@ -1,0 +1,336 @@
+*** Charlotte (69) ***
+1.  Bank of America Corporate Center, 265m
+2.  Duke Energy Center, 240m
+3.  Hearst Tower, 201m
+4.  Legacy Union, 193m
+5.  One Wells Fargo Center, 179m
+6.  The Vue, 176m
+7.  Bank of America Plaza, 153m
+8.  1 Bank of America Center, 148m
+9.  300 South Tryon, 141m
+10. 121 West Trade, 141m
+11. Three Wells Fargo Center, 137m
+12. Fifth Third Center, 136m
+13. Two Wells Fargo Center, 132m
+14. Avenue, 130m
+15. 400 South Tryon, 128m
+16. Carillon Tower, 120m
+17. Charlotte Plaza, 118m
+18. Catalyst, 103m
+19. 525 North Tryon, 101m
+20. TradeMark, 99m
+21. First Citizens Plaza, 98m
+22. The Arlington, 94m
+23. Skye Building, 94m
+24. 101 Independence Center, 92m
+25. BB&T Center, 91m
+26. 200 South Tryon Street, 91m
+27. NASCAR Plaza, 89m
+28. The Westin Charlotte, 89m
+29. 112 Tryon Plaza, 85m
+30. Midtown Plaza, 81m
+31. SkyHouse Uptown North Tower, 80m
+32. SkyHouse Uptown South Tower, 80m
+33. 615 South College, 79m
+34. 129 West Trade Street, 76m
+
+******************** DETAILS ********************
+
+*** Charlotte ***
+Country: United States
+Region: North America
+34 towers: Bank of America Corporate Center, Duke Energy Center, Hearst Tower, Legacy Union, One Wells Fargo Center, The Vue, Bank of America Plaza, 1 Bank of America Center, 300 South Tryon, 121 West Trade, Three Wells Fargo Center, Fifth Third Center, Two Wells Fargo Center, Avenue, 400 South Tryon, Carillon Tower, Charlotte Plaza, Catalyst, 525 North Tryon, TradeMark, First Citizens Plaza, The Arlington, Skye Building, 101 Independence Center, BB&T Center, 200 South Tryon Street, NASCAR Plaza, The Westin Charlotte, 112 Tryon Plaza, Midtown Plaza, SkyHouse Uptown North Tower, SkyHouse Uptown South Tower, 615 South College, 129 West Trade Street
+Tiers: I: 17, II: 10, III: 5, IV: 2
+Rating: 69 (5.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bank of America Corporate Center ***
+Height: 265.48
+Floors: 60
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 1
+
+*** Duke Energy Center ***
+Height: 239.7
+Floors: 48
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 2
+
+*** Hearst Tower ***
+Height: 200.81
+Floors: 47
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 3
+
+*** Legacy Union ***
+Height: 192.6
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 4
+
+*** One Wells Fargo Center ***
+Height: 179.23
+Floors: 42
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 5
+
+*** The Vue ***
+Height: 175.5
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 6
+
+*** Bank of America Plaza ***
+Height: 153.32
+Floors: 40
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: office
+Rank: 7
+
+*** 1 Bank of America Center ***
+Height: 147.52
+Floors: 31
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 8
+
+*** 300 South Tryon ***
+Height: 141
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 9
+
+*** 121 West Trade ***
+Height: 140.82
+Floors: 32
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 10
+
+*** Three Wells Fargo Center ***
+Height: 137.16
+Floors: 32
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 11
+
+*** Fifth Third Center ***
+Height: 136.25
+Floors: 30
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 12
+
+*** Two Wells Fargo Center ***
+Height: 131.98
+Floors: 32
+Status: Completed
+Started: 1968
+Completed: 1971
+Functions: office
+Rank: 13
+
+*** Avenue ***
+Height: 129.54
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 14
+
+*** 400 South Tryon ***
+Height: 128.02
+Floors: 32
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: office
+Rank: 15
+
+*** Carillon Tower ***
+Height: 120.09
+Floors: 24
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 16
+
+*** Charlotte Plaza ***
+Height: 118.26
+Floors: 27
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 17
+
+*** Catalyst ***
+Height: 103
+Floors: 27
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 18
+
+*** 525 North Tryon ***
+Height: 100.59
+Floors: 19
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 19
+
+*** TradeMark ***
+Height: 99.06
+Floors: 28
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 20
+
+*** First Citizens Plaza ***
+Height: 97.54
+Floors: 23
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 21
+
+*** The Arlington ***
+Height: 94.5
+Floors: 24
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 22
+
+*** Skye Building ***
+Height: 94.5
+Floors: 22
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: residential / hotel
+Rank: 23
+
+*** 101 Independence Center ***
+Height: 91.75
+Floors: 22
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 24
+
+*** BB&T Center ***
+Height: 91.44
+Floors: 22
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 25
+
+*** 200 South Tryon Street ***
+Height: 91.14
+Floors: 18
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 26
+
+*** NASCAR Plaza ***
+Height: 89.32
+Floors: 20
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 27
+
+*** The Westin Charlotte ***
+Height: 89.3
+Floors: 25
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 28
+
+*** 112 Tryon Plaza ***
+Height: 85.34
+Floors: 22
+Status: Completed
+Started: 1925
+Completed: 1927
+Functions: office
+Rank: 29
+
+*** Midtown Plaza ***
+Height: 81
+Floors: 17
+Status: Completed
+Completed: 1924
+Functions: office
+Rank: 30
+
+*** SkyHouse Uptown North Tower ***
+Height: 80.5
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 31
+
+*** SkyHouse Uptown South Tower ***
+Height: 80.5
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 31
+
+*** 615 South College ***
+Height: 79.1
+Floors: 19
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 33
+
+*** 129 West Trade Street ***
+Height: 76.2
+Floors: 17
+Status: Completed
+Completed: 1958
+Functions: office
+Rank: 34

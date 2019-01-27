@@ -1,0 +1,31 @@
+*** Gdynia (3) ***
+1. Sea Towers 1, 127m
+2. Sea Towers 2, 95m
+
+******************** DETAILS ********************
+
+*** Gdynia ***
+Country: Poland
+Region: Europe
+2 towers: Sea Towers 1, Sea Towers 2
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sea Towers 1 ***
+Height: 127.36
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** Sea Towers 2 ***
+Height: 94.7
+Floors: 28
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 2

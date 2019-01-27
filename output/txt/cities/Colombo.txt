@@ -1,0 +1,178 @@
+*** Colombo (69) ***
+1.  The One Ritz-Carlton Tower, 326m
+2.  Altair, 240m
+3.  Grand Hyatt Colombo, 230m
+4.  Sapphire Residences, 225m
+5.  606 The Address Residential Tower, 213m
+6.  Shangri-La Colombo Residential Tower 1, 194m
+7.  Shangri-La Colombo Residential Tower 2, 194m
+8.  Clearpoint Residencies, 186m
+9.  Colombo City Center, 183m
+10. Shangri-La Colombo Office Tower, 165m
+11. World Trade Center 1, 152m
+12. World Trade Center 2, 152m
+13. ITC One Hotel, 140m
+14. Shangri-La Colombo Hotel Tower, 134m
+15. Hilton Tower Apartments, 129m
+16. Crescat Office & Condominium, 113m
+17. Bank of Ceylon Headquarters, 105m
+
+******************** DETAILS ********************
+
+*** Colombo ***
+Country: Sri Lanka
+Region: Asia
+17 towers: The One Ritz-Carlton Tower, Altair, Grand Hyatt Colombo, Sapphire Residences, 606 The Address Residential Tower, Shangri-La Colombo Residential Tower 1, Shangri-La Colombo Residential Tower 2, Clearpoint Residencies, Colombo City Center, Shangri-La Colombo Office Tower, World Trade Center 1, World Trade Center 2, ITC One Hotel, Shangri-La Colombo Hotel Tower, Hilton Tower Apartments, Crescat Office & Condominium, Bank of Ceylon Headquarters
+Tiers: I: 1, II: 4, III: 7, IV: 4, V: 1
+Rating: 69 (46.4% uncompleted)
+Scraped on: 2019-Jan-21 23:13:16
+
+*** The One Ritz-Carlton Tower ***
+Height: 326
+Floors: 80
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: hotel / residential
+Rank: 1
+
+*** Altair ***
+Height: 240
+Floors: 68
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Grand Hyatt Colombo ***
+Height: 229.5
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2017
+Functions: serviced apartments / hotel
+Rank: 3
+
+*** Sapphire Residences ***
+Height: 225
+Floors: 55
+Status: Under Construction
+Started: 2015
+Completed: 2021
+Functions: residential
+Rank: 4
+
+*** 606 The Address Residential Tower ***
+Height: 213.36
+Floors: 63
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 5
+
+*** Shangri-La Colombo Residential Tower 1 ***
+Height: 194
+Floors: 51
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 6
+
+*** Shangri-La Colombo Residential Tower 2 ***
+Height: 194
+Floors: 51
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 6
+
+*** Clearpoint Residencies ***
+Height: 186
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 8
+
+*** Colombo City Center ***
+Height: 183
+Floors: 48
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential / hotel / retail
+Rank: 9
+
+*** Shangri-La Colombo Office Tower ***
+Height: 165
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 10
+
+*** World Trade Center 1 ***
+Height: 152
+Floors: 39
+Status: Completed
+Started: 1991
+Completed: 1995
+Functions: office / retail
+Rank: 11
+
+*** World Trade Center 2 ***
+Height: 152
+Floors: 39
+Status: Completed
+Started: 1991
+Completed: 1995
+Functions: office / retail
+Rank: 11
+
+*** ITC One Hotel ***
+Height: 140
+Floors: 33
+Status: Under Construction
+Started: 2015
+Completed: 2021
+Functions: hotel
+Rank: 13
+
+*** Shangri-La Colombo Hotel Tower ***
+Height: 134
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / hotel
+Rank: 14
+
+*** Hilton Tower Apartments ***
+Height: 129
+Floors: 34
+Status: Completed
+Completed: 1997
+Functions: residential / hotel
+Rank: 15
+
+*** Crescat Office & Condominium ***
+Height: 113.39
+Floors: 25
+Status: Completed
+Completed: 1997
+Functions: residential / office
+Rank: 16
+
+*** Bank of Ceylon Headquarters ***
+Height: 105
+Floors: 32
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 17

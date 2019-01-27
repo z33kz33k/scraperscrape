@@ -1,0 +1,20 @@
+*** Bartlesville (1) ***
+1. Phillips Petroleum Building, 89m
+
+******************** DETAILS ********************
+
+*** Bartlesville ***
+Country: United States
+Region: North America
+1 tower: Phillips Petroleum Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Phillips Petroleum Building ***
+Height: 89
+Floors: 19
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 1

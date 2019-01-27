@@ -1,0 +1,440 @@
+*** Denver (100) ***
+1.  Republic Plaza, 218m
+2.  1801 California Plaza, 216m
+3.  Wells Fargo Center, 213m
+4.  Four Seasons Hotel & Private Residences, 195m
+5.  1144 Fifteenth, 188m
+6.  1999 Broadway, 166m
+7.  707 17th Street, 159m
+8.  555 17th Street, 155m
+9.  Hyatt Regency Denver at the Colorado Convention Center, 149m
+10. Spire, 147m
+11. 1670 Broadway, 137m
+12. 17th Street Plaza, 134m
+13. First Interstate Tower North, 132m
+14. Brooks Towers, 128m
+15. Denver Place South Tower, 127m
+16. One Tabor Center, 124m
+17. Johns Manville Plaza, 123m
+18. Granite Tower, 121m
+19. The Ritz-Carlton, 119m
+20. US Bank Tower, 119m
+21. 621 17th Street, 117m
+22. 1600 Glenarm Place, 117m
+23. Denver Financial Center Tower 1, 114m
+24. One Lincoln Park, 114m
+25. Dominion Plaza, 112m
+26. Lincoln Center, 112m
+27. 1125 17th Street, 111m
+28. World Trade Center II, 109m
+29. United Western Financial Center, 109m
+30. The Confluence, 108m
+31. 1600 Broadway, 107m
+32. The Curtis – a Doubletree, 107m
+33. 1800 Larimer, 105m
+34. Larimer Place, 102m
+35. 410 Building, 102m
+36. World Trade Center I, 102m
+37. 1001 17th Street, 101m
+38. Country Club Tower East, 100m
+39. Country Club Tower West, 100m
+40. Daniels & Fisher Tower, 99m
+41. Mile High Tower, 90m
+42. SkyHouse Denver, 87m
+43. Denver Place North Tower, 87m
+44. Glass House North, 82m
+45. Glass House South, 82m
+46. 1709 Chestnut, 81m
+
+******************** DETAILS ********************
+
+*** Denver ***
+Country: United States
+Region: North America
+46 towers: Republic Plaza, 1801 California Plaza, Wells Fargo Center, Four Seasons Hotel & Private Residences, 1144 Fifteenth, 1999 Broadway, 707 17th Street, 555 17th Street, Hyatt Regency Denver at the Colorado Convention Center, Spire, 1670 Broadway, 17th Street Plaza, First Interstate Tower North, Brooks Towers, Denver Place South Tower, One Tabor Center, Johns Manville Plaza, Granite Tower, The Ritz-Carlton, US Bank Tower, 621 17th Street, 1600 Glenarm Place, Denver Financial Center Tower 1, One Lincoln Park, Dominion Plaza, Lincoln Center, 1125 17th Street, World Trade Center II, United Western Financial Center, The Confluence, 1600 Broadway, The Curtis – a Doubletree, 1800 Larimer, Larimer Place, 410 Building, World Trade Center I, 1001 17th Street, Country Club Tower East, Country Club Tower West, Daniels & Fisher Tower, Mile High Tower, SkyHouse Denver, Denver Place North Tower, Glass House North, Glass House South, 1709 Chestnut
+Tiers: I: 14, II: 24, III: 5, IV: 3
+Rating: 100
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Republic Plaza ***
+Height: 217.63
+Floors: 56
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 1
+
+*** 1801 California Plaza ***
+Height: 216.11
+Floors: 52
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 2
+
+*** Wells Fargo Center ***
+Height: 212.75
+Floors: 50
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 3
+
+*** Four Seasons Hotel & Private Residences ***
+Height: 194.75
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / hotel
+Rank: 4
+
+*** 1144 Fifteenth ***
+Height: 188
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office / retail
+Rank: 5
+
+*** 1999 Broadway ***
+Height: 165.81
+Floors: 43
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 6
+
+*** 707 17th Street ***
+Height: 159.11
+Floors: 42
+Status: Completed
+Completed: 1981
+Functions: hotel / office
+Rank: 7
+
+*** 555 17th Street ***
+Height: 154.54
+Floors: 40
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 8
+
+*** Hyatt Regency Denver at the Colorado Convention Center ***
+Height: 149
+Floors: 37
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: hotel
+Rank: 9
+
+*** Spire ***
+Height: 147.22
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 10
+
+*** 1670 Broadway ***
+Height: 136.6
+Floors: 34
+Status: Completed
+Started: 1977
+Completed: 1980
+Functions: office
+Rank: 11
+
+*** 17th Street Plaza ***
+Height: 133.5
+Floors: 32
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 12
+
+*** First Interstate Tower North ***
+Height: 132.3
+Floors: 32
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 13
+
+*** Brooks Towers ***
+Height: 128
+Floors: 42
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 14
+
+*** Denver Place South Tower ***
+Height: 126.8
+Floors: 34
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 15
+
+*** One Tabor Center ***
+Height: 124.4
+Floors: 32
+Status: Completed
+Started: 1982
+Completed: 1984
+Functions: office
+Rank: 16
+
+*** Johns Manville Plaza ***
+Height: 123.1
+Floors: 29
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 17
+
+*** Granite Tower ***
+Height: 121.3
+Floors: 31
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 18
+
+*** The Ritz-Carlton ***
+Height: 118.9
+Floors: 38
+Status: Completed
+Completed: 1983
+Functions: hotel / residential
+Rank: 19
+
+*** US Bank Tower ***
+Height: 118.6
+Floors: 26
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: office
+Rank: 20
+
+*** 621 17th Street ***
+Height: 117.4
+Floors: 28
+Status: Completed
+Completed: 1957
+Functions: office
+Rank: 21
+
+*** 1600 Glenarm Place ***
+Height: 117
+Floors: 32
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 22
+
+*** Denver Financial Center Tower 1 ***
+Height: 114
+Floors: 32
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 23
+
+*** One Lincoln Park ***
+Height: 114
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 23
+
+*** Dominion Plaza ***
+Height: 112.2
+Floors: 28
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 25
+
+*** Lincoln Center ***
+Height: 111.6
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 26
+
+*** 1125 17th Street ***
+Height: 110.6
+Floors: 25
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 27
+
+*** World Trade Center II ***
+Height: 108.8
+Floors: 29
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 28
+
+*** United Western Financial Center ***
+Height: 108.8
+Floors: 24
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 29
+
+*** The Confluence ***
+Height: 108.2
+Floors: 34
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 30
+
+*** 1600 Broadway ***
+Height: 107.3
+Floors: 26
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 31
+
+*** The Curtis – a Doubletree ***
+Height: 106.7
+Floors: 30
+Status: Completed
+Completed: 1974
+Functions: hotel / residential
+Rank: 32
+
+*** 1800 Larimer ***
+Height: 104.7
+Floors: 22
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 33
+
+*** Larimer Place ***
+Height: 102.1
+Floors: 32
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 34
+
+*** 410 Building ***
+Height: 102.1
+Floors: 24
+Status: Completed
+Started: 1977
+Completed: 1978
+Functions: office
+Rank: 35
+
+*** World Trade Center I ***
+Height: 102
+Floors: 29
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 36
+
+*** 1001 17th Street ***
+Height: 100.6
+Floors: 21
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 37
+
+*** Country Club Tower East ***
+Height: 100
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 38
+
+*** Country Club Tower West ***
+Height: 100
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 38
+
+*** Daniels & Fisher Tower ***
+Height: 99.1
+Floors: 20
+Status: Completed
+Completed: 1910
+Functions: office
+Rank: 40
+
+*** Mile High Tower ***
+Height: 89.92
+Floors: 23
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 41
+
+*** SkyHouse Denver ***
+Height: 87.05
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 42
+
+*** Denver Place North Tower ***
+Height: 87
+Floors: 23
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 43
+
+*** Glass House North ***
+Height: 81.68
+Floors: 23
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 44
+
+*** Glass House South ***
+Height: 81.68
+Floors: 23
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 44
+
+*** 1709 Chestnut ***
+Height: 80.8
+Floors: 24
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 46

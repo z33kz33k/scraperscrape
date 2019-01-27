@@ -1,0 +1,21 @@
+*** Saratov (2) ***
+1. Elena, 135m
+
+******************** DETAILS ********************
+
+*** Saratov ***
+Country: Russia
+Region: Europe
+1 tower: Elena
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Elena ***
+Height: 134.97
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2014
+Functions: residential
+Rank: 1

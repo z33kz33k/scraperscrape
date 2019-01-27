@@ -1,0 +1,207 @@
+*** Baku (58) ***
+1.  Baku Tower, 276m
+2.  The Crescent City, 210m
+3.  SOCAR Tower, 196m
+4.  Flame Tower 1, 182m
+5.  The Crescent Place, 170m
+6.  Ministry of Taxes, 168m
+7.  The Crescent Hotel, 166m
+8.  Flame Tower 2, 165m
+9.  Flame Tower 3, 161m
+10. SOFAZ Tower, 140m
+11. Port Baku Residence Block A, 135m
+12. Azinko Tower, 132m
+13. Trump International Hotel & Tower Baku, 130m
+14. Azersu Office Tower, 124m
+15. Port Baku Business Center, 120m
+16. Yeni Hayat City Office Tower, 115m
+17. Property Tower Baku, 114m
+18. Demirci Plaza, 107m
+19. New Life Plaza, 102m
+20. Atabank, 78m
+
+******************** DETAILS ********************
+
+*** Baku ***
+Country: Azerbaijan
+Region: Asia
+20 towers: Baku Tower, The Crescent City, SOCAR Tower, Flame Tower 1, The Crescent Place, Ministry of Taxes, The Crescent Hotel, Flame Tower 2, Flame Tower 3, SOFAZ Tower, Port Baku Residence Block A, Azinko Tower, Trump International Hotel & Tower Baku, Azersu Office Tower, Port Baku Business Center, Yeni Hayat City Office Tower, Property Tower Baku, Demirci Plaza, New Life Plaza, Atabank
+Tiers: I: 2, II: 9, III: 8, IV: 1
+Rating: 58 (44.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Baku Tower ***
+Height: 276.28
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** The Crescent City ***
+Height: 210
+Floors: 52
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** SOCAR Tower ***
+Height: 195.85
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 3
+
+*** Flame Tower 1 ***
+Height: 181.77
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: residential
+Rank: 4
+
+*** The Crescent Place ***
+Height: 170
+Floors: 35
+Status: Architecturally Topped Out
+Started: 2008
+Completed: 2019
+Functions: residential
+Rank: 5
+
+*** Ministry of Taxes ***
+Height: 168
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: government
+Rank: 6
+
+*** The Crescent Hotel ***
+Height: 166
+Floors: 36
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: hotel
+Rank: 7
+
+*** Flame Tower 2 ***
+Height: 164.55
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: serviced apartments / hotel
+Rank: 8
+
+*** Flame Tower 3 ***
+Height: 160.83
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: office
+Rank: 9
+
+*** SOFAZ Tower ***
+Height: 140
+Floors: 24
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 10
+
+*** Port Baku Residence Block A ***
+Height: 135
+Floors: 35
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 11
+
+*** Azinko Tower ***
+Height: 132
+Floors: 34
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 12
+
+*** Trump International Hotel & Tower Baku ***
+Height: 130
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential / serviced apartments / hotel
+Rank: 13
+
+*** Azersu Office Tower ***
+Height: 124
+Floors: 22
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 14
+
+*** Port Baku Business Center ***
+Height: 120
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 15
+
+*** Yeni Hayat City Office Tower ***
+Height: 115
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 16
+
+*** Property Tower Baku ***
+Height: 114.25
+Floors: 32
+Status: Under Construction
+Completed: 2018
+Functions: office
+Rank: 17
+
+*** Demirci Plaza ***
+Height: 107
+Floors: 25
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 18
+
+*** New Life Plaza ***
+Height: 102
+Floors: 25
+Status: Completed
+Completed: 2007
+Functions: residential / office
+Rank: 19
+
+*** Atabank ***
+Height: 78
+Floors: 21
+Status: Completed
+Completed: 2001
+Functions: residential / office
+Rank: 20

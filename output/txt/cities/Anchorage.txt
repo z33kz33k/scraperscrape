@@ -1,0 +1,30 @@
+*** Anchorage (2) ***
+1. Conoco-Phillips Building, 90m
+2. Robert B. Atwood Building, 81m
+
+******************** DETAILS ********************
+
+*** Anchorage ***
+Country: United States
+Region: North America
+2 towers: Conoco-Phillips Building, Robert B. Atwood Building
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Conoco-Phillips Building ***
+Height: 90.22
+Floors: 22
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 1
+
+*** Robert B. Atwood Building ***
+Height: 80.77
+Floors: 20
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: government
+Rank: 2

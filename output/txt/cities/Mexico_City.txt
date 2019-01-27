@@ -1,0 +1,986 @@
+*** Mexico City (243) ***
+1.   Torre Mitikah Residencial, 267m
+2.   Torre Reforma, 246m
+3.   Chapultepec Uno, 241m
+4.   Torre BBVA Bancomer, 235m
+5.   Torre Mayor, 225m
+6.   Torre Ejecutiva Pemex, 211m
+7.   Downtown & Be Grand Reforma, 207m
+8.   Torre Paradox, 196m
+9.   Torre Altus, 195m
+10.  Torre Reforma Latino, 185m
+11.  Torre Latinoamerica, 182m
+12.  Torres Cuarzo Office Tower, 180m
+13.  Miyana - Tower 1, 176m
+14.  Torre M, 176m
+15.  Peninsula Santa Fe T 300, 174m
+16.  Siroco Tower, 173m
+17.  World Trade Center, 172m
+18.  Sofitel Hotel Mexico City, 171m
+19.  Peninsula Tower, 164m
+20.  Reforma 180, 164m
+21.  Arcos Torre I, 161m
+22.  Arcos Torre II, 161m
+23.  Althaus San Angel, 161m
+24.  Torre Diana, 158m
+25.  Reforma 342, 152m
+26.  Torre Altaire I, 152m
+27.  Torre Libertad, 150m
+28.  Torre Lomas, 146m
+29.  Torre Manacar, 144m
+30.  Santa Fe Pads, 141m
+31.  Centro Operativo BBVA Bancomer, 137m
+32.  Hyatt Regency Mexico City, 136m
+33.  Torre Del Caballito, 135m
+34.  Althaus Pedregal, 134m
+35.  Torre Mural, 133m
+36.  Polarea Fase 6, 132m
+37.  Torre Mexicano de Aviacion, 132m
+38.  Corporativo Reforma Diana, 132m
+39.  Torre HSBC, 131m
+40.  Torre Virreyes, 131m
+41.  Hotel Presidente InterContinental, 130m
+42.  Residencial del Bosque 1, 128m
+43.  Residencial del Bosque 2, 128m
+44.  Torre Glorieta, 128m
+45.  SEP Torre Independencia, 127m
+46.  Reforma 243, 126m
+47.  Reforma 222 Torre 2, 126m
+48.  Reforma 222 Torre 1, 126m
+49.  Punta Poniente, 125m
+50.  Corporativo Santa Fe 505, 125m
+51.  Torre Reforma, 125m
+52.  Paragon Santa Fe, 123m
+53.  Panorama Santa Fe, 120m
+54.  Hotel Presidente Chalpultepec Suites, 120m
+55.  Plaza Juarez Torre I, 120m
+56.  Torre Metropol, 120m
+57.  Corporativo World Plaza, 117m
+58.  Residencial Palmas Kamerun, 116m
+59.  Corporativo Zentrum, 116m
+60.  Torre Cuadrata, 116m
+61.  Centro Bursátil, 115m
+62.  House Santa Fe, 115m
+63.  Reforma 265, 115m
+64.  Torre SCT, 115m
+65.  Edificio Tlatelolco, 113m
+66.  Hotel JW Marriott, 112m
+67.  Secretaria de Relaciones Exteriores, 112m
+68.  Torres Cuarzo Hotel, 110m
+69.  Edificio Miguel E Abed, 109m
+70.  Insurgentes 1458, 109m
+71.  Capital Reforma A, 108m
+72.  Capital Reforma B, 108m
+73.  Hilton Mexico City Reforma, 107m
+74.  Reforma 27, 104m
+75.  Torre Polanco, 104m
+76.  Torre Ruben Dario, 104m
+77.  Magenta Reforma, 104m
+78.  Torre Prisma, 102m
+79.  Reforma 147, 101m
+80.  Fundacion Miguel Aleman 1, 100m
+81.  Residencial Fundacion, 100m
+82.  Reforma 156, 99m
+83.  Fiesta Americana Reforma, 96m
+84.  Fundacion Miguel Aleman 2, 95m
+85.  Reforma 222 Torre 3, 93m
+86.  Tribunal Superior de Justicia del Distrito Federal, 93m
+87.  Condominio Ruben Dario 61, 91m
+88.  Edificio Reforma Belgrado, 90m
+89.  Edificio Banamex, 90m
+90.  Plaza Residences, 89m
+91.  Insurgentes 863, 88m
+92.  Fiesta Americana Grand Chapultepec Mexico, 87m
+93.  Reforma 295, 87m
+94.  Reforma 99, 85m
+95.  Torre Indigo, 84m
+96.  Reforma 164, 82m
+97.  Reforma 199, 82m
+98.  Torre Cervantes, 82m
+99.  Reforma 389, 81m
+100. Krystal Grand Reforma Uno, 80m
+101. Insurgentes 1647, 78m
+102. Reforma 383, 77m
+103. Reforma 175, 75m
+104. PGR Reforma, 75m
+
+******************** DETAILS ********************
+
+*** Mexico City ***
+Country: Mexico
+Region: North America
+104 towers: Torre Mitikah Residencial, Torre Reforma, Chapultepec Uno, Torre BBVA Bancomer, Torre Mayor, Torre Ejecutiva Pemex, Downtown & Be Grand Reforma, Torre Paradox, Torre Altus, Torre Reforma Latino, Torre Latinoamerica, Torres Cuarzo Office Tower, Miyana - Tower 1, Torre M, Peninsula Santa Fe T 300, Siroco Tower, World Trade Center, Sofitel Hotel Mexico City, Peninsula Tower, Reforma 180, Arcos Torre I, Arcos Torre II, Althaus San Angel, Torre Diana, Reforma 342, Torre Altaire I, Torre Libertad, Torre Lomas, Torre Manacar, Santa Fe Pads, Centro Operativo BBVA Bancomer, Hyatt Regency Mexico City, Torre Del Caballito, Althaus Pedregal, Torre Mural, Polarea Fase 6, Torre Mexicano de Aviacion, Corporativo Reforma Diana, Torre HSBC, Torre Virreyes, Hotel Presidente InterContinental, Residencial del Bosque 1, Residencial del Bosque 2, Torre Glorieta, SEP Torre Independencia, Reforma 243, Reforma 222 Torre 2, Reforma 222 Torre 1, Punta Poniente, Corporativo Santa Fe 505, Torre Reforma, Paragon Santa Fe, Panorama Santa Fe, Hotel Presidente Chalpultepec Suites, Plaza Juarez Torre I, Torre Metropol, Corporativo World Plaza, Residencial Palmas Kamerun, Corporativo Zentrum, Torre Cuadrata, Centro Bursátil, House Santa Fe, Reforma 265, Torre SCT, Edificio Tlatelolco, Hotel JW Marriott, Secretaria de Relaciones Exteriores, Torres Cuarzo Hotel, Edificio Miguel E Abed, Insurgentes 1458, Capital Reforma A, Capital Reforma B, Hilton Mexico City Reforma, Reforma 27, Torre Polanco, Torre Ruben Dario, Magenta Reforma, Torre Prisma, Reforma 147, Fundacion Miguel Aleman 1, Residencial Fundacion, Reforma 156, Fiesta Americana Reforma, Fundacion Miguel Aleman 2, Reforma 222 Torre 3, Tribunal Superior de Justicia del Distrito Federal, Condominio Ruben Dario 61, Edificio Reforma Belgrado, Edificio Banamex, Plaza Residences, Insurgentes 863, Fiesta Americana Grand Chapultepec Mexico, Reforma 295, Reforma 99, Torre Indigo, Reforma 164, Reforma 199, Torre Cervantes, Reforma 389, Krystal Grand Reforma Uno, Insurgentes 1647, Reforma 383, Reforma 175, PGR Reforma
+Tiers: I: 31, II: 46, III: 21, IV: 6
+Rating: 243 (16.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre Mitikah Residencial ***
+Height: 267.3
+Floors: 62
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential / hotel
+Rank: 1
+
+*** Torre Reforma ***
+Height: 246
+Floors: 56
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: office
+Rank: 2
+
+*** Chapultepec Uno ***
+Height: 241
+Floors: 59
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: hotel / office
+Rank: 3
+
+*** Torre BBVA Bancomer ***
+Height: 234.9
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 4
+
+*** Torre Mayor ***
+Height: 225
+Floors: 55
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: office
+Rank: 5
+
+*** Torre Ejecutiva Pemex ***
+Height: 211.31
+Floors: 51
+Status: Completed
+Started: 1979
+Completed: 1984
+Functions: office
+Rank: 6
+
+*** Downtown & Be Grand Reforma ***
+Height: 206.76
+Floors: 49
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential / office
+Rank: 7
+
+*** Torre Paradox ***
+Height: 196.17
+Floors: 60
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 8
+
+*** Torre Altus ***
+Height: 195
+Floors: 44
+Status: Completed
+Started: 1994
+Completed: 1999
+Functions: residential
+Rank: 9
+
+*** Torre Reforma Latino ***
+Height: 185
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 10
+
+*** Torre Latinoamerica ***
+Height: 181.97
+Floors: 45
+Status: Completed
+Started: 1948
+Completed: 1956
+Functions: office
+Rank: 11
+
+*** Torres Cuarzo Office Tower ***
+Height: 180
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 12
+
+*** Miyana - Tower 1 ***
+Height: 176
+Floors: 43
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Torre M ***
+Height: 176
+Floors: 35
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 14
+
+*** Peninsula Santa Fe T 300 ***
+Height: 174
+Floors: 53
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 15
+
+*** Siroco Tower ***
+Height: 173
+Floors: 36
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: retail / residential
+Rank: 16
+
+*** World Trade Center ***
+Height: 172.26
+Floors: 50
+Status: Completed
+Started: 1968
+Completed: 1972
+Functions: office
+Rank: 17
+
+*** Sofitel Hotel Mexico City ***
+Height: 171
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: hotel
+Rank: 18
+
+*** Peninsula Tower ***
+Height: 164.3
+Floors: 51
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 19
+
+*** Reforma 180 ***
+Height: 163.7
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 20
+
+*** Arcos Torre I ***
+Height: 161.24
+Floors: 35
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 21
+
+*** Arcos Torre II ***
+Height: 161.24
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 21
+
+*** Althaus San Angel ***
+Height: 160.9
+Floors: 30
+Status: Under Construction
+Completed: 2020
+Functions: residential
+Rank: 23
+
+*** Torre Diana ***
+Height: 158.3
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office / retail
+Rank: 24
+
+*** Reforma 342 ***
+Height: 152.1
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 25
+
+*** Torre Altaire I ***
+Height: 151.8
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 26
+
+*** Torre Libertad ***
+Height: 150
+Floors: 31
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / hotel
+Rank: 27
+
+*** Torre Lomas ***
+Height: 146.5
+Floors: 36
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 28
+
+*** Torre Manacar ***
+Height: 144
+Floors: 30
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office / retail
+Rank: 29
+
+*** Santa Fe Pads ***
+Height: 140.6
+Floors: 37
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 30
+
+*** Centro Operativo BBVA Bancomer ***
+Height: 137
+Floors: 32
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 31
+
+*** Hyatt Regency Mexico City ***
+Height: 136
+Floors: 38
+Status: Completed
+Started: 1982
+Completed: 1987
+Functions: hotel
+Rank: 32
+
+*** Torre Del Caballito ***
+Height: 135
+Floors: 34
+Status: Completed
+Started: 1978
+Completed: 1988
+Functions: office
+Rank: 33
+
+*** Althaus Pedregal ***
+Height: 133.8
+Floors: 34
+Status: Under Construction
+Completed: 2020
+Functions: residential
+Rank: 34
+
+*** Torre Mural ***
+Height: 133
+Floors: 33
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 35
+
+*** Polarea Fase 6 ***
+Height: 132
+Floors: 34
+Status: Under Construction
+Completed: 2019
+Functions: residential
+Rank: 36
+
+*** Torre Mexicano de Aviacion ***
+Height: 132
+Floors: 30
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 37
+
+*** Corporativo Reforma Diana ***
+Height: 132
+Floors: 27
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential / office
+Rank: 38
+
+*** Torre HSBC ***
+Height: 131
+Floors: 31
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / hotel / office
+Rank: 39
+
+*** Torre Virreyes ***
+Height: 130.6
+Floors: 28
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 40
+
+*** Hotel Presidente InterContinental ***
+Height: 130
+Floors: 42
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 41
+
+*** Residencial del Bosque 1 ***
+Height: 128.5
+Floors: 30
+Status: Completed
+Started: 1995
+Completed: 1996
+Functions: residential
+Rank: 42
+
+*** Residencial del Bosque 2 ***
+Height: 128.5
+Floors: 30
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: residential
+Rank: 42
+
+*** Torre Glorieta ***
+Height: 127.9
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 44
+
+*** SEP Torre Independencia ***
+Height: 127.4
+Floors: 25
+Status: Completed
+Started: 1959
+Completed: 1962
+Functions: abandoned
+Rank: 45
+
+*** Reforma 243 ***
+Height: 126
+Floors: 27
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: office
+Rank: 46
+
+*** Reforma 222 Torre 2 ***
+Height: 125.8
+Floors: 31
+Status: Completed
+Started: 2001
+Completed: 2007
+Functions: residential / retail
+Rank: 47
+
+*** Reforma 222 Torre 1 ***
+Height: 125.8
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office / retail
+Rank: 48
+
+*** Punta Poniente ***
+Height: 125
+Floors: 32
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 49
+
+*** Corporativo Santa Fe 505 ***
+Height: 125
+Floors: 29
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 50
+
+*** Torre Reforma ***
+Height: 125
+Floors: 28
+Status: Completed
+Functions: office
+Rank: 51
+
+*** Paragon Santa Fe ***
+Height: 123
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 52
+
+*** Panorama Santa Fe ***
+Height: 120
+Floors: 35
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 53
+
+*** Hotel Presidente Chalpultepec Suites ***
+Height: 120
+Floors: 31
+Status: Under Construction
+Functions: hotel
+Rank: 54
+
+*** Plaza Juarez Torre I ***
+Height: 120
+Floors: 22
+Status: Completed
+Completed: 2004
+Rank: 55
+
+*** Torre Metropol ***
+Height: 120
+Floors: 18
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 56
+
+*** Corporativo World Plaza ***
+Height: 117
+Floors: 24
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 57
+
+*** Residencial Palmas Kamerun ***
+Height: 116
+Floors: 30
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 58
+
+*** Corporativo Zentrum ***
+Height: 116
+Floors: 26
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 59
+
+*** Torre Cuadrata ***
+Height: 116
+Floors: 25
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 60
+
+*** Centro Bursátil ***
+Height: 115.2
+Floors: 26
+Status: Completed
+Started: 1982
+Completed: 1990
+Functions: office
+Rank: 61
+
+*** House Santa Fe ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 62
+
+*** Reforma 265 ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 62
+
+*** Torre SCT ***
+Height: 115
+Floors: 17
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 64
+
+*** Edificio Tlatelolco ***
+Height: 112.75
+Floors: 23
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 65
+
+*** Hotel JW Marriott ***
+Height: 112
+Floors: 27
+Status: Completed
+Completed: 1996
+Functions: hotel
+Rank: 66
+
+*** Secretaria de Relaciones Exteriores ***
+Height: 112
+Floors: 23
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 67
+
+*** Torres Cuarzo Hotel ***
+Height: 110
+Floors: 27
+Status: Completed
+Completed: 2017
+Functions: hotel
+Rank: 68
+
+*** Edificio Miguel E Abed ***
+Height: 109.1
+Floors: 29
+Status: Completed
+Completed: 1952
+Functions: office
+Rank: 69
+
+*** Insurgentes 1458 ***
+Height: 108.75
+Floors: 22
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 70
+
+*** Capital Reforma A ***
+Height: 108.5
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office / hotel / residential / retail
+Rank: 71
+
+*** Capital Reforma B ***
+Height: 108.5
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office / residential / hotel / retail
+Rank: 71
+
+*** Hilton Mexico City Reforma ***
+Height: 107
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: hotel
+Rank: 73
+
+*** Reforma 27 ***
+Height: 104.24
+Floors: 27
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 74
+
+*** Torre Polanco ***
+Height: 104
+Floors: 30
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 75
+
+*** Torre Ruben Dario ***
+Height: 104
+Floors: 30
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 75
+
+*** Magenta Reforma ***
+Height: 103.94
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: hotel / residential / office
+Rank: 77
+
+*** Torre Prisma ***
+Height: 102.4
+Floors: 28
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: office
+Rank: 78
+
+*** Reforma 147 ***
+Height: 101
+Floors: 20
+Status: Completed
+Functions: office
+Rank: 79
+
+*** Fundacion Miguel Aleman 1 ***
+Height: 100
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 80
+
+*** Residencial Fundacion ***
+Height: 100
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 80
+
+*** Reforma 156 ***
+Height: 99
+Floors: 20
+Status: Completed
+Functions: office
+Rank: 82
+
+*** Fiesta Americana Reforma ***
+Height: 96
+Floors: 25
+Status: Completed
+Completed: 1970
+Functions: hotel
+Rank: 83
+
+*** Fundacion Miguel Aleman 2 ***
+Height: 95
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 84
+
+*** Reforma 222 Torre 3 ***
+Height: 93.4
+Floors: 19
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential / retail
+Rank: 85
+
+*** Tribunal Superior de Justicia del Distrito Federal ***
+Height: 93
+Floors: 21
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 86
+
+*** Condominio Ruben Dario 61 ***
+Height: 90.8
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 87
+
+*** Edificio Reforma Belgrado ***
+Height: 89.9
+Floors: 25
+Status: Completed
+Started: 1971
+Completed: 1972
+Functions: office
+Rank: 88
+
+*** Edificio Banamex ***
+Height: 89.9
+Floors: 23
+Status: Completed
+Started: 1976
+Completed: 1980
+Functions: office
+Rank: 89
+
+*** Plaza Residences ***
+Height: 89.3
+Floors: 20
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 90
+
+*** Insurgentes 863 ***
+Height: 88.05
+Floors: 18
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: office
+Rank: 91
+
+*** Fiesta Americana Grand Chapultepec Mexico ***
+Height: 86.9
+Floors: 24
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 92
+
+*** Reforma 295 ***
+Height: 86.9
+Floors: 18
+Status: Completed
+Functions: office
+Rank: 93
+
+*** Reforma 99 ***
+Height: 85
+Floors: 20
+Status: Completed
+Functions: office
+Rank: 94
+
+*** Torre Indigo ***
+Height: 84.1
+Floors: 23
+Status: Completed
+Functions: office
+Rank: 95
+
+*** Reforma 164 ***
+Height: 82
+Floors: 23
+Status: Completed
+Functions: office
+Rank: 96
+
+*** Reforma 199 ***
+Height: 82
+Floors: 22
+Status: Completed
+Functions: office
+Rank: 97
+
+*** Torre Cervantes ***
+Height: 81.6
+Floors: 22
+Status: Under Construction
+Started: 2011
+Functions: residential
+Rank: 98
+
+*** Reforma 389 ***
+Height: 81.1
+Floors: 23
+Status: Completed
+Functions: office
+Rank: 99
+
+*** Krystal Grand Reforma Uno ***
+Height: 79.5
+Floors: 21
+Status: Completed
+Completed: 1987
+Functions: hotel
+Rank: 100
+
+*** Insurgentes 1647 ***
+Height: 77.5
+Floors: 16
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 101
+
+*** Reforma 383 ***
+Height: 76.8
+Floors: 16
+Status: Completed
+Functions: office
+Rank: 102
+
+*** Reforma 175 ***
+Height: 75
+Floors: 23
+Status: Completed
+Started: 1975
+Completed: 1982
+Functions: office
+Rank: 103
+
+*** PGR Reforma ***
+Height: 75
+Floors: 20
+Status: Completed
+Started: 1979
+Completed: 1980
+Functions: office
+Rank: 104

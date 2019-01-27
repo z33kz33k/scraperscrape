@@ -1,0 +1,45 @@
+*** Saudi Arabia (308) ***
+1. Riyadh, 174
+2. Mecca, 64
+3. Jeddah, 62
+4. Al Khobar, 8
+
+******************** DETAILS ********************
+
+*** Saudi Arabia ***
+Region: Middle East
+4 cities: Riyadh, Mecca, Jeddah, Al Khobar
+Tiers: I: 16, II: 18, III: 23, IV: 17, V: 4, VI: 3
+Rating: 308 (40.9% uncompleted)
+
+*** Riyadh ***
+Country: Saudi Arabia
+Region: Middle East
+55 towers: PIF Tower, Burj Rafal, KAFD World Trade Center, Kingdom Centre, Al Faisaliah Center, GCC Bank Headquarters, Tamkeen Tower, Al Majdoul Tower, Samba Bank HQ Tower, Rafal Living Tower, Al Rajhi Bank Tower, Olaya Tower 2, Tadawul Tower, Burj DAMAC, Al-Obeikan Hilton Tower Hotel, Al Nakheel Tower, King Abdullah Financial District Tower 4.09, Olaya Tower 1, Al Zamil Residential Tower, Al Waseel Tower, Hamad Tower, Villas in the Sky, Boudl-Narcissus Classic Tower, Burj Al-Swailem, Burj Ramla, DAMAC Esclusiva Luxury Serviced Apartments, PPA 30 Parcel 5.05 Residential Tower, Burj Al Anoud, PP 10 Parcel 3.04 Office Tower, PPA 30 Parcel 3.09, PPA 30 Parcel 3.10, Saudi British Bank Tower, Crystal Tower 1, Moon Tower, Elegance Medical Tower, Princess Alanood Investment Towers, PP 10 Parcel 4.08, Alnood Tower 2, PPA 30 Parcel 5.05 Office Tower, PPA 30 Parcel 5.03 Tower 1, PPA 30 Parcel 2.12, PP 10 Parcel 2.14, PP 10 Parcel 1.12, NCCI Towers North , NCCI Towers South, PP 10 Parcel 3.04 Residential Tower, Granada Office Park, Tower A1, Granada Office Park, Tower A4, PP 10 Parcel 3.05 Office Tower, PPA 30 Parcel 5.01, PPA 30 Parcel 1.11, PP 10 Parcel 4.07, Crystal Tower 2, PPA 30 Parcel 5.06, PPA 30 Parcel 5.03 Tower 2
+Tiers: I: 16, II: 13, III: 16, IV: 6, V: 4
+Rating: 174 (42.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mecca ***
+Country: Saudi Arabia
+Region: Middle East
+10 towers: Makkah Royal Clock Tower, Abraj Al Bait ZamZam Tower, Abraj Al Bait Hajar Tower, Abraj Al Bait Maqam Tower, Abraj Al Bait Qibla Tower, Abraj Al Bait Marwah Tower, Abraj Al Bait Safa Tower, Abraj Kudai T6A and T6B, Jabal Omar Hotel Tower 1, Jabal Omar Hotel Tower 2
+Tiers: IV: 9, VI: 1
+Rating: 64 (28.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jeddah ***
+Country: Saudi Arabia
+Region: Middle East
+13 towers: Jeddah Tower, Diamond Tower, Sail Tower, The Headquarters Business Park, Golden Tower, Jeddah Chamber of Commerce and Industry Expansion, Al Jawhara Tower, Beach Tower, King’s Road Tower, Bayat Plaza Tower 1, National Commercial Bank, Islamic Development Bank Headquarters, Main Administration Building
+Tiers: II: 3, III: 6, IV: 2, VI: 2
+Rating: 62 (54.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Al Khobar ***
+Country: Saudi Arabia
+Region: Middle East
+3 towers: Dhahran Tower, Al Hugayet Tower, Al Khobar Gate Tower
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16

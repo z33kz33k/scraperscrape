@@ -1,0 +1,39 @@
+*** Leeds (4) ***
+1. Bridgewater Place, 112m
+2. Sky Plaza, 103m
+3. Arena Point, 77m
+
+******************** DETAILS ********************
+
+*** Leeds ***
+Country: United Kingdom
+Region: Europe
+3 towers: Bridgewater Place, Sky Plaza, Arena Point
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bridgewater Place ***
+Height: 112
+Floors: 32
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / office
+Rank: 1
+
+*** Sky Plaza ***
+Height: 103
+Floors: 34
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 2
+
+*** Arena Point ***
+Height: 76.8
+Floors: 20
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 3

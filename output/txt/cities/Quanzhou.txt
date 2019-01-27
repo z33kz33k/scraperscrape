@@ -1,0 +1,40 @@
+*** Quanzhou (12) ***
+1. Quanzhou World Trade Center, 189m
+2. Puxi Wanda Plaza A, 180m
+3. Puxi Wanda Plaza B, 180m
+
+******************** DETAILS ********************
+
+*** Quanzhou ***
+Country: China
+Region: Asia
+3 towers: Quanzhou World Trade Center, Puxi Wanda Plaza A, Puxi Wanda Plaza B
+Tiers: III: 3
+Rating: 12 (33.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Quanzhou World Trade Center ***
+Height: 189
+Floors: 50
+Status: Under Construction
+Started: 2009
+Functions: residential / hotel / office
+Rank: 1
+
+*** Puxi Wanda Plaza A ***
+Height: 180
+Floors: 46
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: hotel / office
+Rank: 2
+
+*** Puxi Wanda Plaza B ***
+Height: 180
+Floors: 46
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 2

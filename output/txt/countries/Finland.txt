@@ -1,0 +1,36 @@
+*** Finland (10) ***
+1. Helsinki, 6
+2. Espoo, 3
+3. Tammerfors (Tampere), 1
+
+******************** DETAILS ********************
+
+*** Finland ***
+Region: Europe
+3 cities: Helsinki, Espoo, Tammerfors (Tampere)
+Tiers: I: 6, II: 2
+Rating: 10 (40.0% uncompleted)
+
+*** Helsinki ***
+Country: Finland
+Region: Europe
+4 towers: Majakka, Redi Kalasatama 2, Cirrus, Maamerkki
+Tiers: I: 2, II: 2
+Rating: 6 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Espoo ***
+Country: Finland
+Region: Europe
+3 towers: Fortum, Niittyhuippu	, Panorama Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tammerfors (Tampere) ***
+Country: Finland
+Region: Europe
+1 tower: Solo Sokos Hotel Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

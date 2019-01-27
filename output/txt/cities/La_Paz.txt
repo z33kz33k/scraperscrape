@@ -1,0 +1,39 @@
+*** La Paz (6) ***
+1. Torre Girasoles, 138m
+2. New Presidential Palace, 120m
+3. Banco Central de Bolivia, 107m
+
+******************** DETAILS ********************
+
+*** La Paz ***
+Country: Bolivia
+Region: South America
+3 towers: Torre Girasoles, New Presidential Palace, Banco Central de Bolivia
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre Girasoles ***
+Height: 138
+Floors: 38
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 1
+
+*** New Presidential Palace ***
+Height: 120
+Floors: 29
+Status: Completed
+Functions: government
+Rank: 2
+
+*** Banco Central de Bolivia ***
+Height: 107
+Floors: 29
+Status: Completed
+Started: 1976
+Completed: 1980
+Functions: office
+Rank: 3

@@ -1,0 +1,21 @@
+*** Lincoln (NE) (2) ***
+1. Nebraska State Capitol, 121m
+
+******************** DETAILS ********************
+
+*** Lincoln (NE) ***
+Country: United States
+Region: North America
+1 tower: Nebraska State Capitol
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nebraska State Capitol ***
+Height: 121.21
+Floors: 22
+Status: Completed
+Started: 1922
+Completed: 1932
+Functions: government
+Rank: 1

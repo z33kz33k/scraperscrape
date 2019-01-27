@@ -1,0 +1,21 @@
+*** Shiraz (2) ***
+1. Persian Gulf Complex International Hotel, 148m
+
+******************** DETAILS ********************
+
+*** Shiraz ***
+Country: Iran
+Region: Middle East
+1 tower: Persian Gulf Complex International Hotel
+Tiers: II: 1
+Rating: 2 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Persian Gulf Complex International Hotel ***
+Height: 147.5
+Floors: 39
+Status: Structurally Topped Out
+Started: 2008
+Completed: 2018
+Functions: hotel
+Rank: 1

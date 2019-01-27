@@ -1,0 +1,98 @@
+*** Winnipeg (14) ***
+1. CanWest Place, 128m
+2. Richardson Building, 126m
+3. 360 Main, 117m
+4. Manitoba Hydro Place, 115m
+5. 55 Nassau North, 109m
+6. Le Chateau York, 97m
+7. MTS Place Main, 96m
+8. Heritage Landing, 86m
+9. Radisson Hotel, 83m
+
+******************** DETAILS ********************
+
+*** Winnipeg ***
+Country: Canada
+Region: North America
+9 towers: CanWest Place, Richardson Building, 360 Main, Manitoba Hydro Place, 55 Nassau North, Le Chateau York, MTS Place Main, Heritage Landing, Radisson Hotel
+Tiers: I: 4, II: 5
+Rating: 14 (7.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** CanWest Place ***
+Height: 128
+Floors: 33
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 1
+
+*** Richardson Building ***
+Height: 126.06
+Floors: 34
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: office
+Rank: 2
+
+*** 360 Main ***
+Height: 117
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: office
+Rank: 3
+
+*** Manitoba Hydro Place ***
+Height: 114.91
+Floors: 22
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 4
+
+*** 55 Nassau North ***
+Height: 109
+Floors: 38
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: residential
+Rank: 5
+
+*** Le Chateau York ***
+Height: 97.2
+Floors: 24
+Status: Completed
+Completed: 1979
+Functions: residential
+Rank: 6
+
+*** MTS Place Main ***
+Height: 96
+Floors: 24
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 7
+
+*** Heritage Landing ***
+Height: 86
+Floors: 25
+Status: Under Construction
+Started: 2013
+Functions: residential
+Rank: 8
+
+*** Radisson Hotel ***
+Height: 82.9
+Floors: 29
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: hotel
+Rank: 9

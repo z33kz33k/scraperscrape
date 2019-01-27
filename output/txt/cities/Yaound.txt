@@ -1,0 +1,28 @@
+*** Yaound (3) ***
+1. Tour CNPS, 132m
+2. Prime Ministry Building, 90m
+
+******************** DETAILS ********************
+
+*** Yaound ***
+Country: Cameroon
+Region: Africa
+2 towers: Tour CNPS, Prime Ministry Building
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tour CNPS ***
+Height: 132
+Floors: 32
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 1
+
+*** Prime Ministry Building ***
+Height: 90
+Floors: 19
+Status: Completed
+Functions: government
+Rank: 2

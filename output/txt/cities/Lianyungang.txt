@@ -1,0 +1,27 @@
+*** Lianyungang (8) ***
+1. Sunshine International Tower, 208m
+2. Sinny Coast, 180m
+
+******************** DETAILS ********************
+
+*** Lianyungang ***
+Country: China
+Region: Asia
+2 towers: Sunshine International Tower, Sinny Coast
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sunshine International Tower ***
+Height: 208
+Floors: 60
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 1
+
+*** Sinny Coast ***
+Height: 180
+Status: Completed
+Rank: 2

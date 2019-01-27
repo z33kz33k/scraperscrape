@@ -1,0 +1,39 @@
+*** West Palm Beach (3) ***
+1. Trump Plaza I, 101m
+2. Trump Plaza II, 101m
+3. One Clearlake Centre, 82m
+
+******************** DETAILS ********************
+
+*** West Palm Beach ***
+Country: United States
+Region: North America
+3 towers: Trump Plaza I, Trump Plaza II, One Clearlake Centre
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Trump Plaza I ***
+Height: 100.6
+Floors: 32
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: residential
+Rank: 1
+
+*** Trump Plaza II ***
+Height: 100.6
+Floors: 32
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 1
+
+*** One Clearlake Centre ***
+Height: 82.3
+Floors: 18
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 3

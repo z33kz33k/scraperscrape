@@ -1,0 +1,21 @@
+*** Jiujiang (8) ***
+1. Jiujiang IFC, 333m
+
+******************** DETAILS ********************
+
+*** Jiujiang ***
+Country: China
+Region: Asia
+1 tower: Jiujiang IFC
+Tiers: V: 1
+Rating: 8 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jiujiang IFC ***
+Height: 333
+Floors: 66
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: office
+Rank: 1

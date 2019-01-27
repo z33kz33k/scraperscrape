@@ -1,0 +1,20 @@
+*** Cagayan de Oro, Mindanao (4) ***
+1. Gateway Tower, 159m
+
+******************** DETAILS ********************
+
+*** Cagayan de Oro, Mindanao ***
+Country: Philippines
+Region: Asia
+1 tower: Gateway Tower
+Tiers: III: 1
+Rating: 4 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gateway Tower ***
+Height: 159
+Floors: 36
+Status: Under Construction
+Started: 2012
+Functions: hotel
+Rank: 1

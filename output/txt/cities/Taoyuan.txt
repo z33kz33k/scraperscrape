@@ -1,0 +1,30 @@
+*** Taoyuan (3) ***
+1. Financial Star Building, 124m
+2. HVW Headquarters, 83m
+
+******************** DETAILS ********************
+
+*** Taoyuan ***
+Country: Taiwan
+Region: Asia
+2 towers: Financial Star Building, HVW Headquarters
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Financial Star Building ***
+Height: 123.7
+Floors: 30
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 1
+
+*** HVW Headquarters ***
+Height: 82.62
+Floors: 19
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 2

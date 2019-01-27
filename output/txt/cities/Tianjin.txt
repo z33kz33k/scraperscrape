@@ -1,0 +1,585 @@
+*** Tianjin (296) ***
+1.  Goldin Finance 117, 597m
+2.  Tianjin CTF Finance Centre, 530m
+3.  Tianjin Modern City Office Tower, 338m
+4.  Tianjin World Financial Center, 337m
+5.  TEDA IFC 1, 313m
+6.  Jin Wan Plaza 9, 300m
+7.  Powerlong Center Tower 1, 290m
+8.  Bohai Bank Tower, 270m
+9.  Financial Street Heping Center, 263m
+10. The Metropolitan Office Tower, 258m
+11. 5 Taian Dao, 251m
+12. Shangbang Leasing Tower, 246m
+13. Jin Wan Plaza 2, 240m
+14. Tianjin Junlin Tianxia Building, 239m
+15. Tianjin Xinda Plaza, 238m
+16. Tianjin International Trade Tower 1, 235m
+17. Tianjin Kerry Center R1, 215m
+18. Tianjin Kerry Center R2, 215m
+19. Tianjin Kerry Center R3, 215m
+20. Four Seasons Tower, 215m
+21. AVIC International Plaza, 214m
+22. Liqin Hotel, 211m
+23. Hongji Commercial Centre 1, 210m
+24. Financial Street Nankai Center, 210m
+25. Kunlun Center, 210m
+26. Tianjin Maoye Building, 205m
+27. Renaissance Hotel Tianjin, 203m
+28. Golden Mansion Center, 203m
+29. R&F Center Tower 1, 200m
+30. R&F Center Tower 2, 200m
+31. Binhai Cathay Tower, 200m
+32. Jinmao Xianchang, 193m
+33. Metropolitan Heights Tower 1, 191m
+34. Golden Crown Tower, 188m
+35. COFCO Tianjin Joy City Office Tower, 186m
+36. Tianjin Centre West Tower, 185m
+37. Hongji Commercial Centre 2, 185m
+38. Binhai Trade Tower, 185m
+39. Vantone Center, 185m
+40. Post and Communications Network Center, 183m
+41. Jin Wan Plaza 3, 180m
+42. Powerlong Center Tower 2, 180m
+43. Metropolitan Heights Tower 2, 179m
+44. Metropolitan Heights Tower 3, 168m
+45. Tianjin Daily Building, 168m
+46. Tianjin International Finance Centre, 166m
+47. Global Landmark Square, 166m
+48. Tianjin Greentown Office Tower, 166m
+49. Tianjin International Trade Tower 3, 165m
+50. Tianjin International Trade Tower 2, 165m
+51. Yunding Tower, 165m
+52. Tianjin Evening News Hotel, 164m
+53. Fortune Heights T11, 160m
+54. Fortune Heights T14, 160m
+55. COSCO Tower 1, 156m
+56. Tianjin Ocean Shipping Mansion, 156m
+57. Zhuoyue Qianshui Wan Tower 1, 150m
+58. Zhuoyue Qianshui Wan Tower 2, 150m
+59. Tianjin Department Store, 148m
+60. Powerlong Center Tower 3, 136m
+
+******************** DETAILS ********************
+
+*** Tianjin ***
+Country: China
+Region: Asia
+60 towers: Goldin Finance 117, Tianjin CTF Finance Centre, Tianjin Modern City Office Tower, Tianjin World Financial Center, TEDA IFC 1, Jin Wan Plaza 9, Powerlong Center Tower 1, Bohai Bank Tower, Financial Street Heping Center, The Metropolitan Office Tower, 5 Taian Dao, Shangbang Leasing Tower, Jin Wan Plaza 2, Tianjin Junlin Tianxia Building, Tianjin Xinda Plaza, Tianjin International Trade Tower 1, Tianjin Kerry Center R1, Tianjin Kerry Center R2, Tianjin Kerry Center R3, Four Seasons Tower, AVIC International Plaza, Liqin Hotel, Hongji Commercial Centre 1, Financial Street Nankai Center, Kunlun Center, Tianjin Maoye Building, Renaissance Hotel Tianjin, Golden Mansion Center, R&F Center Tower 1, R&F Center Tower 2, Binhai Cathay Tower, Jinmao Xianchang, Metropolitan Heights Tower 1, Golden Crown Tower, COFCO Tianjin Joy City Office Tower, Tianjin Centre West Tower, Hongji Commercial Centre 2, Binhai Trade Tower, Vantone Center, Post and Communications Network Center, Jin Wan Plaza 3, Powerlong Center Tower 2, Metropolitan Heights Tower 2, Metropolitan Heights Tower 3, Tianjin Daily Building, Tianjin International Finance Centre, Global Landmark Square, Tianjin Greentown Office Tower, Tianjin International Trade Tower 3, Tianjin International Trade Tower 2, Yunding Tower, Tianjin Evening News Hotel, Fortune Heights T11, Fortune Heights T14, COSCO Tower 1, Tianjin Ocean Shipping Mansion, Zhuoyue Qianshui Wan Tower 1, Zhuoyue Qianshui Wan Tower 2, Tianjin Department Store, Powerlong Center Tower 3
+Tiers: II: 2, III: 36, IV: 16, V: 4, VI: 2
+Rating: 296 (18.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Goldin Finance 117 ***
+Height: 596.55
+Floors: 128
+Status: Structurally Topped Out
+Started: 2009
+Completed: 2020
+Functions: hotel / office
+Rank: 1
+
+*** Tianjin CTF Finance Centre ***
+Height: 530
+Floors: 97
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2020
+Functions: hotel / office
+Rank: 2
+
+*** Tianjin Modern City Office Tower ***
+Height: 338
+Floors: 65
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 3
+
+*** Tianjin World Financial Center ***
+Height: 336.9
+Floors: 75
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 4
+
+*** TEDA IFC 1 ***
+Height: 313
+Floors: 56
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office
+Rank: 5
+
+*** Jin Wan Plaza 9 ***
+Height: 299.65
+Floors: 66
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: hotel / office
+Rank: 6
+
+*** Powerlong Center Tower 1 ***
+Height: 289.9
+Floors: 59
+Status: Architecturally Topped Out
+Started: 2011
+Completed: 2019
+Functions: office
+Rank: 7
+
+*** Bohai Bank Tower ***
+Height: 270
+Floors: 55
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 8
+
+*** Financial Street Heping Center ***
+Height: 262.95
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 9
+
+*** The Metropolitan Office Tower ***
+Height: 258
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office
+Rank: 10
+
+*** 5 Taian Dao ***
+Height: 250.8
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 11
+
+*** Shangbang Leasing Tower ***
+Height: 246
+Floors: 54
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: office
+Rank: 12
+
+*** Jin Wan Plaza 2 ***
+Height: 240
+Floors: 58
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 13
+
+*** Tianjin Junlin Tianxia Building ***
+Height: 239
+Floors: 64
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / hotel
+Rank: 14
+
+*** Tianjin Xinda Plaza ***
+Height: 238
+Floors: 51
+Status: Completed
+Completed: 2004
+Functions: residential / office
+Rank: 15
+
+*** Tianjin International Trade Tower 1 ***
+Height: 235
+Floors: 57
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: serviced apartments / retail
+Rank: 16
+
+*** Tianjin Kerry Center R1 ***
+Height: 215
+Floors: 59
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 17
+
+*** Tianjin Kerry Center R2 ***
+Height: 215
+Floors: 59
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 17
+
+*** Tianjin Kerry Center R3 ***
+Height: 215
+Floors: 59
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 17
+
+*** Four Seasons Tower ***
+Height: 214.6
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / hotel
+Rank: 20
+
+*** AVIC International Plaza ***
+Height: 214
+Floors: 48
+Status: Under Construction
+Started: 2011
+Functions: office
+Rank: 21
+
+*** Liqin Hotel ***
+Height: 211
+Floors: 58
+Status: Under Construction
+Started: 2011
+Completed: 2019
+Functions: hotel
+Rank: 22
+
+*** Hongji Commercial Centre 1 ***
+Height: 210
+Floors: 52
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 23
+
+*** Financial Street Nankai Center ***
+Height: 210
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 24
+
+*** Kunlun Center ***
+Height: 209.9
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2019
+Functions: office
+Rank: 25
+
+*** Tianjin Maoye Building ***
+Height: 205.3
+Floors: 51
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential / hotel / office
+Rank: 26
+
+*** Renaissance Hotel Tianjin ***
+Height: 203
+Floors: 48
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 27
+
+*** Golden Mansion Center ***
+Height: 203
+Floors: 36
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / office
+Rank: 28
+
+*** R&F Center Tower 1 ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 29
+
+*** R&F Center Tower 2 ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 29
+
+*** Binhai Cathay Tower ***
+Height: 200
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 31
+
+*** Jinmao Xianchang ***
+Height: 193
+Floors: 48
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 32
+
+*** Metropolitan Heights Tower 1 ***
+Height: 191
+Floors: 57
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 33
+
+*** Golden Crown Tower ***
+Height: 188
+Floors: 47
+Status: Completed
+Started: 1994
+Completed: 2000
+Functions: office / hotel
+Rank: 34
+
+*** COFCO Tianjin Joy City Office Tower ***
+Height: 185.6
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: office
+Rank: 35
+
+*** Tianjin Centre West Tower ***
+Height: 185
+Floors: 49
+Status: Completed
+Started: 1992
+Completed: 2009
+Functions: hotel / office
+Rank: 36
+
+*** Hongji Commercial Centre 2 ***
+Height: 185
+Floors: 48
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 37
+
+*** Binhai Trade Tower ***
+Height: 185
+Floors: 40
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 38
+
+*** Vantone Center ***
+Height: 185
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 39
+
+*** Post and Communications Network Center ***
+Height: 182.58
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 40
+
+*** Jin Wan Plaza 3 ***
+Height: 180
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 41
+
+*** Powerlong Center Tower 2 ***
+Height: 179.7
+Floors: 43
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 42
+
+*** Metropolitan Heights Tower 2 ***
+Height: 179
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 43
+
+*** Metropolitan Heights Tower 3 ***
+Height: 168
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 44
+
+*** Tianjin Daily Building ***
+Height: 167.95
+Floors: 40
+Status: Completed
+Functions: office
+Rank: 45
+
+*** Tianjin International Finance Centre ***
+Height: 166.5
+Floors: 39
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 46
+
+*** Global Landmark Square ***
+Height: 166
+Floors: 41
+Status: Completed
+Completed: 2009
+Rank: 47
+
+*** Tianjin Greentown Office Tower ***
+Height: 165.8
+Floors: 36
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: residential / office
+Rank: 48
+
+*** Tianjin International Trade Tower 3 ***
+Height: 165.2
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: serviced apartments
+Rank: 49
+
+*** Tianjin International Trade Tower 2 ***
+Height: 165.2
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 50
+
+*** Yunding Tower ***
+Height: 165
+Floors: 44
+Status: Completed
+Functions: residential / hotel / office
+Rank: 51
+
+*** Tianjin Evening News Hotel ***
+Height: 164
+Floors: 36
+Status: Completed
+Completed: 1998
+Functions: residential / hotel / office
+Rank: 52
+
+*** Fortune Heights T11 ***
+Height: 160.25
+Floors: 43
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 53
+
+*** Fortune Heights T14 ***
+Height: 160.25
+Floors: 43
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 53
+
+*** COSCO Tower 1 ***
+Height: 156.06
+Floors: 40
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office
+Rank: 55
+
+*** Tianjin Ocean Shipping Mansion ***
+Height: 156
+Floors: 40
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 56
+
+*** Zhuoyue Qianshui Wan Tower 1 ***
+Height: 150
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 57
+
+*** Zhuoyue Qianshui Wan Tower 2 ***
+Height: 150
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 57
+
+*** Tianjin Department Store ***
+Height: 148
+Floors: 38
+Status: Completed
+Completed: 1997
+Functions: office / retail
+Rank: 59
+
+*** Powerlong Center Tower 3 ***
+Height: 135.9
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 60

@@ -1,0 +1,161 @@
+*** Wuzhou (16) ***
+1.  God Crown All, 140m
+2.  Guanghui Tancheng 7#, 94m
+3.  Guanghui Tancheng 8#, 94m
+4.  Hao Jing Yue City 12#, 91m
+5.  Hao Jing Yue City 13#, 91m
+6.  Hao Jing Yue City 11#, 90m
+7.  Hao Jing Yue City 10#, 90m
+8.  Hao Jing Yue City 18#, 90m
+9.  Hao Jing Yue City 8#, 90m
+10. Hao Jing Yue City 9#, 90m
+11. Guanghui Tancheng 5B#, 88m
+12. Guanghui Tancheng 6#, 88m
+13. Hao Jing Yue City 17#, 87m
+14. Hao Jing Yue City 19#, 87m
+15. Hao Jing Yue City 16#, 78m
+
+******************** DETAILS ********************
+
+*** Wuzhou ***
+Country: China
+Region: Asia
+15 towers: God Crown All, Guanghui Tancheng 7#, Guanghui Tancheng 8#, Hao Jing Yue City 12#, Hao Jing Yue City 13#, Hao Jing Yue City 11#, Hao Jing Yue City 10#, Hao Jing Yue City 18#, Hao Jing Yue City 8#, Hao Jing Yue City 9#, Guanghui Tancheng 5B#, Guanghui Tancheng 6#, Hao Jing Yue City 17#, Hao Jing Yue City 19#, Hao Jing Yue City 16#
+Tiers: I: 14, II: 1
+Rating: 16 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** God Crown All ***
+Height: 139.8
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 1
+
+*** Guanghui Tancheng 7# ***
+Height: 93.6
+Floors: 30
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Guanghui Tancheng 8# ***
+Height: 93.6
+Floors: 30
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Hao Jing Yue City 12# ***
+Height: 91.4
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 4
+
+*** Hao Jing Yue City 13# ***
+Height: 91.4
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 4
+
+*** Hao Jing Yue City 11# ***
+Height: 90.3
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 6
+
+*** Hao Jing Yue City 10# ***
+Height: 89.7
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 7
+
+*** Hao Jing Yue City 18# ***
+Height: 89.7
+Floors: 29
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 7
+
+*** Hao Jing Yue City 8# ***
+Height: 89.7
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 7
+
+*** Hao Jing Yue City 9# ***
+Height: 89.7
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 7
+
+*** Guanghui Tancheng 5B# ***
+Height: 87.6
+Floors: 28
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 11
+
+*** Guanghui Tancheng 6# ***
+Height: 87.6
+Floors: 28
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 11
+
+*** Hao Jing Yue City 17# ***
+Height: 87.3
+Floors: 29
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 13
+
+*** Hao Jing Yue City 19# ***
+Height: 87.3
+Floors: 29
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 13
+
+*** Hao Jing Yue City 16# ***
+Height: 77.7
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 15

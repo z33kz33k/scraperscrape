@@ -1,0 +1,18 @@
+*** Kuwait (98) ***
+1. Kuwait City, 98
+
+******************** DETAILS ********************
+
+*** Kuwait ***
+Region: Middle East
+1 city: Kuwait City
+Tiers: II: 4, III: 9, IV: 5, V: 3
+Rating: 98 (8.2% uncompleted)
+
+*** Kuwait City ***
+Country: Kuwait
+Region: Middle East
+21 towers: Al Hamra Tower, Arraya Tower, NBK Tower, Kipco Tower, Crystal Tower, The Central Bank of Kuwait New Headquarters Building, Kuwait Investment Authority Headquarters, Al Tijaria Tower, Burj Alshaya West Tower, Abdul Aziz Al Babtain Cultural WAQF, Business Town Tower 5, Kuwait Building Tower, Dar Al Awadi, Panasonic Tower, Al Jon Tower, Al Jawhara Tower, Arabiya Tower, Baitak Tower, Al Dhow Tower, Injazzat Tower, Arraya Centre
+Tiers: II: 4, III: 9, IV: 5, V: 3
+Rating: 98 (8.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

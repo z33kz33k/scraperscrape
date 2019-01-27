@@ -1,0 +1,363 @@
+*** Amsterdam (41) ***
+1.  Rembrandt Tower, 150m
+2.  Mondriaan Toren, 123m
+3.  Maritim Congress Hotel, 114m
+4.  Amsterdam Symphony I, 105m
+5.  Amsterdam Symphony II, 105m
+6.  World Trade Center Tower H, 105m
+7.  ABN AMRO World HQ, 105m
+8.  Overhoeks Residential Tower, 104m
+9.  Amstel Tower, 100m
+10. Ito-toren, 100m
+11. Millennium Tower, 98m
+12. Valley 1, 97m
+13. Crystal Tower, 95m
+14. Vinoly, 95m
+15. Breitner Center, 95m
+16. Oval Tower, 94m
+17. A'DAM Toren, 94m
+18. nhow Amsterdam RAI Hotel, 91m
+19. The Rock, 91m
+20. Pontsteiger, 90m
+21. Intermezzo, 90m
+22. La Guardia Plaza 4, 90m
+23. Ernst & Young, 87m
+24. New Amsterdam, 85m
+25. Zuidoost Toren A, 85m
+26. UN Studio Tower, 85m
+27. Gemeentelijke Belastingdienst, 85m
+28. Hourglass, 80m
+29. IJ-Toren, 80m
+30. Zuidoost Toren B, 80m
+31. Okura Hotel, 78m
+32. 900 Mahler, 77m
+33. Valley 2, 76m
+34. De Nederlandsche Bank, 75m
+35. Amsterdam ArenA, 75m
+36. B'Mine, 75m
+
+******************** DETAILS ********************
+
+*** Amsterdam ***
+Country: Netherlands
+Region: Europe
+36 towers: Rembrandt Tower, Mondriaan Toren, Maritim Congress Hotel, Amsterdam Symphony I, Amsterdam Symphony II, World Trade Center Tower H, ABN AMRO World HQ, Overhoeks Residential Tower, Amstel Tower, Ito-toren, Millennium Tower, Valley 1, Crystal Tower, Vinoly, Breitner Center, Oval Tower, A'DAM Toren, nhow Amsterdam RAI Hotel, The Rock, Pontsteiger, Intermezzo, La Guardia Plaza 4, Ernst & Young, New Amsterdam, Zuidoost Toren A, UN Studio Tower, Gemeentelijke Belastingdienst, Hourglass, IJ-Toren, Zuidoost Toren B, Okura Hotel, 900 Mahler, Valley 2, De Nederlandsche Bank, Amsterdam ArenA, B'Mine
+Tiers: I: 33, II: 2, III: 1
+Rating: 41 (19.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Rembrandt Tower ***
+Height: 150
+Floors: 35
+Status: Completed
+Started: 1991
+Completed: 1995
+Functions: office
+Rank: 1
+
+*** Mondriaan Toren ***
+Height: 123
+Floors: 31
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: office
+Rank: 2
+
+*** Maritim Congress Hotel ***
+Height: 114
+Floors: 35
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: hotel
+Rank: 3
+
+*** Amsterdam Symphony I ***
+Height: 105
+Floors: 29
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** Amsterdam Symphony II ***
+Height: 105
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 5
+
+*** World Trade Center Tower H ***
+Height: 105
+Floors: 27
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 5
+
+*** ABN AMRO World HQ ***
+Height: 105
+Floors: 24
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 7
+
+*** Overhoeks Residential Tower ***
+Height: 104
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 8
+
+*** Amstel Tower ***
+Height: 100
+Floors: 32
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential / hotel
+Rank: 9
+
+*** Ito-toren ***
+Height: 100
+Floors: 25
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office / retail
+Rank: 10
+
+*** Millennium Tower ***
+Height: 97.5
+Floors: 24
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 11
+
+*** Valley 1 ***
+Height: 97
+Floors: 26
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential / office / retail
+Rank: 12
+
+*** Crystal Tower ***
+Height: 95
+Floors: 27
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 13
+
+*** Vinoly ***
+Height: 95
+Floors: 24
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 14
+
+*** Breitner Center ***
+Height: 95
+Floors: 22
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 15
+
+*** Oval Tower ***
+Height: 94
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 16
+
+*** A'DAM Toren ***
+Height: 94
+Floors: 22
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office / hotel
+Rank: 17
+
+*** nhow Amsterdam RAI Hotel ***
+Height: 91
+Floors: 26
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: hotel
+Rank: 18
+
+*** The Rock ***
+Height: 90.7
+Floors: 24
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 19
+
+*** Pontsteiger ***
+Height: 90
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / retail
+Rank: 20
+
+*** Intermezzo ***
+Height: 90
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 21
+
+*** La Guardia Plaza 4 ***
+Height: 90
+Floors: 23
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 22
+
+*** Ernst & Young ***
+Height: 87
+Floors: 23
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 23
+
+*** New Amsterdam ***
+Height: 85
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / retail
+Rank: 24
+
+*** Zuidoost Toren A ***
+Height: 85
+Floors: 22
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 25
+
+*** UN Studio Tower ***
+Height: 85
+Floors: 21
+Status: Completed
+Started: 2004
+Completed: 2010
+Functions: office
+Rank: 26
+
+*** Gemeentelijke Belastingdienst ***
+Height: 85
+Floors: 19
+Status: Completed
+Started: 1992
+Completed: 1994
+Functions: office
+Rank: 27
+
+*** Hourglass ***
+Height: 80
+Floors: 21
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: hotel / office / retail
+Rank: 28
+
+*** IJ-Toren ***
+Height: 80
+Floors: 19
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 29
+
+*** Zuidoost Toren B ***
+Height: 80
+Floors: 18
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 30
+
+*** Okura Hotel ***
+Height: 78
+Floors: 22
+Status: Completed
+Started: 1968
+Completed: 1971
+Functions: hotel
+Rank: 31
+
+*** 900 Mahler ***
+Height: 77
+Floors: 22
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / retail
+Rank: 32
+
+*** Valley 2 ***
+Height: 76
+Floors: 20
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential / office / retail
+Rank: 33
+
+*** De Nederlandsche Bank ***
+Height: 75
+Floors: 14
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 34
+
+*** Amsterdam ArenA ***
+Height: 75
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: other
+Rank: 35
+
+*** B'Mine ***
+Height: 75
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 35

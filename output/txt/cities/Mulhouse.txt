@@ -1,0 +1,20 @@
+*** Mulhouse (1) ***
+1. Tour de l`Europe, 100m
+
+******************** DETAILS ********************
+
+*** Mulhouse ***
+Country: France
+Region: Europe
+1 tower: Tour de l`Europe
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tour de l`Europe ***
+Height: 100
+Status: Completed
+Started: 1969
+Completed: 1972
+Functions: residential / office / retail
+Rank: 1

@@ -1,0 +1,175 @@
+*** Tampa (35) ***
+1.  Regions Building, 176m
+2.  Bank of America Plaza, 176m
+3.  One Tampa City Center, 164m
+4.  Suntrust Financial Center, 160m
+5.  Element, 140m
+6.  Park Tower, 140m
+7.  Rivergate Tower, 138m
+8.  SkyPoint, 126m
+9.  Sam Gibbons Federal Courthouse, 114m
+10. Hillsborough County Center, 111m
+11. Tampa Marriott Waterside Hotel & Marina, 99m
+12. Wells Fargo Center, 95m
+13. Nine15, 87m
+14. Franklin Exchange Building, 85m
+15. Southtrust Building, 85m
+16. SkyHouse Channelside, 84m
+17. One Mack-Cali Center, 77m
+
+******************** DETAILS ********************
+
+*** Tampa ***
+Country: United States
+Region: North America
+17 towers: Regions Building, Bank of America Plaza, One Tampa City Center, Suntrust Financial Center, Element, Park Tower, Rivergate Tower, SkyPoint, Sam Gibbons Federal Courthouse, Hillsborough County Center, Tampa Marriott Waterside Hotel & Marina, Wells Fargo Center, Nine15, Franklin Exchange Building, Southtrust Building, SkyHouse Channelside, One Mack-Cali Center
+Tiers: I: 7, II: 6, III: 4
+Rating: 35
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Regions Building ***
+Height: 176.48
+Floors: 42
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 1
+
+*** Bank of America Plaza ***
+Height: 175.87
+Floors: 42
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 2
+
+*** One Tampa City Center ***
+Height: 163.68
+Floors: 39
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 3
+
+*** Suntrust Financial Center ***
+Height: 160.02
+Floors: 36
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 4
+
+*** Element ***
+Height: 140.21
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 5
+
+*** Park Tower ***
+Height: 139.6
+Floors: 36
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 6
+
+*** Rivergate Tower ***
+Height: 138.38
+Floors: 32
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 7
+
+*** SkyPoint ***
+Height: 126.2
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 8
+
+*** Sam Gibbons Federal Courthouse ***
+Height: 114.3
+Floors: 17
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: government
+Rank: 9
+
+*** Hillsborough County Center ***
+Height: 111.25
+Floors: 28
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 10
+
+*** Tampa Marriott Waterside Hotel & Marina ***
+Height: 99.36
+Floors: 27
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 11
+
+*** Wells Fargo Center ***
+Height: 94.8
+Floors: 22
+Status: Completed
+Started: 1984
+Completed: 1985
+Functions: office
+Rank: 12
+
+*** Nine15 ***
+Height: 86.66
+Floors: 23
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Franklin Exchange Building ***
+Height: 85.34
+Floors: 22
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 14
+
+*** Southtrust Building ***
+Height: 85
+Floors: 19
+Status: Completed
+Started: 1980
+Completed: 1981
+Functions: office
+Rank: 15
+
+*** SkyHouse Channelside ***
+Height: 83.82
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 16
+
+*** One Mack-Cali Center ***
+Height: 77
+Floors: 19
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 17

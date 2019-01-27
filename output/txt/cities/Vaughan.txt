@@ -1,0 +1,88 @@
+*** Vaughan (19) ***
+1. Transit City Condominiums 1, 175m
+2. Transit City Condominiums 2, 175m
+3. Nord West, 124m
+4. Expo 2, 118m
+5. Expo 1, 118m
+6. The Met, 113m
+7. Centro Square East, 112m
+8. Centro Square West, 102m
+
+******************** DETAILS ********************
+
+*** Vaughan ***
+Country: Canada
+Region: North America
+8 towers: Transit City Condominiums 1, Transit City Condominiums 2, Nord West, Expo 2, Expo 1, The Met, Centro Square East, Centro Square West
+Tiers: I: 1, II: 5, III: 2
+Rating: 19 (63.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Transit City Condominiums 1 ***
+Height: 175.3
+Floors: 55
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 1
+
+*** Transit City Condominiums 2 ***
+Height: 175.3
+Floors: 55
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 1
+
+*** Nord West ***
+Height: 123.5
+Floors: 38
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Rank: 3
+
+*** Expo 2 ***
+Height: 117.51
+Floors: 37
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 4
+
+*** Expo 1 ***
+Height: 117.5
+Floors: 37
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 5
+
+*** The Met ***
+Height: 113
+Floors: 35
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 6
+
+*** Centro Square East ***
+Height: 112
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Centro Square West ***
+Height: 102
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 8

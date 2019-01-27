@@ -1,0 +1,20 @@
+*** Vinings (2) ***
+1. Riverwood 100 Tower, 110m
+
+******************** DETAILS ********************
+
+*** Vinings ***
+Country: United States
+Region: North America
+1 tower: Riverwood 100 Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Riverwood 100 Tower ***
+Height: 110.3
+Floors: 26
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 1

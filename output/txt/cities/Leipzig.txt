@@ -1,0 +1,41 @@
+*** Leipzig (4) ***
+1. Panorama Tower, 142m
+2. Hotel The Westin Leipzig, 96m
+3. Wintergarten Hochhaus, 95m
+
+******************** DETAILS ********************
+
+*** Leipzig ***
+Country: Germany
+Region: Europe
+3 towers: Panorama Tower, Hotel The Westin Leipzig, Wintergarten Hochhaus
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Panorama Tower ***
+Height: 142
+Floors: 36
+Status: Completed
+Started: 1968
+Completed: 1971
+Functions: office
+Rank: 1
+
+*** Hotel The Westin Leipzig ***
+Height: 96
+Floors: 27
+Status: Completed
+Started: 1978
+Completed: 1981
+Functions: hotel
+Rank: 2
+
+*** Wintergarten Hochhaus ***
+Height: 95
+Floors: 32
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 3

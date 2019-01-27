@@ -1,0 +1,18 @@
+*** Kosovo (2) ***
+1. Prishtina, 2
+
+******************** DETAILS ********************
+
+*** Kosovo ***
+Region: Europe
+1 city: Prishtina
+Tiers: I: 2
+Rating: 2 (50.0% uncompleted)
+
+*** Prishtina ***
+Country: Kosovo
+Region: Europe
+2 towers: World Trade Center Tower A, Rilindja Tower
+Tiers: I: 2
+Rating: 2 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17

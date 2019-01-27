@@ -1,0 +1,168 @@
+*** Taiyuan (74) ***
+1.  Taiyuan Cinda IFC, 266m
+2.  Taiyuan Sea La Cite Tower A, 230m
+3.  Taiyuan Sea La Cite Tower B, 230m
+4.  Moi Tiandi, 210m
+5.  Hubin Plaza, 208m
+6.  Taiyuan Tower, 170m
+7.  Taiyuan Sea La Cité Residential Block 1-A, 166m
+8.  Taiyuan Sea La Cité Residential Block 1-B, 166m
+9.  Taiyuan Sea La Cité Residential Block 2-A, 166m
+10. Taiyuan Sea La Cité Residential Block 2-B, 166m
+11. Taiyuan Sea La Cité Residential Block 3-A, 166m
+12. Taiyuan Sea La Cité Residential Block 3-B, 166m
+13. Taiyuan Sea La Cité Residential Block 4-A, 166m
+14. Taiyuan Sea La Cité Residential Block 4-B, 166m
+15. Taiyuan Sea La Cité Residential Block 5-A, 166m
+16. Shaanxi International Mansion Tower I, 157m
+17. Shaanxi International Mansion Tower II, 157m
+
+******************** DETAILS ********************
+
+*** Taiyuan ***
+Country: China
+Region: Asia
+17 towers: Taiyuan Cinda IFC, Taiyuan Sea La Cite Tower A, Taiyuan Sea La Cite Tower B, Moi Tiandi, Hubin Plaza, Taiyuan Tower, Taiyuan Sea La Cité Residential Block 1-A, Taiyuan Sea La Cité Residential Block 1-B, Taiyuan Sea La Cité Residential Block 2-A, Taiyuan Sea La Cité Residential Block 2-B, Taiyuan Sea La Cité Residential Block 3-A, Taiyuan Sea La Cité Residential Block 3-B, Taiyuan Sea La Cité Residential Block 4-A, Taiyuan Sea La Cité Residential Block 4-B, Taiyuan Sea La Cité Residential Block 5-A, Shaanxi International Mansion Tower I, Shaanxi International Mansion Tower II
+Tiers: III: 14, IV: 3
+Rating: 74 (24.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Taiyuan Cinda IFC ***
+Height: 266.1
+Floors: 55
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** Taiyuan Sea La Cite Tower A ***
+Height: 230
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** Taiyuan Sea La Cite Tower B ***
+Height: 230
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** Moi Tiandi ***
+Height: 210
+Floors: 52
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 4
+
+*** Hubin Plaza ***
+Height: 208
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 5
+
+*** Taiyuan Tower ***
+Height: 169.5
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 6
+
+*** Taiyuan Sea La Cité Residential Block 1-A ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Taiyuan Sea La Cité Residential Block 1-B ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Taiyuan Sea La Cité Residential Block 2-A ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Taiyuan Sea La Cité Residential Block 2-B ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Taiyuan Sea La Cité Residential Block 3-A ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Taiyuan Sea La Cité Residential Block 3-B ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Taiyuan Sea La Cité Residential Block 4-A ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Taiyuan Sea La Cité Residential Block 4-B ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Taiyuan Sea La Cité Residential Block 5-A ***
+Height: 166
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Shaanxi International Mansion Tower I ***
+Height: 156.9
+Floors: 40
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 16
+
+*** Shaanxi International Mansion Tower II ***
+Height: 156.9
+Floors: 40
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 16

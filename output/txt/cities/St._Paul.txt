@@ -1,0 +1,171 @@
+*** St. Paul (21) ***
+1.  Wells Fargo Place, 144m
+2.  Jackson Tower, 135m
+3.  First National Bank Building, 127m
+4.  Kellogg Square Apartments, 112m
+5.  Pointe of St. Paul Condominiums, 104m
+6.  US Bank Building, 103m
+7.  Ecolab Building, 101m
+8.  Bremer Tower, 100m
+9.  The 400 Building, 100m
+10. Landmark Tower, 100m
+11. Sibley Tower, 96m
+12. Ecolab Corporate Center, 93m
+13. UBS Plaza, 93m
+14. Custom House, 84m
+15. City Hall & Courthouse, 80m
+16. 401 Building, 78m
+17. Ecolab University Center, 77m
+
+******************** DETAILS ********************
+
+*** St. Paul ***
+Country: United States
+Region: North America
+17 towers: Wells Fargo Place, Jackson Tower, First National Bank Building, Kellogg Square Apartments, Pointe of St. Paul Condominiums, US Bank Building, Ecolab Building, Bremer Tower, The 400 Building, Landmark Tower, Sibley Tower, Ecolab Corporate Center, UBS Plaza, Custom House, City Hall & Courthouse, 401 Building, Ecolab University Center
+Tiers: I: 13, II: 4
+Rating: 21
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wells Fargo Place ***
+Height: 143.61
+Floors: 37
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 1
+
+*** Jackson Tower ***
+Height: 135
+Floors: 46
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 2
+
+*** First National Bank Building ***
+Height: 127.1
+Floors: 32
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: office
+Rank: 3
+
+*** Kellogg Square Apartments ***
+Height: 111.6
+Floors: 32
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 4
+
+*** Pointe of St. Paul Condominiums ***
+Height: 103.6
+Floors: 33
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: residential
+Rank: 5
+
+*** US Bank Building ***
+Height: 103.1
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 6
+
+*** Ecolab Building ***
+Height: 100.6
+Floors: 17
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 7
+
+*** Bremer Tower ***
+Height: 100
+Floors: 27
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 8
+
+*** The 400 Building ***
+Height: 99.7
+Floors: 21
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 9
+
+*** Landmark Tower ***
+Height: 99.55
+Floors: 26
+Status: Completed
+Completed: 1983
+Functions: residential / office / retail
+Rank: 10
+
+*** Sibley Tower ***
+Height: 95.6
+Floors: 33
+Status: Completed
+Completed: 1986
+Functions: residential / office
+Rank: 11
+
+*** Ecolab Corporate Center ***
+Height: 93
+Floors: 20
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 12
+
+*** UBS Plaza ***
+Height: 92.97
+Floors: 25
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 13
+
+*** Custom House ***
+Height: 83.52
+Floors: 17
+Status: Completed
+Completed: 1939
+Functions: office / government
+Rank: 14
+
+*** City Hall & Courthouse ***
+Height: 79.5
+Floors: 18
+Status: Completed
+Started: 1931
+Completed: 1932
+Rank: 15
+
+*** 401 Building ***
+Height: 78.13
+Floors: 13
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office / retail
+Rank: 16
+
+*** Ecolab University Center ***
+Height: 77.42
+Floors: 16
+Status: Completed
+Started: 1972
+Completed: 1973
+Functions: office
+Rank: 17

@@ -1,0 +1,58 @@
+*** Raleigh (10) ***
+1. RBC Plaza, 164m
+2. Two Hanover Square, 131m
+3. 150 Fayetteville Street, 122m
+4. Skyhouse Raleigh, 80m
+5. CAPTRUST Tower at North Hills, 79m
+
+******************** DETAILS ********************
+
+*** Raleigh ***
+Country: United States
+Region: North America
+5 towers: RBC Plaza, Two Hanover Square, 150 Fayetteville Street, Skyhouse Raleigh, CAPTRUST Tower at North Hills
+Tiers: I: 2, II: 2, III: 1
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** RBC Plaza ***
+Height: 163.98
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 1
+
+*** Two Hanover Square ***
+Height: 131.37
+Floors: 29
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 2
+
+*** 150 Fayetteville Street ***
+Height: 121.92
+Floors: 30
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 3
+
+*** Skyhouse Raleigh ***
+Height: 80.5
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 4
+
+*** CAPTRUST Tower at North Hills ***
+Height: 79.25
+Floors: 17
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 5

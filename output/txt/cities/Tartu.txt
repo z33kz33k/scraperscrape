@@ -1,0 +1,21 @@
+*** Tartu (1) ***
+1. Tigutorn, 83m
+
+******************** DETAILS ********************
+
+*** Tartu ***
+Country: Estonia
+Region: Europe
+1 tower: Tigutorn
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tigutorn ***
+Height: 83
+Floors: 23
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 1

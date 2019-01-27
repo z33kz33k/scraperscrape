@@ -1,0 +1,145 @@
+*** Harbin (58) ***
+1.  Agricultural Development Center Tower 1, 350m
+2.  R&F Riverside New City - Ritz-Carlton Hotel, 270m
+3.  Agricultural Science and Technology International Center, 226m
+4.  Agricultural Development Center Tower 2, 220m
+5.  Innovation & Entrepenuership Tower, 201m
+6.  Harbin Exhibition Center Hotel, 170m
+7.  Agricultural Development Center Tower 3, 160m
+8.  Harbin Bank Headquarters Building, 156m
+9.  Rongfu Conifer Hotel, 150m
+10. Agricultural Development Center Tower 4, 150m
+11. Agricultural Development Center Tower 5, 140m
+12. Agricultural Development Center Tower 6, 140m
+13. Agricultural Development Center Tower 7, 140m
+14. Harmony Plaza Harbin- Parcel 4- (T2), 99m
+15. Harmony Plaza Harbin- Parcel 4- (T1), 99m
+
+******************** DETAILS ********************
+
+*** Harbin ***
+Country: China
+Region: Asia
+15 towers: Agricultural Development Center Tower 1, R&F Riverside New City - Ritz-Carlton Hotel, Agricultural Science and Technology International Center, Agricultural Development Center Tower 2, Innovation & Entrepenuership Tower, Harbin Exhibition Center Hotel, Agricultural Development Center Tower 3, Harbin Bank Headquarters Building, Rongfu Conifer Hotel, Agricultural Development Center Tower 4, Agricultural Development Center Tower 5, Agricultural Development Center Tower 6, Agricultural Development Center Tower 7, Harmony Plaza Harbin- Parcel 4- (T2), Harmony Plaza Harbin- Parcel 4- (T1)
+Tiers: I: 2, II: 3, III: 6, IV: 3, V: 1
+Rating: 58 (58.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Agricultural Development Center Tower 1 ***
+Height: 350
+Status: Under Construction
+Started: 2017
+Rank: 1
+
+*** R&F Riverside New City - Ritz-Carlton Hotel ***
+Height: 269.85
+Floors: 56
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: hotel
+Rank: 2
+
+*** Agricultural Science and Technology International Center ***
+Height: 226
+Floors: 43
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 3
+
+*** Agricultural Development Center Tower 2 ***
+Height: 220
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 4
+
+*** Innovation & Entrepenuership Tower ***
+Height: 201
+Floors: 40
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 5
+
+*** Harbin Exhibition Center Hotel ***
+Height: 170
+Floors: 38
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 6
+
+*** Agricultural Development Center Tower 3 ***
+Height: 160
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 7
+
+*** Harbin Bank Headquarters Building ***
+Height: 156
+Floors: 30
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 8
+
+*** Rongfu Conifer Hotel ***
+Height: 150
+Floors: 36
+Status: Completed
+Functions: hotel
+Rank: 9
+
+*** Agricultural Development Center Tower 4 ***
+Height: 150
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 10
+
+*** Agricultural Development Center Tower 5 ***
+Height: 140
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 11
+
+*** Agricultural Development Center Tower 6 ***
+Height: 140
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 11
+
+*** Agricultural Development Center Tower 7 ***
+Height: 140
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 11
+
+*** Harmony Plaza Harbin- Parcel 4- (T2) ***
+Height: 99
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 14
+
+*** Harmony Plaza Harbin- Parcel 4- (T1) ***
+Height: 99
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 15

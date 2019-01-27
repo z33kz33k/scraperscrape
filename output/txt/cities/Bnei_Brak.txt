@@ -1,0 +1,49 @@
+*** Bnei Brak (9) ***
+1. Champion Tower, 165m
+2. BSR Tower 3, 145m
+3. BSR Tower 2, 121m
+4. BSR Tower 1, 98m
+
+******************** DETAILS ********************
+
+*** Bnei Brak ***
+Country: Israel
+Region: Middle East
+4 towers: Champion Tower, BSR Tower 3, BSR Tower 2, BSR Tower 1
+Tiers: I: 1, II: 2, III: 1
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Champion Tower ***
+Height: 165.3
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** BSR Tower 3 ***
+Height: 145.38
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 2
+
+*** BSR Tower 2 ***
+Height: 121
+Floors: 27
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 3
+
+*** BSR Tower 1 ***
+Height: 98
+Floors: 24
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 4

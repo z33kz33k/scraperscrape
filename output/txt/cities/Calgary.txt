@@ -1,0 +1,805 @@
+*** Calgary (192) ***
+1.  Brookfield Place Tower One, 247m
+2.  The Bow, 237m
+3.  Telus Sky, 222m
+4.  Suncor Energy Centre I, 215m
+5.  Eighth Avenue Place East Tower, 212m
+6.  Bankers Hall East Tower, 197m
+7.  Bankers Hall West Tower, 197m
+8.  Centennial Place I, 183m
+9.  Canterra Tower, 177m
+10. TransCanada Tower, 177m
+11. Eighth Avenue Place West Tower, 177m
+12. Jamieson Place, 173m
+13. First Canadian Centre, 167m
+14. Western Canadian Place - North, 164m
+15. TD Canada Trust Tower, 162m
+16. CF Calgary City Centre Phase I, 160m
+17. Scotia Centre, 155m
+18. Nexen Building, 152m
+19. West Village Tower 1, 150m
+20. The Guardian North Tower, 143m
+21. The Guardian South Tower, 143m
+22. Bow Valley Square 2, 143m
+23. Dome Tower, 141m
+24. Fifth and Fifth Building, 140m
+25. Shell Centre, 140m
+26. Home Oil Tower, 137m
+27. Bow Valley Square 4, 134m
+28. Fifth Avenue Place East Tower, 133m
+29. Fifth Avenue Place West Tower, 133m
+30. Suncor Energy Centre II, 130m
+31. Calgary Courts Centre, 129m
+32. Western Canadian Place - South, 128m
+33. arriVa Tower 1, 128m
+34. Altius Centre, 126m
+35. Vogue Condominiums, 125m
+36. EnCana Place, 125m
+37. 707 Fifth Street, 125m
+38. West Village Tower 2, 125m
+39. Alberta Stock Exchange Building, 124m
+40. Hewlett Packard Tower, 124m
+41. Five West - East Tower, 123m
+42. BP Centre, 121m
+43. WAM on 10th - West Tower, 119m
+44. Centennial Place II, 118m
+45. Westview Heights, 117m
+46. Bow Valley Square 3, 116m
+47. Nuera, 116m
+48. Monenco Place, 115m
+49. Sun Life Plaza East, 114m
+50. Sun Life Plaza North, 114m
+51. Sun Life Plaza West, 114m
+52. Vetro, 112m
+53. Telus Tower, 112m
+54. Alura, 110m
+55. Mark on 10th, 110m
+56. One Calgary Place, 110m
+57. 6th and Tenth, 108m
+58. Encor Place, 107m
+59. One Palliser Square, 107m
+60. Royal Bank Building, 105m
+61. Ovation, 103m
+62. Calgary Place Apartments East, 103m
+63. Calgary Place Apartments West, 103m
+64. WaterMark Tower, 102m
+65. 635 8th Avenue SW, 102m
+66. Ernst & Young Tower, 102m
+67. Five West - West Tower, 102m
+68. Mount Royal House, 101m
+69. 520 5th Avenue, 100m
+70. West Village Tower 3, 100m
+71. Standard Life Centre, 100m
+72. Keynote Residential Tower II, 98m
+73. International Hotel, 98m
+74. Delta Bow Valley, 98m
+75. Trimac House, 94m
+76. Bromley Square Apartments, 94m
+77. First Alberta Place, 92m
+78. Two Calgary Place, 91m
+79. Chevron Plaza, 90m
+80. Keynote Residential Tower I, 89m
+81. Livingston Place South, 86m
+82. Livingston Place West, 86m
+83. Riverwest Condos - The McLeod, 86m
+84. Rocky Mountain Court, 82m
+85. Riverwest Condos - The Barclay, 76m
+
+******************** DETAILS ********************
+
+*** Calgary ***
+Country: Canada
+Region: North America
+85 towers: Brookfield Place Tower One, The Bow, Telus Sky, Suncor Energy Centre I, Eighth Avenue Place East Tower, Bankers Hall East Tower, Bankers Hall West Tower, Centennial Place I, Canterra Tower, TransCanada Tower, Eighth Avenue Place West Tower, Jamieson Place, First Canadian Centre, Western Canadian Place - North, TD Canada Trust Tower, CF Calgary City Centre Phase I, Scotia Centre, Nexen Building, West Village Tower 1, The Guardian North Tower, The Guardian South Tower, Bow Valley Square 2, Dome Tower, Fifth and Fifth Building, Shell Centre, Home Oil Tower, Bow Valley Square 4, Fifth Avenue Place East Tower, Fifth Avenue Place West Tower, Suncor Energy Centre II, Calgary Courts Centre, Western Canadian Place - South, arriVa Tower 1, Altius Centre, Vogue Condominiums, EnCana Place, 707 Fifth Street, West Village Tower 2, Alberta Stock Exchange Building, Hewlett Packard Tower, Five West - East Tower, BP Centre, WAM on 10th - West Tower, Centennial Place II, Westview Heights, Bow Valley Square 3, Nuera, Monenco Place, Sun Life Plaza East, Sun Life Plaza North, Sun Life Plaza West, Vetro, Telus Tower, Alura, Mark on 10th, One Calgary Place, 6th and Tenth, Encor Place, One Palliser Square, Royal Bank Building, Ovation, Calgary Place Apartments East, Calgary Place Apartments West, WaterMark Tower, 635 8th Avenue SW, Ernst & Young Tower, Five West - West Tower, Mount Royal House, 520 5th Avenue, West Village Tower 3, Standard Life Centre, Keynote Residential Tower II, International Hotel, Delta Bow Valley, Trimac House, Bromley Square Apartments, First Alberta Place, Two Calgary Place, Chevron Plaza, Keynote Residential Tower I, Livingston Place South, Livingston Place West, Riverwest Condos - The McLeod, Rocky Mountain Court, Riverwest Condos - The Barclay
+Tiers: I: 26, II: 40, III: 14, IV: 5
+Rating: 192 (7.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Brookfield Place Tower One ***
+Height: 247
+Floors: 56
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 1
+
+*** The Bow ***
+Height: 237.45
+Floors: 57
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 2
+
+*** Telus Sky ***
+Height: 222.3
+Floors: 59
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 3
+
+*** Suncor Energy Centre I ***
+Height: 215.19
+Floors: 53
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 4
+
+*** Eighth Avenue Place East Tower ***
+Height: 212.28
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 5
+
+*** Bankers Hall East Tower ***
+Height: 197
+Floors: 52
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 6
+
+*** Bankers Hall West Tower ***
+Height: 197
+Floors: 52
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 6
+
+*** Centennial Place I ***
+Height: 182.6
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 8
+
+*** Canterra Tower ***
+Height: 177
+Floors: 45
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 9
+
+*** TransCanada Tower ***
+Height: 177
+Floors: 38
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 10
+
+*** Eighth Avenue Place West Tower ***
+Height: 176.72
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 11
+
+*** Jamieson Place ***
+Height: 173.13
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 12
+
+*** First Canadian Centre ***
+Height: 166.73
+Floors: 41
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 13
+
+*** Western Canadian Place - North ***
+Height: 164
+Floors: 41
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 14
+
+*** TD Canada Trust Tower ***
+Height: 162
+Floors: 40
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 15
+
+*** CF Calgary City Centre Phase I ***
+Height: 159.6
+Floors: 37
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 16
+
+*** Scotia Centre ***
+Height: 155.15
+Floors: 42
+Status: Completed
+Completed: 1976
+Functions: office / retail
+Rank: 17
+
+*** Nexen Building ***
+Height: 152
+Floors: 37
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 18
+
+*** West Village Tower 1 ***
+Height: 150
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 19
+
+*** The Guardian North Tower ***
+Height: 143
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 20
+
+*** The Guardian South Tower ***
+Height: 143
+Floors: 44
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 20
+
+*** Bow Valley Square 2 ***
+Height: 143
+Floors: 39
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 22
+
+*** Dome Tower ***
+Height: 141
+Floors: 30
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 23
+
+*** Fifth and Fifth Building ***
+Height: 140
+Floors: 34
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 24
+
+*** Shell Centre ***
+Height: 140
+Floors: 33
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 25
+
+*** Home Oil Tower ***
+Height: 137
+Floors: 33
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 26
+
+*** Bow Valley Square 4 ***
+Height: 134
+Floors: 37
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 27
+
+*** Fifth Avenue Place East Tower ***
+Height: 133
+Floors: 35
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 28
+
+*** Fifth Avenue Place West Tower ***
+Height: 133
+Floors: 35
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 28
+
+*** Suncor Energy Centre II ***
+Height: 130.2
+Floors: 33
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 30
+
+*** Calgary Courts Centre ***
+Height: 128.9
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: government / office
+Rank: 31
+
+*** Western Canadian Place - South ***
+Height: 128
+Floors: 32
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 32
+
+*** arriVa Tower 1 ***
+Height: 127.54
+Floors: 35
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 33
+
+*** Altius Centre ***
+Height: 126.5
+Floors: 32
+Status: Completed
+Started: 1969
+Completed: 1972
+Functions: office
+Rank: 34
+
+*** Vogue Condominiums ***
+Height: 125
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 35
+
+*** EnCana Place ***
+Height: 125
+Floors: 30
+Status: Completed
+Started: 1980
+Completed: 1982
+Functions: office
+Rank: 36
+
+*** 707 Fifth Street ***
+Height: 125
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 37
+
+*** West Village Tower 2 ***
+Height: 125
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 38
+
+*** Alberta Stock Exchange Building ***
+Height: 124
+Floors: 31
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 39
+
+*** Hewlett Packard Tower ***
+Height: 124
+Floors: 31
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 39
+
+*** Five West - East Tower ***
+Height: 123.4
+Floors: 28
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 41
+
+*** BP Centre ***
+Height: 121
+Floors: 32
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 42
+
+*** WAM on 10th - West Tower ***
+Height: 118.6
+Floors: 34
+Status: Under Construction
+Started: 2014
+Functions: residential
+Rank: 43
+
+*** Centennial Place II ***
+Height: 117.6
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 44
+
+*** Westview Heights ***
+Height: 117
+Floors: 40
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 45
+
+*** Bow Valley Square 3 ***
+Height: 116
+Floors: 33
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 46
+
+*** Nuera ***
+Height: 115.8
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 47
+
+*** Monenco Place ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 48
+
+*** Sun Life Plaza East ***
+Height: 114
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 49
+
+*** Sun Life Plaza North ***
+Height: 114
+Floors: 28
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 49
+
+*** Sun Life Plaza West ***
+Height: 114
+Floors: 28
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 49
+
+*** Vetro ***
+Height: 112.3
+Floors: 35
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 52
+
+*** Telus Tower ***
+Height: 112
+Floors: 29
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 53
+
+*** Alura ***
+Height: 110.4
+Floors: 29
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 54
+
+*** Mark on 10th ***
+Height: 110
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 55
+
+*** One Calgary Place ***
+Height: 110
+Floors: 31
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 56
+
+*** 6th and Tenth ***
+Height: 107.9
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 57
+
+*** Encor Place ***
+Height: 107.3
+Floors: 28
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 58
+
+*** One Palliser Square ***
+Height: 107
+Floors: 27
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 59
+
+*** Royal Bank Building ***
+Height: 104.9
+Floors: 24
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 60
+
+*** Ovation ***
+Height: 103.3
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 61
+
+*** Calgary Place Apartments East ***
+Height: 103
+Floors: 37
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 62
+
+*** Calgary Place Apartments West ***
+Height: 103
+Floors: 37
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 62
+
+*** WaterMark Tower ***
+Height: 102.1
+Floors: 27
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 64
+
+*** 635 8th Avenue SW ***
+Height: 102.1
+Floors: 26
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 65
+
+*** Ernst & Young Tower ***
+Height: 101.9
+Floors: 23
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 66
+
+*** Five West - West Tower ***
+Height: 101.5
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 67
+
+*** Mount Royal House ***
+Height: 101
+Floors: 33
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 68
+
+*** 520 5th Avenue ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 69
+
+*** West Village Tower 3 ***
+Height: 100
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 70
+
+*** Standard Life Centre ***
+Height: 99.7
+Floors: 25
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 71
+
+*** Keynote Residential Tower II ***
+Height: 98.2
+Floors: 29
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 72
+
+*** International Hotel ***
+Height: 98
+Floors: 36
+Status: Completed
+Completed: 1969
+Functions: hotel
+Rank: 73
+
+*** Delta Bow Valley ***
+Height: 98
+Floors: 25
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 74
+
+*** Trimac House ***
+Height: 93.9
+Floors: 23
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 75
+
+*** Bromley Square Apartments ***
+Height: 93.88
+Floors: 31
+Status: Completed
+Completed: 1980
+Functions: residential
+Rank: 76
+
+*** First Alberta Place ***
+Height: 92
+Floors: 23
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 77
+
+*** Two Calgary Place ***
+Height: 91
+Floors: 24
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 78
+
+*** Chevron Plaza ***
+Height: 90
+Floors: 25
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 79
+
+*** Keynote Residential Tower I ***
+Height: 89
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 80
+
+*** Livingston Place South ***
+Height: 86.3
+Floors: 22
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 81
+
+*** Livingston Place West ***
+Height: 86.3
+Floors: 22
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 81
+
+*** Riverwest Condos - The McLeod ***
+Height: 86
+Floors: 27
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 83
+
+*** Rocky Mountain Court ***
+Height: 82
+Floors: 29
+Status: Completed
+Completed: 1980
+Functions: residential
+Rank: 84
+
+*** Riverwest Condos - The Barclay ***
+Height: 76.2
+Floors: 23
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 85

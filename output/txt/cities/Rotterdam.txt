@@ -1,0 +1,490 @@
+*** Rotterdam (79) ***
+1.  De Zalmhaven, 212m
+2.  Maastoren, 165m
+3.  New Orleans, 158m
+4.  Montevideo, 152m
+5.  Gebouw Delftse Poort 1, 151m
+6.  De Rotterdam, 151m
+7.  Millennium Tower, 149m
+8.  World Port Center, 134m
+9.  First Rotterdam, 128m
+10. The Red Apple, 124m
+11. Nieuwbouw Erasmus MC, 120m
+12. Erasmus Medisch Centrum, 112m
+13. Waterstadtoren, 109m
+14. Fortis Bank Blaak, 107m
+15. Weenatoren, 106m
+16. 100 Hoog, 106m
+17. Coopvaert, 106m
+18. Weenacenter, 104m
+19. Hoge Heren I, 102m
+20. Hoge Heren II, 102m
+21. Schielandtoren, 101m
+22. Pegasus, 98m
+23. Toren op Zuid, 96m
+24. Robeco, 95m
+25. Hofpoort, 95m
+26. Hoge Erasmus, 93m
+27. Gebouw Delftse Poort 2, 93m
+28. Europoint II, 93m
+29. Europoint III, 93m
+30. Europoint IV, 93m
+31. World Trade Center, 93m
+32. Wilhelminatoren, 90m
+33. Hooghmonde, 90m
+34. ABN Amro, 89m
+35. Scheepmakerstoren, 88m
+36. Willemswerf, 88m
+37. Cite I, 86m
+38. Wijnhaeve, 86m
+39. Harbour Village I, 85m
+40. Admiraal, 80m
+41. H-gebouw Erasmus Universiteit, 78m
+42. Koninginnetoren, 78m
+43. Parktoren, 76m
+44. Gebouw De Maas, 76m
+45. Ernst & Young, 75m
+46. The Muse, 75m
+47. Cite II, 75m
+48. T-gebouw Erasmus Universiteit, 75m
+49. Westerlaantoren, 75m
+
+******************** DETAILS ********************
+
+*** Rotterdam ***
+Country: Netherlands
+Region: Europe
+49 towers: De Zalmhaven, Maastoren, New Orleans, Montevideo, Gebouw Delftse Poort 1, De Rotterdam, Millennium Tower, World Port Center, First Rotterdam, The Red Apple, Nieuwbouw Erasmus MC, Erasmus Medisch Centrum, Waterstadtoren, Fortis Bank Blaak, Weenatoren, 100 Hoog, Coopvaert, Weenacenter, Hoge Heren I, Hoge Heren II, Schielandtoren, Pegasus, Toren op Zuid, Robeco, Hofpoort, Hoge Erasmus, Gebouw Delftse Poort 2, Europoint II, Europoint III, Europoint IV, World Trade Center, Wilhelminatoren, Hooghmonde, ABN Amro, Scheepmakerstoren, Willemswerf, Cite I, Wijnhaeve, Harbour Village I, Admiraal, H-gebouw Erasmus Universiteit, Koninginnetoren, Parktoren, Gebouw De Maas, Ernst & Young, The Muse, Cite II, T-gebouw Erasmus Universiteit, Westerlaantoren
+Tiers: I: 33, II: 10, III: 5, IV: 1
+Rating: 79 (8.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** De Zalmhaven ***
+Height: 212
+Floors: 58
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential / office
+Rank: 1
+
+*** Maastoren ***
+Height: 164.75
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 2
+
+*** New Orleans ***
+Height: 158.36
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 3
+
+*** Montevideo ***
+Height: 152.32
+Floors: 43
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 4
+
+*** Gebouw Delftse Poort 1 ***
+Height: 151.35
+Floors: 41
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 5
+
+*** De Rotterdam ***
+Height: 151.3
+Floors: 45
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office / residential / hotel
+Rank: 6
+
+*** Millennium Tower ***
+Height: 149
+Floors: 34
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: hotel / office
+Rank: 7
+
+*** World Port Center ***
+Height: 133.61
+Floors: 38
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 8
+
+*** First Rotterdam ***
+Height: 128.2
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 9
+
+*** The Red Apple ***
+Height: 123.5
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 10
+
+*** Nieuwbouw Erasmus MC ***
+Height: 119.5
+Floors: 31
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: hospital
+Rank: 11
+
+*** Erasmus Medisch Centrum ***
+Height: 111.96
+Floors: 27
+Status: Completed
+Started: 1965
+Completed: 1968
+Functions: education
+Rank: 12
+
+*** Waterstadtoren ***
+Height: 108.88
+Floors: 36
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 13
+
+*** Fortis Bank Blaak ***
+Height: 106.92
+Floors: 28
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: office
+Rank: 14
+
+*** Weenatoren ***
+Height: 106.25
+Floors: 31
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: residential / office
+Rank: 15
+
+*** 100 Hoog ***
+Height: 106
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 16
+
+*** Coopvaert ***
+Height: 105.79
+Floors: 29
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 17
+
+*** Weenacenter ***
+Height: 104.2
+Floors: 32
+Status: Completed
+Started: 1989
+Completed: 1990
+Functions: residential
+Rank: 18
+
+*** Hoge Heren I ***
+Height: 102
+Floors: 34
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 19
+
+*** Hoge Heren II ***
+Height: 102
+Floors: 34
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 19
+
+*** Schielandtoren ***
+Height: 101.35
+Floors: 32
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: residential
+Rank: 21
+
+*** Pegasus ***
+Height: 98
+Floors: 31
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 22
+
+*** Toren op Zuid ***
+Height: 96.45
+Floors: 23
+Status: Completed
+Started: 1988
+Completed: 2000
+Functions: office
+Rank: 23
+
+*** Robeco ***
+Height: 95.3
+Floors: 21
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 24
+
+*** Hofpoort ***
+Height: 95
+Floors: 27
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 25
+
+*** Hoge Erasmus ***
+Height: 93
+Floors: 28
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 26
+
+*** Gebouw Delftse Poort 2 ***
+Height: 93
+Floors: 25
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 27
+
+*** Europoint II ***
+Height: 93
+Floors: 22
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 28
+
+*** Europoint III ***
+Height: 93
+Floors: 22
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 28
+
+*** Europoint IV ***
+Height: 93
+Floors: 22
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 28
+
+*** World Trade Center ***
+Height: 92.95
+Floors: 25
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: office
+Rank: 31
+
+*** Wilhelminatoren ***
+Height: 90.4
+Floors: 22
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 32
+
+*** Hooghmonde ***
+Height: 90
+Floors: 27
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 33
+
+*** ABN Amro ***
+Height: 89
+Floors: 23
+Status: Completed
+Started: 1989
+Completed: 1993
+Functions: office
+Rank: 34
+
+*** Scheepmakerstoren ***
+Height: 88.37
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: residential
+Rank: 35
+
+*** Willemswerf ***
+Height: 87.7
+Floors: 24
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 36
+
+*** Cite I ***
+Height: 86
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 37
+
+*** Wijnhaeve ***
+Height: 86
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 38
+
+*** Harbour Village I ***
+Height: 85
+Floors: 29
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 39
+
+*** Admiraal ***
+Height: 79.78
+Floors: 25
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 40
+
+*** H-gebouw Erasmus Universiteit ***
+Height: 78.27
+Floors: 18
+Status: Completed
+Completed: 1970
+Functions: education
+Rank: 41
+
+*** Koninginnetoren ***
+Height: 78
+Floors: 26
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 42
+
+*** Parktoren ***
+Height: 76
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 43
+
+*** Gebouw De Maas ***
+Height: 75.61
+Floors: 22
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 44
+
+*** Ernst & Young ***
+Height: 75.1
+Floors: 21
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 45
+
+*** The Muse ***
+Height: 75
+Floors: 24
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 46
+
+*** Cite II ***
+Height: 75
+Floors: 22
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 47
+
+*** T-gebouw Erasmus Universiteit ***
+Height: 75
+Floors: 20
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 48
+
+*** Westerlaantoren ***
+Height: 75
+Floors: 16
+Status: Completed
+Completed: 2012
+Functions: residential / office
+Rank: 49

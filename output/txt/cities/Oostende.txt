@@ -1,0 +1,29 @@
+*** Oostende (2) ***
+1. Europacentrum, 104m
+2. Residentie de Mast, 87m
+
+******************** DETAILS ********************
+
+*** Oostende ***
+Country: Belgium
+Region: Europe
+2 towers: Europacentrum, Residentie de Mast
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Europacentrum ***
+Height: 104
+Floors: 35
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 1
+
+*** Residentie de Mast ***
+Height: 87
+Floors: 24
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 2

@@ -1,0 +1,39 @@
+*** Gdansk (6) ***
+1. Olivia Star, 156m
+2. Centrum Biurowe Neptun, 85m
+3. Prorem Tower, 80m
+
+******************** DETAILS ********************
+
+*** Gdansk ***
+Country: Poland
+Region: Europe
+3 towers: Olivia Star, Centrum Biurowe Neptun, Prorem Tower
+Tiers: I: 2, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Olivia Star ***
+Height: 156
+Floors: 35
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 1
+
+*** Centrum Biurowe Neptun ***
+Height: 85
+Floors: 19
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 2
+
+*** Prorem Tower ***
+Height: 80
+Floors: 20
+Status: Completed
+Functions: office
+Rank: 3

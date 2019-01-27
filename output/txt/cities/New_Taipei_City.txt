@@ -1,0 +1,66 @@
+*** New Taipei City (20) ***
+1. Chicony Electronics Headquarters, 180m
+2. Tuntex High Rise Tower I, 153m
+3. The Crystal Plaza, 151m
+4. Blue Ocean, 150m
+5. Ellipse 360, 135m
+6. CDC Xin Dian Residential Tower, 109m
+
+******************** DETAILS ********************
+
+*** New Taipei City ***
+Country: Taiwan
+Region: Asia
+6 towers: Chicony Electronics Headquarters, Tuntex High Rise Tower I, The Crystal Plaza, Blue Ocean, Ellipse 360, CDC Xin Dian Residential Tower
+Tiers: II: 2, III: 4
+Rating: 20 (10.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chicony Electronics Headquarters ***
+Height: 180.45
+Floors: 39
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 1
+
+*** Tuntex High Rise Tower I ***
+Height: 153
+Floors: 41
+Status: Completed
+Functions: residential
+Rank: 2
+
+*** The Crystal Plaza ***
+Height: 150.8
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 3
+
+*** Blue Ocean ***
+Height: 150
+Floors: 38
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 4
+
+*** Ellipse 360 ***
+Height: 135.4
+Floors: 38
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 5
+
+*** CDC Xin Dian Residential Tower ***
+Height: 109
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential / retail
+Rank: 6

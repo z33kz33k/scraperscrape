@@ -1,0 +1,20 @@
+*** New Delhi (2) ***
+1. Civic Center, 112m
+
+******************** DETAILS ********************
+
+*** New Delhi ***
+Country: India
+Region: Asia
+1 tower: Civic Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Civic Center ***
+Height: 112
+Floors: 28
+Status: Completed
+Completed: 2010
+Functions: government
+Rank: 1

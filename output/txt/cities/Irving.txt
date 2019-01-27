@@ -1,0 +1,36 @@
+*** Irving (3) ***
+1. Omni Mandalay Hotel, 92m
+2. CIGNA Tower, 87m
+3. Chase Tower, 81m
+
+******************** DETAILS ********************
+
+*** Irving ***
+Country: United States
+Region: North America
+3 towers: Omni Mandalay Hotel, CIGNA Tower, Chase Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Omni Mandalay Hotel ***
+Height: 91.74
+Floors: 27
+Status: Completed
+Completed: 1982
+Functions: hotel
+Rank: 1
+
+*** CIGNA Tower ***
+Height: 86.56
+Floors: 22
+Status: Completed
+Completed: 1985
+Rank: 2
+
+*** Chase Tower ***
+Height: 80.77
+Floors: 19
+Status: Completed
+Completed: 1984
+Rank: 3

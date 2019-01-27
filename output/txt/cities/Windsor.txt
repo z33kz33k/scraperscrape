@@ -1,0 +1,30 @@
+*** Windsor (3) ***
+1. Caesars Windsor - Augustus Tower, 111m
+2. Caesars Windsor Hotel, 83m
+
+******************** DETAILS ********************
+
+*** Windsor ***
+Country: Canada
+Region: North America
+2 towers: Caesars Windsor - Augustus Tower, Caesars Windsor Hotel
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Caesars Windsor - Augustus Tower ***
+Height: 111
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hotel / casino
+Rank: 1
+
+*** Caesars Windsor Hotel ***
+Height: 83
+Floors: 21
+Status: Completed
+Completed: 1998
+Functions: hotel / casino
+Rank: 2

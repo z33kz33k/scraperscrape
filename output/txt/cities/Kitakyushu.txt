@@ -1,0 +1,94 @@
+*** Kitakyushu (13) ***
+1. Kokura D.C. Tower, 146m
+2. Rihga Royal Hotel Kokura, 132m
+3. Mojiko Retro High Mart, 127m
+4. Asahi Shimbun Building, 111m
+5. Orient Trust Tower, 103m
+6. Kokura Tower, 102m
+7. Medix Mihagino Residential Tower, 97m
+8. Jonai Tower, 95m
+9. Thomas Tower, 81m
+
+******************** DETAILS ********************
+
+*** Kitakyushu ***
+Country: Japan
+Region: Asia
+9 towers: Kokura D.C. Tower, Rihga Royal Hotel Kokura, Mojiko Retro High Mart, Asahi Shimbun Building, Orient Trust Tower, Kokura Tower, Medix Mihagino Residential Tower, Jonai Tower, Thomas Tower
+Tiers: I: 5, II: 4
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kokura D.C. Tower ***
+Height: 145.7
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 1
+
+*** Rihga Royal Hotel Kokura ***
+Height: 132
+Floors: 31
+Status: Completed
+Started: 1986
+Completed: 1993
+Functions: hotel
+Rank: 2
+
+*** Mojiko Retro High Mart ***
+Height: 127
+Floors: 31
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 3
+
+*** Asahi Shimbun Building ***
+Height: 111.25
+Floors: 16
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 4
+
+*** Orient Trust Tower ***
+Height: 102.7
+Floors: 33
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 5
+
+*** Kokura Tower ***
+Height: 101.5
+Floors: 28
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 6
+
+*** Medix Mihagino Residential Tower ***
+Height: 97
+Floors: 27
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 7
+
+*** Jonai Tower ***
+Height: 95.4
+Floors: 27
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 8
+
+*** Thomas Tower ***
+Height: 81.4
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 9

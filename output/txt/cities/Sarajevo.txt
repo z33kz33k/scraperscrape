@@ -1,0 +1,68 @@
+*** Sarajevo (12) ***
+1. Avaz Twist Tower, 142m
+2. Bosmal Arjaan by Rotana, 118m
+3. Bosmal City Center Tower 2, 118m
+4. Unis Towers II, 111m
+5. UNITIC Towers A, 111m
+6. UNITIC Towers B, 111m
+
+******************** DETAILS ********************
+
+*** Sarajevo ***
+Country: Bosnia And Herzegovina
+Region: Europe
+6 towers: Avaz Twist Tower, Bosmal Arjaan by Rotana, Bosmal City Center Tower 2, Unis Towers II, UNITIC Towers A, UNITIC Towers B
+Tiers: II: 6
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Avaz Twist Tower ***
+Height: 142
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 1
+
+*** Bosmal Arjaan by Rotana ***
+Height: 118
+Floors: 27
+Status: Completed
+Started: 2001
+Completed: 2006
+Functions: residential
+Rank: 2
+
+*** Bosmal City Center Tower 2 ***
+Height: 118
+Floors: 27
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 2
+
+*** Unis Towers II ***
+Height: 111
+Floors: 25
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 4
+
+*** UNITIC Towers A ***
+Height: 111
+Floors: 25
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 4
+
+*** UNITIC Towers B ***
+Height: 111
+Floors: 25
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 4

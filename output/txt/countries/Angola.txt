@@ -1,0 +1,18 @@
+*** Angola (7) ***
+1. Luanda, 7
+
+******************** DETAILS ********************
+
+*** Angola ***
+Region: Africa
+1 city: Luanda
+Tiers: I: 3, II: 2
+Rating: 7 (28.6% uncompleted)
+
+*** Luanda ***
+Country: Angola
+Region: Africa
+5 towers: IMOB Business Tower, Torres Kilamba, Intercontinental Hotel & Casino, ESCOM Building, Edificio Sonangol
+Tiers: I: 3, II: 2
+Rating: 7 (28.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

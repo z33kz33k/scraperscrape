@@ -1,0 +1,30 @@
+*** Manchester (NH) (2) ***
+1. City Hall Plaza, 84m
+2. Brady Sullivan Plaza, 79m
+
+******************** DETAILS ********************
+
+*** Manchester (NH) ***
+Country: United States
+Region: North America
+2 towers: City Hall Plaza, Brady Sullivan Plaza
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** City Hall Plaza ***
+Height: 83.82
+Floors: 20
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 1
+
+*** Brady Sullivan Plaza ***
+Height: 78.94
+Floors: 20
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 2

@@ -1,0 +1,197 @@
+*** St. Petersburg (31) ***
+1.  Lakhta Center, 462m
+2.  Leader Tower, 140m
+3.  Knyaz Aleksandr Nevskii, 124m
+4.  Bogatyrskii 2, 108m
+5.  Lotos Tower, 105m
+6.  Atlantic City, 105m
+7.  Komendantskii 1, 105m
+8.  Komendantskii 2, 105m
+9.  A Poem in Three Lakes 1, 100m
+10. A Poem in Three Lakes 2, 100m
+11. A Poem in Three Lakes 3, 100m
+12. Dominanta 1, 100m
+13. Dominanta 2, 100m
+14. Dominanta 3, 100m
+15. Dominanta 4, 100m
+16. Mezhdunarodnyi 1, 100m
+17. Mezhdunarodnyi 2, 100m
+18. Mezhdunarodnyi 3, 100m
+19. Yuntolovskaya Perspektiva, 100m
+
+******************** DETAILS ********************
+
+*** St. Petersburg ***
+Country: Russia
+Region: Europe
+19 towers: Lakhta Center, Leader Tower, Knyaz Aleksandr Nevskii, Bogatyrskii 2, Lotos Tower, Atlantic City, Komendantskii 1, Komendantskii 2, A Poem in Three Lakes 1, A Poem in Three Lakes 2, A Poem in Three Lakes 3, Dominanta 1, Dominanta 2, Dominanta 3, Dominanta 4, Mezhdunarodnyi 1, Mezhdunarodnyi 2, Mezhdunarodnyi 3, Yuntolovskaya Perspektiva
+Tiers: I: 15, II: 3, VI: 1
+Rating: 31 (35.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Lakhta Center ***
+Height: 462
+Floors: 87
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** Leader Tower ***
+Height: 140
+Floors: 40
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 2
+
+*** Knyaz Aleksandr Nevskii ***
+Height: 124
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 3
+
+*** Bogatyrskii 2 ***
+Height: 108
+Floors: 24
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential / retail
+Rank: 4
+
+*** Lotos Tower ***
+Height: 105
+Floors: 30
+Status: Under Construction
+Started: 2007
+Completed: 2017
+Functions: residential / office
+Rank: 5
+
+*** Atlantic City ***
+Height: 105
+Floors: 27
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: office
+Rank: 6
+
+*** Komendantskii 1 ***
+Height: 105
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential / retail
+Rank: 7
+
+*** Komendantskii 2 ***
+Height: 105
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential / retail
+Rank: 7
+
+*** A Poem in Three Lakes 1 ***
+Height: 100
+Floors: 28
+Status: Completed
+Started: 2003
+Completed: 2012
+Functions: residential / retail
+Rank: 9
+
+*** A Poem in Three Lakes 2 ***
+Height: 100
+Floors: 28
+Status: Completed
+Started: 2003
+Completed: 2012
+Functions: residential / retail
+Rank: 9
+
+*** A Poem in Three Lakes 3 ***
+Height: 100
+Floors: 28
+Status: Completed
+Started: 2003
+Completed: 2012
+Functions: residential / retail
+Rank: 9
+
+*** Dominanta 1 ***
+Height: 100
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / retail
+Rank: 12
+
+*** Dominanta 2 ***
+Height: 100
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / retail
+Rank: 12
+
+*** Dominanta 3 ***
+Height: 100
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / retail
+Rank: 12
+
+*** Dominanta 4 ***
+Height: 100
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / retail
+Rank: 12
+
+*** Mezhdunarodnyi 1 ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential / retail
+Rank: 16
+
+*** Mezhdunarodnyi 2 ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential / retail
+Rank: 16
+
+*** Mezhdunarodnyi 3 ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential / retail
+Rank: 16
+
+*** Yuntolovskaya Perspektiva ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: residential / retail
+Rank: 16

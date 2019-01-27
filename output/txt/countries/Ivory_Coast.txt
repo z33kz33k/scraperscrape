@@ -1,0 +1,18 @@
+*** Ivory Coast (3) ***
+1. Abidjan, 3
+
+******************** DETAILS ********************
+
+*** Ivory Coast ***
+Region: Africa
+1 city: Abidjan
+Tiers: I: 1, II: 1
+Rating: 3
+
+*** Abidjan ***
+Country: Ivory Coast
+Region: Africa
+2 towers: La Cité Administrative Tour D, Tour Postel 2001
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16

@@ -1,0 +1,56 @@
+*** Tripoli (10) ***
+1. Burj Bulaya Office Tower 1, 144m
+2. JW Marriott Hotel, 130m
+3. Burj Bulaya Office Tower 2, 120m
+4. Corinthia Bab Africa Hotel Tower 1, 120m
+5. El Fateh Tower, 120m
+
+******************** DETAILS ********************
+
+*** Tripoli ***
+Country: Libya
+Region: Africa
+5 towers: Burj Bulaya Office Tower 1, JW Marriott Hotel, Burj Bulaya Office Tower 2, Corinthia Bab Africa Hotel Tower 1, El Fateh Tower
+Tiers: II: 5
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Burj Bulaya Office Tower 1 ***
+Height: 144
+Floors: 34
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 1
+
+*** JW Marriott Hotel ***
+Height: 130
+Floors: 36
+Status: Completed
+Completed: 2011
+Functions: hotel
+Rank: 2
+
+*** Burj Bulaya Office Tower 2 ***
+Height: 120
+Floors: 29
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 3
+
+*** Corinthia Bab Africa Hotel Tower 1 ***
+Height: 120
+Floors: 28
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 4
+
+*** El Fateh Tower ***
+Height: 120
+Floors: 25
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 5

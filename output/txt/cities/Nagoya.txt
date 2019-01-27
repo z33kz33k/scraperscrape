@@ -1,0 +1,130 @@
+*** Nagoya (53) ***
+1.  Midland Square, 247m
+2.  JR Central Office Tower, 245m
+3.  JR Central Hotel Tower, 226m
+4.  JR Gate Tower, 211m
+5.  JP Tower, 196m
+6.  Nagoya Lucent Tower, 180m
+7.  Dai Nagoya Building, 175m
+8.  Sasashima Live 24 District Global Gate West Tower, 170m
+9.  Mode Gakuen Spiral Towers, 170m
+10. The Lions Mid Capital Tower, 162m
+11. The Scene Johuku, 160m
+12. Nagoya Municipal University Hospital, 85m
+
+******************** DETAILS ********************
+
+*** Nagoya ***
+Country: Japan
+Region: Asia
+12 towers: Midland Square, JR Central Office Tower, JR Central Hotel Tower, JR Gate Tower, JP Tower, Nagoya Lucent Tower, Dai Nagoya Building, Sasashima Live 24 District Global Gate West Tower, Mode Gakuen Spiral Towers, The Lions Mid Capital Tower, The Scene Johuku, Nagoya Municipal University Hospital
+Tiers: I: 1, III: 7, IV: 4
+Rating: 53
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Midland Square ***
+Height: 247
+Floors: 48
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: office
+Rank: 1
+
+*** JR Central Office Tower ***
+Height: 245
+Floors: 51
+Status: Completed
+Started: 1990
+Completed: 2000
+Functions: office
+Rank: 2
+
+*** JR Central Hotel Tower ***
+Height: 226
+Floors: 53
+Status: Completed
+Started: 1990
+Completed: 2000
+Functions: hotel
+Rank: 3
+
+*** JR Gate Tower ***
+Height: 211.1
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office / hotel / retail
+Rank: 4
+
+*** JP Tower ***
+Height: 195.74
+Floors: 40
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 5
+
+*** Nagoya Lucent Tower ***
+Height: 180
+Floors: 40
+Status: Completed
+Started: 2001
+Completed: 2007
+Functions: office
+Rank: 6
+
+*** Dai Nagoya Building ***
+Height: 174.7
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office / retail
+Rank: 7
+
+*** Sasashima Live 24 District Global Gate West Tower ***
+Height: 170.1
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hotel / office / retail
+Rank: 8
+
+*** Mode Gakuen Spiral Towers ***
+Height: 170
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: education
+Rank: 9
+
+*** The Lions Mid Capital Tower ***
+Height: 161.9
+Floors: 47
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 10
+
+*** The Scene Johuku ***
+Height: 160
+Floors: 46
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 11
+
+*** Nagoya Municipal University Hospital ***
+Height: 85
+Floors: 17
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: hospital
+Rank: 12

@@ -1,0 +1,31 @@
+*** Tacoma (2) ***
+1. Wells Fargo Plaza, 103m
+2. Murano Hotel, 85m
+
+******************** DETAILS ********************
+
+*** Tacoma ***
+Country: United States
+Region: North America
+2 towers: Wells Fargo Plaza, Murano Hotel
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wells Fargo Plaza ***
+Height: 103
+Floors: 25
+Status: Completed
+Started: 1969
+Completed: 1970
+Functions: office
+Rank: 1
+
+*** Murano Hotel ***
+Height: 84.7
+Floors: 26
+Status: Completed
+Started: 1982
+Completed: 1984
+Functions: hotel
+Rank: 2

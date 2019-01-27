@@ -1,0 +1,734 @@
+*** Osaka (235) ***
+1.  Abeno Harukas, 300m
+2.  Osaka World Trade Center, 256m
+3.  The Kitahama, 209m
+4.  X-Tower Osaka Bay, 201m
+5.  ORC 200, 200m
+6.  Nakanoshima Festival  Tower West, 199m
+7.  Nakanoshima Festival Tower, 199m
+8.  KEPCO Headquarters, 195m
+9.  The Parkhouse Nakanoshima Tower, 193m
+10. HERBIS Osaka, 190m
+11. Osaka Hibikino Machi - The Sanctus Tower, 190m
+12. 1-1 Umeda District Project, 189m
+13. Umeda Hankyu Building, 187m
+14. The Tower, 185m
+15. Grand Front Osaka Tower A, 179m
+16. City Tower Nishi-Umeda, 177m
+17. Breeze Tower, 177m
+18. OAP Tower, 176m
+19. Grand Front Osaka Tower B, 175m
+20. Grand Front Osaka Owners Tower, 174m
+21. Umeda Sky Building, 173m
+22. City Tower Osaka, 170m
+23. ORC Prio Tower, 167m
+24. The Senri Tower, 165m
+25. City Tower Gran Tennoji, 161m
+26. Applause Tower, 161m
+27. Osaka Fukushima Tower, 160m
+28. Nakanoshima Dai Building, 160m
+29. Sumitomo Castle Tower, 157m
+30. Twin 21 MID Tower, 157m
+31. Twin 21 National Tower, 157m
+32. Crystal Tower, 157m
+33. Yasuda Seimei Osaka Building, 156m
+34. City Tower Osaka Temma The River & Parks, 155m
+35. Geo Tower Tenroku, 155m
+36. The Namba Tower, 155m
+37. Grand Front Osaka Intercontinental Hotel, 154m
+38. Yodoyabashi Apple Tower Residence, 152m
+39. Hybrid Hirano, 151m
+40. D`Grafort Osaka N.Y. Tower Higobashi, 151m
+41. Herbis ENT Tower, 150m
+42. JR Osaka Station New West Building, 150m
+43. Namba Park Tower, 149m
+44. Shin-Daibiru Building, 148m
+45. Mizuno Crystal Building, 147m
+46. Wellith Uehommachi Laurel Tower, 146m
+47. The Hilton Osaka Yoshimoto Building, 145m
+48. Abeno Grand Tour, 144m
+49. Hotel Monterey Grasmere Osaka, 144m
+50. Nakanoshima Mitsui Building, 140m
+51. Sumitomo Seimei Nakanoshima Building, 140m
+52. Algrad Higashi-Shinsaibashi Mansion, 136m
+53. NHK Osaka Hall, 135m
+54. ORIX Honmashi Building, 133m
+55. Fukoku Seimei Building, 133m
+56. Zenith Osaka, 132m
+57. Nissei Dowa Kasai Sompo Phoenix Tower, 132m
+58. Pias Tower, 132m
+59. Umeda DT Tower, 130m
+60. Matsushita IMP Building, 125m
+61. Viequ Tower Osaka, 124m
+62. Osaka Maru Building, 124m
+63. South Gate Building, 122m
+64. Resona Holdings Headquarters, 121m
+65. Osaka Ministry of Justice Building, 115m
+66. The Westin Osaka, 111m
+67. NTT Data Dojima Building, 110m
+68. Daibiru Honkan Building, 108m
+69. Laurel Square Osaka Bay Tower, 106m
+70. Osaka Mitsui Bussan Building, 104m
+71. The Hilton Plaza West, 100m
+72. NTT Telepark Dojima Building 2, 100m
+73. Osaka City General Hospital, 88m
+74. Daido Life Insurance Company Head Office, 85m
+75. Business Innovation Center Osaka, 85m
+76. Osaka Museum of History, 83m
+
+******************** DETAILS ********************
+
+*** Osaka ***
+Country: Japan
+Region: Asia
+76 towers: Abeno Harukas, Osaka World Trade Center, The Kitahama, X-Tower Osaka Bay, ORC 200, Nakanoshima Festival  Tower West, Nakanoshima Festival Tower, KEPCO Headquarters, The Parkhouse Nakanoshima Tower, HERBIS Osaka, Osaka Hibikino Machi - The Sanctus Tower, 1-1 Umeda District Project, Umeda Hankyu Building, The Tower, Grand Front Osaka Tower A, City Tower Nishi-Umeda, Breeze Tower, OAP Tower, Grand Front Osaka Tower B, Grand Front Osaka Owners Tower, Umeda Sky Building, City Tower Osaka, ORC Prio Tower, The Senri Tower, City Tower Gran Tennoji, Applause Tower, Osaka Fukushima Tower, Nakanoshima Dai Building, Sumitomo Castle Tower, Twin 21 MID Tower, Twin 21 National Tower, Crystal Tower, Yasuda Seimei Osaka Building, City Tower Osaka Temma The River & Parks, Geo Tower Tenroku, The Namba Tower, Grand Front Osaka Intercontinental Hotel, Yodoyabashi Apple Tower Residence, Hybrid Hirano, D`Grafort Osaka N.Y. Tower Higobashi, Herbis ENT Tower, JR Osaka Station New West Building, Namba Park Tower, Shin-Daibiru Building, Mizuno Crystal Building, Wellith Uehommachi Laurel Tower, The Hilton Osaka Yoshimoto Building, Abeno Grand Tour, Hotel Monterey Grasmere Osaka, Nakanoshima Mitsui Building, Sumitomo Seimei Nakanoshima Building, Algrad Higashi-Shinsaibashi Mansion, NHK Osaka Hall, ORIX Honmashi Building, Fukoku Seimei Building, Zenith Osaka, Nissei Dowa Kasai Sompo Phoenix Tower, Pias Tower, Umeda DT Tower, Matsushita IMP Building, Viequ Tower Osaka, Osaka Maru Building, South Gate Building, Resona Holdings Headquarters, Osaka Ministry of Justice Building, The Westin Osaka, NTT Data Dojima Building, Daibiru Honkan Building, Laurel Square Osaka Bay Tower, Osaka Mitsui Bussan Building, The Hilton Plaza West, NTT Telepark Dojima Building 2, Osaka City General Hospital, Daido Life Insurance Company Head Office, Business Innovation Center Osaka, Osaka Museum of History
+Tiers: I: 7, II: 27, III: 40, IV: 1, V: 1
+Rating: 235 (1.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Abeno Harukas ***
+Height: 300
+Floors: 60
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel / office / retail
+Rank: 1
+
+*** Osaka World Trade Center ***
+Height: 256
+Floors: 55
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 2
+
+*** The Kitahama ***
+Height: 209
+Floors: 54
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 3
+
+*** X-Tower Osaka Bay ***
+Height: 201
+Floors: 54
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 4
+
+*** ORC 200 ***
+Height: 200
+Floors: 51
+Status: Completed
+Completed: 1994
+Functions: hotel / office
+Rank: 5
+
+*** Nakanoshima Festival  Tower West ***
+Height: 199.27
+Floors: 41
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hotel / office
+Rank: 6
+
+*** Nakanoshima Festival Tower ***
+Height: 198.96
+Floors: 39
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / other
+Rank: 7
+
+*** KEPCO Headquarters ***
+Height: 195
+Floors: 41
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 8
+
+*** The Parkhouse Nakanoshima Tower ***
+Height: 193
+Floors: 54
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 9
+
+*** HERBIS Osaka ***
+Height: 189.7
+Floors: 40
+Status: Completed
+Completed: 1997
+Functions: hotel / office
+Rank: 10
+
+*** Osaka Hibikino Machi - The Sanctus Tower ***
+Height: 189.6
+Floors: 53
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 11
+
+*** 1-1 Umeda District Project ***
+Height: 188.9
+Floors: 38
+Status: Under Construction
+Started: 2015
+Completed: 2022
+Functions: office / retail
+Rank: 12
+
+*** Umeda Hankyu Building ***
+Height: 187
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office / retail
+Rank: 13
+
+*** The Tower ***
+Height: 185
+Floors: 52
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 14
+
+*** Grand Front Osaka Tower A ***
+Height: 179.36
+Floors: 39
+Status: Completed
+Completed: 2013
+Functions: office / retail
+Rank: 15
+
+*** City Tower Nishi-Umeda ***
+Height: 177
+Floors: 50
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 16
+
+*** Breeze Tower ***
+Height: 177
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 17
+
+*** OAP Tower ***
+Height: 176
+Floors: 39
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 18
+
+*** Grand Front Osaka Tower B ***
+Height: 175.21
+Floors: 40
+Status: Completed
+Completed: 2013
+Functions: office / retail
+Rank: 19
+
+*** Grand Front Osaka Owners Tower ***
+Height: 174.35
+Floors: 48
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 20
+
+*** Umeda Sky Building ***
+Height: 173
+Floors: 40
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 21
+
+*** City Tower Osaka ***
+Height: 170.08
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 22
+
+*** ORC Prio Tower ***
+Height: 167.4
+Floors: 50
+Status: Completed
+Completed: 1992
+Functions: residential
+Rank: 23
+
+*** The Senri Tower ***
+Height: 164.8
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 24
+
+*** City Tower Gran Tennoji ***
+Height: 161
+Floors: 43
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 25
+
+*** Applause Tower ***
+Height: 161
+Floors: 34
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 26
+
+*** Osaka Fukushima Tower ***
+Height: 160.5
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 27
+
+*** Nakanoshima Dai Building ***
+Height: 160
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 28
+
+*** Sumitomo Castle Tower ***
+Height: 157
+Floors: 38
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 29
+
+*** Twin 21 MID Tower ***
+Height: 157
+Floors: 38
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 29
+
+*** Twin 21 National Tower ***
+Height: 157
+Floors: 38
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 29
+
+*** Crystal Tower ***
+Height: 157
+Floors: 37
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 32
+
+*** Yasuda Seimei Osaka Building ***
+Height: 155.76
+Floors: 32
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 33
+
+*** City Tower Osaka Temma The River & Parks ***
+Height: 155.4
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 34
+
+*** Geo Tower Tenroku ***
+Height: 155.4
+Floors: 44
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 35
+
+*** The Namba Tower ***
+Height: 155
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 36
+
+*** Grand Front Osaka Intercontinental Hotel ***
+Height: 154.3
+Floors: 35
+Status: Completed
+Completed: 2013
+Functions: hotel / office / retail
+Rank: 37
+
+*** Yodoyabashi Apple Tower Residence ***
+Height: 152
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 38
+
+*** Hybrid Hirano ***
+Height: 151
+Floors: 40
+Status: Completed
+Rank: 39
+
+*** D`Grafort Osaka N.Y. Tower Higobashi ***
+Height: 150.7
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 40
+
+*** Herbis ENT Tower ***
+Height: 150
+Floors: 28
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 41
+
+*** JR Osaka Station New West Building ***
+Height: 150
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2011
+Functions: office
+Rank: 41
+
+*** Namba Park Tower ***
+Height: 149
+Floors: 30
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: office
+Rank: 43
+
+*** Shin-Daibiru Building ***
+Height: 148.5
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 44
+
+*** Mizuno Crystal Building ***
+Height: 146.9
+Floors: 31
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 45
+
+*** Wellith Uehommachi Laurel Tower ***
+Height: 145.6
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 46
+
+*** The Hilton Osaka Yoshimoto Building ***
+Height: 145.1
+Floors: 34
+Status: Completed
+Completed: 1986
+Functions: hotel / retail
+Rank: 47
+
+*** Abeno Grand Tour ***
+Height: 144.17
+Floors: 40
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 48
+
+*** Hotel Monterey Grasmere Osaka ***
+Height: 144
+Floors: 31
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: hotel / office / retail
+Rank: 49
+
+*** Nakanoshima Mitsui Building ***
+Height: 140.2
+Floors: 31
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 50
+
+*** Sumitomo Seimei Nakanoshima Building ***
+Height: 139.9
+Floors: 29
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 51
+
+*** Algrad Higashi-Shinsaibashi Mansion ***
+Height: 136.3
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 52
+
+*** NHK Osaka Hall ***
+Height: 135
+Floors: 18
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 53
+
+*** ORIX Honmashi Building ***
+Height: 133.2
+Floors: 29
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 54
+
+*** Fukoku Seimei Building ***
+Height: 133
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 55
+
+*** Zenith Osaka ***
+Height: 132
+Floors: 39
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 56
+
+*** Nissei Dowa Kasai Sompo Phoenix Tower ***
+Height: 132
+Floors: 29
+Status: Completed
+Started: 1991
+Completed: 1995
+Functions: office
+Rank: 57
+
+*** Pias Tower ***
+Height: 131.98
+Floors: 28
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 58
+
+*** Umeda DT Tower ***
+Height: 130.2
+Floors: 27
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 59
+
+*** Matsushita IMP Building ***
+Height: 125
+Floors: 26
+Status: Completed
+Started: 1987
+Completed: 1990
+Functions: office
+Rank: 60
+
+*** Viequ Tower Osaka ***
+Height: 124.4
+Floors: 35
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 61
+
+*** Osaka Maru Building ***
+Height: 124.1
+Floors: 30
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 62
+
+*** South Gate Building ***
+Height: 122.2
+Floors: 29
+Status: Completed
+Started: 1979
+Completed: 1983
+Functions: hotel / office / retail
+Rank: 63
+
+*** Resona Holdings Headquarters ***
+Height: 121
+Floors: 25
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 64
+
+*** Osaka Ministry of Justice Building ***
+Height: 114.9
+Floors: 25
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: office
+Rank: 65
+
+*** The Westin Osaka ***
+Height: 110.95
+Floors: 28
+Status: Completed
+Started: 1990
+Completed: 1993
+Functions: hotel
+Rank: 66
+
+*** NTT Data Dojima Building ***
+Height: 110
+Floors: 25
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 67
+
+*** Daibiru Honkan Building ***
+Height: 108.2
+Floors: 22
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 68
+
+*** Laurel Square Osaka Bay Tower ***
+Height: 106.1
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 69
+
+*** Osaka Mitsui Bussan Building ***
+Height: 103.94
+Floors: 23
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 70
+
+*** The Hilton Plaza West ***
+Height: 100
+Floors: 20
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: hotel / retail
+Rank: 71
+
+*** NTT Telepark Dojima Building 2 ***
+Height: 99.97
+Floors: 19
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 72
+
+*** Osaka City General Hospital ***
+Height: 87.78
+Floors: 18
+Status: Completed
+Functions: hospital
+Rank: 73
+
+*** Daido Life Insurance Company Head Office ***
+Height: 85.34
+Floors: 19
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 74
+
+*** Business Innovation Center Osaka ***
+Height: 85
+Floors: 17
+Status: Completed
+Functions: office
+Rank: 75
+
+*** Osaka Museum of History ***
+Height: 83
+Floors: 13
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: Museum
+Rank: 76

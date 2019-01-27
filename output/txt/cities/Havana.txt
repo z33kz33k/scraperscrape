@@ -1,0 +1,40 @@
+*** Havana (6) ***
+1. Edificio FOSCA, 130m
+2. Habana Libre Hotel, 127m
+3. Hospital Clinico Quirurgico Hermanos Ameijeiras, 112m
+
+******************** DETAILS ********************
+
+*** Havana ***
+Country: Cuba
+Region: Central America
+3 towers: Edificio FOSCA, Habana Libre Hotel, Hospital Clinico Quirurgico Hermanos Ameijeiras
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Edificio FOSCA ***
+Height: 129.54
+Floors: 37
+Status: Completed
+Started: 1954
+Completed: 1956
+Functions: residential
+Rank: 1
+
+*** Habana Libre Hotel ***
+Height: 126.8
+Floors: 27
+Status: Completed
+Completed: 1958
+Functions: hotel
+Rank: 2
+
+*** Hospital Clinico Quirurgico Hermanos Ameijeiras ***
+Height: 112
+Floors: 25
+Status: Completed
+Started: 1952
+Completed: 1980
+Functions: hospital
+Rank: 3

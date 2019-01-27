@@ -1,0 +1,31 @@
+*** Ras al Khaimah (3) ***
+1. RAK Tower, 114m
+2. Union Tower, 102m
+
+******************** DETAILS ********************
+
+*** Ras al Khaimah ***
+Country: United Arab Emirates
+Region: Middle East
+2 towers: RAK Tower, Union Tower
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** RAK Tower ***
+Height: 113.64
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential / office
+Rank: 1
+
+*** Union Tower ***
+Height: 102.4
+Floors: 26
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / office
+Rank: 2

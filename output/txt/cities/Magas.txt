@@ -1,0 +1,21 @@
+*** Magas (1) ***
+1. Magas Tower Concord, 100m
+
+******************** DETAILS ********************
+
+*** Magas ***
+Country: Russia
+Region: Europe
+1 tower: Magas Tower Concord
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Magas Tower Concord ***
+Height: 100
+Floors: 4
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: exhibition
+Rank: 1

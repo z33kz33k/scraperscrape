@@ -1,0 +1,29 @@
+*** North America (11132) ***
+1. United States, 8959
+2. Canada, 1773
+3. Mexico, 400
+
+******************** DETAILS ********************
+
+*** North America ***
+3 countries: United States, Canada, Mexico
+Tiers: I: 2358, II: 2039, III: 808, IV: 195, V: 28, VI: 7
+Rating: 11132 (8.3% uncompleted)
+
+*** United States ***
+Region: North America
+195 cities: New York City, Chicago, Miami, Houston, San Francisco, Los Angeles, Philadelphia, Seattle, Atlanta, Dallas, Boston, Honolulu, Las Vegas, Jersey City, Denver, Minneapolis, Pittsburgh, Detroit, Sunny Isles Beach, San Diego, Austin, Charlotte, Baltimore, Cleveland, St. Louis, Columbus, New Orleans, Nashville, Cincinnati, Miami Beach, Atlantic City, Milwaukee, Tulsa, Indianapolis, Tampa, Kansas City, Portland, Phoenix, Fort Worth, San Antonio, Hartford, Fort Lauderdale, Newark, Louisville, Oklahoma City, Orlando, St. Paul, Salt Lake City, Richmond, Sacramento, Buffalo, Jacksonville, Arlington, Bellevue, Birmingham (AL), Albany, Fort Lee, Oakland, Des Moines, Memphis, Clayton, St. Petersburg (FL), Mobile, Tysons Corner, Toledo, Raleigh, Hollywood, Winston-Salem, Providence, White Plains, Southfield, Hallandale Beach, Corpus Christi, Sandy Springs, Little Rock, Omaha, Long Beach, Dayton, Cambridge, Grand Rapids, Virginia Beach, Guttenberg, Wilmington, Amherst, Galveston, Springfield (MA), Harrisburg, New Rochelle, Bethesda, Rochester, New Haven, Durham, Pearl City (Oahu), Glendale, Reno, El Segundo, Fort Wayne, Cape Canaveral, Fort Myers, Newport Beach, Lake Charles, Syracuse, Bloomington, Charleston, West Hollywood, Orange Beach, Stamford, Covington, Evanston, Baton Rouge, Akron, San Jose, West Palm Beach, Tucson, Irving, Niagara Falls (NY), Itasca, Vinings, Albuquerque, Tacoma, Yonkers, Norfolk, Montville, Greensboro, Bristol (CT), Burbank, Anchorage, Tallahassee, Irvine, Aventura, Oakbrook Terrace, El Paso, Lincoln (NE), Pasadena-TX, The Woodlands, Metairie, Manchester (NH), Midland, Boise, Santa Ana, Tempe, Montgomery, South Padre Island, Brookhaven, Columbia, Dunwoody, Shreveport, Marco Island, Peoria, Springfield (IL), Abbeville, Camden, Biloxi, Lexington, New Brunswick, Riviera Beach, Amarillo, Lubbock, Daytona Beach Shores, Costa Mesa, Abilene, Jackson, Edgewater, Denton, Billings, Cedar Rapids, Tunica, Bossier City, Fargo, Foster City, Cabazon, Bethlehem, South Bend, Newport, Orange, Bartlesville, Boca Raton, Hoboken, Alexandria (VA), Michigan City, Waco, Roanoke, Allentown, Ledyard Center, Lansing, Tyler, Troy, Gulf Shores, Knoxville, Beaumont, Hempstead, Wichita, Asbury Park, Evansville, West Sacramento
+Tiers: I: 1903, II: 1594, III: 661, IV: 159, V: 25, VI: 7
+Rating: 8959 (6.2% uncompleted)
+
+*** Canada ***
+Region: North America
+25 cities: Toronto, Vancouver, Calgary, Montreal, Mississauga, Edmonton, Burnaby, Ottawa, Vaughan, Winnipeg, Niagara Falls, Quebec, Surrey, Hamilton, Windsor, Markham, Gatineau, Trois-Rivières, London (ON), Regina, Halifax, Coquitlam, Moncton, Kelowna, Waterloo (CA)
+Tiers: I: 415, II: 374, III: 111, IV: 25, V: 2
+Rating: 1773 (14.8% uncompleted)
+
+*** Mexico ***
+Region: North America
+12 cities: Mexico City, San Pedro Garza García, Monterrey, Guadalajara, Puebla, Zapopan, Huixquilucan, Tijuana, Acapulco, Ciudad Victoria, Santa Catarina, Cancún
+Tiers: I: 40, II: 71, III: 36, IV: 11, V: 1
+Rating: 400 (24.8% uncompleted)

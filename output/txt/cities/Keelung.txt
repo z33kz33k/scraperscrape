@@ -1,0 +1,19 @@
+*** Keelung (2) ***
+1. Lih-Rong An Imperial Crown Building, 148m
+
+******************** DETAILS ********************
+
+*** Keelung ***
+Country: Taiwan
+Region: Asia
+1 tower: Lih-Rong An Imperial Crown Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lih-Rong An Imperial Crown Building ***
+Height: 148
+Floors: 34
+Status: Completed
+Completed: 2000
+Rank: 1

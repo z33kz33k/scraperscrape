@@ -1,0 +1,116 @@
+*** Pasig (48) ***
+1.  The Imperium at Capital Commons, 240m
+2.  The Royalton, 230m
+3.  Corporate Finance Plaza, 226m
+4.  Union Bank Plaza, 206m
+5.  One Corporate Center, 202m
+6.  One San Miguel Avenue, 183m
+7.  Robinsons Equitable Tower, 175m
+8.  Discovery Centre, 167m
+9.  Exquadra Office Tower, 167m
+10. J Tower, 150m
+11. Medical Plaza Ortigas Center, 115m
+
+******************** DETAILS ********************
+
+*** Pasig ***
+Country: Philippines
+Region: Asia
+11 towers: The Imperium at Capital Commons, The Royalton, Corporate Finance Plaza, Union Bank Plaza, One Corporate Center, One San Miguel Avenue, Robinsons Equitable Tower, Discovery Centre, Exquadra Office Tower, J Tower, Medical Plaza Ortigas Center
+Tiers: II: 1, III: 7, IV: 3
+Rating: 48 (45.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Imperium at Capital Commons ***
+Height: 240
+Floors: 63
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** The Royalton ***
+Height: 230
+Floors: 65
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Corporate Finance Plaza ***
+Height: 226.3
+Floors: 57
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 3
+
+*** Union Bank Plaza ***
+Height: 206.04
+Floors: 49
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 4
+
+*** One Corporate Center ***
+Height: 202
+Floors: 54
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 5
+
+*** One San Miguel Avenue ***
+Height: 182.91
+Floors: 54
+Status: Completed
+Started: 1997
+Completed: 2001
+Functions: office
+Rank: 6
+
+*** Robinsons Equitable Tower ***
+Height: 175
+Floors: 45
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 7
+
+*** Discovery Centre ***
+Height: 167
+Floors: 40
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office / hotel
+Rank: 8
+
+*** Exquadra Office Tower ***
+Height: 166.6
+Floors: 38
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 9
+
+*** J Tower ***
+Height: 150
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: hotel / office
+Rank: 10
+
+*** Medical Plaza Ortigas Center ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 1995
+Rank: 11

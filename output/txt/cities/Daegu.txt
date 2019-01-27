@@ -1,0 +1,109 @@
+*** Daegu (36) ***
+1.  Suseong Leader's View Tower A, 225m
+2.  Suseong Leader's View Tower B, 225m
+3.  Suseong We've The Zenith 101, 178m
+4.  Suseong We've The Zenith 102, 178m
+5.  Worldmark Westend 105, 154m
+6.  Worldmark Westend 102, 152m
+7.  Worldmark Westend 103, 149m
+8.  Worldmark Westend 101, 143m
+9.  Centro Palace Tower 101, 139m
+10. Centro Palace Tower 102, 139m
+
+******************** DETAILS ********************
+
+*** Daegu ***
+Country: South Korea
+Region: Asia
+10 towers: Suseong Leader's View Tower A, Suseong Leader's View Tower B, Suseong We've The Zenith 101, Suseong We've The Zenith 102, Worldmark Westend 105, Worldmark Westend 102, Worldmark Westend 103, Worldmark Westend 101, Centro Palace Tower 101, Centro Palace Tower 102
+Tiers: II: 4, III: 4, IV: 2
+Rating: 36
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Suseong Leader's View Tower A ***
+Height: 225
+Floors: 57
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** Suseong Leader's View Tower B ***
+Height: 225
+Floors: 57
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** Suseong We've The Zenith 101 ***
+Height: 178
+Floors: 54
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 3
+
+*** Suseong We've The Zenith 102 ***
+Height: 178
+Floors: 54
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 3
+
+*** Worldmark Westend 105 ***
+Height: 153.65
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 5
+
+*** Worldmark Westend 102 ***
+Height: 151.95
+Floors: 43
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 6
+
+*** Worldmark Westend 103 ***
+Height: 148.95
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 7
+
+*** Worldmark Westend 101 ***
+Height: 142.95
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 8
+
+*** Centro Palace Tower 101 ***
+Height: 139
+Floors: 43
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 9
+
+*** Centro Palace Tower 102 ***
+Height: 139
+Floors: 43
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 9

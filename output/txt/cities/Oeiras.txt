@@ -1,0 +1,20 @@
+*** Oeiras (1) ***
+1. Torre de Monsanto, 100m
+
+******************** DETAILS ********************
+
+*** Oeiras ***
+Country: Portugal
+Region: Europe
+1 tower: Torre de Monsanto
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre de Monsanto ***
+Height: 100
+Floors: 17
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 1

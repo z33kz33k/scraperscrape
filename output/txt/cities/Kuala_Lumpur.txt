@@ -1,0 +1,970 @@
+*** Kuala Lumpur (468) ***
+1.   Merdeka PNB118, 644m
+2.   The Exchange 106, 452m
+3.   Petronas Twin Tower 1, 452m
+4.   Petronas Twin Tower 2, 452m
+5.   Fairmont Kuala Lumpur Tower 1, 370m
+6.   Four Seasons Place, 342m
+7.   Oxley Tower 1, 339m
+8.   M101 Skywheel, 317m
+9.   Menara TM, 310m
+10.  Kempinski Hotel & Residences, 308m
+11.  Dayabumi, 290m
+12.  Fairmont Kuala Lumpur Tower 2, 278m
+13.  8 Conlay Tower A, 277m
+14.  Ilham Tower, 274m
+15.  Petronas Tower 3, 267m
+16.  Star Residences RT2, 265m
+17.  Star Residences RT3, 265m
+18.  8 Conlay Tower B, 260m
+19.  KLCC Lot 91, 252m
+20.  Star Residences RT1, 251m
+21.  Menara Maybank, 244m
+22.  Setia Eco City - Vogue Suite One, 243m
+23.  MidValley Tower of Light, 243m
+24.  Banyan Tree Signatures, 240m
+25.  Vista Tower, 238m
+26.  WKL Hotel and Tropicana The Residences, 235m
+27.  BBCC Lucentia Residential Towers, 234m
+28.  Oxley Tower 2, 234m
+29.  Sky Suites @ KLCC 1, 230m
+30.  Sky Suites @ KLCC 2, 230m
+31.  Sky Suites @ KLCC 3, 230m
+32.  Elite Pavilion, 230m
+33.  Equatorial Plaza, 230m
+34.  Harrods Hotel & Residences Main Tower, 220m
+35.  Menara Felda, Platinum Park, 216m
+36.  Naza Tower 1, 216m
+37.  Menara Maxis, 212m
+38.  The Sentral Residences Tower A, 210m
+39.  The Sentral Residences Tower B, 210m
+40.  AmBank Tower, 210m
+41.  St. Regis Hotel & Residences, 205m
+42.  The Troika Tower 3, 204m
+43.  Berjaya Times Square Tower A, 203m
+44.  Berjaya Times Square Tower B, 203m
+45.  K Residence, 202m
+46.  Lot G Office Towers, 200m
+47.  Capital Square Tower 1, 198m
+48.  Maju Perdana One, 196m
+49.  Menara Standard Chartered, 193m
+50.  Menara Citibank, 190m
+51.  Marinara Financial Center, 186m
+52.  Grand Seasons Hotel, 184m
+53.  Public Mutual Tower, 179m
+54.  The Troika Tower 2, 177m
+55.  Menara Data'Onn, 175m
+56.  KKR2 Tower, 174m
+57.  Menara PNB, 171m
+58.  Menara Public Bank, 170m
+59.  Wisma Goldhill, 168m
+60.  Menara Prestige, 168m
+61.  CAHB Corporate Office Tower, 168m
+62.  Plaza Cygal, 168m
+63.  Menara Keck Seng, 162m
+64.  JKG Tower, 161m
+65.  The Troika Tower 1, 160m
+66.  Kompleks Dayabumi, 157m
+67.  Oxley Tower 3, 156m
+68.  Dynasty Hotel, 154m
+69.  Pavilion Residences Tower 1, 154m
+70.  Hilton Kuala Lumpur, 154m
+71.  Le Meridien Kuala Lumpur Sentral, 154m
+72.  Menara Dion, 154m
+73.  Sheraton Imperial Kuala Lumpur Hotel, 152m
+74.  Menara KH, 152m
+75.  Bangunan Tabung Haji, 152m
+76.  Mont Kiara Damai, 151m
+77.  Park View Serviced Apartments, 151m
+78.  Parkview Serviced Apartments, 151m
+79.  Menara TA One, 151m
+80.  Bangunan MAS, 151m
+81.  Bangunan MAS Rennovation, 151m
+82.  Menara Binjai, 151m
+83.  Rio City, 147m
+84.  Plaza Sentral Condominiums II, 146m
+85.  Plaza Sentral Condominiums I, 142m
+86.  Wisma Denmark, 142m
+87.  UBN Tower, 140m
+88.  Vision City Tower D, 140m
+89.  Inwood Residences, 138m
+90.  Wisma Beraga, 137m
+91.  The Capers Tower A, 136m
+92.  The Capers Tower B, 136m
+93.  Bistari Condominium Begonia, 133m
+94.  Bistari Condominium Lavendar, 133m
+95.  Bangunan Dewan Bandaraya, 133m
+96.  Menara DBKL, 132m
+97.  Wisma Cyclecarri, 132m
+98.  Aloft Kuala Lumpur Sentral, 130m
+99.  Menara Boustead, 130m
+100. The Weld Tower, 130m
+101. Central Plaza, 110m
+
+******************** DETAILS ********************
+
+*** Kuala Lumpur ***
+Country: Malaysia
+Region: Asia
+101 towers: Merdeka PNB118, The Exchange 106, Petronas Twin Tower 1, Petronas Twin Tower 2, Fairmont Kuala Lumpur Tower 1, Four Seasons Place, Oxley Tower 1, M101 Skywheel, Menara TM, Kempinski Hotel & Residences, Dayabumi, Fairmont Kuala Lumpur Tower 2, 8 Conlay Tower A, Ilham Tower, Petronas Tower 3, Star Residences RT2, Star Residences RT3, 8 Conlay Tower B, KLCC Lot 91, Star Residences RT1, Menara Maybank, Setia Eco City - Vogue Suite One, MidValley Tower of Light, Banyan Tree Signatures, Vista Tower, WKL Hotel and Tropicana The Residences, BBCC Lucentia Residential Towers, Oxley Tower 2, Sky Suites @ KLCC 1, Sky Suites @ KLCC 2, Sky Suites @ KLCC 3, Elite Pavilion, Equatorial Plaza, Harrods Hotel & Residences Main Tower, Menara Felda, Platinum Park, Naza Tower 1, Menara Maxis, The Sentral Residences Tower A, The Sentral Residences Tower B, AmBank Tower, St. Regis Hotel & Residences, The Troika Tower 3, Berjaya Times Square Tower A, Berjaya Times Square Tower B, K Residence, Lot G Office Towers, Capital Square Tower 1, Maju Perdana One, Menara Standard Chartered, Menara Citibank, Marinara Financial Center, Grand Seasons Hotel, Public Mutual Tower, The Troika Tower 2, Menara Data'Onn, KKR2 Tower, Menara PNB, Menara Public Bank, Wisma Goldhill, Menara Prestige, CAHB Corporate Office Tower, Plaza Cygal, Menara Keck Seng, JKG Tower, The Troika Tower 1, Kompleks Dayabumi, Oxley Tower 3, Dynasty Hotel, Pavilion Residences Tower 1, Hilton Kuala Lumpur, Le Meridien Kuala Lumpur Sentral, Menara Dion, Sheraton Imperial Kuala Lumpur Hotel, Menara KH, Bangunan Tabung Haji, Mont Kiara Damai, Park View Serviced Apartments, Parkview Serviced Apartments, Menara TA One, Bangunan MAS, Bangunan MAS Rennovation, Menara Binjai, Rio City, Plaza Sentral Condominiums II, Plaza Sentral Condominiums I, Wisma Denmark, UBN Tower, Vision City Tower D, Inwood Residences, Wisma Beraga, The Capers Tower A, The Capers Tower B, Bistari Condominium Begonia, Bistari Condominium Lavendar, Bangunan Dewan Bandaraya, Menara DBKL, Wisma Cyclecarri, Aloft Kuala Lumpur Sentral, Menara Boustead, The Weld Tower, Central Plaza
+Tiers: II: 19, III: 45, IV: 27, V: 6, VI: 4
+Rating: 468 (32.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Merdeka PNB118 ***
+Height: 644
+Floors: 118
+Status: Under Construction
+Started: 2014
+Completed: 2021
+Functions: serviced apartments / hotel / office
+Rank: 1
+
+*** The Exchange 106 ***
+Height: 451.9
+Floors: 97
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** Petronas Twin Tower 1 ***
+Height: 451.9
+Floors: 88
+Status: Completed
+Started: 1992
+Completed: 1998
+Functions: office
+Rank: 3
+
+*** Petronas Twin Tower 2 ***
+Height: 451.9
+Floors: 88
+Status: Completed
+Started: 1992
+Completed: 1998
+Functions: office
+Rank: 3
+
+*** Fairmont Kuala Lumpur Tower 1 ***
+Height: 370
+Floors: 78
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: serviced apartments / residential / hotel
+Rank: 5
+
+*** Four Seasons Place ***
+Height: 342.5
+Floors: 65
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential / hotel
+Rank: 6
+
+*** Oxley Tower 1 ***
+Height: 339
+Floors: 79
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: serviced apartments / hotel
+Rank: 7
+
+*** M101 Skywheel ***
+Height: 316.6
+Floors: 79
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: observation / residential / hotel / SOHO / retail
+Rank: 8
+
+*** Menara TM ***
+Height: 310
+Floors: 55
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 9
+
+*** Kempinski Hotel & Residences ***
+Height: 308
+Floors: 72
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: residential / hotel
+Rank: 10
+
+*** Dayabumi ***
+Height: 290.45
+Floors: 60
+Status: Under Construction
+Started: 2015
+Functions: office / hotel
+Rank: 11
+
+*** Fairmont Kuala Lumpur Tower 2 ***
+Height: 278
+Floors: 71
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: office
+Rank: 12
+
+*** 8 Conlay Tower A ***
+Height: 277
+Floors: 61
+Status: Under Construction
+Completed: 2020
+Functions: residential
+Rank: 13
+
+*** Ilham Tower ***
+Height: 274
+Floors: 58
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential / office
+Rank: 14
+
+*** Petronas Tower 3 ***
+Height: 267
+Floors: 60
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 15
+
+*** Star Residences RT2 ***
+Height: 265
+Floors: 58
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 16
+
+*** Star Residences RT3 ***
+Height: 265
+Floors: 58
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 16
+
+*** 8 Conlay Tower B ***
+Height: 260
+Floors: 56
+Status: Under Construction
+Completed: 2020
+Functions: serviced apartments
+Rank: 18
+
+*** KLCC Lot 91 ***
+Height: 252.5
+Floors: 53
+Status: Under Construction
+Started: 2015
+Completed: 2021
+Functions: office
+Rank: 19
+
+*** Star Residences RT1 ***
+Height: 251
+Floors: 57
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 20
+
+*** Menara Maybank ***
+Height: 243.54
+Floors: 50
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 21
+
+*** Setia Eco City - Vogue Suite One ***
+Height: 243
+Floors: 63
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 22
+
+*** MidValley Tower of Light ***
+Height: 243
+Floors: 56
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 23
+
+*** Banyan Tree Signatures ***
+Height: 240
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel / residential
+Rank: 24
+
+*** Vista Tower ***
+Height: 238
+Floors: 60
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 25
+
+*** WKL Hotel and Tropicana The Residences ***
+Height: 235
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential / hotel
+Rank: 26
+
+*** BBCC Lucentia Residential Towers ***
+Height: 233.75
+Floors: 59
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 27
+
+*** Oxley Tower 2 ***
+Height: 233.6
+Floors: 49
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: serviced apartments / hotel
+Rank: 28
+
+*** Sky Suites @ KLCC 1 ***
+Height: 230
+Floors: 62
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: serviced apartments
+Rank: 29
+
+*** Sky Suites @ KLCC 2 ***
+Height: 230
+Floors: 62
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: serviced apartments
+Rank: 29
+
+*** Sky Suites @ KLCC 3 ***
+Height: 230
+Floors: 62
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: serviced apartments
+Rank: 29
+
+*** Elite Pavilion ***
+Height: 230
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: serviced apartments / retail
+Rank: 32
+
+*** Equatorial Plaza ***
+Height: 229.7
+Floors: 55
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: hotel / office
+Rank: 33
+
+*** Harrods Hotel & Residences Main Tower ***
+Height: 220
+Floors: 55
+Status: Under Construction
+Functions: residential / hotel
+Rank: 34
+
+*** Menara Felda, Platinum Park ***
+Height: 215.5
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 35
+
+*** Naza Tower 1 ***
+Height: 215.5
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 35
+
+*** Menara Maxis ***
+Height: 212
+Floors: 49
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 37
+
+*** The Sentral Residences Tower A ***
+Height: 210.4
+Floors: 58
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 38
+
+*** The Sentral Residences Tower B ***
+Height: 210.4
+Floors: 58
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 38
+
+*** AmBank Tower ***
+Height: 210
+Floors: 50
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 40
+
+*** St. Regis Hotel & Residences ***
+Height: 205
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / hotel
+Rank: 41
+
+*** The Troika Tower 3 ***
+Height: 204
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 42
+
+*** Berjaya Times Square Tower A ***
+Height: 203.05
+Floors: 48
+Status: Completed
+Started: 1997
+Completed: 2003
+Functions: hotel
+Rank: 43
+
+*** Berjaya Times Square Tower B ***
+Height: 203.05
+Floors: 48
+Status: Completed
+Started: 1997
+Completed: 2003
+Functions: residential
+Rank: 43
+
+*** K Residence ***
+Height: 202
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 45
+
+*** Lot G Office Towers ***
+Height: 200
+Floors: 45
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 46
+
+*** Capital Square Tower 1 ***
+Height: 198.23
+Floors: 40
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 47
+
+*** Maju Perdana One ***
+Height: 196
+Floors: 50
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 48
+
+*** Menara Standard Chartered ***
+Height: 193
+Floors: 43
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 49
+
+*** Menara Citibank ***
+Height: 190.2
+Floors: 50
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 50
+
+*** Marinara Financial Center ***
+Height: 185.7
+Floors: 36
+Status: Completed
+Completed: 2000
+Functions: residential / office
+Rank: 51
+
+*** Grand Seasons Hotel ***
+Height: 184
+Floors: 46
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: hotel
+Rank: 52
+
+*** Public Mutual Tower ***
+Height: 179
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 53
+
+*** The Troika Tower 2 ***
+Height: 177
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 54
+
+*** Menara Data'Onn ***
+Height: 175
+Floors: 40
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 55
+
+*** KKR2 Tower ***
+Height: 174.44
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 56
+
+*** Menara PNB ***
+Height: 171
+Floors: 45
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 57
+
+*** Menara Public Bank ***
+Height: 170
+Floors: 36
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 58
+
+*** Wisma Goldhill ***
+Height: 168.1
+Floors: 37
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 59
+
+*** Menara Prestige ***
+Height: 168.03
+Floors: 40
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 60
+
+*** CAHB Corporate Office Tower ***
+Height: 168
+Floors: 42
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: office
+Rank: 61
+
+*** Plaza Cygal ***
+Height: 168
+Floors: 40
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 62
+
+*** Menara Keck Seng ***
+Height: 162
+Floors: 39
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 63
+
+*** JKG Tower ***
+Height: 161.2
+Floors: 31
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 64
+
+*** The Troika Tower 1 ***
+Height: 160
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 65
+
+*** Kompleks Dayabumi ***
+Height: 157
+Floors: 36
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 66
+
+*** Oxley Tower 3 ***
+Height: 155.5
+Floors: 29
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: office
+Rank: 67
+
+*** Dynasty Hotel ***
+Height: 154.5
+Floors: 37
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 68
+
+*** Pavilion Residences Tower 1 ***
+Height: 154
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 69
+
+*** Hilton Kuala Lumpur ***
+Height: 154
+Floors: 37
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 70
+
+*** Le Meridien Kuala Lumpur Sentral ***
+Height: 154
+Floors: 37
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 70
+
+*** Menara Dion ***
+Height: 154
+Floors: 37
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 70
+
+*** Sheraton Imperial Kuala Lumpur Hotel ***
+Height: 152
+Floors: 38
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 73
+
+*** Menara KH ***
+Height: 152
+Floors: 36
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 74
+
+*** Bangunan Tabung Haji ***
+Height: 151.83
+Floors: 38
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 75
+
+*** Mont Kiara Damai ***
+Height: 151
+Floors: 43
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 76
+
+*** Park View Serviced Apartments ***
+Height: 151
+Floors: 43
+Status: Under Construction
+Functions: multiple
+Rank: 76
+
+*** Parkview Serviced Apartments ***
+Height: 151
+Floors: 43
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 76
+
+*** Menara TA One ***
+Height: 151
+Floors: 37
+Status: Completed
+Started: 1992
+Completed: 1996
+Functions: hotel / office
+Rank: 79
+
+*** Bangunan MAS ***
+Height: 151
+Floors: 36
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 80
+
+*** Bangunan MAS Rennovation ***
+Height: 151
+Floors: 36
+Status: Architecturally Topped Out
+Started: 2008
+Functions: office
+Rank: 80
+
+*** Menara Binjai ***
+Height: 151
+Floors: 34
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 82
+
+*** Rio City ***
+Height: 146.7
+Floors: 39
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: residential / office / retail
+Rank: 83
+
+*** Plaza Sentral Condominiums II ***
+Height: 146
+Floors: 39
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 84
+
+*** Plaza Sentral Condominiums I ***
+Height: 142
+Floors: 38
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 85
+
+*** Wisma Denmark ***
+Height: 142
+Floors: 32
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 86
+
+*** UBN Tower ***
+Height: 140
+Floors: 35
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 87
+
+*** Vision City Tower D ***
+Height: 140
+Floors: 35
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 87
+
+*** Inwood Residences ***
+Height: 138
+Floors: 38
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 89
+
+*** Wisma Beraga ***
+Height: 137
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 90
+
+*** The Capers Tower A ***
+Height: 135.94
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 91
+
+*** The Capers Tower B ***
+Height: 135.94
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 91
+
+*** Bistari Condominium Begonia ***
+Height: 133
+Floors: 42
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 93
+
+*** Bistari Condominium Lavendar ***
+Height: 133
+Floors: 42
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 93
+
+*** Bangunan Dewan Bandaraya ***
+Height: 133
+Floors: 35
+Status: Completed
+Functions: office
+Rank: 95
+
+*** Menara DBKL ***
+Height: 132
+Floors: 30
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 96
+
+*** Wisma Cyclecarri ***
+Height: 132
+Floors: 27
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 97
+
+*** Aloft Kuala Lumpur Sentral ***
+Height: 130
+Floors: 34
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 98
+
+*** Menara Boustead ***
+Height: 130
+Floors: 32
+Status: Completed
+Completed: 1987
+Functions: hotel / office
+Rank: 99
+
+*** The Weld Tower ***
+Height: 130
+Floors: 30
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 100
+
+*** Central Plaza ***
+Height: 109.73
+Floors: 29
+Status: Completed
+Started: 1992
+Completed: 1996
+Functions: office
+Rank: 101

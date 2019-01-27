@@ -1,0 +1,45 @@
+*** Czech Republic (12) ***
+1. Praha, 8
+2. Brno, 2
+3. Most, 1
+4. Liberec, 1
+
+******************** DETAILS ********************
+
+*** Czech Republic ***
+Region: Europe
+4 cities: Praha, Brno, Most, Liberec
+Tiers: I: 8, II: 2
+Rating: 12
+
+*** Praha ***
+Country: Czech Republic
+Region: Europe
+7 towers: City Tower, V Tower, City Empiria, Corinthia Towers Hotel, Lighthouse Vltava Waterfront Towers, Telefonica O2, Corinthia Panorama Hotel
+Tiers: I: 6, II: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Brno ***
+Country: Czech Republic
+Region: Europe
+1 tower: AZ Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Most ***
+Country: Czech Republic
+Region: Europe
+1 tower: Technical Services Shd
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Liberec ***
+Country: Czech Republic
+Region: Europe
+1 tower: SVUT
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

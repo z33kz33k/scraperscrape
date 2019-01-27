@@ -1,0 +1,180 @@
+*** Kawasaki (54) ***
+1.  Park City Musashi-Kosugi Mid Sky Tower, 204m
+2.  City Tower Musashikosugi, 190m
+3.  Park City Musashi-Kosugi The Garden East Tower, 179m
+4.  Park City Musashi-Kosugi The Garden West Tower, 179m
+5.  Park Tower Shinkawasaki, 165m
+6.  Park City Musashi-Kosugi Station Forest Tower, 163m
+7.  Lieto Court Musashi-Kosugi West Tower, 162m
+8.  Lieto Court Musashi-Kosugi East Tower, 161m
+9.  The Kosugi Tower, 160m
+10. NEC Tamagawa Renaissance City Phase II, 156m
+11. Shin-Kawasaki Mitsui Building East, 134m
+12. Shin-Kawasaki Mitsui Building West, 134m
+13. Crescent Kawasaki Tower, 131m
+14. NTT DoCoMo Kawasaki Building, 130m
+15. Lazona Kawasaki Residence Central Tower, 124m
+16. Brillia Tower Kawasaki, 118m
+17. NEC Tamagawa Renaissance City Phase I, 111m
+
+******************** DETAILS ********************
+
+*** Kawasaki ***
+Country: Japan
+Region: Asia
+17 towers: Park City Musashi-Kosugi Mid Sky Tower, City Tower Musashikosugi, Park City Musashi-Kosugi The Garden East Tower, Park City Musashi-Kosugi The Garden West Tower, Park Tower Shinkawasaki, Park City Musashi-Kosugi Station Forest Tower, Lieto Court Musashi-Kosugi West Tower, Lieto Court Musashi-Kosugi East Tower, The Kosugi Tower, NEC Tamagawa Renaissance City Phase II, Shin-Kawasaki Mitsui Building East, Shin-Kawasaki Mitsui Building West, Crescent Kawasaki Tower, NTT DoCoMo Kawasaki Building, Lazona Kawasaki Residence Central Tower, Brillia Tower Kawasaki, NEC Tamagawa Renaissance City Phase I
+Tiers: II: 7, III: 10
+Rating: 54
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Park City Musashi-Kosugi Mid Sky Tower ***
+Height: 204
+Floors: 59
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** City Tower Musashikosugi ***
+Height: 190
+Floors: 54
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 2
+
+*** Park City Musashi-Kosugi The Garden East Tower ***
+Height: 178.9
+Floors: 53
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 3
+
+*** Park City Musashi-Kosugi The Garden West Tower ***
+Height: 178.9
+Floors: 53
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 3
+
+*** Park Tower Shinkawasaki ***
+Height: 165
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** Park City Musashi-Kosugi Station Forest Tower ***
+Height: 162.8
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 6
+
+*** Lieto Court Musashi-Kosugi West Tower ***
+Height: 161.8
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hotel
+Rank: 7
+
+*** Lieto Court Musashi-Kosugi East Tower ***
+Height: 161.1
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 8
+
+*** The Kosugi Tower ***
+Height: 160
+Floors: 49
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 9
+
+*** NEC Tamagawa Renaissance City Phase II ***
+Height: 156
+Floors: 37
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 10
+
+*** Shin-Kawasaki Mitsui Building East ***
+Height: 134
+Floors: 31
+Status: Completed
+Started: 1986
+Completed: 1989
+Functions: office
+Rank: 11
+
+*** Shin-Kawasaki Mitsui Building West ***
+Height: 134
+Floors: 31
+Status: Completed
+Started: 1986
+Completed: 1989
+Functions: office
+Rank: 11
+
+*** Crescent Kawasaki Tower ***
+Height: 130.9
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 13
+
+*** NTT DoCoMo Kawasaki Building ***
+Height: 130
+Floors: 19
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 14
+
+*** Lazona Kawasaki Residence Central Tower ***
+Height: 124
+Floors: 34
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 15
+
+*** Brillia Tower Kawasaki ***
+Height: 117.5
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 16
+
+*** NEC Tamagawa Renaissance City Phase I ***
+Height: 111.3
+Floors: 26
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 17

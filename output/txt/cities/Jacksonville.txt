@@ -1,0 +1,86 @@
+*** Jacksonville (18) ***
+1. Bank of America Tower, 188m
+2. Modis Tower, 163m
+3. The Peninsula, 133m
+4. AT&T Tower, 133m
+5. Riverplace Tower, 132m
+6. Jacksonville Center, 109m
+7. The Strand, 97m
+8. The Plaza Condominium at Berkman Plaza and Marina, 79m
+
+******************** DETAILS ********************
+
+*** Jacksonville ***
+Country: United States
+Region: North America
+8 towers: Bank of America Tower, Modis Tower, The Peninsula, AT&T Tower, Riverplace Tower, Jacksonville Center, The Strand, The Plaza Condominium at Berkman Plaza and Marina
+Tiers: I: 2, II: 4, III: 2
+Rating: 18
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bank of America Tower ***
+Height: 188.06
+Floors: 42
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 1
+
+*** Modis Tower ***
+Height: 163.07
+Floors: 37
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 2
+
+*** The Peninsula ***
+Height: 133.2
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 3
+
+*** AT&T Tower ***
+Height: 132.59
+Floors: 32
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 4
+
+*** Riverplace Tower ***
+Height: 131.68
+Floors: 28
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: office
+Rank: 5
+
+*** Jacksonville Center ***
+Height: 108.82
+Floors: 24
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 6
+
+*** The Strand ***
+Height: 96.6
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 7
+
+*** The Plaza Condominium at Berkman Plaza and Marina ***
+Height: 79.25
+Floors: 23
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 8

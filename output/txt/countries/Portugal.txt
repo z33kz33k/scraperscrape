@@ -1,0 +1,54 @@
+*** Portugal (13) ***
+1. Lisbon, 9
+2. Portimao, 1
+3. Maia, 1
+4. Povoa de Varzim, 1
+5. Porto, 1
+
+******************** DETAILS ********************
+
+*** Portugal ***
+Region: Europe
+5 cities: Lisbon, Portimao, Maia, Povoa de Varzim, Porto
+Tiers: I: 9, II: 2
+Rating: 13
+
+*** Lisbon ***
+Country: Portugal
+Region: Europe
+7 towers: Torre S&atilde;o Gabriel, Torre S&atilde;o Rafael, Sheraton Lisbon Hotel & Towers, Twin Tower I, Twin Tower II, Corinthia Lisboa Hotel, Torre de Monsanto
+Tiers: I: 5, II: 2
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Portimao ***
+Country: Portugal
+Region: Europe
+1 tower: Jardins da Rocha
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Maia ***
+Country: Portugal
+Region: Europe
+1 tower: Torre do Lidador
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Povoa de Varzim ***
+Country: Portugal
+Region: Europe
+1 tower: Ed&iacute;ficio Nova P&oacute;voa
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Porto ***
+Country: Portugal
+Region: Europe
+1 tower: Hotel Vila Gale Porto
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

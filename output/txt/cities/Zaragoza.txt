@@ -1,0 +1,19 @@
+*** Zaragoza (2) ***
+1. Torre de Comunicaciones de Movistar, 115m
+
+******************** DETAILS ********************
+
+*** Zaragoza ***
+Country: Spain
+Region: Europe
+1 tower: Torre de Comunicaciones de Movistar
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre de Comunicaciones de Movistar ***
+Height: 115
+Status: Completed
+Completed: 1990
+Functions: telecommunications / observation
+Rank: 1

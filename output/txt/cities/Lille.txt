@@ -1,0 +1,29 @@
+*** Lille (4) ***
+1. Tour de Lille, 117m
+2. Tour Lilleurope, 110m
+
+******************** DETAILS ********************
+
+*** Lille ***
+Country: France
+Region: Europe
+2 towers: Tour de Lille, Tour Lilleurope
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour de Lille ***
+Height: 117
+Floors: 25
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 1
+
+*** Tour Lilleurope ***
+Height: 110
+Floors: 25
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 2

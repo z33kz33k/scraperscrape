@@ -1,0 +1,21 @@
+*** Camden (2) ***
+1. Camden City Hall, 113m
+
+******************** DETAILS ********************
+
+*** Camden ***
+Country: United States
+Region: North America
+1 tower: Camden City Hall
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Camden City Hall ***
+Height: 113.08
+Floors: 18
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: government
+Rank: 1

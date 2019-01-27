@@ -1,0 +1,425 @@
+*** Hanoi (115) ***
+1.  VietinBank Business Center Office Tower, 363m
+2.  Keangnam Hanoi Landmark Tower, 329m
+3.  Lotte Center Hanoi, 272m
+4.  VietinBank Business Center Hotel Tower, 252m
+5.  Keangnam Hanoi Residential Tower 1, 212m
+6.  Keangnam Hanoi Residential Tower 2, 212m
+7.  Diamond Flower Tower, 199m
+8.  Discovery Complex Residential Tower, 195m
+9.  Discovery Complex Office Tower, 195m
+10. Thang Long Number 1 Tower A, 152m
+11. Thang Long Number 1 Tower B, 152m
+12. EVN Headquarters Tower 1, 147m
+13. Indochina Plaza Hanoi Tower A, 142m
+14. Intracom Riverside Tower A, 140m
+15. Intracom Riverside Tower B, 140m
+16. Intracom Riverside Tower C, 140m
+17. Phu My Tower 1, 137m
+18. Phu My Tower 2, 137m
+19. Hanoi Trung Hoa Nhan Chinh, 136m
+20. Galaxy Tower, 136m
+21. Vicem Tower, 135m
+22. Dolphin Plaza Tower 1, 135m
+23. Dolphin Plaza Tower 2, 135m
+24. 6th Element Residence Tower M2, 133m
+25. 6th Element Residence Tower M1, 132m
+26. Sky Line, 131m
+27. M5 Tower, 125m
+28. Indochina Plaza Hanoi Tower B, 124m
+29. VNTA Tower, 121m
+30. Trang An Home, 121m
+31. Dreamland Bonanza, 120m
+32. Riverside Garden, 112m
+33. HUD3 Tower, 107m
+34. BIDV Tower, 106m
+35. Rainbow Van Quan Building, 98m
+36. Social Housing for Public Security Officers & Shop Houses NO CT1, 96m
+37. Star Tower - Valiant Complex, 91m
+38. Social Housing for Public Security Officers & Shop Houses NO CT2, 87m
+39. Social Housing for Public Security Officers & Shop Houses NO CT3, 87m
+40. Social Housing for Public Security Officers & Shop Houses Tower CT4, 87m
+41. Packexim 2 Tay Ho Residence, 77m
+42. Rainbow Linhdam Building, 77m
+43. Rainbow Linh Dam, 76m
+
+******************** DETAILS ********************
+
+*** Hanoi ***
+Country: Vietnam
+Region: Asia
+43 towers: VietinBank Business Center Office Tower, Keangnam Hanoi Landmark Tower, Lotte Center Hanoi, VietinBank Business Center Hotel Tower, Keangnam Hanoi Residential Tower 1, Keangnam Hanoi Residential Tower 2, Diamond Flower Tower, Discovery Complex Residential Tower, Discovery Complex Office Tower, Thang Long Number 1 Tower A, Thang Long Number 1 Tower B, EVN Headquarters Tower 1, Indochina Plaza Hanoi Tower A, Intracom Riverside Tower A, Intracom Riverside Tower B, Intracom Riverside Tower C, Phu My Tower 1, Phu My Tower 2, Hanoi Trung Hoa Nhan Chinh, Galaxy Tower, Vicem Tower, Dolphin Plaza Tower 1, Dolphin Plaza Tower 2, 6th Element Residence Tower M2, 6th Element Residence Tower M1, Sky Line, M5 Tower, Indochina Plaza Hanoi Tower B, VNTA Tower, Trang An Home, Dreamland Bonanza, Riverside Garden, HUD3 Tower, BIDV Tower, Rainbow Van Quan Building, Social Housing for Public Security Officers & Shop Houses NO CT1, Star Tower - Valiant Complex, Social Housing for Public Security Officers & Shop Houses NO CT2, Social Housing for Public Security Officers & Shop Houses NO CT3, Social Housing for Public Security Officers & Shop Houses Tower CT4, Packexim 2 Tay Ho Residence, Rainbow Linhdam Building, Rainbow Linh Dam
+Tiers: I: 9, II: 23, III: 5, IV: 4, V: 2
+Rating: 115 (40.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** VietinBank Business Center Office Tower ***
+Height: 363.16
+Floors: 68
+Status: Under Construction
+Started: 2011
+Completed: 2021
+Functions: office
+Rank: 1
+
+*** Keangnam Hanoi Landmark Tower ***
+Height: 328.6
+Floors: 72
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hotel / residential / office
+Rank: 2
+
+*** Lotte Center Hanoi ***
+Height: 272
+Floors: 65
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential / office / hotel
+Rank: 3
+
+*** VietinBank Business Center Hotel Tower ***
+Height: 252
+Floors: 48
+Status: Under Construction
+Started: 2011
+Completed: 2021
+Functions: hotel
+Rank: 4
+
+*** Keangnam Hanoi Residential Tower 1 ***
+Height: 212
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 5
+
+*** Keangnam Hanoi Residential Tower 2 ***
+Height: 212
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 5
+
+*** Diamond Flower Tower ***
+Height: 199
+Floors: 40
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 7
+
+*** Discovery Complex Residential Tower ***
+Height: 195
+Floors: 50
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 8
+
+*** Discovery Complex Office Tower ***
+Height: 195
+Floors: 38
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 9
+
+*** Thang Long Number 1 Tower A ***
+Height: 152
+Floors: 40
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 10
+
+*** Thang Long Number 1 Tower B ***
+Height: 152
+Floors: 40
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 10
+
+*** EVN Headquarters Tower 1 ***
+Height: 147
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office
+Rank: 12
+
+*** Indochina Plaza Hanoi Tower A ***
+Height: 142
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential / retail
+Rank: 13
+
+*** Intracom Riverside Tower A ***
+Height: 140.15
+Floors: 39
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / office / retail
+Rank: 14
+
+*** Intracom Riverside Tower B ***
+Height: 140.15
+Floors: 39
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / residential / retail
+Rank: 14
+
+*** Intracom Riverside Tower C ***
+Height: 140.15
+Floors: 39
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / residential / retail
+Rank: 14
+
+*** Phu My Tower 1 ***
+Height: 137.4
+Floors: 35
+Status: Architecturally Topped Out
+Functions: residential / retail
+Rank: 17
+
+*** Phu My Tower 2 ***
+Height: 137.4
+Floors: 35
+Status: Architecturally Topped Out
+Functions: residential / retail
+Rank: 17
+
+*** Hanoi Trung Hoa Nhan Chinh ***
+Height: 136
+Floors: 34
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 19
+
+*** Galaxy Tower ***
+Height: 135.5
+Floors: 37
+Status: Under Construction
+Functions: residential
+Rank: 20
+
+*** Vicem Tower ***
+Height: 135
+Floors: 35
+Status: Architecturally Topped Out
+Started: 2011
+Functions: office
+Rank: 21
+
+*** Dolphin Plaza Tower 1 ***
+Height: 134.55
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 22
+
+*** Dolphin Plaza Tower 2 ***
+Height: 134.55
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 22
+
+*** 6th Element Residence Tower M2 ***
+Height: 133.05
+Floors: 36
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2018
+Functions: residential / retail
+Rank: 24
+
+*** 6th Element Residence Tower M1 ***
+Height: 132
+Floors: 36
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential / retail
+Rank: 25
+
+*** Sky Line ***
+Height: 131.05
+Floors: 35
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 26
+
+*** M5 Tower ***
+Height: 124.6
+Floors: 34
+Status: Completed
+Completed: 2008
+Rank: 27
+
+*** Indochina Plaza Hanoi Tower B ***
+Height: 123.87
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential / retail
+Rank: 28
+
+*** VNTA Tower ***
+Height: 121.2
+Floors: 27
+Status: Under Construction
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 29
+
+*** Trang An Home ***
+Height: 121.1
+Floors: 32
+Status: Under Construction
+Started: 2018
+Functions: residential / office
+Rank: 30
+
+*** Dreamland Bonanza ***
+Height: 120.05
+Floors: 30
+Status: Under Construction
+Functions: residential / office / retail
+Rank: 31
+
+*** Riverside Garden ***
+Height: 112.5
+Floors: 35
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential / office / retail
+Rank: 32
+
+*** HUD3 Tower ***
+Height: 107
+Floors: 30
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / office
+Rank: 33
+
+*** BIDV Tower ***
+Height: 106
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 34
+
+*** Rainbow Van Quan Building ***
+Height: 98.5
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / office
+Rank: 35
+
+*** Social Housing for Public Security Officers & Shop Houses NO CT1 ***
+Height: 95.6
+Floors: 27
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential / retail
+Rank: 36
+
+*** Star Tower - Valiant Complex ***
+Height: 91.2
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 37
+
+*** Social Housing for Public Security Officers & Shop Houses NO CT2 ***
+Height: 87
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential / retail
+Rank: 38
+
+*** Social Housing for Public Security Officers & Shop Houses NO CT3 ***
+Height: 87
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential / retail
+Rank: 38
+
+*** Social Housing for Public Security Officers & Shop Houses Tower CT4 ***
+Height: 87
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential / retail
+Rank: 38
+
+*** Packexim 2 Tay Ho Residence ***
+Height: 77
+Floors: 21
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 41
+
+*** Rainbow Linhdam Building ***
+Height: 77
+Floors: 21
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential / retail
+Rank: 41
+
+*** Rainbow Linh Dam ***
+Height: 76.35
+Floors: 21
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 43

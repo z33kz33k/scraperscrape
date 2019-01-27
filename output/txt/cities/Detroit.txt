@@ -1,0 +1,439 @@
+*** Detroit (83) ***
+1.  Detroit Marriott at the Renaissance Center, 221m
+2.  One Detroit Center, 189m
+3.  Penobscot Building, 173m
+4.  Renaissance Center 100 Tower, 155m
+5.  Renaissance Center 200 Tower, 155m
+6.  Renaissance Center 300 Tower, 155m
+7.  Renaissance Center 400 Tower, 155m
+8.  Guardian Building, 151m
+9.  Book Tower, 145m
+10. 150 West Jefferson, 139m
+11. Fisher Building, 135m
+12. Cadillac Tower, 133m
+13. David Stott Building, 133m
+14. One Woodward Avenue, 131m
+15. McNamara Federal Building, 120m
+16. DTE Energy Plaza, 114m
+17. Broderick Tower Lofts, 113m
+18. 211 West Fort Street, 112m
+19. Buhl Building, 112m
+20. Westin Book-Cadillac Detroit, 106m
+21. Greektown Casino Hotel, 106m
+22. First National Building, 104m
+23. AT&T Building, 104m
+24. Renaissance Center 500 Tower, 103m
+25. Renaissance Center 600 Tower, 103m
+26. 1001 Woodward, 103m
+27. Renaissance City Club Apartments, 101m
+28. AT&T Annex, 100m
+29. Chrysler House, 99m
+30. Coleman A. Young Municipal Center, 97m
+31. 1300 Lafayette East Coop, 94m
+32. Penobscot Building Addition, 94m
+33. Blue Cross Blue Shield of Michigan Building, 94m
+34. Jeffersonian Apartments , 93m
+35. Riverfront Towers - Tower 200, 93m
+36. Riverfront Towers - Tower 300, 93m
+37. Detroit Executive Plaza, 88m
+38. Ford Building, 84m
+39. David Whitney Building, 83m
+40. Detroit City Apartments, 81m
+41. Water Board Building, 79m
+42. Riverfront Towers - Tower 100, 78m
+43. Washington Boulevard Apartments, 78m
+44. Grand Park Centre, 76m
+
+******************** DETAILS ********************
+
+*** Detroit ***
+Country: United States
+Region: North America
+44 towers: Detroit Marriott at the Renaissance Center, One Detroit Center, Penobscot Building, Renaissance Center 100 Tower, Renaissance Center 200 Tower, Renaissance Center 300 Tower, Renaissance Center 400 Tower, Guardian Building, Book Tower, 150 West Jefferson, Fisher Building, Cadillac Tower, David Stott Building, One Woodward Avenue, McNamara Federal Building, DTE Energy Plaza, Broderick Tower Lofts, 211 West Fort Street, Buhl Building, Westin Book-Cadillac Detroit, Greektown Casino Hotel, First National Building, AT&T Building, Renaissance Center 500 Tower, Renaissance Center 600 Tower, 1001 Woodward, Renaissance City Club Apartments, AT&T Annex, Chrysler House, Coleman A. Young Municipal Center, 1300 Lafayette East Coop, Penobscot Building Addition, Blue Cross Blue Shield of Michigan Building, Jeffersonian Apartments , Riverfront Towers - Tower 200, Riverfront Towers - Tower 300, Detroit Executive Plaza, Ford Building, David Whitney Building, Detroit City Apartments, Water Board Building, Riverfront Towers - Tower 100, Washington Boulevard Apartments, Grand Park Centre
+Tiers: I: 23, II: 13, III: 7, IV: 1
+Rating: 83
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Detroit Marriott at the Renaissance Center ***
+Height: 221.49
+Floors: 70
+Status: Completed
+Started: 1973
+Completed: 1977
+Functions: hotel
+Rank: 1
+
+*** One Detroit Center ***
+Height: 188.67
+Floors: 43
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 2
+
+*** Penobscot Building ***
+Height: 173.26
+Floors: 47
+Status: Completed
+Started: 1927
+Completed: 1928
+Functions: office
+Rank: 3
+
+*** Renaissance Center 100 Tower ***
+Height: 155
+Floors: 39
+Status: Completed
+Started: 1973
+Completed: 1976
+Functions: office
+Rank: 4
+
+*** Renaissance Center 200 Tower ***
+Height: 155
+Floors: 39
+Status: Completed
+Started: 1973
+Completed: 1976
+Functions: office
+Rank: 4
+
+*** Renaissance Center 300 Tower ***
+Height: 155
+Floors: 39
+Status: Completed
+Started: 1973
+Completed: 1976
+Functions: office
+Rank: 4
+
+*** Renaissance Center 400 Tower ***
+Height: 155
+Floors: 39
+Status: Completed
+Started: 1973
+Completed: 1976
+Functions: office
+Rank: 4
+
+*** Guardian Building ***
+Height: 151.03
+Floors: 40
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: office
+Rank: 8
+
+*** Book Tower ***
+Height: 144.78
+Floors: 38
+Status: Completed
+Started: 1916
+Completed: 1926
+Functions: office
+Rank: 9
+
+*** 150 West Jefferson ***
+Height: 138.69
+Floors: 26
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: office
+Rank: 10
+
+*** Fisher Building ***
+Height: 135.47
+Floors: 30
+Status: Completed
+Started: 1927
+Completed: 1928
+Functions: office
+Rank: 11
+
+*** Cadillac Tower ***
+Height: 133.2
+Floors: 40
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 12
+
+*** David Stott Building ***
+Height: 133.08
+Floors: 32
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: office
+Rank: 13
+
+*** One Woodward Avenue ***
+Height: 131.07
+Floors: 28
+Status: Completed
+Started: 1962
+Completed: 1963
+Functions: office
+Rank: 14
+
+*** McNamara Federal Building ***
+Height: 119.79
+Floors: 27
+Status: Completed
+Started: 1975
+Completed: 1976
+Functions: government
+Rank: 15
+
+*** DTE Energy Plaza ***
+Height: 114
+Floors: 25
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 16
+
+*** Broderick Tower Lofts ***
+Height: 112.6
+Floors: 35
+Status: Completed
+Started: 1926
+Completed: 1928
+Functions: office
+Rank: 17
+
+*** 211 West Fort Street ***
+Height: 112.1
+Floors: 27
+Status: Completed
+Started: 1961
+Completed: 1963
+Functions: office
+Rank: 18
+
+*** Buhl Building ***
+Height: 111.6
+Floors: 29
+Status: Completed
+Started: 1924
+Completed: 1925
+Functions: office
+Rank: 19
+
+*** Westin Book-Cadillac Detroit ***
+Height: 106.4
+Floors: 31
+Status: Completed
+Started: 1923
+Completed: 1924
+Functions: hotel
+Rank: 20
+
+*** Greektown Casino Hotel ***
+Height: 106.1
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: hotel
+Rank: 21
+
+*** First National Building ***
+Height: 103.9
+Floors: 26
+Status: Completed
+Started: 1921
+Completed: 1930
+Functions: office
+Rank: 22
+
+*** AT&T Building ***
+Height: 103.63
+Floors: 20
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 23
+
+*** Renaissance Center 500 Tower ***
+Height: 103.38
+Floors: 21
+Status: Completed
+Started: 1979
+Completed: 1981
+Functions: office
+Rank: 24
+
+*** Renaissance Center 600 Tower ***
+Height: 103.38
+Floors: 21
+Status: Completed
+Started: 1979
+Completed: 1981
+Functions: office
+Rank: 24
+
+*** 1001 Woodward ***
+Height: 103
+Floors: 23
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 26
+
+*** Renaissance City Club Apartments ***
+Height: 101.1
+Floors: 33
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 27
+
+*** AT&T Annex ***
+Height: 99.67
+Floors: 17
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 28
+
+*** Chrysler House ***
+Height: 98.6
+Floors: 23
+Status: Completed
+Started: 1910
+Completed: 1913
+Functions: office
+Rank: 29
+
+*** Coleman A. Young Municipal Center ***
+Height: 96.6
+Floors: 19
+Status: Completed
+Started: 1951
+Completed: 1955
+Functions: office
+Rank: 30
+
+*** 1300 Lafayette East Coop ***
+Height: 94.5
+Floors: 30
+Status: Completed
+Completed: 1964
+Functions: residential
+Rank: 31
+
+*** Penobscot Building Addition ***
+Height: 94.49
+Floors: 23
+Status: Completed
+Started: 1915
+Completed: 1916
+Functions: office
+Rank: 32
+
+*** Blue Cross Blue Shield of Michigan Building ***
+Height: 93.58
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 33
+
+*** Jeffersonian Apartments  ***
+Height: 93
+Floors: 30
+Status: Completed
+Completed: 1965
+Functions: residential
+Rank: 34
+
+*** Riverfront Towers - Tower 200 ***
+Height: 92.9
+Floors: 29
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: residential
+Rank: 35
+
+*** Riverfront Towers - Tower 300 ***
+Height: 92.9
+Floors: 29
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: residential
+Rank: 35
+
+*** Detroit Executive Plaza ***
+Height: 88.39
+Floors: 21
+Status: Completed
+Started: 1971
+Completed: 1974
+Functions: abandoned
+Rank: 37
+
+*** Ford Building ***
+Height: 83.82
+Floors: 19
+Status: Completed
+Started: 1907
+Completed: 1908
+Functions: office
+Rank: 38
+
+*** David Whitney Building ***
+Height: 82.9
+Floors: 19
+Status: Completed
+Started: 1915
+Completed: 1916
+Functions: office
+Rank: 39
+
+*** Detroit City Apartments ***
+Height: 80.77
+Floors: 28
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 40
+
+*** Water Board Building ***
+Height: 78.94
+Floors: 23
+Status: Completed
+Started: 1927
+Completed: 1928
+Functions: office
+Rank: 41
+
+*** Riverfront Towers - Tower 100 ***
+Height: 78.4
+Floors: 26
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 42
+
+*** Washington Boulevard Apartments ***
+Height: 77.72
+Floors: 21
+Status: Completed
+Started: 1922
+Completed: 1923
+Functions: residential
+Rank: 43
+
+*** Grand Park Centre ***
+Height: 76.2
+Floors: 19
+Status: Completed
+Completed: 1921
+Functions: residential
+Rank: 44

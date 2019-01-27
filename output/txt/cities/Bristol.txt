@@ -1,0 +1,20 @@
+*** Bristol (1) ***
+1. Castlemead, 80m
+
+******************** DETAILS ********************
+
+*** Bristol ***
+Country: United Kingdom
+Region: Europe
+1 tower: Castlemead
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Castlemead ***
+Height: 79.8
+Floors: 19
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 1

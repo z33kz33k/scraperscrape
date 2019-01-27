@@ -1,0 +1,19 @@
+*** Hohhot (4) ***
+1. Inner Mongolia Power College, 153m
+
+******************** DETAILS ********************
+
+*** Hohhot ***
+Country: China
+Region: Asia
+1 tower: Inner Mongolia Power College
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Inner Mongolia Power College ***
+Height: 153
+Floors: 34
+Status: Completed
+Functions: education
+Rank: 1

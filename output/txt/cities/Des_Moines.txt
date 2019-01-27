@@ -1,0 +1,89 @@
+*** Des Moines (13) ***
+1. 801 Grand, 192m
+2. Ruan Center, 140m
+3. Des Moines Marriott, 111m
+4. Financial Center, 105m
+5. The Plaza, 104m
+6. HUB Tower, 99m
+7. EMC Insurance Building, 99m
+8. Equitable Building, 97m
+
+******************** DETAILS ********************
+
+*** Des Moines ***
+Country: United States
+Region: North America
+8 towers: 801 Grand, Ruan Center, Des Moines Marriott, Financial Center, The Plaza, HUB Tower, EMC Insurance Building, Equitable Building
+Tiers: I: 5, II: 2, III: 1
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 801 Grand ***
+Height: 192.03
+Floors: 44
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 1
+
+*** Ruan Center ***
+Height: 140.11
+Floors: 36
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: office
+Rank: 2
+
+*** Des Moines Marriott ***
+Height: 111.3
+Floors: 33
+Status: Completed
+Completed: 1981
+Functions: hotel
+Rank: 3
+
+*** Financial Center ***
+Height: 105.2
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 4
+
+*** The Plaza ***
+Height: 103.6
+Floors: 27
+Status: Completed
+Started: 1984
+Completed: 1985
+Functions: residential
+Rank: 5
+
+*** HUB Tower ***
+Height: 99.1
+Floors: 21
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: office / retail
+Rank: 6
+
+*** EMC Insurance Building ***
+Height: 99.1
+Floors: 19
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office
+Rank: 7
+
+*** Equitable Building ***
+Height: 96.93
+Floors: 19
+Status: Completed
+Started: 1923
+Completed: 1924
+Functions: office
+Rank: 8

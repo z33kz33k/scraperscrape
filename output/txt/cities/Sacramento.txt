@@ -1,0 +1,113 @@
+*** Sacramento (20) ***
+1.  Wells Fargo Center, 129m
+2.  US Bank Tower, 123m
+3.  Bank of the West Tower, 121m
+4.  Park Tower, 116m
+5.  Renaissance Tower, 113m
+6.  Joe Serna Junior California EPA Building, 113m
+7.  Esquire Plaza, 108m
+8.  Capitol Square, 107m
+9.  Robert T. Matsui Federal Courthouse, 107m
+10. 1325 J Street, 81m
+11. 300 Capitol Mall, 81m
+
+******************** DETAILS ********************
+
+*** Sacramento ***
+Country: United States
+Region: North America
+11 towers: Wells Fargo Center, US Bank Tower, Bank of the West Tower, Park Tower, Renaissance Tower, Joe Serna Junior California EPA Building, Esquire Plaza, Capitol Square, Robert T. Matsui Federal Courthouse, 1325 J Street, 300 Capitol Mall
+Tiers: I: 2, II: 9
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wells Fargo Center ***
+Height: 128.93
+Floors: 30
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 1
+
+*** US Bank Tower ***
+Height: 122.6
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 2
+
+*** Bank of the West Tower ***
+Height: 120.7
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 3
+
+*** Park Tower ***
+Height: 115.82
+Floors: 26
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 4
+
+*** Renaissance Tower ***
+Height: 113.39
+Floors: 28
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 5
+
+*** Joe Serna Junior California EPA Building ***
+Height: 113.39
+Floors: 25
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 6
+
+*** Esquire Plaza ***
+Height: 108.2
+Floors: 22
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 7
+
+*** Capitol Square ***
+Height: 106.98
+Floors: 25
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 8
+
+*** Robert T. Matsui Federal Courthouse ***
+Height: 106.68
+Floors: 16
+Status: Completed
+Completed: 1992
+Functions: office / government
+Rank: 9
+
+*** 1325 J Street ***
+Height: 80.77
+Floors: 19
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 10
+
+*** 300 Capitol Mall ***
+Height: 80.77
+Floors: 18
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 11

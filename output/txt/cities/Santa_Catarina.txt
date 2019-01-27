@@ -1,0 +1,21 @@
+*** Santa Catarina (2) ***
+1. Lovft, 132m
+
+******************** DETAILS ********************
+
+*** Santa Catarina ***
+Country: Mexico
+Region: North America
+1 tower: Lovft
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Lovft ***
+Height: 131.6
+Floors: 32
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 1

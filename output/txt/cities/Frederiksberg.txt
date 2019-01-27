@@ -1,0 +1,20 @@
+*** Frederiksberg (1) ***
+1. Domus Vista, 102m
+
+******************** DETAILS ********************
+
+*** Frederiksberg ***
+Country: Denmark
+Region: Europe
+1 tower: Domus Vista
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Domus Vista ***
+Height: 101.95
+Floors: 30
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 1

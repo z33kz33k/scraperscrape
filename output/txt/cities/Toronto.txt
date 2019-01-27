@@ -1,0 +1,4311 @@
+*** Toronto (934) ***
+1.   The One, 306m
+2.   First Canadian Place, 298m
+3.   The St. Regis Toronto, 277m
+4.   Scotia Tower, 275m
+5.   Aura at College Park, 272m
+6.   Brookfield Place, 261m
+7.   One Bloor Street East, 257m
+8.   Commerce Court West, 239m
+9.   CIBC Square I, 238m
+10.  Harbour Plaza Residences East, 237m
+11.  ÏCE Condominiums at York Centre 2, 234m
+12.  Sugar Wharf Tower D, 230m
+13.  Harbour Plaza Residences West, 228m
+14.  Eau Du Soleil Sky Tower, 228m
+15.  Ten York, 224m
+16.  TD Tower, 223m
+17.  Sugar Wharf Tower E, 218m
+18.  The Prestige at Pinnacle One Yonge, 216m
+19.  Bay-Adelaide Centre, 215m
+20.  Shangri-La Hotel Toronto, 214m
+21.  Ritz-Carlton Hotel & Residences, 210m
+22.  Massey Tower, 208m
+23.  The Residences of 488 University Avenue, 207m
+24.  Bay-Wellington Tower, 207m
+25.  L Tower, 205m
+26.  Four Seasons Private Residences West Tower, 204m
+27.  ÏCE Condominiums at York Centre 1, 202m
+28.  YC Condominiums, 202m
+29.  88 Scott, 198m
+30.  Bay Adelaide Centre East Tower, 196m
+31.  E Condos South, 196m
+32.  Wellesley on the Park, 194m
+33.  22|21 Yonge, 192m
+34.  EY Tower, 188m
+35.  19 Duncan Street, 186m
+36.  RBC Centre, 185m
+37.  CASA II, 184m
+38.  U Condominiums - East Tower, 184m
+39.  1 Yorkville, 183m
+40.  TD North Tower, 183m
+41.  Maple Leaf Square North Tower, 181m
+42.  Eau Du Soleil Water Tower, 181m
+43.  CASA III, 180m
+44.  Rosedale on Bloor, 179m
+45.  INDX Condominiums , 178m
+46.  Vita on the Lake, 177m
+47.  1 King West, 176m
+48.  The Well Office Tower, 174m
+49.  One York Street, 174m
+50.  Success Tower 2, 173m
+51.  Royal Bank Plaza South, 173m
+52.  Maple Leaf Square South Tower, 171m
+53.  The Selby Condos, 171m
+54.  Teahouse Condominiums South, 170m
+55.  Hullmark Centre I, 170m
+56.  Lago, 168m
+57.  44 Charles Street West, 166m
+58.  Karma, 166m
+59.  Quantum 2, 165m
+60.  Theatre Park, 165m
+61.  Residences of College Park I, 163m
+62.  Burano, 163m
+63.  Success Tower 1, 162m
+64.  X2, 161m
+65.  FIVE, 161m
+66.  The Uptown Residences, 158m
+67.  Three Hundred, 158m
+68.  Lighthouse Tower Condominium, 158m
+69.  Grid Condos, 157m
+70.  16 York, 157m
+71.  Southcore Financial Centre Delta Hotel, 157m
+72.  Festival Tower, 157m
+73.  Dundas Square Gardens, 156m
+74.  The PJ Condos, 156m
+75.  King Blue by Greenland North Tower, 156m
+76.  87 Peter, 154m
+77.  U Condominiums - West Tower, 154m
+78.  Yonge + Rich, 154m
+79.  TD South Tower, 154m
+80.  The Well Residential One, 153m
+81.  Westlake Village 1, 153m
+82.  35 Mariner, 153m
+83.  Montage, 153m
+84.  Beyond the Sea Star Tower, 152m
+85.  Chaz Yorkville Condos, 151m
+86.  The 250, 151m
+87.  Monde, 150m
+88.  Two Bloor West, 149m
+89.  X Condominium, 149m
+90.  West One, 148m
+91.  Simcoe Place, 148m
+92.  Via Bloor East Tower, 148m
+93.  The Clover on Yonge, 148m
+94.  CASA, 148m
+95.  Residences of College Park II, 147m
+96.  Bisha Hotel & Residences, 147m
+97.  Westlake Encore, 146m
+98.  Pace Condominiums, 146m
+99.  Exchange Tower, 146m
+100. Residences at RCMI, 145m
+101. Islington Terrace, 145m
+102. Commerce Court North, 145m
+103. The Pinnacle on Adelaide, 144m
+104. Simpson Tower, 144m
+105. Spire, 143m
+106. Cinema Tower Condominiums, 143m
+107. Cadillac Fairview Tower, 142m
+108. Emerald Park East, 142m
+109. Murano South Tower, 141m
+110. King Blue by Greenland South Tower, 140m
+111. RBC WaterPark Place, 140m
+112. Pantages Tower, 140m
+113. The Britt, 139m
+114. The Livmore, 139m
+115. Stanley, 138m
+116. Bloor Promenade, 138m
+117. Palace Pier, 138m
+118. Palace Place, 138m
+119. Via Bloor West Tower, 138m
+120. Gibson Square North, 138m
+121. Gibson Square South, 137m
+122. Alto at Atria, 137m
+123. Couture, 137m
+124. Oxford Tower, 137m
+125. Clear Spirit Condominiums, 136m
+126. Key West, 136m
+127. Southcore Bremner Tower, 136m
+128. The Well Residential Two, 135m
+129. Sheraton Centre Hotel, 135m
+130. Two Bloor East, 134m
+131. Royal York Hotel, 134m
+132. Ernst & Young Tower, 133m
+133. N1/N2, 133m
+134. 150 Redpath, 132m
+135. Concord Cityplace Parade Tower S, 132m
+136. The Met, 132m
+137. Ocean Club Condominiums, 131m
+138. Studio2 on Richmond, 131m
+139. Encore at Equinox, 131m
+140. Empire Tower, 130m
+141. Peter Street Condominiums, 130m
+142. Crystal Blu, 129m
+143. Leaside Towers East, 129m
+144. Leaside Towers West, 129m
+145. Dynamic Funds Tower, 129m
+146. Picasso on Richmond, 128m
+147. 561 Sherbourne, 128m
+148. TD West Tower, 128m
+149. Metro Hall, 128m
+150. 18 Yonge Condominiums, 127m
+151. Solaris East at Metrogate, 127m
+152. Solaris West at Metrogate, 127m
+153. Westin Harbour Castle South, 127m
+154. Quartz, 127m
+155. Marriott Hotel/Plaza Two Apartments, 126m
+156. Verve, 126m
+157. Emerald City I, 126m
+158. Quantum, 126m
+159. Telus House, 126m
+160. Luna Vista, 125m
+161. Sun Life Financial Centre East Tower, 125m
+162. Cumberland at Yorkville Plaza, 125m
+163. Beacon Condos, 125m
+164. TCHC, 124m
+165. Yonge-Eglinton Centre I, 124m
+166. Hullmark Centre II, 124m
+167. Pinnacle Centre Tower A, 124m
+168. M5V, 124m
+169. Charlie Condos, 123m
+170. E Condos North, 123m
+171. 10 Navy Wharf Court, 122m
+172. Tableau Condominiums, 122m
+173. The Bond, 122m
+174. Nautilus, 122m
+175. Velocity at the Square, 122m
+176. 411 Church, 122m
+177. Park Nuvo, 122m
+178. The Gooderham, 122m
+179. 777 Bay Street, 121m
+180. The Madison West, 121m
+181. 155 Redpath, 120m
+182. 55 & 65 Harbour Square, 120m
+183. Equinox West, 120m
+184. Munich Re Centre, 120m
+185. Neptune South, 120m
+186. Spectra, 119m
+187. The Milan Condominium, 119m
+188. Alter, 118m
+189. Ultra at Heron`s Hill, 118m
+190. Waterclub East Tower, 118m
+191. Waterclub South Tower, 118m
+192. Backstage On The Esplanade, 118m
+193. 33 Harbour Square, 118m
+194. The Pinnacle, 118m
+195. Nestle Building, 118m
+196. LCBO Tower at Sugar Wharf, 118m
+197. The Peter Gilgan Centre for Research and Learning, 118m
+198. Number One York Quay South, 118m
+199. PwC Tower, 118m
+200. 18 Yorkville, 117m
+201. Nicholas Residences, 117m
+202. Equinox East, 117m
+203. 5 Mariner Terrace, 117m
+204. Apex West, 117m
+205. Royal Pinnacle, 117m
+206. Concord Cityplace Parade Tower V, 116m
+207. City Lights on Broadway I, 116m
+208. City Lights on Broadway II, 116m
+209. 1001 Bay, 115m
+210. Bank of Nova Scotia, 115m
+211. Number One York Quay North, 115m
+212. King Charlotte Condos, 115m
+213. Waterparkcity, 114m
+214. Bloorvista, 114m
+215. The 500 Sherbourne, 114m
+216. The Chrysler East Tower, 114m
+217. The Chrysler West Tower, 114m
+218. The Mercer, 113m
+219. Residences of the World Trade Centre North East Tower, 113m
+220. Murano North Tower, 113m
+221. MaRS Discovery Centre West, 113m
+222. Zurich Centre, 112m
+223. Emerald Park West, 112m
+224. One Queen Street East, 112m
+225. Ryerson Church Street Development, 112m
+226. Royal Bank Plaza North, 112m
+227. Jade Waterfront Condos, 112m
+228. Lumiere Condos, 111m
+229. One Valhalla - Thunderbird, 111m
+230. Minto 30 Roe, 111m
+231. Platinum XO, 111m
+232. The Platinum Tower, 111m
+233. Ultima, 111m
+234. Westin Harbour Castle North, 111m
+235. Marina del Rey Phase 3, 111m
+236. The Madison East, 111m
+237. 1 Dundas, 111m
+238. Market Wharf, 111m
+239. WaterPark Place North, 111m
+240. Boutique Condominium East, 110m
+241. York Centre, 110m
+242. Concorde Park North, 110m
+243. Concorde Park South, 110m
+244. Accolade, 110m
+245. Windermere NXT II, 110m
+246. Ellipse East, 110m
+247. Ellipse West, 110m
+248. Four Seasons Private Residences East Tower, 110m
+249. Sun Life Financial Centre West Tower, 110m
+250. Invesco Tower, 110m
+251. Standard Life Centre, 110m
+252. eq1 at Equinox, 110m
+253. One Bedford, 109m
+254. James Cooper Mansion, 109m
+255. Heathview Apartments North, 109m
+256. Heathview Apartments South, 109m
+257. 3 Massey Square, 108m
+258. Beyond the Sea South Tower, 108m
+259. Infinity East, 108m
+260. Infinity3, 108m
+261. Novotel DowntownToronto, 108m
+262. 8 Park Road, 108m
+263. California Condominiums, 108m
+264. West Village Building A, 108m
+265. 10 Bellair, 108m
+266. West Harbour City West, 107m
+267. Minto 88 Condos, 107m
+268. The Yorkville Condominiums, 106m
+269. One St. Thomas Residences, 106m
+270. 101 Erskine, 106m
+271. Mowat Block, 106m
+272. 50 Cordova Avenue, 106m
+273. Madison Centre, 106m
+274. Bloor Street Neighborhood Condos, 106m
+275. 2 Queen Street East, 106m
+276. The Dundas Edward Centre, 106m
+277. 360° at the City Centre, 105m
+278. Malibu at Harbourfront, 105m
+279. One Sherway Tower 2, 105m
+280. Skymark Center at Avondale - East Tower, 105m
+281. Waterscapes, 105m
+282. 1 Thousand Bay Street, 104m
+283. 500 Duplex Avenue, 104m
+284. The Yorkland at Heron`s Hill, 104m
+285. 120 Adelaide Street West, 104m
+286. Optima, 103m
+287. Encore at the Met, 103m
+288. Liberty Place, 102m
+289. 55 Bay Street, 102m
+290. London on the Esplanade, 102m
+291. Pure Spirit Condominiums, 102m
+292. Conservatory Tower, 102m
+293. Toronto Star Building, 101m
+294. 24 Mabelle Avenue, 101m
+295. Ventus North at Metrogate, 101m
+296. Ventus South at Metrogate, 101m
+297. Radio City South, 101m
+298. Rogers-AT&T Centre, 101m
+299. University Centre, 100m
+300. Yonge-Eglinton Centre II, 100m
+301. Exhibit Residences, 100m
+302. The New Residences of Yorkville Plaza, 100m
+303. River City 3, 100m
+304. City Hall East Tower, 100m
+305. Tango, 99m
+306. Emerald City II, 99m
+307. Hilton Hotel, 99m
+308. Harbour Point, 99m
+309. Harbour Point 2, 99m
+310. Minto Plaza 1, 98m
+311. West Village Building B, 98m
+312. The Residences at the Consilium West, 98m
+313. 10 San Romanoway, 98m
+314. Nuvo 1, 98m
+315. Nuvo 2, 98m
+316. Princess Margaret Hospital, 98m
+317. Ryerson: Jarvis Street Residence, 98m
+318. Imperial Plaza, 98m
+319. 21 Hillcrest Avenue, 97m
+320. 3 Navy Wharf Court, 97m
+321. 95 Wellington, 97m
+322. Studio on Richmond, 97m
+323. eq2 at Equinox, 96m
+324. 40 Gerrard East, 96m
+325. The Residences at the Consilium East, 95m
+326. Highgate North, 95m
+327. Thomson Building, 95m
+328. Matrix 1, 95m
+329. One Sherway Tower 3, 94m
+330. George Drew Building, 94m
+331. Motion on Bay, 93m
+332. Centro North, 93m
+333. Centro South, 93m
+334. Century Plaza, 93m
+335. Skymark Center at Avondale - West Tower, 93m
+336. South Beach Condos + Lofts, East Tower, 93m
+337. South Beach Condos + Lofts, West Tower, 93m
+338. Treviso II Condos, 93m
+339. Discovery Building B, 93m
+340. Empire Plaza, 93m
+341. Clarica Centre 1, 93m
+342. Panorama, 93m
+343. The Republic Condominiums South, 92m
+344. Pinnacle Centre Tower B, 92m
+345. Waterclub West Tower, 92m
+346. The Penrose, 92m
+347. St. Lawrence at 158 Front, 91m
+348. Mansions of Humberwood East, 91m
+349. Mansions of Humberwood West, 91m
+350. Foresters, 91m
+351. 5 Massey Square, 90m
+352. The Crossways A, 90m
+353. The Crossways B, 90m
+354. Apex East, 90m
+355. Windermere NXT, 90m
+356. Voyager 1, 90m
+357. Transamerica Tower, 90m
+358. 545 Sherbourne, 90m
+359. 555 Sherbourne, 90m
+360. 1101 Bay Street, 89m
+361. 155 Cumberland Avenue, 89m
+362. Carlton Court Apartments, 88m
+363. LuCliff Place, 88m
+364. Dream Tower, 88m
+365. The Republic Condominiums North, 88m
+366. 1 Massey Square, 87m
+367. Discovery Building A, 87m
+368. iLoft, 87m
+369. Blue Diamond Condos at Imperial Plaza, 87m
+370. Spectrum South, 87m
+371. The Waldorf East Tower, 87m
+372. The Waldorf West Tower, 87m
+373. Canada Life Building, 87m
+374. One Valhalla - Triumph, 86m
+375. Barclay Terrace 2, 86m
+376. Jazz, 86m
+377. Windermere by the Lake Tower, 86m
+378. Renaissance Plaza, 86m
+379. Mount Sinai Hospital, 86m
+380. 565 Sherbourne, 86m
+381. Atlantis, 86m
+382. 7 Crescent Place, 85m
+383. 9 Crescent Place, 85m
+384. One Sherway Tower 1, 85m
+385. The Residences at King's Gate, 85m
+386. WaterPark Place South, 84m
+387. The Prince Arthur, 84m
+388. Core Condos, 84m
+389. The Residence of Avondale, South Tower, 84m
+390. DoubleTree by Hilton Hotel Toronto Downtown , 84m
+391. The Prince Arthur Condominiums, 84m
+392. Cypress at Pinnacle Etobicoke, 84m
+393. Regent Park Sackville Dundas Residences, 84m
+394. Smart House, 84m
+395. Matrix 2, 83m
+396. The Globe and Mail Centre, 83m
+397. ME Living Condos Tower 1, 83m
+398. ME Living Condos Tower 2, 83m
+399. Sheppard Centre I, 83m
+400. Sheppard Centre II, 83m
+401. Sheppard Centre III, 83m
+402. Broadway East, 83m
+403. Fly Condos, 82m
+404. West Harbour City East, 82m
+405. The Riviera East, 82m
+406. The Riviera West, 82m
+407. Residences of Madison Centre, 81m
+408. Country Club Towers I, 81m
+409. Country Club Towers II, 81m
+410. The Residence of Avondale, North Tower, 81m
+411. Residences of the World Trade Centre South West Tower, 81m
+412. Radio City North, 81m
+413. May Tower II, 81m
+414. Eaton Chelsea, 81m
+415. The Well Residential Three, 80m
+416. Emmett House, 80m
+417. University Place, 80m
+418. Ontario Power Building, 80m
+419. The Florian, 80m
+420. Plaza 100, 80m
+421. Horizon on Bay, 80m
+422. City Hall West Tower, 80m
+423. Neon Condos, 79m
+424. The Indigo, 78m
+425. The Essex West, 78m
+426. Broadway West, 77m
+427. Prelude, 77m
+428. Park Towers East, Phase 2 at IQ, 77m
+429. Park Towers West, Phase 2 at IQ, 77m
+430. The Torontonian, 77m
+431. Beaconhill Tower, 77m
+432. Old Mill Towers, 77m
+433. Avonshire East, 77m
+434. Avonshire West, 77m
+435. The Rosewood North, 76m
+436. Quay West at Tip Top, 76m
+437. Humberwood Place, 76m
+438. King Edward Hotel, 76m
+439. Rise, 75m
+440. Barclay Terrace 1, 75m
+441. Cosmo 2, 75m
+442. Treviso I Condos, 75m
+443. Axiom West Tower, 75m
+
+******************** DETAILS ********************
+
+*** Toronto ***
+Country: Canada
+Region: North America
+443 towers: The One, First Canadian Place, The St. Regis Toronto, Scotia Tower, Aura at College Park, Brookfield Place, One Bloor Street East, Commerce Court West, CIBC Square I, Harbour Plaza Residences East, ÏCE Condominiums at York Centre 2, Sugar Wharf Tower D, Harbour Plaza Residences West, Eau Du Soleil Sky Tower, Ten York, TD Tower, Sugar Wharf Tower E, The Prestige at Pinnacle One Yonge, Bay-Adelaide Centre, Shangri-La Hotel Toronto, Ritz-Carlton Hotel & Residences, Massey Tower, The Residences of 488 University Avenue, Bay-Wellington Tower, L Tower, Four Seasons Private Residences West Tower, ÏCE Condominiums at York Centre 1, YC Condominiums, 88 Scott, Bay Adelaide Centre East Tower, E Condos South, Wellesley on the Park, 22|21 Yonge, EY Tower, 19 Duncan Street, RBC Centre, CASA II, U Condominiums - East Tower, 1 Yorkville, TD North Tower, Maple Leaf Square North Tower, Eau Du Soleil Water Tower, CASA III, Rosedale on Bloor, INDX Condominiums , Vita on the Lake, 1 King West, The Well Office Tower, One York Street, Success Tower 2, Royal Bank Plaza South, Maple Leaf Square South Tower, The Selby Condos, Teahouse Condominiums South, Hullmark Centre I, Lago, 44 Charles Street West, Karma, Quantum 2, Theatre Park, Residences of College Park I, Burano, Success Tower 1, X2, FIVE, The Uptown Residences, Three Hundred, Lighthouse Tower Condominium, Grid Condos, 16 York, Southcore Financial Centre Delta Hotel, Festival Tower, Dundas Square Gardens, The PJ Condos, King Blue by Greenland North Tower, 87 Peter, U Condominiums - West Tower, Yonge + Rich, TD South Tower, The Well Residential One, Westlake Village 1, 35 Mariner, Montage, Beyond the Sea Star Tower, Chaz Yorkville Condos, The 250, Monde, Two Bloor West, X Condominium, West One, Simcoe Place, Via Bloor East Tower, The Clover on Yonge, CASA, Residences of College Park II, Bisha Hotel & Residences, Westlake Encore, Pace Condominiums, Exchange Tower, Residences at RCMI, Islington Terrace, Commerce Court North, The Pinnacle on Adelaide, Simpson Tower, Spire, Cinema Tower Condominiums, Cadillac Fairview Tower, Emerald Park East, Murano South Tower, King Blue by Greenland South Tower, RBC WaterPark Place, Pantages Tower, The Britt, The Livmore, Stanley, Bloor Promenade, Palace Pier, Palace Place, Via Bloor West Tower, Gibson Square North, Gibson Square South, Alto at Atria, Couture, Oxford Tower, Clear Spirit Condominiums, Key West, Southcore Bremner Tower, The Well Residential Two, Sheraton Centre Hotel, Two Bloor East, Royal York Hotel, Ernst & Young Tower, N1/N2, 150 Redpath, Concord Cityplace Parade Tower S, The Met, Ocean Club Condominiums, Studio2 on Richmond, Encore at Equinox, Empire Tower, Peter Street Condominiums, Crystal Blu, Leaside Towers East, Leaside Towers West, Dynamic Funds Tower, Picasso on Richmond, 561 Sherbourne, TD West Tower, Metro Hall, 18 Yonge Condominiums, Solaris East at Metrogate, Solaris West at Metrogate, Westin Harbour Castle South, Quartz, Marriott Hotel/Plaza Two Apartments, Verve, Emerald City I, Quantum, Telus House, Luna Vista, Sun Life Financial Centre East Tower, Cumberland at Yorkville Plaza, Beacon Condos, TCHC, Yonge-Eglinton Centre I, Hullmark Centre II, Pinnacle Centre Tower A, M5V, Charlie Condos, E Condos North, 10 Navy Wharf Court, Tableau Condominiums, The Bond, Nautilus, Velocity at the Square, 411 Church, Park Nuvo, The Gooderham, 777 Bay Street, The Madison West, 155 Redpath, 55 & 65 Harbour Square, Equinox West, Munich Re Centre, Neptune South, Spectra, The Milan Condominium, Alter, Ultra at Heron`s Hill, Waterclub East Tower, Waterclub South Tower, Backstage On The Esplanade, 33 Harbour Square, The Pinnacle, Nestle Building, LCBO Tower at Sugar Wharf, The Peter Gilgan Centre for Research and Learning, Number One York Quay South, PwC Tower, 18 Yorkville, Nicholas Residences, Equinox East, 5 Mariner Terrace, Apex West, Royal Pinnacle, Concord Cityplace Parade Tower V, City Lights on Broadway I, City Lights on Broadway II, 1001 Bay, Bank of Nova Scotia, Number One York Quay North, King Charlotte Condos, Waterparkcity, Bloorvista, The 500 Sherbourne, The Chrysler East Tower, The Chrysler West Tower, The Mercer, Residences of the World Trade Centre North East Tower, Murano North Tower, MaRS Discovery Centre West, Zurich Centre, Emerald Park West, One Queen Street East, Ryerson Church Street Development, Royal Bank Plaza North, Jade Waterfront Condos, Lumiere Condos, One Valhalla - Thunderbird, Minto 30 Roe, Platinum XO, The Platinum Tower, Ultima, Westin Harbour Castle North, Marina del Rey Phase 3, The Madison East, 1 Dundas, Market Wharf, WaterPark Place North, Boutique Condominium East, York Centre, Concorde Park North, Concorde Park South, Accolade, Windermere NXT II, Ellipse East, Ellipse West, Four Seasons Private Residences East Tower, Sun Life Financial Centre West Tower, Invesco Tower, Standard Life Centre, eq1 at Equinox, One Bedford, James Cooper Mansion, Heathview Apartments North, Heathview Apartments South, 3 Massey Square, Beyond the Sea South Tower, Infinity East, Infinity3, Novotel DowntownToronto, 8 Park Road, California Condominiums, West Village Building A, 10 Bellair, West Harbour City West, Minto 88 Condos, The Yorkville Condominiums, One St. Thomas Residences, 101 Erskine, Mowat Block, 50 Cordova Avenue, Madison Centre, Bloor Street Neighborhood Condos, 2 Queen Street East, The Dundas Edward Centre, 360° at the City Centre, Malibu at Harbourfront, One Sherway Tower 2, Skymark Center at Avondale - East Tower, Waterscapes, 1 Thousand Bay Street, 500 Duplex Avenue, The Yorkland at Heron`s Hill, 120 Adelaide Street West, Optima, Encore at the Met, Liberty Place, 55 Bay Street, London on the Esplanade, Pure Spirit Condominiums, Conservatory Tower, Toronto Star Building, 24 Mabelle Avenue, Ventus North at Metrogate, Ventus South at Metrogate, Radio City South, Rogers-AT&T Centre, University Centre, Yonge-Eglinton Centre II, Exhibit Residences, The New Residences of Yorkville Plaza, River City 3, City Hall East Tower, Tango, Emerald City II, Hilton Hotel, Harbour Point, Harbour Point 2, Minto Plaza 1, West Village Building B, The Residences at the Consilium West, 10 San Romanoway, Nuvo 1, Nuvo 2, Princess Margaret Hospital, Ryerson: Jarvis Street Residence, Imperial Plaza, 21 Hillcrest Avenue, 3 Navy Wharf Court, 95 Wellington, Studio on Richmond, eq2 at Equinox, 40 Gerrard East, The Residences at the Consilium East, Highgate North, Thomson Building, Matrix 1, One Sherway Tower 3, George Drew Building, Motion on Bay, Centro North, Centro South, Century Plaza, Skymark Center at Avondale - West Tower, South Beach Condos + Lofts, East Tower, South Beach Condos + Lofts, West Tower, Treviso II Condos, Discovery Building B, Empire Plaza, Clarica Centre 1, Panorama, The Republic Condominiums South, Pinnacle Centre Tower B, Waterclub West Tower, The Penrose, St. Lawrence at 158 Front, Mansions of Humberwood East, Mansions of Humberwood West, Foresters, 5 Massey Square, The Crossways A, The Crossways B, Apex East, Windermere NXT, Voyager 1, Transamerica Tower, 545 Sherbourne, 555 Sherbourne, 1101 Bay Street, 155 Cumberland Avenue, Carlton Court Apartments, LuCliff Place, Dream Tower, The Republic Condominiums North, 1 Massey Square, Discovery Building A, iLoft, Blue Diamond Condos at Imperial Plaza, Spectrum South, The Waldorf East Tower, The Waldorf West Tower, Canada Life Building, One Valhalla - Triumph, Barclay Terrace 2, Jazz, Windermere by the Lake Tower, Renaissance Plaza, Mount Sinai Hospital, 565 Sherbourne, Atlantis, 7 Crescent Place, 9 Crescent Place, One Sherway Tower 1, The Residences at King's Gate, WaterPark Place South, The Prince Arthur, Core Condos, The Residence of Avondale, South Tower, DoubleTree by Hilton Hotel Toronto Downtown , The Prince Arthur Condominiums, Cypress at Pinnacle Etobicoke, Regent Park Sackville Dundas Residences, Smart House, Matrix 2, The Globe and Mail Centre, ME Living Condos Tower 1, ME Living Condos Tower 2, Sheppard Centre I, Sheppard Centre II, Sheppard Centre III, Broadway East, Fly Condos, West Harbour City East, The Riviera East, The Riviera West, Residences of Madison Centre, Country Club Towers I, Country Club Towers II, The Residence of Avondale, North Tower, Residences of the World Trade Centre South West Tower, Radio City North, May Tower II, Eaton Chelsea, The Well Residential Three, Emmett House, University Place, Ontario Power Building, The Florian, Plaza 100, Horizon on Bay, City Hall West Tower, Neon Condos, The Indigo, The Essex West, Broadway West, Prelude, Park Towers East, Phase 2 at IQ, Park Towers West, Phase 2 at IQ, The Torontonian, Beaconhill Tower, Old Mill Towers, Avonshire East, Avonshire West, The Rosewood North, Quay West at Tip Top, Humberwood Place, King Edward Hotel, Rise, Barclay Terrace 1, Cosmo 2, Treviso I Condos, Axiom West Tower
+Tiers: I: 170, II: 186, III: 67, IV: 18, V: 2
+Rating: 934 (18.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The One ***
+Height: 306.3
+Floors: 83
+Status: Under Construction
+Started: 2017
+Completed: 2022
+Functions: residential / retail
+Rank: 1
+
+*** First Canadian Place ***
+Height: 298.1
+Floors: 72
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: office
+Rank: 2
+
+*** The St. Regis Toronto ***
+Height: 276.88
+Floors: 63
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential / hotel
+Rank: 3
+
+*** Scotia Tower ***
+Height: 275
+Floors: 68
+Status: Completed
+Started: 1985
+Completed: 1988
+Functions: office
+Rank: 4
+
+*** Aura at College Park ***
+Height: 271.93
+Floors: 78
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 5
+
+*** Brookfield Place ***
+Height: 260.91
+Floors: 53
+Status: Completed
+Started: 1987
+Completed: 1990
+Functions: office
+Rank: 6
+
+*** One Bloor Street East ***
+Height: 257.3
+Floors: 75
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Commerce Court West ***
+Height: 239
+Floors: 57
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 8
+
+*** CIBC Square I ***
+Height: 237.8
+Floors: 49
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 9
+
+*** Harbour Plaza Residences East ***
+Height: 237
+Floors: 71
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 10
+
+*** ÏCE Condominiums at York Centre 2 ***
+Height: 234.15
+Floors: 67
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 11
+
+*** Sugar Wharf Tower D ***
+Height: 230.2
+Floors: 70
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential
+Rank: 12
+
+*** Harbour Plaza Residences West ***
+Height: 228.3
+Floors: 67
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Eau Du Soleil Sky Tower ***
+Height: 228.2
+Floors: 66
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 14
+
+*** Ten York ***
+Height: 224
+Floors: 65
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 15
+
+*** TD Tower ***
+Height: 222.81
+Floors: 56
+Status: Completed
+Started: 1964
+Completed: 1967
+Functions: office
+Rank: 16
+
+*** Sugar Wharf Tower E ***
+Height: 218.4
+Floors: 64
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential
+Rank: 17
+
+*** The Prestige at Pinnacle One Yonge ***
+Height: 216.2
+Floors: 65
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential
+Rank: 18
+
+*** Bay-Adelaide Centre ***
+Height: 214.71
+Floors: 52
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 19
+
+*** Shangri-La Hotel Toronto ***
+Height: 214
+Floors: 65
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential / hotel
+Rank: 20
+
+*** Ritz-Carlton Hotel & Residences ***
+Height: 209.51
+Floors: 54
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / hotel
+Rank: 21
+
+*** Massey Tower ***
+Height: 208.3
+Floors: 60
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential / retail
+Rank: 22
+
+*** The Residences of 488 University Avenue ***
+Height: 206.96
+Floors: 55
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential / office
+Rank: 23
+
+*** Bay-Wellington Tower ***
+Height: 206.96
+Floors: 49
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 24
+
+*** L Tower ***
+Height: 205
+Floors: 59
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential
+Rank: 25
+
+*** Four Seasons Private Residences West Tower ***
+Height: 204
+Floors: 55
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential / hotel
+Rank: 26
+
+*** ÏCE Condominiums at York Centre 1 ***
+Height: 202.3
+Floors: 57
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 27
+
+*** YC Condominiums ***
+Height: 202.24
+Floors: 60
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 28
+
+*** 88 Scott ***
+Height: 198.2
+Floors: 58
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Bay Adelaide Centre East Tower ***
+Height: 196
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / office
+Rank: 30
+
+*** E Condos South ***
+Height: 195.68
+Floors: 58
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential / retail
+Rank: 31
+
+*** Wellesley on the Park ***
+Height: 194.2
+Floors: 60
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential / retail
+Rank: 32
+
+*** 22|21 Yonge ***
+Height: 192.5
+Floors: 58
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / retail
+Rank: 33
+
+*** EY Tower ***
+Height: 188.2
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 34
+
+*** 19 Duncan Street ***
+Height: 186.5
+Floors: 58
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential / office / retail
+Rank: 35
+
+*** RBC Centre ***
+Height: 184.89
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 36
+
+*** CASA II ***
+Height: 184.5
+Floors: 57
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / residential
+Rank: 37
+
+*** U Condominiums - East Tower ***
+Height: 184
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 38
+
+*** 1 Yorkville ***
+Height: 183.2
+Floors: 58
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 39
+
+*** TD North Tower ***
+Height: 182.88
+Floors: 46
+Status: Completed
+Started: 1964
+Completed: 1969
+Functions: office
+Rank: 40
+
+*** Maple Leaf Square North Tower ***
+Height: 181.29
+Floors: 54
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / hotel
+Rank: 41
+
+*** Eau Du Soleil Water Tower ***
+Height: 180.8
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 42
+
+*** CASA III ***
+Height: 179.6
+Floors: 55
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / office / retail
+Rank: 43
+
+*** Rosedale on Bloor ***
+Height: 179
+Floors: 52
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential / hotel / hotel
+Rank: 44
+
+*** INDX Condominiums  ***
+Height: 178.19
+Floors: 54
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 45
+
+*** Vita on the Lake ***
+Height: 177.1
+Floors: 53
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 46
+
+*** 1 King West ***
+Height: 176.18
+Floors: 51
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / hotel
+Rank: 47
+
+*** The Well Office Tower ***
+Height: 173.9
+Floors: 36
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 48
+
+*** One York Street ***
+Height: 173.5
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 49
+
+*** Success Tower 2 ***
+Height: 173.33
+Floors: 55
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 50
+
+*** Royal Bank Plaza South ***
+Height: 173
+Floors: 41
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 51
+
+*** Maple Leaf Square South Tower ***
+Height: 171.33
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 52
+
+*** The Selby Condos ***
+Height: 170.6
+Floors: 49
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / residential
+Rank: 53
+
+*** Teahouse Condominiums South ***
+Height: 170
+Floors: 52
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 54
+
+*** Hullmark Centre I ***
+Height: 169.63
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential / office
+Rank: 55
+
+*** Lago ***
+Height: 167.5
+Floors: 49
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / retail
+Rank: 56
+
+*** 44 Charles Street West ***
+Height: 166
+Floors: 51
+Status: Completed
+Started: 1970
+Completed: 1974
+Functions: residential
+Rank: 57
+
+*** Karma ***
+Height: 165.9
+Floors: 50
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 58
+
+*** Quantum 2 ***
+Height: 165
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 59
+
+*** Theatre Park ***
+Height: 164.82
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 60
+
+*** Residences of College Park I ***
+Height: 163
+Floors: 51
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 61
+
+*** Burano ***
+Height: 163
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 62
+
+*** Success Tower 1 ***
+Height: 161.9
+Floors: 52
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 63
+
+*** X2 ***
+Height: 161.1
+Floors: 44
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 64
+
+*** FIVE ***
+Height: 161
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / residential
+Rank: 65
+
+*** The Uptown Residences ***
+Height: 158
+Floors: 48
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 66
+
+*** Three Hundred ***
+Height: 157.9
+Floors: 52
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 67
+
+*** Lighthouse Tower Condominium ***
+Height: 157.88
+Floors: 45
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 68
+
+*** Grid Condos ***
+Height: 157
+Floors: 50
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 69
+
+*** 16 York ***
+Height: 157
+Floors: 31
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 70
+
+*** Southcore Financial Centre Delta Hotel ***
+Height: 156.84
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel
+Rank: 71
+
+*** Festival Tower ***
+Height: 156.7
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 72
+
+*** Dundas Square Gardens ***
+Height: 156
+Floors: 48
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 73
+
+*** The PJ Condos ***
+Height: 155.8
+Floors: 50
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 74
+
+*** King Blue by Greenland North Tower ***
+Height: 155.8
+Floors: 48
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / hotel
+Rank: 75
+
+*** 87 Peter ***
+Height: 154
+Floors: 49
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 76
+
+*** U Condominiums - West Tower ***
+Height: 154
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 77
+
+*** Yonge + Rich ***
+Height: 154
+Floors: 45
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 77
+
+*** TD South Tower ***
+Height: 153.57
+Floors: 39
+Status: Completed
+Started: 1982
+Completed: 1985
+Functions: office
+Rank: 79
+
+*** The Well Residential One ***
+Height: 153.4
+Floors: 44
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 80
+
+*** Westlake Village 1 ***
+Height: 153.3
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** 35 Mariner ***
+Height: 153.2
+Floors: 49
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 82
+
+*** Montage ***
+Height: 153
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 83
+
+*** Beyond the Sea Star Tower ***
+Height: 151.5
+Floors: 44
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 84
+
+*** Chaz Yorkville Condos ***
+Height: 151.4
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 85
+
+*** The 250 ***
+Height: 150.57
+Floors: 35
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 86
+
+*** Monde ***
+Height: 150
+Floors: 44
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 87
+
+*** Two Bloor West ***
+Height: 149
+Floors: 34
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 88
+
+*** X Condominium ***
+Height: 148.55
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 89
+
+*** West One ***
+Height: 148
+Floors: 49
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 90
+
+*** Simcoe Place ***
+Height: 148
+Floors: 33
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 91
+
+*** Via Bloor East Tower ***
+Height: 147.9
+Floors: 46
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential / retail
+Rank: 92
+
+*** The Clover on Yonge ***
+Height: 147.83
+Floors: 44
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 93
+
+*** CASA ***
+Height: 147.55
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 94
+
+*** Residences of College Park II ***
+Height: 147
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 95
+
+*** Bisha Hotel & Residences ***
+Height: 147
+Floors: 44
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential / hotel
+Rank: 96
+
+*** Westlake Encore ***
+Height: 146.5
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 97
+
+*** Pace Condominiums ***
+Height: 146.2
+Floors: 42
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 98
+
+*** Exchange Tower ***
+Height: 146
+Floors: 30
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 99
+
+*** Residences at RCMI ***
+Height: 145.4
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 100
+
+*** Islington Terrace ***
+Height: 145.1
+Floors: 45
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 101
+
+*** Commerce Court North ***
+Height: 145
+Floors: 34
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: office
+Rank: 102
+
+*** The Pinnacle on Adelaide ***
+Height: 144.48
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 103
+
+*** Simpson Tower ***
+Height: 144
+Floors: 33
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 104
+
+*** Spire ***
+Height: 143
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 105
+
+*** Cinema Tower Condominiums ***
+Height: 142.8
+Floors: 43
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 106
+
+*** Cadillac Fairview Tower ***
+Height: 142
+Floors: 36
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 107
+
+*** Emerald Park East ***
+Height: 141.6
+Floors: 39
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 108
+
+*** Murano South Tower ***
+Height: 140.9
+Floors: 45
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 109
+
+*** King Blue by Greenland South Tower ***
+Height: 140.4
+Floors: 44
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / hotel
+Rank: 110
+
+*** RBC WaterPark Place ***
+Height: 140
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 111
+
+*** Pantages Tower ***
+Height: 139.6
+Floors: 46
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 112
+
+*** The Britt ***
+Height: 139
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 113
+
+*** The Livmore ***
+Height: 138.6
+Floors: 43
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 114
+
+*** Stanley ***
+Height: 138.4
+Floors: 41
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential / retail
+Rank: 115
+
+*** Bloor Promenade ***
+Height: 138.07
+Floors: 44
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential
+Rank: 116
+
+*** Palace Pier ***
+Height: 138
+Floors: 46
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 117
+
+*** Palace Place ***
+Height: 138
+Floors: 46
+Status: Completed
+Started: 1991
+Completed: 1993
+Functions: residential
+Rank: 117
+
+*** Via Bloor West Tower ***
+Height: 138
+Floors: 38
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential / retail
+Rank: 119
+
+*** Gibson Square North ***
+Height: 137.5
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 120
+
+*** Gibson Square South ***
+Height: 137.4
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 121
+
+*** Alto at Atria ***
+Height: 137.3
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 122
+
+*** Couture ***
+Height: 137
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 123
+
+*** Oxford Tower ***
+Height: 137
+Floors: 33
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 124
+
+*** Clear Spirit Condominiums ***
+Height: 136
+Floors: 40
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 125
+
+*** Key West ***
+Height: 135.95
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 126
+
+*** Southcore Bremner Tower ***
+Height: 135.5
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 127
+
+*** The Well Residential Two ***
+Height: 135.33
+Floors: 38
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 128
+
+*** Sheraton Centre Hotel ***
+Height: 135
+Floors: 43
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 129
+
+*** Two Bloor East ***
+Height: 134
+Floors: 34
+Status: Completed
+Completed: 1974
+Functions: office / retail
+Rank: 130
+
+*** Royal York Hotel ***
+Height: 134
+Floors: 26
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: hotel
+Rank: 131
+
+*** Ernst & Young Tower ***
+Height: 133.2
+Floors: 31
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 132
+
+*** N1/N2 ***
+Height: 133
+Floors: 42
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 133
+
+*** 150 Redpath ***
+Height: 132.3
+Floors: 38
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 134
+
+*** Concord Cityplace Parade Tower S ***
+Height: 131.75
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 135
+
+*** The Met ***
+Height: 131.5
+Floors: 43
+Status: Completed
+Completed: 2007
+Functions: residential / retail
+Rank: 136
+
+*** Ocean Club Condominiums ***
+Height: 131.4
+Floors: 39
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 137
+
+*** Studio2 on Richmond ***
+Height: 131.2
+Floors: 41
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 138
+
+*** Encore at Equinox ***
+Height: 131
+Floors: 39
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 139
+
+*** Empire Tower ***
+Height: 130
+Floors: 28
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 140
+
+*** Peter Street Condominiums ***
+Height: 129.85
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 141
+
+*** Crystal Blu ***
+Height: 129.1
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 142
+
+*** Leaside Towers East ***
+Height: 129
+Floors: 44
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 143
+
+*** Leaside Towers West ***
+Height: 129
+Floors: 44
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 143
+
+*** Dynamic Funds Tower ***
+Height: 129
+Floors: 30
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 145
+
+*** Picasso on Richmond ***
+Height: 128.3
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 146
+
+*** 561 Sherbourne ***
+Height: 128
+Floors: 43
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 147
+
+*** TD West Tower ***
+Height: 128
+Floors: 32
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 148
+
+*** Metro Hall ***
+Height: 128
+Floors: 27
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 149
+
+*** 18 Yonge Condominiums ***
+Height: 127.1
+Floors: 39
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 150
+
+*** Solaris East at Metrogate ***
+Height: 127
+Floors: 40
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 151
+
+*** Solaris West at Metrogate ***
+Height: 127
+Floors: 40
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 151
+
+*** Westin Harbour Castle South ***
+Height: 127
+Floors: 38
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: hotel / hotel
+Rank: 153
+
+*** Quartz ***
+Height: 126.7
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 154
+
+*** Marriott Hotel/Plaza Two Apartments ***
+Height: 126.5
+Floors: 41
+Status: Completed
+Completed: 1973
+Functions: residential / hotel
+Rank: 155
+
+*** Verve ***
+Height: 126
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 156
+
+*** Emerald City I ***
+Height: 126
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 157
+
+*** Quantum ***
+Height: 126
+Floors: 37
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 157
+
+*** Telus House ***
+Height: 126
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office / retail
+Rank: 159
+
+*** Luna Vista ***
+Height: 125
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 160
+
+*** Sun Life Financial Centre East Tower ***
+Height: 125
+Floors: 28
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 161
+
+*** Cumberland at Yorkville Plaza ***
+Height: 124.8
+Floors: 39
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 162
+
+*** Beacon Condos ***
+Height: 124.7
+Floors: 35
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 163
+
+*** TCHC ***
+Height: 124.5
+Floors: 41
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 164
+
+*** Yonge-Eglinton Centre I ***
+Height: 124.4
+Floors: 30
+Status: Completed
+Completed: 1974
+Functions: office / retail
+Rank: 165
+
+*** Hullmark Centre II ***
+Height: 124.06
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 166
+
+*** Pinnacle Centre Tower A ***
+Height: 124
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential / retail
+Rank: 167
+
+*** M5V ***
+Height: 124
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 168
+
+*** Charlie Condos ***
+Height: 123.3
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 169
+
+*** E Condos North ***
+Height: 122.84
+Floors: 38
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential / retail
+Rank: 170
+
+*** 10 Navy Wharf Court ***
+Height: 122.5
+Floors: 40
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 171
+
+*** Tableau Condominiums ***
+Height: 122.5
+Floors: 36
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / office / retail
+Rank: 172
+
+*** The Bond ***
+Height: 122.4
+Floors: 41
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential / retail
+Rank: 173
+
+*** Nautilus ***
+Height: 122
+Floors: 39
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 174
+
+*** Velocity at the Square ***
+Height: 122
+Floors: 39
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 174
+
+*** 411 Church ***
+Height: 122
+Floors: 38
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 176
+
+*** Park Nuvo ***
+Height: 122
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 177
+
+*** The Gooderham ***
+Height: 122
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 178
+
+*** 777 Bay Street ***
+Height: 121
+Floors: 30
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 179
+
+*** The Madison West ***
+Height: 120.95
+Floors: 36
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / retail
+Rank: 180
+
+*** 155 Redpath ***
+Height: 120.4
+Floors: 34
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 181
+
+*** 55 & 65 Harbour Square ***
+Height: 120
+Floors: 38
+Status: Completed
+Started: 1977
+Completed: 1979
+Functions: residential
+Rank: 182
+
+*** Equinox West ***
+Height: 120
+Floors: 37
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 183
+
+*** Munich Re Centre ***
+Height: 120
+Floors: 31
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: office
+Rank: 184
+
+*** Neptune South ***
+Height: 119.5
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 185
+
+*** Spectra ***
+Height: 119.2
+Floors: 39
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 186
+
+*** The Milan Condominium ***
+Height: 118.7
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 187
+
+*** Alter ***
+Height: 118.25
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential / office / retail
+Rank: 188
+
+*** Ultra at Heron`s Hill ***
+Height: 118
+Floors: 39
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 189
+
+*** Waterclub East Tower ***
+Height: 118
+Floors: 37
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 190
+
+*** Waterclub South Tower ***
+Height: 118
+Floors: 37
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 190
+
+*** Backstage On The Esplanade ***
+Height: 118
+Floors: 36
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 192
+
+*** 33 Harbour Square ***
+Height: 118
+Floors: 33
+Status: Completed
+Started: 1976
+Completed: 1978
+Functions: residential
+Rank: 193
+
+*** The Pinnacle ***
+Height: 118
+Floors: 32
+Status: Completed
+Started: 1997
+Completed: 2001
+Functions: residential / retail
+Rank: 194
+
+*** Nestle Building ***
+Height: 118
+Floors: 21
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 195
+
+*** LCBO Tower at Sugar Wharf ***
+Height: 117.8
+Floors: 25
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office / retail
+Rank: 196
+
+*** The Peter Gilgan Centre for Research and Learning ***
+Height: 117.7
+Floors: 22
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: education
+Rank: 197
+
+*** Number One York Quay South ***
+Height: 117.5
+Floors: 40
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 198
+
+*** PwC Tower ***
+Height: 117.5
+Floors: 26
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 199
+
+*** 18 Yorkville ***
+Height: 117.4
+Floors: 36
+Status: Completed
+Completed: 2005
+Functions: residential / retail
+Rank: 200
+
+*** Nicholas Residences ***
+Height: 117.16
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 201
+
+*** Equinox East ***
+Height: 117
+Floors: 37
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 202
+
+*** 5 Mariner Terrace ***
+Height: 117
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: serviced apartments
+Rank: 203
+
+*** Apex West ***
+Height: 117
+Floors: 36
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 203
+
+*** Royal Pinnacle ***
+Height: 116.7
+Floors: 33
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: residential / retail
+Rank: 205
+
+*** Concord Cityplace Parade Tower V ***
+Height: 116.2
+Floors: 40
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 206
+
+*** City Lights on Broadway I ***
+Height: 116
+Floors: 34
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 207
+
+*** City Lights on Broadway II ***
+Height: 116
+Floors: 34
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 207
+
+*** 1001 Bay ***
+Height: 115
+Floors: 36
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 209
+
+*** Bank of Nova Scotia ***
+Height: 115
+Floors: 27
+Status: Completed
+Started: 1949
+Completed: 1951
+Functions: office
+Rank: 210
+
+*** Number One York Quay North ***
+Height: 114.9
+Floors: 39
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 211
+
+*** King Charlotte Condos ***
+Height: 114.9
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 212
+
+*** Waterparkcity ***
+Height: 114
+Floors: 38
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 213
+
+*** Bloorvista ***
+Height: 114
+Floors: 35
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 214
+
+*** The 500 Sherbourne ***
+Height: 114
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 215
+
+*** The Chrysler East Tower ***
+Height: 114
+Floors: 28
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 216
+
+*** The Chrysler West Tower ***
+Height: 114
+Floors: 28
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 216
+
+*** The Mercer ***
+Height: 113.1
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / retail
+Rank: 218
+
+*** Residences of the World Trade Centre North East Tower ***
+Height: 113
+Floors: 37
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: residential / retail
+Rank: 219
+
+*** Murano North Tower ***
+Height: 113
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 220
+
+*** MaRS Discovery Centre West ***
+Height: 112.7
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: office
+Rank: 221
+
+*** Zurich Centre ***
+Height: 112.5
+Floors: 25
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: office / office
+Rank: 222
+
+*** Emerald Park West ***
+Height: 112.4
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 223
+
+*** One Queen Street East ***
+Height: 112.17
+Floors: 27
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 224
+
+*** Ryerson Church Street Development ***
+Height: 112
+Floors: 29
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential / education / retail
+Rank: 225
+
+*** Royal Bank Plaza North ***
+Height: 112
+Floors: 26
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: office
+Rank: 226
+
+*** Jade Waterfront Condos ***
+Height: 111.6
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 227
+
+*** Lumiere Condos ***
+Height: 111.4
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / retail
+Rank: 228
+
+*** One Valhalla - Thunderbird ***
+Height: 111.25
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 229
+
+*** Minto 30 Roe ***
+Height: 111.1
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 230
+
+*** Platinum XO ***
+Height: 111
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential / residential
+Rank: 231
+
+*** The Platinum Tower ***
+Height: 111
+Floors: 36
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 231
+
+*** Ultima ***
+Height: 111
+Floors: 36
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 231
+
+*** Westin Harbour Castle North ***
+Height: 111
+Floors: 34
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: hotel
+Rank: 234
+
+*** Marina del Rey Phase 3 ***
+Height: 111
+Floors: 33
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 235
+
+*** The Madison East ***
+Height: 111
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / retail
+Rank: 235
+
+*** 1 Dundas ***
+Height: 110.64
+Floors: 29
+Status: Completed
+Started: 1975
+Completed: 1977
+Functions: office / retail
+Rank: 237
+
+*** Market Wharf ***
+Height: 110.6
+Floors: 33
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 238
+
+*** WaterPark Place North ***
+Height: 110.6
+Floors: 26
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 239
+
+*** Boutique Condominium East ***
+Height: 110.1
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 240
+
+*** York Centre ***
+Height: 110.03
+Floors: 23
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 241
+
+*** Concorde Park North ***
+Height: 110
+Floors: 37
+Status: Completed
+Started: 1990
+Completed: 1991
+Functions: residential
+Rank: 242
+
+*** Concorde Park South ***
+Height: 110
+Floors: 37
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 242
+
+*** Accolade ***
+Height: 110
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 244
+
+*** Windermere NXT II ***
+Height: 110
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 245
+
+*** Ellipse East ***
+Height: 110
+Floors: 34
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 246
+
+*** Ellipse West ***
+Height: 110
+Floors: 34
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 246
+
+*** Four Seasons Private Residences East Tower ***
+Height: 110
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 248
+
+*** Sun Life Financial Centre West Tower ***
+Height: 110
+Floors: 24
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 249
+
+*** Invesco Tower ***
+Height: 110
+Floors: 23
+Status: Completed
+Completed: 1987
+Functions: office / retail
+Rank: 250
+
+*** Standard Life Centre ***
+Height: 109.7
+Floors: 25
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 251
+
+*** eq1 at Equinox ***
+Height: 109.5
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 252
+
+*** One Bedford ***
+Height: 109.3
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 253
+
+*** James Cooper Mansion ***
+Height: 109
+Floors: 32
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 254
+
+*** Heathview Apartments North ***
+Height: 108.8
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 255
+
+*** Heathview Apartments South ***
+Height: 108.8
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 255
+
+*** 3 Massey Square ***
+Height: 108
+Floors: 37
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 257
+
+*** Beyond the Sea South Tower ***
+Height: 108
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 257
+
+*** Infinity East ***
+Height: 108
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / retail
+Rank: 259
+
+*** Infinity3 ***
+Height: 108
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 259
+
+*** Novotel DowntownToronto ***
+Height: 108
+Floors: 33
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: hotel
+Rank: 261
+
+*** 8 Park Road ***
+Height: 108
+Floors: 32
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 262
+
+*** California Condominiums ***
+Height: 108
+Floors: 32
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 262
+
+*** West Village Building A ***
+Height: 107.9
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 264
+
+*** 10 Bellair ***
+Height: 107.6
+Floors: 26
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential / retail
+Rank: 265
+
+*** West Harbour City West ***
+Height: 107
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 266
+
+*** Minto 88 Condos ***
+Height: 107
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 267
+
+*** The Yorkville Condominiums ***
+Height: 106.5
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 268
+
+*** One St. Thomas Residences ***
+Height: 106.4
+Floors: 29
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 269
+
+*** 101 Erskine ***
+Height: 106.37
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 270
+
+*** Mowat Block ***
+Height: 106.37
+Floors: 24
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: office / office
+Rank: 271
+
+*** 50 Cordova Avenue ***
+Height: 106
+Floors: 36
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 272
+
+*** Madison Centre ***
+Height: 106
+Floors: 23
+Status: Completed
+Completed: 1986
+Functions: office / retail
+Rank: 273
+
+*** Bloor Street Neighborhood Condos ***
+Height: 105.8
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 274
+
+*** 2 Queen Street East ***
+Height: 105.8
+Floors: 20
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 275
+
+*** The Dundas Edward Centre ***
+Height: 105.5
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 276
+
+*** 360° at the City Centre ***
+Height: 105
+Floors: 35
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 277
+
+*** Malibu at Harbourfront ***
+Height: 105
+Floors: 32
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 278
+
+*** One Sherway Tower 2 ***
+Height: 105
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 278
+
+*** Skymark Center at Avondale - East Tower ***
+Height: 105
+Floors: 31
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 280
+
+*** Waterscapes ***
+Height: 105
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / retail
+Rank: 281
+
+*** 1 Thousand Bay Street ***
+Height: 104.2
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 282
+
+*** 500 Duplex Avenue ***
+Height: 104
+Floors: 34
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 283
+
+*** The Yorkland at Heron`s Hill ***
+Height: 104
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 284
+
+*** 120 Adelaide Street West ***
+Height: 103.6
+Floors: 26
+Status: Completed
+Started: 1964
+Completed: 1966
+Functions: office / retail
+Rank: 285
+
+*** Optima ***
+Height: 103
+Floors: 34
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 286
+
+*** Encore at the Met ***
+Height: 103
+Floors: 33
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 287
+
+*** Liberty Place ***
+Height: 102.1
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 288
+
+*** 55 Bay Street ***
+Height: 102
+Floors: 32
+Status: Completed
+Completed: 1980
+Functions: residential
+Rank: 289
+
+*** London on the Esplanade ***
+Height: 102
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 289
+
+*** Pure Spirit Condominiums ***
+Height: 102
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / retail
+Rank: 289
+
+*** Conservatory Tower ***
+Height: 102
+Floors: 31
+Status: Completed
+Started: 1992
+Completed: 1993
+Functions: residential
+Rank: 292
+
+*** Toronto Star Building ***
+Height: 101.08
+Floors: 25
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 293
+
+*** 24 Mabelle Avenue ***
+Height: 101
+Floors: 34
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 294
+
+*** Ventus North at Metrogate ***
+Height: 101
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 295
+
+*** Ventus South at Metrogate ***
+Height: 101
+Floors: 30
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 295
+
+*** Radio City South ***
+Height: 100.9
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 297
+
+*** Rogers-AT&T Centre ***
+Height: 100.9
+Floors: 17
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 298
+
+*** University Centre ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 299
+
+*** Yonge-Eglinton Centre II ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 1974
+Functions: office / retail
+Rank: 299
+
+*** Exhibit Residences ***
+Height: 99.98
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 301
+
+*** The New Residences of Yorkville Plaza ***
+Height: 99.98
+Floors: 31
+Status: Completed
+Completed: 1970
+Functions: residential / retail
+Rank: 302
+
+*** River City 3 ***
+Height: 99.67
+Floors: 29
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential / retail
+Rank: 303
+
+*** City Hall East Tower ***
+Height: 99.67
+Floors: 27
+Status: Completed
+Started: 1961
+Completed: 1965
+Functions: government
+Rank: 304
+
+*** Tango ***
+Height: 99.3
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 305
+
+*** Emerald City II ***
+Height: 99.3
+Floors: 29
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 306
+
+*** Hilton Hotel ***
+Height: 99
+Floors: 32
+Status: Completed
+Started: 1972
+Completed: 1975
+Functions: hotel
+Rank: 307
+
+*** Harbour Point ***
+Height: 99
+Floors: 31
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: residential
+Rank: 308
+
+*** Harbour Point 2 ***
+Height: 99
+Floors: 31
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: residential
+Rank: 308
+
+*** Minto Plaza 1 ***
+Height: 98.5
+Floors: 33
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: residential
+Rank: 310
+
+*** West Village Building B ***
+Height: 98.5
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 311
+
+*** The Residences at the Consilium West ***
+Height: 98.1
+Floors: 33
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 312
+
+*** 10 San Romanoway ***
+Height: 98
+Floors: 33
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 313
+
+*** Nuvo 1 ***
+Height: 98
+Floors: 29
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / residential
+Rank: 314
+
+*** Nuvo 2 ***
+Height: 98
+Floors: 29
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / residential
+Rank: 314
+
+*** Princess Margaret Hospital ***
+Height: 98
+Floors: 18
+Status: Completed
+Completed: 1995
+Functions: hospital
+Rank: 316
+
+*** Ryerson: Jarvis Street Residence ***
+Height: 97.5
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 317
+
+*** Imperial Plaza ***
+Height: 97.5
+Floors: 21
+Status: Completed
+Started: 1955
+Completed: 1957
+Functions: residential
+Rank: 318
+
+*** 21 Hillcrest Avenue ***
+Height: 97
+Floors: 31
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 319
+
+*** 3 Navy Wharf Court ***
+Height: 97
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential / residential
+Rank: 320
+
+*** 95 Wellington ***
+Height: 97
+Floors: 22
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 321
+
+*** Studio on Richmond ***
+Height: 96.9
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 322
+
+*** eq2 at Equinox ***
+Height: 96
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / residential
+Rank: 323
+
+*** 40 Gerrard East ***
+Height: 95.7
+Floors: 34
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: residential
+Rank: 324
+
+*** The Residences at the Consilium East ***
+Height: 95
+Floors: 32
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 325
+
+*** Highgate North ***
+Height: 95
+Floors: 31
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 326
+
+*** Thomson Building ***
+Height: 95
+Floors: 24
+Status: Completed
+Completed: 1972
+Functions: office / retail
+Rank: 327
+
+*** Matrix 1 ***
+Height: 94.6
+Floors: 32
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 328
+
+*** One Sherway Tower 3 ***
+Height: 94
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 329
+
+*** George Drew Building ***
+Height: 93.5
+Floors: 21
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 330
+
+*** Motion on Bay ***
+Height: 93.2
+Floors: 29
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / retail
+Rank: 331
+
+*** Centro North ***
+Height: 93
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 332
+
+*** Centro South ***
+Height: 93
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 332
+
+*** Century Plaza ***
+Height: 93
+Floors: 29
+Status: Completed
+Completed: 1991
+Functions: residential / retail
+Rank: 334
+
+*** Skymark Center at Avondale - West Tower ***
+Height: 93
+Floors: 29
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 334
+
+*** South Beach Condos + Lofts, East Tower ***
+Height: 93
+Floors: 29
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 334
+
+*** South Beach Condos + Lofts, West Tower ***
+Height: 93
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 334
+
+*** Treviso II Condos ***
+Height: 93
+Floors: 29
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 334
+
+*** Discovery Building B ***
+Height: 93
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 339
+
+*** Empire Plaza ***
+Height: 93
+Floors: 28
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: residential
+Rank: 339
+
+*** Clarica Centre 1 ***
+Height: 93
+Floors: 20
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 341
+
+*** Panorama ***
+Height: 92.9
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 342
+
+*** The Republic Condominiums South ***
+Height: 92.5
+Floors: 27
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 343
+
+*** Pinnacle Centre Tower B ***
+Height: 92
+Floors: 29
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / retail
+Rank: 344
+
+*** Waterclub West Tower ***
+Height: 92
+Floors: 27
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential
+Rank: 345
+
+*** The Penrose ***
+Height: 91.5
+Floors: 31
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: residential
+Rank: 346
+
+*** St. Lawrence at 158 Front ***
+Height: 91.44
+Floors: 26
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 347
+
+*** Mansions of Humberwood East ***
+Height: 91
+Floors: 29
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 348
+
+*** Mansions of Humberwood West ***
+Height: 91
+Floors: 29
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 348
+
+*** Foresters ***
+Height: 91
+Floors: 23
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 350
+
+*** 5 Massey Square ***
+Height: 90
+Floors: 29
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 351
+
+*** The Crossways A ***
+Height: 90
+Floors: 29
+Status: Completed
+Completed: 1974
+Functions: residential / retail
+Rank: 351
+
+*** The Crossways B ***
+Height: 90
+Floors: 29
+Status: Completed
+Completed: 1974
+Functions: residential / retail
+Rank: 351
+
+*** Apex East ***
+Height: 90
+Floors: 28
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 354
+
+*** Windermere NXT ***
+Height: 90
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 354
+
+*** Voyager 1 ***
+Height: 90
+Floors: 27
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 356
+
+*** Transamerica Tower ***
+Height: 90
+Floors: 21
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 357
+
+*** 545 Sherbourne ***
+Height: 89.6
+Floors: 31
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 358
+
+*** 555 Sherbourne ***
+Height: 89.6
+Floors: 31
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 358
+
+*** 1101 Bay Street ***
+Height: 89
+Floors: 27
+Status: Completed
+Completed: 1981
+Functions: residential / retail
+Rank: 360
+
+*** 155 Cumberland Avenue ***
+Height: 88.69
+Floors: 21
+Status: Completed
+Completed: 1961
+Functions: residential
+Rank: 361
+
+*** Carlton Court Apartments ***
+Height: 88.4
+Floors: 30
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 362
+
+*** LuCliff Place ***
+Height: 88.1
+Floors: 28
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 363
+
+*** Dream Tower ***
+Height: 88
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 364
+
+*** The Republic Condominiums North ***
+Height: 87.5
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential / education
+Rank: 365
+
+*** 1 Massey Square ***
+Height: 87.2
+Floors: 30
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 366
+
+*** Discovery Building A ***
+Height: 87
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 367
+
+*** iLoft ***
+Height: 87
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 367
+
+*** Blue Diamond Condos at Imperial Plaza ***
+Height: 87
+Floors: 27
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 369
+
+*** Spectrum South ***
+Height: 87
+Floors: 27
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 369
+
+*** The Waldorf East Tower ***
+Height: 87
+Floors: 20
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 371
+
+*** The Waldorf West Tower ***
+Height: 87
+Floors: 20
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 371
+
+*** Canada Life Building ***
+Height: 86.87
+Floors: 15
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: office
+Rank: 373
+
+*** One Valhalla - Triumph ***
+Height: 86.1
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 374
+
+*** Barclay Terrace 2 ***
+Height: 86
+Floors: 28
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 375
+
+*** Jazz ***
+Height: 86
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 375
+
+*** Windermere by the Lake Tower ***
+Height: 86
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 375
+
+*** Renaissance Plaza ***
+Height: 86
+Floors: 26
+Status: Completed
+Completed: 1982
+Functions: office / residential
+Rank: 378
+
+*** Mount Sinai Hospital ***
+Height: 85.95
+Floors: 18
+Status: Completed
+Completed: 1974
+Functions: hospital
+Rank: 379
+
+*** 565 Sherbourne ***
+Height: 85.6
+Floors: 28
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 380
+
+*** Atlantis ***
+Height: 85.5
+Floors: 28
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 381
+
+*** 7 Crescent Place ***
+Height: 85.3
+Floors: 28
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 382
+
+*** 9 Crescent Place ***
+Height: 85.3
+Floors: 28
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 382
+
+*** One Sherway Tower 1 ***
+Height: 85
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 384
+
+*** The Residences at King's Gate ***
+Height: 85
+Floors: 26
+Status: Completed
+Started: 1990
+Completed: 1991
+Functions: residential
+Rank: 384
+
+*** WaterPark Place South ***
+Height: 84.5
+Floors: 18
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 386
+
+*** The Prince Arthur ***
+Height: 84.13
+Floors: 24
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential / retail
+Rank: 387
+
+*** Core Condos ***
+Height: 84.12
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 388
+
+*** The Residence of Avondale, South Tower ***
+Height: 84
+Floors: 28
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: residential
+Rank: 389
+
+*** DoubleTree by Hilton Hotel Toronto Downtown  ***
+Height: 84
+Floors: 27
+Status: Completed
+Functions: hotel
+Rank: 390
+
+*** The Prince Arthur Condominiums ***
+Height: 84
+Floors: 24
+Status: Completed
+Completed: 1999
+Functions: residential / retail
+Rank: 391
+
+*** Cypress at Pinnacle Etobicoke ***
+Height: 83.8
+Floors: 25
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 392
+
+*** Regent Park Sackville Dundas Residences ***
+Height: 83.65
+Floors: 22
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 393
+
+*** Smart House ***
+Height: 83.55
+Floors: 25
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential / office / retail
+Rank: 394
+
+*** Matrix 2 ***
+Height: 83.4
+Floors: 28
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 395
+
+*** The Globe and Mail Centre ***
+Height: 83.25
+Floors: 17
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 396
+
+*** ME Living Condos Tower 1 ***
+Height: 82.9
+Floors: 28
+Status: Under Construction
+Started: 2017
+Functions: residential
+Rank: 397
+
+*** ME Living Condos Tower 2 ***
+Height: 82.9
+Floors: 28
+Status: Under Construction
+Started: 2017
+Functions: residential
+Rank: 397
+
+*** Sheppard Centre I ***
+Height: 82.8
+Floors: 29
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 399
+
+*** Sheppard Centre II ***
+Height: 82.8
+Floors: 29
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 399
+
+*** Sheppard Centre III ***
+Height: 82.8
+Floors: 29
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 399
+
+*** Broadway East ***
+Height: 82.6
+Floors: 28
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 402
+
+*** Fly Condos ***
+Height: 82.4
+Floors: 24
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 403
+
+*** West Harbour City East ***
+Height: 82
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 404
+
+*** The Riviera East ***
+Height: 81.6
+Floors: 24
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 405
+
+*** The Riviera West ***
+Height: 81.6
+Floors: 24
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 405
+
+*** Residences of Madison Centre ***
+Height: 81.4
+Floors: 28
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 407
+
+*** Country Club Towers I ***
+Height: 81
+Floors: 27
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 408
+
+*** Country Club Towers II ***
+Height: 81
+Floors: 27
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 408
+
+*** The Residence of Avondale, North Tower ***
+Height: 81
+Floors: 27
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 408
+
+*** Residences of the World Trade Centre South West Tower ***
+Height: 81
+Floors: 26
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: residential / retail
+Rank: 411
+
+*** Radio City North ***
+Height: 81
+Floors: 25
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 412
+
+*** May Tower II ***
+Height: 81
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 413
+
+*** Eaton Chelsea ***
+Height: 80.75
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: hotel
+Rank: 414
+
+*** The Well Residential Three ***
+Height: 80.5
+Floors: 21
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 415
+
+*** Emmett House ***
+Height: 80.17
+Floors: 24
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 416
+
+*** University Place ***
+Height: 80
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 417
+
+*** Ontario Power Building ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 418
+
+*** The Florian ***
+Height: 79.88
+Floors: 25
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 419
+
+*** Plaza 100 ***
+Height: 79.8
+Floors: 28
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 420
+
+*** Horizon on Bay ***
+Height: 79.55
+Floors: 26
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 421
+
+*** City Hall West Tower ***
+Height: 79.55
+Floors: 20
+Status: Completed
+Started: 1961
+Completed: 1965
+Functions: government
+Rank: 422
+
+*** Neon Condos ***
+Height: 78.85
+Floors: 20
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 423
+
+*** The Indigo ***
+Height: 78
+Floors: 27
+Status: Completed
+Started: 1991
+Completed: 1993
+Functions: residential
+Rank: 424
+
+*** The Essex West ***
+Height: 78
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 425
+
+*** Broadway West ***
+Height: 77.2
+Floors: 26
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 426
+
+*** Prelude ***
+Height: 77.2
+Floors: 26
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 426
+
+*** Park Towers East, Phase 2 at IQ ***
+Height: 77.2
+Floors: 24
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 428
+
+*** Park Towers West, Phase 2 at IQ ***
+Height: 77.2
+Floors: 24
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 428
+
+*** The Torontonian ***
+Height: 77
+Floors: 28
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 430
+
+*** Beaconhill Tower ***
+Height: 76.83
+Floors: 23
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 431
+
+*** Old Mill Towers ***
+Height: 76.83
+Floors: 23
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 431
+
+*** Avonshire East ***
+Height: 76.6
+Floors: 21
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 433
+
+*** Avonshire West ***
+Height: 76.6
+Floors: 21
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 433
+
+*** The Rosewood North ***
+Height: 76
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 435
+
+*** Quay West at Tip Top ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 436
+
+*** Humberwood Place ***
+Height: 76
+Floors: 23
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 437
+
+*** King Edward Hotel ***
+Height: 76
+Floors: 18
+Status: Completed
+Completed: 1903
+Functions: residential / hotel
+Rank: 438
+
+*** Rise ***
+Height: 75.28
+Floors: 21
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 439
+
+*** Barclay Terrace 1 ***
+Height: 75
+Floors: 25
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 440
+
+*** Cosmo 2 ***
+Height: 75
+Floors: 23
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 441
+
+*** Treviso I Condos ***
+Height: 75
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 442
+
+*** Axiom West Tower ***
+Height: 75
+Floors: 21
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 443

@@ -1,0 +1,21 @@
+*** Padova (1) ***
+1. Net Center, 80m
+
+******************** DETAILS ********************
+
+*** Padova ***
+Country: Italy
+Region: Europe
+1 tower: Net Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Net Center ***
+Height: 79.92
+Floors: 20
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office / hotel
+Rank: 1

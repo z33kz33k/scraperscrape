@@ -1,0 +1,20 @@
+*** Abilene (1) ***
+1. Bank of America, 87m
+
+******************** DETAILS ********************
+
+*** Abilene ***
+Country: United States
+Region: North America
+1 tower: Bank of America
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bank of America ***
+Height: 86.87
+Floors: 20
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 1

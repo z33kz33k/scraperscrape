@@ -1,0 +1,529 @@
+*** Dalian (232) ***
+1.  Eton Place Dalian Tower 1, 383m
+2.  Dalian International Trade Center, 370m
+3.  Eton Place Dalian Tower 2, 279m
+4.  Victoria Square 1, 268m
+5.  Victoria Square 2, 268m
+6.  Dalian Futures Square 1, 243m
+7.  Dalian Futures Square 2, 243m
+8.  Dalian World Trade Center, 242m
+9.  Dalian Dingsen Center North Tower, 228m
+10. Dalian Dingsen Center South Tower, 228m
+11. Wanda East Port Tower 1, 220m
+12. Dalian East Harbor C05 Mixed Use Project, 220m
+13. Furama Tower, 218m
+14. Jinzou Plaza, 216m
+15. Dalian Tianan International Tower, 214m
+16. East Harbour Place Tower 2, 210m
+17. China Co-op Group Tower, 209m
+18. King of Towers, 208m
+19. Orix Towers East, 207m
+20. Orix Towers West, 207m
+21. Victoria Mansion Tower 1, 206m
+22. Victoria Mansion Tower 2, 206m
+23. Jiahe Plaza, 205m
+24. Pinnacle, 203m
+25. Yuanyang Building, 201m
+26. Wanda East Port Tower 3, 198m
+27. Grand Hyatt Dalian, 195m
+28. Wanda East Port Tower 4, 195m
+29. International Shipping Tower, 192m
+30. Wanda East Port Tower 5, 192m
+31. Luxury Mountainview, 182m
+32. The Manhattan Office Tower, 180m
+33. Coastal International Center Tower 1, 175m
+34. Coastal International Center Tower 2, 175m
+35. Coastal International Center Tower 3, 175m
+36. Wanda East Port Tower 2, 175m
+37. Greenland Plaza Apartment Block 1, 172m
+38. Greenland Plaza Apartment Block 2, 172m
+39. Greenland Plaza Apartment Block 3, 172m
+40. Xiwang Tower, 171m
+41. Peace City Modern D1, 170m
+42. Tianlun Commercial Building, 168m
+43. Dalian Times Square 1, 163m
+44. Dalian Freedom Plaza, 160m
+45. Dalian Telecommunications Center, 154m
+46. Rainbow Building, 149m
+47. Hotel Nikko Dalian, 148m
+48. Eton Place Dalian Tower 3, 147m
+49. Eton Place Dalian Tower 4, 147m
+50. Eton Place Dalian Tower 5, 147m
+51. Luxury Horizon 1, 147m
+52. Luxury Horizon 2, 147m
+53. Dalian Times Square 2, 120m
+54. Dalian Global Finance Center Tower A, 111m
+
+******************** DETAILS ********************
+
+*** Dalian ***
+Country: China
+Region: Asia
+54 towers: Eton Place Dalian Tower 1, Dalian International Trade Center, Eton Place Dalian Tower 2, Victoria Square 1, Victoria Square 2, Dalian Futures Square 1, Dalian Futures Square 2, Dalian World Trade Center, Dalian Dingsen Center North Tower, Dalian Dingsen Center South Tower, Wanda East Port Tower 1, Dalian East Harbor C05 Mixed Use Project, Furama Tower, Jinzou Plaza, Dalian Tianan International Tower, East Harbour Place Tower 2, China Co-op Group Tower, King of Towers, Orix Towers East, Orix Towers West, Victoria Mansion Tower 1, Victoria Mansion Tower 2, Jiahe Plaza, Pinnacle, Yuanyang Building, Wanda East Port Tower 3, Grand Hyatt Dalian, Wanda East Port Tower 4, International Shipping Tower, Wanda East Port Tower 5, Luxury Mountainview, The Manhattan Office Tower, Coastal International Center Tower 1, Coastal International Center Tower 2, Coastal International Center Tower 3, Wanda East Port Tower 2, Greenland Plaza Apartment Block 1, Greenland Plaza Apartment Block 2, Greenland Plaza Apartment Block 3, Xiwang Tower, Peace City Modern D1, Tianlun Commercial Building, Dalian Times Square 1, Dalian Freedom Plaza, Dalian Telecommunications Center, Rainbow Building, Hotel Nikko Dalian, Eton Place Dalian Tower 3, Eton Place Dalian Tower 4, Eton Place Dalian Tower 5, Luxury Horizon 1, Luxury Horizon 2, Dalian Times Square 2, Dalian Global Finance Center Tower A
+Tiers: II: 9, III: 30, IV: 13, V: 2
+Rating: 232 (11.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Eton Place Dalian Tower 1 ***
+Height: 383.15
+Floors: 80
+Status: Completed
+Completed: 2016
+Functions: hotel / office
+Rank: 1
+
+*** Dalian International Trade Center ***
+Height: 370.15
+Floors: 86
+Status: Architecturally Topped Out
+Started: 2003
+Completed: 2019
+Functions: residential / office
+Rank: 2
+
+*** Eton Place Dalian Tower 2 ***
+Height: 279.45
+Floors: 62
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential / office
+Rank: 3
+
+*** Victoria Square 1 ***
+Height: 268
+Floors: 68
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 4
+
+*** Victoria Square 2 ***
+Height: 268
+Floors: 68
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 4
+
+*** Dalian Futures Square 1 ***
+Height: 242.8
+Floors: 53
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 6
+
+*** Dalian Futures Square 2 ***
+Height: 242.8
+Floors: 53
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 6
+
+*** Dalian World Trade Center ***
+Height: 242
+Floors: 50
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 8
+
+*** Dalian Dingsen Center North Tower ***
+Height: 228
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential / hotel
+Rank: 9
+
+*** Dalian Dingsen Center South Tower ***
+Height: 228
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: office
+Rank: 9
+
+*** Wanda East Port Tower 1 ***
+Height: 220
+Floors: 49
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: hotel / office
+Rank: 11
+
+*** Dalian East Harbor C05 Mixed Use Project ***
+Height: 220
+Floors: 42
+Status: Under Construction
+Started: 2014
+Functions: office / hotel
+Rank: 12
+
+*** Furama Tower ***
+Height: 218
+Floors: 55
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 13
+
+*** Jinzou Plaza ***
+Height: 216
+Floors: 49
+Status: Completed
+Started: 1995
+Completed: 2000
+Functions: residential / office
+Rank: 14
+
+*** Dalian Tianan International Tower ***
+Height: 214
+Floors: 52
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 15
+
+*** East Harbour Place Tower 2 ***
+Height: 210.5
+Floors: 62
+Status: Completed
+Started: 2011
+Completed: 2018
+Functions: serviced apartments / hotel
+Rank: 16
+
+*** China Co-op Group Tower ***
+Height: 209
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 17
+
+*** King of Towers ***
+Height: 208
+Floors: 41
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / SOHO / office
+Rank: 18
+
+*** Orix Towers East ***
+Height: 207.15
+Floors: 42
+Status: Under Construction
+Started: 2016
+Functions: office
+Rank: 19
+
+*** Orix Towers West ***
+Height: 207.15
+Floors: 42
+Status: Under Construction
+Started: 2016
+Functions: office
+Rank: 19
+
+*** Victoria Mansion Tower 1 ***
+Height: 206.35
+Floors: 60
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 21
+
+*** Victoria Mansion Tower 2 ***
+Height: 206.35
+Floors: 60
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 21
+
+*** Jiahe Plaza ***
+Height: 205
+Floors: 54
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 23
+
+*** Pinnacle ***
+Height: 203
+Floors: 56
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: hotel / office
+Rank: 24
+
+*** Yuanyang Building ***
+Height: 200.8
+Floors: 51
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 25
+
+*** Wanda East Port Tower 3 ***
+Height: 197.8
+Floors: 57
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 26
+
+*** Grand Hyatt Dalian ***
+Height: 195.4
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / hotel
+Rank: 27
+
+*** Wanda East Port Tower 4 ***
+Height: 194.7
+Floors: 56
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 28
+
+*** International Shipping Tower ***
+Height: 192
+Floors: 45
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 29
+
+*** Wanda East Port Tower 5 ***
+Height: 191.5
+Floors: 55
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 30
+
+*** Luxury Mountainview ***
+Height: 182
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 31
+
+*** The Manhattan Office Tower ***
+Height: 180
+Floors: 48
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 32
+
+*** Coastal International Center Tower 1 ***
+Height: 175
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 33
+
+*** Coastal International Center Tower 2 ***
+Height: 175
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 33
+
+*** Coastal International Center Tower 3 ***
+Height: 175
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 33
+
+*** Wanda East Port Tower 2 ***
+Height: 175
+Floors: 38
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: hotel
+Rank: 36
+
+*** Greenland Plaza Apartment Block 1 ***
+Height: 172
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 37
+
+*** Greenland Plaza Apartment Block 2 ***
+Height: 172
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 37
+
+*** Greenland Plaza Apartment Block 3 ***
+Height: 172
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 37
+
+*** Xiwang Tower ***
+Height: 170.6
+Floors: 40
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 40
+
+*** Peace City Modern D1 ***
+Height: 169.8
+Floors: 55
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 41
+
+*** Tianlun Commercial Building ***
+Height: 168
+Floors: 35
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 42
+
+*** Dalian Times Square 1 ***
+Height: 163
+Floors: 47
+Status: Completed
+Completed: 2008
+Functions: residential / office
+Rank: 43
+
+*** Dalian Freedom Plaza ***
+Height: 160
+Floors: 33
+Status: Under Construction
+Started: 2010
+Functions: office
+Rank: 44
+
+*** Dalian Telecommunications Center ***
+Height: 154
+Floors: 32
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 45
+
+*** Rainbow Building ***
+Height: 149
+Floors: 39
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 46
+
+*** Hotel Nikko Dalian ***
+Height: 148.1
+Floors: 36
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 47
+
+*** Eton Place Dalian Tower 3 ***
+Height: 147
+Floors: 42
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 48
+
+*** Eton Place Dalian Tower 4 ***
+Height: 147
+Floors: 42
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 48
+
+*** Eton Place Dalian Tower 5 ***
+Height: 147
+Floors: 42
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 48
+
+*** Luxury Horizon 1 ***
+Height: 147
+Floors: 42
+Status: Completed
+Completed: 2013
+Rank: 48
+
+*** Luxury Horizon 2 ***
+Height: 147
+Floors: 42
+Status: Completed
+Completed: 2013
+Rank: 48
+
+*** Dalian Times Square 2 ***
+Height: 120
+Floors: 35
+Status: Completed
+Completed: 2008
+Functions: residential / office
+Rank: 53
+
+*** Dalian Global Finance Center Tower A ***
+Height: 111
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 54

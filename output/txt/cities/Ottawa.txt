@@ -1,0 +1,373 @@
+*** Ottawa (43) ***
+1.  Claridge Icon, 143m
+2.  Place de Ville III, 112m
+3.  Minto Metropole, 108m
+4.  Le Parc, 104m
+5.  R.H. Coats Building, 99m
+6.  Ottawa Marriott Hotel, 96m
+7.  Delta Ottawa City Centre, 96m
+8.  Place Bell Canada, 94m
+9.  Minto Place Suite Hotel, 92m
+10. Constitution Square II, 90m
+11. Performance Court, 90m
+12. 66 Slater, 88m
+13. Place de Ville I, 87m
+14. Place de Ville II, 87m
+15. Claridge Plaza III, 85m
+16. Claridge Plaza IV, 85m
+17. World Exchange Plaza Tower I, 85m
+18. Tribeca East, 84m
+19. Tribeca West, 84m
+20. Department of National Defence Building, 84m
+21. The Carlisle, 84m
+22. Sir William Logan Building, 83m
+23. Queen Elizabeth Towers East, 82m
+24. Queen Elizabeth Towers West, 82m
+25. Rio Vista, 81m
+26. Minto Place Canada Building, 80m
+27. Park Place Apartments, 80m
+28. Chateau Royale East, 79m
+29. Chateau Royale West, 79m
+30. Jeanne Mance Building, 77m
+31. Dunton Tower, 77m
+32. Jean Edmonds Towers South, 77m
+33. Bromley Square, 77m
+34. Constitution Square III, 77m
+35. Frobisher Place, 76m
+36. Island Park Towers III, 76m
+37. Castleview, 76m
+38. Standard Life Centre North, 76m
+39. The Cross Winds, 75m
+40. Place St-George, 75m
+
+******************** DETAILS ********************
+
+*** Ottawa ***
+Country: Canada
+Region: North America
+40 towers: Claridge Icon, Place de Ville III, Minto Metropole, Le Parc, R.H. Coats Building, Ottawa Marriott Hotel, Delta Ottawa City Centre, Place Bell Canada, Minto Place Suite Hotel, Constitution Square II, Performance Court, 66 Slater, Place de Ville I, Place de Ville II, Claridge Plaza III, Claridge Plaza IV, World Exchange Plaza Tower I, Tribeca East, Tribeca West, Department of National Defence Building, The Carlisle, Sir William Logan Building, Queen Elizabeth Towers East, Queen Elizabeth Towers West, Rio Vista, Minto Place Canada Building, Park Place Apartments, Chateau Royale East, Chateau Royale West, Jeanne Mance Building, Dunton Tower, Jean Edmonds Towers South, Bromley Square, Constitution Square III, Frobisher Place, Island Park Towers III, Castleview, Standard Life Centre North, The Cross Winds, Place St-George
+Tiers: I: 37, II: 3
+Rating: 43 (4.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Claridge Icon ***
+Height: 143
+Floors: 45
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Place de Ville III ***
+Height: 112
+Floors: 29
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 2
+
+*** Minto Metropole ***
+Height: 108
+Floors: 33
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 3
+
+*** Le Parc ***
+Height: 104
+Floors: 30
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 4
+
+*** R.H. Coats Building ***
+Height: 99
+Floors: 26
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 5
+
+*** Ottawa Marriott Hotel ***
+Height: 96.32
+Floors: 26
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 6
+
+*** Delta Ottawa City Centre ***
+Height: 96
+Floors: 26
+Status: Completed
+Completed: 1967
+Functions: hotel
+Rank: 7
+
+*** Place Bell Canada ***
+Height: 94
+Floors: 27
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 8
+
+*** Minto Place Suite Hotel ***
+Height: 91.75
+Floors: 30
+Status: Completed
+Completed: 1989
+Functions: hotel
+Rank: 9
+
+*** Constitution Square II ***
+Height: 90
+Floors: 21
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 10
+
+*** Performance Court ***
+Height: 89.6
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 11
+
+*** 66 Slater ***
+Height: 88
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 12
+
+*** Place de Ville I ***
+Height: 87
+Floors: 22
+Status: Completed
+Completed: 1966
+Functions: office / retail
+Rank: 13
+
+*** Place de Ville II ***
+Height: 87
+Floors: 22
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 13
+
+*** Claridge Plaza III ***
+Height: 85
+Floors: 28
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 15
+
+*** Claridge Plaza IV ***
+Height: 85
+Floors: 28
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 15
+
+*** World Exchange Plaza Tower I ***
+Height: 84.75
+Floors: 20
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 17
+
+*** Tribeca East ***
+Height: 84.5
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 18
+
+*** Tribeca West ***
+Height: 84.5
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 18
+
+*** Department of National Defence Building ***
+Height: 84
+Floors: 18
+Status: Completed
+Started: 1969
+Completed: 1974
+Functions: government
+Rank: 20
+
+*** The Carlisle ***
+Height: 83.5
+Floors: 28
+Status: Completed
+Completed: 1986
+Functions: residential / office
+Rank: 21
+
+*** Sir William Logan Building ***
+Height: 82.6
+Floors: 21
+Status: Completed
+Functions: office
+Rank: 22
+
+*** Queen Elizabeth Towers East ***
+Height: 82
+Floors: 28
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 23
+
+*** Queen Elizabeth Towers West ***
+Height: 82
+Floors: 28
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 23
+
+*** Rio Vista ***
+Height: 81.3
+Floors: 24
+Status: Completed
+Functions: residential
+Rank: 25
+
+*** Minto Place Canada Building ***
+Height: 80.5
+Floors: 18
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 26
+
+*** Park Place Apartments ***
+Height: 79.5
+Floors: 28
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 27
+
+*** Chateau Royale East ***
+Height: 79.25
+Floors: 28
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 28
+
+*** Chateau Royale West ***
+Height: 79.25
+Floors: 28
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 28
+
+*** Jeanne Mance Building ***
+Height: 77.1
+Floors: 21
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 30
+
+*** Dunton Tower ***
+Height: 77
+Floors: 23
+Status: Completed
+Completed: 1974
+Functions: education
+Rank: 31
+
+*** Jean Edmonds Towers South ***
+Height: 77
+Floors: 20
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 32
+
+*** Bromley Square ***
+Height: 76.8
+Floors: 26
+Status: Completed
+Functions: residential
+Rank: 33
+
+*** Constitution Square III ***
+Height: 76.8
+Floors: 19
+Status: Completed
+Completed: 2007
+Functions: office / retail
+Rank: 34
+
+*** Frobisher Place ***
+Height: 76.5
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 35
+
+*** Island Park Towers III ***
+Height: 76.5
+Floors: 26
+Status: Completed
+Functions: residential
+Rank: 35
+
+*** Castleview ***
+Height: 76.2
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 37
+
+*** Standard Life Centre North ***
+Height: 75.6
+Floors: 18
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 38
+
+*** The Cross Winds ***
+Height: 75.3
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 39
+
+*** Place St-George ***
+Height: 75.25
+Floors: 24
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 40

@@ -1,0 +1,243 @@
+*** Netherlands (207) ***
+1.  Rotterdam, 79
+2.  Amsterdam, 41
+3.  The Hague, 32
+4.  Utrecht, 9
+5.  Eindhoven, 7
+6.  Groningen, 4
+7.  Tilburg, 4
+8.  Almere, 4
+9.  Leeuwarden, 3
+10. Delft, 3
+11. Spijkenisse, 3
+12. Hoofddorp, 2
+13. Enschede, 2
+14. Nijmegen, 2
+15. Zwolle, 1
+16. IJmuiden, 1
+17. Apeldoorn, 1
+18. Hoogvliet, 1
+19. Veldhoven, 1
+20. Capelle aan den IJssel, 1
+21. Terneuzen, 1
+22. Geertruidenberg, 1
+23. Vlissingen, 1
+24. Zoetermeer, 1
+25. Arnhem, 1
+26. Den Bosch, 1
+
+******************** DETAILS ********************
+
+*** Netherlands ***
+Region: Europe
+26 cities: Rotterdam, Amsterdam, The Hague, Utrecht, Eindhoven, Groningen, Tilburg, Almere, Leeuwarden, Delft, Spijkenisse, Hoofddorp, Enschede, Nijmegen, Zwolle, IJmuiden, Apeldoorn, Hoogvliet, Veldhoven, Capelle aan den IJssel, Terneuzen, Geertruidenberg, Vlissingen, Zoetermeer, Arnhem, Den Bosch
+Tiers: I: 129, II: 24, III: 6, IV: 1
+Rating: 207 (8.2% uncompleted)
+
+*** Rotterdam ***
+Country: Netherlands
+Region: Europe
+49 towers: De Zalmhaven, Maastoren, New Orleans, Montevideo, Gebouw Delftse Poort 1, De Rotterdam, Millennium Tower, World Port Center, First Rotterdam, The Red Apple, Nieuwbouw Erasmus MC, Erasmus Medisch Centrum, Waterstadtoren, Fortis Bank Blaak, Weenatoren, 100 Hoog, Coopvaert, Weenacenter, Hoge Heren I, Hoge Heren II, Schielandtoren, Pegasus, Toren op Zuid, Robeco, Hofpoort, Hoge Erasmus, Gebouw Delftse Poort 2, Europoint II, Europoint III, Europoint IV, World Trade Center, Wilhelminatoren, Hooghmonde, ABN Amro, Scheepmakerstoren, Willemswerf, Cite I, Wijnhaeve, Harbour Village I, Admiraal, H-gebouw Erasmus Universiteit, Koninginnetoren, Parktoren, Gebouw De Maas, Ernst & Young, The Muse, Cite II, T-gebouw Erasmus Universiteit, Westerlaantoren
+Tiers: I: 33, II: 10, III: 5, IV: 1
+Rating: 79 (8.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Amsterdam ***
+Country: Netherlands
+Region: Europe
+36 towers: Rembrandt Tower, Mondriaan Toren, Maritim Congress Hotel, Amsterdam Symphony I, Amsterdam Symphony II, World Trade Center Tower H, ABN AMRO World HQ, Overhoeks Residential Tower, Amstel Tower, Ito-toren, Millennium Tower, Valley 1, Crystal Tower, Vinoly, Breitner Center, Oval Tower, A'DAM Toren, nhow Amsterdam RAI Hotel, The Rock, Pontsteiger, Intermezzo, La Guardia Plaza 4, Ernst & Young, New Amsterdam, Zuidoost Toren A, UN Studio Tower, Gemeentelijke Belastingdienst, Hourglass, IJ-Toren, Zuidoost Toren B, Okura Hotel, 900 Mahler, Valley 2, De Nederlandsche Bank, Amsterdam ArenA, B'Mine
+Tiers: I: 33, II: 2, III: 1
+Rating: 41 (19.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Hague ***
+Country: Netherlands
+Region: Europe
+24 towers: Ministerie van Binnenlandse Zaken, Ministerie van Justitie, Hoftoren, New Babylon City Tower, Het Strijkijzer, De Kroon, Prinsenhof, Castalia, New Babylon Park Tower, Zurichtoren, Leonardo da Vinci I, Muzentoren, Witte Anna, Prinsenhof Residential Block 1, Prinsenhof Residential Block 2, Prinsenhof Residential Block 3, Malietoren, TPG Post, Centre Court, De Zilveren Toren, European Patent Office, European Patent Office, Sir Winston Churchill Tower, Hoogvoorde
+Tiers: I: 16, II: 8
+Rating: 32
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Utrecht ***
+Country: Netherlands
+Region: Europe
+9 towers: Rabobanktoren, Stadskantoor, Kantoortoren Galghenwert, Le Mirage, Rijkswaterstaat Westraven, Fortis Bank, NS-Groep NV, Willem C. van Unnikgebouw, WTC Utrecht
+Tiers: I: 9
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Eindhoven ***
+Country: Netherlands
+Region: Europe
+7 towers: De Admirant, Porthos, De Regent, Vestedatoren, Onyx, Kennedy Toren, Zorgcentrum Gagelbosch Toren II
+Tiers: I: 7
+Rating: 7 (28.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Groningen ***
+Country: Netherlands
+Region: Europe
+4 towers: EEA and Tax Office, Nederlande Gasunie, Brander, Stoker
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tilburg ***
+Country: Netherlands
+Region: Europe
+3 towers: Westpoint, De Stadsheer, Interpolis
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Almere ***
+Country: Netherlands
+Region: Europe
+3 towers: Carlton, Eurotoren, Martinez
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Leeuwarden ***
+Country: Netherlands
+Region: Europe
+2 towers: Achmea, Avero
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Delft ***
+Country: Netherlands
+Region: Europe
+3 towers: TU Delft faculteit Informatietechnologie en Systemen, Torenhove, Vermeertoren
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Spijkenisse ***
+Country: Netherlands
+Region: Europe
+2 towers: De Rokade, Terras aan de Maas
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hoofddorp ***
+Country: Netherlands
+Region: Europe
+2 towers: Pharos, Zuidtoren
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Enschede ***
+Country: Netherlands
+Region: Europe
+2 towers: Alphatoren, De Boulevard
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nijmegen ***
+Country: Netherlands
+Region: Europe
+2 towers: Erasmusgebouw, 52degrees
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zwolle ***
+Country: Netherlands
+Region: Europe
+1 tower: IJsseltoren
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** IJmuiden ***
+Country: Netherlands
+Region: Europe
+1 tower: Kolenmaallijn 3
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Apeldoorn ***
+Country: Netherlands
+Region: Europe
+1 tower: La Tour
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hoogvliet ***
+Country: Netherlands
+Region: Europe
+1 tower: Oosterbaken
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Veldhoven ***
+Country: Netherlands
+Region: Europe
+1 tower: ASML Toren
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Capelle aan den IJssel ***
+Country: Netherlands
+Region: Europe
+1 tower: Gemini II
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Terneuzen ***
+Country: Netherlands
+Region: Europe
+1 tower: Waterfront
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Geertruidenberg ***
+Country: Netherlands
+Region: Europe
+1 tower: Amercentrale
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Vlissingen ***
+Country: Netherlands
+Region: Europe
+1 tower: Sardijntoren
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zoetermeer ***
+Country: Netherlands
+Region: Europe
+1 tower: Apollo
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Arnhem ***
+Country: Netherlands
+Region: Europe
+1 tower: Ohra
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Den Bosch ***
+Country: Netherlands
+Region: Europe
+1 tower: Provinciehuis Noord Brabant
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

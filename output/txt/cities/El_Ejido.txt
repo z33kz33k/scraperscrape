@@ -1,0 +1,21 @@
+*** El Ejido (1) ***
+1. Edificio Torre Laguna, 104m
+
+******************** DETAILS ********************
+
+*** El Ejido ***
+Country: Spain
+Region: Europe
+1 tower: Edificio Torre Laguna
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Edificio Torre Laguna ***
+Height: 104
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / office
+Rank: 1

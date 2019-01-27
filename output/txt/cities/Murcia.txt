@@ -1,0 +1,20 @@
+*** Murcia (1) ***
+1. Torre Norte, 100m
+
+******************** DETAILS ********************
+
+*** Murcia ***
+Country: Spain
+Region: Europe
+1 tower: Torre Norte
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre Norte ***
+Height: 100
+Floors: 22
+Status: Under Construction
+Started: 2010
+Functions: hotel / office
+Rank: 1

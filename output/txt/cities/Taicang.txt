@@ -1,0 +1,20 @@
+*** Taicang (4) ***
+1. Taicang New Port Businese Area NO.1 Building, 155m
+
+******************** DETAILS ********************
+
+*** Taicang ***
+Country: China
+Region: Asia
+1 tower: Taicang New Port Businese Area NO.1 Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Taicang New Port Businese Area NO.1 Building ***
+Height: 155.1
+Floors: 36
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 1

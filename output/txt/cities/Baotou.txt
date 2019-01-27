@@ -1,0 +1,21 @@
+*** Baotou (1) ***
+1. Contemporary Ecological Building, 84m
+
+******************** DETAILS ********************
+
+*** Baotou ***
+Country: China
+Region: Asia
+1 tower: Contemporary Ecological Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Contemporary Ecological Building ***
+Height: 84.5
+Floors: 20
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: hotel / office
+Rank: 1

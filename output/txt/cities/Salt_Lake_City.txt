@@ -1,0 +1,148 @@
+*** Salt Lake City (20) ***
+1.  Wells Fargo Center, 129m
+2.  LDS Office Building, 128m
+3.  111 Main, 118m
+4.  99 West City Creek Condominium Tower, 115m
+5.  Key Bank Tower, 107m
+6.  One Utah Center, 107m
+7.  Beneficial Financial Group Tower, 102m
+8.  Grand America Hotel, 101m
+9.  American Towers Condominiums North Tower, 99m
+10. American Towers Condominiums South Tower, 99m
+11. World Trade Center at City Creek, 98m
+12. 222 South Main, 96m
+13. 136 E South Temple, 84m
+14. The Regent, 81m
+
+******************** DETAILS ********************
+
+*** Salt Lake City ***
+Country: United States
+Region: North America
+14 towers: Wells Fargo Center, LDS Office Building, 111 Main, 99 West City Creek Condominium Tower, Key Bank Tower, One Utah Center, Beneficial Financial Group Tower, Grand America Hotel, American Towers Condominiums North Tower, American Towers Condominiums South Tower, World Trade Center at City Creek, 222 South Main, 136 E South Temple, The Regent
+Tiers: I: 8, II: 6
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wells Fargo Center ***
+Height: 128.63
+Floors: 26
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 1
+
+*** LDS Office Building ***
+Height: 128
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 2
+
+*** 111 Main ***
+Height: 117.96
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 3
+
+*** 99 West City Creek Condominium Tower ***
+Height: 114.91
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 4
+
+*** Key Bank Tower ***
+Height: 107
+Floors: 27
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 5
+
+*** One Utah Center ***
+Height: 106.68
+Floors: 24
+Status: Completed
+Started: 1990
+Completed: 1991
+Functions: office
+Rank: 6
+
+*** Beneficial Financial Group Tower ***
+Height: 102
+Floors: 20
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 7
+
+*** Grand America Hotel ***
+Height: 100.59
+Floors: 24
+Status: Completed
+Started: 1996
+Completed: 2001
+Functions: hotel
+Rank: 8
+
+*** American Towers Condominiums North Tower ***
+Height: 98.76
+Floors: 26
+Status: Completed
+Started: 1981
+Completed: 1982
+Functions: residential / retail
+Rank: 9
+
+*** American Towers Condominiums South Tower ***
+Height: 98.76
+Floors: 26
+Status: Completed
+Started: 1981
+Completed: 1982
+Functions: retail / residential
+Rank: 9
+
+*** World Trade Center at City Creek ***
+Height: 97.54
+Floors: 22
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: office / retail
+Rank: 11
+
+*** 222 South Main ***
+Height: 96.01
+Floors: 22
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: office
+Rank: 12
+
+*** 136 E South Temple ***
+Height: 83.52
+Floors: 25
+Status: Completed
+Started: 1965
+Completed: 1966
+Functions: office
+Rank: 13
+
+*** The Regent ***
+Height: 80.77
+Floors: 23
+Status: Completed
+Completed: 2011
+Functions: residential / office / retail
+Rank: 14

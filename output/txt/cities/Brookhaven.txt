@@ -1,0 +1,20 @@
+*** Brookhaven (2) ***
+1. Hewlett-Packard Building, 116m
+
+******************** DETAILS ********************
+
+*** Brookhaven ***
+Country: United States
+Region: North America
+1 tower: Hewlett-Packard Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hewlett-Packard Building ***
+Height: 116.1
+Floors: 27
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 1

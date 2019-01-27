@@ -1,0 +1,21 @@
+*** Christchurch (1) ***
+1. Pacific Tower, 86m
+
+******************** DETAILS ********************
+
+*** Christchurch ***
+Country: New Zealand
+Region: Oceania
+1 tower: Pacific Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pacific Tower ***
+Height: 86
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / hotel / office
+Rank: 1

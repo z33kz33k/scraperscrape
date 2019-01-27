@@ -1,0 +1,30 @@
+*** Maputo (4) ***
+1. Banco de Mocambique Tower 1, 130m
+2. Predio 33 Andares, 106m
+
+******************** DETAILS ********************
+
+*** Maputo ***
+Country: Mozambique
+Region: Africa
+2 towers: Banco de Mocambique Tower 1, Predio 33 Andares
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Banco de Mocambique Tower 1 ***
+Height: 130
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 1
+
+*** Predio 33 Andares ***
+Height: 106
+Floors: 33
+Status: Completed
+Completed: 1982
+Functions: residential / office
+Rank: 2

@@ -1,0 +1,21 @@
+*** Split (2) ***
+1. Westgate Tower B, 110m
+
+******************** DETAILS ********************
+
+*** Split ***
+Country: Croatia
+Region: Europe
+1 tower: Westgate Tower B
+Tiers: II: 1
+Rating: 2 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Westgate Tower B ***
+Height: 110
+Floors: 28
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: hotel
+Rank: 1

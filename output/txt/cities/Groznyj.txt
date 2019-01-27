@@ -1,0 +1,61 @@
+*** Groznyj (7) ***
+1. Phoenix, 145m
+2. Hotel Grozny-City, 120m
+3. Business Center Grozny-City, 88m
+4. Grozny-City Residential Tower 1, 88m
+5. Grozny-City Residential Tower 2, 88m
+
+******************** DETAILS ********************
+
+*** Groznyj ***
+Country: Russia
+Region: Europe
+5 towers: Phoenix, Hotel Grozny-City, Business Center Grozny-City, Grozny-City Residential Tower 1, Grozny-City Residential Tower 2
+Tiers: I: 3, II: 2
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Phoenix ***
+Height: 145
+Floors: 40
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Hotel Grozny-City ***
+Height: 120
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: hotel
+Rank: 2
+
+*** Business Center Grozny-City ***
+Height: 88.35
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 3
+
+*** Grozny-City Residential Tower 1 ***
+Height: 88.35
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 3
+
+*** Grozny-City Residential Tower 2 ***
+Height: 88.35
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 3

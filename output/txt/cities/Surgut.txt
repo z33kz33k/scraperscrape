@@ -1,0 +1,121 @@
+*** Surgut (12) ***
+1.  Severnaya Venetsiya, 82m
+2.  Vozrozhdenie 1, 82m
+3.  Vozrozhdenie 2, 82m
+4.  Vozrozhdenie 3, 82m
+5.  Vozrozhdenie 4, 82m
+6.  5 Zvezd 1, 79m
+7.  5 Zvezd 2, 79m
+8.  5 Zvezd 3, 79m
+9.  Novye Klyuchi 1, 79m
+10. Novye Klyuchi 2, 79m
+11. Novye Klyuchi 3, 79m
+12. Zhemchuzhina Yugry, 76m
+
+******************** DETAILS ********************
+
+*** Surgut ***
+Country: Russia
+Region: Asia
+12 towers: Severnaya Venetsiya, Vozrozhdenie 1, Vozrozhdenie 2, Vozrozhdenie 3, Vozrozhdenie 4, 5 Zvezd 1, 5 Zvezd 2, 5 Zvezd 3, Novye Klyuchi 1, Novye Klyuchi 2, Novye Klyuchi 3, Zhemchuzhina Yugry
+Tiers: I: 12
+Rating: 12 (33.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Severnaya Venetsiya ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Vozrozhdenie 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 1
+
+*** Vozrozhdenie 2 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** Vozrozhdenie 3 ***
+Height: 82
+Floors: 26
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Vozrozhdenie 4 ***
+Height: 82
+Floors: 26
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** 5 Zvezd 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 6
+
+*** 5 Zvezd 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 6
+
+*** 5 Zvezd 3 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 6
+
+*** Novye Klyuchi 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 6
+
+*** Novye Klyuchi 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 6
+
+*** Novye Klyuchi 3 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 6
+
+*** Zhemchuzhina Yugry ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 12

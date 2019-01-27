@@ -1,0 +1,20 @@
+*** Alexandria (2) ***
+1. San Stefano Grand Plaza, 135m
+
+******************** DETAILS ********************
+
+*** Alexandria ***
+Country: Egypt
+Region: Africa
+1 tower: San Stefano Grand Plaza
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** San Stefano Grand Plaza ***
+Height: 135
+Floors: 31
+Status: Completed
+Completed: 2006
+Functions: hotel / office / retail
+Rank: 1

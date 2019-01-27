@@ -1,0 +1,38 @@
+*** Abuja (8) ***
+1. Abuja World Trade Center Hotel Tower, 158m
+2. Abuja World Trade Center Commercial Tower, 120m
+3. Abuja World Trade Center Residential Tower, 110m
+
+******************** DETAILS ********************
+
+*** Abuja ***
+Country: Nigeria
+Region: Africa
+3 towers: Abuja World Trade Center Hotel Tower, Abuja World Trade Center Commercial Tower, Abuja World Trade Center Residential Tower
+Tiers: II: 2, III: 1
+Rating: 8 (75.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Abuja World Trade Center Hotel Tower ***
+Height: 158
+Floors: 37
+Status: Under Construction
+Started: 2014
+Functions: hotel
+Rank: 1
+
+*** Abuja World Trade Center Commercial Tower ***
+Height: 120
+Floors: 24
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 2
+
+*** Abuja World Trade Center Residential Tower ***
+Height: 110
+Floors: 24
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 3

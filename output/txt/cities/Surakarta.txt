@@ -1,0 +1,58 @@
+*** Surakarta (8) ***
+1. Alila Solo, 124m
+2. Solo Paragon , 109m
+3. Indriati Hospital, 107m
+4. Best Western Premier Solo, 82m
+5. Quest Hotel Solo, 81m
+
+******************** DETAILS ********************
+
+*** Surakarta ***
+Country: Indonesia
+Region: Asia
+5 towers: Alila Solo, Solo Paragon , Indriati Hospital, Best Western Premier Solo, Quest Hotel Solo
+Tiers: I: 2, II: 3
+Rating: 8 (12.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Alila Solo ***
+Height: 124
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: hotel
+Rank: 1
+
+*** Solo Paragon  ***
+Height: 109
+Floors: 23
+Status: Completed
+Completed: 2010
+Functions: hotel / residential
+Rank: 2
+
+*** Indriati Hospital ***
+Height: 107
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hospital
+Rank: 3
+
+*** Best Western Premier Solo ***
+Height: 82
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel
+Rank: 4
+
+*** Quest Hotel Solo ***
+Height: 81.4
+Floors: 23
+Status: Under Construction
+Functions: hotel
+Rank: 5

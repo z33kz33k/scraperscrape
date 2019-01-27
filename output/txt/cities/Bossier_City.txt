@@ -1,0 +1,21 @@
+*** Bossier City (1) ***
+1. Horseshoe Casino Hotel, 87m
+
+******************** DETAILS ********************
+
+*** Bossier City ***
+Country: United States
+Region: North America
+1 tower: Horseshoe Casino Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Horseshoe Casino Hotel ***
+Height: 87.17
+Floors: 26
+Status: Completed
+Started: 1996
+Completed: 1997
+Functions: hotel
+Rank: 1

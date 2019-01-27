@@ -1,0 +1,21 @@
+*** Manado (2) ***
+1. Tamansari Lagoon, 112m
+
+******************** DETAILS ********************
+
+*** Manado ***
+Country: Indonesia
+Region: Asia
+1 tower: Tamansari Lagoon
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tamansari Lagoon ***
+Height: 112
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 1

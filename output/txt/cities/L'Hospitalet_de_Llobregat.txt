@@ -1,0 +1,81 @@
+*** L'Hospitalet de Llobregat (10) ***
+1. Hotel Porta Fira, 114m
+2. Torre Realia BCN, 113m
+3. Torre PUIG, 109m
+4. Hesperia Tower, 105m
+5. Renaissance Barcelona Fira Hotel, 105m
+6. Torre Inbisa, 104m
+7. Torre Werfen, 104m
+
+******************** DETAILS ********************
+
+*** L'Hospitalet de Llobregat ***
+Country: Spain
+Region: Europe
+7 towers: Hotel Porta Fira, Torre Realia BCN, Torre PUIG, Hesperia Tower, Renaissance Barcelona Fira Hotel, Torre Inbisa, Torre Werfen
+Tiers: I: 4, II: 3
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hotel Porta Fira ***
+Height: 113.61
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: hotel
+Rank: 1
+
+*** Torre Realia BCN ***
+Height: 113.33
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office / commercial
+Rank: 2
+
+*** Torre PUIG ***
+Height: 109
+Floors: 22
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 3
+
+*** Hesperia Tower ***
+Height: 105
+Floors: 28
+Status: Completed
+Started: 2002
+Completed: 2006
+Functions: hotel
+Rank: 4
+
+*** Renaissance Barcelona Fira Hotel ***
+Height: 105
+Floors: 26
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: hotel
+Rank: 5
+
+*** Torre Inbisa ***
+Height: 103.9
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 6
+
+*** Torre Werfen ***
+Height: 103.9
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 6

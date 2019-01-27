@@ -1,0 +1,40 @@
+*** Sheffield (3) ***
+1. St. Paul's Tower, 101m
+2. Arts Tower, 78m
+3. Royal Hallamshire Hospital, 76m
+
+******************** DETAILS ********************
+
+*** Sheffield ***
+Country: United Kingdom
+Region: Europe
+3 towers: St. Paul's Tower, Arts Tower, Royal Hallamshire Hospital
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** St. Paul's Tower ***
+Height: 101
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** Arts Tower ***
+Height: 77.7
+Floors: 20
+Status: Completed
+Started: 1965
+Functions: education
+Rank: 2
+
+*** Royal Hallamshire Hospital ***
+Height: 76.3
+Floors: 17
+Status: Completed
+Started: 1970
+Completed: 1974
+Functions: hospital
+Rank: 3

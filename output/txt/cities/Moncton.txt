@@ -1,0 +1,20 @@
+*** Moncton (1) ***
+1. Place L'Assomption, 81m
+
+******************** DETAILS ********************
+
+*** Moncton ***
+Country: Canada
+Region: North America
+1 tower: Place L'Assomption
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Place L'Assomption ***
+Height: 81
+Floors: 21
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 1

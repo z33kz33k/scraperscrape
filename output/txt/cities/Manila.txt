@@ -1,0 +1,161 @@
+*** Manila (53) ***
+1.  Grand Riviera Suites, 230m
+2.  Park Royal Ongpin, 213m
+3.  Anchor Grand Suites, 208m
+4.  1322 Golden Empire Tower, 203m
+5.  Admiral Baysuites, 193m
+6.  Anchor Skysuites, 191m
+7.  Birch Tower, 178m
+8.  Noble Place, 170m
+9.  Torre de Manila, 165m
+10. Mandarin Square, 149m
+11. Robinson Place Tower I, 137m
+12. Robinson Place Tower II, 137m
+13. Mayfair Tower, 132m
+14. 2-Torre Lorenzo, 122m
+15. Goldland Plaza, 120m
+16. FEU TECH Building, 76m
+
+******************** DETAILS ********************
+
+*** Manila ***
+Country: Philippines
+Region: Asia
+16 towers: Grand Riviera Suites, Park Royal Ongpin, Anchor Grand Suites, 1322 Golden Empire Tower, Admiral Baysuites, Anchor Skysuites, Birch Tower, Noble Place, Torre de Manila, Mandarin Square, Robinson Place Tower I, Robinson Place Tower II, Mayfair Tower, 2-Torre Lorenzo, Goldland Plaza, FEU TECH Building
+Tiers: I: 1, II: 6, III: 7, IV: 2
+Rating: 53 (26.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Grand Riviera Suites ***
+Height: 230
+Floors: 57
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Park Royal Ongpin ***
+Height: 213
+Floors: 52
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Anchor Grand Suites ***
+Height: 208
+Floors: 58
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 3
+
+*** 1322 Golden Empire Tower ***
+Height: 203
+Floors: 57
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 4
+
+*** Admiral Baysuites ***
+Height: 193.23
+Floors: 51
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / hotel
+Rank: 5
+
+*** Anchor Skysuites ***
+Height: 190.55
+Floors: 53
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 6
+
+*** Birch Tower ***
+Height: 178
+Floors: 52
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 7
+
+*** Noble Place ***
+Height: 170
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 8
+
+*** Torre de Manila ***
+Height: 165
+Floors: 47
+Status: Under Construction
+Started: 2013
+Functions: residential
+Rank: 9
+
+*** Mandarin Square ***
+Height: 149
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 10
+
+*** Robinson Place Tower I ***
+Height: 137
+Floors: 38
+Status: Completed
+Functions: residential
+Rank: 11
+
+*** Robinson Place Tower II ***
+Height: 137
+Floors: 38
+Status: Completed
+Functions: residential
+Rank: 11
+
+*** Mayfair Tower ***
+Height: 132
+Floors: 33
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 13
+
+*** 2-Torre Lorenzo ***
+Height: 122.15
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 14
+
+*** Goldland Plaza ***
+Height: 120
+Floors: 30
+Status: Completed
+Completed: 1991
+Rank: 15
+
+*** FEU TECH Building ***
+Height: 75.89
+Floors: 17
+Status: Completed
+Completed: 2015
+Functions: education
+Rank: 16

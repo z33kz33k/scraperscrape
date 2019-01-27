@@ -1,0 +1,27 @@
+*** Lithuania (13) ***
+1. Vilnius, 10
+2. Klaipeda, 3
+
+******************** DETAILS ********************
+
+*** Lithuania ***
+Region: Europe
+2 cities: Vilnius, Klaipeda
+Tiers: I: 9, II: 2
+Rating: 13
+
+*** Vilnius ***
+Country: Lithuania
+Region: Europe
+9 towers: Europa Tower, Helios City Tower A, Europa Square Apartments, Vilnius Business Harbour Tower A, Reval Hotel Lietuva, Grand Office, Municipality Building, Vilnius Gate Apartments, Victoria Tower
+Tiers: I: 8, II: 1
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Klaipeda ***
+Country: Lithuania
+Region: Europe
+2 towers: Pilsotas, BIG2 2
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16

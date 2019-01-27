@@ -1,0 +1,51 @@
+*** Zhongshan (26) ***
+1. International Trade Center, 305m
+2. Perfect Golden Eagle Square, 238m
+3. Zhongshan International Finance Center Tower 1, 220m
+4. Zhongshan International Finance Center Tower 2, 220m
+
+******************** DETAILS ********************
+
+*** Zhongshan ***
+Country: China
+Region: Asia
+4 towers: International Trade Center, Perfect Golden Eagle Square, Zhongshan International Finance Center Tower 1, Zhongshan International Finance Center Tower 2
+Tiers: IV: 3, V: 1
+Rating: 26 (53.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** International Trade Center ***
+Height: 305
+Floors: 65
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: hotel / office
+Rank: 1
+
+*** Perfect Golden Eagle Square ***
+Height: 238
+Floors: 53
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** Zhongshan International Finance Center Tower 1 ***
+Height: 220
+Floors: 55
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hotel / office
+Rank: 3
+
+*** Zhongshan International Finance Center Tower 2 ***
+Height: 220
+Floors: 55
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 3

@@ -1,0 +1,21 @@
+*** Allentown (1) ***
+1. PPL Building, 98m
+
+******************** DETAILS ********************
+
+*** Allentown ***
+Country: United States
+Region: North America
+1 tower: PPL Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** PPL Building ***
+Height: 98.02
+Floors: 24
+Status: Completed
+Started: 1926
+Completed: 1928
+Functions: office
+Rank: 1

@@ -1,0 +1,88 @@
+*** Antwerp (8) ***
+1. KBC Tower, 97m
+2. Antwerp Tower, 87m
+3. Chicago Building, 81m
+4. Park Tower, 79m
+5. London Tower, 77m
+6. Theatre Building, 76m
+7. Politietoren, 76m
+8. Lichttoren, 75m
+
+******************** DETAILS ********************
+
+*** Antwerp ***
+Country: Belgium
+Region: Europe
+8 towers: KBC Tower, Antwerp Tower, Chicago Building, Park Tower, London Tower, Theatre Building, Politietoren, Lichttoren
+Tiers: I: 8
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** KBC Tower ***
+Height: 97
+Floors: 26
+Status: Completed
+Started: 1929
+Completed: 1932
+Functions: office
+Rank: 1
+
+*** Antwerp Tower ***
+Height: 87
+Floors: 25
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 2
+
+*** Chicago Building ***
+Height: 81
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 3
+
+*** Park Tower ***
+Height: 78.8
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 4
+
+*** London Tower ***
+Height: 76.6
+Floors: 27
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential / office
+Rank: 5
+
+*** Theatre Building ***
+Height: 76
+Floors: 21
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: office
+Rank: 6
+
+*** Politietoren ***
+Height: 76
+Floors: 17
+Status: Completed
+Started: 1958
+Completed: 1967
+Functions: office
+Rank: 7
+
+*** Lichttoren ***
+Height: 75
+Floors: 21
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / office
+Rank: 8

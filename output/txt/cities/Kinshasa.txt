@@ -1,0 +1,19 @@
+*** Kinshasa (1) ***
+1. RTNC Congo Building, 103m
+
+******************** DETAILS ********************
+
+*** Kinshasa ***
+Country: Democratic Republic Of The Congo
+Region: Africa
+1 tower: RTNC Congo Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** RTNC Congo Building ***
+Height: 103
+Floors: 22
+Status: Completed
+Functions: government
+Rank: 1

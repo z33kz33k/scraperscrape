@@ -1,0 +1,21 @@
+*** Latina (2) ***
+1. Torre Pontina, 128m
+
+******************** DETAILS ********************
+
+*** Latina ***
+Country: Italy
+Region: Europe
+1 tower: Torre Pontina
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre Pontina ***
+Height: 128
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office
+Rank: 1

@@ -1,0 +1,20 @@
+*** Most (1) ***
+1. Technical Services Shd, 86m
+
+******************** DETAILS ********************
+
+*** Most ***
+Country: Czech Republic
+Region: Europe
+1 tower: Technical Services Shd
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Technical Services Shd ***
+Height: 86
+Floors: 23
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 1

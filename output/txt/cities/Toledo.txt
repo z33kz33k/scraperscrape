@@ -1,0 +1,77 @@
+*** Toledo (10) ***
+1. One SeaGate, 125m
+2. Tower on the Maumee, 122m
+3. National City Bank Building, 112m
+4. Michael DiSalle Building, 100m
+5. Riverfront Apartments, 88m
+6. HCR Manor Care, 77m
+7. Fifth Third Center, 76m
+
+******************** DETAILS ********************
+
+*** Toledo ***
+Country: United States
+Region: North America
+7 towers: One SeaGate, Tower on the Maumee, National City Bank Building, Michael DiSalle Building, Riverfront Apartments, HCR Manor Care, Fifth Third Center
+Tiers: I: 4, II: 3
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** One SeaGate ***
+Height: 125.27
+Floors: 32
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 1
+
+*** Tower on the Maumee ***
+Height: 121.92
+Floors: 30
+Status: Completed
+Started: 1969
+Completed: 1970
+Functions: office
+Rank: 2
+
+*** National City Bank Building ***
+Height: 112.2
+Floors: 27
+Status: Completed
+Completed: 1932
+Functions: office
+Rank: 3
+
+*** Michael DiSalle Building ***
+Height: 99.82
+Floors: 22
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 4
+
+*** Riverfront Apartments ***
+Height: 88.1
+Floors: 21
+Status: Completed
+Completed: 1915
+Functions: residential
+Rank: 5
+
+*** HCR Manor Care ***
+Height: 77
+Floors: 18
+Status: Completed
+Started: 1987
+Completed: 1988
+Functions: office
+Rank: 6
+
+*** Fifth Third Center ***
+Height: 76.2
+Floors: 17
+Status: Completed
+Started: 1905
+Completed: 1906
+Functions: office
+Rank: 7

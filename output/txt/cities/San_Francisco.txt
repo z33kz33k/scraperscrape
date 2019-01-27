@@ -1,0 +1,1314 @@
+*** San Francisco (294) ***
+1.   Salesforce Tower, 326m
+2.   Oceanwide Center Tower 1, 277m
+3.   Transamerica Pyramid Center, 260m
+4.   181 Fremont, 244m
+5.   555 California Street, 237m
+6.   345 California Center, 212m
+7.   Millennium Tower, 197m
+8.   Oceanwide Center Tower 2, 191m
+9.   Park Tower at Transbay, 184m
+10.  One Rincon Hill South Tower, 184m
+11.  101 California Street, 183m
+12.  50 Fremont Center, 183m
+13.  The Avery, 175m
+14.  575 Market Street, 175m
+15.  Four Embarcadero Center, 174m
+16.  One Embarcadero Center, 173m
+17.  44 Montgomery, 172m
+18.  Spear Tower, 172m
+19.  One Sansome Street, 168m
+20.  One Rincon Hill North Tower, 165m
+21.  Shaklee Terrace Building, 164m
+22.  First Market Tower, 161m
+23.  McKesson Plaza, 161m
+24.  425 Market Street, 160m
+25.  706 Mission, 156m
+26.  Telesis Tower, 152m
+27.  333 Bush Street, 151m
+28.  Hilton San Francisco Union Square, 150m
+29.  Pacific Gas & Electric Building, 150m
+30.  50 California Street, 148m
+31.  555 Mission Street, 148m
+32.  St. Regis San Francisco, 148m
+33.  100 Pine Center, 145m
+34.  45 Fremont Center, 145m
+35.  333 Market Building, 144m
+36.  650 California Street, 142m
+37.  100 First Plaza, 136m
+38.  340 Fremont Street, 134m
+39.  One California, 134m
+40.  San Francisco Marriott, 133m
+41.  140 New Montgomery Street, 133m
+42.  Russ Building, 133m
+43.  Jasper, 131m
+44.  Mira, 130m
+45.  505 Montgomery, 130m
+46.  The Infinity II, 128m
+47.  JPMorgan Chase Building, 128m
+48.  The Paramount, 127m
+49.  Providian Financial Building, 127m
+50.  Three Embarcadero Center, 126m
+51.  Two Embarcadero Center, 126m
+52.  350 Mission Street, 126m
+53.  595 Market Street, 125m
+54.  123 Mission Building, 124m
+55.  Embarcadero Center West, 123m
+56.  101 Montgomery Street, 123m
+57.  100 Van Ness, 122m
+58.  Westin-St. Francis Hotel Tower, 122m
+59.  399 Fremont, 122m
+60.  LUMINA I, 122m
+61.  Four Seasons Hotel & Residences, 121m
+62.  One Maritime Plaza, 121m
+63.  8 Nema, 118m
+64.  33 New Montgomery, 116m
+65.  33 Tehama, 116m
+66.  535 Mission Street, 115m
+67.  Shell Building, 115m
+68.  456 Montgomery Street, 115m
+69.  388 Market Street, 114m
+70.  The Westin San Francisco Market Street, 114m
+71.  222 Second Street, 113m
+72.  San Francisco Hilton Hotel Financial District, 111m
+73.  199 Fremont Street, 111m
+74.  Steuart Tower, 111m
+75.  88 Kearny Street, 111m
+76.  425 California Street, 109m
+77.  100 Montgomery Street, 109m
+78.  Grand Hyatt San Francisco, 108m
+79.  101 Second Street, 108m
+80.  Fox Plaza, 108m
+81.  580 California Street, 107m
+82.  LUMINA II, 107m
+83.  The Infinity I, 107m
+84.  Parc 55 San Francisco, 107m
+85.  601 California Street, 106m
+86.  Hilton San Francisco Union Square Tower II, 106m
+87.  450 Sutter Street, 105m
+88.  135 Main Street, 104m
+89.  The InterContinental San Francisco, 104m
+90.  71 Stevenson Street, 103m
+91.  Bridgeview, 101m
+92.  55 Second Street, 101m
+93.  Royal Towers Apartments, 101m
+94.  150 California Street, 101m
+95.  San Francisco Marriott Union Square, 100m
+96.  Bechtel Building, 100m
+97.  225 Bush Street, 100m
+98.  Fairmont San Francisco, 99m
+99.  Union Bank Building, 99m
+100. 235 Pine Street, 99m
+101. Hunter-Dulin Building, 98m
+102. Central Plaza, 97m
+103. W San Francisco, 96m
+104. The Summit, 96m
+105. Sir Francis Drake Hotel, 96m
+106. 1455 Market Street, 96m
+107. Bank of California Building, 96m
+108. 353 Sacramento Street, 95m
+109. Ritz Carlton Residence Club, 95m
+110. Philip Burton Federal Building, 95m
+111. 555 Market Street, 95m
+112. McAllister Tower Apartments, 94m
+113. Bank of America Center - Annex Building, 94m
+114. One Bush Street, 94m
+115. 301 Howard Street, 94m
+116. PG&E Headquarters, 94m
+117. Mark Hopkins Hotel, 93m
+118. Trinity Place Building A, 93m
+119. Mills Tower, 92m
+120. Montgomery - Washington Tower, 92m
+121. 299 Fremont, 91m
+122. Hawthorne Plaza, 91m
+123. Central Tower, 91m
+124. Rincon Center East Tower, 89m
+125. Rincon Center West Tower, 89m
+126. 1200 California Apartments, 88m
+127. Hobart Building, 87m
+128. 475 Sansome Street, 86m
+129. 555 Montgomery Street, 86m
+130. 601 Montgomery Street, 85m
+131. 100 Spear Street, 83m
+132. Le Meridien San Francisco, 83m
+133. 600 California Street, 83m
+134. Hyatt Regency San Francisco, 81m
+135. Two Transamerica Plaza, 80m
+136. Cathedral Apartments, 78m
+137. Nob Hill Community Apartments, 78m
+138. 111 Pine Street, 76m
+
+******************** DETAILS ********************
+
+*** San Francisco ***
+Country: United States
+Region: North America
+138 towers: Salesforce Tower, Oceanwide Center Tower 1, Transamerica Pyramid Center, 181 Fremont, 555 California Street, 345 California Center, Millennium Tower, Oceanwide Center Tower 2, Park Tower at Transbay, One Rincon Hill South Tower, 101 California Street, 50 Fremont Center, The Avery, 575 Market Street, Four Embarcadero Center, One Embarcadero Center, 44 Montgomery, Spear Tower, One Sansome Street, One Rincon Hill North Tower, Shaklee Terrace Building, First Market Tower, McKesson Plaza, 425 Market Street, 706 Mission, Telesis Tower, 333 Bush Street, Hilton San Francisco Union Square, Pacific Gas & Electric Building, 50 California Street, 555 Mission Street, St. Regis San Francisco, 100 Pine Center, 45 Fremont Center, 333 Market Building, 650 California Street, 100 First Plaza, 340 Fremont Street, One California, San Francisco Marriott, 140 New Montgomery Street, Russ Building, Jasper, Mira, 505 Montgomery, The Infinity II, JPMorgan Chase Building, The Paramount, Providian Financial Building, Three Embarcadero Center, Two Embarcadero Center, 350 Mission Street, 595 Market Street, 123 Mission Building, Embarcadero Center West, 101 Montgomery Street, 100 Van Ness, Westin-St. Francis Hotel Tower, 399 Fremont, LUMINA I, Four Seasons Hotel & Residences, One Maritime Plaza, 8 Nema, 33 New Montgomery, 33 Tehama, 535 Mission Street, Shell Building, 456 Montgomery Street, 388 Market Street, The Westin San Francisco Market Street, 222 Second Street, San Francisco Hilton Hotel Financial District, 199 Fremont Street, Steuart Tower, 88 Kearny Street, 425 California Street, 100 Montgomery Street, Grand Hyatt San Francisco, 101 Second Street, Fox Plaza, 580 California Street, LUMINA II, The Infinity I, Parc 55 San Francisco, 601 California Street, Hilton San Francisco Union Square Tower II, 450 Sutter Street, 135 Main Street, The InterContinental San Francisco, 71 Stevenson Street, Bridgeview, 55 Second Street, Royal Towers Apartments, 150 California Street, San Francisco Marriott Union Square, Bechtel Building, 225 Bush Street, Fairmont San Francisco, Union Bank Building, 235 Pine Street, Hunter-Dulin Building, Central Plaza, W San Francisco, The Summit, Sir Francis Drake Hotel, 1455 Market Street, Bank of California Building, 353 Sacramento Street, Ritz Carlton Residence Club, Philip Burton Federal Building, 555 Market Street, McAllister Tower Apartments, Bank of America Center - Annex Building, One Bush Street, 301 Howard Street, PG&E Headquarters, Mark Hopkins Hotel, Trinity Place Building A, Mills Tower, Montgomery - Washington Tower, 299 Fremont, Hawthorne Plaza, Central Tower, Rincon Center East Tower, Rincon Center West Tower, 1200 California Apartments, Hobart Building, 475 Sansome Street, 555 Montgomery Street, 601 Montgomery Street, 100 Spear Street, Le Meridien San Francisco, 600 California Street, Hyatt Regency San Francisco, Two Transamerica Plaza, Cathedral Apartments, Nob Hill Community Apartments, 111 Pine Street
+Tiers: I: 52, II: 58, III: 22, IV: 5, V: 1
+Rating: 294 (6.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Salesforce Tower ***
+Height: 326.14
+Floors: 61
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 1
+
+*** Oceanwide Center Tower 1 ***
+Height: 277.37
+Floors: 61
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential / office
+Rank: 2
+
+*** Transamerica Pyramid Center ***
+Height: 260
+Floors: 48
+Status: Completed
+Started: 1969
+Completed: 1972
+Functions: office
+Rank: 3
+
+*** 181 Fremont ***
+Height: 244.45
+Floors: 56
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential / office
+Rank: 4
+
+*** 555 California Street ***
+Height: 237.44
+Floors: 52
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 5
+
+*** 345 California Center ***
+Height: 211.84
+Floors: 48
+Status: Completed
+Completed: 1986
+Functions: hotel / office
+Rank: 6
+
+*** Millennium Tower ***
+Height: 196.6
+Floors: 58
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 7
+
+*** Oceanwide Center Tower 2 ***
+Height: 191
+Floors: 54
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential / hotel
+Rank: 8
+
+*** Park Tower at Transbay ***
+Height: 184.5
+Floors: 43
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 9
+
+*** One Rincon Hill South Tower ***
+Height: 184.41
+Floors: 54
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 10
+
+*** 101 California Street ***
+Height: 183
+Floors: 48
+Status: Completed
+Started: 1979
+Completed: 1982
+Functions: office
+Rank: 11
+
+*** 50 Fremont Center ***
+Height: 183
+Floors: 43
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 12
+
+*** The Avery ***
+Height: 175.26
+Floors: 55
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 13
+
+*** 575 Market Street ***
+Height: 174.65
+Floors: 40
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 14
+
+*** Four Embarcadero Center ***
+Height: 173.74
+Floors: 45
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 15
+
+*** One Embarcadero Center ***
+Height: 173.43
+Floors: 45
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 16
+
+*** 44 Montgomery ***
+Height: 172.25
+Floors: 43
+Status: Completed
+Started: 1966
+Completed: 1967
+Functions: office
+Rank: 17
+
+*** Spear Tower ***
+Height: 172
+Floors: 42
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 18
+
+*** One Sansome Street ***
+Height: 168
+Floors: 43
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 19
+
+*** One Rincon Hill North Tower ***
+Height: 165
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 20
+
+*** Shaklee Terrace Building ***
+Height: 163.98
+Floors: 38
+Status: Completed
+Started: 1979
+Completed: 1982
+Functions: office
+Rank: 21
+
+*** First Market Tower ***
+Height: 161.24
+Floors: 38
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 22
+
+*** McKesson Plaza ***
+Height: 161.24
+Floors: 38
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 22
+
+*** 425 Market Street ***
+Height: 159.7
+Floors: 38
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 24
+
+*** 706 Mission ***
+Height: 155.5
+Floors: 43
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential / office
+Rank: 25
+
+*** Telesis Tower ***
+Height: 152.4
+Floors: 38
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 26
+
+*** 333 Bush Street ***
+Height: 150.88
+Floors: 43
+Status: Completed
+Completed: 1986
+Functions: residential / office
+Rank: 27
+
+*** Hilton San Francisco Union Square ***
+Height: 150.27
+Floors: 46
+Status: Completed
+Completed: 1971
+Functions: hotel
+Rank: 28
+
+*** Pacific Gas & Electric Building ***
+Height: 149.96
+Floors: 34
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 29
+
+*** 50 California Street ***
+Height: 148.44
+Floors: 37
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 30
+
+*** 555 Mission Street ***
+Height: 148.44
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: office
+Rank: 31
+
+*** St. Regis San Francisco ***
+Height: 147.53
+Floors: 42
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential / hotel
+Rank: 32
+
+*** 100 Pine Center ***
+Height: 145.1
+Floors: 34
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 33
+
+*** 45 Fremont Center ***
+Height: 145
+Floors: 34
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 34
+
+*** 333 Market Building ***
+Height: 144
+Floors: 33
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 35
+
+*** 650 California Street ***
+Height: 142
+Floors: 33
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 36
+
+*** 100 First Plaza ***
+Height: 136.2
+Floors: 27
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 37
+
+*** 340 Fremont Street ***
+Height: 134.1
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 38
+
+*** One California ***
+Height: 133.5
+Floors: 32
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 39
+
+*** San Francisco Marriott ***
+Height: 132.9
+Floors: 39
+Status: Completed
+Completed: 1989
+Functions: hotel
+Rank: 40
+
+*** 140 New Montgomery Street ***
+Height: 132.7
+Floors: 26
+Status: Completed
+Started: 1924
+Completed: 1925
+Functions: office
+Rank: 41
+
+*** Russ Building ***
+Height: 132.6
+Floors: 32
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 42
+
+*** Jasper ***
+Height: 131
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 43
+
+*** Mira ***
+Height: 129.67
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 44
+
+*** 505 Montgomery ***
+Height: 129.5
+Floors: 24
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 45
+
+*** The Infinity II ***
+Height: 128.02
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 46
+
+*** JPMorgan Chase Building ***
+Height: 128
+Floors: 31
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 47
+
+*** The Paramount ***
+Height: 127.4
+Floors: 40
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 48
+
+*** Providian Financial Building ***
+Height: 127
+Floors: 30
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 49
+
+*** Three Embarcadero Center ***
+Height: 126
+Floors: 31
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 50
+
+*** Two Embarcadero Center ***
+Height: 126
+Floors: 31
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 50
+
+*** 350 Mission Street ***
+Height: 125.88
+Floors: 27
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 52
+
+*** 595 Market Street ***
+Height: 125
+Floors: 30
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 53
+
+*** 123 Mission Building ***
+Height: 124
+Floors: 29
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 54
+
+*** Embarcadero Center West ***
+Height: 123
+Floors: 33
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 55
+
+*** 101 Montgomery Street ***
+Height: 123
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 56
+
+*** 100 Van Ness ***
+Height: 122
+Floors: 30
+Status: Completed
+Started: 1973
+Completed: 1974
+Functions: residential
+Rank: 57
+
+*** Westin-St. Francis Hotel Tower ***
+Height: 121.92
+Floors: 32
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: hotel
+Rank: 58
+
+*** 399 Fremont ***
+Height: 121.9
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 59
+
+*** LUMINA I ***
+Height: 121.9
+Floors: 42
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 59
+
+*** Four Seasons Hotel & Residences ***
+Height: 121.31
+Floors: 40
+Status: Completed
+Completed: 2001
+Functions: residential / hotel
+Rank: 61
+
+*** One Maritime Plaza ***
+Height: 121.3
+Floors: 25
+Status: Completed
+Started: 1964
+Completed: 1967
+Functions: office
+Rank: 62
+
+*** 8 Nema ***
+Height: 118
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 63
+
+*** 33 New Montgomery ***
+Height: 116.5
+Floors: 21
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 64
+
+*** 33 Tehama ***
+Height: 115.8
+Floors: 35
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 65
+
+*** 535 Mission Street ***
+Height: 115.37
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: office
+Rank: 66
+
+*** Shell Building ***
+Height: 115.22
+Floors: 29
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: office
+Rank: 67
+
+*** 456 Montgomery Street ***
+Height: 115.2
+Floors: 26
+Status: Completed
+Started: 1985
+Completed: 1986
+Functions: office
+Rank: 68
+
+*** 388 Market Street ***
+Height: 114.3
+Floors: 26
+Status: Completed
+Completed: 1985
+Functions: residential / office
+Rank: 69
+
+*** The Westin San Francisco Market Street ***
+Height: 114
+Floors: 34
+Status: Completed
+Started: 1983
+Completed: 1984
+Functions: hotel
+Rank: 70
+
+*** 222 Second Street ***
+Height: 112.78
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 71
+
+*** San Francisco Hilton Hotel Financial District ***
+Height: 111.25
+Floors: 30
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: hotel
+Rank: 72
+
+*** 199 Fremont Street ***
+Height: 111.25
+Floors: 27
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: office
+Rank: 73
+
+*** Steuart Tower ***
+Height: 111
+Floors: 27
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 74
+
+*** 88 Kearny Street ***
+Height: 110.64
+Floors: 22
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 75
+
+*** 425 California Street ***
+Height: 109.42
+Floors: 27
+Status: Completed
+Started: 1966
+Completed: 1967
+Functions: office
+Rank: 76
+
+*** 100 Montgomery Street ***
+Height: 108.51
+Floors: 25
+Status: Completed
+Started: 1954
+Completed: 1955
+Functions: office
+Rank: 77
+
+*** Grand Hyatt San Francisco ***
+Height: 108.2
+Floors: 35
+Status: Completed
+Started: 1971
+Completed: 1972
+Functions: hotel
+Rank: 78
+
+*** 101 Second Street ***
+Height: 108
+Floors: 26
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 79
+
+*** Fox Plaza ***
+Height: 107.9
+Floors: 29
+Status: Completed
+Started: 1966
+Completed: 1967
+Functions: residential / office
+Rank: 80
+
+*** 580 California Street ***
+Height: 107
+Floors: 23
+Status: Completed
+Started: 1984
+Completed: 1984
+Functions: office
+Rank: 81
+
+*** LUMINA II ***
+Height: 106.7
+Floors: 37
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 82
+
+*** The Infinity I ***
+Height: 106.7
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 83
+
+*** Parc 55 San Francisco ***
+Height: 106.7
+Floors: 32
+Status: Completed
+Completed: 1984
+Functions: hotel
+Rank: 84
+
+*** 601 California Street ***
+Height: 106.38
+Floors: 22
+Status: Completed
+Completed: 1960
+Functions: office
+Rank: 85
+
+*** Hilton San Francisco Union Square Tower II ***
+Height: 106
+Floors: 23
+Status: Completed
+Completed: 1987
+Functions: hotel
+Rank: 86
+
+*** 450 Sutter Street ***
+Height: 104.55
+Floors: 26
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 87
+
+*** 135 Main Street ***
+Height: 103.63
+Floors: 22
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 88
+
+*** The InterContinental San Francisco ***
+Height: 103.6
+Floors: 31
+Status: Completed
+Completed: 2008
+Functions: hotel
+Rank: 89
+
+*** 71 Stevenson Street ***
+Height: 103
+Floors: 26
+Status: Completed
+Started: 1985
+Completed: 1986
+Functions: office
+Rank: 90
+
+*** Bridgeview ***
+Height: 101.42
+Floors: 26
+Status: Completed
+Completed: 2002
+Functions: residential / retail
+Rank: 91
+
+*** 55 Second Street ***
+Height: 100.58
+Floors: 25
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 92
+
+*** Royal Towers Apartments ***
+Height: 100.58
+Floors: 24
+Status: Completed
+Started: 1962
+Completed: 1964
+Functions: residential
+Rank: 93
+
+*** 150 California Street ***
+Height: 100.58
+Floors: 23
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: office
+Rank: 94
+
+*** San Francisco Marriott Union Square ***
+Height: 100.3
+Floors: 29
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 95
+
+*** Bechtel Building ***
+Height: 100
+Floors: 23
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 96
+
+*** 225 Bush Street ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 1922
+Functions: office
+Rank: 97
+
+*** Fairmont San Francisco ***
+Height: 99.06
+Floors: 29
+Status: Completed
+Completed: 1961
+Functions: hotel
+Rank: 98
+
+*** Union Bank Building ***
+Height: 99
+Floors: 23
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 99
+
+*** 235 Pine Street ***
+Height: 98.76
+Floors: 26
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 100
+
+*** Hunter-Dulin Building ***
+Height: 98.25
+Floors: 22
+Status: Completed
+Completed: 1926
+Functions: office
+Rank: 101
+
+*** Central Plaza ***
+Height: 96.93
+Floors: 23
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 102
+
+*** W San Francisco ***
+Height: 96
+Floors: 33
+Status: Completed
+Completed: 1999
+Functions: hotel
+Rank: 103
+
+*** The Summit ***
+Height: 96
+Floors: 32
+Status: Completed
+Completed: 1965
+Functions: residential
+Rank: 104
+
+*** Sir Francis Drake Hotel ***
+Height: 96
+Floors: 22
+Status: Completed
+Completed: 1928
+Functions: hotel
+Rank: 105
+
+*** 1455 Market Street ***
+Height: 96
+Floors: 21
+Status: Completed
+Started: 1976
+Completed: 1977
+Functions: office
+Rank: 106
+
+*** Bank of California Building ***
+Height: 95.7
+Floors: 21
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 107
+
+*** 353 Sacramento Street ***
+Height: 95.4
+Floors: 23
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: office
+Rank: 108
+
+*** Ritz Carlton Residence Club ***
+Height: 95.1
+Floors: 24
+Status: Completed
+Completed: 2006
+Functions: residential / hotel
+Rank: 109
+
+*** Philip Burton Federal Building ***
+Height: 95.1
+Floors: 21
+Status: Completed
+Completed: 1959
+Functions: office / government
+Rank: 110
+
+*** 555 Market Street ***
+Height: 94.8
+Floors: 22
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 111
+
+*** McAllister Tower Apartments ***
+Height: 94.5
+Floors: 28
+Status: Completed
+Completed: 1930
+Functions: residential
+Rank: 112
+
+*** Bank of America Center - Annex Building ***
+Height: 94.18
+Floors: 16
+Status: Completed
+Started: 1921
+Completed: 1923
+Functions: office
+Rank: 113
+
+*** One Bush Street ***
+Height: 93.88
+Floors: 20
+Status: Completed
+Started: 1957
+Completed: 1959
+Functions: office
+Rank: 114
+
+*** 301 Howard Street ***
+Height: 93.5
+Floors: 23
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 115
+
+*** PG&E Headquarters ***
+Height: 93.5
+Floors: 18
+Status: Completed
+Started: 1923
+Completed: 1925
+Functions: office
+Rank: 116
+
+*** Mark Hopkins Hotel ***
+Height: 93.25
+Floors: 19
+Status: Completed
+Completed: 1926
+Functions: hotel
+Rank: 117
+
+*** Trinity Place Building A ***
+Height: 93
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 118
+
+*** Mills Tower ***
+Height: 92.05
+Floors: 22
+Status: Completed
+Started: 1930
+Completed: 1931
+Functions: office
+Rank: 119
+
+*** Montgomery - Washington Tower ***
+Height: 91.5
+Floors: 26
+Status: Completed
+Completed: 1984
+Functions: residential / office
+Rank: 120
+
+*** 299 Fremont ***
+Height: 91.44
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 121
+
+*** Hawthorne Plaza ***
+Height: 91.13
+Floors: 20
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 122
+
+*** Central Tower ***
+Height: 90.83
+Floors: 21
+Status: Completed
+Completed: 1938
+Functions: office
+Rank: 123
+
+*** Rincon Center East Tower ***
+Height: 89
+Floors: 22
+Status: Completed
+Completed: 1989
+Functions: residential / office / retail
+Rank: 124
+
+*** Rincon Center West Tower ***
+Height: 89
+Floors: 22
+Status: Completed
+Functions: residential / office / retail
+Rank: 124
+
+*** 1200 California Apartments ***
+Height: 88.1
+Floors: 27
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 126
+
+*** Hobart Building ***
+Height: 86.87
+Floors: 21
+Status: Completed
+Completed: 1914
+Functions: office
+Rank: 127
+
+*** 475 Sansome Street ***
+Height: 86.25
+Floors: 21
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 128
+
+*** 555 Montgomery Street ***
+Height: 86
+Floors: 18
+Status: Completed
+Completed: 1983
+Functions: office / Museum
+Rank: 129
+
+*** 601 Montgomery Street ***
+Height: 85
+Floors: 20
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 130
+
+*** 100 Spear Street ***
+Height: 83.2
+Floors: 22
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 131
+
+*** Le Meridien San Francisco ***
+Height: 82.91
+Floors: 25
+Status: Completed
+Completed: 1988
+Functions: hotel
+Rank: 132
+
+*** 600 California Street ***
+Height: 82.6
+Floors: 21
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 133
+
+*** Hyatt Regency San Francisco ***
+Height: 80.75
+Floors: 20
+Status: Completed
+Completed: 1973
+Functions: hotel
+Rank: 134
+
+*** Two Transamerica Plaza ***
+Height: 80.16
+Floors: 20
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 135
+
+*** Cathedral Apartments ***
+Height: 78.33
+Floors: 16
+Status: Completed
+Started: 1926
+Completed: 1930
+Functions: residential
+Rank: 136
+
+*** Nob Hill Community Apartments ***
+Height: 77.75
+Floors: 20
+Status: Completed
+Completed: 1963
+Functions: residential
+Rank: 137
+
+*** 111 Pine Street ***
+Height: 76.2
+Floors: 19
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 138

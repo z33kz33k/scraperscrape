@@ -1,0 +1,27 @@
+*** Estonia (11) ***
+1. Tallinn, 10
+2. Tartu, 1
+
+******************** DETAILS ********************
+
+*** Estonia ***
+Region: Europe
+2 cities: Tallinn, Tartu
+Tiers: I: 5, II: 3
+Rating: 11 (18.2% uncompleted)
+
+*** Tallinn ***
+Country: Estonia
+Region: Europe
+7 towers: Swissotel Tallinn, Tornimae, Maakri Torn, Radisson SAS Hotel, SEB Pank, Radisson Blu Hotel Olumpia, City Plaza
+Tiers: I: 4, II: 3
+Rating: 10 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tartu ***
+Country: Estonia
+Region: Europe
+1 tower: Tigutorn
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

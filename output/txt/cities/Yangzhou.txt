@@ -1,0 +1,21 @@
+*** Yangzhou (6) ***
+1. Yangzhou International Mansion, 280m
+
+******************** DETAILS ********************
+
+*** Yangzhou ***
+Country: China
+Region: Asia
+1 tower: Yangzhou International Mansion
+Tiers: IV: 1
+Rating: 6 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yangzhou International Mansion ***
+Height: 280
+Floors: 72
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: hotel / office / education
+Rank: 1

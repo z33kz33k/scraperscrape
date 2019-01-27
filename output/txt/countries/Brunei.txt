@@ -1,0 +1,18 @@
+*** Brunei (2) ***
+1. Bandar Seri Begawan, 2
+
+******************** DETAILS ********************
+
+*** Brunei ***
+Region: Asia
+1 city: Bandar Seri Begawan
+Tiers: II: 1
+Rating: 2
+
+*** Bandar Seri Begawan ***
+Country: Brunei
+Region: Asia
+1 tower: Ministry of Finance
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

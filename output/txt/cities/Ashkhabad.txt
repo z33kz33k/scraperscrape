@@ -1,0 +1,55 @@
+*** Ashkhabad (6) ***
+1. Yyldyz Hotel, 107m
+2. Gas and Oil Institute, 103m
+3. Ministry of Commerce and Exchange Tower, 103m
+4. Independence Monument, 91m
+5. Ministry of Health, 84m
+
+******************** DETAILS ********************
+
+*** Ashkhabad ***
+Country: Turkmenistan
+Region: Asia
+5 towers: Yyldyz Hotel, Gas and Oil Institute, Ministry of Commerce and Exchange Tower, Independence Monument, Ministry of Health
+Tiers: I: 4, II: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Yyldyz Hotel ***
+Height: 106.72
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: hotel
+Rank: 1
+
+*** Gas and Oil Institute ***
+Height: 103
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: government
+Rank: 2
+
+*** Ministry of Commerce and Exchange Tower ***
+Height: 103
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: government
+Rank: 3
+
+*** Independence Monument ***
+Height: 91
+Floors: 5
+Status: Completed
+Functions: observation / telecommunications
+Rank: 4
+
+*** Ministry of Health ***
+Height: 83.59
+Floors: 15
+Status: Completed
+Completed: 2006
+Functions: government
+Rank: 5

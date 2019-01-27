@@ -1,0 +1,21 @@
+*** Batam (2) ***
+1. Batam City Condominium, 128m
+
+******************** DETAILS ********************
+
+*** Batam ***
+Country: Indonesia
+Region: Asia
+1 tower: Batam City Condominium
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Batam City Condominium ***
+Height: 128
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential / hotel
+Rank: 1

@@ -1,0 +1,20 @@
+*** Andorra La Vela (1) ***
+1. Caldea Hotel Tower, 80m
+
+******************** DETAILS ********************
+
+*** Andorra La Vela ***
+Country: Andorra
+Region: Europe
+1 tower: Caldea Hotel Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Caldea Hotel Tower ***
+Height: 80
+Floors: 18
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 1

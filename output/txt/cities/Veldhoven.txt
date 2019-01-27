@@ -1,0 +1,20 @@
+*** Veldhoven (1) ***
+1. ASML Toren, 83m
+
+******************** DETAILS ********************
+
+*** Veldhoven ***
+Country: Netherlands
+Region: Europe
+1 tower: ASML Toren
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** ASML Toren ***
+Height: 82.6
+Floors: 20
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 1

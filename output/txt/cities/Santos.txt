@@ -1,0 +1,38 @@
+*** Santos (4) ***
+1. Unlimited Ocean Front, 129m
+2. The Garden Torre 1, 90m
+3. The Garden Torre 2, 90m
+
+******************** DETAILS ********************
+
+*** Santos ***
+Country: Brazil
+Region: South America
+3 towers: Unlimited Ocean Front, The Garden Torre 1, The Garden Torre 2
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Unlimited Ocean Front ***
+Height: 129
+Floors: 37
+Status: Completed
+Completed: 2016
+Functions: residential / retail
+Rank: 1
+
+*** The Garden Torre 1 ***
+Height: 90.2
+Floors: 29
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 2
+
+*** The Garden Torre 2 ***
+Height: 90.2
+Floors: 29
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 2

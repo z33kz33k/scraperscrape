@@ -1,0 +1,38 @@
+*** Guttenberg (6) ***
+1. Galaxy Towers 1, 126m
+2. Galaxy Towers 2, 126m
+3. Galaxy Towers 3, 126m
+
+******************** DETAILS ********************
+
+*** Guttenberg ***
+Country: United States
+Region: North America
+3 towers: Galaxy Towers 1, Galaxy Towers 2, Galaxy Towers 3
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Galaxy Towers 1 ***
+Height: 126.5
+Floors: 44
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 1
+
+*** Galaxy Towers 2 ***
+Height: 126.5
+Floors: 44
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 1
+
+*** Galaxy Towers 3 ***
+Height: 126.5
+Floors: 44
+Status: Completed
+Completed: 1976
+Functions: residential
+Rank: 1

@@ -1,0 +1,31 @@
+*** Midland (2) ***
+1. Bank of America Building, 101m
+2. Wilco Building, 94m
+
+******************** DETAILS ********************
+
+*** Midland ***
+Country: United States
+Region: North America
+2 towers: Bank of America Building, Wilco Building
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bank of America Building ***
+Height: 100.59
+Floors: 24
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: office
+Rank: 1
+
+*** Wilco Building ***
+Height: 93.57
+Floors: 22
+Status: Completed
+Started: 1956
+Completed: 1958
+Functions: office
+Rank: 2

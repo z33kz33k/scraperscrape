@@ -1,0 +1,40 @@
+*** Londrina (6) ***
+1. Maison Heritage, 146m
+2. Maison Infinity, 133m
+3. Torre Alicante, 130m
+
+******************** DETAILS ********************
+
+*** Londrina ***
+Country: Brazil
+Region: South America
+3 towers: Maison Heritage, Maison Infinity, Torre Alicante
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Maison Heritage ***
+Height: 146
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Maison Infinity ***
+Height: 133
+Floors: 38
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 2
+
+*** Torre Alicante ***
+Height: 130
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 3

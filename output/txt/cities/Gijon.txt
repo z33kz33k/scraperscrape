@@ -1,0 +1,20 @@
+*** Gijon (2) ***
+1. Torre de la Universidad Laboral, 130m
+
+******************** DETAILS ********************
+
+*** Gijon ***
+Country: Spain
+Region: Europe
+1 tower: Torre de la Universidad Laboral
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre de la Universidad Laboral ***
+Height: 130
+Floors: 17
+Status: Completed
+Completed: 1956
+Functions: education
+Rank: 1

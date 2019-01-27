@@ -1,0 +1,56 @@
+*** World (41891) ***
+1. Asia, 20978
+2. North America, 11132
+3. Europe, 3077
+4. Middle East, 2907
+5. Oceania, 1633
+6. South America, 1496
+7. Central America, 336
+8. Africa, 332
+
+******************** VERBOSE ********************
+
+*** World ***
+8 regions: Asia, North America, Europe, Middle East, Oceania, South America, Central America, Africa
+Tiers: I: 5659, II: 5069, III: 4061, IV: 1234, V: 252, VI: 43
+Rating: 41891 (15.1% uncompleted)
+
+*** Asia ***
+29 countries: China, Japan, South Korea, Indonesia, India, Philippines, Thailand, Malaysia, Singapore, Taiwan, Vietnam, Russia, North Korea, Sri Lanka, Azerbaijan, Kazakhstan, Pakistan, Georgia, Mongolia, Bangladesh, Cambodia, Laos, Turkmenistan, Uzbekistan, Armenia, Brunei, Myanmar, Afghanistan, Maldives
+Tiers: I: 1286, II: 1500, III: 2569, IV: 798, V: 166, VI: 30
+Rating: 20978 (18.8% uncompleted)
+
+*** North America ***
+3 countries: United States, Canada, Mexico
+Tiers: I: 2358, II: 2039, III: 808, IV: 195, V: 28, VI: 7
+Rating: 11132 (8.3% uncompleted)
+
+*** Europe ***
+43 countries: Russia, United Kingdom, Turkey, Germany, France, Netherlands, Spain, Italy, Poland, Austria, Belgium, Ukraine, Sweden, Slovakia, Bulgaria, Switzerland, Monaco, Latvia, Bosnia And Herzegovina, Denmark, Portugal, Lithuania, Romania, Czech Republic, Estonia, Serbia, Finland, Croatia, Macedonia, Belarus, Norway, Luxembourg, Hungary, Greece, Albania, Kosovo, Slovenia, Andorra, Malta, Cyprus, Iceland, Moldova, Ireland
+Tiers: I: 1017, II: 515, III: 173, IV: 44, V: 8, VI: 1
+Rating: 3077 (13.6% uncompleted)
+
+*** Middle East ***
+13 countries: United Arab Emirates, Saudi Arabia, Qatar, Israel, Turkey, Kuwait, Bahrain, Iran, Lebanon, Iraq, Jordan, Syria, Yemen
+Tiers: I: 131, II: 253, III: 277, IV: 124, V: 46, VI: 5
+Rating: 2907 (17.6% uncompleted)
+
+*** Oceania ***
+3 countries: Australia, New Zealand, Papua New Guinea
+Tiers: I: 429, II: 266, III: 98, IV: 44, V: 2
+Rating: 1633 (18.3% uncompleted)
+
+*** South America ***
+9 countries: Brazil, Argentina, Colombia, Venezuela, Chile, Uruguay, Bolivia, Ecuador, Paraguay
+Tiers: I: 360, II: 365, III: 86, IV: 9, V: 1
+Rating: 1496 (10.5% uncompleted)
+
+*** Central America ***
+10 countries: Panama, Dominican Republic, Cuba, Honduras, Trinidad And Tobago, Costa Rica, El Salvador, Bahamas, Puerto Rico, Guatemala
+Tiers: I: 22, II: 31, III: 36, IV: 18
+Rating: 336 (0.6% uncompleted)
+
+*** Africa ***
+28 countries: South Africa, Egypt, Kenya, Tanzania, Nigeria, Morocco, Libya, Algeria, Angola, Ethiopia, Mozambique, Ivory Coast, Zimbabwe, Cameroon, Sudan, Congo, Mauritius, Madagascar, Mali, Zambia, Democratic Republic Of The Congo, Uganda, Rwanda, Tunisia, Senegal, Namibia, Botswana, Togo
+Tiers: I: 56, II: 100, III: 14, IV: 2, V: 1
+Rating: 332 (15.1% uncompleted)

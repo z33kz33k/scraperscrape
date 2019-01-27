@@ -1,0 +1,21 @@
+*** Jena (2) ***
+1. JenTower, 144m
+
+******************** DETAILS ********************
+
+*** Jena ***
+Country: Germany
+Region: Europe
+1 tower: JenTower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** JenTower ***
+Height: 144.5
+Floors: 30
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: education / office
+Rank: 1

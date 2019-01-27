@@ -1,0 +1,18 @@
+*** Costa Rica (3) ***
+1. San José, 3
+
+******************** DETAILS ********************
+
+*** Costa Rica ***
+Region: Central America
+1 city: San José
+Tiers: I: 3
+Rating: 3
+
+*** San José ***
+Country: Costa Rica
+Region: Central America
+3 towers: Torre Paseo Colón 2, Torre Paseo Col&oacute;n 1, Banco Nacional
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17

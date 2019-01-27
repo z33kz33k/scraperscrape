@@ -1,0 +1,292 @@
+*** Kaohsiung (84) ***
+1.  85 Sky Tower, 348m
+2.  Farglory The One, 268m
+3.  Chang-Gu World Trade Center, 222m
+4.  Grand Hi-Lai Hotel, 186m
+5.  Guo-Yan Building BC, 171m
+6.  Asia-Pacific Financial Plaza, 170m
+7.  Linden Hotel, 160m
+8.  King's Residence, 154m
+9.  Xin-Fu-Hwa, 149m
+10. Vespi Tower, 149m
+11. Illuna Tower 1, 142m
+12. Illuna Tower 2, 142m
+13. Bao-Cheng Enterprise Tower, 135m
+14. Cathay Pacific Central Plaza, 135m
+15. China Steel Corporation Headquarters, 135m
+16. Shr-Hwa Financial Center, 129m
+17. Cathay Shi-Wei Financial Center, 126m
+18. Bai-Li Ocean Empire, 124m
+19. Times Regal Tower, 122m
+20. Skytower Kaohsiung, 118m
+21. Sheng-Tien, 116m
+22. Kaohsiung Chang Gung Memorial Hospital Dormitory A, 115m
+23. Kaohsiung Chang Gung Memorial Hospital Dormitory B, 115m
+24. Kaohsiung Chang Gung Memorial Hospital Dormitory C, 115m
+25. Nobel Tower A, 109m
+26. Nobel Tower B, 109m
+27. Nobel Tower C, 109m
+28. Nobel Tower D, 109m
+29. Kao Jian Bo'ai Project, 109m
+30. One More, 100m
+31. Kaohsiung Medical University Hospital - Frank C. Chen Memorial Building, 92m
+
+******************** DETAILS ********************
+
+*** Kaohsiung ***
+Country: Taiwan
+Region: Asia
+31 towers: 85 Sky Tower, Farglory The One, Chang-Gu World Trade Center, Grand Hi-Lai Hotel, Guo-Yan Building BC, Asia-Pacific Financial Plaza, Linden Hotel, King's Residence, Xin-Fu-Hwa, Vespi Tower, Illuna Tower 1, Illuna Tower 2, Bao-Cheng Enterprise Tower, Cathay Pacific Central Plaza, China Steel Corporation Headquarters, Shr-Hwa Financial Center, Cathay Shi-Wei Financial Center, Bai-Li Ocean Empire, Times Regal Tower, Skytower Kaohsiung, Sheng-Tien, Kaohsiung Chang Gung Memorial Hospital Dormitory A, Kaohsiung Chang Gung Memorial Hospital Dormitory B, Kaohsiung Chang Gung Memorial Hospital Dormitory C, Nobel Tower A, Nobel Tower B, Nobel Tower C, Nobel Tower D, Kao Jian Bo'ai Project, One More, Kaohsiung Medical University Hospital - Frank C. Chen Memorial Building
+Tiers: I: 2, II: 21, III: 5, IV: 2, V: 1
+Rating: 84 (8.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 85 Sky Tower ***
+Height: 347.5
+Floors: 85
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: hotel / office / retail
+Rank: 1
+
+*** Farglory The One ***
+Height: 268
+Floors: 68
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / hotel
+Rank: 2
+
+*** Chang-Gu World Trade Center ***
+Height: 222
+Floors: 50
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 3
+
+*** Grand Hi-Lai Hotel ***
+Height: 186
+Floors: 45
+Status: Completed
+Completed: 1995
+Functions: hotel / retail
+Rank: 4
+
+*** Guo-Yan Building BC ***
+Height: 171
+Floors: 41
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 5
+
+*** Asia-Pacific Financial Plaza ***
+Height: 169.75
+Floors: 42
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 6
+
+*** Linden Hotel ***
+Height: 160.33
+Floors: 42
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 7
+
+*** King's Residence ***
+Height: 154
+Floors: 36
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 8
+
+*** Xin-Fu-Hwa ***
+Height: 149
+Floors: 41
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 9
+
+*** Vespi Tower ***
+Height: 149
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 10
+
+*** Illuna Tower 1 ***
+Height: 142
+Floors: 35
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 11
+
+*** Illuna Tower 2 ***
+Height: 142
+Floors: 35
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 11
+
+*** Bao-Cheng Enterprise Tower ***
+Height: 135
+Floors: 37
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 13
+
+*** Cathay Pacific Central Plaza ***
+Height: 135
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: hotel / office
+Rank: 14
+
+*** China Steel Corporation Headquarters ***
+Height: 135
+Floors: 29
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 15
+
+*** Shr-Hwa Financial Center ***
+Height: 129
+Floors: 30
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 16
+
+*** Cathay Shi-Wei Financial Center ***
+Height: 126
+Floors: 34
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 17
+
+*** Bai-Li Ocean Empire ***
+Height: 124
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 18
+
+*** Times Regal Tower ***
+Height: 122
+Floors: 29
+Status: Completed
+Functions: office
+Rank: 19
+
+*** Skytower Kaohsiung ***
+Height: 118
+Floors: 37
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 20
+
+*** Sheng-Tien ***
+Height: 116
+Floors: 29
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 21
+
+*** Kaohsiung Chang Gung Memorial Hospital Dormitory A ***
+Height: 115
+Floors: 30
+Status: Completed
+Rank: 22
+
+*** Kaohsiung Chang Gung Memorial Hospital Dormitory B ***
+Height: 115
+Floors: 30
+Status: Completed
+Rank: 22
+
+*** Kaohsiung Chang Gung Memorial Hospital Dormitory C ***
+Height: 115
+Floors: 30
+Status: Completed
+Rank: 22
+
+*** Nobel Tower A ***
+Height: 109
+Floors: 37
+Status: Completed
+Started: 1994
+Completed: 1998
+Functions: residential
+Rank: 25
+
+*** Nobel Tower B ***
+Height: 109
+Floors: 37
+Status: Completed
+Started: 1994
+Completed: 1998
+Functions: residential
+Rank: 25
+
+*** Nobel Tower C ***
+Height: 109
+Floors: 37
+Status: Completed
+Started: 1994
+Completed: 1998
+Functions: residential
+Rank: 25
+
+*** Nobel Tower D ***
+Height: 109
+Floors: 37
+Status: Completed
+Started: 1994
+Completed: 1998
+Functions: residential
+Rank: 25
+
+*** Kao Jian Bo'ai Project ***
+Height: 109
+Floors: 29
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 29
+
+*** One More ***
+Height: 100
+Status: Under Construction
+Started: 2014
+Functions: residential
+Rank: 30
+
+*** Kaohsiung Medical University Hospital - Frank C. Chen Memorial Building ***
+Height: 92
+Floors: 22
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: hospital
+Rank: 31

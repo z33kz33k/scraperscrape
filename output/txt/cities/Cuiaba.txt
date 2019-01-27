@@ -1,0 +1,20 @@
+*** Cuiaba (1) ***
+1. Fontana di Trevi, 103m
+
+******************** DETAILS ********************
+
+*** Cuiaba ***
+Country: Brazil
+Region: South America
+1 tower: Fontana di Trevi
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fontana di Trevi ***
+Height: 103
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 1

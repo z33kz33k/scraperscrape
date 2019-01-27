@@ -1,0 +1,18 @@
+*** Zimbabwe (3) ***
+1. Harare, 3
+
+******************** DETAILS ********************
+
+*** Zimbabwe ***
+Region: Africa
+1 city: Harare
+Tiers: I: 1, II: 1
+Rating: 3
+
+*** Harare ***
+Country: Zimbabwe
+Region: Africa
+2 towers: New Reserve Bank of Zimbabwe, Mukwati Building
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16

@@ -1,0 +1,57 @@
+*** Wilmington (6) ***
+1. 1201 North Market Street, 110m
+2. River Tower at Christina Landing, 90m
+3. 1105 North Market Street, 87m
+4. Brandywine Building, 79m
+5. Citizens Bank Center, 77m
+
+******************** DETAILS ********************
+
+*** Wilmington ***
+Country: United States
+Region: North America
+5 towers: 1201 North Market Street, River Tower at Christina Landing, 1105 North Market Street, Brandywine Building, Citizens Bank Center
+Tiers: I: 4, II: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** 1201 North Market Street ***
+Height: 109.75
+Floors: 23
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 1
+
+*** River Tower at Christina Landing ***
+Height: 90
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 2
+
+*** 1105 North Market Street ***
+Height: 87.17
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 3
+
+*** Brandywine Building ***
+Height: 78.94
+Floors: 19
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 4
+
+*** Citizens Bank Center ***
+Height: 77.11
+Floors: 18
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 5

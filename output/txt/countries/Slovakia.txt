@@ -1,0 +1,27 @@
+*** Slovakia (26) ***
+1. Bratislava, 25
+2. Kosice-letisko, 1
+
+******************** DETAILS ********************
+
+*** Slovakia ***
+Region: Europe
+2 cities: Bratislava, Kosice-letisko
+Tiers: I: 16, II: 5
+Rating: 26
+
+*** Bratislava ***
+Country: Slovakia
+Region: Europe
+20 towers: Tower 115, Narodna Banka Slovenska, Panorama City I, Panorama City II, Slovakia Television Building, City Business Center I, Gloria, Millennium Tower II, Central, Aupark Tower, Technopol Tower I, Technopol Tower II, VUB Centrala, Obydick, Incheba Building, Kukurica Tower, Rozadol, Millennium Tower I, STU, Vienna Tower
+Tiers: I: 15, II: 5
+Rating: 25
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kosice-letisko ***
+Country: Slovakia
+Region: Europe
+1 tower: Fakultna Nemocnica S Poliklinikou
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

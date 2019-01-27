@@ -1,0 +1,58 @@
+*** Harrisburg (5) ***
+1. 333 Market Street, 104m
+2. Pennsylvania Place, 89m
+3. Presbyterian Apartments, 79m
+4. Fulton Bank Building, 78m
+5. Market Square Plaza, 75m
+
+******************** DETAILS ********************
+
+*** Harrisburg ***
+Country: United States
+Region: North America
+5 towers: 333 Market Street, Pennsylvania Place, Presbyterian Apartments, Fulton Bank Building, Market Square Plaza
+Tiers: I: 5
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 333 Market Street ***
+Height: 103.94
+Floors: 22
+Status: Completed
+Started: 1976
+Completed: 1979
+Functions: office
+Rank: 1
+
+*** Pennsylvania Place ***
+Height: 88.7
+Floors: 26
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 2
+
+*** Presbyterian Apartments ***
+Height: 79.25
+Floors: 23
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 3
+
+*** Fulton Bank Building ***
+Height: 78.33
+Floors: 21
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: office
+Rank: 4
+
+*** Market Square Plaza ***
+Height: 75
+Floors: 18
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 5

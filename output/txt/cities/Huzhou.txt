@@ -1,0 +1,41 @@
+*** Huzhou (13) ***
+1. Soochow International Plaza East Tower, 288m
+2. Soochow International Plaza West Tower, 288m
+3. Sheraton Huzhou Hot Spring Resort, 102m
+
+******************** DETAILS ********************
+
+*** Huzhou ***
+Country: China
+Region: Asia
+3 towers: Soochow International Plaza East Tower, Soochow International Plaza West Tower, Sheraton Huzhou Hot Spring Resort
+Tiers: I: 1, IV: 2
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Soochow International Plaza East Tower ***
+Height: 288
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel / office
+Rank: 1
+
+*** Soochow International Plaza West Tower ***
+Height: 288
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Sheraton Huzhou Hot Spring Resort ***
+Height: 102.24
+Floors: 22
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: hotel
+Rank: 3

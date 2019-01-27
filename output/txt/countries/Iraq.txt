@@ -1,0 +1,36 @@
+*** Iraq (9) ***
+1. Erbil, 4
+2. Sulaymaniyah, 4
+3. Baghdad, 1
+
+******************** DETAILS ********************
+
+*** Iraq ***
+Region: Middle East
+3 cities: Erbil, Sulaymaniyah, Baghdad
+Tiers: I: 3, II: 1, III: 1
+Rating: 9 (22.2% uncompleted)
+
+*** Erbil ***
+Country: Iraq
+Region: Middle East
+3 towers: Empire Business Tower, Aura East Wing, Aura West Wing
+Tiers: I: 2, II: 1
+Rating: 4 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sulaymaniyah ***
+Country: Iraq
+Region: Middle East
+1 tower: Grand Millennium Hotel
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Baghdad ***
+Country: Iraq
+Region: Middle East
+1 tower: Sheraton Ishtar Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

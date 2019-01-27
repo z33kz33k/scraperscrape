@@ -1,0 +1,18 @@
+*** Cameroon (3) ***
+1. Yaound, 3
+
+******************** DETAILS ********************
+
+*** Cameroon ***
+Region: Africa
+1 city: Yaound
+Tiers: I: 1, II: 1
+Rating: 3
+
+*** Yaound ***
+Country: Cameroon
+Region: Africa
+2 towers: Tour CNPS, Prime Ministry Building
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17

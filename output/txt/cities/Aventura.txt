@@ -1,0 +1,20 @@
+*** Aventura (2) ***
+1. Hidden Bay 1, 127m
+
+******************** DETAILS ********************
+
+*** Aventura ***
+Country: United States
+Region: North America
+1 tower: Hidden Bay 1
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hidden Bay 1 ***
+Height: 127.1
+Floors: 40
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 1

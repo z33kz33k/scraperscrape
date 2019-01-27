@@ -1,0 +1,20 @@
+*** Takamatsu (4) ***
+1. Symbol Tower, 151m
+
+******************** DETAILS ********************
+
+*** Takamatsu ***
+Country: Japan
+Region: Asia
+1 tower: Symbol Tower
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Symbol Tower ***
+Height: 151.3
+Floors: 30
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 1

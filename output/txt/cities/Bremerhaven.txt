@@ -1,0 +1,21 @@
+*** Bremerhaven (2) ***
+1. Atlantic Hotel Sail City, 147m
+
+******************** DETAILS ********************
+
+*** Bremerhaven ***
+Country: Germany
+Region: Europe
+1 tower: Atlantic Hotel Sail City
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Atlantic Hotel Sail City ***
+Height: 147
+Floors: 21
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel / office
+Rank: 1

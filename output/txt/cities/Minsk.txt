@@ -1,0 +1,50 @@
+*** Minsk (6) ***
+1. Parus, 133m
+2. Royal Plaza, 130m
+3. Belbyttechproject Building, 90m
+4. DoubleTree by Hilton Hotel Minsk, 90m
+
+******************** DETAILS ********************
+
+*** Minsk ***
+Country: Belarus
+Region: Europe
+4 towers: Parus, Royal Plaza, Belbyttechproject Building, DoubleTree by Hilton Hotel Minsk
+Tiers: I: 2, II: 2
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Parus ***
+Height: 133
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential / office
+Rank: 1
+
+*** Royal Plaza ***
+Height: 130
+Floors: 33
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 2
+
+*** Belbyttechproject Building ***
+Height: 90
+Floors: 20
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 3
+
+*** DoubleTree by Hilton Hotel Minsk ***
+Height: 89.55
+Floors: 21
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel / retail
+Rank: 4

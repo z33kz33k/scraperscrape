@@ -1,0 +1,556 @@
+*** Riyadh (174) ***
+1.  PIF Tower, 385m
+2.  Burj Rafal, 308m
+3.  KAFD World Trade Center, 304m
+4.  Kingdom Centre, 302m
+5.  Al Faisaliah Center, 267m
+6.  GCC Bank Headquarters, 264m
+7.  Tamkeen Tower, 258m
+8.  Al Majdoul Tower, 244m
+9.  Samba Bank HQ Tower, 231m
+10. Rafal Living Tower, 213m
+11. Al Rajhi Bank Tower, 205m
+12. Olaya Tower 2, 203m
+13. Tadawul Tower, 200m
+14. Burj DAMAC, 200m
+15. Al-Obeikan Hilton Tower Hotel, 200m
+16. Al Nakheel Tower, 200m
+17. King Abdullah Financial District Tower 4.09, 182m
+18. Olaya Tower 1, 166m
+19. Al Zamil Residential Tower, 165m
+20. Al Waseel Tower, 163m
+21. Hamad Tower, 163m
+22. Villas in the Sky, 160m
+23. Boudl-Narcissus Classic Tower, 155m
+24. Burj Al-Swailem, 151m
+25. Burj Ramla, 150m
+26. DAMAC Esclusiva Luxury Serviced Apartments, 150m
+27. PPA 30 Parcel 5.05 Residential Tower, 149m
+28. Burj Al Anoud, 145m
+29. PP 10 Parcel 3.04 Office Tower, 145m
+30. PPA 30 Parcel 3.09, 138m
+31. PPA 30 Parcel 3.10, 138m
+32. Saudi British Bank Tower, 135m
+33. Crystal Tower 1, 135m
+34. Moon Tower, 133m
+35. Elegance Medical Tower, 130m
+36. Princess Alanood Investment Towers, 130m
+37. PP 10 Parcel 4.08, 126m
+38. Alnood Tower 2, 125m
+39. PPA 30 Parcel 5.05 Office Tower, 125m
+40. PPA 30 Parcel 5.03 Tower 1, 105m
+41. PPA 30 Parcel 2.12, 105m
+42. PP 10 Parcel 2.14, 105m
+43. PP 10 Parcel 1.12, 102m
+44. NCCI Towers North , 101m
+45. NCCI Towers South, 101m
+46. PP 10 Parcel 3.04 Residential Tower, 98m
+47. Granada Office Park, Tower A1, 86m
+48. Granada Office Park, Tower A4, 86m
+49. PP 10 Parcel 3.05 Office Tower, 83m
+50. PPA 30 Parcel 5.01, 83m
+51. PPA 30 Parcel 1.11, 83m
+52. PP 10 Parcel 4.07, 81m
+53. Crystal Tower 2, 80m
+54. PPA 30 Parcel 5.06, 77m
+55. PPA 30 Parcel 5.03 Tower 2, 76m
+
+******************** DETAILS ********************
+
+*** Riyadh ***
+Country: Saudi Arabia
+Region: Middle East
+55 towers: PIF Tower, Burj Rafal, KAFD World Trade Center, Kingdom Centre, Al Faisaliah Center, GCC Bank Headquarters, Tamkeen Tower, Al Majdoul Tower, Samba Bank HQ Tower, Rafal Living Tower, Al Rajhi Bank Tower, Olaya Tower 2, Tadawul Tower, Burj DAMAC, Al-Obeikan Hilton Tower Hotel, Al Nakheel Tower, King Abdullah Financial District Tower 4.09, Olaya Tower 1, Al Zamil Residential Tower, Al Waseel Tower, Hamad Tower, Villas in the Sky, Boudl-Narcissus Classic Tower, Burj Al-Swailem, Burj Ramla, DAMAC Esclusiva Luxury Serviced Apartments, PPA 30 Parcel 5.05 Residential Tower, Burj Al Anoud, PP 10 Parcel 3.04 Office Tower, PPA 30 Parcel 3.09, PPA 30 Parcel 3.10, Saudi British Bank Tower, Crystal Tower 1, Moon Tower, Elegance Medical Tower, Princess Alanood Investment Towers, PP 10 Parcel 4.08, Alnood Tower 2, PPA 30 Parcel 5.05 Office Tower, PPA 30 Parcel 5.03 Tower 1, PPA 30 Parcel 2.12, PP 10 Parcel 2.14, PP 10 Parcel 1.12, NCCI Towers North , NCCI Towers South, PP 10 Parcel 3.04 Residential Tower, Granada Office Park, Tower A1, Granada Office Park, Tower A4, PP 10 Parcel 3.05 Office Tower, PPA 30 Parcel 5.01, PPA 30 Parcel 1.11, PP 10 Parcel 4.07, Crystal Tower 2, PPA 30 Parcel 5.06, PPA 30 Parcel 5.03 Tower 2
+Tiers: I: 16, II: 13, III: 16, IV: 6, V: 4
+Rating: 174 (42.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** PIF Tower ***
+Height: 385
+Floors: 76
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** Burj Rafal ***
+Height: 307.9
+Floors: 68
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential / hotel
+Rank: 2
+
+*** KAFD World Trade Center ***
+Height: 304
+Floors: 67
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2019
+Functions: office
+Rank: 3
+
+*** Kingdom Centre ***
+Height: 302.33
+Floors: 41
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential / hotel / office
+Rank: 4
+
+*** Al Faisaliah Center ***
+Height: 266.87
+Floors: 30
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office / hotel
+Rank: 5
+
+*** GCC Bank Headquarters ***
+Height: 264
+Floors: 53
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2019
+Functions: office
+Rank: 6
+
+*** Tamkeen Tower ***
+Height: 258.2
+Floors: 58
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 7
+
+*** Al Majdoul Tower ***
+Height: 244
+Floors: 54
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: office
+Rank: 8
+
+*** Samba Bank HQ Tower ***
+Height: 231.15
+Floors: 39
+Status: Architecturally Topped Out
+Started: 2011
+Completed: 2019
+Functions: office
+Rank: 9
+
+*** Rafal Living Tower ***
+Height: 213
+Floors: 62
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: serviced apartments
+Rank: 10
+
+*** Al Rajhi Bank Tower ***
+Height: 205
+Floors: 36
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 11
+
+*** Olaya Tower 2 ***
+Height: 203.4
+Floors: 36
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 12
+
+*** Tadawul Tower ***
+Height: 200
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: office
+Rank: 13
+
+*** Burj DAMAC ***
+Height: 200
+Floors: 36
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 14
+
+*** Al-Obeikan Hilton Tower Hotel ***
+Height: 200
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: residential / hotel
+Rank: 15
+
+*** Al Nakheel Tower ***
+Height: 200
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 16
+
+*** King Abdullah Financial District Tower 4.09 ***
+Height: 182
+Floors: 46
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 17
+
+*** Olaya Tower 1 ***
+Height: 166.3
+Floors: 34
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 18
+
+*** Al Zamil Residential Tower ***
+Height: 165
+Floors: 40
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / hotel
+Rank: 19
+
+*** Al Waseel Tower ***
+Height: 163.2
+Floors: 21
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 20
+
+*** Hamad Tower ***
+Height: 163
+Floors: 39
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: office
+Rank: 21
+
+*** Villas in the Sky ***
+Height: 160
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / office
+Rank: 22
+
+*** Boudl-Narcissus Classic Tower ***
+Height: 155
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel / residential
+Rank: 23
+
+*** Burj Al-Swailem ***
+Height: 151
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: hotel
+Rank: 24
+
+*** Burj Ramla ***
+Height: 150
+Floors: 37
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 25
+
+*** DAMAC Esclusiva Luxury Serviced Apartments ***
+Height: 150
+Floors: 30
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: serviced apartments
+Rank: 26
+
+*** PPA 30 Parcel 5.05 Residential Tower ***
+Height: 149
+Floors: 38
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2018
+Functions: residential
+Rank: 27
+
+*** Burj Al Anoud ***
+Height: 145
+Floors: 20
+Status: Completed
+Completed: 2005
+Functions: hotel / office
+Rank: 28
+
+*** PP 10 Parcel 3.04 Office Tower ***
+Height: 144.57
+Floors: 34
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 29
+
+*** PPA 30 Parcel 3.09 ***
+Height: 138
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: residential / office / retail
+Rank: 30
+
+*** PPA 30 Parcel 3.10 ***
+Height: 138
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2018
+Functions: residential / office / retail
+Rank: 31
+
+*** Saudi British Bank Tower ***
+Height: 135
+Floors: 30
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 32
+
+*** Crystal Tower 1 ***
+Height: 135
+Floors: 26
+Status: Architecturally Topped Out
+Started: 2009
+Completed: 2018
+Functions: office
+Rank: 33
+
+*** Moon Tower ***
+Height: 133
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 34
+
+*** Elegance Medical Tower ***
+Height: 130
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hospital
+Rank: 35
+
+*** Princess Alanood Investment Towers ***
+Height: 130
+Floors: 23
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: hotel / office
+Rank: 36
+
+*** PP 10 Parcel 4.08 ***
+Height: 126
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2008
+Completed: 2018
+Functions: residential / office
+Rank: 37
+
+*** Alnood Tower 2 ***
+Height: 125
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 38
+
+*** PPA 30 Parcel 5.05 Office Tower ***
+Height: 125
+Floors: 23
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2018
+Functions: office
+Rank: 39
+
+*** PPA 30 Parcel 5.03 Tower 1 ***
+Height: 105
+Floors: 26
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2018
+Functions: residential / office
+Rank: 40
+
+*** PPA 30 Parcel 2.12 ***
+Height: 105
+Floors: 23
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2018
+Functions: residential / office
+Rank: 41
+
+*** PP 10 Parcel 2.14 ***
+Height: 104.85
+Floors: 19
+Status: Architecturally Topped Out
+Started: 2008
+Completed: 2018
+Functions: residential / office
+Rank: 42
+
+*** PP 10 Parcel 1.12 ***
+Height: 102.1
+Floors: 21
+Status: Architecturally Topped Out
+Started: 2008
+Completed: 2018
+Functions: office
+Rank: 43
+
+*** NCCI Towers North  ***
+Height: 100.59
+Floors: 21
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office / retail
+Rank: 44
+
+*** NCCI Towers South ***
+Height: 100.59
+Floors: 21
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office / retail
+Rank: 44
+
+*** PP 10 Parcel 3.04 Residential Tower ***
+Height: 97.65
+Floors: 26
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 46
+
+*** Granada Office Park, Tower A1 ***
+Height: 86.5
+Floors: 20
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 47
+
+*** Granada Office Park, Tower A4 ***
+Height: 86.5
+Floors: 20
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 47
+
+*** PP 10 Parcel 3.05 Office Tower ***
+Height: 83.37
+Floors: 19
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 49
+
+*** PPA 30 Parcel 5.01 ***
+Height: 83
+Floors: 19
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2018
+Functions: residential / office
+Rank: 50
+
+*** PPA 30 Parcel 1.11 ***
+Height: 83
+Floors: 18
+Status: Architecturally Topped Out
+Started: 2009
+Completed: 2018
+Functions: office / retail
+Rank: 51
+
+*** PP 10 Parcel 4.07 ***
+Height: 81
+Floors: 19
+Status: Architecturally Topped Out
+Started: 2008
+Completed: 2018
+Functions: residential / office
+Rank: 52
+
+*** Crystal Tower 2 ***
+Height: 80
+Floors: 18
+Status: Architecturally Topped Out
+Started: 2009
+Completed: 2018
+Functions: office
+Rank: 53
+
+*** PPA 30 Parcel 5.06 ***
+Height: 77
+Floors: 14
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2018
+Functions: hotel
+Rank: 54
+
+*** PPA 30 Parcel 5.03 Tower 2 ***
+Height: 75.6
+Floors: 16
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2018
+Functions: residential / office
+Rank: 55

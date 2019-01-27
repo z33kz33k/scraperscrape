@@ -1,0 +1,63 @@
+*** South Africa (135) ***
+1. Durban, 39
+2. Johannesburg, 37
+3. Cape Town, 29
+4. Pretoria, 20
+5. Sandton, 8
+6. Midrand, 2
+
+******************** DETAILS ********************
+
+*** South Africa ***
+Region: Africa
+6 cities: Durban, Johannesburg, Cape Town, Pretoria, Sandton, Midrand
+Tiers: I: 25, II: 44, III: 4, IV: 1
+Rating: 135 (7.4% uncompleted)
+
+*** Durban ***
+Country: South Africa
+Region: Africa
+22 towers: Pearl Dawn, 88 on Field, Old Mutual Centre, Monte Blanc, The Spinnaker, Embassy Building, Holiday Inn Garden Court Marine Parade, Pearl Breeze, Holiday Inn Garden Court North Beach, 320 West Street, 101 Victoria Embankment, Protea Hotel Landmark Lodge, The Palace, John Ross House, Durban Bay House, Maluti Building, Transnet Tower, Servamus House, Nedbank Centre, Eagle Building, The Marine, The Royal Hotel
+Tiers: I: 7, II: 14, III: 1
+Rating: 39
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Johannesburg ***
+Country: South Africa
+Region: Africa
+17 towers: Carlton Centre, Ponte Tower, Marble Towers, Kwadukuza Egoli Hotel Tower 1, ABSA Building, Trust Bank Centre, Standard Bank Centre, Southern Life Centre, 209 Smit Street, Kine Centre, Carlton Hotel, Sixty-Nine President, 37 Sauer Street, Schlesinger Building, Highpoint Hillbrow, Logistics House, IBM Building
+Tiers: I: 3, II: 11, III: 3
+Rating: 37
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cape Town ***
+Country: South Africa
+Region: Africa
+20 towers: Portside, 1 Thibault Square, Atterbury House, ABSA Centre, Metlife Centre, 16 on Bree, Radisson Blu Hotel and Residence Cape Town, Cape Sun Southern Sun, Golden Acre, Western Cape Provincial Administration Building, Civic Centre, 2 Loop Street, Cartwright`s Corner House, The Halyard, Naspers Centre, 35 Lower Long, Mutual Heights, Gardens Centre, Pavilion Place, Cape Town Ritz Hotel
+Tiers: I: 11, II: 9
+Rating: 29 (13.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pretoria ***
+Country: South Africa
+Region: Africa
+12 towers: Reserve Bank Building, ABSA Building, Telkom Tower South, National Treasury Building, Telkom Tower North, Civitas Building, Agricultural Union Centre, Poytons Building, Saambou Bank Building, Kruger Park, African Eagle Life Centre, Telkom Tower East
+Tiers: I: 4, II: 8
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sandton ***
+Country: South Africa
+Region: Africa
+2 towers: The Leonardo, Michelangelo Tower
+Tiers: II: 1, IV: 1
+Rating: 8 (75.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Midrand ***
+Country: South Africa
+Region: Africa
+1 tower: PwC Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17

@@ -1,0 +1,20 @@
+*** Jackson (1) ***
+1. Regions Plaza, 97m
+
+******************** DETAILS ********************
+
+*** Jackson ***
+Country: United States
+Region: North America
+1 tower: Regions Plaza
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Regions Plaza ***
+Height: 96.9
+Floors: 22
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 1

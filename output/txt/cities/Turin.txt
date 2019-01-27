@@ -1,0 +1,61 @@
+*** Turin (11) ***
+1. Regione Piemonte Headquarters, 209m
+2. Grattacielo Intesa Sanpaolo, 166m
+3. Torre Littoria, 87m
+4. Michelin North Tower 2, 78m
+5. CTO Tower, 75m
+
+******************** DETAILS ********************
+
+*** Turin ***
+Country: Italy
+Region: Europe
+5 towers: Regione Piemonte Headquarters, Grattacielo Intesa Sanpaolo, Torre Littoria, Michelin North Tower 2, CTO Tower
+Tiers: I: 3, III: 2
+Rating: 11 (36.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Regione Piemonte Headquarters ***
+Height: 209
+Floors: 42
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: government
+Rank: 1
+
+*** Grattacielo Intesa Sanpaolo ***
+Height: 166.26
+Floors: 38
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 2
+
+*** Torre Littoria ***
+Height: 87
+Floors: 21
+Status: Completed
+Started: 1932
+Completed: 1933
+Functions: office
+Rank: 3
+
+*** Michelin North Tower 2 ***
+Height: 78
+Floors: 21
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 4
+
+*** CTO Tower ***
+Height: 75
+Floors: 16
+Status: Completed
+Started: 1959
+Completed: 1961
+Functions: hospital
+Rank: 5

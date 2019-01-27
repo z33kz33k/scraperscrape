@@ -1,0 +1,344 @@
+*** Sanya (51) ***
+1.  Atlantis Hotel Sanya, 236m
+2.  Rosewood Sanya and Sanya Forum, 207m
+3.  Hongzhou Renaissance Hotel, 177m
+4.  Sunshine Insurance Finance Plaza, 156m
+5.  Sanya Haitang Bay Mangrove Resort , 148m
+6.  Sanya Poly Plaza Central Plaza, 140m
+7.  Sanya Haitang Bay Waldorf Astoria , 129m
+8.  Poly Phoenix Residence, 101m
+9.  Rongke Lanlifang #1, 100m
+10. Phoenix Island 1, 100m
+11. Phoenix Island 2, 100m
+12. Phoenix Island 3, 100m
+13. Phoenix Island 4, 100m
+14. Phoenix Island 5, 100m
+15. Banyan Tree Fengling Tower 1, 100m
+16. Rongke Lanlifang #2, 100m
+17. Rongke Lanlifang #3, 100m
+18. Pearl River Hao #1, 92m
+19. Pearl River Hao #2, 92m
+20. Pearl River Hao #3, 92m
+21. Pearl River Hao #4, 92m
+22. Pearl River Hao #5, 92m
+23. Pearl River Hao #6, 92m
+24. Luhuitou Peninsula B7-1, 87m
+25. Luhuitou Peninsula B7-2, 87m
+26. Luhuitou Peninsula B7-3, 87m
+27. Luhuitou Peninsula B7-5, 87m
+28. Sanya China Iron City Youyou Lake #1, 77m
+29. Sanya China Iron City Youyou Lake #2, 77m
+30. Sanya China Iron City Youyou Lake #3, 77m
+31. Sanya China Iron City Youyou Lake #5, 77m
+32. Sanya China Iron City Youyou Lake #6, 77m
+33. Sanya China Iron City Youyou Lake #7, 77m
+34. Sanya China Iron City Youyou Lake #8, 77m
+
+******************** DETAILS ********************
+
+*** Sanya ***
+Country: China
+Region: Asia
+34 towers: Atlantis Hotel Sanya, Rosewood Sanya and Sanya Forum, Hongzhou Renaissance Hotel, Sunshine Insurance Finance Plaza, Sanya Haitang Bay Mangrove Resort , Sanya Poly Plaza Central Plaza, Sanya Haitang Bay Waldorf Astoria , Poly Phoenix Residence, Rongke Lanlifang #1, Phoenix Island 1, Phoenix Island 2, Phoenix Island 3, Phoenix Island 4, Phoenix Island 5, Banyan Tree Fengling Tower 1, Rongke Lanlifang #2, Rongke Lanlifang #3, Pearl River Hao #1, Pearl River Hao #2, Pearl River Hao #3, Pearl River Hao #4, Pearl River Hao #5, Pearl River Hao #6, Luhuitou Peninsula B7-1, Luhuitou Peninsula B7-2, Luhuitou Peninsula B7-3, Luhuitou Peninsula B7-5, Sanya China Iron City Youyou Lake #1, Sanya China Iron City Youyou Lake #2, Sanya China Iron City Youyou Lake #3, Sanya China Iron City Youyou Lake #5, Sanya China Iron City Youyou Lake #6, Sanya China Iron City Youyou Lake #7, Sanya China Iron City Youyou Lake #8
+Tiers: I: 27, II: 3, III: 3, IV: 1
+Rating: 51 (15.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Atlantis Hotel Sanya ***
+Height: 236
+Floors: 48
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hotel
+Rank: 1
+
+*** Rosewood Sanya and Sanya Forum ***
+Height: 207.24
+Floors: 46
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: serviced apartments / hotel
+Rank: 2
+
+*** Hongzhou Renaissance Hotel ***
+Height: 177
+Status: Under Construction
+Started: 2017
+Completed: 2022
+Functions: hotel / residential
+Rank: 3
+
+*** Sunshine Insurance Finance Plaza ***
+Height: 156
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: hotel / office / retail
+Rank: 4
+
+*** Sanya Haitang Bay Mangrove Resort  ***
+Height: 148.18
+Floors: 33
+Status: Completed
+Completed: 2017
+Functions: hotel
+Rank: 5
+
+*** Sanya Poly Plaza Central Plaza ***
+Height: 140
+Floors: 31
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 6
+
+*** Sanya Haitang Bay Waldorf Astoria  ***
+Height: 129
+Floors: 28
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: hotel
+Rank: 7
+
+*** Poly Phoenix Residence ***
+Height: 101.15
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 8
+
+*** Rongke Lanlifang #1 ***
+Height: 100
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 9
+
+*** Phoenix Island 1 ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 10
+
+*** Phoenix Island 2 ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 10
+
+*** Phoenix Island 3 ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 10
+
+*** Phoenix Island 4 ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 10
+
+*** Phoenix Island 5 ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 10
+
+*** Banyan Tree Fengling Tower 1 ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Rongke Lanlifang #2 ***
+Height: 99.5
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 16
+
+*** Rongke Lanlifang #3 ***
+Height: 99.5
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 16
+
+*** Pearl River Hao #1 ***
+Height: 92
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 18
+
+*** Pearl River Hao #2 ***
+Height: 92
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 18
+
+*** Pearl River Hao #3 ***
+Height: 92
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 18
+
+*** Pearl River Hao #4 ***
+Height: 92
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 18
+
+*** Pearl River Hao #5 ***
+Height: 92
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 18
+
+*** Pearl River Hao #6 ***
+Height: 92
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 18
+
+*** Luhuitou Peninsula B7-1 ***
+Height: 87.3
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 24
+
+*** Luhuitou Peninsula B7-2 ***
+Height: 87.3
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 24
+
+*** Luhuitou Peninsula B7-3 ***
+Height: 87.3
+Floors: 29
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 24
+
+*** Luhuitou Peninsula B7-5 ***
+Height: 87.3
+Floors: 29
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 24
+
+*** Sanya China Iron City Youyou Lake #1 ***
+Height: 77.3
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 28
+
+*** Sanya China Iron City Youyou Lake #2 ***
+Height: 77.3
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 28
+
+*** Sanya China Iron City Youyou Lake #3 ***
+Height: 77.3
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 28
+
+*** Sanya China Iron City Youyou Lake #5 ***
+Height: 77.3
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 28
+
+*** Sanya China Iron City Youyou Lake #6 ***
+Height: 77.3
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 28
+
+*** Sanya China Iron City Youyou Lake #7 ***
+Height: 77.3
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 28
+
+*** Sanya China Iron City Youyou Lake #8 ***
+Height: 77.3
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 28

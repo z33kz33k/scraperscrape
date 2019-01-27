@@ -1,0 +1,21 @@
+*** Halifax (1) ***
+1. Fenwick Tower, 98m
+
+******************** DETAILS ********************
+
+*** Halifax ***
+Country: Canada
+Region: North America
+1 tower: Fenwick Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fenwick Tower ***
+Height: 97.54
+Floors: 32
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: residential
+Rank: 1

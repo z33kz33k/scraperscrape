@@ -1,0 +1,234 @@
+*** Canada (1773) ***
+1.  Toronto, 934
+2.  Vancouver, 218
+3.  Calgary, 192
+4.  Montreal, 118
+5.  Mississauga, 70
+6.  Edmonton, 56
+7.  Burnaby, 50
+8.  Ottawa, 43
+9.  Vaughan, 19
+10. Winnipeg, 14
+11. Niagara Falls, 12
+12. Quebec, 12
+13. Surrey, 10
+14. Hamilton, 5
+15. Windsor, 3
+16. Markham, 3
+17. Gatineau, 3
+18. Trois-Rivières, 2
+19. London (ON), 2
+20. Regina, 2
+21. Halifax, 1
+22. Coquitlam, 1
+23. Moncton, 1
+24. Kelowna, 1
+25. Waterloo (CA), 1
+
+******************** DETAILS ********************
+
+*** Canada ***
+Region: North America
+25 cities: Toronto, Vancouver, Calgary, Montreal, Mississauga, Edmonton, Burnaby, Ottawa, Vaughan, Winnipeg, Niagara Falls, Quebec, Surrey, Hamilton, Windsor, Markham, Gatineau, Trois-Rivières, London (ON), Regina, Halifax, Coquitlam, Moncton, Kelowna, Waterloo (CA)
+Tiers: I: 415, II: 374, III: 111, IV: 25, V: 2
+Rating: 1773 (14.8% uncompleted)
+
+*** Toronto ***
+Country: Canada
+Region: North America
+443 towers: The One, First Canadian Place, The St. Regis Toronto, Scotia Tower, Aura at College Park, Brookfield Place, One Bloor Street East, Commerce Court West, CIBC Square I, Harbour Plaza Residences East, ÏCE Condominiums at York Centre 2, Sugar Wharf Tower D, Harbour Plaza Residences West, Eau Du Soleil Sky Tower, Ten York, TD Tower, Sugar Wharf Tower E, The Prestige at Pinnacle One Yonge, Bay-Adelaide Centre, Shangri-La Hotel Toronto, Ritz-Carlton Hotel & Residences, Massey Tower, The Residences of 488 University Avenue, Bay-Wellington Tower, L Tower, Four Seasons Private Residences West Tower, ÏCE Condominiums at York Centre 1, YC Condominiums, 88 Scott, Bay Adelaide Centre East Tower, E Condos South, Wellesley on the Park, 22|21 Yonge, EY Tower, 19 Duncan Street, RBC Centre, CASA II, U Condominiums - East Tower, 1 Yorkville, TD North Tower, Maple Leaf Square North Tower, Eau Du Soleil Water Tower, CASA III, Rosedale on Bloor, INDX Condominiums , Vita on the Lake, 1 King West, The Well Office Tower, One York Street, Success Tower 2, Royal Bank Plaza South, Maple Leaf Square South Tower, The Selby Condos, Teahouse Condominiums South, Hullmark Centre I, Lago, 44 Charles Street West, Karma, Quantum 2, Theatre Park, Residences of College Park I, Burano, Success Tower 1, X2, FIVE, The Uptown Residences, Three Hundred, Lighthouse Tower Condominium, Grid Condos, 16 York, Southcore Financial Centre Delta Hotel, Festival Tower, Dundas Square Gardens, The PJ Condos, King Blue by Greenland North Tower, 87 Peter, U Condominiums - West Tower, Yonge + Rich, TD South Tower, The Well Residential One, Westlake Village 1, 35 Mariner, Montage, Beyond the Sea Star Tower, Chaz Yorkville Condos, The 250, Monde, Two Bloor West, X Condominium, West One, Simcoe Place, Via Bloor East Tower, The Clover on Yonge, CASA, Residences of College Park II, Bisha Hotel & Residences, Westlake Encore, Pace Condominiums, Exchange Tower, Residences at RCMI, Islington Terrace, Commerce Court North, The Pinnacle on Adelaide, Simpson Tower, Spire, Cinema Tower Condominiums, Cadillac Fairview Tower, Emerald Park East, Murano South Tower, King Blue by Greenland South Tower, RBC WaterPark Place, Pantages Tower, The Britt, The Livmore, Stanley, Bloor Promenade, Palace Pier, Palace Place, Via Bloor West Tower, Gibson Square North, Gibson Square South, Alto at Atria, Couture, Oxford Tower, Clear Spirit Condominiums, Key West, Southcore Bremner Tower, The Well Residential Two, Sheraton Centre Hotel, Two Bloor East, Royal York Hotel, Ernst & Young Tower, N1/N2, 150 Redpath, Concord Cityplace Parade Tower S, The Met, Ocean Club Condominiums, Studio2 on Richmond, Encore at Equinox, Empire Tower, Peter Street Condominiums, Crystal Blu, Leaside Towers East, Leaside Towers West, Dynamic Funds Tower, Picasso on Richmond, 561 Sherbourne, TD West Tower, Metro Hall, 18 Yonge Condominiums, Solaris East at Metrogate, Solaris West at Metrogate, Westin Harbour Castle South, Quartz, Marriott Hotel/Plaza Two Apartments, Verve, Emerald City I, Quantum, Telus House, Luna Vista, Sun Life Financial Centre East Tower, Cumberland at Yorkville Plaza, Beacon Condos, TCHC, Yonge-Eglinton Centre I, Hullmark Centre II, Pinnacle Centre Tower A, M5V, Charlie Condos, E Condos North, 10 Navy Wharf Court, Tableau Condominiums, The Bond, Nautilus, Velocity at the Square, 411 Church, Park Nuvo, The Gooderham, 777 Bay Street, The Madison West, 155 Redpath, 55 & 65 Harbour Square, Equinox West, Munich Re Centre, Neptune South, Spectra, The Milan Condominium, Alter, Ultra at Heron`s Hill, Waterclub East Tower, Waterclub South Tower, Backstage On The Esplanade, 33 Harbour Square, The Pinnacle, Nestle Building, LCBO Tower at Sugar Wharf, The Peter Gilgan Centre for Research and Learning, Number One York Quay South, PwC Tower, 18 Yorkville, Nicholas Residences, Equinox East, 5 Mariner Terrace, Apex West, Royal Pinnacle, Concord Cityplace Parade Tower V, City Lights on Broadway I, City Lights on Broadway II, 1001 Bay, Bank of Nova Scotia, Number One York Quay North, King Charlotte Condos, Waterparkcity, Bloorvista, The 500 Sherbourne, The Chrysler East Tower, The Chrysler West Tower, The Mercer, Residences of the World Trade Centre North East Tower, Murano North Tower, MaRS Discovery Centre West, Zurich Centre, Emerald Park West, One Queen Street East, Ryerson Church Street Development, Royal Bank Plaza North, Jade Waterfront Condos, Lumiere Condos, One Valhalla - Thunderbird, Minto 30 Roe, Platinum XO, The Platinum Tower, Ultima, Westin Harbour Castle North, Marina del Rey Phase 3, The Madison East, 1 Dundas, Market Wharf, WaterPark Place North, Boutique Condominium East, York Centre, Concorde Park North, Concorde Park South, Accolade, Windermere NXT II, Ellipse East, Ellipse West, Four Seasons Private Residences East Tower, Sun Life Financial Centre West Tower, Invesco Tower, Standard Life Centre, eq1 at Equinox, One Bedford, James Cooper Mansion, Heathview Apartments North, Heathview Apartments South, 3 Massey Square, Beyond the Sea South Tower, Infinity East, Infinity3, Novotel DowntownToronto, 8 Park Road, California Condominiums, West Village Building A, 10 Bellair, West Harbour City West, Minto 88 Condos, The Yorkville Condominiums, One St. Thomas Residences, 101 Erskine, Mowat Block, 50 Cordova Avenue, Madison Centre, Bloor Street Neighborhood Condos, 2 Queen Street East, The Dundas Edward Centre, 360° at the City Centre, Malibu at Harbourfront, One Sherway Tower 2, Skymark Center at Avondale - East Tower, Waterscapes, 1 Thousand Bay Street, 500 Duplex Avenue, The Yorkland at Heron`s Hill, 120 Adelaide Street West, Optima, Encore at the Met, Liberty Place, 55 Bay Street, London on the Esplanade, Pure Spirit Condominiums, Conservatory Tower, Toronto Star Building, 24 Mabelle Avenue, Ventus North at Metrogate, Ventus South at Metrogate, Radio City South, Rogers-AT&T Centre, University Centre, Yonge-Eglinton Centre II, Exhibit Residences, The New Residences of Yorkville Plaza, River City 3, City Hall East Tower, Tango, Emerald City II, Hilton Hotel, Harbour Point, Harbour Point 2, Minto Plaza 1, West Village Building B, The Residences at the Consilium West, 10 San Romanoway, Nuvo 1, Nuvo 2, Princess Margaret Hospital, Ryerson: Jarvis Street Residence, Imperial Plaza, 21 Hillcrest Avenue, 3 Navy Wharf Court, 95 Wellington, Studio on Richmond, eq2 at Equinox, 40 Gerrard East, The Residences at the Consilium East, Highgate North, Thomson Building, Matrix 1, One Sherway Tower 3, George Drew Building, Motion on Bay, Centro North, Centro South, Century Plaza, Skymark Center at Avondale - West Tower, South Beach Condos + Lofts, East Tower, South Beach Condos + Lofts, West Tower, Treviso II Condos, Discovery Building B, Empire Plaza, Clarica Centre 1, Panorama, The Republic Condominiums South, Pinnacle Centre Tower B, Waterclub West Tower, The Penrose, St. Lawrence at 158 Front, Mansions of Humberwood East, Mansions of Humberwood West, Foresters, 5 Massey Square, The Crossways A, The Crossways B, Apex East, Windermere NXT, Voyager 1, Transamerica Tower, 545 Sherbourne, 555 Sherbourne, 1101 Bay Street, 155 Cumberland Avenue, Carlton Court Apartments, LuCliff Place, Dream Tower, The Republic Condominiums North, 1 Massey Square, Discovery Building A, iLoft, Blue Diamond Condos at Imperial Plaza, Spectrum South, The Waldorf East Tower, The Waldorf West Tower, Canada Life Building, One Valhalla - Triumph, Barclay Terrace 2, Jazz, Windermere by the Lake Tower, Renaissance Plaza, Mount Sinai Hospital, 565 Sherbourne, Atlantis, 7 Crescent Place, 9 Crescent Place, One Sherway Tower 1, The Residences at King's Gate, WaterPark Place South, The Prince Arthur, Core Condos, The Residence of Avondale, South Tower, DoubleTree by Hilton Hotel Toronto Downtown , The Prince Arthur Condominiums, Cypress at Pinnacle Etobicoke, Regent Park Sackville Dundas Residences, Smart House, Matrix 2, The Globe and Mail Centre, ME Living Condos Tower 1, ME Living Condos Tower 2, Sheppard Centre I, Sheppard Centre II, Sheppard Centre III, Broadway East, Fly Condos, West Harbour City East, The Riviera East, The Riviera West, Residences of Madison Centre, Country Club Towers I, Country Club Towers II, The Residence of Avondale, North Tower, Residences of the World Trade Centre South West Tower, Radio City North, May Tower II, Eaton Chelsea, The Well Residential Three, Emmett House, University Place, Ontario Power Building, The Florian, Plaza 100, Horizon on Bay, City Hall West Tower, Neon Condos, The Indigo, The Essex West, Broadway West, Prelude, Park Towers East, Phase 2 at IQ, Park Towers West, Phase 2 at IQ, The Torontonian, Beaconhill Tower, Old Mill Towers, Avonshire East, Avonshire West, The Rosewood North, Quay West at Tip Top, Humberwood Place, King Edward Hotel, Rise, Barclay Terrace 1, Cosmo 2, Treviso I Condos, Axiom West Tower
+Tiers: I: 170, II: 186, III: 67, IV: 18, V: 2
+Rating: 934 (18.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Vancouver ***
+Country: Canada
+Region: North America
+160 towers: Shangri-La Vancouver, Trump International Hotel & Tower Vancouver, One Burrard Place, TELUS Garden Residential Tower, Hotel Georgia, Vancouver House, One Wall Centre, Shaw Tower, Harbour Centre, MNP Tower, The Melville, Royal Centre, Fairmont Pacific Rim Vancouver, Bentall 5, Park Place, 200 Granville Square, Four Bentall Centre, Scotia Tower, Three Harbour Green, Patina, Toronto Dominion Tower, Capitol Residences, The Charleston, The Mark, Woodward's 43, Bank of Montreal, Jameson House, The Ritz Coal Harbour, West One, Cathedral Place, The Pinnacle, Tate Downtown, Marriott Pinnacle Hotel, The Exchange, West Pender Place, Sheraton Wall Centre Hotel West Tower, Fairmont Hotel Vancouver, Venus, Quay West Tower I, Hyatt Regency Vancouver, Residences on Georgia West, Marine Gateway North Residential, Callisto, Dolce, Residences on Georgia East, Landmark 33, Two Harbour Green, 1177 West Hastings, Oceanic Plaza, 1075 West Georgia, Elan, Fortis BC, Paris Place, HSBC Building, Canaccord Tower, Coast Plaza Hotel & Suites, Carmana Plaza, Guinness Tower, Classico, The Palisades East, Escala, Terminal City Club Tower, Aquarius I, The Beasley, Marine Building, The Maddox, Pointe Claire, The Sapphire, The 501, Beach Tower, Brava South, Grace Residences, 193 Aquarius Mews, Azura II, Sheraton Wall Center Hotel East Tower, Emerald West, Palais Georgia, Azura I, Salt, Citygate, The Lions I, 401 West Georgia, Manulife Place, Metropolitan Towers North, The Four Seasons, Nelson Square, The Max at Sector I, The Grosvenor Building, Waterfront Centre, Cielo, Pomaria, Flatiron, 745 Thurlow, Atelier, The Canadian, Jim Pattison Pavilion, Martello Tower, Aquarius II, 1500 Alberni, Alvar, Vita, TELUS Garden Office Tower, 1050 West Pender, Vancouver Tower, Commerce Place, Residences at Conference Plaza, The Arc, Electra, The Bayview, Mondrian II, Viceroy II, Metropolis, Yaletown Park I, Blue Horizon Hotel, C-Side, Viceroy, Bentall One, The Savoy, City Crest, Harbourside Park I, Harbourside Park II, 1500 West Georgia, Douglas Jung Building, The Lions II, Royal Bank Building, Library Square, Sunset Plaza, Sun Tower, The Pointe, 889 Homer Street, The Imperial Towers, PricewaterhouseCoopers Place, 777 Hornby, AXA Centre, 1188 Howe, Coopers Lookout, Century Plaza Hotel, Waterford, Bayshore Outlook, Qube, Space, BC Hydro Centre, HSBC Tower, One Harbour Green, King's Landing West, Panorama Place, Domus, Brava North, Frank Stanzl Building, Burrard Building, Marine Gateway Office, 701 West Georgia, Carina, Quay West Tower II, 1000 Beach, Columbia Place, Bentall Two, Bauhinia, The Palisades West, The Eden
+Tiers: I: 114, II: 40, III: 6
+Rating: 218 (5.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Calgary ***
+Country: Canada
+Region: North America
+85 towers: Brookfield Place Tower One, The Bow, Telus Sky, Suncor Energy Centre I, Eighth Avenue Place East Tower, Bankers Hall East Tower, Bankers Hall West Tower, Centennial Place I, Canterra Tower, TransCanada Tower, Eighth Avenue Place West Tower, Jamieson Place, First Canadian Centre, Western Canadian Place - North, TD Canada Trust Tower, CF Calgary City Centre Phase I, Scotia Centre, Nexen Building, West Village Tower 1, The Guardian North Tower, The Guardian South Tower, Bow Valley Square 2, Dome Tower, Fifth and Fifth Building, Shell Centre, Home Oil Tower, Bow Valley Square 4, Fifth Avenue Place East Tower, Fifth Avenue Place West Tower, Suncor Energy Centre II, Calgary Courts Centre, Western Canadian Place - South, arriVa Tower 1, Altius Centre, Vogue Condominiums, EnCana Place, 707 Fifth Street, West Village Tower 2, Alberta Stock Exchange Building, Hewlett Packard Tower, Five West - East Tower, BP Centre, WAM on 10th - West Tower, Centennial Place II, Westview Heights, Bow Valley Square 3, Nuera, Monenco Place, Sun Life Plaza East, Sun Life Plaza North, Sun Life Plaza West, Vetro, Telus Tower, Alura, Mark on 10th, One Calgary Place, 6th and Tenth, Encor Place, One Palliser Square, Royal Bank Building, Ovation, Calgary Place Apartments East, Calgary Place Apartments West, WaterMark Tower, 635 8th Avenue SW, Ernst & Young Tower, Five West - West Tower, Mount Royal House, 520 5th Avenue, West Village Tower 3, Standard Life Centre, Keynote Residential Tower II, International Hotel, Delta Bow Valley, Trimac House, Bromley Square Apartments, First Alberta Place, Two Calgary Place, Chevron Plaza, Keynote Residential Tower I, Livingston Place South, Livingston Place West, Riverwest Condos - The McLeod, Rocky Mountain Court, Riverwest Condos - The Barclay
+Tiers: I: 26, II: 40, III: 14, IV: 5
+Rating: 192 (7.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Montreal ***
+Country: Canada
+Region: North America
+53 towers: Le 1250 Boulevard Rene-Levesque, Le 1000 de la Gauchetiere, Tour de la Bourse, Place Ville Marie, L'Avenue, La Tour CIBC, Tour des Canadiens 2, Tour des Canadiens, Le 1501 McGill College, Le Complexe Desjardins Sud, Roccabella (Tour de la Montagne), Roccabella (Tour Drummond), Icône , Tour KPMG, Marriott Ch&acirc;teau Champlain, Marriott Courtyard, Place Montreal Trust, Tour Deloitte, Le 500 Place d'Armes, Tour Telus, Tour de la Banque Nationale, Le Complexe Desjardins Tour Est, Tour Bell Canada, Le Port-Royal, Centre Mont-Royal, Tour Scotia, Le 800, TOM Condos, Edifice Sun Life Building, Tour de la Banque Royale, Holiday Inn Montréal Centre-Ville West, Humaniti Montréal, YUL Tower 1, YUL Tower 2, Maison Manuvie, Cité du Commerce Électronique, Le Centre Sheraton, Place du Canada, Le 400, CHUM, Edifice Hydro Quebec, 500 Boulvard René-Lévesque Ouest, Le Complexe Desjardins Nord, Tour Intact, Le Peterson, Hotel Omni Montreal, Place Sherbrooke, 1100 René-Levesque Boulevard, Le Crystal, Plaza Tower, Quebecor, Cité du Commerce Électronique II, Le Chatel
+Tiers: I: 10, II: 33, III: 9, IV: 1
+Rating: 118 (13.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mississauga ***
+Country: Canada
+Region: North America
+40 towers: Absolute World Building D, Absolute World Building E, Pinnacle Grand Park II, PSV1, One Park Tower, The Grand Residences, Wesley Tower, PSV2, Chicago, Solistice, The Park Residences, The Residences, Onyx, Widesuites, The Park Mansion, Absolute Vision, The Capital North, Skymark West - North, Skymark West - South, Citygate East, Citygate West, The Capital South, Grand Ovation, Eden Park, Ultra Ovation, Eve, No. 1 City Centre East, Limelight Condominiums Phase 2, Pinnacle Grand Park I, Elle Condominium, Ovation at City Centre North, Ovation at City Centre South, A2, No. 1 City Centre West, Pinnacle Uptown Crystal Condominiums West, A1, Pinnacle Uptown Crystal Condominiums East, The Phoenix, Mirage Condos, The Century Park
+Tiers: I: 16, II: 21, III: 3
+Rating: 70 (2.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Edmonton ***
+Country: Canada
+Region: North America
+29 towers: Stantec Tower, JW Marriott-Legends Private Residences, Manulife Place, Encore Tower, Epcor Tower, Telus Plaza South, Bell Tower, Commerce Place, Edmonton House, Edmonton Tower, Canadian Western Bank Place, The Pearl, 101st Street Tower, TD Tower, Scotia Place I, ICON II, CN Tower, Enbridge Centre, Fox Two, Ultima, Sun Life Place, Oxford Tower, Enbridge Tower, Corner Tower 1, Fox One, ATB Financial, Scotia Place II, Chateau Lacombe Hotel, Jasper 101
+Tiers: I: 8, II: 19, III: 1, IV: 1
+Rating: 56 (23.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Burnaby ***
+Country: Canada
+Region: North America
+20 towers: Solo District - Altus, Brentwood One, Brentwood Two, Brentwood Three, 6000 McKay, 4670 Assembly Way, Sovereign, Solo District - Stratus, MetroPlace, 6890 Station Street, Silver, Chancellor, Metro Tower II, Metro Tower III, Centrepoint, 4688 Kingsway, Metro Tower I, Vantage, Moda, Reflections
+Tiers: I: 4, II: 9, III: 7
+Rating: 50 (32.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ottawa ***
+Country: Canada
+Region: North America
+40 towers: Claridge Icon, Place de Ville III, Minto Metropole, Le Parc, R.H. Coats Building, Ottawa Marriott Hotel, Delta Ottawa City Centre, Place Bell Canada, Minto Place Suite Hotel, Constitution Square II, Performance Court, 66 Slater, Place de Ville I, Place de Ville II, Claridge Plaza III, Claridge Plaza IV, World Exchange Plaza Tower I, Tribeca East, Tribeca West, Department of National Defence Building, The Carlisle, Sir William Logan Building, Queen Elizabeth Towers East, Queen Elizabeth Towers West, Rio Vista, Minto Place Canada Building, Park Place Apartments, Chateau Royale East, Chateau Royale West, Jeanne Mance Building, Dunton Tower, Jean Edmonds Towers South, Bromley Square, Constitution Square III, Frobisher Place, Island Park Towers III, Castleview, Standard Life Centre North, The Cross Winds, Place St-George
+Tiers: I: 37, II: 3
+Rating: 43 (4.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Vaughan ***
+Country: Canada
+Region: North America
+8 towers: Transit City Condominiums 1, Transit City Condominiums 2, Nord West, Expo 2, Expo 1, The Met, Centro Square East, Centro Square West
+Tiers: I: 1, II: 5, III: 2
+Rating: 19 (63.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Winnipeg ***
+Country: Canada
+Region: North America
+9 towers: CanWest Place, Richardson Building, 360 Main, Manitoba Hydro Place, 55 Nassau North, Le Chateau York, MTS Place Main, Heritage Landing, Radisson Hotel
+Tiers: I: 4, II: 5
+Rating: 14 (7.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Niagara Falls ***
+Country: Canada
+Region: North America
+6 towers: Niagara Falls Hilton Fallsview North Tower, Embassy Suites Hotel Niagara Falls - Fallsview, Niagara Fallsview Casino Resort, Marriott Fallsview Hotel, Niagara Falls Hilton Fallsview South Tower, The Tower Hotel
+Tiers: I: 2, II: 3, III: 1
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Quebec ***
+Country: Canada
+Region: North America
+9 towers: Edifice Marie-Guyart, Complexe Jules Dallaire II, &Eacute;difice Place Hauteville et H&ocirc;tel Delta Qu&eacute;bec, Hotel Le Concorde, Hotel Hilton, Edifice Price, Place de la Capitale, Le Château Frontenac, Édifice d`Youville
+Tiers: I: 6, II: 3
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Surrey ***
+Country: Canada
+Region: North America
+5 towers: 3 Civic Plaza, Central City, Park Place at Central City, Ultra, Citypoint Tower 1
+Tiers: I: 2, II: 2, III: 1
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hamilton ***
+Country: Canada
+Region: North America
+4 towers: Landmark Place, 20/22 George Street, Stelco Tower, The Olympia Apartments
+Tiers: I: 3, II: 1
+Rating: 5 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Windsor ***
+Country: Canada
+Region: North America
+2 towers: Caesars Windsor - Augustus Tower, Caesars Windsor Hotel
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Markham ***
+Country: Canada
+Region: North America
+3 towers: World on Yonge I, World on Yonge II, World on Yonge Office/Hotel Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gatineau ***
+Country: Canada
+Region: North America
+2 towers: Terrasses de la Chaudière I - Central Tower, Place du Portage I
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Trois-Rivières ***
+Country: Canada
+Region: North America
+1 tower: 159SW Tower
+Tiers: II: 1
+Rating: 2 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** London (ON) ***
+Country: Canada
+Region: North America
+1 tower: One London Place
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Regina ***
+Country: Canada
+Region: North America
+2 towers: Mosaic Potash Tower, Delta Regina Hotel
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Halifax ***
+Country: Canada
+Region: North America
+1 tower: Fenwick Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Coquitlam ***
+Country: Canada
+Region: North America
+1 tower: Evergreen
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Moncton ***
+Country: Canada
+Region: North America
+1 tower: Place L'Assomption
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kelowna ***
+Country: Canada
+Region: North America
+1 tower: Landmark VI
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Waterloo (CA) ***
+Country: Canada
+Region: North America
+1 tower: Sun Life Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

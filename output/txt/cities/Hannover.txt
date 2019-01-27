@@ -1,0 +1,50 @@
+*** Hannover (4) ***
+1. Ihmeplatz 2, 92m
+2. Lister Tor, 91m
+3. Verwaltungsgebäude der NORD/LB, 84m
+4. DMAG Administration Building, 82m
+
+******************** DETAILS ********************
+
+*** Hannover ***
+Country: Germany
+Region: Europe
+4 towers: Ihmeplatz 2, Lister Tor, Verwaltungsgebäude der NORD/LB, DMAG Administration Building
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ihmeplatz 2 ***
+Height: 92.24
+Floors: 23
+Status: Completed
+Started: 1971
+Completed: 1975
+Functions: office
+Rank: 1
+
+*** Lister Tor ***
+Height: 91
+Floors: 23
+Status: Completed
+Completed: 1974
+Functions: residential / office
+Rank: 2
+
+*** Verwaltungsgebäude der NORD/LB ***
+Height: 83.52
+Floors: 17
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: office
+Rank: 3
+
+*** DMAG Administration Building ***
+Height: 82
+Floors: 20
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 4

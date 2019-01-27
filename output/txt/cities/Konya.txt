@@ -1,0 +1,30 @@
+*** Konya (6) ***
+1. Seljuk Tower, 163m
+2. Konya Hilton Hotel, 132m
+
+******************** DETAILS ********************
+
+*** Konya ***
+Country: Turkey
+Region: Middle East
+2 towers: Seljuk Tower, Konya Hilton Hotel
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Seljuk Tower ***
+Height: 163
+Floors: 42
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 1
+
+*** Konya Hilton Hotel ***
+Height: 132
+Floors: 33
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 2

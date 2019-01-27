@@ -1,0 +1,60 @@
+*** Canberra (6) ***
+1. High Society - Tower One, 111m
+2. High Society - Tower Two, 99m
+3. Lovett Tower, 90m
+4. Wayfarer Apartments, 88m
+5. Cirrus Tower One, 82m
+
+******************** DETAILS ********************
+
+*** Canberra ***
+Country: Australia
+Region: Oceania
+5 towers: High Society - Tower One, High Society - Tower Two, Lovett Tower, Wayfarer Apartments, Cirrus Tower One
+Tiers: I: 4, II: 1
+Rating: 6 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** High Society - Tower One ***
+Height: 110.75
+Floors: 28
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / residential
+Rank: 1
+
+*** High Society - Tower Two ***
+Height: 98.58
+Floors: 27
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / hotel
+Rank: 2
+
+*** Lovett Tower ***
+Height: 90
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 3
+
+*** Wayfarer Apartments ***
+Height: 88
+Floors: 27
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential / hotel / retail
+Rank: 4
+
+*** Cirrus Tower One ***
+Height: 82
+Floors: 24
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 5

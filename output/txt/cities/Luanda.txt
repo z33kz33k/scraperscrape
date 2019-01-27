@@ -1,0 +1,59 @@
+*** Luanda (7) ***
+1. IMOB Business Tower, 145m
+2. Torres Kilamba, 107m
+3. Intercontinental Hotel & Casino, 104m
+4. ESCOM Building, 102m
+5. Edificio Sonangol, 94m
+
+******************** DETAILS ********************
+
+*** Luanda ***
+Country: Angola
+Region: Africa
+5 towers: IMOB Business Tower, Torres Kilamba, Intercontinental Hotel & Casino, ESCOM Building, Edificio Sonangol
+Tiers: I: 3, II: 2
+Rating: 7 (28.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** IMOB Business Tower ***
+Height: 145
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 1
+
+*** Torres Kilamba ***
+Height: 107.28
+Floors: 27
+Status: Architecturally Topped Out
+Started: 2010
+Completed: 2019
+Functions: residential / office
+Rank: 2
+
+*** Intercontinental Hotel & Casino ***
+Height: 104
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: hotel / casino
+Rank: 3
+
+*** ESCOM Building ***
+Height: 102.2
+Floors: 24
+Status: Completed
+Completed: 2009
+Functions: residential / office
+Rank: 4
+
+*** Edificio Sonangol ***
+Height: 94.5
+Floors: 23
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 5

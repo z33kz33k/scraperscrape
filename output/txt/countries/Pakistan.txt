@@ -1,0 +1,27 @@
+*** Pakistan (34) ***
+1. Karachi, 32
+2. Lahore, 2
+
+******************** DETAILS ********************
+
+*** Pakistan ***
+Region: Asia
+2 cities: Karachi, Lahore
+Tiers: I: 2, II: 5, III: 4, IV: 1
+Rating: 34 (64.7% uncompleted)
+
+*** Karachi ***
+Country: Pakistan
+Region: Asia
+11 towers: Bahria Town ICON, Chapal Skymark, Opal 225, Dolmen City Tower A, Dolmen City Tower B, Ocean Towers, MCB Bank Limited, Centre Point Tower, UBL Tower, PRC Towers, Habib Bank Plaza
+Tiers: I: 2, II: 4, III: 4, IV: 1
+Rating: 32 (68.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lahore ***
+Country: Pakistan
+Region: Asia
+1 tower: Software Technology Park
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

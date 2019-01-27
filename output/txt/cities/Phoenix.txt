@@ -1,0 +1,189 @@
+*** Phoenix (31) ***
+1.  Chase Tower, 147m
+2.  U.S. Bank Center, 124m
+3.  Qwest Tower, 121m
+4.  Alliance Bank Tower, 117m
+5.  44 Monroe, 116m
+6.  Viad Tower, 114m
+7.  Two Renaissance Square, 113m
+8.  Wells Fargo Plaza, 113m
+9.  Phoenix City Hall, 112m
+10. Sheraton Phoenix Downtown, 110m
+11. Bank of America Tower, 110m
+12. 3300 North Central Avenue, 108m
+13. One Renaissance Square, 106m
+14. Freeport-McMoRan Center, 104m
+15. Phoenix Corporate Center, 104m
+16. Phoenix Plaza One, 101m
+17. Phoenix Plaza Two, 101m
+18. Great American Tower, 98m
+19. Cityscape Tower 2, 86m
+
+******************** DETAILS ********************
+
+*** Phoenix ***
+Country: United States
+Region: North America
+19 towers: Chase Tower, U.S. Bank Center, Qwest Tower, Alliance Bank Tower, 44 Monroe, Viad Tower, Two Renaissance Square, Wells Fargo Plaza, Phoenix City Hall, Sheraton Phoenix Downtown, Bank of America Tower, 3300 North Central Avenue, One Renaissance Square, Freeport-McMoRan Center, Phoenix Corporate Center, Phoenix Plaza One, Phoenix Plaza Two, Great American Tower, Cityscape Tower 2
+Tiers: I: 7, II: 12
+Rating: 31
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chase Tower ***
+Height: 147.22
+Floors: 40
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 1
+
+*** U.S. Bank Center ***
+Height: 124.1
+Floors: 31
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 2
+
+*** Qwest Tower ***
+Height: 121
+Floors: 25
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 3
+
+*** Alliance Bank Tower ***
+Height: 117.3
+Floors: 27
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 4
+
+*** 44 Monroe ***
+Height: 115.82
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 5
+
+*** Viad Tower ***
+Height: 114
+Floors: 24
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 6
+
+*** Two Renaissance Square ***
+Height: 113.4
+Floors: 28
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 7
+
+*** Wells Fargo Plaza ***
+Height: 113.4
+Floors: 27
+Status: Completed
+Completed: 1971
+Functions: office / Museum
+Rank: 8
+
+*** Phoenix City Hall ***
+Height: 112.2
+Floors: 20
+Status: Completed
+Started: 1992
+Completed: 1994
+Rank: 9
+
+*** Sheraton Phoenix Downtown ***
+Height: 109.7
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel
+Rank: 10
+
+*** Bank of America Tower ***
+Height: 109.7
+Floors: 23
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 11
+
+*** 3300 North Central Avenue ***
+Height: 108.5
+Floors: 27
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 12
+
+*** One Renaissance Square ***
+Height: 105.8
+Floors: 26
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 13
+
+*** Freeport-McMoRan Center ***
+Height: 104.14
+Floors: 26
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 14
+
+*** Phoenix Corporate Center ***
+Height: 103.9
+Floors: 26
+Status: Completed
+Started: 1962
+Completed: 1965
+Functions: office
+Rank: 15
+
+*** Phoenix Plaza One ***
+Height: 100.9
+Floors: 20
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 16
+
+*** Phoenix Plaza Two ***
+Height: 100.9
+Floors: 20
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 16
+
+*** Great American Tower ***
+Height: 97.5
+Floors: 24
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 18
+
+*** Cityscape Tower 2 ***
+Height: 86.25
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential / hotel
+Rank: 19

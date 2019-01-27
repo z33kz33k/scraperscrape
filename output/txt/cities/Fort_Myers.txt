@@ -1,0 +1,51 @@
+*** Fort Myers (4) ***
+1. High Point I, 104m
+2. High Point II, 104m
+3. Oasis I, 104m
+4. Oasis II, 104m
+
+******************** DETAILS ********************
+
+*** Fort Myers ***
+Country: United States
+Region: North America
+4 towers: High Point I, High Point II, Oasis I, Oasis II
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** High Point I ***
+Height: 103.94
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 1
+
+*** High Point II ***
+Height: 103.63
+Floors: 33
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 2
+
+*** Oasis I ***
+Height: 103.63
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 3
+
+*** Oasis II ***
+Height: 103.58
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 4

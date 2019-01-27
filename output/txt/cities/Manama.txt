@@ -1,0 +1,227 @@
+*** Manama (85) ***
+1.  Four Seasons Hotel, 270m
+2.  Dual Towers 1, 260m
+3.  Dual Towers 2, 260m
+4.  Bahrain World Trade Center 1, 240m
+5.  Bahrain World Trade Center 2, 240m
+6.  Villamar Tower A, 220m
+7.  Villamar Tower C, 210m
+8.  United Tower, 200m
+9.  Era Tower, 185m
+10. Gold Pearl Tower, 180m
+11. Silver Pearl Tower, 180m
+12. Almoayyed Towers, 172m
+13. The Breaker, 165m
+14. Orchid Plaza, 163m
+15. Black Pearl Tower, 160m
+16. Diplomat Commercial Office Tower, 158m
+17. Dream Tower I, 140m
+18. Dream Tower II, 140m
+19. Villamar Tower B, 137m
+20. National Bank of Bahrain, 101m
+21. Al Zamil Tower, 94m
+22. Future Bank Headquarters, 85m
+
+******************** DETAILS ********************
+
+*** Manama ***
+Country: Bahrain
+Region: Middle East
+22 towers: Four Seasons Hotel, Dual Towers 1, Dual Towers 2, Bahrain World Trade Center 1, Bahrain World Trade Center 2, Villamar Tower A, Villamar Tower C, United Tower, Era Tower, Gold Pearl Tower, Silver Pearl Tower, Almoayyed Towers, The Breaker, Orchid Plaza, Black Pearl Tower, Diplomat Commercial Office Tower, Dream Tower I, Dream Tower II, Villamar Tower B, National Bank of Bahrain, Al Zamil Tower, Future Bank Headquarters
+Tiers: I: 3, II: 3, III: 10, IV: 6
+Rating: 85 (18.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Four Seasons Hotel ***
+Height: 269.7
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: hotel
+Rank: 1
+
+*** Dual Towers 1 ***
+Height: 260
+Floors: 53
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: office
+Rank: 2
+
+*** Dual Towers 2 ***
+Height: 260
+Floors: 53
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: office
+Rank: 2
+
+*** Bahrain World Trade Center 1 ***
+Height: 240
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: office
+Rank: 4
+
+*** Bahrain World Trade Center 2 ***
+Height: 240
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: office
+Rank: 4
+
+*** Villamar Tower A ***
+Height: 220
+Floors: 54
+Status: Structurally Topped Out
+Started: 2007
+Completed: 2019
+Functions: residential
+Rank: 6
+
+*** Villamar Tower C ***
+Height: 210
+Floors: 52
+Status: Under Construction
+Started: 2007
+Completed: 2019
+Functions: residential
+Rank: 7
+
+*** United Tower ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: hotel / office
+Rank: 8
+
+*** Era Tower ***
+Height: 185
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 9
+
+*** Gold Pearl Tower ***
+Height: 180
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 10
+
+*** Silver Pearl Tower ***
+Height: 180
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 10
+
+*** Almoayyed Towers ***
+Height: 172
+Floors: 49
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 12
+
+*** The Breaker ***
+Height: 165
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential
+Rank: 13
+
+*** Orchid Plaza ***
+Height: 163
+Floors: 48
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 14
+
+*** Black Pearl Tower ***
+Height: 160
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 15
+
+*** Diplomat Commercial Office Tower ***
+Height: 157.6
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 16
+
+*** Dream Tower I ***
+Height: 139.8
+Floors: 36
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 17
+
+*** Dream Tower II ***
+Height: 139.8
+Floors: 36
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 17
+
+*** Villamar Tower B ***
+Height: 137
+Floors: 43
+Status: Structurally Topped Out
+Started: 2007
+Completed: 2019
+Functions: residential
+Rank: 19
+
+*** National Bank of Bahrain ***
+Height: 100.89
+Floors: 27
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 20
+
+*** Al Zamil Tower ***
+Height: 93.6
+Floors: 22
+Status: Completed
+Started: 2002
+Completed: 2006
+Functions: office
+Rank: 21
+
+*** Future Bank Headquarters ***
+Height: 85
+Floors: 19
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 22

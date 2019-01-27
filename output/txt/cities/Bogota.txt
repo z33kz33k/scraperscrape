@@ -1,0 +1,185 @@
+*** Bogota (66) ***
+1.  BD Bacata Torre 1, 260m
+2.  BD Bacata Torre 2, 216m
+3.  Atrio North Tower, 202m
+4.  Torre Colpatria, 196m
+5.  Centro de Comercio Internacional, 192m
+6.  Museo Parque Central, 185m
+7.  North Point V, 184m
+8.  Torre E, 172m
+9.  Ciudadela San Martin Torre Norte, 171m
+10. America World Trade Center Tower I, 169m
+11. Edificio Avianca, 161m
+12. Ciudadela San Mart&iacute;n Torre Sur, 154m
+13. Torre Krystal, 150m
+14. Contraloria General de la Nacion, 145m
+15. Edificio Colseguros, 140m
+16. North Point 3, 125m
+17. Edificio Seguros Tequendama, 122m
+18. America World Trade Center Tower II, 115m
+
+******************** DETAILS ********************
+
+*** Bogota ***
+Country: Colombia
+Region: South America
+18 towers: BD Bacata Torre 1, BD Bacata Torre 2, Atrio North Tower, Torre Colpatria, Centro de Comercio Internacional, Museo Parque Central, North Point V, Torre E, Ciudadela San Martin Torre Norte, America World Trade Center Tower I, Edificio Avianca, Ciudadela San Mart&iacute;n Torre Sur, Torre Krystal, Contraloria General de la Nacion, Edificio Colseguros, North Point 3, Edificio Seguros Tequendama, America World Trade Center Tower II
+Tiers: II: 5, III: 11, IV: 2
+Rating: 66 (15.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** BD Bacata Torre 1 ***
+Height: 260
+Floors: 67
+Status: Completed
+Started: 2011
+Completed: 2018
+Functions: hotel / residential
+Rank: 1
+
+*** BD Bacata Torre 2 ***
+Height: 216
+Floors: 56
+Status: Completed
+Started: 2011
+Completed: 2018
+Functions: office / residential
+Rank: 2
+
+*** Atrio North Tower ***
+Height: 201.6
+Floors: 44
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 3
+
+*** Torre Colpatria ***
+Height: 196
+Floors: 50
+Status: Completed
+Started: 1973
+Completed: 1979
+Functions: office
+Rank: 4
+
+*** Centro de Comercio Internacional ***
+Height: 192
+Floors: 50
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 5
+
+*** Museo Parque Central ***
+Height: 185
+Floors: 45
+Status: Completed
+Completed: 2017
+Functions: residential / office
+Rank: 6
+
+*** North Point V ***
+Height: 184
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 7
+
+*** Torre E ***
+Height: 172
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 8
+
+*** Ciudadela San Martin Torre Norte ***
+Height: 171
+Floors: 47
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: hotel
+Rank: 9
+
+*** America World Trade Center Tower I ***
+Height: 168.9
+Floors: 32
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: office / retail
+Rank: 10
+
+*** Edificio Avianca ***
+Height: 161
+Floors: 42
+Status: Completed
+Started: 1963
+Completed: 1969
+Functions: office
+Rank: 11
+
+*** Ciudadela San Mart&iacute;n Torre Sur ***
+Height: 154
+Floors: 40
+Status: Completed
+Completed: 1970
+Functions: hotel
+Rank: 12
+
+*** Torre Krystal ***
+Height: 150
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 13
+
+*** Contraloria General de la Nacion ***
+Height: 145
+Floors: 36
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 14
+
+*** Edificio Colseguros ***
+Height: 140
+Floors: 36
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 15
+
+*** North Point 3 ***
+Height: 125
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 16
+
+*** Edificio Seguros Tequendama ***
+Height: 121.92
+Floors: 38
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 17
+
+*** America World Trade Center Tower II ***
+Height: 114.9
+Floors: 22
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: office / retail
+Rank: 18

@@ -1,0 +1,21 @@
+*** La Coruna (2) ***
+1. Torre Costa Rica, 119m
+
+******************** DETAILS ********************
+
+*** La Coruna ***
+Country: Spain
+Region: Europe
+1 tower: Torre Costa Rica
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre Costa Rica ***
+Height: 118.6
+Floors: 31
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: residential / office
+Rank: 1

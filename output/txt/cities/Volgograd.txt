@@ -1,0 +1,29 @@
+*** Volgograd (4) ***
+1. Volgograd-City, 116m
+2. Volga Sails A, 110m
+
+******************** DETAILS ********************
+
+*** Volgograd ***
+Country: Russia
+Region: Europe
+2 towers: Volgograd-City, Volga Sails A
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Volgograd-City ***
+Height: 116
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 1
+
+*** Volga Sails A ***
+Height: 110
+Floors: 32
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 2

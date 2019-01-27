@@ -1,0 +1,30 @@
+*** Issy-les-Moulineaux (3) ***
+1. Tour Hélice, 145m
+2. Sequana Tower - Bouygues Telcom, 100m
+
+******************** DETAILS ********************
+
+*** Issy-les-Moulineaux ***
+Country: France
+Region: Europe
+2 towers: Tour Hélice, Sequana Tower - Bouygues Telcom
+Tiers: I: 1, II: 1
+Rating: 3 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour Hélice ***
+Height: 145
+Floors: 36
+Status: Under Construction
+Started: 2016
+Functions: office
+Rank: 1
+
+*** Sequana Tower - Bouygues Telcom ***
+Height: 100
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 2

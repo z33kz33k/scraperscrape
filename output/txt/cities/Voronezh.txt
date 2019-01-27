@@ -1,0 +1,20 @@
+*** Voronezh (1) ***
+1. Center Gallery Chizhov, 100m
+
+******************** DETAILS ********************
+
+*** Voronezh ***
+Country: Russia
+Region: Europe
+1 tower: Center Gallery Chizhov
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Center Gallery Chizhov ***
+Height: 100.5
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: office / retail
+Rank: 1

@@ -1,0 +1,30 @@
+*** Tirana (2) ***
+1. TID Tower, 85m
+2. ABA Business Center, 81m
+
+******************** DETAILS ********************
+
+*** Tirana ***
+Country: Albania
+Region: Europe
+2 towers: TID Tower, ABA Business Center
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** TID Tower ***
+Height: 85
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2016
+Functions: hotel
+Rank: 1
+
+*** ABA Business Center ***
+Height: 81
+Floors: 21
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 2

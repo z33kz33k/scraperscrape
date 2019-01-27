@@ -1,0 +1,31 @@
+*** Santa Cruz de Tenerife (4) ***
+1. Los Torres de Santa Cruz de Tenerife I, 120m
+2. Los Torres de Santa Cruz de Tenerife II, 120m
+
+******************** DETAILS ********************
+
+*** Santa Cruz de Tenerife ***
+Country: Spain
+Region: Europe
+2 towers: Los Torres de Santa Cruz de Tenerife I, Los Torres de Santa Cruz de Tenerife II
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Los Torres de Santa Cruz de Tenerife I ***
+Height: 120
+Floors: 35
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential / office
+Rank: 1
+
+*** Los Torres de Santa Cruz de Tenerife II ***
+Height: 120
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential / hotel / office
+Rank: 1

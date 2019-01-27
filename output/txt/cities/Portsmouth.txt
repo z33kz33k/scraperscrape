@@ -1,0 +1,21 @@
+*** Portsmouth (1) ***
+1. No.1 Gunwharf Quays, 95m
+
+******************** DETAILS ********************
+
+*** Portsmouth ***
+Country: United Kingdom
+Region: Europe
+1 tower: No.1 Gunwharf Quays
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** No.1 Gunwharf Quays ***
+Height: 95
+Floors: 26
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 1

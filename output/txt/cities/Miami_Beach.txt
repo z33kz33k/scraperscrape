@@ -1,0 +1,212 @@
+*** Miami Beach (38) ***
+1.  Blue Diamond Tower, 170m
+2.  Green Diamond Tower, 170m
+3.  Akoya Condominiums, 150m
+4.  Portofino Tower, 148m
+5.  Continuum on South Beach, South Tower, 144m
+6.  Fontainebleau Tower Suites, 132m
+7.  ICON at South Beach, 129m
+8.  Continuum on South Beach, North Tower, 126m
+9.  Murano Grande at Portofino, 124m
+10. Murano at Portofino, 122m
+11. The Carillon Hotel & Spa North Tower, 121m
+12. The Setai Hotel and Residences, 118m
+13. The Waverly at South Beach, 110m
+14. La Gorce Palace, 105m
+15. The Yacht Club at Portofino, 104m
+16. Flamingo Resort Residences III, 103m
+17. The Floridian, 103m
+18. Apogee South Beach, 83m
+19. Bentley Bay Condominium South Tower, 79m
+20. MEi Miami Beach Ocean Front, 79m
+21. The Carillon Hotel & Spa South Tower, 78m
+
+******************** DETAILS ********************
+
+*** Miami Beach ***
+Country: United States
+Region: North America
+21 towers: Blue Diamond Tower, Green Diamond Tower, Akoya Condominiums, Portofino Tower, Continuum on South Beach, South Tower, Fontainebleau Tower Suites, ICON at South Beach, Continuum on South Beach, North Tower, Murano Grande at Portofino, Murano at Portofino, The Carillon Hotel & Spa North Tower, The Setai Hotel and Residences, The Waverly at South Beach, La Gorce Palace, The Yacht Club at Portofino, Flamingo Resort Residences III, The Floridian, Apogee South Beach, Bentley Bay Condominium South Tower, MEi Miami Beach Ocean Front, The Carillon Hotel & Spa South Tower
+Tiers: I: 8, II: 11, III: 2
+Rating: 38
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Blue Diamond Tower ***
+Height: 170.39
+Floors: 44
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 1
+
+*** Green Diamond Tower ***
+Height: 170.39
+Floors: 44
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 1
+
+*** Akoya Condominiums ***
+Height: 149.96
+Floors: 47
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 3
+
+*** Portofino Tower ***
+Height: 147.5
+Floors: 44
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 4
+
+*** Continuum on South Beach, South Tower ***
+Height: 143.5
+Floors: 44
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 5
+
+*** Fontainebleau Tower Suites ***
+Height: 132.25
+Floors: 36
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / hotel
+Rank: 6
+
+*** ICON at South Beach ***
+Height: 128.93
+Floors: 42
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: residential
+Rank: 7
+
+*** Continuum on South Beach, North Tower ***
+Height: 125.5
+Floors: 40
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 8
+
+*** Murano Grande at Portofino ***
+Height: 124.06
+Floors: 37
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 9
+
+*** Murano at Portofino ***
+Height: 122.5
+Floors: 37
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: residential
+Rank: 10
+
+*** The Carillon Hotel & Spa North Tower ***
+Height: 121
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel
+Rank: 11
+
+*** The Setai Hotel and Residences ***
+Height: 117.5
+Floors: 38
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: hotel / residential
+Rank: 12
+
+*** The Waverly at South Beach ***
+Height: 110.34
+Floors: 36
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 13
+
+*** La Gorce Palace ***
+Height: 105.1
+Floors: 34
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 14
+
+*** The Yacht Club at Portofino ***
+Height: 103.9
+Floors: 33
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 15
+
+*** Flamingo Resort Residences III ***
+Height: 103
+Floors: 32
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 16
+
+*** The Floridian ***
+Height: 102.7
+Floors: 33
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 17
+
+*** Apogee South Beach ***
+Height: 83.21
+Floors: 22
+Status: Completed
+Completed: 2007
+Rank: 18
+
+*** Bentley Bay Condominium South Tower ***
+Height: 79
+Floors: 26
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: residential
+Rank: 19
+
+*** MEi Miami Beach Ocean Front ***
+Height: 79
+Floors: 22
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 20
+
+*** The Carillon Hotel & Spa South Tower ***
+Height: 78
+Floors: 22
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: hotel / residential
+Rank: 21

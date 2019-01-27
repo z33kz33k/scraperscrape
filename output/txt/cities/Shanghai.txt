@@ -1,0 +1,2395 @@
+*** Shanghai (941) ***
+1.   Shanghai Tower, 632m
+2.   Shanghai World Financial Center, 492m
+3.   Jin Mao Tower, 421m
+4.   Xujiahui Center Tower 1, 370m
+5.   Shimao International Plaza, 333m
+6.   Zhenru Center, 330m
+7.   Sinar Mas Center 1, 320m
+8.   Huangpu Dongjiadu 1, 300m
+9.   Plaza 66, 288m
+10.  Henderson Xuhui Tower, 285m
+11.  Tomorrow Square, 285m
+12.  Qiantan Center, 280m
+13.  Hong Kong New World Tower, 278m
+14.  SK Group Tower, 275m
+15.  Shanghai Wheelock Square, 270m
+16.  One Lujiazui, 269m
+17.  Star Harbor International Centre East Tower, 263m
+18.  Star Harbor International Centre West Tower, 263m
+19.  66 Tower 1, 262m
+20.  66 Tower 2, 262m
+21.  Jing An Kerry Centre Tower 2, 260m
+22.  Shanghai IFC North Tower, 260m
+23.  CITIC Ruibo Tower 1, 256m
+24.  Bank of Shanghai Headquarters Building, 252m
+25.  HKRI Centre One, 250m
+26.  Shanghai IFC South Tower, 250m
+27.  One Museum Place, 249m
+28.  Global Harbor North Tower, 245m
+29.  Global Harbor South Tower, 245m
+30.  Maxdo Centre, 241m
+31.  Huangpu Dongjiadu 2, 240m
+32.  Cloud Nine, 238m
+33.  CITIC Ruibo Tower 2, 238m
+34.  Huamin Emperor Hotel, 235m
+35.  International Ocean Shipping Building, 232m
+36.  BOCOM Financial Towers, 230m
+37.  International Air Service Center Tower 1, 230m
+38.  Plaza 66 Tower 2, 228m
+39.  CITIC Plaza, 228m
+40.  Bank of China Tower, 226m
+41.  Pullman Shanghai Skyway Hotel, 226m
+42.  Raffles Square Tower, 222m
+43.  Zhongrong Jasper Tower, 220m
+44.  Xujiahui Center Tower 2, 220m
+45.  Shanghai Longemont Hotel, 218m
+46.  The Exchange–SOHO, 217m
+47.  Riviera TwinStar Square 1, 216m
+48.  Riviera TwinStar Square 2, 216m
+49.  Shanghai Stock Exchange of Shanghai International Financial Center, 215m
+50.  World Finance Tower, 212m
+51.  Xinjinqiao Mansion, 212m
+52.  Pudong International Information Port, 211m
+53.  No. 1 Shanghai, 210m
+54.  21st Century Mansion, 210m
+55.  Radisson New World Hotel, 208m
+56.  Golden Bell Mansion, 208m
+57.  Taiping Financial Tower, 208m
+58.  China Merchants Bank Mansion, 208m
+59.  Doubletree by Hilton, Shanghai - Pudong, 207m
+60.  Golden Landmark, 206m
+61.  China Resources Land Suhewan, 206m
+62.  Nan Zheng Mansion, 205m
+63.  Lippo Plaza, 204m
+64.  HSBC Tower, 203m
+65.  BM Plaza Office Tower, 203m
+66.  Shanghai World Plaza, 200m
+67.  Oriental Financial Center, 199m
+68.  Bund Center, 199m
+69.  Jing An Kerry Centre Tower 3, 198m
+70.  BEA Financial Tower, 198m
+71.  Wenxin United Press Building, 197m
+72.  Walton Plaza, 196m
+73.  Lan Sheng Building, 196m
+74.  China Insurance Mansion, 196m
+75.  China Financial Futures Exchange of Shanghai International Financial Center, 195m
+76.  Pudong Financial Plaza Tower 1, 194m
+77.  CITIC Square, 193m
+78.  Shimao Riviera Garden 7, 192m
+79.  Shimao Riviera Garden 8, 192m
+80.  Huaxia Financial Square Tower A, 191m
+81.  Huaxia Financial Square Tower B, 191m
+82.  Pujiang International Finance Plaza, 190m
+83.  Lujiazui Century Tower 1, 190m
+84.  International Air Service Center Tower 2, 190m
+85.  Park Place, 189m
+86.  Raffles City Changning 1, 188m
+87.  Bao'an Tower, 188m
+88.  Huaneng Union Tower, 188m
+89.  Ramada Plaza Pudong, 188m
+90.  Shanghai Futures Tower, 187m
+91.  Shanghai China Merchants Plaza Office Building, 186m
+92.  China Merchants Tower, 186m
+93.  Aurora Plaza, Pudong, 185m
+94.  PUFA Tower, 185m
+95.  Ciro's Plaza, 181m
+96.  Shinmay Union Square I, 180m
+97.  Shinmay Union Square II, 180m
+98.  Great Wall Building, 180m
+99.  Pudong Shangri-La Hotel Extension, 180m
+100. Citigroup Tower, 180m
+101. The Bund Finance Center North, 180m
+102. The Bund Finance Center South, 180m
+103. Citic Pacific Fortune Plaza 1, 180m
+104. Fengxian SME Building, 180m
+105. Shanghai Property Information Exchange Center, 180m
+106. Mirae Asset Tower, 180m
+107. Shanghai Securities Exchange Building, 180m
+108. Offices at Kerry Parkside, 179m
+109. Harbour Ring Plaza, 178m
+110. Hong Kong Prosperity Tower, 177m
+111. CMBC Tower, 177m
+112. Citic Pacific Fortune Plaza 2, 177m
+113. Liu Chong Hing Finance Center, 174m
+114. HKRI Centre Two, 173m
+115. Shimao Riviera Garden 1, 173m
+116. Four Seasons Hotel, 172m
+117. Sinar Mas Center 2, 172m
+118. Shanghai Grand Center, 170m
+119. Shenzhen Commerical Bank Building, 170m
+120. Shanghai Central Square, 169m
+121. Shimao Riviera Garden 2, 169m
+122. Shimao Riviera Garden 3, 169m
+123. Shimao Riviera Garden 5, 169m
+124. AZIA Center, 169m
+125. Shanghai Development Bank Tower, 168m
+126. Jiushi Corporation Headquarters, 168m
+127. Shanghai International Tower, 168m
+128. Lucky Target Plaza, 168m
+129. Century Link Tower A, 168m
+130. Century Link Tower B, 168m
+131. Shanghai International Commerce Center Tower 2, 168m
+132. STV Mansion, 168m
+133. China Fortune Tower, 166m
+134. Shanghai Commercial Center, 165m
+135. Portman Ritz-Carlton, 165m
+136. K Wah Center, 163m
+137. Shimao Riviera Garden 6, 161m
+138. Oriental Fisherman's Wharf Tower, 160m
+139. United Plaza, 160m
+140. Huaxia Bank Tower, 160m
+141. Holiday Inn Shanghai Pudong, 158m
+142. Golden Sail Plaza, 158m
+143. Shanghai JW Marriott Marquis Hotel, 158m
+144. Shanghai International Commerce Center Tower 1, 157m
+145. City155, 155m
+146. Shanghai Times Square, 155m
+147. Suncome Liauw Building, 155m
+148. Shengda Jinpan 1, 154m
+149. Shengda Jinpan 2, 154m
+150. Shengda Jinpan 3, 154m
+151. New Caohejing International Business Center A, 153m
+152. New Caohejing International Business Center B, 153m
+153. Jin Jiang Hotel, 153m
+154. Tomson Riviera Garden 1, 153m
+155. Tomson Riviera Garden 2, 153m
+156. LJZ Plaza, 153m
+157. World Trade Tower, 153m
+158. Hua Mao Building, 152m
+159. China Securities Depository and Clearing Corporation of Shanghai International Financial Center, 152m
+160. Shanghai Central Plaza, 152m
+161. Shanghai Industrial Investment Building, 151m
+162. Hongta Hotel, 151m
+163. Bulgari Residence 1, 150m
+164. Bulgari Residence 2, 150m
+165. Hong Kong Plaza 1, 150m
+166. Hong Kong Plaza 2, 150m
+167. Bulgari Hotel, 150m
+168. Huangpu Dongjiadu 3, 150m
+169. Haitong Securities Building, 150m
+170. Guangming Building, 150m
+171. GIC Tower, 150m
+172. Hongkou Plaza Tower 1, 150m
+173. Hongkou Plaza Tower 2, 150m
+174. Lucky Mansion, 150m
+175. Shanghai Broadcasting & TV Building, 150m
+176. WPP Campus, 150m
+177. Purple Mountain Hotel, 148m
+178. Shanghai International Trade Center, 146m
+179. Yuhuashan Tower, 145m
+180. Lucky Target Hotel, 145m
+181. TODTOWN, 145m
+182. Shanghai Arch, 144m
+183. Hilton Shanghai, 144m
+184. Guang Hua Towers, 143m
+185. Hongyi Tower, 142m
+186. Shanghai Mart, 141m
+187. Jianhui Building, 140m
+188. Bund SOHO, 136m
+189. Qian Tan Office Park T-1, 135m
+190. Qian Tan Office Park T-2, 135m
+191. 5 Corporate Avenue, 135m
+192. Sheraton Pudong Shanghai Hotel, 134m
+193. L'Avenue, 134m
+194. Hongkou SOHO, 134m
+195. Jing An Kerry Centre Tower 1, 133m
+196. Eastern Harbor International Tower, 131m
+197. SOHO Hailun Plaza, 130m
+198. Yin Dong Building, 130m
+199. Lujiazui Century Tower 2, 130m
+200. Lujiazui Century Tower 3, 130m
+201. Renaissance Shanghai Yangtze Hotel, 128m
+202. Kerry Hotel, 128m
+203. Capital Square Plaza, 127m
+204. Huadong Electrical Power Distribution Building, 126m
+205. Raffles City Changning 2, 125m
+206. Huadu Mansion, 124m
+207. Hua Du Tower, 123m
+208. Residences at Kerry Parkside, 120m
+209. Xuhui Vanke Center Phase III Tower 1, 120m
+210. Xuhui Vanke Center Phase III Tower 2, 120m
+211. Shanghai Tian An Center, 120m
+212. Shanghai Centre East Apartment, 112m
+213. Shanghai Centre West Apartment, 112m
+214. Universal Mansion, 112m
+215. Shanghai Exhibition Center, 110m
+216. Shanghai Library, 106m
+217. Jin Jiang Galaxy Hotel, 106m
+218. Cullinan Shanghai, 106m
+219. 1700 Huangxing Road, 106m
+220. SOHO Fuxing Plaza, 105m
+221. Eastern Financial Plaza, 104m
+222. Henderson Metropolitan, 103m
+223. Jin Jang Rainbow Hotel, 103m
+224. Central Hotel, 100m
+225. Courtyard by Marriott Shanghai Pudong, 100m
+226. Honi International Plaza, 100m
+227. Land Rover Regional Offices Shanghai East Tower, 100m
+228. Land Rover Regional Offices Shanghai West Tower, 100m
+229. 2E31 Shanghai Shipyard (Pudong)  (Tower 2), 100m
+230. Swissotel Grand Shanghai, 100m
+231. Outpatient Diagnostic Building of Ruijin Hospital, 100m
+232. Guotai Junan Securities Tower, 100m
+233. Shanghai One Sino Park Building No.20, 99m
+234. Shanghai One Sino Park Building No.12&13, 99m
+235. Raffles City Changning 3, 99m
+236. Andaz Xintiandi, 98m
+237. Shanghai Bund House Building No. 7 of Plot 11-5 , 98m
+238. The Langham Xintiandi, 98m
+239. Fuxing Royale, 97m
+240. Shanghai One Sino Park Building No. 6&7, 97m
+241. Jinying Mansion Block A, 94m
+242. Jinying Mansion Block B, 94m
+243. Baccarat Residences Tower 1, 92m
+244. Baccarat Residences Tower 2, 92m
+245. Holiday Inn Shanghai Pudong Kangqiao, 85m
+246. Shanghai Park Hotel, 84m
+247. Lujiazui Century Tower 5, 80m
+248. Lujiazui Century Tower 6, 80m
+249. Peace Hotel, 77m
+250. China Diamond Exchange Center, 77m
+251. Shanghai Bund House Building No.3-6 of Plot 11-3, 75m
+
+******************** DETAILS ********************
+
+*** Shanghai ***
+Country: China
+Region: Asia
+251 towers: Shanghai Tower, Shanghai World Financial Center, Jin Mao Tower, Xujiahui Center Tower 1, Shimao International Plaza, Zhenru Center, Sinar Mas Center 1, Huangpu Dongjiadu 1, Plaza 66, Henderson Xuhui Tower, Tomorrow Square, Qiantan Center, Hong Kong New World Tower, SK Group Tower, Shanghai Wheelock Square, One Lujiazui, Star Harbor International Centre East Tower, Star Harbor International Centre West Tower, 66 Tower 1, 66 Tower 2, Jing An Kerry Centre Tower 2, Shanghai IFC North Tower, CITIC Ruibo Tower 1, Bank of Shanghai Headquarters Building, HKRI Centre One, Shanghai IFC South Tower, One Museum Place, Global Harbor North Tower, Global Harbor South Tower, Maxdo Centre, Huangpu Dongjiadu 2, Cloud Nine, CITIC Ruibo Tower 2, Huamin Emperor Hotel, International Ocean Shipping Building, BOCOM Financial Towers, International Air Service Center Tower 1, Plaza 66 Tower 2, CITIC Plaza, Bank of China Tower, Pullman Shanghai Skyway Hotel, Raffles Square Tower, Zhongrong Jasper Tower, Xujiahui Center Tower 2, Shanghai Longemont Hotel, The Exchange–SOHO, Riviera TwinStar Square 1, Riviera TwinStar Square 2, Shanghai Stock Exchange of Shanghai International Financial Center, World Finance Tower, Xinjinqiao Mansion, Pudong International Information Port, No. 1 Shanghai, 21st Century Mansion, Radisson New World Hotel, Golden Bell Mansion, Taiping Financial Tower, China Merchants Bank Mansion, Doubletree by Hilton, Shanghai - Pudong, Golden Landmark, China Resources Land Suhewan, Nan Zheng Mansion, Lippo Plaza, HSBC Tower, BM Plaza Office Tower, Shanghai World Plaza, Oriental Financial Center, Bund Center, Jing An Kerry Centre Tower 3, BEA Financial Tower, Wenxin United Press Building, Walton Plaza, Lan Sheng Building, China Insurance Mansion, China Financial Futures Exchange of Shanghai International Financial Center, Pudong Financial Plaza Tower 1, CITIC Square, Shimao Riviera Garden 7, Shimao Riviera Garden 8, Huaxia Financial Square Tower A, Huaxia Financial Square Tower B, Pujiang International Finance Plaza, Lujiazui Century Tower 1, International Air Service Center Tower 2, Park Place, Raffles City Changning 1, Bao'an Tower, Huaneng Union Tower, Ramada Plaza Pudong, Shanghai Futures Tower, Shanghai China Merchants Plaza Office Building, China Merchants Tower, Aurora Plaza, Pudong, PUFA Tower, Ciro's Plaza, Shinmay Union Square I, Shinmay Union Square II, Great Wall Building, Pudong Shangri-La Hotel Extension, Citigroup Tower, The Bund Finance Center North, The Bund Finance Center South, Citic Pacific Fortune Plaza 1, Fengxian SME Building, Shanghai Property Information Exchange Center, Mirae Asset Tower, Shanghai Securities Exchange Building, Offices at Kerry Parkside, Harbour Ring Plaza, Hong Kong Prosperity Tower, CMBC Tower, Citic Pacific Fortune Plaza 2, Liu Chong Hing Finance Center, HKRI Centre Two, Shimao Riviera Garden 1, Four Seasons Hotel, Sinar Mas Center 2, Shanghai Grand Center, Shenzhen Commerical Bank Building, Shanghai Central Square, Shimao Riviera Garden 2, Shimao Riviera Garden 3, Shimao Riviera Garden 5, AZIA Center, Shanghai Development Bank Tower, Jiushi Corporation Headquarters, Shanghai International Tower, Lucky Target Plaza, Century Link Tower A, Century Link Tower B, Shanghai International Commerce Center Tower 2, STV Mansion, China Fortune Tower, Shanghai Commercial Center, Portman Ritz-Carlton, K Wah Center, Shimao Riviera Garden 6, Oriental Fisherman's Wharf Tower, United Plaza, Huaxia Bank Tower, Holiday Inn Shanghai Pudong, Golden Sail Plaza, Shanghai JW Marriott Marquis Hotel, Shanghai International Commerce Center Tower 1, City155, Shanghai Times Square, Suncome Liauw Building, Shengda Jinpan 1, Shengda Jinpan 2, Shengda Jinpan 3, New Caohejing International Business Center A, New Caohejing International Business Center B, Jin Jiang Hotel, Tomson Riviera Garden 1, Tomson Riviera Garden 2, LJZ Plaza, World Trade Tower, Hua Mao Building, China Securities Depository and Clearing Corporation of Shanghai International Financial Center, Shanghai Central Plaza, Shanghai Industrial Investment Building, Hongta Hotel, Bulgari Residence 1, Bulgari Residence 2, Hong Kong Plaza 1, Hong Kong Plaza 2, Bulgari Hotel, Huangpu Dongjiadu 3, Haitong Securities Building, Guangming Building, GIC Tower, Hongkou Plaza Tower 1, Hongkou Plaza Tower 2, Lucky Mansion, Shanghai Broadcasting & TV Building, WPP Campus, Purple Mountain Hotel, Shanghai International Trade Center, Yuhuashan Tower, Lucky Target Hotel, TODTOWN, Shanghai Arch, Hilton Shanghai, Guang Hua Towers, Hongyi Tower, Shanghai Mart, Jianhui Building, Bund SOHO, Qian Tan Office Park T-1, Qian Tan Office Park T-2, 5 Corporate Avenue, Sheraton Pudong Shanghai Hotel, L'Avenue, Hongkou SOHO, Jing An Kerry Centre Tower 1, Eastern Harbor International Tower, SOHO Hailun Plaza, Yin Dong Building, Lujiazui Century Tower 2, Lujiazui Century Tower 3, Renaissance Shanghai Yangtze Hotel, Kerry Hotel, Capital Square Plaza, Huadong Electrical Power Distribution Building, Raffles City Changning 2, Huadu Mansion, Hua Du Tower, Residences at Kerry Parkside, Xuhui Vanke Center Phase III Tower 1, Xuhui Vanke Center Phase III Tower 2, Shanghai Tian An Center, Shanghai Centre East Apartment, Shanghai Centre West Apartment, Universal Mansion, Shanghai Exhibition Center, Shanghai Library, Jin Jiang Galaxy Hotel, Cullinan Shanghai, 1700 Huangxing Road, SOHO Fuxing Plaza, Eastern Financial Plaza, Henderson Metropolitan, Jin Jang Rainbow Hotel, Central Hotel, Courtyard by Marriott Shanghai Pudong, Honi International Plaza, Land Rover Regional Offices Shanghai East Tower, Land Rover Regional Offices Shanghai West Tower, 2E31 Shanghai Shipyard (Pudong)  (Tower 2), Swissotel Grand Shanghai, Outpatient Diagnostic Building of Ruijin Hospital, Guotai Junan Securities Tower, Shanghai One Sino Park Building No.20, Shanghai One Sino Park Building No.12&13, Raffles City Changning 3, Andaz Xintiandi, Shanghai Bund House Building No. 7 of Plot 11-5 , The Langham Xintiandi, Fuxing Royale, Shanghai One Sino Park Building No. 6&7, Jinying Mansion Block A, Jinying Mansion Block B, Baccarat Residences Tower 1, Baccarat Residences Tower 2, Holiday Inn Shanghai Pudong Kangqiao, Shanghai Park Hotel, Lujiazui Century Tower 5, Lujiazui Century Tower 6, Peace Hotel, China Diamond Exchange Center, Shanghai Bund House Building No.3-6 of Plot 11-3
+Tiers: I: 35, II: 41, III: 123, IV: 44, V: 6, VI: 2
+Rating: 941 (11.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shanghai Tower ***
+Height: 632
+Floors: 128
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: hotel / office
+Rank: 1
+
+*** Shanghai World Financial Center ***
+Height: 492
+Floors: 101
+Status: Completed
+Started: 1997
+Completed: 2008
+Functions: hotel / office
+Rank: 2
+
+*** Jin Mao Tower ***
+Height: 420.53
+Floors: 88
+Status: Completed
+Started: 1994
+Completed: 1999
+Functions: hotel / office
+Rank: 3
+
+*** Xujiahui Center Tower 1 ***
+Height: 370
+Floors: 70
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 4
+
+*** Shimao International Plaza ***
+Height: 333.3
+Floors: 60
+Status: Completed
+Started: 2001
+Completed: 2006
+Functions: hotel / office / retail
+Rank: 5
+
+*** Zhenru Center ***
+Height: 330
+Floors: 57
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 6
+
+*** Sinar Mas Center 1 ***
+Height: 320
+Floors: 65
+Status: Completed
+Started: 2009
+Completed: 2017
+Functions: office
+Rank: 7
+
+*** Huangpu Dongjiadu 1 ***
+Height: 300
+Floors: 64
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: hotel / office
+Rank: 8
+
+*** Plaza 66 ***
+Height: 288.16
+Floors: 66
+Status: Completed
+Started: 1994
+Completed: 2001
+Functions: office
+Rank: 9
+
+*** Henderson Xuhui Tower ***
+Height: 285.1
+Floors: 61
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 10
+
+*** Tomorrow Square ***
+Height: 284.6
+Floors: 60
+Status: Completed
+Started: 1997
+Completed: 2003
+Functions: residential / hotel / office
+Rank: 11
+
+*** Qiantan Center ***
+Height: 280
+Floors: 56
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office / hotel / retail
+Rank: 12
+
+*** Hong Kong New World Tower ***
+Height: 278.25
+Floors: 59
+Status: Completed
+Started: 1998
+Completed: 2004
+Functions: hotel / office / retail
+Rank: 13
+
+*** SK Group Tower ***
+Height: 274.95
+Floors: 59
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 14
+
+*** Shanghai Wheelock Square ***
+Height: 270.48
+Floors: 55
+Status: Completed
+Started: 2003
+Completed: 2010
+Functions: office
+Rank: 15
+
+*** One Lujiazui ***
+Height: 269.05
+Floors: 47
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 16
+
+*** Star Harbor International Centre East Tower ***
+Height: 263
+Floors: 50
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hotel / office
+Rank: 17
+
+*** Star Harbor International Centre West Tower ***
+Height: 263
+Floors: 50
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hotel / office
+Rank: 17
+
+*** 66 Tower 1 ***
+Height: 261.82
+Floors: 54
+Status: Completed
+Started: 1994
+Completed: 2005
+Functions: office
+Rank: 19
+
+*** 66 Tower 2 ***
+Height: 261.82
+Floors: 54
+Status: Completed
+Started: 1994
+Completed: 2005
+Functions: office
+Rank: 19
+
+*** Jing An Kerry Centre Tower 2 ***
+Height: 260
+Floors: 58
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: hotel / office
+Rank: 21
+
+*** Shanghai IFC North Tower ***
+Height: 259.9
+Floors: 56
+Status: Completed
+Started: 2004
+Completed: 2010
+Functions: office
+Rank: 22
+
+*** CITIC Ruibo Tower 1 ***
+Height: 256
+Floors: 55
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 23
+
+*** Bank of Shanghai Headquarters Building ***
+Height: 252
+Floors: 46
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 24
+
+*** HKRI Centre One ***
+Height: 250
+Floors: 51
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 25
+
+*** Shanghai IFC South Tower ***
+Height: 249.9
+Floors: 48
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: hotel / office
+Rank: 26
+
+*** One Museum Place ***
+Height: 248.85
+Floors: 54
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 27
+
+*** Global Harbor North Tower ***
+Height: 245
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: serviced apartments / office / retail
+Rank: 28
+
+*** Global Harbor South Tower ***
+Height: 245
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office / residential / hotel / retail
+Rank: 28
+
+*** Maxdo Centre ***
+Height: 241.3
+Floors: 55
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 30
+
+*** Huangpu Dongjiadu 2 ***
+Height: 240
+Floors: 45
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 31
+
+*** Cloud Nine ***
+Height: 238
+Floors: 58
+Status: Completed
+Started: 2001
+Completed: 2006
+Functions: hotel / office
+Rank: 32
+
+*** CITIC Ruibo Tower 2 ***
+Height: 238
+Floors: 52
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 33
+
+*** Huamin Emperor Hotel ***
+Height: 235.1
+Floors: 60
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: hotel / office
+Rank: 34
+
+*** International Ocean Shipping Building ***
+Height: 232.4
+Floors: 50
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: hotel / office
+Rank: 35
+
+*** BOCOM Financial Towers ***
+Height: 230.35
+Floors: 50
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 36
+
+*** International Air Service Center Tower 1 ***
+Height: 230
+Floors: 52
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 37
+
+*** Plaza 66 Tower 2 ***
+Height: 228.16
+Floors: 46
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 38
+
+*** CITIC Plaza ***
+Height: 228
+Floors: 47
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 39
+
+*** Bank of China Tower ***
+Height: 226.1
+Floors: 53
+Status: Completed
+Started: 1995
+Completed: 2000
+Functions: office
+Rank: 40
+
+*** Pullman Shanghai Skyway Hotel ***
+Height: 226
+Floors: 52
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential / hotel
+Rank: 41
+
+*** Raffles Square Tower ***
+Height: 222
+Floors: 49
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: office
+Rank: 42
+
+*** Zhongrong Jasper Tower ***
+Height: 220
+Floors: 48
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: office
+Rank: 43
+
+*** Xujiahui Center Tower 2 ***
+Height: 220
+Floors: 43
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 44
+
+*** Shanghai Longemont Hotel ***
+Height: 218
+Floors: 53
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: hotel / office
+Rank: 45
+
+*** The Exchange–SOHO ***
+Height: 217
+Floors: 52
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 46
+
+*** Riviera TwinStar Square 1 ***
+Height: 215.75
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 47
+
+*** Riviera TwinStar Square 2 ***
+Height: 215.75
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 47
+
+*** Shanghai Stock Exchange of Shanghai International Financial Center ***
+Height: 215
+Floors: 33
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: office
+Rank: 49
+
+*** World Finance Tower ***
+Height: 212
+Floors: 43
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 50
+
+*** Xinjinqiao Mansion ***
+Height: 212
+Floors: 38
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 51
+
+*** Pudong International Information Port ***
+Height: 211
+Floors: 41
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 52
+
+*** No. 1 Shanghai ***
+Height: 210.5
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 53
+
+*** 21st Century Mansion ***
+Height: 210
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / hotel / office
+Rank: 54
+
+*** Radisson New World Hotel ***
+Height: 208
+Floors: 47
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 55
+
+*** Golden Bell Mansion ***
+Height: 208
+Floors: 46
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 56
+
+*** Taiping Financial Tower ***
+Height: 208
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 57
+
+*** China Merchants Bank Mansion ***
+Height: 208
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office
+Rank: 58
+
+*** Doubletree by Hilton, Shanghai - Pudong ***
+Height: 207
+Floors: 48
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 59
+
+*** Golden Landmark ***
+Height: 206
+Floors: 41
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 60
+
+*** China Resources Land Suhewan ***
+Height: 205.6
+Floors: 42
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office
+Rank: 61
+
+*** Nan Zheng Mansion ***
+Height: 205
+Floors: 49
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 62
+
+*** Lippo Plaza ***
+Height: 204
+Floors: 38
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 63
+
+*** HSBC Tower ***
+Height: 203.35
+Floors: 46
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 64
+
+*** BM Plaza Office Tower ***
+Height: 203
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 65
+
+*** Shanghai World Plaza ***
+Height: 199.9
+Floors: 38
+Status: Completed
+Started: 1992
+Completed: 1997
+Functions: office
+Rank: 66
+
+*** Oriental Financial Center ***
+Height: 199
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 67
+
+*** Bund Center ***
+Height: 198.9
+Floors: 45
+Status: Completed
+Started: 1997
+Completed: 2002
+Functions: office
+Rank: 68
+
+*** Jing An Kerry Centre Tower 3 ***
+Height: 197.75
+Floors: 43
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 69
+
+*** BEA Financial Tower ***
+Height: 197.7
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 70
+
+*** Wenxin United Press Building ***
+Height: 197
+Floors: 43
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 71
+
+*** Walton Plaza ***
+Height: 196
+Floors: 40
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 72
+
+*** Lan Sheng Building ***
+Height: 196
+Floors: 39
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 73
+
+*** China Insurance Mansion ***
+Height: 196
+Floors: 38
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 74
+
+*** China Financial Futures Exchange of Shanghai International Financial Center ***
+Height: 195
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 75
+
+*** Pudong Financial Plaza Tower 1 ***
+Height: 194
+Floors: 39
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office / retail
+Rank: 76
+
+*** CITIC Square ***
+Height: 193
+Floors: 45
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 77
+
+*** Shimao Riviera Garden 7 ***
+Height: 191.9
+Floors: 55
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 78
+
+*** Shimao Riviera Garden 8 ***
+Height: 191.9
+Floors: 55
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 78
+
+*** Huaxia Financial Square Tower A ***
+Height: 191
+Floors: 42
+Status: Completed
+Started: 1995
+Completed: 2003
+Functions: office
+Rank: 80
+
+*** Huaxia Financial Square Tower B ***
+Height: 191
+Floors: 42
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 80
+
+*** Pujiang International Finance Plaza ***
+Height: 190
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 82
+
+*** Lujiazui Century Tower 1 ***
+Height: 190
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 83
+
+*** International Air Service Center Tower 2 ***
+Height: 190
+Floors: 39
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 84
+
+*** Park Place ***
+Height: 189
+Floors: 43
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 85
+
+*** Raffles City Changning 1 ***
+Height: 188
+Floors: 41
+Status: Completed
+Completed: 2017
+Functions: office / retail
+Rank: 86
+
+*** Bao'an Tower ***
+Height: 188
+Floors: 38
+Status: Completed
+Completed: 1997
+Functions: office / hotel
+Rank: 87
+
+*** Huaneng Union Tower ***
+Height: 188
+Floors: 38
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 87
+
+*** Ramada Plaza Pudong ***
+Height: 188
+Floors: 38
+Status: Completed
+Completed: 2001
+Functions: hotel / office
+Rank: 87
+
+*** Shanghai Futures Tower ***
+Height: 187
+Floors: 37
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 90
+
+*** Shanghai China Merchants Plaza Office Building ***
+Height: 186
+Floors: 39
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 91
+
+*** China Merchants Tower ***
+Height: 186
+Floors: 38
+Status: Completed
+Started: 1992
+Completed: 1995
+Functions: office
+Rank: 92
+
+*** Aurora Plaza, Pudong ***
+Height: 185
+Floors: 37
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 93
+
+*** PUFA Tower ***
+Height: 185
+Floors: 36
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 94
+
+*** Ciro's Plaza ***
+Height: 181
+Floors: 39
+Status: Completed
+Started: 1997
+Completed: 2002
+Functions: office
+Rank: 95
+
+*** Shinmay Union Square I ***
+Height: 180.14
+Floors: 38
+Status: Completed
+Completed: 2005
+Functions: residential / office
+Rank: 96
+
+*** Shinmay Union Square II ***
+Height: 180.14
+Floors: 38
+Status: Completed
+Completed: 2005
+Functions: hotel / office
+Rank: 96
+
+*** Great Wall Building ***
+Height: 180
+Floors: 44
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 98
+
+*** Pudong Shangri-La Hotel Extension ***
+Height: 180
+Floors: 43
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / hotel
+Rank: 99
+
+*** Citigroup Tower ***
+Height: 180
+Floors: 41
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 100
+
+*** The Bund Finance Center North ***
+Height: 180
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 101
+
+*** The Bund Finance Center South ***
+Height: 180
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 101
+
+*** Citic Pacific Fortune Plaza 1 ***
+Height: 180
+Floors: 39
+Status: Under Construction
+Started: 2016
+Functions: office
+Rank: 103
+
+*** Fengxian SME Building ***
+Height: 180
+Floors: 38
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 104
+
+*** Shanghai Property Information Exchange Center ***
+Height: 180
+Floors: 35
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 105
+
+*** Mirae Asset Tower ***
+Height: 180
+Floors: 32
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: office
+Rank: 106
+
+*** Shanghai Securities Exchange Building ***
+Height: 180
+Floors: 26
+Status: Completed
+Started: 1993
+Completed: 1997
+Functions: office
+Rank: 107
+
+*** Offices at Kerry Parkside ***
+Height: 179
+Floors: 43
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 108
+
+*** Harbour Ring Plaza ***
+Height: 178
+Floors: 36
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 109
+
+*** Hong Kong Prosperity Tower ***
+Height: 177
+Floors: 40
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 110
+
+*** CMBC Tower ***
+Height: 177
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 111
+
+*** Citic Pacific Fortune Plaza 2 ***
+Height: 177
+Floors: 36
+Status: Under Construction
+Started: 2016
+Functions: office
+Rank: 112
+
+*** Liu Chong Hing Finance Center ***
+Height: 174
+Floors: 41
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 113
+
+*** HKRI Centre Two ***
+Height: 173.2
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 114
+
+*** Shimao Riviera Garden 1 ***
+Height: 173
+Floors: 53
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 115
+
+*** Four Seasons Hotel ***
+Height: 172
+Floors: 37
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 116
+
+*** Sinar Mas Center 2 ***
+Height: 171.7
+Floors: 39
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: hotel
+Rank: 117
+
+*** Shanghai Grand Center ***
+Height: 170
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 118
+
+*** Shenzhen Commerical Bank Building ***
+Height: 170
+Floors: 38
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 119
+
+*** Shanghai Central Square ***
+Height: 169
+Floors: 38
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 120
+
+*** Shimao Riviera Garden 2 ***
+Height: 168.85
+Floors: 52
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 121
+
+*** Shimao Riviera Garden 3 ***
+Height: 168.85
+Floors: 52
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 121
+
+*** Shimao Riviera Garden 5 ***
+Height: 168.85
+Floors: 52
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 121
+
+*** AZIA Center ***
+Height: 168.8
+Floors: 32
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 124
+
+*** Shanghai Development Bank Tower ***
+Height: 168
+Floors: 44
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 125
+
+*** Jiushi Corporation Headquarters ***
+Height: 168
+Floors: 39
+Status: Completed
+Started: 1995
+Completed: 2001
+Functions: office
+Rank: 126
+
+*** Shanghai International Tower ***
+Height: 168
+Floors: 39
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 126
+
+*** Lucky Target Plaza ***
+Height: 168
+Floors: 38
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 128
+
+*** Century Link Tower A ***
+Height: 168
+Floors: 34
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office / retail
+Rank: 129
+
+*** Century Link Tower B ***
+Height: 168
+Floors: 34
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office / retail
+Rank: 129
+
+*** Shanghai International Commerce Center Tower 2 ***
+Height: 167.97
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 131
+
+*** STV Mansion ***
+Height: 167.9
+Floors: 32
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 132
+
+*** China Fortune Tower ***
+Height: 166
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 133
+
+*** Shanghai Commercial Center ***
+Height: 164.9
+Floors: 48
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 134
+
+*** Portman Ritz-Carlton ***
+Height: 164.8
+Floors: 48
+Status: Completed
+Completed: 1990
+Functions: hotel
+Rank: 135
+
+*** K Wah Center ***
+Height: 163
+Floors: 40
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 136
+
+*** Shimao Riviera Garden 6 ***
+Height: 161
+Floors: 48
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 137
+
+*** Oriental Fisherman's Wharf Tower ***
+Height: 160.5
+Floors: 34
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential / office
+Rank: 138
+
+*** United Plaza ***
+Height: 160
+Floors: 43
+Status: Completed
+Started: 1997
+Completed: 2001
+Functions: office
+Rank: 139
+
+*** Huaxia Bank Tower ***
+Height: 160
+Floors: 39
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 140
+
+*** Holiday Inn Shanghai Pudong ***
+Height: 158
+Floors: 32
+Status: Completed
+Completed: 1997
+Functions: hotel / office
+Rank: 141
+
+*** Golden Sail Plaza ***
+Height: 157.8
+Floors: 39
+Status: Completed
+Started: 1993
+Completed: 2003
+Functions: office
+Rank: 142
+
+*** Shanghai JW Marriott Marquis Hotel ***
+Height: 157.5
+Floors: 39
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: hotel
+Rank: 143
+
+*** Shanghai International Commerce Center Tower 1 ***
+Height: 156.53
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 144
+
+*** City155 ***
+Height: 155
+Floors: 37
+Status: Completed
+Completed: 2013
+Functions: SOHO / office / retail
+Rank: 145
+
+*** Shanghai Times Square ***
+Height: 155
+Floors: 34
+Status: Completed
+Completed: 1997
+Functions: office / retail
+Rank: 146
+
+*** Suncome Liauw Building ***
+Height: 155
+Floors: 29
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 147
+
+*** Shengda Jinpan 1 ***
+Height: 153.6
+Floors: 48
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 148
+
+*** Shengda Jinpan 2 ***
+Height: 153.6
+Floors: 48
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 148
+
+*** Shengda Jinpan 3 ***
+Height: 153.6
+Floors: 48
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 148
+
+*** New Caohejing International Business Center A ***
+Height: 153.45
+Floors: 38
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 151
+
+*** New Caohejing International Business Center B ***
+Height: 153.45
+Floors: 38
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 151
+
+*** Jin Jiang Hotel ***
+Height: 153
+Floors: 46
+Status: Completed
+Started: 1985
+Completed: 1988
+Functions: hotel
+Rank: 153
+
+*** Tomson Riviera Garden 1 ***
+Height: 153
+Floors: 44
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 154
+
+*** Tomson Riviera Garden 2 ***
+Height: 153
+Floors: 44
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 154
+
+*** LJZ Plaza ***
+Height: 153
+Floors: 34
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 156
+
+*** World Trade Tower ***
+Height: 153
+Floors: 31
+Status: Completed
+Completed: 1996
+Functions: hotel / office
+Rank: 157
+
+*** Hua Mao Building ***
+Height: 152.4
+Floors: 27
+Status: Completed
+Completed: 2001
+Functions: hotel / office
+Rank: 158
+
+*** China Securities Depository and Clearing Corporation of Shanghai International Financial Center ***
+Height: 152
+Floors: 22
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 159
+
+*** Shanghai Central Plaza ***
+Height: 151.9
+Floors: 38
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: office
+Rank: 160
+
+*** Shanghai Industrial Investment Building ***
+Height: 151
+Floors: 40
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 161
+
+*** Hongta Hotel ***
+Height: 150.81
+Floors: 38
+Status: Completed
+Completed: 2001
+Functions: hotel
+Rank: 162
+
+*** Bulgari Residence 1 ***
+Height: 150
+Floors: 45
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 163
+
+*** Bulgari Residence 2 ***
+Height: 150
+Floors: 45
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 163
+
+*** Hong Kong Plaza 1 ***
+Height: 150
+Floors: 38
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 165
+
+*** Hong Kong Plaza 2 ***
+Height: 150
+Floors: 38
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 165
+
+*** Bulgari Hotel ***
+Height: 150
+Floors: 37
+Status: Completed
+Completed: 2017
+Functions: hotel
+Rank: 167
+
+*** Huangpu Dongjiadu 3 ***
+Height: 150
+Floors: 37
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 167
+
+*** Haitong Securities Building ***
+Height: 150
+Floors: 35
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 169
+
+*** Guangming Building ***
+Height: 150
+Floors: 34
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 170
+
+*** GIC Tower ***
+Height: 150
+Floors: 33
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 171
+
+*** Hongkou Plaza Tower 1 ***
+Height: 150
+Floors: 30
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office / retail
+Rank: 172
+
+*** Hongkou Plaza Tower 2 ***
+Height: 150
+Floors: 30
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office / retail
+Rank: 172
+
+*** Lucky Mansion ***
+Height: 150
+Floors: 28
+Status: Completed
+Completed: 1990
+Rank: 174
+
+*** Shanghai Broadcasting & TV Building ***
+Height: 150
+Floors: 28
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 174
+
+*** WPP Campus ***
+Height: 149.6
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 176
+
+*** Purple Mountain Hotel ***
+Height: 148
+Floors: 42
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 177
+
+*** Shanghai International Trade Center ***
+Height: 146.5
+Floors: 35
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 178
+
+*** Yuhuashan Tower ***
+Height: 145
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 179
+
+*** Lucky Target Hotel ***
+Height: 145
+Floors: 37
+Status: Completed
+Functions: hotel
+Rank: 180
+
+*** TODTOWN ***
+Height: 145
+Floors: 36
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: residential / residential / office / retail
+Rank: 181
+
+*** Shanghai Arch ***
+Height: 143.7
+Floors: 29
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 182
+
+*** Hilton Shanghai ***
+Height: 143.5
+Floors: 43
+Status: Completed
+Completed: 1988
+Functions: hotel
+Rank: 183
+
+*** Guang Hua Towers ***
+Height: 143
+Floors: 29
+Status: Completed
+Completed: 2005
+Functions: education / office
+Rank: 184
+
+*** Hongyi Tower ***
+Height: 142.4
+Floors: 29
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 185
+
+*** Shanghai Mart ***
+Height: 141
+Floors: 31
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 186
+
+*** Jianhui Building ***
+Height: 140
+Floors: 36
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 187
+
+*** Bund SOHO ***
+Height: 135.58
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 188
+
+*** Qian Tan Office Park T-1 ***
+Height: 135
+Floors: 28
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 189
+
+*** Qian Tan Office Park T-2 ***
+Height: 135
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 189
+
+*** 5 Corporate Avenue ***
+Height: 134.55
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 191
+
+*** Sheraton Pudong Shanghai Hotel ***
+Height: 134.35
+Floors: 37
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 192
+
+*** L'Avenue ***
+Height: 133.7
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / retail
+Rank: 193
+
+*** Hongkou SOHO ***
+Height: 133.5
+Floors: 29
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 194
+
+*** Jing An Kerry Centre Tower 1 ***
+Height: 132.8
+Floors: 30
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 195
+
+*** Eastern Harbor International Tower ***
+Height: 131
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 196
+
+*** SOHO Hailun Plaza ***
+Height: 130
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: SOHO / office
+Rank: 197
+
+*** Yin Dong Building ***
+Height: 130
+Floors: 30
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 198
+
+*** Lujiazui Century Tower 2 ***
+Height: 130
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 199
+
+*** Lujiazui Century Tower 3 ***
+Height: 130
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 199
+
+*** Renaissance Shanghai Yangtze Hotel ***
+Height: 128
+Floors: 33
+Status: Completed
+Completed: 1991
+Functions: hotel
+Rank: 201
+
+*** Kerry Hotel ***
+Height: 128
+Floors: 30
+Status: Completed
+Completed: 2011
+Functions: hotel
+Rank: 202
+
+*** Capital Square Plaza ***
+Height: 127
+Floors: 28
+Status: Completed
+Completed: 2017
+Functions: office / retail
+Rank: 203
+
+*** Huadong Electrical Power Distribution Building ***
+Height: 125.5
+Floors: 26
+Status: Completed
+Started: 1983
+Completed: 1989
+Functions: office
+Rank: 204
+
+*** Raffles City Changning 2 ***
+Height: 125
+Floors: 29
+Status: Completed
+Completed: 2016
+Functions: office / retail
+Rank: 205
+
+*** Huadu Mansion ***
+Height: 124
+Floors: 30
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 206
+
+*** Hua Du Tower ***
+Height: 123.14
+Floors: 30
+Status: Completed
+Completed: 1996
+Functions: office / retail
+Rank: 207
+
+*** Residences at Kerry Parkside ***
+Height: 120
+Floors: 28
+Status: Completed
+Completed: 2011
+Functions: serviced apartments
+Rank: 208
+
+*** Xuhui Vanke Center Phase III Tower 1 ***
+Height: 120
+Floors: 28
+Status: Under Construction
+Completed: 2019
+Functions: office
+Rank: 208
+
+*** Xuhui Vanke Center Phase III Tower 2 ***
+Height: 120
+Floors: 28
+Status: Under Construction
+Completed: 2019
+Functions: office
+Rank: 208
+
+*** Shanghai Tian An Center ***
+Height: 119.9
+Floors: 30
+Status: Completed
+Functions: office
+Rank: 211
+
+*** Shanghai Centre East Apartment ***
+Height: 112
+Floors: 34
+Status: Completed
+Completed: 1990
+Functions: serviced apartments
+Rank: 212
+
+*** Shanghai Centre West Apartment ***
+Height: 112
+Floors: 34
+Status: Completed
+Completed: 1990
+Functions: serviced apartments
+Rank: 212
+
+*** Universal Mansion ***
+Height: 111.9
+Floors: 32
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 214
+
+*** Shanghai Exhibition Center ***
+Height: 110
+Floors: 17
+Status: Completed
+Started: 1955
+Completed: 1959
+Functions: exhibition
+Rank: 215
+
+*** Shanghai Library ***
+Height: 106.1
+Floors: 24
+Status: Completed
+Completed: 1996
+Functions: library
+Rank: 216
+
+*** Jin Jiang Galaxy Hotel ***
+Height: 105.75
+Floors: 35
+Status: Completed
+Completed: 1990
+Functions: hotel
+Rank: 217
+
+*** Cullinan Shanghai ***
+Height: 105.6
+Floors: 25
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 218
+
+*** 1700 Huangxing Road ***
+Height: 105.6
+Floors: 22
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 219
+
+*** SOHO Fuxing Plaza ***
+Height: 105
+Floors: 27
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 220
+
+*** Eastern Financial Plaza ***
+Height: 104.3
+Floors: 23
+Status: Completed
+Functions: office / retail
+Rank: 221
+
+*** Henderson Metropolitan ***
+Height: 103
+Floors: 22
+Status: Completed
+Functions: office
+Rank: 222
+
+*** Jin Jang Rainbow Hotel ***
+Height: 102.7
+Floors: 33
+Status: Completed
+Completed: 1988
+Functions: hotel
+Rank: 223
+
+*** Central Hotel ***
+Height: 100
+Floors: 30
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 224
+
+*** Courtyard by Marriott Shanghai Pudong ***
+Height: 100
+Floors: 28
+Status: Completed
+Functions: hotel
+Rank: 225
+
+*** Honi International Plaza ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 226
+
+*** Land Rover Regional Offices Shanghai East Tower ***
+Height: 100
+Floors: 20
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 227
+
+*** Land Rover Regional Offices Shanghai West Tower ***
+Height: 100
+Floors: 20
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 227
+
+*** 2E31 Shanghai Shipyard (Pudong)  (Tower 2) ***
+Height: 100
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 229
+
+*** Swissotel Grand Shanghai ***
+Height: 99.95
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel
+Rank: 230
+
+*** Outpatient Diagnostic Building of Ruijin Hospital ***
+Height: 99.7
+Floors: 22
+Status: Completed
+Completed: 2006
+Functions: hospital
+Rank: 231
+
+*** Guotai Junan Securities Tower ***
+Height: 99.7
+Floors: 21
+Status: Under Construction
+Started: 2015
+Functions: office
+Rank: 232
+
+*** Shanghai One Sino Park Building No.20 ***
+Height: 99.4
+Floors: 24
+Status: Under Construction
+Functions: office
+Rank: 233
+
+*** Shanghai One Sino Park Building No.12&13 ***
+Height: 99.3
+Floors: 29
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 234
+
+*** Raffles City Changning 3 ***
+Height: 99
+Floors: 20
+Status: Completed
+Completed: 2015
+Functions: office / retail
+Rank: 235
+
+*** Andaz Xintiandi ***
+Height: 98
+Floors: 29
+Status: Completed
+Completed: 2011
+Functions: hotel
+Rank: 236
+
+*** Shanghai Bund House Building No. 7 of Plot 11-5  ***
+Height: 98
+Floors: 29
+Status: Completed
+Completed: 2017
+Functions: hotel
+Rank: 236
+
+*** The Langham Xintiandi ***
+Height: 98
+Floors: 29
+Status: Completed
+Completed: 2010
+Functions: hotel
+Rank: 236
+
+*** Fuxing Royale ***
+Height: 96.7
+Floors: 30
+Status: Completed
+Completed: 2018
+Functions: residential
+Rank: 239
+
+*** Shanghai One Sino Park Building No. 6&7 ***
+Height: 96.55
+Floors: 28
+Status: Under Construction
+Functions: residential
+Rank: 240
+
+*** Jinying Mansion Block A ***
+Height: 94
+Floors: 24
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 241
+
+*** Jinying Mansion Block B ***
+Height: 94
+Floors: 24
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 241
+
+*** Baccarat Residences Tower 1 ***
+Height: 92
+Floors: 28
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 243
+
+*** Baccarat Residences Tower 2 ***
+Height: 92
+Floors: 28
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 243
+
+*** Holiday Inn Shanghai Pudong Kangqiao ***
+Height: 85
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: hotel / office
+Rank: 245
+
+*** Shanghai Park Hotel ***
+Height: 83.8
+Floors: 22
+Status: Completed
+Completed: 1934
+Functions: hotel
+Rank: 246
+
+*** Lujiazui Century Tower 5 ***
+Height: 80
+Floors: 17
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 247
+
+*** Lujiazui Century Tower 6 ***
+Height: 80
+Floors: 17
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 247
+
+*** Peace Hotel ***
+Height: 77
+Floors: 13
+Status: Completed
+Completed: 1929
+Functions: hotel
+Rank: 249
+
+*** China Diamond Exchange Center ***
+Height: 76.65
+Floors: 15
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 250
+
+*** Shanghai Bund House Building No.3-6 of Plot 11-3 ***
+Height: 75
+Floors: 22
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 251

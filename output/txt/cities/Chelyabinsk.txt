@@ -1,0 +1,307 @@
+*** Chelyabinsk (32) ***
+1.  Manhattan 2, 114m
+2.  Chelyabinsk-City, 111m
+3.  BOVID Business Hall, 100m
+4.  South Urals State University, 86m
+5.  Lesoparkovyi 1, 84m
+6.  Lesoparkovyi 2, 84m
+7.  Ariant, 84m
+8.  PARA 1, 82m
+9.  PARA 2, 82m
+10. Academ Riverside 16, 82m
+11. Academ Riverside 31, 82m
+12. Academ Riverside 54, 82m
+13. Dom na Entuziastov, 79m
+14. Knyazheskii 1, 79m
+15. Korol Plaza, 79m
+16. Pioner, 79m
+17. Svyatogor 1, 79m
+18. Utesov, 79m
+19. Zapadnyi Luch 1, 79m
+20. Zapadnyi Luch 2, 79m
+21. Zapadnyi Luch 3, 79m
+22. Zapadnyi Luch 4, 79m
+23. Manhattan 1, 77m
+24. Manhattan 3, 77m
+25. Manhattan 5, 77m
+26. Manhattan 6, 77m
+27. Manhattan 7, 77m
+28. Manhattan 8, 77m
+29. Manhattan 9, 77m
+30. Svyatogor 2, 76m
+
+******************** DETAILS ********************
+
+*** Chelyabinsk ***
+Country: Russia
+Region: Asia
+30 towers: Manhattan 2, Chelyabinsk-City, BOVID Business Hall, South Urals State University, Lesoparkovyi 1, Lesoparkovyi 2, Ariant, PARA 1, PARA 2, Academ Riverside 16, Academ Riverside 31, Academ Riverside 54, Dom na Entuziastov, Knyazheskii 1, Korol Plaza, Pioner, Svyatogor 1, Utesov, Zapadnyi Luch 1, Zapadnyi Luch 2, Zapadnyi Luch 3, Zapadnyi Luch 4, Manhattan 1, Manhattan 3, Manhattan 5, Manhattan 6, Manhattan 7, Manhattan 8, Manhattan 9, Svyatogor 2
+Tiers: I: 28, II: 2
+Rating: 32 (12.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Manhattan 2 ***
+Height: 114.25
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 1
+
+*** Chelyabinsk-City ***
+Height: 111
+Floors: 23
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office / retail
+Rank: 2
+
+*** BOVID Business Hall ***
+Height: 99.5
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 3
+
+*** South Urals State University ***
+Height: 86
+Floors: 18
+Status: Completed
+Started: 1957
+Completed: 1959
+Functions: education
+Rank: 4
+
+*** Lesoparkovyi 1 ***
+Height: 84.4
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 5
+
+*** Lesoparkovyi 2 ***
+Height: 84.4
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 5
+
+*** Ariant ***
+Height: 84
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 7
+
+*** PARA 1 ***
+Height: 82.15
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 8
+
+*** PARA 2 ***
+Height: 82.15
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 8
+
+*** Academ Riverside 16 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 10
+
+*** Academ Riverside 31 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 10
+
+*** Academ Riverside 54 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 10
+
+*** Dom na Entuziastov ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Knyazheskii 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Korol Plaza ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2014
+Functions: residential
+Rank: 13
+
+*** Pioner ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / retail
+Rank: 13
+
+*** Svyatogor 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: residential
+Rank: 13
+
+*** Utesov ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Zapadnyi Luch 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: residential / retail
+Rank: 13
+
+*** Zapadnyi Luch 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential / retail
+Rank: 13
+
+*** Zapadnyi Luch 3 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / retail
+Rank: 13
+
+*** Zapadnyi Luch 4 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Manhattan 1 ***
+Height: 77
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Manhattan 3 ***
+Height: 77
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Manhattan 5 ***
+Height: 77
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Manhattan 6 ***
+Height: 77
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Manhattan 7 ***
+Height: 77
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Manhattan 8 ***
+Height: 77
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 23
+
+*** Manhattan 9 ***
+Height: 77
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 23
+
+*** Svyatogor 2 ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: residential
+Rank: 30

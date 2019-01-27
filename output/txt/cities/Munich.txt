@@ -1,0 +1,100 @@
+*** Munich (13) ***
+1. Uptown Munchen, 146m
+2. Highlight I, 126m
+3. HVB Tower, 114m
+4. Highlight II, 113m
+5. SV-Zentrale, 103m
+6. BMW Building, 101m
+7. ADAC Headquarters, 93m
+8. Central Tower, 85m
+9. OSRAM Lighthouse, 84m
+
+******************** DETAILS ********************
+
+*** Munich ***
+Country: Germany
+Region: Europe
+9 towers: Uptown Munchen, Highlight I, HVB Tower, Highlight II, SV-Zentrale, BMW Building, ADAC Headquarters, Central Tower, OSRAM Lighthouse
+Tiers: I: 5, II: 4
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Uptown Munchen ***
+Height: 146
+Floors: 38
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 1
+
+*** Highlight I ***
+Height: 126
+Floors: 33
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 2
+
+*** HVB Tower ***
+Height: 113.67
+Floors: 27
+Status: Completed
+Started: 1975
+Completed: 1981
+Functions: office
+Rank: 3
+
+*** Highlight II ***
+Height: 113
+Floors: 28
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 4
+
+*** SV-Zentrale ***
+Height: 103
+Floors: 28
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 5
+
+*** BMW Building ***
+Height: 101
+Floors: 21
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 6
+
+*** ADAC Headquarters ***
+Height: 93
+Floors: 23
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: office
+Rank: 7
+
+*** Central Tower ***
+Height: 85
+Floors: 23
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 8
+
+*** OSRAM Lighthouse ***
+Height: 84.2
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 9

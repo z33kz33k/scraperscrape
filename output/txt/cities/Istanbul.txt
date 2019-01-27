@@ -1,0 +1,1011 @@
+*** Istanbul (318) ***
+1.   Skyland Office Tower, 284m
+2.   Skyland Residential Tower, 284m
+3.   Metropol Tower Istanbul, 280m
+4.   Sapphire Tower, 261m
+5.   Emaar Square The Address Hotel & Residences, 229m
+6.   Istanbul Tower 205, 225m
+7.   Nurol Life, 220m
+8.   Istanbul International Finance Center Ziraat Tower I, 219m
+9.   Maslak Spine Tower, 202m
+10.  Anthill Residence 1, 194m
+11.  Anthill Residence 2, 194m
+12.  Ciftci Tower A, 194m
+13.  Ciftci Tower B, 194m
+14.  Istanbul International Finance Center Ziraat Tower II, 194m
+15.  Varyap Meridian A Block, 188m
+16.  Allianz Tower, 186m
+17.  IS Bankasi Tower I, 181m
+18.  Andromeda Gold, 181m
+19.  Varyap Meridian C Block, 180m
+20.  Palladium Tower, 180m
+21.  Skyland Hotel Tower, 180m
+22.  Hilton Istanbul Bomonti Hotel & Conference Center, 179m
+23.  Leopardus, 178m
+24.  Ak-Asya Shopping Center & Tower, 173m
+25.  Sisli Plaza, 170m
+26.  Levent 199, 170m
+27.  Ozdilek Plaza Tower A, 170m
+28.  Soyak Kristalkule | Finansbank Headquarters, 169m
+29.  Tekstilkent Plaza 1, 168m
+30.  Tekstilkent Plaza 2, 168m
+31.  Selenium Twins 1, 165m
+32.  Selenium Twins 2, 165m
+33.  Varyap Meridian E Block, 164m
+34.  Exen Plaza, 160m
+35.  Torun Center - East Tower, 160m
+36.  Torun Center - South Tower, 160m
+37.  Sky Tower 1, 160m
+38.  Akbank Tower, 157m
+39.  Emaar Square Heights Residences , 157m
+40.  Trump Tower 1, 156m
+41.  Four Winds Tower A, 156m
+42.  Four Winds Tower B, 156m
+43.  Four Winds Tower C, 156m
+44.  Four Winds Tower D, 156m
+45.  Uprise Elite, 154m
+46.  Suzer Plaza Ritz-Carlton, 154m
+47.  Torun Tower, 153m
+48.  Polat Tower Residence, 152m
+49.  Istanbloom, 150m
+50.  Dumankaya IKON, 149m
+51.  42 Maslak Tower 1, 148m
+52.  42 Maslak Tower 2, 148m
+53.  Ozdilek Plaza Tower B, 148m
+54.  Trump Tower 2, 147m
+55.  Sun Plaza, 147m
+56.  Torun Center - Office Tower, 144m
+57.  Metrocity Millennium II, 143m
+58.  Metrocity Millennium III, 143m
+59.  TAT Tower 1, 143m
+60.  TAT Tower 2, 143m
+61.  Metrocity Millennium I, 143m
+62.  Emaar Square Office Tower , 142m
+63.  Nurol Tower, 142m
+64.  Sisli Elite Residence, 140m
+65.  Sabanci Center 2, 140m
+66.  Nidakule  Levent, 140m
+67.  Beybi GIZ Plaza, 136m
+68.  Istanbul Marriott Hotel Sisli, 135m
+69.  Kaya Ramada Plaza Hotel, 130m
+70.  My Towerland Tower B, 130m
+71.  Sky Tower 2, 130m
+72.  Sisli TAT Center 1, 130m
+73.  Sisli TAT Center 2, 130m
+74.  Kempinski Residences Astoria 1, 127m
+75.  Kempinski Residences Astoria 2, 127m
+76.  Bank Ekspres Tower, 124m
+77.  Garanti Bank Headquarters, 122m
+78.  Flora Residence, 120m
+79.  Zorlu Holding, 120m
+80.  DoubleTree by Hilton Istanbul - Avcilar, 120m
+81.  Mashattan Tower A1, 119m
+82.  Mashattan Tower A2, 119m
+83.  Mashattan Tower A3, 119m
+84.  Mashattan Tower A4, 119m
+85.  Mashattan Tower A5, 119m
+86.  Mashattan Tower B1, 119m
+87.  Mashattan Tower B2, 119m
+88.  Mashattan Tower B3, 119m
+89.  Mashattan Tower B4, 119m
+90.  Mashattan Tower B5, 119m
+91.  Istanbul Kanyon 1, 118m
+92.  Nida Tower Goztepe, 116m
+93.  Zincirlikuyu Hospital, 116m
+94.  Promesa Seba Tower, 110m
+95.  AND Tower, 110m
+96.  Marriott Hotel Asia, 108m
+97.  Zorlu Center Hotel Tower, 107m
+98.  Zorlu Center Tower A, 107m
+99.  Zorlu Center Tower B, 107m
+100. Zorlu Center Tower C, 107m
+101. G Tower, 105m
+102. Loft Gardens, 92m
+103. Memorial Atasehir Hospital, 90m
+104. Siyami Ersek Hospital, 82m
+
+******************** DETAILS ********************
+
+*** Istanbul ***
+Country: Turkey
+Region: Europe
+104 towers: Skyland Office Tower, Skyland Residential Tower, Metropol Tower Istanbul, Sapphire Tower, Emaar Square The Address Hotel & Residences, Istanbul Tower 205, Nurol Life, Istanbul International Finance Center Ziraat Tower I, Maslak Spine Tower, Anthill Residence 1, Anthill Residence 2, Ciftci Tower A, Ciftci Tower B, Istanbul International Finance Center Ziraat Tower II, Varyap Meridian A Block, Allianz Tower, IS Bankasi Tower I, Andromeda Gold, Varyap Meridian C Block, Palladium Tower, Skyland Hotel Tower, Hilton Istanbul Bomonti Hotel & Conference Center, Leopardus, Ak-Asya Shopping Center & Tower, Sisli Plaza, Levent 199, Ozdilek Plaza Tower A, Soyak Kristalkule | Finansbank Headquarters, Tekstilkent Plaza 1, Tekstilkent Plaza 2, Selenium Twins 1, Selenium Twins 2, Varyap Meridian E Block, Exen Plaza, Torun Center - East Tower, Torun Center - South Tower, Sky Tower 1, Akbank Tower, Emaar Square Heights Residences , Trump Tower 1, Four Winds Tower A, Four Winds Tower B, Four Winds Tower C, Four Winds Tower D, Uprise Elite, Suzer Plaza Ritz-Carlton, Torun Tower, Polat Tower Residence, Istanbloom, Dumankaya IKON, 42 Maslak Tower 1, 42 Maslak Tower 2, Ozdilek Plaza Tower B, Trump Tower 2, Sun Plaza, Torun Center - Office Tower, Metrocity Millennium II, Metrocity Millennium III, TAT Tower 1, TAT Tower 2, Metrocity Millennium I, Emaar Square Office Tower , Nurol Tower, Sisli Elite Residence, Sabanci Center 2, Nidakule  Levent, Beybi GIZ Plaza, Istanbul Marriott Hotel Sisli, Kaya Ramada Plaza Hotel, My Towerland Tower B, Sky Tower 2, Sisli TAT Center 1, Sisli TAT Center 2, Kempinski Residences Astoria 1, Kempinski Residences Astoria 2, Bank Ekspres Tower, Garanti Bank Headquarters, Flora Residence, Zorlu Holding, DoubleTree by Hilton Istanbul - Avcilar, Mashattan Tower A1, Mashattan Tower A2, Mashattan Tower A3, Mashattan Tower A4, Mashattan Tower A5, Mashattan Tower B1, Mashattan Tower B2, Mashattan Tower B3, Mashattan Tower B4, Mashattan Tower B5, Istanbul Kanyon 1, Nida Tower Goztepe, Zincirlikuyu Hospital, Promesa Seba Tower, AND Tower, Marriott Hotel Asia, Zorlu Center Hotel Tower, Zorlu Center Tower A, Zorlu Center Tower B, Zorlu Center Tower C, G Tower, Loft Gardens, Memorial Atasehir Hospital, Siyami Ersek Hospital
+Tiers: I: 4, II: 51, III: 41, IV: 8
+Rating: 318 (7.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Skyland Office Tower ***
+Height: 284
+Floors: 65
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 1
+
+*** Skyland Residential Tower ***
+Height: 284
+Floors: 64
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 2
+
+*** Metropol Tower Istanbul ***
+Height: 280
+Floors: 58
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel / residential / office
+Rank: 3
+
+*** Sapphire Tower ***
+Height: 261
+Floors: 55
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 4
+
+*** Emaar Square The Address Hotel & Residences ***
+Height: 229.44
+Floors: 50
+Status: Under Construction
+Started: 2012
+Completed: 2019
+Functions: retail / hotel / serviced apartments / residential
+Rank: 5
+
+*** Istanbul Tower 205 ***
+Height: 225
+Floors: 52
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 6
+
+*** Nurol Life ***
+Height: 220
+Floors: 60
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 7
+
+*** Istanbul International Finance Center Ziraat Tower I ***
+Height: 219.2
+Floors: 46
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office / retail
+Rank: 8
+
+*** Maslak Spine Tower ***
+Height: 202
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential / office / retail
+Rank: 9
+
+*** Anthill Residence 1 ***
+Height: 194.5
+Floors: 54
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 10
+
+*** Anthill Residence 2 ***
+Height: 194.5
+Floors: 54
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 10
+
+*** Ciftci Tower A ***
+Height: 194
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 12
+
+*** Ciftci Tower B ***
+Height: 194
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 12
+
+*** Istanbul International Finance Center Ziraat Tower II ***
+Height: 193.5
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office / retail
+Rank: 14
+
+*** Varyap Meridian A Block ***
+Height: 188.4
+Floors: 52
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 15
+
+*** Allianz Tower ***
+Height: 185.5
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 16
+
+*** IS Bankasi Tower I ***
+Height: 181.2
+Floors: 52
+Status: Completed
+Started: 1996
+Completed: 2000
+Functions: office
+Rank: 17
+
+*** Andromeda Gold ***
+Height: 181
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 18
+
+*** Varyap Meridian C Block ***
+Height: 180
+Floors: 45
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 19
+
+*** Palladium Tower ***
+Height: 180
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 20
+
+*** Skyland Hotel Tower ***
+Height: 180
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: hotel
+Rank: 21
+
+*** Hilton Istanbul Bomonti Hotel & Conference Center ***
+Height: 179
+Floors: 48
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: hotel
+Rank: 22
+
+*** Leopardus ***
+Height: 178
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential / hotel
+Rank: 23
+
+*** Ak-Asya Shopping Center & Tower ***
+Height: 172.6
+Floors: 55
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / office / retail
+Rank: 24
+
+*** Sisli Plaza ***
+Height: 170.1
+Floors: 46
+Status: Completed
+Started: 2000
+Completed: 2007
+Functions: residential
+Rank: 25
+
+*** Levent 199 ***
+Height: 170
+Floors: 43
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 26
+
+*** Ozdilek Plaza Tower A ***
+Height: 170
+Floors: 38
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: hotel / office
+Rank: 27
+
+*** Soyak Kristalkule | Finansbank Headquarters ***
+Height: 169
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 28
+
+*** Tekstilkent Plaza 1 ***
+Height: 168
+Floors: 44
+Status: Completed
+Started: 1993
+Completed: 2000
+Functions: hotel / office
+Rank: 29
+
+*** Tekstilkent Plaza 2 ***
+Height: 168
+Floors: 44
+Status: Completed
+Completed: 2000
+Functions: hotel / office
+Rank: 29
+
+*** Selenium Twins 1 ***
+Height: 165
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 31
+
+*** Selenium Twins 2 ***
+Height: 165
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 31
+
+*** Varyap Meridian E Block ***
+Height: 164
+Floors: 41
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 33
+
+*** Exen Plaza ***
+Height: 160
+Floors: 44
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / office
+Rank: 34
+
+*** Torun Center - East Tower ***
+Height: 160
+Floors: 43
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 35
+
+*** Torun Center - South Tower ***
+Height: 160
+Floors: 43
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 35
+
+*** Sky Tower 1 ***
+Height: 160
+Floors: 42
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 37
+
+*** Akbank Tower ***
+Height: 157.25
+Floors: 39
+Status: Completed
+Started: 1988
+Completed: 1993
+Functions: office
+Rank: 38
+
+*** Emaar Square Heights Residences  ***
+Height: 156.96
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: retail / residential
+Rank: 39
+
+*** Trump Tower 1 ***
+Height: 156.3
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 40
+
+*** Four Winds Tower A ***
+Height: 156
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 41
+
+*** Four Winds Tower B ***
+Height: 156
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 41
+
+*** Four Winds Tower C ***
+Height: 156
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 41
+
+*** Four Winds Tower D ***
+Height: 156
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 41
+
+*** Uprise Elite ***
+Height: 154
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 45
+
+*** Suzer Plaza Ritz-Carlton ***
+Height: 153.65
+Floors: 34
+Status: Completed
+Started: 1992
+Completed: 1998
+Functions: hotel / office
+Rank: 46
+
+*** Torun Tower ***
+Height: 153
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office / residential / retail
+Rank: 47
+
+*** Polat Tower Residence ***
+Height: 152.5
+Floors: 40
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 48
+
+*** Istanbloom ***
+Height: 150
+Floors: 46
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 49
+
+*** Dumankaya IKON ***
+Height: 149
+Floors: 42
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential / office
+Rank: 50
+
+*** 42 Maslak Tower 1 ***
+Height: 148
+Floors: 39
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / office
+Rank: 51
+
+*** 42 Maslak Tower 2 ***
+Height: 148
+Floors: 39
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 51
+
+*** Ozdilek Plaza Tower B ***
+Height: 148
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 53
+
+*** Trump Tower 2 ***
+Height: 147.2
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 54
+
+*** Sun Plaza ***
+Height: 147
+Floors: 38
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 55
+
+*** Torun Center - Office Tower ***
+Height: 144
+Floors: 39
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 56
+
+*** Metrocity Millennium II ***
+Height: 143
+Floors: 35
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 57
+
+*** Metrocity Millennium III ***
+Height: 143
+Floors: 35
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 57
+
+*** TAT Tower 1 ***
+Height: 143
+Floors: 34
+Status: Completed
+Completed: 2000
+Functions: hotel / office
+Rank: 59
+
+*** TAT Tower 2 ***
+Height: 143
+Floors: 34
+Status: Completed
+Completed: 2000
+Functions: hotel / office
+Rank: 59
+
+*** Metrocity Millennium I ***
+Height: 143
+Floors: 31
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 61
+
+*** Emaar Square Office Tower  ***
+Height: 142.07
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: retail / office
+Rank: 62
+
+*** Nurol Tower ***
+Height: 142
+Floors: 35
+Status: Completed
+Started: 2016
+Functions: residential
+Rank: 63
+
+*** Sisli Elite Residence ***
+Height: 140
+Floors: 35
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 64
+
+*** Sabanci Center 2 ***
+Height: 140
+Floors: 34
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 65
+
+*** Nidakule  Levent ***
+Height: 140
+Floors: 27
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 66
+
+*** Beybi GIZ Plaza ***
+Height: 136
+Floors: 34
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 67
+
+*** Istanbul Marriott Hotel Sisli ***
+Height: 135
+Floors: 34
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel
+Rank: 68
+
+*** Kaya Ramada Plaza Hotel ***
+Height: 130
+Floors: 32
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 69
+
+*** My Towerland Tower B ***
+Height: 130
+Floors: 32
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 69
+
+*** Sky Tower 2 ***
+Height: 130
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 69
+
+*** Sisli TAT Center 1 ***
+Height: 130
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 72
+
+*** Sisli TAT Center 2 ***
+Height: 130
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 72
+
+*** Kempinski Residences Astoria 1 ***
+Height: 127
+Floors: 28
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 74
+
+*** Kempinski Residences Astoria 2 ***
+Height: 127
+Floors: 28
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 74
+
+*** Bank Ekspres Tower ***
+Height: 124
+Floors: 27
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 76
+
+*** Garanti Bank Headquarters ***
+Height: 122
+Floors: 22
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 77
+
+*** Flora Residence ***
+Height: 120
+Floors: 34
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 78
+
+*** Zorlu Holding ***
+Height: 120
+Floors: 30
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 79
+
+*** DoubleTree by Hilton Istanbul - Avcilar ***
+Height: 120
+Floors: 29
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 80
+
+*** Mashattan Tower A1 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower A2 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower A3 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower A4 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower A5 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower B1 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower B2 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower B3 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower B4 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Mashattan Tower B5 ***
+Height: 119
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Istanbul Kanyon 1 ***
+Height: 118
+Floors: 25
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 91
+
+*** Nida Tower Goztepe ***
+Height: 116
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 92
+
+*** Zincirlikuyu Hospital ***
+Height: 116
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: hospital
+Rank: 93
+
+*** Promesa Seba Tower ***
+Height: 110
+Floors: 29
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: hotel / office
+Rank: 94
+
+*** AND Tower ***
+Height: 110
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 95
+
+*** Marriott Hotel Asia ***
+Height: 108
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 96
+
+*** Zorlu Center Hotel Tower ***
+Height: 107
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: hotel / office / retail
+Rank: 97
+
+*** Zorlu Center Tower A ***
+Height: 107
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential / office / retail
+Rank: 97
+
+*** Zorlu Center Tower B ***
+Height: 107
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential / office / retail
+Rank: 97
+
+*** Zorlu Center Tower C ***
+Height: 107
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential / office / retail
+Rank: 97
+
+*** G Tower ***
+Height: 105
+Floors: 29
+Status: Under Construction
+Functions: residential
+Rank: 101
+
+*** Loft Gardens ***
+Height: 92
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 102
+
+*** Memorial Atasehir Hospital ***
+Height: 90
+Floors: 25
+Status: Completed
+Functions: hospital
+Rank: 103
+
+*** Siyami Ersek Hospital ***
+Height: 81.7
+Floors: 19
+Status: Completed
+Started: 1992
+Completed: 2000
+Functions: hospital
+Rank: 104

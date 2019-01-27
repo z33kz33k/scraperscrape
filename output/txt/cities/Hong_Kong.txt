@@ -1,0 +1,6524 @@
+*** Hong Kong (2107) ***
+1.   International Commerce Centre, 484m
+2.   Two International Finance Centre, 412m
+3.   Central Plaza, 374m
+4.   Bank of China Tower, 367m
+5.   The Center, 346m
+6.   Nina Tower, 320m
+7.   One Island East, 298m
+8.   Cheung Kong Centre, 283m
+9.   Victoria Dockside, 274m
+10.  The Cullinan I, 270m
+11.  The Cullinan II, 270m
+12.  The Masterpiece, 257m
+13.  Sorrento 1, 256m
+14.  Langham Place Office Tower, 255m
+15.  Highcliff, 252m
+16.  The Harbourside, 251m
+17.  Lee Garden One, 240m
+18.  Sorrento 2, 236m
+19.  Harbourfront Landmark, 233m
+20.  The Arch, 231m
+21.  One Taikoo Place, 229m
+22.  COSCO Tower, 228m
+23.  The Belcher's Tower 5, 227m
+24.  The Belcher's Tower 6, 227m
+25.  Hopewell Centre, 222m
+26.  The Belcher's Tower 1, 221m
+27.  The Belcher's Tower 2, 221m
+28.  Tregunter Tower III, 220m
+29.  The Summit, 220m
+30.  Grand Promenade Towers 2-3-5, 219m
+31.  Sorrento 3, 218m
+32.  LOHAS Park Le Prestige Tower B, 215m
+33.  Sun Hung Kai Centre, 214m
+34.  The Belcher's Tower 3, 214m
+35.  The Belcher's Tower 8, 214m
+36.  Shangri-La Hotel, 213m
+37.  Victoria Towers I, 213m
+38.  Victoria Towers II, 213m
+39.  Victoria Towers III, 213m
+40.  Shining Heights, 213m
+41.  Sorrento 5, 212m
+42.  Indi Home, 212m
+43.  LOHAS Park The Capitol Oslo, 210m
+44.  LOHAS Park The Capitol Whistler, 210m
+45.  One International Finance Centre, 210m
+46.  Grand Promenade Tower 1, 209m
+47.  Grand Promenade Tower 6, 209m
+48.  Metro Plaza Tower II, 209m
+49.  Sorrento 6, 206m
+50.  LOHAS Park The Capitol Madrid, 206m
+51.  LOHAS Park The Capitol Milan, 206m
+52.  Bellagio Tower 1-5, 206m
+53.  Citibank Plaza 1, 206m
+54.  May House, 206m
+55.  Metro Town Tower 1, 205m
+56.  Metro Town Tower 2, 205m
+57.  Four Seasons Place, 205m
+58.  Hysan Place, 204m
+59.  Island Resort Towers 1 & 2, 202m
+60.  Island Resort Towers 3 & 5, 202m
+61.  Island Resort Towers 6 & 7, 202m
+62.  Island Resort Towers 8 & 9, 202m
+63.  China Online Centre, 201m
+64.  LOHAS Park Le Prestige Tower A, 200m
+65.  LOHAS Park Le Prestige Tower C, 200m
+66.  LOHAS Park The Capitol Florence, 200m
+67.  Conrad Hong Kong, 199m
+68.  Queensway Government Office Building, 199m
+69.  Le Point Tower 6, 198m
+70.  Le Point Tower 7, 198m
+71.  Bellagio Tower 6-9, 198m
+72.  The Merton 1, 197m
+73.  Wharf Cable Tower, 197m
+74.  Aigburth, 196m
+75.  Le Point Tower 10, 195m
+76.  Le Point Tower 8, 195m
+77.  Le Point Tower 9, 195m
+78.  Vision City Tower 2, 195m
+79.  Vision City Tower 3, 195m
+80.  Vision City Tower 5, 195m
+81.  NatWest Tower, Times Square, 194m
+82.  Manhattan Hill 1-2, 193m
+83.  Vision City Tower 1, 192m
+84.  39 Conduit Road, 192m
+85.  Banyan Garden 2, 191m
+86.  Banyan Garden 6, 191m
+87.  Banyan Garden 7, 191m
+88.  The Merton 2, 189m
+89.  The Centrium, 189m
+90.  Metro Town Tower 3, 188m
+91.  Metro Town Tower 5, 188m
+92.  Exchange Square #1, 188m
+93.  Exchange Square #2, 188m
+94.  Oxford House Time Warner, 188m
+95.  9 Queen's Road Central, 187m
+96.  Millennium City 5, 187m
+97.  Landmark East Tower 1, 187m
+98.  Landmark East Tower 2, 187m
+99.  Standard Chartered Bank, 187m
+100. Festival City III Tower 5, 186m
+101. Entertainment Building, 186m
+102. Manhattan Hill 3, 186m
+103. Manhattan Hill 5, 186m
+104. Manhattan Hill 6, 186m
+105. Lippo Tower, 186m
+106. The Westpoint, 186m
+107. Manhattan Heights, 185m
+108. Sino Plaza, 185m
+109. AIA Central, 185m
+110. Festival City III Tower 1, 185m
+111. Festival City III Tower 2, 185m
+112. Festival City III Tower 3, 185m
+113. Ocean Pointe, 184m
+114. Cadogan, 183m
+115. Vision City Tower 6, 183m
+116. Banyan Garden 5, 183m
+117. Branksome Crest, 182m
+118. Three Pacific Place, 182m
+119. Convention Plaza Office Tower, 181m
+120. The Pavilia Bay Tower 1, 181m
+121. Liberte 1, 181m
+122. Liberte 2, 181m
+123. Liberte 3, 181m
+124. Immigration Tower, 181m
+125. Revenue Tower, 181m
+126. AIA Tower, 180m
+127. Liberte 5, 180m
+128. Liberte 6, 180m
+129. The Merton 3, 180m
+130. Banyan Garden 3, 180m
+131. Hong Kong and Shanghai Banking Corporation Headquarters, 179m
+132. Jardine House, 179m
+133. China Resources Building, 178m
+134. Grand Waterfront 1-5, 177m
+135. Grand Waterfront 6, 177m
+136. The Oakhill, 177m
+137. Azura, 177m
+138. Far East Finance Centre, 176m
+139. One Kowloon, 176m
+140. Billionaire Royale, 176m
+141. Oscar by the Sea Tower 5, 175m
+142. Vianni Cove 2, 175m
+143. Vianni Cove 3, 175m
+144. Enterprise Square 3, 175m
+145. Tavistock II, 175m
+146. Ocean Shores Tower 1-3, 174m
+147. Ocean Shores Tower 15, 174m
+148. Ocean Shores Tower 16-17, 174m
+149. Ocean Shores Tower 5, 174m
+150. Ocean Shores Tower 6, 174m
+151. Ocean Shores Tower 7, 174m
+152. Ocean Shores Tower 8, 174m
+153. Ocean Shores Tower 9-10, 174m
+154. The Pavilia Bay Tower 2, 174m
+155. Metro Plaza Tower I, 174m
+156. Enterprise Square 5 / MegaBOX, 173m
+157. Queen's Garden, 173m
+158. The ONE, 172m
+159. The Dynasty 1, 172m
+160. The Dynasty 2, 172m
+161. Peregrine Tower, Lippo Centre, 172m
+162. Dorset House/PCCW Tower, 172m
+163. Vianni Cove 1, 172m
+164. Ocean Shores Tower 11-13, 171m
+165. Metro Harbourview 1, 171m
+166. Metro Harbourview 10, 171m
+167. Metro Harbourview 2, 171m
+168. Metro Harbourview 3, 171m
+169. Metro Harbourview 4, 171m
+170. Metro Harbourview 5, 171m
+171. Metro Harbourview 6, 171m
+172. Metro Harbourview 7, 171m
+173. Metro Harbourview 8, 171m
+174. Metro Harbourview 9, 171m
+175. Festival City I Tower 2, 170m
+176. Festival City I Tower 3, 170m
+177. L'Hotel Nina Tower, 170m
+178. Arezzo, 170m
+179. Festival City II Tower 5, 170m
+180. Festival City II Tower 3, 170m
+181. Langham Place Hotel, 170m
+182. Albany Cove 6, 170m
+183. Albany Cove 7, 170m
+184. Albany Cove 8, 170m
+185. Caribbean Coast 10, 170m
+186. Caribbean Coast 11, 170m
+187. Caribbean Coast 12, 170m
+188. Caribbean Coast 13, 170m
+189. Caribbean Coast 15, 170m
+190. Caribbean Coast 9, 170m
+191. Monterey Cove 2, 170m
+192. Monterey Cove 3, 170m
+193. Monterey Cove 5, 170m
+194. Oscar by the Sea Tower 8, 169m
+195. Summit Terrace 3, 169m
+196. Summit Terrace 5, 169m
+197. Shell Tower, Times Square, 169m
+198. The Avenue Phase 2, T2, 169m
+199. The Avenue Phase 2, T3, 169m
+200. Residence Oasis 1, 168m
+201. Residence Oasis 2, 168m
+202. Residence Oasis 3, 168m
+203. The Grandiose 1, 168m
+204. The Grandiose 2, 168m
+205. The Grandiose 3, 168m
+206. Hong Kong Plaza, 168m
+207. Park Central 1, 168m
+208. Park Central 12, 168m
+209. Park Central 13, 168m
+210. Park Central 2, 168m
+211. Park Central 3, 168m
+212. Park Central 5, 168m
+213. Park Central 6, 168m
+214. Oscar by the Sea Tower 6, 168m
+215. Oscar by the Sea Tower 7, 168m
+216. Festival City I Tower 1, 167m
+217. Festival City I Tower 5, 167m
+218. The Latitude Tower 6, 167m
+219. The Latitude Tower 7, 167m
+220. The Latitude Tower 8, 167m
+221. The Latitude Tower 1, 167m
+222. The Latitude Tower 2, 167m
+223. Festival City II Tower 1, 167m
+224. Festival City II Tower 2, 167m
+225. Asia Pacific Finance Tower, 167m
+226. Tierra Verde Tower 10-12, 167m
+227. The Palazzo, 166m
+228. Summit Terrace 2, 166m
+229. La Cite Noble Tower 3, 166m
+230. Park Central 11, 165m
+231. The Serenade Tower 1, 165m
+232. The Serenade Tower 2, 165m
+233. Residence Oasis 5, 165m
+234. Residence Oasis 6, 165m
+235. Residence Oasis 7, 165m
+236. Four Seasons Hotel Hong Kong, 165m
+237. Lime Stardom, 165m
+238. Grand Hyatt Serviced Apartments, 165m
+239. Sky Tower 1-2, 165m
+240. Sky Tower 3-7, 165m
+241. J.W. Marriott and The Upper House, 164m
+242. The Gloucester, 164m
+243. Seaview Crescent 5, 164m
+244. Verbena Heights 3-6, 164m
+245. Monterey Cove 1, 164m
+246. Upton , 163m
+247. One Pacific Heights, 163m
+248. La Cite Noble Tower 1, 163m
+249. La Cite Noble Tower 4, 163m
+250. La Cite Noble Tower 6, 163m
+251. Island Crest Tower 1, 163m
+252. Island Crest Tower 2, 163m
+253. Park Central 10, 162m
+254. Park Central 7, 162m
+255. Park Central 8, 162m
+256. Park Central 9, 162m
+257. Banyan Garden 1, 162m
+258. Banyan Garden 8, 162m
+259. 118 Connaught Road West, 162m
+260. One Pacific Place, 162m
+261. Seaview Crescent 1-3, 161m
+262. Coastal Skyline 1-3,5-6, Tung Chung, 161m
+263. Coastal Skyline 7-8, Tung Chung, 161m
+264. Les Saisons, 160m
+265. Metropolis 1, 160m
+266. Metropolis 2, 160m
+267. Metropolis 3, 160m
+268. Metropolis 5, 160m
+269. Belcher's Hill, 160m
+270. City Point Tower 1, 160m
+271. City Point Tower 2, 160m
+272. City Point Tower 3, 160m
+273. Island Lodge, 160m
+274. One Peking Road, 160m
+275. One Wanchai, 160m
+276. The Landmark Gloucester Tower, 159m
+277. The Landmark Edinburgh Tower, 159m
+278. Dynasty Court Tower 1-2, 159m
+279. Cambridge House, 159m
+280. Galaxia Tower 2, 158m
+281. Galaxia Tower 3, 158m
+282. Galaxia Tower 5, 158m
+283. 148 Electric Road, 158m
+284. SOHO 189, 158m
+285. Century Gateway 1, 158m
+286. La Cite Noble Tower 2, 157m
+287. La Cite Noble Tower 5, 157m
+288. The Forest Hills, 157m
+289. Century Gateway 5, 157m
+290. Park Towers One, 157m
+291. City Point Tower 5, 157m
+292. City Point Tower 6, 157m
+293. Summit Terrace 1, 157m
+294. Le Sommet, 157m
+295. Ellery Terrace, Kowloon, 156m
+296. Liberte 7, 156m
+297. China Merchants Tower, 156m
+298. Shun Tak Centre West, 156m
+299. Sunlight Tower, 156m
+300. Park Avenue Towers 6-10, 156m
+301. Galaxia Tower 1, 155m
+302. Galaxia Tower 6, 155m
+303. Henley Building, 155m
+304. Bank of Communications Tower, 155m
+305. Imperial Court Block C, 155m
+306. Li Po Chun Chambers, 154m
+307. Metro City I Tower 3, 154m
+308. Metro City I Tower 4, 154m
+309. Metro City I Tower 5, 154m
+310. Metro City I Tower 6, 154m
+311. Metro City I Tower 1, 154m
+312. Metro City I Tower 2, 154m
+313. The Panorama, 154m
+314. Liberte 8, 153m
+315. Century Gateway 2, 153m
+316. The Zenith 1, 153m
+317. Robinson Place Tower A, 153m
+318. York Place, 152m
+319. Bayshore Apartments, 152m
+320. Thorn Cliff, 152m
+321. World Trade Centre, 152m
+322. Nan Fung Plaza 1, 151m
+323. Nan Fung Plaza 2, 151m
+324. New World Tower 1, 151m
+325. Century Gateway 6, 151m
+326. 31 Robinson Road, 151m
+327. Oscar by The Sea Tower 3, 151m
+328. Dynasty Court Tower 3-5, 151m
+329. Skyline Tower, 151m
+330. East Point City Tower 1, 151m
+331. East Point City Tower 2, 151m
+332. East Point City Tower 3, 151m
+333. East Point City Tower 5, 151m
+334. East Point City Tower 6, 151m
+335. East Point City Tower 7, 151m
+336. East Point City Tower 8, 151m
+337. Queen's Terrace 1, 151m
+338. Royal Penisula 2-5, 150m
+339. Harbour One, 150m
+340. Sun Tuen Mun Centre 1, 150m
+341. Sun Tuen Mun Centre 10, 150m
+342. Sun Tuen Mun Centre 2, 150m
+343. Sun Tuen Mun Centre 3, 150m
+344. Sun Tuen Mun Centre 4, 150m
+345. Sun Tuen Mun Centre 5, 150m
+346. Sun Tuen Mun Centre 6, 150m
+347. Sun Tuen Mun Centre 7, 150m
+348. Sun Tuen Mun Centre 8, 150m
+349. Sun Tuen Mun Centre 9, 150m
+350. Robinson Place Tower B, 150m
+351. Broadview Villa, 150m
+352. VISTA, 150m
+353. Manulife Tower, 150m
+354. Serenity Place 1, 150m
+355. Serenity Place 2, 150m
+356. Serenity Place 4, 150m
+357. Serenity Place 5, 150m
+358. Broadview Court 3, 149m
+359. Broadview Court 4, 149m
+360. Renaissance Harbour View Hotel, 149m
+361. Maritime Bay 1, 149m
+362. Maritime Bay 2, 149m
+363. Hong Kong Sanitorium & Hospital - Li Shu Pui Block, 148m
+364. Villa Esplanada 10, 148m
+365. Villa Esplanada 11, 148m
+366. Villa Esplanada 8, 148m
+367. Villa Esplanada 9, 148m
+368. City Point Tower 7, 148m
+369. City Point Tower 8, 148m
+370. Bel Air Heights 1, 147m
+371. Bel Air Heights 2, 147m
+372. Birchwood Place, 147m
+373. Century Gateway 3, 147m
+374. Park Avenue Tower 1, 147m
+375. Park Avenue Tower 2, 147m
+376. Park Avenue Tower 3, 147m
+377. Park Avenue Tower 5, 147m
+378. Radiant Towers 1, 147m
+379. Radiant Towers 2, 147m
+380. The Colonnade, 147m
+381. Serenity Place 3, 146m
+382. The Zenith 2, 146m
+383. The Zenith 3, 146m
+384. Bank of America Tower, 146m
+385. Great Eagle Centre, 146m
+386. Harbour Centre, 146m
+387. MLC Millennia Plaza, 146m
+388. Kornville Tower 1, 146m
+389. Kornville Tower 2, 146m
+390. Grand Terrace, 146m
+391. Century Gateway 7, 145m
+392. Tierra Verde 1, 145m
+393. The Pinnacle 1, 145m
+394. The Pinnacle 2, 145m
+395. The Pinnacle 3, 145m
+396. The Pinnacle 4, 145m
+397. Broad View Villa, 145m
+398. New Haven 1-3, 145m
+399. Western Harbour Centre, 144m
+400. Three Exchange Square, 144m
+401. Broadview Court 1, 144m
+402. Broadview Court 2, 144m
+403. iSQUARE, 144m
+404. Discovery Park Tower 1, 143m
+405. Discovery Park Tower 2, 143m
+406. Discovery Park Tower 3, 143m
+407. Discovery Park Tower 5, 143m
+408. Villa Esplanada 3, 143m
+409. Villa Esplanada 5, 143m
+410. Villa Esplanada 6, 143m
+411. Villa Esplanada 7, 143m
+412. Dah Sing Financial Centre, 142m
+413. The Waterfront 1, 142m
+414. The Waterfront 2, 142m
+415. The Waterfront 3, 142m
+416. The Waterfront 5, 142m
+417. The Waterfront 6, 142m
+418. The Waterfront 7, 142m
+419. Sing Pao Centre, 142m
+420. 633 Kings Road, 142m
+421. Tierra Verde 2, 142m
+422. Tierra Verde 3, 142m
+423. Tierra Verde 3A, 142m
+424. Tierra Verde 5, 142m
+425. The Manhattan, 142m
+426. Windsor House, 142m
+427. Morrison Plaza, 142m
+428. Well On Garden 1, 141m
+429. Well On Garden 2, 141m
+430. Well On Garden 3, 141m
+431. Well On Garden 4, 141m
+432. Oscar by The Sea Tower 1, 141m
+433. Nan Fung Plaza 5, 141m
+434. Ibis Hong Kong Central and Sheung Wan Hotel, 141m
+435. Villa Esplanada 1, 141m
+436. Villa Esplanada 2, 141m
+437. Oscar by the Sea Tower 2, 140m
+438. Nan Fung Plaza 6, 140m
+439. Lexington Hill, 140m
+440. Imperial Cullinan Tower 1, 140m
+441. Imperial Cullinan Tower 2, 140m
+442. Imperial Cullinan Tower 3, 140m
+443. Imperial Cullinan Tower 5, 140m
+444. Imperial Cullinan Tower 8, 140m
+445. United Centre, 140m
+446. Larvotto Towers 1, 2, 140m
+447. Larvotto Towers 3, 5, 6, 7, 140m
+448. Millennium City 1 - Tower 1, 140m
+449. Century Gateway 8, 139m
+450. Argenta, 139m
+451. Princeton Tower, 139m
+452. Wu Chung House, 138m
+453. East, 138m
+454. AIA Financial Centre, 138m
+455. The Avenue Phase 2, T1, 138m
+456. Kerry Centre, 138m
+457. Millennium City 1 - Standard Chartered Tower, 138m
+458. Two Chinachem Central, 138m
+459. Berkshire House, 137m
+460. 50 Connaught Road Central, 137m
+461. Chater House, 137m
+462. Queen Mary Hospital Block K, 137m
+463. Nan Fung Plaza 3, 137m
+464. Tierra Verde 9, 137m
+465. Larvotto Towers 8, 9, 10, 137m
+466. Metro City II Tower 1, 136m
+467. Metro City II Tower 10, 136m
+468. Metro City II Tower 11, 136m
+469. Metro City II Tower 2, 136m
+470. Metro City II Tower 3, 136m
+471. Metro City II Tower 4, 136m
+472. Metro City II Tower 5, 136m
+473. Metro City II Tower 6, 136m
+474. Metro City II Tower 7, 136m
+475. Metro City II Tower 8, 136m
+476. Metro City II Tower 9, 136m
+477. Wan Chai Tower, 136m
+478. OLIV, 136m
+479. Top Glory Tower, 135m
+480. Pacific View 1-5, 135m
+481. 9 Des Voeux Road West, 135m
+482. Tierra Verde 7, 134m
+483. Tierra Verde 8, 134m
+484. One Chinachem Central, 134m
+485. Regence Royale Tower II, 133m
+486. Regence Royale Tower I, 133m
+487. Lai Tin House, 132m
+488. Tai Tin House, 132m
+489. Grand Hyatt Hong Kong, 132m
+490. Queen's Terrace 3, 132m
+491. Best Western Hotel Harbour View, 132m
+492. Guangdong Finance Centre, 131m
+493. Queen's Terrace 2, 131m
+494. Mung Ching House, 131m
+495. Sheung Ching House, 131m
+496. Tierra Verde 6, 131m
+497. Discovery Park Tower 10, 131m
+498. Discovery Park Tower 11, 131m
+499. Discovery Park Tower 12, 131m
+500. Discovery Park Tower 13, 131m
+501. Discovery Park Tower 6, 131m
+502. Discovery Park Tower 7, 131m
+503. Discovery Park Tower 8, 131m
+504. Discovery Park Tower 9, 131m
+505. Bank of China Centre, 131m
+506. LHT Tower, 131m
+507. Verbena Heights 1-2, 129m
+508. Park Towers Two, 129m
+509. The Gateway Tower 1, 129m
+510. The Gateway Tower 2, 129m
+511. The Gateway Tower 3, 129m
+512. The Gateway Tower 5, 129m
+513. The Gateway Tower 6, 129m
+514. Yau Lai Estate Cheuk Lai House, 129m
+515. Yau Lai Estate Yung Lai House, 129m
+516. Choi Man House-Yee Man House, 128m
+517. The Pavilia Hill Tower 3, 128m
+518. The Pavilia Hill Tower 1, 128m
+519. The Pavilia Hill Tower 2, 128m
+520. The Pavilia Hill Tower 5, 128m
+521. The Pavilia Hill Tower 6, 128m
+522. Oi Chak House, 128m
+523. Oi Ping House, 128m
+524. King Man House, 128m
+525. Sik Man House, 128m
+526. Yat Man House, 128m
+527. The Royal Court, 128m
+528. Ching Chak House, 127m
+529. Ching Chiu House, 127m
+530. Ching Chung House, 127m
+531. Ching Hin House, 127m
+532. Ching Long House, 127m
+533. Ching Ping House, 127m
+534. Ching Yu House, 127m
+535. Ching Yun House, 127m
+536. Kwun Hei Court Block A, 127m
+537. Hoi Yan House, 126m
+538. Shing Tin House and Cheung Tin House, 126m
+539. CITIC Tower, 126m
+540. Lee Garden Two, 126m
+541. H Queen's, 126m
+542. Arsenal House West Wing, 126m
+543. Central Government Offices, 126m
+544. The Excelsior, 125m
+545. Hong Ching House, 125m
+546. Lok Ching House, 125m
+547. Yan Ching House, 125m
+548. CITÉ 33, 125m
+549. Tak Cheung House, 124m
+550. Tak Kei House, 124m
+551. Tak Loong House, 124m
+552. Tak Shan House, 124m
+553. Tak Sui House, 124m
+554. Tak Ying House, 124m
+555. Tak Yiu House, 124m
+556. Tak Yu House, 124m
+557. Verbena Heights 7, 123m
+558. Green Code Towers 1-2, 123m
+559. Green Code Towers 3, 123m
+560. Green Code Towers 5, 123m
+561. Oi Yat House, 123m
+562. MOD 595, 122m
+563. Hung Yan House, 121m
+564. Hung Yiu House, 121m
+565. Forfar, 119m
+566. Shui On Centre, 118m
+567. Hung Yat House, 118m
+568. Devon House, 118m
+569. Yiu Fook House, 118m
+570. Yiu Fu House, 118m
+571. Yiu Lok House, 118m
+572. Yiu Wah House, 118m
+573. Fuk Lok House, 118m
+574. Fuk On House, 118m
+575. Hing Cho House, 118m
+576. Hing Fung House, 118m
+577. Hing Hong House, 118m
+578. Tung Lam Court, 118m
+579. Yuet Ching House, 117m
+580. 33-49 Des Voeux Road West, 116m
+581. 99 Bonham, 116m
+582. High Point, 115m
+583. Hoi Ning House-Hoi Nam House, 114m
+584. Hoi Wen House, 114m
+585. Hotel ICON, 114m
+586. Cubus Building, 113m
+587. Hotel Indigo Hong Kong Island, 113m
+588. Chinese People`s Liberation Army Forces Hong Kong Building, 113m
+589. Bedford 28, 111m
+590. Tak Pui House, 110m
+591. The Avenue Phase 1, T5, 110m
+592. Tregunter Tower 1, 110m
+593. Tregunter Tower 2, 110m
+594. Pearl City Mansion, 109m
+595. Cheung Chi House, 108m
+596. Cheung Tak House, 108m
+597. Tuen Mun Town Plaza Block 8, 108m
+598. Academic 3, City University of Hong Kong, 107m
+599. Lincoln House, 106m
+600. Kwun Tong 223, 105m
+601. Dragon Pride, 105m
+602. Cityplaza 1, 105m
+603. The Beacon, 104m
+604. SKYPARK, 104m
+605. J Hotel @ Jervois Street, 102m
+606. Oi Yuk House, 101m
+607. Hung Sing House, 99m
+608. Southern Lodge, 96m
+609. Trade and Industry Tower, 95m
+610. Lee Garden Five, 95m
+611. THE MOOD Lyndhurst, 95m
+612. Wan Tin House, 94m
+613. M+, 94m
+614. Hong Kong Poly Technic University Community College, Hung Hom Campus, 94m
+615. Cornwall House, 93m
+616. Best Western Hotel Tsim Sha Tsui, 92m
+617. Warwick House, 90m
+618. 100 Queens Road Central, 90m
+619. The Lily Repulse Bay, 90m
+620. The Murray, 89m
+621. The Hong Kong Club Building, 87m
+622. Banyan Mansion, 87m
+623. Kin On Mansion, 87m
+624. Ko On Mansion, 87m
+625. Pine Mansion, 87m
+626. Hing On Mansion, 85m
+627. Ning On Mansion, 85m
+628. Po On Mansion, 85m
+629. Shun On Mansion, 85m
+630. Oi Sin House, 85m
+631. Leighton Centre, 84m
+632. Ruttenjee Hospital, 84m
+633. ICAC Headquarters Building, 83m
+634. Fuk Tai House, 83m
+635. Lee Garden Six, 83m
+636. Cityplaza 4, 83m
+637. One Hysan Avenue, 82m
+638. Cityplaza 3, 82m
+639. Prince of Wales Hospital, 82m
+640. Yiu Hing House, 82m
+641. Mount Parker Residences, 82m
+642. Foong Shan Mansion, 81m
+643. Fu Shan Mansion, 81m
+644. Fu Shan Mansion, 81m
+645. Heng Shan Mansion, 81m
+646. Kam Shan Mansion, 81m
+647. Loong Shan Mansion, 81m
+648. Lu Shan Mansion, 81m
+649. Nan Shan Mansion, 81m
+650. Po Shan Mansion, 81m
+651. Tai Shan Mansion, 81m
+652. Tien Shan Mansion, 81m
+653. Tung Shan Mansion, 81m
+654. Wah Shan Mansion, 81m
+655. Yee Shan Mansion, 81m
+656. Begonia Mansion, 81m
+657. Lotus Mansion, 81m
+658. Marigold Mansion, 81m
+659. Nam Hoi Mansion, 81m
+660. Pak Hoi Mansion, 81m
+661. Primrose Mansion, 81m
+662. Tung Hoi Mansion, 81m
+663. Wisteria Mansion, 81m
+664. Po Yang Mansion, 81m
+665. Tai Woo Mansion, 81m
+666. Tung Ting Mansion, 81m
+667. Juniper Mansion, 80m
+668. Maple Mansion, 80m
+669. Oak Mansion, 80m
+670. Willow Mansion, 80m
+671. Cheung King-Cheung Shun House, 80m
+672. Cheung Lok-Cheung Wo House, 80m
+673. Cheung Yue-Cheung Fung House, 80m
+674. Choi Wah House, 80m
+675. Choi Wu House, 80m
+676. Chi Sing Mansion, 80m
+677. Hang Sing Mansion, 80m
+678. Hoi Sing Mansion, 80m
+679. Kam Sing Mansion, 80m
+680. Ngan Sing Mansion, 80m
+681. Tien Sing Mansion, 80m
+682. Wai Sing Mansion, 80m
+683. Yiu Sing Mansion, 80m
+684. Choi Tien Mansion, 80m
+685. Fu Tien Mansion, 80m
+686. Heng Tien Mansion, 80m
+687. Hoi Tien Mansion, 80m
+688. Kai Tien Mansion, 80m
+689. King Tien Mansion, 80m
+690. Kwan Tien Mansion, 80m
+691. Nam Tien Mansion, 80m
+692. Yat Tien Mansion, 80m
+693. Chai Kung Mansion, 79m
+694. Han Kung Mansion, 79m
+695. Hsia Kung Mansion, 79m
+696. Ming Kung Mansion, 79m
+697. Tang Kung Mansion, 79m
+698. Tsui Kung Mansion, 79m
+699. Yen Kung Mansion, 79m
+700. Yuan Kung Mansion, 79m
+701. Dragon View Garden, 78m
+702. Oi Po House, 78m
+703. PolyU West Kowloon Campus, 78m
+704. St. John's Building, 78m
+
+******************** DETAILS ********************
+
+*** Hong Kong ***
+Country: China
+Region: Asia
+704 towers: International Commerce Centre, Two International Finance Centre, Central Plaza, Bank of China Tower, The Center, Nina Tower, One Island East, Cheung Kong Centre, Victoria Dockside, The Cullinan I, The Cullinan II, The Masterpiece, Sorrento 1, Langham Place Office Tower, Highcliff, The Harbourside, Lee Garden One, Sorrento 2, Harbourfront Landmark, The Arch, One Taikoo Place, COSCO Tower, The Belcher's Tower 5, The Belcher's Tower 6, Hopewell Centre, The Belcher's Tower 1, The Belcher's Tower 2, Tregunter Tower III, The Summit, Grand Promenade Towers 2-3-5, Sorrento 3, LOHAS Park Le Prestige Tower B, Sun Hung Kai Centre, The Belcher's Tower 3, The Belcher's Tower 8, Shangri-La Hotel, Victoria Towers I, Victoria Towers II, Victoria Towers III, Shining Heights, Sorrento 5, Indi Home, LOHAS Park The Capitol Oslo, LOHAS Park The Capitol Whistler, One International Finance Centre, Grand Promenade Tower 1, Grand Promenade Tower 6, Metro Plaza Tower II, Sorrento 6, LOHAS Park The Capitol Madrid, LOHAS Park The Capitol Milan, Bellagio Tower 1-5, Citibank Plaza 1, May House, Metro Town Tower 1, Metro Town Tower 2, Four Seasons Place, Hysan Place, Island Resort Towers 1 & 2, Island Resort Towers 3 & 5, Island Resort Towers 6 & 7, Island Resort Towers 8 & 9, China Online Centre, LOHAS Park Le Prestige Tower A, LOHAS Park Le Prestige Tower C, LOHAS Park The Capitol Florence, Conrad Hong Kong, Queensway Government Office Building, Le Point Tower 6, Le Point Tower 7, Bellagio Tower 6-9, The Merton 1, Wharf Cable Tower, Aigburth, Le Point Tower 10, Le Point Tower 8, Le Point Tower 9, Vision City Tower 2, Vision City Tower 3, Vision City Tower 5, NatWest Tower, Times Square, Manhattan Hill 1-2, Vision City Tower 1, 39 Conduit Road, Banyan Garden 2, Banyan Garden 6, Banyan Garden 7, The Merton 2, The Centrium, Metro Town Tower 3, Metro Town Tower 5, Exchange Square #1, Exchange Square #2, Oxford House Time Warner, 9 Queen's Road Central, Millennium City 5, Landmark East Tower 1, Landmark East Tower 2, Standard Chartered Bank, Festival City III Tower 5, Entertainment Building, Manhattan Hill 3, Manhattan Hill 5, Manhattan Hill 6, Lippo Tower, The Westpoint, Manhattan Heights, Sino Plaza, AIA Central, Festival City III Tower 1, Festival City III Tower 2, Festival City III Tower 3, Ocean Pointe, Cadogan, Vision City Tower 6, Banyan Garden 5, Branksome Crest, Three Pacific Place, Convention Plaza Office Tower, The Pavilia Bay Tower 1, Liberte 1, Liberte 2, Liberte 3, Immigration Tower, Revenue Tower, AIA Tower, Liberte 5, Liberte 6, The Merton 3, Banyan Garden 3, Hong Kong and Shanghai Banking Corporation Headquarters, Jardine House, China Resources Building, Grand Waterfront 1-5, Grand Waterfront 6, The Oakhill, Azura, Far East Finance Centre, One Kowloon, Billionaire Royale, Oscar by the Sea Tower 5, Vianni Cove 2, Vianni Cove 3, Enterprise Square 3, Tavistock II, Ocean Shores Tower 1-3, Ocean Shores Tower 15, Ocean Shores Tower 16-17, Ocean Shores Tower 5, Ocean Shores Tower 6, Ocean Shores Tower 7, Ocean Shores Tower 8, Ocean Shores Tower 9-10, The Pavilia Bay Tower 2, Metro Plaza Tower I, Enterprise Square 5 / MegaBOX, Queen's Garden, The ONE, The Dynasty 1, The Dynasty 2, Peregrine Tower, Lippo Centre, Dorset House/PCCW Tower, Vianni Cove 1, Ocean Shores Tower 11-13, Metro Harbourview 1, Metro Harbourview 10, Metro Harbourview 2, Metro Harbourview 3, Metro Harbourview 4, Metro Harbourview 5, Metro Harbourview 6, Metro Harbourview 7, Metro Harbourview 8, Metro Harbourview 9, Festival City I Tower 2, Festival City I Tower 3, L'Hotel Nina Tower, Arezzo, Festival City II Tower 5, Festival City II Tower 3, Langham Place Hotel, Albany Cove 6, Albany Cove 7, Albany Cove 8, Caribbean Coast 10, Caribbean Coast 11, Caribbean Coast 12, Caribbean Coast 13, Caribbean Coast 15, Caribbean Coast 9, Monterey Cove 2, Monterey Cove 3, Monterey Cove 5, Oscar by the Sea Tower 8, Summit Terrace 3, Summit Terrace 5, Shell Tower, Times Square, The Avenue Phase 2, T2, The Avenue Phase 2, T3, Residence Oasis 1, Residence Oasis 2, Residence Oasis 3, The Grandiose 1, The Grandiose 2, The Grandiose 3, Hong Kong Plaza, Park Central 1, Park Central 12, Park Central 13, Park Central 2, Park Central 3, Park Central 5, Park Central 6, Oscar by the Sea Tower 6, Oscar by the Sea Tower 7, Festival City I Tower 1, Festival City I Tower 5, The Latitude Tower 6, The Latitude Tower 7, The Latitude Tower 8, The Latitude Tower 1, The Latitude Tower 2, Festival City II Tower 1, Festival City II Tower 2, Asia Pacific Finance Tower, Tierra Verde Tower 10-12, The Palazzo, Summit Terrace 2, La Cite Noble Tower 3, Park Central 11, The Serenade Tower 1, The Serenade Tower 2, Residence Oasis 5, Residence Oasis 6, Residence Oasis 7, Four Seasons Hotel Hong Kong, Lime Stardom, Grand Hyatt Serviced Apartments, Sky Tower 1-2, Sky Tower 3-7, J.W. Marriott and The Upper House, The Gloucester, Seaview Crescent 5, Verbena Heights 3-6, Monterey Cove 1, Upton , One Pacific Heights, La Cite Noble Tower 1, La Cite Noble Tower 4, La Cite Noble Tower 6, Island Crest Tower 1, Island Crest Tower 2, Park Central 10, Park Central 7, Park Central 8, Park Central 9, Banyan Garden 1, Banyan Garden 8, 118 Connaught Road West, One Pacific Place, Seaview Crescent 1-3, Coastal Skyline 1-3,5-6, Tung Chung, Coastal Skyline 7-8, Tung Chung, Les Saisons, Metropolis 1, Metropolis 2, Metropolis 3, Metropolis 5, Belcher's Hill, City Point Tower 1, City Point Tower 2, City Point Tower 3, Island Lodge, One Peking Road, One Wanchai, The Landmark Gloucester Tower, The Landmark Edinburgh Tower, Dynasty Court Tower 1-2, Cambridge House, Galaxia Tower 2, Galaxia Tower 3, Galaxia Tower 5, 148 Electric Road, SOHO 189, Century Gateway 1, La Cite Noble Tower 2, La Cite Noble Tower 5, The Forest Hills, Century Gateway 5, Park Towers One, City Point Tower 5, City Point Tower 6, Summit Terrace 1, Le Sommet, Ellery Terrace, Kowloon, Liberte 7, China Merchants Tower, Shun Tak Centre West, Sunlight Tower, Park Avenue Towers 6-10, Galaxia Tower 1, Galaxia Tower 6, Henley Building, Bank of Communications Tower, Imperial Court Block C, Li Po Chun Chambers, Metro City I Tower 3, Metro City I Tower 4, Metro City I Tower 5, Metro City I Tower 6, Metro City I Tower 1, Metro City I Tower 2, The Panorama, Liberte 8, Century Gateway 2, The Zenith 1, Robinson Place Tower A, York Place, Bayshore Apartments, Thorn Cliff, World Trade Centre, Nan Fung Plaza 1, Nan Fung Plaza 2, New World Tower 1, Century Gateway 6, 31 Robinson Road, Oscar by The Sea Tower 3, Dynasty Court Tower 3-5, Skyline Tower, East Point City Tower 1, East Point City Tower 2, East Point City Tower 3, East Point City Tower 5, East Point City Tower 6, East Point City Tower 7, East Point City Tower 8, Queen's Terrace 1, Royal Penisula 2-5, Harbour One, Sun Tuen Mun Centre 1, Sun Tuen Mun Centre 10, Sun Tuen Mun Centre 2, Sun Tuen Mun Centre 3, Sun Tuen Mun Centre 4, Sun Tuen Mun Centre 5, Sun Tuen Mun Centre 6, Sun Tuen Mun Centre 7, Sun Tuen Mun Centre 8, Sun Tuen Mun Centre 9, Robinson Place Tower B, Broadview Villa, VISTA, Manulife Tower, Serenity Place 1, Serenity Place 2, Serenity Place 4, Serenity Place 5, Broadview Court 3, Broadview Court 4, Renaissance Harbour View Hotel, Maritime Bay 1, Maritime Bay 2, Hong Kong Sanitorium & Hospital - Li Shu Pui Block, Villa Esplanada 10, Villa Esplanada 11, Villa Esplanada 8, Villa Esplanada 9, City Point Tower 7, City Point Tower 8, Bel Air Heights 1, Bel Air Heights 2, Birchwood Place, Century Gateway 3, Park Avenue Tower 1, Park Avenue Tower 2, Park Avenue Tower 3, Park Avenue Tower 5, Radiant Towers 1, Radiant Towers 2, The Colonnade, Serenity Place 3, The Zenith 2, The Zenith 3, Bank of America Tower, Great Eagle Centre, Harbour Centre, MLC Millennia Plaza, Kornville Tower 1, Kornville Tower 2, Grand Terrace, Century Gateway 7, Tierra Verde 1, The Pinnacle 1, The Pinnacle 2, The Pinnacle 3, The Pinnacle 4, Broad View Villa, New Haven 1-3, Western Harbour Centre, Three Exchange Square, Broadview Court 1, Broadview Court 2, iSQUARE, Discovery Park Tower 1, Discovery Park Tower 2, Discovery Park Tower 3, Discovery Park Tower 5, Villa Esplanada 3, Villa Esplanada 5, Villa Esplanada 6, Villa Esplanada 7, Dah Sing Financial Centre, The Waterfront 1, The Waterfront 2, The Waterfront 3, The Waterfront 5, The Waterfront 6, The Waterfront 7, Sing Pao Centre, 633 Kings Road, Tierra Verde 2, Tierra Verde 3, Tierra Verde 3A, Tierra Verde 5, The Manhattan, Windsor House, Morrison Plaza, Well On Garden 1, Well On Garden 2, Well On Garden 3, Well On Garden 4, Oscar by The Sea Tower 1, Nan Fung Plaza 5, Ibis Hong Kong Central and Sheung Wan Hotel, Villa Esplanada 1, Villa Esplanada 2, Oscar by the Sea Tower 2, Nan Fung Plaza 6, Lexington Hill, Imperial Cullinan Tower 1, Imperial Cullinan Tower 2, Imperial Cullinan Tower 3, Imperial Cullinan Tower 5, Imperial Cullinan Tower 8, United Centre, Larvotto Towers 1, 2, Larvotto Towers 3, 5, 6, 7, Millennium City 1 - Tower 1, Century Gateway 8, Argenta, Princeton Tower, Wu Chung House, East, AIA Financial Centre, The Avenue Phase 2, T1, Kerry Centre, Millennium City 1 - Standard Chartered Tower, Two Chinachem Central, Berkshire House, 50 Connaught Road Central, Chater House, Queen Mary Hospital Block K, Nan Fung Plaza 3, Tierra Verde 9, Larvotto Towers 8, 9, 10, Metro City II Tower 1, Metro City II Tower 10, Metro City II Tower 11, Metro City II Tower 2, Metro City II Tower 3, Metro City II Tower 4, Metro City II Tower 5, Metro City II Tower 6, Metro City II Tower 7, Metro City II Tower 8, Metro City II Tower 9, Wan Chai Tower, OLIV, Top Glory Tower, Pacific View 1-5, 9 Des Voeux Road West, Tierra Verde 7, Tierra Verde 8, One Chinachem Central, Regence Royale Tower II, Regence Royale Tower I, Lai Tin House, Tai Tin House, Grand Hyatt Hong Kong, Queen's Terrace 3, Best Western Hotel Harbour View, Guangdong Finance Centre, Queen's Terrace 2, Mung Ching House, Sheung Ching House, Tierra Verde 6, Discovery Park Tower 10, Discovery Park Tower 11, Discovery Park Tower 12, Discovery Park Tower 13, Discovery Park Tower 6, Discovery Park Tower 7, Discovery Park Tower 8, Discovery Park Tower 9, Bank of China Centre, LHT Tower, Verbena Heights 1-2, Park Towers Two, The Gateway Tower 1, The Gateway Tower 2, The Gateway Tower 3, The Gateway Tower 5, The Gateway Tower 6, Yau Lai Estate Cheuk Lai House, Yau Lai Estate Yung Lai House, Choi Man House-Yee Man House, The Pavilia Hill Tower 3, The Pavilia Hill Tower 1, The Pavilia Hill Tower 2, The Pavilia Hill Tower 5, The Pavilia Hill Tower 6, Oi Chak House, Oi Ping House, King Man House, Sik Man House, Yat Man House, The Royal Court, Ching Chak House, Ching Chiu House, Ching Chung House, Ching Hin House, Ching Long House, Ching Ping House, Ching Yu House, Ching Yun House, Kwun Hei Court Block A, Hoi Yan House, Shing Tin House and Cheung Tin House, CITIC Tower, Lee Garden Two, H Queen's, Arsenal House West Wing, Central Government Offices, The Excelsior, Hong Ching House, Lok Ching House, Yan Ching House, CITÉ 33, Tak Cheung House, Tak Kei House, Tak Loong House, Tak Shan House, Tak Sui House, Tak Ying House, Tak Yiu House, Tak Yu House, Verbena Heights 7, Green Code Towers 1-2, Green Code Towers 3, Green Code Towers 5, Oi Yat House, MOD 595, Hung Yan House, Hung Yiu House, Forfar, Shui On Centre, Hung Yat House, Devon House, Yiu Fook House, Yiu Fu House, Yiu Lok House, Yiu Wah House, Fuk Lok House, Fuk On House, Hing Cho House, Hing Fung House, Hing Hong House, Tung Lam Court, Yuet Ching House, 33-49 Des Voeux Road West, 99 Bonham, High Point, Hoi Ning House-Hoi Nam House, Hoi Wen House, Hotel ICON, Cubus Building, Hotel Indigo Hong Kong Island, Chinese People`s Liberation Army Forces Hong Kong Building, Bedford 28, Tak Pui House, The Avenue Phase 1, T5, Tregunter Tower 1, Tregunter Tower 2, Pearl City Mansion, Cheung Chi House, Cheung Tak House, Tuen Mun Town Plaza Block 8, Academic 3, City University of Hong Kong, Lincoln House, Kwun Tong 223, Dragon Pride, Cityplaza 1, The Beacon, SKYPARK, J Hotel @ Jervois Street, Oi Yuk House, Hung Sing House, Southern Lodge, Trade and Industry Tower, Lee Garden Five, THE MOOD Lyndhurst, Wan Tin House, M+, Hong Kong Poly Technic University Community College, Hung Hom Campus, Cornwall House, Best Western Hotel Tsim Sha Tsui, Warwick House, 100 Queens Road Central, The Lily Repulse Bay, The Murray, The Hong Kong Club Building, Banyan Mansion, Kin On Mansion, Ko On Mansion, Pine Mansion, Hing On Mansion, Ning On Mansion, Po On Mansion, Shun On Mansion, Oi Sin House, Leighton Centre, Ruttenjee Hospital, ICAC Headquarters Building, Fuk Tai House, Lee Garden Six, Cityplaza 4, One Hysan Avenue, Cityplaza 3, Prince of Wales Hospital, Yiu Hing House, Mount Parker Residences, Foong Shan Mansion, Fu Shan Mansion, Fu Shan Mansion, Heng Shan Mansion, Kam Shan Mansion, Loong Shan Mansion, Lu Shan Mansion, Nan Shan Mansion, Po Shan Mansion, Tai Shan Mansion, Tien Shan Mansion, Tung Shan Mansion, Wah Shan Mansion, Yee Shan Mansion, Begonia Mansion, Lotus Mansion, Marigold Mansion, Nam Hoi Mansion, Pak Hoi Mansion, Primrose Mansion, Tung Hoi Mansion, Wisteria Mansion, Po Yang Mansion, Tai Woo Mansion, Tung Ting Mansion, Juniper Mansion, Maple Mansion, Oak Mansion, Willow Mansion, Cheung King-Cheung Shun House, Cheung Lok-Cheung Wo House, Cheung Yue-Cheung Fung House, Choi Wah House, Choi Wu House, Chi Sing Mansion, Hang Sing Mansion, Hoi Sing Mansion, Kam Sing Mansion, Ngan Sing Mansion, Tien Sing Mansion, Wai Sing Mansion, Yiu Sing Mansion, Choi Tien Mansion, Fu Tien Mansion, Heng Tien Mansion, Hoi Tien Mansion, Kai Tien Mansion, King Tien Mansion, Kwan Tien Mansion, Nam Tien Mansion, Yat Tien Mansion, Chai Kung Mansion, Han Kung Mansion, Hsia Kung Mansion, Ming Kung Mansion, Tang Kung Mansion, Tsui Kung Mansion, Yen Kung Mansion, Yuan Kung Mansion, Dragon View Garden, Oi Po House, PolyU West Kowloon Campus, St. John's Building
+Tiers: I: 105, II: 247, III: 310, IV: 35, V: 6, VI: 1
+Rating: 2107 (0.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** International Commerce Centre ***
+Height: 484
+Floors: 108
+Status: Completed
+Started: 2002
+Completed: 2010
+Functions: hotel / office
+Rank: 1
+
+*** Two International Finance Centre ***
+Height: 412
+Floors: 88
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 2
+
+*** Central Plaza ***
+Height: 373.9
+Floors: 78
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 3
+
+*** Bank of China Tower ***
+Height: 367.4
+Floors: 72
+Status: Completed
+Started: 1985
+Completed: 1990
+Functions: office
+Rank: 4
+
+*** The Center ***
+Height: 346
+Floors: 73
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 5
+
+*** Nina Tower ***
+Height: 320.4
+Floors: 80
+Status: Completed
+Started: 1999
+Completed: 2006
+Functions: hotel / office
+Rank: 6
+
+*** One Island East ***
+Height: 298.1
+Floors: 68
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 7
+
+*** Cheung Kong Centre ***
+Height: 282.83
+Floors: 63
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 8
+
+*** Victoria Dockside ***
+Height: 273.54
+Floors: 66
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel / office
+Rank: 9
+
+*** The Cullinan I ***
+Height: 269.92
+Floors: 68
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 10
+
+*** The Cullinan II ***
+Height: 269.92
+Floors: 68
+Status: Completed
+Completed: 2008
+Functions: residential / hotel
+Rank: 10
+
+*** The Masterpiece ***
+Height: 256.97
+Floors: 64
+Status: Completed
+Started: 2000
+Completed: 2009
+Functions: residential / hotel
+Rank: 12
+
+*** Sorrento 1 ***
+Height: 256.39
+Floors: 75
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 13
+
+*** Langham Place Office Tower ***
+Height: 255.05
+Floors: 59
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 14
+
+*** Highcliff ***
+Height: 252.3
+Floors: 73
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 15
+
+*** The Harbourside ***
+Height: 251.16
+Floors: 73
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 16
+
+*** Lee Garden One ***
+Height: 240.35
+Floors: 50
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 17
+
+*** Sorrento 2 ***
+Height: 235.71
+Floors: 66
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 18
+
+*** Harbourfront Landmark ***
+Height: 232.6
+Floors: 69
+Status: Completed
+Started: 1998
+Completed: 2003
+Functions: residential
+Rank: 19
+
+*** The Arch ***
+Height: 231
+Floors: 65
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential
+Rank: 20
+
+*** One Taikoo Place ***
+Height: 228.6
+Floors: 48
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 21
+
+*** COSCO Tower ***
+Height: 228
+Floors: 52
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 22
+
+*** The Belcher's Tower 5 ***
+Height: 226.73
+Floors: 61
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: residential
+Rank: 23
+
+*** The Belcher's Tower 6 ***
+Height: 226.73
+Floors: 61
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: residential
+Rank: 23
+
+*** Hopewell Centre ***
+Height: 222
+Floors: 64
+Status: Completed
+Started: 1977
+Completed: 1981
+Functions: office
+Rank: 25
+
+*** The Belcher's Tower 1 ***
+Height: 220.58
+Floors: 63
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 26
+
+*** The Belcher's Tower 2 ***
+Height: 220.58
+Floors: 63
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 26
+
+*** Tregunter Tower III ***
+Height: 219.9
+Floors: 68
+Status: Completed
+Started: 1991
+Completed: 1993
+Functions: residential
+Rank: 28
+
+*** The Summit ***
+Height: 219.8
+Floors: 69
+Status: Completed
+Started: 1996
+Completed: 2002
+Functions: residential
+Rank: 29
+
+*** Grand Promenade Towers 2-3-5 ***
+Height: 218.85
+Floors: 66
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 30
+
+*** Sorrento 3 ***
+Height: 218.01
+Floors: 64
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 31
+
+*** LOHAS Park Le Prestige Tower B ***
+Height: 215
+Floors: 70
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 32
+
+*** Sun Hung Kai Centre ***
+Height: 214.5
+Floors: 56
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 33
+
+*** The Belcher's Tower 3 ***
+Height: 214.43
+Floors: 61
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 34
+
+*** The Belcher's Tower 8 ***
+Height: 214.43
+Floors: 61
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: residential
+Rank: 34
+
+*** Shangri-La Hotel ***
+Height: 213.13
+Floors: 57
+Status: Completed
+Started: 1986
+Completed: 1991
+Functions: hotel
+Rank: 36
+
+*** Victoria Towers I ***
+Height: 213
+Floors: 62
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 37
+
+*** Victoria Towers II ***
+Height: 213
+Floors: 62
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 37
+
+*** Victoria Towers III ***
+Height: 213
+Floors: 62
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 37
+
+*** Shining Heights ***
+Height: 213
+Floors: 55
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 40
+
+*** Sorrento 5 ***
+Height: 212.11
+Floors: 62
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 41
+
+*** Indi Home ***
+Height: 212
+Floors: 56
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 42
+
+*** LOHAS Park The Capitol Oslo ***
+Height: 210
+Floors: 69
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 43
+
+*** LOHAS Park The Capitol Whistler ***
+Height: 210
+Floors: 69
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 43
+
+*** One International Finance Centre ***
+Height: 210
+Floors: 38
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 45
+
+*** Grand Promenade Tower 1 ***
+Height: 209
+Floors: 63
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 46
+
+*** Grand Promenade Tower 6 ***
+Height: 209
+Floors: 63
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 46
+
+*** Metro Plaza Tower II ***
+Height: 208.93
+Floors: 47
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 48
+
+*** Sorrento 6 ***
+Height: 206.11
+Floors: 60
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 49
+
+*** LOHAS Park The Capitol Madrid ***
+Height: 206
+Floors: 67
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 50
+
+*** LOHAS Park The Capitol Milan ***
+Height: 206
+Floors: 67
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 50
+
+*** Bellagio Tower 1-5 ***
+Height: 206
+Floors: 64
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 52
+
+*** Citibank Plaza 1 ***
+Height: 205.5
+Floors: 51
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 53
+
+*** May House ***
+Height: 205.5
+Floors: 47
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: government
+Rank: 54
+
+*** Metro Town Tower 1 ***
+Height: 205
+Floors: 62
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 55
+
+*** Metro Town Tower 2 ***
+Height: 205
+Floors: 62
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 55
+
+*** Four Seasons Place ***
+Height: 205
+Floors: 55
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / hotel
+Rank: 57
+
+*** Hysan Place ***
+Height: 204.13
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / retail
+Rank: 58
+
+*** Island Resort Towers 1 & 2 ***
+Height: 202.15
+Floors: 60
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 59
+
+*** Island Resort Towers 3 & 5 ***
+Height: 202.15
+Floors: 60
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 59
+
+*** Island Resort Towers 6 & 7 ***
+Height: 202.15
+Floors: 60
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 59
+
+*** Island Resort Towers 8 & 9 ***
+Height: 202.15
+Floors: 60
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 59
+
+*** China Online Centre ***
+Height: 201.25
+Floors: 52
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 63
+
+*** LOHAS Park Le Prestige Tower A ***
+Height: 200
+Floors: 65
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 64
+
+*** LOHAS Park Le Prestige Tower C ***
+Height: 200
+Floors: 65
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 64
+
+*** LOHAS Park The Capitol Florence ***
+Height: 200
+Floors: 65
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 64
+
+*** Conrad Hong Kong ***
+Height: 198.93
+Floors: 61
+Status: Completed
+Started: 1986
+Completed: 1990
+Functions: hotel / residential
+Rank: 67
+
+*** Queensway Government Office Building ***
+Height: 198.65
+Floors: 47
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 68
+
+*** Le Point Tower 6 ***
+Height: 198.25
+Floors: 60
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 69
+
+*** Le Point Tower 7 ***
+Height: 198.25
+Floors: 60
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 69
+
+*** Bellagio Tower 6-9 ***
+Height: 198
+Floors: 60
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 71
+
+*** The Merton 1 ***
+Height: 197
+Floors: 59
+Status: Completed
+Started: 1998
+Completed: 2005
+Functions: residential
+Rank: 72
+
+*** Wharf Cable Tower ***
+Height: 196.56
+Floors: 41
+Status: Completed
+Started: 1992
+Completed: 1993
+Functions: office
+Rank: 73
+
+*** Aigburth ***
+Height: 195.88
+Floors: 48
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 74
+
+*** Le Point Tower 10 ***
+Height: 195
+Floors: 59
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 75
+
+*** Le Point Tower 8 ***
+Height: 195
+Floors: 59
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 75
+
+*** Le Point Tower 9 ***
+Height: 195
+Floors: 59
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 75
+
+*** Vision City Tower 2 ***
+Height: 195
+Floors: 54
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 78
+
+*** Vision City Tower 3 ***
+Height: 195
+Floors: 54
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 78
+
+*** Vision City Tower 5 ***
+Height: 195
+Floors: 54
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 78
+
+*** NatWest Tower, Times Square ***
+Height: 193.9
+Floors: 46
+Status: Completed
+Completed: 1993
+Functions: office / retail
+Rank: 81
+
+*** Manhattan Hill 1-2 ***
+Height: 193
+Floors: 51
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 82
+
+*** Vision City Tower 1 ***
+Height: 192
+Floors: 53
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 83
+
+*** 39 Conduit Road ***
+Height: 191.57
+Floors: 42
+Status: Completed
+Started: 2003
+Completed: 2009
+Functions: residential
+Rank: 84
+
+*** Banyan Garden 2 ***
+Height: 191.4
+Floors: 57
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 85
+
+*** Banyan Garden 6 ***
+Height: 191.4
+Floors: 57
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 85
+
+*** Banyan Garden 7 ***
+Height: 191.4
+Floors: 57
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 85
+
+*** The Merton 2 ***
+Height: 189
+Floors: 56
+Status: Completed
+Started: 1998
+Completed: 2005
+Functions: residential
+Rank: 88
+
+*** The Centrium ***
+Height: 188.85
+Floors: 41
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 89
+
+*** Metro Town Tower 3 ***
+Height: 188
+Floors: 57
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 90
+
+*** Metro Town Tower 5 ***
+Height: 188
+Floors: 57
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 90
+
+*** Exchange Square #1 ***
+Height: 188
+Floors: 52
+Status: Completed
+Started: 1982
+Completed: 1985
+Functions: office
+Rank: 92
+
+*** Exchange Square #2 ***
+Height: 188
+Floors: 52
+Status: Completed
+Started: 1982
+Completed: 1985
+Functions: office
+Rank: 92
+
+*** Oxford House Time Warner ***
+Height: 188
+Floors: 41
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 94
+
+*** 9 Queen's Road Central ***
+Height: 187.26
+Floors: 39
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 95
+
+*** Millennium City 5 ***
+Height: 187
+Floors: 45
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 96
+
+*** Landmark East Tower 1 ***
+Height: 187
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 97
+
+*** Landmark East Tower 2 ***
+Height: 187
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel / office
+Rank: 97
+
+*** Standard Chartered Bank ***
+Height: 187
+Floors: 42
+Status: Completed
+Started: 1987
+Completed: 1990
+Functions: office
+Rank: 99
+
+*** Festival City III Tower 5 ***
+Height: 186.5
+Floors: 58
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 100
+
+*** Entertainment Building ***
+Height: 186.45
+Floors: 32
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 101
+
+*** Manhattan Hill 3 ***
+Height: 186.4
+Floors: 48
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 102
+
+*** Manhattan Hill 5 ***
+Height: 186.4
+Floors: 48
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 102
+
+*** Manhattan Hill 6 ***
+Height: 186.4
+Floors: 48
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 102
+
+*** Lippo Tower ***
+Height: 186
+Floors: 48
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 105
+
+*** The Westpoint ***
+Height: 185.55
+Floors: 41
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 106
+
+*** Manhattan Heights ***
+Height: 185
+Floors: 55
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 107
+
+*** Sino Plaza ***
+Height: 185
+Floors: 38
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 108
+
+*** AIA Central ***
+Height: 185
+Floors: 35
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 109
+
+*** Festival City III Tower 1 ***
+Height: 184.7
+Floors: 58
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 110
+
+*** Festival City III Tower 2 ***
+Height: 184.7
+Floors: 58
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 110
+
+*** Festival City III Tower 3 ***
+Height: 184.7
+Floors: 58
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 110
+
+*** Ocean Pointe ***
+Height: 183.7
+Floors: 53
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential
+Rank: 113
+
+*** Cadogan ***
+Height: 183.49
+Floors: 49
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 114
+
+*** Vision City Tower 6 ***
+Height: 183
+Floors: 50
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 115
+
+*** Banyan Garden 5 ***
+Height: 182.7
+Floors: 54
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 116
+
+*** Branksome Crest ***
+Height: 182
+Floors: 47
+Status: Completed
+Started: 2004
+Completed: 2003
+Functions: residential
+Rank: 117
+
+*** Three Pacific Place ***
+Height: 182
+Floors: 40
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 118
+
+*** Convention Plaza Office Tower ***
+Height: 181.28
+Floors: 50
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 119
+
+*** The Pavilia Bay Tower 1 ***
+Height: 181.23
+Floors: 51
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 120
+
+*** Liberte 1 ***
+Height: 180.9
+Floors: 51
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 121
+
+*** Liberte 2 ***
+Height: 180.9
+Floors: 51
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 121
+
+*** Liberte 3 ***
+Height: 180.9
+Floors: 51
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 121
+
+*** Immigration Tower ***
+Height: 180.75
+Floors: 49
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 124
+
+*** Revenue Tower ***
+Height: 180.75
+Floors: 49
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 124
+
+*** AIA Tower ***
+Height: 180.31
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 126
+
+*** Liberte 5 ***
+Height: 180.2
+Floors: 52
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 127
+
+*** Liberte 6 ***
+Height: 180.2
+Floors: 52
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 127
+
+*** The Merton 3 ***
+Height: 180
+Floors: 51
+Status: Completed
+Started: 1998
+Completed: 2005
+Functions: residential
+Rank: 129
+
+*** Banyan Garden 3 ***
+Height: 179.8
+Floors: 53
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 130
+
+*** Hong Kong and Shanghai Banking Corporation Headquarters ***
+Height: 178.8
+Floors: 43
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 131
+
+*** Jardine House ***
+Height: 178.54
+Floors: 52
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 132
+
+*** China Resources Building ***
+Height: 178
+Floors: 50
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: office
+Rank: 133
+
+*** Grand Waterfront 1-5 ***
+Height: 177
+Floors: 57
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 134
+
+*** Grand Waterfront 6 ***
+Height: 177
+Floors: 57
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 134
+
+*** The Oakhill ***
+Height: 177
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 136
+
+*** Azura ***
+Height: 177
+Floors: 51
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 137
+
+*** Far East Finance Centre ***
+Height: 176.09
+Floors: 48
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 138
+
+*** One Kowloon ***
+Height: 176
+Floors: 39
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 139
+
+*** Billionaire Royale ***
+Height: 175.5
+Floors: 54
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 140
+
+*** Oscar by the Sea Tower 5 ***
+Height: 175.08
+Floors: 59
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 141
+
+*** Vianni Cove 2 ***
+Height: 175
+Floors: 52
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 142
+
+*** Vianni Cove 3 ***
+Height: 175
+Floors: 52
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 142
+
+*** Enterprise Square 3 ***
+Height: 175
+Floors: 41
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 144
+
+*** Tavistock II ***
+Height: 174.95
+Floors: 46
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 145
+
+*** Ocean Shores Tower 1-3 ***
+Height: 174.44
+Floors: 58
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential
+Rank: 146
+
+*** Ocean Shores Tower 15 ***
+Height: 174.44
+Floors: 58
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 146
+
+*** Ocean Shores Tower 16-17 ***
+Height: 174.44
+Floors: 58
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 146
+
+*** Ocean Shores Tower 5 ***
+Height: 174.44
+Floors: 58
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential
+Rank: 146
+
+*** Ocean Shores Tower 6 ***
+Height: 174.44
+Floors: 58
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential
+Rank: 146
+
+*** Ocean Shores Tower 7 ***
+Height: 174.44
+Floors: 58
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 146
+
+*** Ocean Shores Tower 8 ***
+Height: 174.44
+Floors: 58
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 146
+
+*** Ocean Shores Tower 9-10 ***
+Height: 174.44
+Floors: 58
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 146
+
+*** The Pavilia Bay Tower 2 ***
+Height: 174
+Floors: 48
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 154
+
+*** Metro Plaza Tower I ***
+Height: 173.93
+Floors: 47
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 155
+
+*** Enterprise Square 5 / MegaBOX ***
+Height: 173
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office / retail
+Rank: 156
+
+*** Queen's Garden ***
+Height: 172.67
+Floors: 34
+Status: Completed
+Started: 1991
+Completed: 1992
+Functions: residential
+Rank: 157
+
+*** The ONE ***
+Height: 172.12
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: retail
+Rank: 158
+
+*** The Dynasty 1 ***
+Height: 172
+Floors: 50
+Status: Completed
+Completed: 2009
+Functions: residential / retail
+Rank: 159
+
+*** The Dynasty 2 ***
+Height: 172
+Floors: 50
+Status: Completed
+Completed: 2009
+Functions: residential / retail
+Rank: 159
+
+*** Peregrine Tower, Lippo Centre ***
+Height: 172
+Floors: 44
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 161
+
+*** Dorset House/PCCW Tower ***
+Height: 172
+Floors: 42
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 162
+
+*** Vianni Cove 1 ***
+Height: 171.6
+Floors: 51
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 163
+
+*** Ocean Shores Tower 11-13 ***
+Height: 171.41
+Floors: 57
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 164
+
+*** Metro Harbourview 1 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 10 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 2 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 3 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 4 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 5 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 6 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 7 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 8 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Metro Harbourview 9 ***
+Height: 171
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 165
+
+*** Festival City I Tower 2 ***
+Height: 170.4
+Floors: 51
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 175
+
+*** Festival City I Tower 3 ***
+Height: 170.4
+Floors: 51
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 175
+
+*** L'Hotel Nina Tower ***
+Height: 170.4
+Floors: 42
+Status: Completed
+Started: 2000
+Completed: 2006
+Functions: hotel
+Rank: 177
+
+*** Arezzo ***
+Height: 170.02
+Floors: 48
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 178
+
+*** Festival City II Tower 5 ***
+Height: 170
+Floors: 55
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 179
+
+*** Festival City II Tower 3 ***
+Height: 170
+Floors: 54
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 180
+
+*** Langham Place Hotel ***
+Height: 169.78
+Floors: 42
+Status: Completed
+Started: 1999
+Completed: 2004
+Functions: hotel
+Rank: 181
+
+*** Albany Cove 6 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 182
+
+*** Albany Cove 7 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 182
+
+*** Albany Cove 8 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 182
+
+*** Caribbean Coast 10 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 182
+
+*** Caribbean Coast 11 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 182
+
+*** Caribbean Coast 12 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 182
+
+*** Caribbean Coast 13 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 182
+
+*** Caribbean Coast 15 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 182
+
+*** Caribbean Coast 9 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 182
+
+*** Monterey Cove 2 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 182
+
+*** Monterey Cove 3 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 182
+
+*** Monterey Cove 5 ***
+Height: 169.5
+Floors: 54
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 182
+
+*** Oscar by the Sea Tower 8 ***
+Height: 169.48
+Floors: 57
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 194
+
+*** Summit Terrace 3 ***
+Height: 169
+Floors: 47
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 195
+
+*** Summit Terrace 5 ***
+Height: 169
+Floors: 47
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 195
+
+*** Shell Tower, Times Square ***
+Height: 168.8
+Floors: 39
+Status: Completed
+Completed: 1993
+Functions: office / retail
+Rank: 197
+
+*** The Avenue Phase 2, T2 ***
+Height: 168.7
+Floors: 43
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 198
+
+*** The Avenue Phase 2, T3 ***
+Height: 168.7
+Floors: 43
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 198
+
+*** Residence Oasis 1 ***
+Height: 168.25
+Floors: 55
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 200
+
+*** Residence Oasis 2 ***
+Height: 168.25
+Floors: 55
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 200
+
+*** Residence Oasis 3 ***
+Height: 168.25
+Floors: 55
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 200
+
+*** The Grandiose 1 ***
+Height: 168
+Floors: 55
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 203
+
+*** The Grandiose 2 ***
+Height: 168
+Floors: 55
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 203
+
+*** The Grandiose 3 ***
+Height: 168
+Floors: 55
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 203
+
+*** Hong Kong Plaza ***
+Height: 168
+Floors: 43
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 206
+
+*** Park Central 1 ***
+Height: 167.9
+Floors: 54
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 207
+
+*** Park Central 12 ***
+Height: 167.9
+Floors: 54
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 207
+
+*** Park Central 13 ***
+Height: 167.9
+Floors: 54
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 207
+
+*** Park Central 2 ***
+Height: 167.9
+Floors: 54
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 207
+
+*** Park Central 3 ***
+Height: 167.9
+Floors: 54
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 207
+
+*** Park Central 5 ***
+Height: 167.9
+Floors: 54
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 207
+
+*** Park Central 6 ***
+Height: 167.9
+Floors: 54
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 207
+
+*** Oscar by the Sea Tower 6 ***
+Height: 167.8
+Floors: 58
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 214
+
+*** Oscar by the Sea Tower 7 ***
+Height: 167.8
+Floors: 58
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 214
+
+*** Festival City I Tower 1 ***
+Height: 167.33
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 216
+
+*** Festival City I Tower 5 ***
+Height: 167.33
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 216
+
+*** The Latitude Tower 6 ***
+Height: 167.03
+Floors: 48
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 218
+
+*** The Latitude Tower 7 ***
+Height: 167.03
+Floors: 48
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 218
+
+*** The Latitude Tower 8 ***
+Height: 167.03
+Floors: 48
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 218
+
+*** The Latitude Tower 1 ***
+Height: 167.03
+Floors: 45
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 221
+
+*** The Latitude Tower 2 ***
+Height: 167.03
+Floors: 45
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 221
+
+*** Festival City II Tower 1 ***
+Height: 167
+Floors: 52
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 223
+
+*** Festival City II Tower 2 ***
+Height: 167
+Floors: 52
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 223
+
+*** Asia Pacific Finance Tower ***
+Height: 166.73
+Floors: 39
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 225
+
+*** Tierra Verde Tower 10-12 ***
+Height: 166.65
+Floors: 52
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 226
+
+*** The Palazzo ***
+Height: 166.15
+Floors: 38
+Status: Completed
+Started: 2003
+Completed: 2010
+Functions: residential / retail
+Rank: 227
+
+*** Summit Terrace 2 ***
+Height: 166
+Floors: 46
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 228
+
+*** La Cite Noble Tower 3 ***
+Height: 165.75
+Floors: 49
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 229
+
+*** Park Central 11 ***
+Height: 165.15
+Floors: 53
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 230
+
+*** The Serenade Tower 1 ***
+Height: 165.09
+Floors: 52
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 231
+
+*** The Serenade Tower 2 ***
+Height: 165.09
+Floors: 52
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 231
+
+*** Residence Oasis 5 ***
+Height: 165
+Floors: 54
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 233
+
+*** Residence Oasis 6 ***
+Height: 165
+Floors: 54
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 233
+
+*** Residence Oasis 7 ***
+Height: 165
+Floors: 54
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 233
+
+*** Four Seasons Hotel Hong Kong ***
+Height: 165
+Floors: 42
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: hotel
+Rank: 236
+
+*** Lime Stardom ***
+Height: 165
+Floors: 37
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 237
+
+*** Grand Hyatt Serviced Apartments ***
+Height: 164.9
+Floors: 46
+Status: Completed
+Completed: 1990
+Functions: serviced apartments
+Rank: 238
+
+*** Sky Tower 1-2 ***
+Height: 164.7
+Floors: 52
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 239
+
+*** Sky Tower 3-7 ***
+Height: 164.7
+Floors: 52
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 239
+
+*** J.W. Marriott and The Upper House ***
+Height: 164.5
+Floors: 50
+Status: Completed
+Started: 1985
+Completed: 1988
+Functions: hotel
+Rank: 241
+
+*** The Gloucester ***
+Height: 164.2
+Floors: 41
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 242
+
+*** Seaview Crescent 5 ***
+Height: 164
+Floors: 53
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 243
+
+*** Verbena Heights 3-6 ***
+Height: 163.8
+Floors: 52
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 244
+
+*** Monterey Cove 1 ***
+Height: 163.63
+Floors: 52
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 245
+
+*** Upton  ***
+Height: 163.4
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 246
+
+*** One Pacific Heights ***
+Height: 163.37
+Floors: 39
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 247
+
+*** La Cite Noble Tower 1 ***
+Height: 162.95
+Floors: 48
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 248
+
+*** La Cite Noble Tower 4 ***
+Height: 162.95
+Floors: 48
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 248
+
+*** La Cite Noble Tower 6 ***
+Height: 162.95
+Floors: 48
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 248
+
+*** Island Crest Tower 1 ***
+Height: 162.76
+Floors: 46
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 251
+
+*** Island Crest Tower 2 ***
+Height: 162.76
+Floors: 46
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 251
+
+*** Park Central 10 ***
+Height: 162.4
+Floors: 52
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 253
+
+*** Park Central 7 ***
+Height: 162.4
+Floors: 52
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 253
+
+*** Park Central 8 ***
+Height: 162.4
+Floors: 52
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 253
+
+*** Park Central 9 ***
+Height: 162.4
+Floors: 52
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 253
+
+*** Banyan Garden 1 ***
+Height: 162.4
+Floors: 47
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 257
+
+*** Banyan Garden 8 ***
+Height: 162.4
+Floors: 47
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 257
+
+*** 118 Connaught Road West ***
+Height: 162
+Floors: 40
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 259
+
+*** One Pacific Place ***
+Height: 161.8
+Floors: 40
+Status: Completed
+Started: 1985
+Completed: 1988
+Functions: office
+Rank: 260
+
+*** Seaview Crescent 1-3 ***
+Height: 161
+Floors: 52
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 261
+
+*** Coastal Skyline 1-3,5-6, Tung Chung ***
+Height: 161
+Floors: 50
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 262
+
+*** Coastal Skyline 7-8, Tung Chung ***
+Height: 161
+Floors: 50
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 262
+
+*** Les Saisons ***
+Height: 160.13
+Floors: 50
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 264
+
+*** Metropolis 1 ***
+Height: 160.1
+Floors: 50
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 265
+
+*** Metropolis 2 ***
+Height: 160.1
+Floors: 50
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 265
+
+*** Metropolis 3 ***
+Height: 160.1
+Floors: 50
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 265
+
+*** Metropolis 5 ***
+Height: 160.1
+Floors: 50
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 265
+
+*** Belcher's Hill ***
+Height: 160
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 269
+
+*** City Point Tower 1 ***
+Height: 160
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 270
+
+*** City Point Tower 2 ***
+Height: 160
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 270
+
+*** City Point Tower 3 ***
+Height: 160
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 270
+
+*** Island Lodge ***
+Height: 160
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 273
+
+*** One Peking Road ***
+Height: 159.98
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 274
+
+*** One Wanchai ***
+Height: 159.7
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 275
+
+*** The Landmark Gloucester Tower ***
+Height: 159.39
+Floors: 46
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 276
+
+*** The Landmark Edinburgh Tower ***
+Height: 159.39
+Floors: 45
+Status: Completed
+Completed: 1983
+Functions: hotel / office
+Rank: 277
+
+*** Dynasty Court Tower 1-2 ***
+Height: 159.03
+Floors: 47
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 278
+
+*** Cambridge House ***
+Height: 159
+Floors: 36
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 279
+
+*** Galaxia Tower 2 ***
+Height: 158.25
+Floors: 52
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 280
+
+*** Galaxia Tower 3 ***
+Height: 158.25
+Floors: 52
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 280
+
+*** Galaxia Tower 5 ***
+Height: 158.25
+Floors: 52
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 280
+
+*** 148 Electric Road ***
+Height: 158
+Floors: 41
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 283
+
+*** SOHO 189 ***
+Height: 157.89
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 284
+
+*** Century Gateway 1 ***
+Height: 157.65
+Floors: 44
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 285
+
+*** La Cite Noble Tower 2 ***
+Height: 157.35
+Floors: 46
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 286
+
+*** La Cite Noble Tower 5 ***
+Height: 157.35
+Floors: 46
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 286
+
+*** The Forest Hills ***
+Height: 157.28
+Floors: 48
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 288
+
+*** Century Gateway 5 ***
+Height: 157.28
+Floors: 43
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 289
+
+*** Park Towers One ***
+Height: 157.12
+Floors: 51
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 290
+
+*** City Point Tower 5 ***
+Height: 157
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 291
+
+*** City Point Tower 6 ***
+Height: 157
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 291
+
+*** Summit Terrace 1 ***
+Height: 157
+Floors: 43
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 293
+
+*** Le Sommet ***
+Height: 156.8
+Floors: 50
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 294
+
+*** Ellery Terrace, Kowloon ***
+Height: 156.48
+Floors: 45
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 295
+
+*** Liberte 7 ***
+Height: 156.4
+Floors: 44
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 296
+
+*** China Merchants Tower ***
+Height: 156
+Floors: 38
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 297
+
+*** Shun Tak Centre West ***
+Height: 156
+Floors: 38
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 297
+
+*** Sunlight Tower ***
+Height: 155.94
+Floors: 40
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 299
+
+*** Park Avenue Towers 6-10 ***
+Height: 155.6
+Floors: 51
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 300
+
+*** Galaxia Tower 1 ***
+Height: 155.25
+Floors: 51
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 301
+
+*** Galaxia Tower 6 ***
+Height: 155.25
+Floors: 51
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 301
+
+*** Henley Building ***
+Height: 155.11
+Floors: 36
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 303
+
+*** Bank of Communications Tower ***
+Height: 155
+Floors: 33
+Status: Completed
+Started: 1995
+Completed: 1996
+Functions: office
+Rank: 304
+
+*** Imperial Court Block C ***
+Height: 154.53
+Floors: 52
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 305
+
+*** Li Po Chun Chambers ***
+Height: 154.35
+Floors: 31
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 306
+
+*** Metro City I Tower 3 ***
+Height: 153.9
+Floors: 43
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 307
+
+*** Metro City I Tower 4 ***
+Height: 153.9
+Floors: 43
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 307
+
+*** Metro City I Tower 5 ***
+Height: 153.9
+Floors: 43
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 307
+
+*** Metro City I Tower 6 ***
+Height: 153.9
+Floors: 43
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 307
+
+*** Metro City I Tower 1 ***
+Height: 153.9
+Floors: 42
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 311
+
+*** Metro City I Tower 2 ***
+Height: 153.9
+Floors: 42
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 311
+
+*** The Panorama ***
+Height: 153.7
+Floors: 52
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 313
+
+*** Liberte 8 ***
+Height: 153.43
+Floors: 43
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 314
+
+*** Century Gateway 2 ***
+Height: 153.01
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 315
+
+*** The Zenith 1 ***
+Height: 152.7
+Floors: 47
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 316
+
+*** Robinson Place Tower A ***
+Height: 152.68
+Floors: 48
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 317
+
+*** York Place ***
+Height: 152.47
+Floors: 40
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 318
+
+*** Bayshore Apartments ***
+Height: 152.4
+Floors: 38
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 319
+
+*** Thorn Cliff ***
+Height: 152.08
+Floors: 46
+Status: Completed
+Started: 1979
+Completed: 1982
+Functions: residential
+Rank: 320
+
+*** World Trade Centre ***
+Height: 151.87
+Floors: 40
+Status: Completed
+Completed: 1975
+Functions: office / retail
+Rank: 321
+
+*** Nan Fung Plaza 1 ***
+Height: 151.48
+Floors: 49
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 322
+
+*** Nan Fung Plaza 2 ***
+Height: 151.48
+Floors: 49
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 322
+
+*** New World Tower 1 ***
+Height: 151.46
+Floors: 43
+Status: Completed
+Started: 1977
+Completed: 1980
+Functions: office
+Rank: 324
+
+*** Century Gateway 6 ***
+Height: 151.18
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 325
+
+*** 31 Robinson Road ***
+Height: 151.18
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 326
+
+*** Oscar by The Sea Tower 3 ***
+Height: 151.14
+Floors: 48
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 327
+
+*** Dynasty Court Tower 3-5 ***
+Height: 150.93
+Floors: 46
+Status: Completed
+Completed: 1992
+Functions: residential
+Rank: 328
+
+*** Skyline Tower ***
+Height: 150.68
+Floors: 38
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 329
+
+*** East Point City Tower 1 ***
+Height: 150.63
+Floors: 49
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 330
+
+*** East Point City Tower 2 ***
+Height: 150.63
+Floors: 49
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 330
+
+*** East Point City Tower 3 ***
+Height: 150.63
+Floors: 49
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 330
+
+*** East Point City Tower 5 ***
+Height: 150.63
+Floors: 49
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 330
+
+*** East Point City Tower 6 ***
+Height: 150.63
+Floors: 49
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 330
+
+*** East Point City Tower 7 ***
+Height: 150.63
+Floors: 49
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 330
+
+*** East Point City Tower 8 ***
+Height: 150.63
+Floors: 49
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 330
+
+*** Queen's Terrace 1 ***
+Height: 150.57
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 337
+
+*** Royal Penisula 2-5 ***
+Height: 150.45
+Floors: 50
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 338
+
+*** Harbour One ***
+Height: 150.27
+Floors: 38
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 339
+
+*** Sun Tuen Mun Centre 1 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 10 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 2 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 3 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 4 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 5 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 6 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 7 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 8 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Sun Tuen Mun Centre 9 ***
+Height: 150.25
+Floors: 48
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 340
+
+*** Robinson Place Tower B ***
+Height: 150.18
+Floors: 48
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 350
+
+*** Broadview Villa ***
+Height: 150
+Floors: 50
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 351
+
+*** VISTA ***
+Height: 150
+Floors: 46
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / retail
+Rank: 352
+
+*** Manulife Tower ***
+Height: 149.95
+Floors: 45
+Status: Completed
+Started: 1989
+Completed: 1990
+Functions: office
+Rank: 353
+
+*** Serenity Place 1 ***
+Height: 149.85
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 354
+
+*** Serenity Place 2 ***
+Height: 149.85
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 354
+
+*** Serenity Place 4 ***
+Height: 149.85
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 354
+
+*** Serenity Place 5 ***
+Height: 149.85
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 354
+
+*** Broadview Court 3 ***
+Height: 149
+Floors: 47
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 358
+
+*** Broadview Court 4 ***
+Height: 149
+Floors: 47
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 358
+
+*** Renaissance Harbour View Hotel ***
+Height: 148.9
+Floors: 51
+Status: Completed
+Completed: 1989
+Functions: hotel
+Rank: 360
+
+*** Maritime Bay 1 ***
+Height: 148.9
+Floors: 49
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 361
+
+*** Maritime Bay 2 ***
+Height: 148.9
+Floors: 49
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 361
+
+*** Hong Kong Sanitorium & Hospital - Li Shu Pui Block ***
+Height: 148.5
+Floors: 38
+Status: Completed
+Completed: 2008
+Functions: hospital
+Rank: 363
+
+*** Villa Esplanada 10 ***
+Height: 148.03
+Floors: 44
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 364
+
+*** Villa Esplanada 11 ***
+Height: 148.03
+Floors: 44
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 364
+
+*** Villa Esplanada 8 ***
+Height: 148.03
+Floors: 44
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 364
+
+*** Villa Esplanada 9 ***
+Height: 148.03
+Floors: 44
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 364
+
+*** City Point Tower 7 ***
+Height: 148
+Floors: 44
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 368
+
+*** City Point Tower 8 ***
+Height: 148
+Floors: 44
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 368
+
+*** Bel Air Heights 1 ***
+Height: 147.45
+Floors: 50
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 370
+
+*** Bel Air Heights 2 ***
+Height: 147.45
+Floors: 50
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 370
+
+*** Birchwood Place ***
+Height: 147.23
+Floors: 44
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 372
+
+*** Century Gateway 3 ***
+Height: 147.22
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 373
+
+*** Park Avenue Tower 1 ***
+Height: 146.98
+Floors: 48
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 374
+
+*** Park Avenue Tower 2 ***
+Height: 146.98
+Floors: 48
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 374
+
+*** Park Avenue Tower 3 ***
+Height: 146.98
+Floors: 48
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 374
+
+*** Park Avenue Tower 5 ***
+Height: 146.98
+Floors: 48
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 374
+
+*** Radiant Towers 1 ***
+Height: 146.88
+Floors: 47
+Status: Completed
+Started: 1996
+Completed: 1997
+Functions: residential
+Rank: 378
+
+*** Radiant Towers 2 ***
+Height: 146.88
+Floors: 47
+Status: Completed
+Started: 1996
+Completed: 1997
+Functions: residential
+Rank: 378
+
+*** The Colonnade ***
+Height: 146.65
+Floors: 33
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 380
+
+*** Serenity Place 3 ***
+Height: 146.5
+Floors: 44
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 381
+
+*** The Zenith 2 ***
+Height: 146
+Floors: 46
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 382
+
+*** The Zenith 3 ***
+Height: 146
+Floors: 46
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 382
+
+*** Bank of America Tower ***
+Height: 146
+Floors: 38
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 384
+
+*** Great Eagle Centre ***
+Height: 146
+Floors: 35
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 385
+
+*** Harbour Centre ***
+Height: 146
+Floors: 35
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 385
+
+*** MLC Millennia Plaza ***
+Height: 145.65
+Floors: 30
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 387
+
+*** Kornville Tower 1 ***
+Height: 145.64
+Floors: 49
+Status: Completed
+Started: 1993
+Completed: 1995
+Functions: residential
+Rank: 388
+
+*** Kornville Tower 2 ***
+Height: 145.64
+Floors: 49
+Status: Completed
+Started: 1993
+Completed: 1995
+Functions: residential
+Rank: 388
+
+*** Grand Terrace ***
+Height: 145.57
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential
+Rank: 390
+
+*** Century Gateway 7 ***
+Height: 145.39
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 391
+
+*** Tierra Verde 1 ***
+Height: 145
+Floors: 51
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 392
+
+*** The Pinnacle 1 ***
+Height: 145
+Floors: 50
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 393
+
+*** The Pinnacle 2 ***
+Height: 145
+Floors: 50
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 393
+
+*** The Pinnacle 3 ***
+Height: 145
+Floors: 50
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 393
+
+*** The Pinnacle 4 ***
+Height: 145
+Floors: 50
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 393
+
+*** Broad View Villa ***
+Height: 145
+Floors: 49
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 397
+
+*** New Haven 1-3 ***
+Height: 145
+Floors: 41
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 398
+
+*** Western Harbour Centre ***
+Height: 144.25
+Floors: 29
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 399
+
+*** Three Exchange Square ***
+Height: 144
+Floors: 32
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 400
+
+*** Broadview Court 1 ***
+Height: 143.85
+Floors: 45
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 401
+
+*** Broadview Court 2 ***
+Height: 143.85
+Floors: 45
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 401
+
+*** iSQUARE ***
+Height: 143.7
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: retail
+Rank: 403
+
+*** Discovery Park Tower 1 ***
+Height: 143.25
+Floors: 48
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 404
+
+*** Discovery Park Tower 2 ***
+Height: 143.25
+Floors: 48
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 404
+
+*** Discovery Park Tower 3 ***
+Height: 143.25
+Floors: 48
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 404
+
+*** Discovery Park Tower 5 ***
+Height: 143.25
+Floors: 48
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 404
+
+*** Villa Esplanada 3 ***
+Height: 142.63
+Floors: 40
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 408
+
+*** Villa Esplanada 5 ***
+Height: 142.63
+Floors: 40
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 408
+
+*** Villa Esplanada 6 ***
+Height: 142.63
+Floors: 40
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 408
+
+*** Villa Esplanada 7 ***
+Height: 142.63
+Floors: 40
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 408
+
+*** Dah Sing Financial Centre ***
+Height: 142.48
+Floors: 39
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 412
+
+*** The Waterfront 1 ***
+Height: 142.46
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 413
+
+*** The Waterfront 2 ***
+Height: 142.46
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 413
+
+*** The Waterfront 3 ***
+Height: 142.46
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 413
+
+*** The Waterfront 5 ***
+Height: 142.46
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 413
+
+*** The Waterfront 6 ***
+Height: 142.46
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 413
+
+*** The Waterfront 7 ***
+Height: 142.46
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 413
+
+*** Sing Pao Centre ***
+Height: 142.35
+Floors: 27
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 419
+
+*** 633 Kings Road ***
+Height: 142.34
+Floors: 35
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 420
+
+*** Tierra Verde 2 ***
+Height: 142.2
+Floors: 50
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 421
+
+*** Tierra Verde 3 ***
+Height: 142.2
+Floors: 50
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 421
+
+*** Tierra Verde 3A ***
+Height: 142.2
+Floors: 50
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 421
+
+*** Tierra Verde 5 ***
+Height: 142.2
+Floors: 50
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 421
+
+*** The Manhattan ***
+Height: 142.1
+Floors: 48
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 425
+
+*** Windsor House ***
+Height: 142
+Floors: 42
+Status: Completed
+Completed: 1978
+Functions: office / retail
+Rank: 426
+
+*** Morrison Plaza ***
+Height: 141.95
+Floors: 34
+Status: Completed
+Started: 1995
+Completed: 1996
+Functions: office
+Rank: 427
+
+*** Well On Garden 1 ***
+Height: 141.2
+Floors: 44
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 428
+
+*** Well On Garden 2 ***
+Height: 141.2
+Floors: 44
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 428
+
+*** Well On Garden 3 ***
+Height: 141.2
+Floors: 44
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 428
+
+*** Well On Garden 4 ***
+Height: 141.2
+Floors: 44
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 428
+
+*** Oscar by The Sea Tower 1 ***
+Height: 141.2
+Floors: 42
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 432
+
+*** Nan Fung Plaza 5 ***
+Height: 141
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 433
+
+*** Ibis Hong Kong Central and Sheung Wan Hotel ***
+Height: 141
+Floors: 33
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: hotel
+Rank: 434
+
+*** Villa Esplanada 1 ***
+Height: 140.65
+Floors: 39
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 435
+
+*** Villa Esplanada 2 ***
+Height: 140.65
+Floors: 39
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 435
+
+*** Oscar by the Sea Tower 2 ***
+Height: 140.4
+Floors: 46
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 437
+
+*** Nan Fung Plaza 6 ***
+Height: 140
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 438
+
+*** Lexington Hill ***
+Height: 140
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 439
+
+*** Imperial Cullinan Tower 1 ***
+Height: 140
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 440
+
+*** Imperial Cullinan Tower 2 ***
+Height: 140
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 440
+
+*** Imperial Cullinan Tower 3 ***
+Height: 140
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 440
+
+*** Imperial Cullinan Tower 5 ***
+Height: 140
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 440
+
+*** Imperial Cullinan Tower 8 ***
+Height: 140
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 440
+
+*** United Centre ***
+Height: 140
+Floors: 33
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 440
+
+*** Larvotto Towers 1, 2 ***
+Height: 139.8
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 446
+
+*** Larvotto Towers 3, 5, 6, 7 ***
+Height: 139.8
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 446
+
+*** Millennium City 1 - Tower 1 ***
+Height: 139.8
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 448
+
+*** Century Gateway 8 ***
+Height: 139.29
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 449
+
+*** Argenta ***
+Height: 139
+Floors: 36
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 450
+
+*** Princeton Tower ***
+Height: 138.7
+Floors: 41
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 451
+
+*** Wu Chung House ***
+Height: 138.4
+Floors: 40
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 452
+
+*** East ***
+Height: 138.38
+Floors: 32
+Status: Completed
+Completed: 2010
+Functions: hotel
+Rank: 453
+
+*** AIA Financial Centre ***
+Height: 138.38
+Floors: 27
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 454
+
+*** The Avenue Phase 2, T1 ***
+Height: 138
+Floors: 33
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 455
+
+*** Kerry Centre ***
+Height: 138
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 456
+
+*** Millennium City 1 - Standard Chartered Tower ***
+Height: 137.8
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 457
+
+*** Two Chinachem Central ***
+Height: 137.69
+Floors: 27
+Status: Completed
+Completed: 2017
+Functions: office / retail
+Rank: 458
+
+*** Berkshire House ***
+Height: 137.2
+Floors: 31
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 459
+
+*** 50 Connaught Road Central ***
+Height: 137.15
+Floors: 26
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 460
+
+*** Chater House ***
+Height: 137
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 461
+
+*** Queen Mary Hospital Block K ***
+Height: 137
+Floors: 27
+Status: Completed
+Completed: 1991
+Functions: hospital
+Rank: 462
+
+*** Nan Fung Plaza 3 ***
+Height: 136.85
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 463
+
+*** Tierra Verde 9 ***
+Height: 136.6
+Floors: 48
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 464
+
+*** Larvotto Towers 8, 9, 10 ***
+Height: 136.6
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 465
+
+*** Metro City II Tower 1 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 10 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 11 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 2 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 3 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 4 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 5 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 6 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 7 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 8 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Metro City II Tower 9 ***
+Height: 136.5
+Floors: 44
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 466
+
+*** Wan Chai Tower ***
+Height: 136.5
+Floors: 32
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 477
+
+*** OLIV ***
+Height: 135.57
+Floors: 25
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: retail
+Rank: 478
+
+*** Top Glory Tower ***
+Height: 135.3
+Floors: 31
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 479
+
+*** Pacific View 1-5 ***
+Height: 135
+Floors: 47
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 480
+
+*** 9 Des Voeux Road West ***
+Height: 135
+Floors: 31
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 481
+
+*** Tierra Verde 7 ***
+Height: 133.8
+Floors: 47
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 482
+
+*** Tierra Verde 8 ***
+Height: 133.8
+Floors: 47
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 482
+
+*** One Chinachem Central ***
+Height: 133.55
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: office / retail
+Rank: 484
+
+*** Regence Royale Tower II ***
+Height: 133.2
+Floors: 39
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 485
+
+*** Regence Royale Tower I ***
+Height: 133
+Floors: 39
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 486
+
+*** Lai Tin House ***
+Height: 132.28
+Floors: 44
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 487
+
+*** Tai Tin House ***
+Height: 132.28
+Floors: 44
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 487
+
+*** Grand Hyatt Hong Kong ***
+Height: 132
+Floors: 46
+Status: Completed
+Completed: 1989
+Functions: hotel
+Rank: 489
+
+*** Queen's Terrace 3 ***
+Height: 131.98
+Floors: 41
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 490
+
+*** Best Western Hotel Harbour View ***
+Height: 131.67
+Floors: 34
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 491
+
+*** Guangdong Finance Centre ***
+Height: 131.4
+Floors: 31
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: office
+Rank: 492
+
+*** Queen's Terrace 2 ***
+Height: 131.37
+Floors: 45
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 493
+
+*** Mung Ching House ***
+Height: 131.37
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 494
+
+*** Sheung Ching House ***
+Height: 131.37
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 494
+
+*** Tierra Verde 6 ***
+Height: 131
+Floors: 46
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 496
+
+*** Discovery Park Tower 10 ***
+Height: 131
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 497
+
+*** Discovery Park Tower 11 ***
+Height: 131
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 497
+
+*** Discovery Park Tower 12 ***
+Height: 131
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 497
+
+*** Discovery Park Tower 13 ***
+Height: 131
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 497
+
+*** Discovery Park Tower 6 ***
+Height: 131
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 497
+
+*** Discovery Park Tower 7 ***
+Height: 131
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 497
+
+*** Discovery Park Tower 8 ***
+Height: 131
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 497
+
+*** Discovery Park Tower 9 ***
+Height: 131
+Floors: 44
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 497
+
+*** Bank of China Centre ***
+Height: 130.7
+Floors: 27
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 505
+
+*** LHT Tower ***
+Height: 130.55
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 506
+
+*** Verbena Heights 1-2 ***
+Height: 129.25
+Floors: 40
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 507
+
+*** Park Towers Two ***
+Height: 129
+Floors: 40
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 508
+
+*** The Gateway Tower 1 ***
+Height: 129
+Floors: 36
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 509
+
+*** The Gateway Tower 2 ***
+Height: 129
+Floors: 36
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 509
+
+*** The Gateway Tower 3 ***
+Height: 128.9
+Floors: 35
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 511
+
+*** The Gateway Tower 5 ***
+Height: 128.9
+Floors: 35
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 511
+
+*** The Gateway Tower 6 ***
+Height: 128.9
+Floors: 35
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 511
+
+*** Yau Lai Estate Cheuk Lai House ***
+Height: 128.84
+Floors: 41
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 514
+
+*** Yau Lai Estate Yung Lai House ***
+Height: 128.84
+Floors: 41
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 514
+
+*** Choi Man House-Yee Man House ***
+Height: 128.32
+Floors: 41
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 516
+
+*** The Pavilia Hill Tower 3 ***
+Height: 128.25
+Floors: 33
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 517
+
+*** The Pavilia Hill Tower 1 ***
+Height: 128.25
+Floors: 32
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 518
+
+*** The Pavilia Hill Tower 2 ***
+Height: 128.25
+Floors: 32
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 518
+
+*** The Pavilia Hill Tower 5 ***
+Height: 128.25
+Floors: 32
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 518
+
+*** The Pavilia Hill Tower 6 ***
+Height: 128.25
+Floors: 32
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 518
+
+*** Oi Chak House ***
+Height: 128.02
+Floors: 42
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 522
+
+*** Oi Ping House ***
+Height: 128.02
+Floors: 42
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 522
+
+*** King Man House ***
+Height: 127.71
+Floors: 41
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 524
+
+*** Sik Man House ***
+Height: 127.71
+Floors: 41
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 524
+
+*** Yat Man House ***
+Height: 127.71
+Floors: 41
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 524
+
+*** The Royal Court ***
+Height: 127.71
+Floors: 38
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 527
+
+*** Ching Chak House ***
+Height: 127.1
+Floors: 42
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 528
+
+*** Ching Chiu House ***
+Height: 127.1
+Floors: 42
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 528
+
+*** Ching Chung House ***
+Height: 127.1
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 528
+
+*** Ching Hin House ***
+Height: 127.1
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 528
+
+*** Ching Long House ***
+Height: 127.1
+Floors: 42
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 528
+
+*** Ching Ping House ***
+Height: 127.1
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 528
+
+*** Ching Yu House ***
+Height: 127.1
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 528
+
+*** Ching Yun House ***
+Height: 127.1
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 528
+
+*** Kwun Hei Court Block A ***
+Height: 127.1
+Floors: 41
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 536
+
+*** Hoi Yan House ***
+Height: 126.49
+Floors: 41
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 537
+
+*** Shing Tin House and Cheung Tin House ***
+Height: 126.19
+Floors: 42
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 538
+
+*** CITIC Tower ***
+Height: 126
+Floors: 33
+Status: Completed
+Started: 1996
+Completed: 1997
+Functions: office
+Rank: 539
+
+*** Lee Garden Two ***
+Height: 125.88
+Floors: 30
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 540
+
+*** H Queen's ***
+Height: 125.72
+Floors: 25
+Status: Completed
+Completed: 2017
+Functions: exhibition / retail
+Rank: 541
+
+*** Arsenal House West Wing ***
+Height: 125.7
+Floors: 35
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 542
+
+*** Central Government Offices ***
+Height: 125.5
+Status: Completed
+Completed: 2011
+Functions: government
+Rank: 543
+
+*** The Excelsior ***
+Height: 125.27
+Floors: 34
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 544
+
+*** Hong Ching House ***
+Height: 124.97
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 545
+
+*** Lok Ching House ***
+Height: 124.97
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 545
+
+*** Yan Ching House ***
+Height: 124.97
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 545
+
+*** CITÉ 33 ***
+Height: 124.66
+Floors: 32
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 548
+
+*** Tak Cheung House ***
+Height: 124.05
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 549
+
+*** Tak Kei House ***
+Height: 124.05
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 549
+
+*** Tak Loong House ***
+Height: 124.05
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 549
+
+*** Tak Shan House ***
+Height: 124.05
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 549
+
+*** Tak Sui House ***
+Height: 124.05
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 549
+
+*** Tak Ying House ***
+Height: 124.05
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 549
+
+*** Tak Yiu House ***
+Height: 124.05
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 549
+
+*** Tak Yu House ***
+Height: 124.05
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 549
+
+*** Verbena Heights 7 ***
+Height: 123.14
+Floors: 38
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 557
+
+*** Green Code Towers 1-2 ***
+Height: 123.14
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 558
+
+*** Green Code Towers 3 ***
+Height: 123.14
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 558
+
+*** Green Code Towers 5 ***
+Height: 123.14
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 558
+
+*** Oi Yat House ***
+Height: 122.83
+Floors: 42
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 561
+
+*** MOD 595 ***
+Height: 121.61
+Floors: 34
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 562
+
+*** Hung Yan House ***
+Height: 121.3
+Floors: 40
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 563
+
+*** Hung Yiu House ***
+Height: 121.3
+Floors: 40
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 563
+
+*** Forfar ***
+Height: 119.42
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 565
+
+*** Shui On Centre ***
+Height: 118.5
+Floors: 35
+Status: Completed
+Started: 1986
+Completed: 1987
+Functions: office
+Rank: 566
+
+*** Hung Yat House ***
+Height: 118.25
+Floors: 39
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 567
+
+*** Devon House ***
+Height: 118
+Floors: 29
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 568
+
+*** Yiu Fook House ***
+Height: 117.96
+Floors: 40
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 569
+
+*** Yiu Fu House ***
+Height: 117.96
+Floors: 40
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 569
+
+*** Yiu Lok House ***
+Height: 117.96
+Floors: 40
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 569
+
+*** Yiu Wah House ***
+Height: 117.96
+Floors: 40
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 569
+
+*** Fuk Lok House ***
+Height: 117.96
+Floors: 39
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 573
+
+*** Fuk On House ***
+Height: 117.96
+Floors: 39
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 573
+
+*** Hing Cho House ***
+Height: 117.65
+Floors: 39
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 575
+
+*** Hing Fung House ***
+Height: 117.65
+Floors: 39
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 575
+
+*** Hing Hong House ***
+Height: 117.65
+Floors: 39
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 575
+
+*** Tung Lam Court ***
+Height: 117.65
+Floors: 39
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 575
+
+*** Yuet Ching House ***
+Height: 117.35
+Floors: 36
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 579
+
+*** 33-49 Des Voeux Road West ***
+Height: 116
+Floors: 27
+Status: Completed
+Completed: 2018
+Functions: office / retail
+Rank: 580
+
+*** 99 Bonham ***
+Height: 115.52
+Floors: 32
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 581
+
+*** High Point ***
+Height: 114.61
+Floors: 32
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 582
+
+*** Hoi Ning House-Hoi Nam House ***
+Height: 114
+Floors: 36
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 583
+
+*** Hoi Wen House ***
+Height: 114
+Floors: 36
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 583
+
+*** Hotel ICON ***
+Height: 114
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: hotel / education
+Rank: 585
+
+*** Cubus Building ***
+Height: 113.35
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: retail
+Rank: 586
+
+*** Hotel Indigo Hong Kong Island ***
+Height: 112.75
+Floors: 29
+Status: Completed
+Completed: 2013
+Functions: hotel
+Rank: 587
+
+*** Chinese People`s Liberation Army Forces Hong Kong Building ***
+Height: 112.6
+Floors: 28
+Status: Completed
+Completed: 1979
+Functions: government
+Rank: 588
+
+*** Bedford 28 ***
+Height: 110.64
+Floors: 30
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 589
+
+*** Tak Pui House ***
+Height: 110.34
+Floors: 36
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 590
+
+*** The Avenue Phase 1, T5 ***
+Height: 109.8
+Floors: 30
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 591
+
+*** Tregunter Tower 1 ***
+Height: 109.75
+Floors: 34
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 592
+
+*** Tregunter Tower 2 ***
+Height: 109.75
+Floors: 34
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 592
+
+*** Pearl City Mansion ***
+Height: 109
+Floors: 34
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 594
+
+*** Cheung Chi House ***
+Height: 107.9
+Floors: 36
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 595
+
+*** Cheung Tak House ***
+Height: 107.9
+Floors: 36
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 595
+
+*** Tuen Mun Town Plaza Block 8 ***
+Height: 107.59
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 597
+
+*** Academic 3, City University of Hong Kong ***
+Height: 107.35
+Floors: 19
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: education
+Rank: 598
+
+*** Lincoln House ***
+Height: 106.38
+Floors: 24
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 599
+
+*** Kwun Tong 223 ***
+Height: 105.35
+Floors: 22
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 600
+
+*** Dragon Pride ***
+Height: 105.16
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 601
+
+*** Cityplaza 1 ***
+Height: 105.16
+Floors: 27
+Status: Completed
+Functions: office / retail
+Rank: 602
+
+*** The Beacon ***
+Height: 104.5
+Floors: 29
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 603
+
+*** SKYPARK ***
+Height: 104.05
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / retail
+Rank: 604
+
+*** J Hotel @ Jervois Street ***
+Height: 102
+Floors: 29
+Status: Completed
+Started: 2010
+Completed: 2011
+Functions: hotel
+Rank: 605
+
+*** Oi Yuk House ***
+Height: 100.58
+Floors: 32
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 606
+
+*** Hung Sing House ***
+Height: 99
+Floors: 30
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 607
+
+*** Southern Lodge ***
+Height: 96.01
+Floors: 29
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 608
+
+*** Trade and Industry Tower ***
+Height: 95.4
+Floors: 22
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 609
+
+*** Lee Garden Five ***
+Height: 94.79
+Floors: 25
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 610
+
+*** THE MOOD Lyndhurst ***
+Height: 94.67
+Floors: 24
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: hotel
+Rank: 611
+
+*** Wan Tin House ***
+Height: 94.49
+Floors: 31
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 612
+
+*** M+ ***
+Height: 94.36
+Floors: 20
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: Museum
+Rank: 613
+
+*** Hong Kong Poly Technic University Community College, Hung Hom Campus ***
+Height: 93.6
+Floors: 19
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: education
+Rank: 614
+
+*** Cornwall House ***
+Height: 92.67
+Floors: 22
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 615
+
+*** Best Western Hotel Tsim Sha Tsui ***
+Height: 92.35
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 616
+
+*** Warwick House ***
+Height: 90.22
+Floors: 20
+Status: Completed
+Functions: office
+Rank: 617
+
+*** 100 Queens Road Central ***
+Height: 90
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: office
+Rank: 618
+
+*** The Lily Repulse Bay ***
+Height: 89.5
+Floors: 28
+Status: Completed
+Completed: 2005
+Functions: hotel
+Rank: 619
+
+*** The Murray ***
+Height: 89
+Floors: 27
+Status: Completed
+Completed: 1970
+Functions: government
+Rank: 620
+
+*** The Hong Kong Club Building ***
+Height: 87.41
+Floors: 23
+Status: Completed
+Started: 1980
+Completed: 1984
+Functions: office
+Rank: 621
+
+*** Banyan Mansion ***
+Height: 86.56
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 622
+
+*** Kin On Mansion ***
+Height: 86.56
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 622
+
+*** Ko On Mansion ***
+Height: 86.56
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 622
+
+*** Pine Mansion ***
+Height: 86.56
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 622
+
+*** Hing On Mansion ***
+Height: 84.73
+Floors: 31
+Status: Completed
+Functions: residential
+Rank: 626
+
+*** Ning On Mansion ***
+Height: 84.73
+Floors: 31
+Status: Completed
+Functions: residential
+Rank: 626
+
+*** Po On Mansion ***
+Height: 84.73
+Floors: 31
+Status: Completed
+Functions: residential
+Rank: 626
+
+*** Shun On Mansion ***
+Height: 84.73
+Floors: 31
+Status: Completed
+Functions: residential
+Rank: 626
+
+*** Oi Sin House ***
+Height: 84.73
+Floors: 22
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 630
+
+*** Leighton Centre ***
+Height: 84.43
+Floors: 23
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 631
+
+*** Ruttenjee Hospital ***
+Height: 83.82
+Floors: 13
+Status: Completed
+Functions: hospital
+Rank: 632
+
+*** ICAC Headquarters Building ***
+Height: 83
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 633
+
+*** Fuk Tai House ***
+Height: 82.91
+Floors: 28
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 634
+
+*** Lee Garden Six ***
+Height: 82.6
+Floors: 23
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 635
+
+*** Cityplaza 4 ***
+Height: 82.6
+Floors: 21
+Status: Completed
+Functions: office
+Rank: 636
+
+*** One Hysan Avenue ***
+Height: 82.3
+Floors: 24
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 637
+
+*** Cityplaza 3 ***
+Height: 81.99
+Floors: 21
+Status: Completed
+Functions: office
+Rank: 638
+
+*** Prince of Wales Hospital ***
+Height: 81.99
+Floors: 14
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hospital
+Rank: 639
+
+*** Yiu Hing House ***
+Height: 81.69
+Floors: 27
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 640
+
+*** Mount Parker Residences ***
+Height: 81.55
+Floors: 21
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 641
+
+*** Foong Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Fu Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Fu Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Heng Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Kam Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Loong Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Lu Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Nan Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Po Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Tai Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Tien Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Tung Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Wah Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Yee Shan Mansion ***
+Height: 81.08
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 642
+
+*** Begonia Mansion ***
+Height: 80.77
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 656
+
+*** Lotus Mansion ***
+Height: 80.77
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 656
+
+*** Marigold Mansion ***
+Height: 80.77
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 656
+
+*** Nam Hoi Mansion ***
+Height: 80.77
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 656
+
+*** Pak Hoi Mansion ***
+Height: 80.77
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 656
+
+*** Primrose Mansion ***
+Height: 80.77
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 656
+
+*** Tung Hoi Mansion ***
+Height: 80.77
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 656
+
+*** Wisteria Mansion ***
+Height: 80.77
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 656
+
+*** Po Yang Mansion ***
+Height: 80.77
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 664
+
+*** Tai Woo Mansion ***
+Height: 80.77
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 664
+
+*** Tung Ting Mansion ***
+Height: 80.77
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 664
+
+*** Juniper Mansion ***
+Height: 80.47
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 667
+
+*** Maple Mansion ***
+Height: 80.47
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 667
+
+*** Oak Mansion ***
+Height: 80.47
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 667
+
+*** Willow Mansion ***
+Height: 80.47
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 667
+
+*** Cheung King-Cheung Shun House ***
+Height: 80.47
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 671
+
+*** Cheung Lok-Cheung Wo House ***
+Height: 80.47
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 671
+
+*** Cheung Yue-Cheung Fung House ***
+Height: 80.47
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 671
+
+*** Choi Wah House ***
+Height: 80.47
+Floors: 28
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 671
+
+*** Choi Wu House ***
+Height: 80.47
+Floors: 28
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 671
+
+*** Chi Sing Mansion ***
+Height: 80.16
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 676
+
+*** Hang Sing Mansion ***
+Height: 80.16
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 676
+
+*** Hoi Sing Mansion ***
+Height: 80.16
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 676
+
+*** Kam Sing Mansion ***
+Height: 80.16
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 676
+
+*** Ngan Sing Mansion ***
+Height: 80.16
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 676
+
+*** Tien Sing Mansion ***
+Height: 80.16
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 676
+
+*** Wai Sing Mansion ***
+Height: 80.16
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 676
+
+*** Yiu Sing Mansion ***
+Height: 80.16
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 676
+
+*** Choi Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** Fu Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** Heng Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** Hoi Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** Kai Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** King Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** Kwan Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** Nam Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** Yat Tien Mansion ***
+Height: 79.55
+Floors: 27
+Status: Completed
+Functions: residential
+Rank: 684
+
+*** Chai Kung Mansion ***
+Height: 79.25
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 693
+
+*** Han Kung Mansion ***
+Height: 79.25
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 693
+
+*** Hsia Kung Mansion ***
+Height: 79.25
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 693
+
+*** Ming Kung Mansion ***
+Height: 79.25
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 693
+
+*** Tang Kung Mansion ***
+Height: 79.25
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 693
+
+*** Tsui Kung Mansion ***
+Height: 79.25
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 693
+
+*** Yen Kung Mansion ***
+Height: 79.25
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 693
+
+*** Yuan Kung Mansion ***
+Height: 79.25
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 693
+
+*** Dragon View Garden ***
+Height: 78.03
+Floors: 26
+Status: Completed
+Functions: residential
+Rank: 701
+
+*** Oi Po House ***
+Height: 78.03
+Floors: 21
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 702
+
+*** PolyU West Kowloon Campus ***
+Height: 78
+Floors: 19
+Status: Completed
+Completed: 2001
+Functions: education
+Rank: 703
+
+*** St. John's Building ***
+Height: 78
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: office
+Rank: 704

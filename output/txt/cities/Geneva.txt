@@ -1,0 +1,31 @@
+*** Geneva (2) ***
+1. Cite du Lignon Large Tower, 91m
+2. Cite du Lignon Small Tower, 78m
+
+******************** DETAILS ********************
+
+*** Geneva ***
+Country: Switzerland
+Region: Europe
+2 towers: Cite du Lignon Large Tower, Cite du Lignon Small Tower
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cite du Lignon Large Tower ***
+Height: 90.83
+Floors: 31
+Status: Completed
+Started: 1962
+Completed: 1968
+Functions: residential
+Rank: 1
+
+*** Cite du Lignon Small Tower ***
+Height: 77.72
+Floors: 28
+Status: Completed
+Started: 1962
+Completed: 1968
+Functions: residential
+Rank: 2

@@ -1,0 +1,48 @@
+*** Mobile (11) ***
+1. RSA Battle House Tower, 227m
+2. RSA&ndash;BankTrust Building, 129m
+3. Renaissance Mobile Riverview Plaza Hotel, 114m
+4. Mobile Marriott Hotel, 99m
+
+******************** DETAILS ********************
+
+*** Mobile ***
+Country: United States
+Region: North America
+4 towers: RSA Battle House Tower, RSA&ndash;BankTrust Building, Renaissance Mobile Riverview Plaza Hotel, Mobile Marriott Hotel
+Tiers: I: 1, II: 2, IV: 1
+Rating: 11
+Scraped on: 2019-Jan-20 16:05:17
+
+*** RSA Battle House Tower ***
+Height: 227.08
+Floors: 35
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: office
+Rank: 1
+
+*** RSA&ndash;BankTrust Building ***
+Height: 129.24
+Floors: 34
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 2
+
+*** Renaissance Mobile Riverview Plaza Hotel ***
+Height: 114
+Floors: 28
+Status: Completed
+Completed: 1983
+Functions: hotel
+Rank: 3
+
+*** Mobile Marriott Hotel ***
+Height: 99.06
+Floors: 20
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 4

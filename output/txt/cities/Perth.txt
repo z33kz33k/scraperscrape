@@ -1,0 +1,497 @@
+*** Perth (85) ***
+1.  Central Park Tower, 249m
+2.  Brookfield Place, 234m
+3.  BankWest Tower, 214m
+4.  QV1 Tower, 163m
+5.  Kings Square VI Tower A, 162m
+6.  David Malcolm Justice Centre, 149m
+7.  Exchange Plaza, 146m
+8.  Kings Square VI Tower B, 144m
+9.  St. Martins Tower, 140m
+10. Woodside Plaza, 137m
+11. Allendale Square, 132m
+12. AMP Building, 131m
+13. Capital Square (Office Tower), 130m
+14. Equus, 110m
+15. Forrest Centre, 110m
+16. Governor Stirling Tower, 110m
+17. Westin Hotel, 107m
+18. Ritz Carlton Hotel, 106m
+19. Raine Square, 106m
+20. Crown Towers Perth, 105m
+21. Elevation Tower, 103m
+22. 100 St. George's Terrace, 103m
+23. Fairlanes, 98m
+24. The Towers @ Elizabeth Quay, 96m
+25. QIII, 95m
+26. Telstra Exchange, 95m
+27. Rise Apartments, 94m
+28. 140 William Street, 92m
+29. Alluvion, 92m
+30. Pan Pacific Perth Hotel, 90m
+31. Kings Square V, 90m
+32. Condor Tower, 88m
+33. Kings Square I, 88m
+34. Westralia Square, 87m
+35. St Georges Square, 85m
+36. Brookfield Place Tower 2, 83m
+37. GSA Student Housing , 83m
+38. Westpac Building, 82m
+39. Reflections Tower 1, 80m
+40. Reflections Tower 2, 80m
+41. Parmelia House, 80m
+42. Zenith City Centro, 80m
+43. QBE House, 78m
+44. Strathearn Tower, 76m
+45. Fraser Suites Perth, 76m
+46. The Quadrant, 76m
+47. Adagio, 76m
+48. Cirque Apartments , 75m
+49. One Eleven, 75m
+50. London House, 75m
+
+******************** DETAILS ********************
+
+*** Perth ***
+Country: Australia
+Region: Oceania
+50 towers: Central Park Tower, Brookfield Place, BankWest Tower, QV1 Tower, Kings Square VI Tower A, David Malcolm Justice Centre, Exchange Plaza, Kings Square VI Tower B, St. Martins Tower, Woodside Plaza, Allendale Square, AMP Building, Capital Square (Office Tower), Equus, Forrest Centre, Governor Stirling Tower, Westin Hotel, Ritz Carlton Hotel, Raine Square, Crown Towers Perth, Elevation Tower, 100 St. George's Terrace, Fairlanes, The Towers @ Elizabeth Quay, QIII, Telstra Exchange, Rise Apartments, 140 William Street, Alluvion, Pan Pacific Perth Hotel, Kings Square V, Condor Tower, Kings Square I, Westralia Square, St Georges Square, Brookfield Place Tower 2, GSA Student Housing , Westpac Building, Reflections Tower 1, Reflections Tower 2, Parmelia House, Zenith City Centro, QBE House, Strathearn Tower, Fraser Suites Perth, The Quadrant, Adagio, Cirque Apartments , One Eleven, London House
+Tiers: I: 31, II: 14, III: 2, IV: 3
+Rating: 85 (11.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Central Park Tower ***
+Height: 249
+Floors: 52
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 1
+
+*** Brookfield Place ***
+Height: 234.4
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 2
+
+*** BankWest Tower ***
+Height: 214
+Floors: 52
+Status: Completed
+Started: 1985
+Completed: 1988
+Functions: office
+Rank: 3
+
+*** QV1 Tower ***
+Height: 162.55
+Floors: 38
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 4
+
+*** Kings Square VI Tower A ***
+Height: 162
+Floors: 49
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 5
+
+*** David Malcolm Justice Centre ***
+Height: 149
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / government
+Rank: 6
+
+*** Exchange Plaza ***
+Height: 146
+Floors: 40
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 7
+
+*** Kings Square VI Tower B ***
+Height: 144
+Floors: 43
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 8
+
+*** St. Martins Tower ***
+Height: 140
+Floors: 33
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 9
+
+*** Woodside Plaza ***
+Height: 137
+Floors: 28
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 10
+
+*** Allendale Square ***
+Height: 132
+Floors: 31
+Status: Completed
+Started: 1975
+Completed: 1977
+Functions: office
+Rank: 11
+
+*** AMP Building ***
+Height: 131
+Floors: 30
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: office
+Rank: 12
+
+*** Capital Square (Office Tower) ***
+Height: 130
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 13
+
+*** Equus ***
+Height: 110.5
+Floors: 27
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential / office
+Rank: 14
+
+*** Forrest Centre ***
+Height: 110
+Floors: 30
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 15
+
+*** Governor Stirling Tower ***
+Height: 110
+Floors: 28
+Status: Completed
+Started: 1976
+Completed: 1978
+Functions: office
+Rank: 16
+
+*** Westin Hotel ***
+Height: 107
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: hotel
+Rank: 17
+
+*** Ritz Carlton Hotel ***
+Height: 106
+Floors: 28
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: hotel
+Rank: 18
+
+*** Raine Square ***
+Height: 106
+Floors: 24
+Status: Completed
+Started: 2010
+Completed: 2011
+Functions: office / retail
+Rank: 19
+
+*** Crown Towers Perth ***
+Height: 105
+Floors: 21
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: hotel
+Rank: 20
+
+*** Elevation Tower ***
+Height: 103
+Floors: 30
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 21
+
+*** 100 St. George's Terrace ***
+Height: 103
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office / retail
+Rank: 22
+
+*** Fairlanes ***
+Height: 98
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office / residential
+Rank: 23
+
+*** The Towers @ Elizabeth Quay ***
+Height: 96
+Floors: 23
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 24
+
+*** QIII ***
+Height: 95
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 25
+
+*** Telstra Exchange ***
+Height: 95
+Floors: 17
+Status: Completed
+Started: 1977
+Completed: 1979
+Functions: telecommunications
+Rank: 26
+
+*** Rise Apartments ***
+Height: 94
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 27
+
+*** 140 William Street ***
+Height: 92
+Floors: 20
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office / retail
+Rank: 28
+
+*** Alluvion ***
+Height: 92
+Floors: 20
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 28
+
+*** Pan Pacific Perth Hotel ***
+Height: 90
+Floors: 24
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: hotel
+Rank: 30
+
+*** Kings Square V ***
+Height: 90
+Floors: 20
+Status: Under Construction
+Started: 2018
+Functions: office
+Rank: 31
+
+*** Condor Tower ***
+Height: 88
+Floors: 26
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 32
+
+*** Kings Square I ***
+Height: 88
+Floors: 19
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office / retail
+Rank: 33
+
+*** Westralia Square ***
+Height: 87.4
+Floors: 19
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 34
+
+*** St Georges Square ***
+Height: 85
+Floors: 20
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office / retail
+Rank: 35
+
+*** Brookfield Place Tower 2 ***
+Height: 83
+Floors: 18
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 36
+
+*** GSA Student Housing  ***
+Height: 82.6
+Floors: 23
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 37
+
+*** Westpac Building ***
+Height: 82
+Floors: 20
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 38
+
+*** Reflections Tower 1 ***
+Height: 80
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: residential
+Rank: 39
+
+*** Reflections Tower 2 ***
+Height: 80
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: residential
+Rank: 39
+
+*** Parmelia House ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 1971
+Functions: office / retail
+Rank: 41
+
+*** Zenith City Centro ***
+Height: 79.86
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 42
+
+*** QBE House ***
+Height: 78
+Floors: 19
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 43
+
+*** Strathearn Tower ***
+Height: 76
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 44
+
+*** Fraser Suites Perth ***
+Height: 76
+Floors: 22
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: serviced apartments
+Rank: 45
+
+*** The Quadrant ***
+Height: 76
+Floors: 21
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 46
+
+*** Adagio ***
+Height: 75.9
+Floors: 23
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 47
+
+*** Cirque Apartments  ***
+Height: 75
+Floors: 20
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 48
+
+*** One Eleven ***
+Height: 75
+Floors: 20
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 48
+
+*** London House ***
+Height: 75
+Floors: 18
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 50

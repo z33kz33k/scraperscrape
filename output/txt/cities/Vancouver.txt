@@ -1,0 +1,1521 @@
+*** Vancouver (218) ***
+1.   Shangri-La Vancouver, 201m
+2.   Trump International Hotel & Tower Vancouver, 188m
+3.   One Burrard Place, 168m
+4.   TELUS Garden Residential Tower, 167m
+5.   Hotel Georgia, 158m
+6.   Vancouver House, 150m
+7.   One Wall Centre, 150m
+8.   Shaw Tower, 149m
+9.   Harbour Centre, 147m
+10.  MNP Tower, 143m
+11.  The Melville, 141m
+12.  Royal Centre, 141m
+13.  Fairmont Pacific Rim Vancouver, 140m
+14.  Bentall 5, 140m
+15.  Park Place, 140m
+16.  200 Granville Square, 138m
+17.  Four Bentall Centre, 138m
+18.  Scotia Tower, 138m
+19.  Three Harbour Green, 130m
+20.  Patina, 127m
+21.  Toronto Dominion Tower, 127m
+22.  Capitol Residences, 126m
+23.  The Charleston, 125m
+24.  The Mark, 123m
+25.  Woodward's 43, 122m
+26.  Bank of Montreal, 122m
+27.  Jameson House, 119m
+28.  The Ritz Coal Harbour, 118m
+29.  West One, 117m
+30.  Cathedral Place, 116m
+31.  The Pinnacle, 115m
+32.  Tate Downtown, 114m
+33.  Marriott Pinnacle Hotel, 114m
+34.  The Exchange, 114m
+35.  West Pender Place, 113m
+36.  Sheraton Wall Centre Hotel West Tower, 111m
+37.  Fairmont Hotel Vancouver, 111m
+38.  Venus, 109m
+39.  Quay West Tower I, 109m
+40.  Hyatt Regency Vancouver, 109m
+41.  Residences on Georgia West, 108m
+42.  Marine Gateway North Residential, 107m
+43.  Callisto, 106m
+44.  Dolce, 106m
+45.  Residences on Georgia East, 106m
+46.  Landmark 33, 106m
+47.  Two Harbour Green, 105m
+48.  1177 West Hastings, 104m
+49.  Oceanic Plaza, 104m
+50.  1075 West Georgia, 104m
+51.  Elan, 103m
+52.  Fortis BC, 101m
+53.  Paris Place, 100m
+54.  HSBC Building, 100m
+55.  Canaccord Tower, 100m
+56.  Coast Plaza Hotel & Suites, 100m
+57.  Carmana Plaza, 100m
+58.  Guinness Tower, 100m
+59.  Classico, 100m
+60.  The Palisades East, 100m
+61.  Escala, 99m
+62.  Terminal City Club Tower, 99m
+63.  Aquarius I, 99m
+64.  The Beasley, 99m
+65.  Marine Building, 98m
+66.  The Maddox, 97m
+67.  Pointe Claire, 97m
+68.  The Sapphire, 97m
+69.  The 501, 97m
+70.  Beach Tower, 97m
+71.  Brava South, 96m
+72.  Grace Residences, 96m
+73.  193 Aquarius Mews, 96m
+74.  Azura II, 95m
+75.  Sheraton Wall Center Hotel East Tower, 95m
+76.  Emerald West, 95m
+77.  Palais Georgia, 95m
+78.  Azura I, 94m
+79.  Salt, 94m
+80.  Citygate, 94m
+81.  The Lions I, 94m
+82.  401 West Georgia, 94m
+83.  Manulife Place, 94m
+84.  Metropolitan Towers North, 93m
+85.  The Four Seasons, 93m
+86.  Nelson Square, 93m
+87.  The Max at Sector I, 92m
+88.  The Grosvenor Building, 92m
+89.  Waterfront Centre, 92m
+90.  Cielo, 91m
+91.  Pomaria, 91m
+92.  Flatiron, 91m
+93.  745 Thurlow, 91m
+94.  Atelier, 91m
+95.  The Canadian, 91m
+96.  Jim Pattison Pavilion, 91m
+97.  Martello Tower, 91m
+98.  Aquarius II, 91m
+99.  1500 Alberni, 90m
+100. Alvar, 90m
+101. Vita, 90m
+102. TELUS Garden Office Tower, 89m
+103. 1050 West Pender, 89m
+104. Vancouver Tower, 88m
+105. Commerce Place, 88m
+106. Residences at Conference Plaza, 88m
+107. The Arc, 88m
+108. Electra, 88m
+109. The Bayview, 88m
+110. Mondrian II, 87m
+111. Viceroy II, 87m
+112. Metropolis, 87m
+113. Yaletown Park I, 86m
+114. Blue Horizon Hotel, 86m
+115. C-Side, 86m
+116. Viceroy, 86m
+117. Bentall One, 86m
+118. The Savoy, 85m
+119. City Crest, 85m
+120. Harbourside Park I, 85m
+121. Harbourside Park II, 85m
+122. 1500 West Georgia, 85m
+123. Douglas Jung Building, 85m
+124. The Lions II, 85m
+125. Royal Bank Building, 85m
+126. Library Square, 84m
+127. Sunset Plaza, 84m
+128. Sun Tower, 84m
+129. The Pointe, 84m
+130. 889 Homer Street, 84m
+131. The Imperial Towers, 83m
+132. PricewaterhouseCoopers Place, 83m
+133. 777 Hornby, 83m
+134. AXA Centre, 83m
+135. 1188 Howe, 83m
+136. Coopers Lookout, 82m
+137. Century Plaza Hotel, 82m
+138. Waterford, 82m
+139. Bayshore Outlook, 82m
+140. Qube, 82m
+141. Space, 81m
+142. BC Hydro Centre, 81m
+143. HSBC Tower, 80m
+144. One Harbour Green, 80m
+145. King's Landing West, 80m
+146. Panorama Place, 79m
+147. Domus, 79m
+148. Brava North, 79m
+149. Frank Stanzl Building, 79m
+150. Burrard Building, 78m
+151. Marine Gateway Office, 78m
+152. 701 West Georgia, 78m
+153. Carina, 77m
+154. Quay West Tower II, 76m
+155. 1000 Beach, 76m
+156. Columbia Place, 76m
+157. Bentall Two, 76m
+158. Bauhinia, 76m
+159. The Palisades West, 76m
+160. The Eden, 75m
+
+******************** DETAILS ********************
+
+*** Vancouver ***
+Country: Canada
+Region: North America
+160 towers: Shangri-La Vancouver, Trump International Hotel & Tower Vancouver, One Burrard Place, TELUS Garden Residential Tower, Hotel Georgia, Vancouver House, One Wall Centre, Shaw Tower, Harbour Centre, MNP Tower, The Melville, Royal Centre, Fairmont Pacific Rim Vancouver, Bentall 5, Park Place, 200 Granville Square, Four Bentall Centre, Scotia Tower, Three Harbour Green, Patina, Toronto Dominion Tower, Capitol Residences, The Charleston, The Mark, Woodward's 43, Bank of Montreal, Jameson House, The Ritz Coal Harbour, West One, Cathedral Place, The Pinnacle, Tate Downtown, Marriott Pinnacle Hotel, The Exchange, West Pender Place, Sheraton Wall Centre Hotel West Tower, Fairmont Hotel Vancouver, Venus, Quay West Tower I, Hyatt Regency Vancouver, Residences on Georgia West, Marine Gateway North Residential, Callisto, Dolce, Residences on Georgia East, Landmark 33, Two Harbour Green, 1177 West Hastings, Oceanic Plaza, 1075 West Georgia, Elan, Fortis BC, Paris Place, HSBC Building, Canaccord Tower, Coast Plaza Hotel & Suites, Carmana Plaza, Guinness Tower, Classico, The Palisades East, Escala, Terminal City Club Tower, Aquarius I, The Beasley, Marine Building, The Maddox, Pointe Claire, The Sapphire, The 501, Beach Tower, Brava South, Grace Residences, 193 Aquarius Mews, Azura II, Sheraton Wall Center Hotel East Tower, Emerald West, Palais Georgia, Azura I, Salt, Citygate, The Lions I, 401 West Georgia, Manulife Place, Metropolitan Towers North, The Four Seasons, Nelson Square, The Max at Sector I, The Grosvenor Building, Waterfront Centre, Cielo, Pomaria, Flatiron, 745 Thurlow, Atelier, The Canadian, Jim Pattison Pavilion, Martello Tower, Aquarius II, 1500 Alberni, Alvar, Vita, TELUS Garden Office Tower, 1050 West Pender, Vancouver Tower, Commerce Place, Residences at Conference Plaza, The Arc, Electra, The Bayview, Mondrian II, Viceroy II, Metropolis, Yaletown Park I, Blue Horizon Hotel, C-Side, Viceroy, Bentall One, The Savoy, City Crest, Harbourside Park I, Harbourside Park II, 1500 West Georgia, Douglas Jung Building, The Lions II, Royal Bank Building, Library Square, Sunset Plaza, Sun Tower, The Pointe, 889 Homer Street, The Imperial Towers, PricewaterhouseCoopers Place, 777 Hornby, AXA Centre, 1188 Howe, Coopers Lookout, Century Plaza Hotel, Waterford, Bayshore Outlook, Qube, Space, BC Hydro Centre, HSBC Tower, One Harbour Green, King's Landing West, Panorama Place, Domus, Brava North, Frank Stanzl Building, Burrard Building, Marine Gateway Office, 701 West Georgia, Carina, Quay West Tower II, 1000 Beach, Columbia Place, Bentall Two, Bauhinia, The Palisades West, The Eden
+Tiers: I: 114, II: 40, III: 6
+Rating: 218 (5.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shangri-La Vancouver ***
+Height: 200.86
+Floors: 59
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / hotel / office
+Rank: 1
+
+*** Trump International Hotel & Tower Vancouver ***
+Height: 187.76
+Floors: 63
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel / residential
+Rank: 2
+
+*** One Burrard Place ***
+Height: 168
+Floors: 54
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 3
+
+*** TELUS Garden Residential Tower ***
+Height: 167
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 4
+
+*** Hotel Georgia ***
+Height: 158.45
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential / hotel
+Rank: 5
+
+*** Vancouver House ***
+Height: 150.25
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 6
+
+*** One Wall Centre ***
+Height: 149.8
+Floors: 48
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential / hotel
+Rank: 7
+
+*** Shaw Tower ***
+Height: 149.02
+Floors: 41
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential / office
+Rank: 8
+
+*** Harbour Centre ***
+Height: 147
+Floors: 28
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 9
+
+*** MNP Tower ***
+Height: 143.05
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 10
+
+*** The Melville ***
+Height: 141.4
+Floors: 41
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 11
+
+*** Royal Centre ***
+Height: 141
+Floors: 37
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 12
+
+*** Fairmont Pacific Rim Vancouver ***
+Height: 140.31
+Floors: 46
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / hotel
+Rank: 13
+
+*** Bentall 5 ***
+Height: 140.06
+Floors: 34
+Status: Completed
+Started: 2001
+Completed: 2007
+Functions: office
+Rank: 14
+
+*** Park Place ***
+Height: 140
+Floors: 35
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 15
+
+*** 200 Granville Square ***
+Height: 138.4
+Floors: 30
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: office
+Rank: 16
+
+*** Four Bentall Centre ***
+Height: 138
+Floors: 35
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 17
+
+*** Scotia Tower ***
+Height: 138
+Floors: 35
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 17
+
+*** Three Harbour Green ***
+Height: 129.95
+Floors: 33
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 19
+
+*** Patina ***
+Height: 127.4
+Floors: 42
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 20
+
+*** Toronto Dominion Tower ***
+Height: 127.1
+Floors: 30
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: office
+Rank: 21
+
+*** Capitol Residences ***
+Height: 126.2
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 22
+
+*** The Charleston ***
+Height: 125.22
+Floors: 42
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 23
+
+*** The Mark ***
+Height: 123.4
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 24
+
+*** Woodward's 43 ***
+Height: 122.28
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 25
+
+*** Bank of Montreal ***
+Height: 121.9
+Floors: 32
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 26
+
+*** Jameson House ***
+Height: 118.6
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / office
+Rank: 27
+
+*** The Ritz Coal Harbour ***
+Height: 118.3
+Floors: 37
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 28
+
+*** West One ***
+Height: 117
+Floors: 38
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 29
+
+*** Cathedral Place ***
+Height: 116.4
+Floors: 23
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 30
+
+*** The Pinnacle ***
+Height: 114.9
+Floors: 34
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 31
+
+*** Tate Downtown ***
+Height: 114.3
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 32
+
+*** Marriott Pinnacle Hotel ***
+Height: 114.3
+Floors: 36
+Status: Completed
+Completed: 2000
+Functions: residential / hotel
+Rank: 33
+
+*** The Exchange ***
+Height: 114.3
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 34
+
+*** West Pender Place ***
+Height: 112.78
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential / retail
+Rank: 35
+
+*** Sheraton Wall Centre Hotel West Tower ***
+Height: 110.9
+Floors: 35
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 36
+
+*** Fairmont Hotel Vancouver ***
+Height: 110.6
+Floors: 17
+Status: Completed
+Started: 1929
+Completed: 1939
+Functions: hotel
+Rank: 37
+
+*** Venus ***
+Height: 109.4
+Floors: 34
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 38
+
+*** Quay West Tower I ***
+Height: 109.1
+Floors: 34
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 39
+
+*** Hyatt Regency Vancouver ***
+Height: 108.8
+Floors: 34
+Status: Completed
+Completed: 1973
+Functions: hotel
+Rank: 40
+
+*** Residences on Georgia West ***
+Height: 108
+Floors: 36
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 41
+
+*** Marine Gateway North Residential ***
+Height: 107
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 42
+
+*** Callisto ***
+Height: 106.1
+Floors: 35
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 43
+
+*** Dolce ***
+Height: 106.1
+Floors: 31
+Status: Completed
+Completed: 2010
+Functions: residential / retail
+Rank: 44
+
+*** Residences on Georgia East ***
+Height: 106
+Floors: 36
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 45
+
+*** Landmark 33 ***
+Height: 106
+Floors: 35
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: residential
+Rank: 46
+
+*** Two Harbour Green ***
+Height: 105.1
+Floors: 31
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 47
+
+*** 1177 West Hastings ***
+Height: 104.2
+Floors: 27
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 48
+
+*** Oceanic Plaza ***
+Height: 104.2
+Floors: 26
+Status: Completed
+Started: 1975
+Completed: 1977
+Functions: office
+Rank: 49
+
+*** 1075 West Georgia ***
+Height: 103.6
+Floors: 27
+Status: Completed
+Started: 1966
+Completed: 1968
+Functions: office
+Rank: 50
+
+*** Elan ***
+Height: 102.7
+Floors: 34
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 51
+
+*** Fortis BC ***
+Height: 101.2
+Floors: 24
+Status: Completed
+Started: 1991
+Completed: 1992
+Functions: office
+Rank: 52
+
+*** Paris Place ***
+Height: 100.5
+Floors: 33
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 53
+
+*** HSBC Building ***
+Height: 100.5
+Floors: 23
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: office
+Rank: 54
+
+*** Canaccord Tower ***
+Height: 100.3
+Floors: 24
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 55
+
+*** Coast Plaza Hotel & Suites ***
+Height: 100.2
+Floors: 32
+Status: Completed
+Completed: 1969
+Functions: hotel
+Rank: 56
+
+*** Carmana Plaza ***
+Height: 100
+Floors: 34
+Status: Completed
+Completed: 1999
+Functions: residential / hotel
+Rank: 57
+
+*** Guinness Tower ***
+Height: 100
+Floors: 25
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: office
+Rank: 58
+
+*** Classico ***
+Height: 99.7
+Floors: 35
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 59
+
+*** The Palisades East ***
+Height: 99.7
+Floors: 32
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 60
+
+*** Escala ***
+Height: 99.4
+Floors: 26
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 61
+
+*** Terminal City Club Tower ***
+Height: 99
+Floors: 30
+Status: Completed
+Completed: 1998
+Functions: hotel / residential
+Rank: 62
+
+*** Aquarius I ***
+Height: 98.8
+Floors: 33
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 63
+
+*** The Beasley ***
+Height: 98.7
+Floors: 34
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential / office
+Rank: 64
+
+*** Marine Building ***
+Height: 97.8
+Floors: 21
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: office / retail
+Rank: 65
+
+*** The Maddox ***
+Height: 97.25
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 66
+
+*** Pointe Claire ***
+Height: 97.2
+Floors: 35
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 67
+
+*** The Sapphire ***
+Height: 96.9
+Floors: 34
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 68
+
+*** The 501 ***
+Height: 96.9
+Floors: 33
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 69
+
+*** Beach Tower ***
+Height: 96.9
+Floors: 31
+Status: Completed
+Started: 1991
+Completed: 1992
+Functions: residential
+Rank: 70
+
+*** Brava South ***
+Height: 96.3
+Floors: 33
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 71
+
+*** Grace Residences ***
+Height: 95.7
+Floors: 27
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 72
+
+*** 193 Aquarius Mews ***
+Height: 95.5
+Floors: 32
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 73
+
+*** Azura II ***
+Height: 95.1
+Floors: 33
+Status: Completed
+Completed: 2004
+Functions: residential / retail
+Rank: 74
+
+*** Sheraton Wall Center Hotel East Tower ***
+Height: 95.1
+Floors: 30
+Status: Completed
+Completed: 1995
+Functions: hotel
+Rank: 75
+
+*** Emerald West ***
+Height: 95
+Floors: 33
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 76
+
+*** Palais Georgia ***
+Height: 95
+Floors: 28
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 77
+
+*** Azura I ***
+Height: 94.2
+Floors: 33
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 78
+
+*** Salt ***
+Height: 94.2
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 79
+
+*** Citygate ***
+Height: 93.9
+Floors: 30
+Status: Completed
+Completed: 1992
+Functions: residential
+Rank: 80
+
+*** The Lions I ***
+Height: 93.88
+Floors: 32
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 81
+
+*** 401 West Georgia ***
+Height: 93.88
+Floors: 22
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 82
+
+*** Manulife Place ***
+Height: 93.87
+Floors: 21
+Status: Completed
+Completed: 1989
+Functions: office / retail
+Rank: 83
+
+*** Metropolitan Towers North ***
+Height: 93.3
+Floors: 32
+Status: Completed
+Completed: 2002
+Functions: residential / retail
+Rank: 84
+
+*** The Four Seasons ***
+Height: 93.3
+Floors: 30
+Status: Completed
+Completed: 1975
+Functions: hotel / retail
+Rank: 85
+
+*** Nelson Square ***
+Height: 93
+Floors: 25
+Status: Completed
+Completed: 1982
+Functions: residential / office
+Rank: 86
+
+*** The Max at Sector I ***
+Height: 92.4
+Floors: 31
+Status: Completed
+Completed: 2005
+Functions: residential / retail
+Rank: 87
+
+*** The Grosvenor Building ***
+Height: 92
+Floors: 22
+Status: Completed
+Completed: 1985
+Functions: office / retail
+Rank: 88
+
+*** Waterfront Centre ***
+Height: 91.7
+Floors: 22
+Status: Completed
+Completed: 1991
+Functions: office / retail
+Rank: 89
+
+*** Cielo ***
+Height: 91.4
+Floors: 31
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / retail
+Rank: 90
+
+*** Pomaria ***
+Height: 91.4
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 91
+
+*** Flatiron ***
+Height: 91.4
+Floors: 28
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 92
+
+*** 745 Thurlow ***
+Height: 91.4
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 93
+
+*** Atelier ***
+Height: 91.1
+Floors: 29
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 94
+
+*** The Canadian ***
+Height: 91.1
+Floors: 29
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 94
+
+*** Jim Pattison Pavilion ***
+Height: 91.1
+Floors: 19
+Status: Completed
+Completed: 1995
+Functions: hospital
+Rank: 96
+
+*** Martello Tower ***
+Height: 90.8
+Floors: 31
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 97
+
+*** Aquarius II ***
+Height: 90.8
+Floors: 29
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 98
+
+*** 1500 Alberni ***
+Height: 90.2
+Floors: 28
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 99
+
+*** Alvar ***
+Height: 90
+Floors: 28
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: residential
+Rank: 100
+
+*** Vita ***
+Height: 89.9
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / retail
+Rank: 101
+
+*** TELUS Garden Office Tower ***
+Height: 89.3
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 102
+
+*** 1050 West Pender ***
+Height: 89
+Floors: 22
+Status: Completed
+Completed: 1973
+Functions: office / retail
+Rank: 103
+
+*** Vancouver Tower ***
+Height: 88.1
+Floors: 26
+Status: Completed
+Completed: 1993
+Functions: residential / retail
+Rank: 104
+
+*** Commerce Place ***
+Height: 88.1
+Floors: 21
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 105
+
+*** Residences at Conference Plaza ***
+Height: 88
+Floors: 30
+Status: Completed
+Completed: 1996
+Functions: residential / retail
+Rank: 106
+
+*** The Arc ***
+Height: 88
+Floors: 29
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 107
+
+*** Electra ***
+Height: 88
+Floors: 23
+Status: Completed
+Completed: 1957
+Functions: residential
+Rank: 108
+
+*** The Bayview ***
+Height: 87.8
+Floors: 28
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential / retail
+Rank: 109
+
+*** Mondrian II ***
+Height: 87.2
+Floors: 29
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 110
+
+*** Viceroy II ***
+Height: 87
+Floors: 27
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 111
+
+*** Metropolis ***
+Height: 86.6
+Floors: 29
+Status: Completed
+Completed: 1996
+Functions: residential / retail
+Rank: 112
+
+*** Yaletown Park I ***
+Height: 86
+Floors: 32
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 113
+
+*** Blue Horizon Hotel ***
+Height: 86
+Floors: 30
+Status: Completed
+Completed: 1967
+Functions: hotel
+Rank: 114
+
+*** C-Side ***
+Height: 86
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 114
+
+*** Viceroy ***
+Height: 86
+Floors: 27
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 116
+
+*** Bentall One ***
+Height: 86
+Floors: 21
+Status: Completed
+Completed: 1967
+Functions: office / retail
+Rank: 117
+
+*** The Savoy ***
+Height: 85.3
+Floors: 30
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 118
+
+*** City Crest ***
+Height: 85
+Floors: 30
+Status: Completed
+Completed: 1993
+Functions: residential
+Rank: 119
+
+*** Harbourside Park I ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 120
+
+*** Harbourside Park II ***
+Height: 85
+Floors: 27
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 120
+
+*** 1500 West Georgia ***
+Height: 85
+Floors: 20
+Status: Completed
+Started: 1976
+Completed: 1977
+Functions: office
+Rank: 122
+
+*** Douglas Jung Building ***
+Height: 85
+Floors: 19
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office / retail
+Rank: 123
+
+*** The Lions II ***
+Height: 84.8
+Floors: 31
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 124
+
+*** Royal Bank Building ***
+Height: 84.7
+Floors: 18
+Status: Completed
+Completed: 1937
+Functions: office
+Rank: 125
+
+*** Library Square ***
+Height: 84.1
+Floors: 21
+Status: Completed
+Completed: 1995
+Functions: library / office / retail
+Rank: 126
+
+*** Sunset Plaza ***
+Height: 84
+Floors: 28
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 127
+
+*** Sun Tower ***
+Height: 84
+Floors: 17
+Status: Completed
+Started: 1911
+Completed: 1912
+Functions: office
+Rank: 128
+
+*** The Pointe ***
+Height: 83.8
+Floors: 29
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 129
+
+*** 889 Homer Street ***
+Height: 83.5
+Floors: 25
+Status: Completed
+Started: 1991
+Completed: 1992
+Functions: residential / office
+Rank: 130
+
+*** The Imperial Towers ***
+Height: 83
+Floors: 28
+Status: Completed
+Completed: 1965
+Functions: residential
+Rank: 131
+
+*** PricewaterhouseCoopers Place ***
+Height: 83
+Floors: 20
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 132
+
+*** 777 Hornby ***
+Height: 82.9
+Floors: 20
+Status: Completed
+Completed: 1969
+Functions: office / retail
+Rank: 133
+
+*** AXA Centre ***
+Height: 82.9
+Floors: 19
+Status: Completed
+Started: 1980
+Completed: 1981
+Functions: office / retail
+Rank: 134
+
+*** 1188 Howe ***
+Height: 82.6
+Floors: 28
+Status: Completed
+Completed: 1994
+Functions: residential / retail
+Rank: 135
+
+*** Coopers Lookout ***
+Height: 82
+Floors: 35
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 136
+
+*** Century Plaza Hotel ***
+Height: 82
+Floors: 28
+Status: Completed
+Completed: 1968
+Functions: hotel
+Rank: 137
+
+*** Waterford ***
+Height: 82
+Floors: 27
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 138
+
+*** Bayshore Outlook ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 139
+
+*** Qube ***
+Height: 82
+Floors: 13
+Status: Completed
+Started: 1968
+Completed: 1969
+Functions: residential
+Rank: 140
+
+*** Space ***
+Height: 81.4
+Floors: 20
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 141
+
+*** BC Hydro Centre ***
+Height: 81
+Floors: 19
+Status: Completed
+Started: 1991
+Completed: 1992
+Functions: office
+Rank: 142
+
+*** HSBC Tower ***
+Height: 80.5
+Floors: 20
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 143
+
+*** One Harbour Green ***
+Height: 80
+Floors: 24
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 144
+
+*** King's Landing West ***
+Height: 79.6
+Floors: 25
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 145
+
+*** Panorama Place ***
+Height: 79.2
+Floors: 26
+Status: Completed
+Completed: 1966
+Functions: residential
+Rank: 146
+
+*** Domus ***
+Height: 78.6
+Floors: 27
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 147
+
+*** Brava North ***
+Height: 78.6
+Floors: 26
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 148
+
+*** Frank Stanzl Building ***
+Height: 78.6
+Floors: 19
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 149
+
+*** Burrard Building ***
+Height: 78.3
+Floors: 19
+Status: Completed
+Completed: 1957
+Functions: office / retail
+Rank: 150
+
+*** Marine Gateway Office ***
+Height: 78
+Floors: 16
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 151
+
+*** 701 West Georgia ***
+Height: 77.7
+Floors: 18
+Status: Completed
+Completed: 1975
+Functions: office / retail
+Rank: 152
+
+*** Carina ***
+Height: 76.8
+Floors: 26
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 153
+
+*** Quay West Tower II ***
+Height: 76.5
+Floors: 24
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 154
+
+*** 1000 Beach ***
+Height: 76.2
+Floors: 27
+Status: Completed
+Completed: 1993
+Functions: residential / retail
+Rank: 155
+
+*** Columbia Place ***
+Height: 76
+Floors: 25
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 156
+
+*** Bentall Two ***
+Height: 76
+Floors: 18
+Status: Completed
+Completed: 1969
+Functions: office / retail
+Rank: 157
+
+*** Bauhinia ***
+Height: 75.9
+Floors: 25
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 158
+
+*** The Palisades West ***
+Height: 75.9
+Floors: 24
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 159
+
+*** The Eden ***
+Height: 75.3
+Floors: 24
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 160

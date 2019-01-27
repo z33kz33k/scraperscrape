@@ -1,0 +1,619 @@
+*** Las Vegas (143) ***
+1.  Resorts World Las Vegas Tower I, 205m
+2.  The Palazzo, 196m
+3.  Encore, 192m
+4.  Trump International Hotel & Tower 1, 190m
+5.  Wynn Las Vegas, 187m
+6.  Cosmopolitan Casino Spa Tower, 184m
+7.  Cosmopolitan Casino Beach Club Tower, 184m
+8.  Aria Resort & Casino, 183m
+9.  Planet Hollywood Towers, 182m
+10. VDARA, 169m
+11. Mandarin Oriental Hotel Las Vegas, 164m
+12. New York New York Hotel & Casino, 161m
+13. Palms Place, 158m
+14. Bellagio Resort & Casino, 156m
+15. Sky Las Vegas, 152m
+16. THEHotel, 148m
+17. Panorama Tower III, 147m
+18. Mandalay Bay Hotel & Casino, 146m
+19. Turnberry Place I, 145m
+20. Turnberry Place II, 145m
+21. Turnberry Place III, 145m
+22. Turnberry Place IV, 145m
+23. The Signature at MGM Grand Tower I, 145m
+24. The Signature at MGM Grand Tower II, 145m
+25. The Signature at MGM Grand Tower III, 145m
+26. Venetian Resort-Hotel-Casino, 145m
+27. Allure Las Vegas Tower I, 142m
+28. Palms Fantasy Tower, 140m
+29. Turnberry Towers - East Tower, 138m
+30. Turnberry Towers - West Tower, 138m
+31. Veer Towers East, 137m
+32. Veer Towers West, 137m
+33. Caesars Palace Tower, 133m
+34. Palms Casino Hotel, 129m
+35. Rio Masquerade Tower, 129m
+36. Panorama Tower I, 128m
+37. Panorama Tower II, 128m
+38. Hilton Grand Vacations Club II, 123m
+39. Fitzgeralds Casino & Hotel, 122m
+40. Bellagio Spa Tower, 120m
+41. Planet Hollywood Las Vegas, 119m
+42. Las Vegas Hilton, 114m
+43. Treasure Island Hotel & Casino, 112m
+44. Paris Las Vegas, 112m
+45. Augustus Tower, 111m
+46. Bally's North Tower, 110m
+47. Bally's South Tower, 110m
+48. Monte Carlo Las Vegas, 110m
+49. Luxor Pyramid, 107m
+50. Octavius Tower, 107m
+51. Harrah's Las Vegas - Carnaval Tower, 106m
+52. Circus Circus West Tower, 103m
+53. The Mirage, 102m
+54. Newport Lofts, 102m
+55. Circus Circus Skyrise Tower, 93m
+56. Hilton Grand Vacations Club I, 90m
+57. MGM Grand Resort & Casino, 89m
+58. The Plaza South Tower, 84m
+59. The Plaza North Tower, 83m
+60. Golden Nugget Rush Tower, 82m
+61. Excalibur Tower I, 80m
+62. Excalibur Tower II, 80m
+
+******************** DETAILS ********************
+
+*** Las Vegas ***
+Country: United States
+Region: North America
+62 towers: Resorts World Las Vegas Tower I, The Palazzo, Encore, Trump International Hotel & Tower 1, Wynn Las Vegas, Cosmopolitan Casino Spa Tower, Cosmopolitan Casino Beach Club Tower, Aria Resort & Casino, Planet Hollywood Towers, VDARA, Mandarin Oriental Hotel Las Vegas, New York New York Hotel & Casino, Palms Place, Bellagio Resort & Casino, Sky Las Vegas, THEHotel, Panorama Tower III, Mandalay Bay Hotel & Casino, Turnberry Place I, Turnberry Place II, Turnberry Place III, Turnberry Place IV, The Signature at MGM Grand Tower I, The Signature at MGM Grand Tower II, The Signature at MGM Grand Tower III, Venetian Resort-Hotel-Casino, Allure Las Vegas Tower I, Palms Fantasy Tower, Turnberry Towers - East Tower, Turnberry Towers - West Tower, Veer Towers East, Veer Towers West, Caesars Palace Tower, Palms Casino Hotel, Rio Masquerade Tower, Panorama Tower I, Panorama Tower II, Hilton Grand Vacations Club II, Fitzgeralds Casino & Hotel, Bellagio Spa Tower, Planet Hollywood Las Vegas, Las Vegas Hilton, Treasure Island Hotel & Casino, Paris Las Vegas, Augustus Tower, Bally's North Tower, Bally's South Tower, Monte Carlo Las Vegas, Luxor Pyramid, Octavius Tower, Harrah's Las Vegas - Carnaval Tower, Circus Circus West Tower, The Mirage, Newport Lofts, Circus Circus Skyrise Tower, Hilton Grand Vacations Club I, MGM Grand Resort & Casino, The Plaza South Tower, The Plaza North Tower, Golden Nugget Rush Tower, Excalibur Tower I, Excalibur Tower II
+Tiers: I: 11, II: 36, III: 15
+Rating: 143 (2.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Resorts World Las Vegas Tower I ***
+Height: 205.4
+Floors: 57
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: hotel / casino
+Rank: 1
+
+*** The Palazzo ***
+Height: 195.68
+Floors: 53
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel
+Rank: 2
+
+*** Encore ***
+Height: 192.33
+Floors: 52
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel
+Rank: 3
+
+*** Trump International Hotel & Tower 1 ***
+Height: 189.59
+Floors: 64
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential / hotel
+Rank: 4
+
+*** Wynn Las Vegas ***
+Height: 187.15
+Floors: 45
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: hotel / casino
+Rank: 5
+
+*** Cosmopolitan Casino Spa Tower ***
+Height: 183.95
+Floors: 52
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: hotel
+Rank: 6
+
+*** Cosmopolitan Casino Beach Club Tower ***
+Height: 183.95
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 7
+
+*** Aria Resort & Casino ***
+Height: 182.88
+Floors: 60
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: hotel / casino
+Rank: 8
+
+*** Planet Hollywood Towers ***
+Height: 182
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / hotel
+Rank: 9
+
+*** VDARA ***
+Height: 169.47
+Floors: 55
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: hotel
+Rank: 10
+
+*** Mandarin Oriental Hotel Las Vegas ***
+Height: 164.29
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / hotel
+Rank: 11
+
+*** New York New York Hotel & Casino ***
+Height: 161.24
+Floors: 49
+Status: Completed
+Completed: 1997
+Functions: hotel / casino
+Rank: 12
+
+*** Palms Place ***
+Height: 157.76
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / hotel
+Rank: 13
+
+*** Bellagio Resort & Casino ***
+Height: 155.84
+Floors: 36
+Status: Completed
+Completed: 1998
+Functions: hotel / casino
+Rank: 14
+
+*** Sky Las Vegas ***
+Height: 152.4
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 15
+
+*** THEHotel ***
+Height: 147.93
+Floors: 43
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: hotel
+Rank: 16
+
+*** Panorama Tower III ***
+Height: 147.32
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 17
+
+*** Mandalay Bay Hotel & Casino ***
+Height: 146.31
+Floors: 43
+Status: Completed
+Completed: 1999
+Functions: hotel / casino
+Rank: 18
+
+*** Turnberry Place I ***
+Height: 145.24
+Floors: 38
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 19
+
+*** Turnberry Place II ***
+Height: 145.24
+Floors: 38
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 19
+
+*** Turnberry Place III ***
+Height: 145.24
+Floors: 38
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 19
+
+*** Turnberry Place IV ***
+Height: 145.24
+Floors: 38
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 19
+
+*** The Signature at MGM Grand Tower I ***
+Height: 144.78
+Floors: 38
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 23
+
+*** The Signature at MGM Grand Tower II ***
+Height: 144.78
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 23
+
+*** The Signature at MGM Grand Tower III ***
+Height: 144.78
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 23
+
+*** Venetian Resort-Hotel-Casino ***
+Height: 144.78
+Floors: 35
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: hotel / casino
+Rank: 26
+
+*** Allure Las Vegas Tower I ***
+Height: 141.96
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 27
+
+*** Palms Fantasy Tower ***
+Height: 139.6
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: hotel / casino
+Rank: 28
+
+*** Turnberry Towers - East Tower ***
+Height: 138.08
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: hotel
+Rank: 29
+
+*** Turnberry Towers - West Tower ***
+Height: 138.08
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 29
+
+*** Veer Towers East ***
+Height: 137
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 31
+
+*** Veer Towers West ***
+Height: 137
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 31
+
+*** Caesars Palace Tower ***
+Height: 132.59
+Floors: 29
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 33
+
+*** Palms Casino Hotel ***
+Height: 128.93
+Floors: 42
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: hotel / casino
+Rank: 34
+
+*** Rio Masquerade Tower ***
+Height: 128.86
+Floors: 42
+Status: Completed
+Completed: 1997
+Functions: hotel / casino
+Rank: 35
+
+*** Panorama Tower I ***
+Height: 128
+Floors: 32
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 36
+
+*** Panorama Tower II ***
+Height: 128
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 36
+
+*** Hilton Grand Vacations Club II ***
+Height: 123.4
+Floors: 38
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: serviced apartments
+Rank: 38
+
+*** Fitzgeralds Casino & Hotel ***
+Height: 121.92
+Floors: 33
+Status: Completed
+Completed: 1980
+Functions: hotel / casino
+Rank: 39
+
+*** Bellagio Spa Tower ***
+Height: 119.5
+Floors: 33
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: hotel
+Rank: 40
+
+*** Planet Hollywood Las Vegas ***
+Height: 118.87
+Floors: 39
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: hotel / casino
+Rank: 41
+
+*** Las Vegas Hilton ***
+Height: 114.3
+Floors: 30
+Status: Completed
+Completed: 1969
+Functions: hotel / casino
+Rank: 42
+
+*** Treasure Island Hotel & Casino ***
+Height: 112.2
+Floors: 36
+Status: Completed
+Started: 1992
+Completed: 1993
+Functions: hotel / casino
+Rank: 43
+
+*** Paris Las Vegas ***
+Height: 112.12
+Floors: 34
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: hotel / casino
+Rank: 44
+
+*** Augustus Tower ***
+Height: 111.3
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: hotel
+Rank: 45
+
+*** Bally's North Tower ***
+Height: 110.34
+Floors: 26
+Status: Completed
+Started: 1972
+Completed: 1973
+Functions: hotel / casino
+Rank: 46
+
+*** Bally's South Tower ***
+Height: 110.34
+Floors: 26
+Status: Completed
+Started: 1980
+Completed: 1981
+Functions: hotel / casino
+Rank: 46
+
+*** Monte Carlo Las Vegas ***
+Height: 109.7
+Floors: 32
+Status: Completed
+Started: 1995
+Completed: 1996
+Functions: hotel / casino
+Rank: 48
+
+*** Luxor Pyramid ***
+Height: 106.7
+Floors: 30
+Status: Completed
+Started: 1992
+Completed: 1993
+Functions: hotel / casino
+Rank: 49
+
+*** Octavius Tower ***
+Height: 106.68
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hotel
+Rank: 50
+
+*** Harrah's Las Vegas - Carnaval Tower ***
+Height: 106
+Floors: 35
+Status: Completed
+Completed: 1989
+Functions: hotel / casino
+Rank: 51
+
+*** Circus Circus West Tower ***
+Height: 102.7
+Floors: 35
+Status: Completed
+Started: 1995
+Completed: 1996
+Functions: hotel / casino
+Rank: 52
+
+*** The Mirage ***
+Height: 102.1
+Floors: 31
+Status: Completed
+Started: 1988
+Completed: 1989
+Functions: hotel / casino
+Rank: 53
+
+*** Newport Lofts ***
+Height: 101.8
+Floors: 23
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / retail
+Rank: 54
+
+*** Circus Circus Skyrise Tower ***
+Height: 93
+Floors: 29
+Status: Completed
+Completed: 1986
+Functions: hotel
+Rank: 55
+
+*** Hilton Grand Vacations Club I ***
+Height: 89.92
+Floors: 26
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: serviced apartments
+Rank: 56
+
+*** MGM Grand Resort & Casino ***
+Height: 89.3
+Floors: 30
+Status: Completed
+Started: 1991
+Completed: 1993
+Functions: hotel / casino
+Rank: 57
+
+*** The Plaza South Tower ***
+Height: 84.1
+Floors: 22
+Status: Completed
+Completed: 1981
+Functions: hotel / casino
+Rank: 58
+
+*** The Plaza North Tower ***
+Height: 82.9
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: hotel / casino
+Rank: 59
+
+*** Golden Nugget Rush Tower ***
+Height: 82.3
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: hotel / casino
+Rank: 60
+
+*** Excalibur Tower I ***
+Height: 79.5
+Floors: 28
+Status: Completed
+Started: 1989
+Completed: 1990
+Functions: hotel / casino
+Rank: 61
+
+*** Excalibur Tower II ***
+Height: 79.5
+Floors: 28
+Status: Completed
+Started: 1989
+Completed: 1990
+Functions: hotel / casino
+Rank: 61

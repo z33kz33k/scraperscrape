@@ -1,0 +1,20 @@
+*** London (ON) (2) ***
+1. One London Place, 109m
+
+******************** DETAILS ********************
+
+*** London (ON) ***
+Country: Canada
+Region: North America
+1 tower: One London Place
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** One London Place ***
+Height: 109
+Floors: 24
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 1

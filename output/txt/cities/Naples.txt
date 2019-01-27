@@ -1,0 +1,139 @@
+*** Naples (22) ***
+1.  Telecom Italia, 129m
+2.  Torre ENEL 1, 123m
+3.  Torre ENEL 2, 123m
+4.  Torre Francesco, 118m
+5.  Torre Saverio, 118m
+6.  Consilio Regional Campania, 115m
+7.  New Law Courts Tower A, 110m
+8.  New Law Courts Tower B, 110m
+9.  Societa Cattolica Di Assicurazioni, 105m
+10. NH Ambassador Hotel Naples, 101m
+11. Edificio Eni-Italgas, 88m
+12. Giunta Regione Campania, 88m
+13. Holiday Inn Hotel, 83m
+14. Direzione Ff.Ss., 82m
+
+******************** DETAILS ********************
+
+*** Naples ***
+Country: Italy
+Region: Europe
+14 towers: Telecom Italia, Torre ENEL 1, Torre ENEL 2, Torre Francesco, Torre Saverio, Consilio Regional Campania, New Law Courts Tower A, New Law Courts Tower B, Societa Cattolica Di Assicurazioni, NH Ambassador Hotel Naples, Edificio Eni-Italgas, Giunta Regione Campania, Holiday Inn Hotel, Direzione Ff.Ss.
+Tiers: I: 6, II: 8
+Rating: 22
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Telecom Italia ***
+Height: 129
+Floors: 33
+Status: Completed
+Started: 1988
+Completed: 1994
+Functions: office
+Rank: 1
+
+*** Torre ENEL 1 ***
+Height: 123
+Floors: 36
+Status: Completed
+Started: 1988
+Completed: 1994
+Functions: office
+Rank: 2
+
+*** Torre ENEL 2 ***
+Height: 123
+Floors: 36
+Status: Completed
+Started: 1988
+Completed: 1994
+Functions: office
+Rank: 2
+
+*** Torre Francesco ***
+Height: 118
+Floors: 36
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 4
+
+*** Torre Saverio ***
+Height: 118
+Floors: 36
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 4
+
+*** Consilio Regional Campania ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 6
+
+*** New Law Courts Tower A ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 1994
+Functions: government
+Rank: 7
+
+*** New Law Courts Tower B ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 1994
+Functions: government
+Rank: 7
+
+*** Societa Cattolica Di Assicurazioni ***
+Height: 105
+Floors: 30
+Status: Completed
+Completed: 1958
+Functions: office
+Rank: 9
+
+*** NH Ambassador Hotel Naples ***
+Height: 100.9
+Floors: 30
+Status: Completed
+Completed: 1960
+Rank: 10
+
+*** Edificio Eni-Italgas ***
+Height: 88
+Floors: 24
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 11
+
+*** Giunta Regione Campania ***
+Height: 88
+Floors: 24
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 11
+
+*** Holiday Inn Hotel ***
+Height: 82.6
+Floors: 26
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 13
+
+*** Direzione Ff.Ss. ***
+Height: 82
+Floors: 18
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 14

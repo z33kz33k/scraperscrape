@@ -1,0 +1,21 @@
+*** Tammerfors (Tampere) (1) ***
+1. Solo Sokos Hotel Tower, 89m
+
+******************** DETAILS ********************
+
+*** Tammerfors (Tampere) ***
+Country: Finland
+Region: Europe
+1 tower: Solo Sokos Hotel Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Solo Sokos Hotel Tower ***
+Height: 88.6
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel
+Rank: 1

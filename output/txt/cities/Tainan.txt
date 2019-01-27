@@ -1,0 +1,29 @@
+*** Tainan (4) ***
+1. Shangri-La Far Eastern Plaza Hotel, 140m
+2. Chia Heir Tower, 125m
+
+******************** DETAILS ********************
+
+*** Tainan ***
+Country: Taiwan
+Region: Asia
+2 towers: Shangri-La Far Eastern Plaza Hotel, Chia Heir Tower
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shangri-La Far Eastern Plaza Hotel ***
+Height: 140
+Floors: 38
+Status: Completed
+Completed: 1993
+Functions: office / hotel
+Rank: 1
+
+*** Chia Heir Tower ***
+Height: 125
+Floors: 19
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 2

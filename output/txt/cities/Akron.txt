@@ -1,0 +1,39 @@
+*** Akron (3) ***
+1. FirstMerit Tower, 101m
+2. PNC Center, 96m
+3. First Energy Building, 85m
+
+******************** DETAILS ********************
+
+*** Akron ***
+Country: United States
+Region: North America
+3 towers: FirstMerit Tower, PNC Center, First Energy Building
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** FirstMerit Tower ***
+Height: 100.59
+Floors: 27
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: office
+Rank: 1
+
+*** PNC Center ***
+Height: 96.28
+Floors: 23
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 2
+
+*** First Energy Building ***
+Height: 85.35
+Floors: 19
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 3

@@ -1,0 +1,21 @@
+*** Sochi (2) ***
+1. Actor Galaxy, 116m
+
+******************** DETAILS ********************
+
+*** Sochi ***
+Country: Russia
+Region: Europe
+1 tower: Actor Galaxy
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Actor Galaxy ***
+Height: 116
+Floors: 26
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 1

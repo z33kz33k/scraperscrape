@@ -1,0 +1,48 @@
+*** Makassar (7) ***
+1. Vida View Apartment Tower Asthon, 111m
+2. Menara Bosowa, 109m
+3. Vida View Apartment Tower Brentsville, 108m
+4. Menara Phinisi UNM, 98m
+
+******************** DETAILS ********************
+
+*** Makassar ***
+Country: Indonesia
+Region: Asia
+4 towers: Vida View Apartment Tower Asthon, Menara Bosowa, Vida View Apartment Tower Brentsville, Menara Phinisi UNM
+Tiers: I: 1, II: 3
+Rating: 7 (57.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Vida View Apartment Tower Asthon ***
+Height: 111.15
+Floors: 35
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Menara Bosowa ***
+Height: 109
+Floors: 23
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 2
+
+*** Vida View Apartment Tower Brentsville ***
+Height: 107.65
+Floors: 35
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 3
+
+*** Menara Phinisi UNM ***
+Height: 97.5
+Floors: 17
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: education
+Rank: 4

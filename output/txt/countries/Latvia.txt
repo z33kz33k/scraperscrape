@@ -1,0 +1,18 @@
+*** Latvia (18) ***
+1. Riga, 18
+
+******************** DETAILS ********************
+
+*** Latvia ***
+Region: Europe
+1 city: Riga
+Tiers: I: 8, II: 5
+Rating: 18
+
+*** Riga ***
+Country: Latvia
+Region: Europe
+13 towers: Z-tornis A, Swedbank Central Office, Panorama Plaza II, Academy of Sciences, Z-tornis B, Panorama Plaza I, Reval Hotel Latvia, Ministry of Agriculture Building, Tatvijas Televizija, AstraLux, Solaris I, Solaris II, Preses Nams
+Tiers: I: 8, II: 5
+Rating: 18
+Scraped on: 2019-Jan-20 16:05:17

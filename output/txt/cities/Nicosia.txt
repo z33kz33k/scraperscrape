@@ -1,0 +1,21 @@
+*** Nicosia (1) ***
+1. Wargaming Headquarters, 75m
+
+******************** DETAILS ********************
+
+*** Nicosia ***
+Country: Cyprus
+Region: Europe
+1 tower: Wargaming Headquarters
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wargaming Headquarters ***
+Height: 75
+Floors: 15
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 1

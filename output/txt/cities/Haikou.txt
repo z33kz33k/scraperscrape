@@ -1,0 +1,77 @@
+*** Haikou (40) ***
+1. Haikou Tower 1, 428m
+2. Haikou Center, 288m
+3. Landmark Tower, 260m
+4. Haihang International Plaza Tower A, 250m
+5. Hainan Tower 1, 200m
+6. Hainan Tianyi International Building, 198m
+7. HNA Mingguang Hotel, 188m
+
+******************** DETAILS ********************
+
+*** Haikou ***
+Country: China
+Region: Asia
+7 towers: Haikou Tower 1, Haikou Center, Landmark Tower, Haihang International Plaza Tower A, Hainan Tower 1, Hainan Tianyi International Building, HNA Mingguang Hotel
+Tiers: III: 3, IV: 3, VI: 1
+Rating: 40 (55.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Haikou Tower 1 ***
+Height: 428
+Floors: 94
+Status: Under Construction
+Started: 2015
+Completed: 2022
+Functions: hotel / residential / office
+Rank: 1
+
+*** Haikou Center ***
+Height: 288
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Rank: 2
+
+*** Landmark Tower ***
+Height: 260
+Floors: 51
+Status: Structurally Topped Out
+Started: 2013
+Completed: 2019
+Functions: hotel / office
+Rank: 3
+
+*** Haihang International Plaza Tower A ***
+Height: 249.8
+Floors: 54
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel / office
+Rank: 4
+
+*** Hainan Tower 1 ***
+Height: 200
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 5
+
+*** Hainan Tianyi International Building ***
+Height: 198
+Floors: 49
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 6
+
+*** HNA Mingguang Hotel ***
+Height: 188
+Floors: 48
+Status: Completed
+Completed: 2009
+Functions: hotel
+Rank: 7

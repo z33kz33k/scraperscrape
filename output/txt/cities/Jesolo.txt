@@ -1,0 +1,21 @@
+*** Jesolo (1) ***
+1. Merville - Casa nel Parco, 81m
+
+******************** DETAILS ********************
+
+*** Jesolo ***
+Country: Italy
+Region: Europe
+1 tower: Merville - Casa nel Parco
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Merville - Casa nel Parco ***
+Height: 81.1
+Floors: 25
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 1

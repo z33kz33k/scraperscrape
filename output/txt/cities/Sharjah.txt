@@ -1,0 +1,145 @@
+*** Sharjah (58) ***
+1.  Nestle Plaza, 225m
+2.  Al Ayaan Sharjah Gate Tower, 224m
+3.  Palm Tower 1, 223m
+4.  Majestic Tower, 207m
+5.  Malak Tower, 196m
+6.  Bukkhamseen Tower, 192m
+7.  Majestic Tower, 191m
+8.  Abbco Tower, 190m
+9.  Al Dana Tower, 180m
+10. Al Ayaan Lulu Tower, 178m
+11. Sharjah Sail Tower, 157m
+12. Al Moosa Tower 1, 150m
+13. Etisalat Tower, 120m
+14. Al Reem Plaza Building, 106m
+
+******************** DETAILS ********************
+
+*** Sharjah ***
+Country: United Arab Emirates
+Region: Middle East
+14 towers: Nestle Plaza, Al Ayaan Sharjah Gate Tower, Palm Tower 1, Majestic Tower, Malak Tower, Bukkhamseen Tower, Majestic Tower, Abbco Tower, Al Dana Tower, Al Ayaan Lulu Tower, Sharjah Sail Tower, Al Moosa Tower 1, Etisalat Tower, Al Reem Plaza Building
+Tiers: II: 2, III: 9, IV: 3
+Rating: 58
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Nestle Plaza ***
+Height: 225
+Floors: 58
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Al Ayaan Sharjah Gate Tower ***
+Height: 223.62
+Floors: 56
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 2
+
+*** Palm Tower 1 ***
+Height: 223
+Floors: 56
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 3
+
+*** Majestic Tower ***
+Height: 207
+Floors: 52
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** Malak Tower ***
+Height: 196
+Floors: 53
+Status: Completed
+Started: 2004
+Completed: 2010
+Functions: residential
+Rank: 5
+
+*** Bukkhamseen Tower ***
+Height: 192.03
+Floors: 51
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential / office
+Rank: 6
+
+*** Majestic Tower ***
+Height: 190.8
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 7
+
+*** Abbco Tower ***
+Height: 190
+Floors: 48
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 8
+
+*** Al Dana Tower ***
+Height: 180
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 9
+
+*** Al Ayaan Lulu Tower ***
+Height: 178.01
+Floors: 51
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 10
+
+*** Sharjah Sail Tower ***
+Height: 157
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential / office
+Rank: 11
+
+*** Al Moosa Tower 1 ***
+Height: 150
+Floors: 41
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 12
+
+*** Etisalat Tower ***
+Height: 120
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 13
+
+*** Al Reem Plaza Building ***
+Height: 106.1
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 14

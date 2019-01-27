@@ -1,0 +1,27 @@
+*** Georgia (20) ***
+1. Batumi, 14
+2. Tbilisi, 6
+
+******************** DETAILS ********************
+
+*** Georgia ***
+Region: Asia
+2 cities: Batumi, Tbilisi
+Tiers: II: 6, III: 2
+Rating: 20 (30.0% uncompleted)
+
+*** Batumi ***
+Country: Georgia
+Region: Asia
+5 towers: Batumi Technological University Tower, Porta Batumi Tower, Alliance Palace, Orbi Sea Central Tower, Sheraton Batumi Hotel
+Tiers: II: 3, III: 2
+Rating: 14 (14.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tbilisi ***
+Country: Georgia
+Region: Asia
+3 towers: Axis Tower 1, Axis Tower 2, Millennium Hotel
+Tiers: II: 3
+Rating: 6 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17

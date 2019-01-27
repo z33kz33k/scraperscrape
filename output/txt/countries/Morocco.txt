@@ -1,0 +1,27 @@
+*** Morocco (11) ***
+1. Rabat, 7
+2. Casablanca, 4
+
+******************** DETAILS ********************
+
+*** Morocco ***
+Region: Africa
+2 cities: Rabat, Casablanca
+Tiers: I: 1, II: 2, IV: 1
+Rating: 11 (54.5% uncompleted)
+
+*** Rabat ***
+Country: Morocco
+Region: Africa
+2 towers: Bank of Africa Tower, Maroc Telecom
+Tiers: I: 1, IV: 1
+Rating: 7 (85.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Casablanca ***
+Country: Morocco
+Region: Africa
+2 towers: Casablanca Twin Center East Tower, Casablanca Twin Center West Tower
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16

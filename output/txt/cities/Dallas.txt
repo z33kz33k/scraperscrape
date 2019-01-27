@@ -1,0 +1,852 @@
+*** Dallas (185) ***
+1.  Bank of America Plaza, 281m
+2.  Renaissance Tower, 270m
+3.  Comerica Bank Tower, 240m
+4.  JPMorgan Chase Tower, 225m
+5.  Fountain Place, 219m
+6.  Trammel Crow Center, 209m
+7.  1700 Pacific, 200m
+8.  Thanksgiving Tower, 197m
+9.  Energy Plaza, 192m
+10. Elm Place, 191m
+11. Gables Republic Tower, 184m
+12. Republic Center Tower II, 182m
+13. One AT&T Plaza, 177m
+14. Ross Tower, 176m
+15. AMLI Fountain Place, 171m
+16. Tower at Cityplace, 171m
+17. Museum Tower, 171m
+18. Sheraton Dallas Hotel Central Tower, 168m
+19. Mercantile Building, 159m
+20. Bryan Tower, 156m
+21. Harwood Center, 147m
+22. KPMG Centre, 147m
+23. 2100 Ross, 139m
+24. Renaissance Dallas Hotel, 137m
+25. Sheraton Dallas Hotel North Tower, 137m
+26. One Dallas Center, 137m
+27. One Main Place, 136m
+28. W Dallas Victory Hotel & Residences, 134m
+29. 1600 Pacific Tower, 132m
+30. Mosaic I, 122m
+31. 2101 North Pearl Tower I, 122m
+32. Magnolia Building, 122m
+33. Katy Station, 120m
+34. Azure, 114m
+35. Bleu Ciel, 114m
+36. Three AT&T Plaza, 113m
+37. The House, 113m
+38. AC Hotel/Residence Inn Downtown Dallas, 110m
+39. The Christopher at the Union, 108m
+40. Three Galleria Tower, 108m
+41. Sheraton Dallas Hotel South Tower, 107m
+42. Hyatt Hotel, 105m
+43. Main Tower, 102m
+44. Saint Ann Court, 102m
+45. One Galleria Tower I, 102m
+46. Victory Place, 100m
+47. Adolphus Tower, 100m
+48. Park Central III, 100m
+49. Bell Telephone Building, 99m
+50. Two Galleria Tower, 99m
+51. Occidental Tower, 99m
+52. Davis Building, 98m
+53. Manor House, 97m
+54. Preston Tower, 96m
+55. Anatole Hotel, 96m
+56. 2101 North Pearl Tower II, 96m
+57. Cambria Downtown Dallas, 96m
+58. The Union Dallas, 96m
+59. Adolphus Hotel, 95m
+60. Cirque, 95m
+61. 1900 McKinney, 94m
+62. Tower Residences at the Ritz-Carlton, 94m
+63. Fairmont Hotel, 94m
+64. City Walk, 92m
+65. Mayfair @ Turtle Creek, 92m
+66. M & W Tower, 92m
+67. Sante Fe Building, 91m
+68. Two Turtle Creek Village, 91m
+69. Texas Capital Bank Building, 90m
+70. KPMG Plaza, 88m
+71. Omni Dallas Hotel, 86m
+72. Corrigan Tower, 86m
+73. Frost Tower, 85m
+74. Mosaic Dallas, 84m
+75. Rosewood Court, 83m
+76. The Tower at Park Lane, 82m
+77. Crowne Plaza Hotel Dallas, 82m
+78. St. Paul Tower, 82m
+79. 400 Record Street, 82m
+80. Doubletree Hotel Campbell Center, 81m
+81. SkyHouse Dallas, 80m
+82. Crescent Office Complex, Building 200, 80m
+83. Earle Cabell Federal Building, 80m
+84. Stemmons Place, 79m
+85. Campbell Center I, 79m
+86. Campbell Center II, 79m
+87. 2828 North Harwood, 78m
+88. Lakeside Square, 77m
+89. Galleria North I, 77m
+90. The Vendome, 77m
+91. Federal Reserve Bank, 77m
+92. Claridge Condominiums, 77m
+93. Kirby Building, 76m
+94. 211 North Ervay, 76m
+
+******************** DETAILS ********************
+
+*** Dallas ***
+Country: United States
+Region: North America
+94 towers: Bank of America Plaza, Renaissance Tower, Comerica Bank Tower, JPMorgan Chase Tower, Fountain Place, Trammel Crow Center, 1700 Pacific, Thanksgiving Tower, Energy Plaza, Elm Place, Gables Republic Tower, Republic Center Tower II, One AT&T Plaza, Ross Tower, AMLI Fountain Place, Tower at Cityplace, Museum Tower, Sheraton Dallas Hotel Central Tower, Mercantile Building, Bryan Tower, Harwood Center, KPMG Centre, 2100 Ross, Renaissance Dallas Hotel, Sheraton Dallas Hotel North Tower, One Dallas Center, One Main Place, W Dallas Victory Hotel & Residences, 1600 Pacific Tower, Mosaic I, 2101 North Pearl Tower I, Magnolia Building, Katy Station, Azure, Bleu Ciel, Three AT&T Plaza, The House, AC Hotel/Residence Inn Downtown Dallas, The Christopher at the Union, Three Galleria Tower, Sheraton Dallas Hotel South Tower, Hyatt Hotel, Main Tower, Saint Ann Court, One Galleria Tower I, Victory Place, Adolphus Tower, Park Central III, Bell Telephone Building, Two Galleria Tower, Occidental Tower, Davis Building, Manor House, Preston Tower, Anatole Hotel, 2101 North Pearl Tower II, Cambria Downtown Dallas, The Union Dallas, Adolphus Hotel, Cirque, 1900 McKinney, Tower Residences at the Ritz-Carlton, Fairmont Hotel, City Walk, Mayfair @ Turtle Creek, M & W Tower, Sante Fe Building, Two Turtle Creek Village, Texas Capital Bank Building, KPMG Plaza, Omni Dallas Hotel, Corrigan Tower, Frost Tower, Mosaic Dallas, Rosewood Court, The Tower at Park Lane, Crowne Plaza Hotel Dallas, St. Paul Tower, 400 Record Street, Doubletree Hotel Campbell Center, SkyHouse Dallas, Crescent Office Complex, Building 200, Earle Cabell Federal Building, Stemmons Place, Campbell Center I, Campbell Center II, 2828 North Harwood, Lakeside Square, Galleria North I, The Vendome, Federal Reserve Bank, Claridge Condominiums, Kirby Building, 211 North Ervay
+Tiers: I: 53, II: 21, III: 15, IV: 5
+Rating: 185 (2.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bank of America Plaza ***
+Height: 280.72
+Floors: 72
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 1
+
+*** Renaissance Tower ***
+Height: 270.06
+Floors: 56
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 2
+
+*** Comerica Bank Tower ***
+Height: 239.88
+Floors: 60
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 3
+
+*** JPMorgan Chase Tower ***
+Height: 224.95
+Floors: 55
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 4
+
+*** Fountain Place ***
+Height: 219.46
+Floors: 62
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: office
+Rank: 5
+
+*** Trammel Crow Center ***
+Height: 209.1
+Floors: 50
+Status: Completed
+Started: 1982
+Completed: 1984
+Functions: office
+Rank: 6
+
+*** 1700 Pacific ***
+Height: 199.65
+Floors: 50
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 7
+
+*** Thanksgiving Tower ***
+Height: 196.54
+Floors: 50
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 8
+
+*** Energy Plaza ***
+Height: 191.72
+Floors: 49
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: office
+Rank: 9
+
+*** Elm Place ***
+Height: 191.42
+Floors: 52
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 10
+
+*** Gables Republic Tower ***
+Height: 183.5
+Floors: 36
+Status: Completed
+Completed: 1954
+Functions: office
+Rank: 11
+
+*** Republic Center Tower II ***
+Height: 182.27
+Floors: 50
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 12
+
+*** One AT&T Plaza ***
+Height: 176.79
+Floors: 37
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 13
+
+*** Ross Tower ***
+Height: 176.48
+Floors: 45
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 14
+
+*** AMLI Fountain Place ***
+Height: 171.3
+Floors: 46
+Status: Under Construction
+Completed: 2019
+Functions: residential
+Rank: 15
+
+*** Tower at Cityplace ***
+Height: 170.69
+Floors: 42
+Status: Completed
+Started: 1986
+Completed: 1989
+Functions: office
+Rank: 16
+
+*** Museum Tower ***
+Height: 170.68
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 17
+
+*** Sheraton Dallas Hotel Central Tower ***
+Height: 167.64
+Floors: 42
+Status: Completed
+Completed: 1959
+Functions: office
+Rank: 18
+
+*** Mercantile Building ***
+Height: 159.41
+Floors: 31
+Status: Completed
+Completed: 1943
+Functions: office
+Rank: 19
+
+*** Bryan Tower ***
+Height: 156.06
+Floors: 40
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 20
+
+*** Harwood Center ***
+Height: 147.22
+Floors: 36
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 21
+
+*** KPMG Centre ***
+Height: 146.61
+Floors: 34
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 22
+
+*** 2100 Ross ***
+Height: 138.99
+Floors: 33
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 23
+
+*** Renaissance Dallas Hotel ***
+Height: 137.46
+Floors: 29
+Status: Completed
+Completed: 1983
+Functions: hotel
+Rank: 24
+
+*** Sheraton Dallas Hotel North Tower ***
+Height: 136.55
+Floors: 31
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 25
+
+*** One Dallas Center ***
+Height: 136.55
+Floors: 30
+Status: Completed
+Completed: 1979
+Functions: residential / office
+Rank: 26
+
+*** One Main Place ***
+Height: 135.64
+Floors: 34
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 27
+
+*** W Dallas Victory Hotel & Residences ***
+Height: 133.8
+Floors: 32
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: hotel
+Rank: 28
+
+*** 1600 Pacific Tower ***
+Height: 132.28
+Floors: 31
+Status: Completed
+Completed: 1964
+Rank: 29
+
+*** Mosaic I ***
+Height: 121.92
+Floors: 33
+Status: Completed
+Completed: 1959
+Rank: 30
+
+*** 2101 North Pearl Tower I ***
+Height: 121.9
+Floors: 32
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 31
+
+*** Magnolia Building ***
+Height: 121.62
+Floors: 27
+Status: Completed
+Completed: 1923
+Functions: office
+Rank: 32
+
+*** Katy Station ***
+Height: 120.09
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 33
+
+*** Azure ***
+Height: 114.3
+Floors: 31
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 34
+
+*** Bleu Ciel ***
+Height: 114
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / retail
+Rank: 35
+
+*** Three AT&T Plaza ***
+Height: 113.39
+Floors: 24
+Status: Completed
+Started: 1927
+Completed: 1928
+Functions: office
+Rank: 36
+
+*** The House ***
+Height: 113
+Floors: 28
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 37
+
+*** AC Hotel/Residence Inn Downtown Dallas ***
+Height: 109.73
+Floors: 22
+Status: Completed
+Completed: 2016
+Functions: hotel
+Rank: 38
+
+*** The Christopher at the Union ***
+Height: 108.2
+Floors: 29
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 39
+
+*** Three Galleria Tower ***
+Height: 107.9
+Floors: 26
+Status: Completed
+Completed: 1991
+Rank: 40
+
+*** Sheraton Dallas Hotel South Tower ***
+Height: 107.29
+Floors: 28
+Status: Completed
+Completed: 1958
+Functions: hotel
+Rank: 41
+
+*** Hyatt Hotel ***
+Height: 104.55
+Floors: 30
+Status: Completed
+Completed: 1978
+Functions: hotel
+Rank: 42
+
+*** Main Tower ***
+Height: 102.41
+Floors: 26
+Status: Completed
+Completed: 1973
+Rank: 43
+
+*** Saint Ann Court ***
+Height: 101.8
+Floors: 25
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 44
+
+*** One Galleria Tower I ***
+Height: 101.5
+Floors: 26
+Status: Completed
+Completed: 1983
+Rank: 45
+
+*** Victory Place ***
+Height: 99.98
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 46
+
+*** Adolphus Tower ***
+Height: 99.67
+Floors: 27
+Status: Completed
+Completed: 1954
+Rank: 47
+
+*** Park Central III ***
+Height: 99.67
+Floors: 20
+Status: Completed
+Completed: 1975
+Rank: 48
+
+*** Bell Telephone Building ***
+Height: 99.36
+Floors: 23
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 49
+
+*** Two Galleria Tower ***
+Height: 99.06
+Floors: 24
+Status: Completed
+Completed: 1985
+Rank: 50
+
+*** Occidental Tower ***
+Height: 98.76
+Floors: 24
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 51
+
+*** Davis Building ***
+Height: 98.45
+Floors: 20
+Status: Completed
+Completed: 1926
+Rank: 52
+
+*** Manor House ***
+Height: 97.23
+Floors: 26
+Status: Completed
+Completed: 1966
+Rank: 53
+
+*** Preston Tower ***
+Height: 96.32
+Floors: 29
+Status: Completed
+Completed: 1966
+Rank: 54
+
+*** Anatole Hotel ***
+Height: 96.32
+Floors: 27
+Status: Completed
+Completed: 1983
+Functions: hotel
+Rank: 55
+
+*** 2101 North Pearl Tower II ***
+Height: 96.3
+Floors: 19
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 56
+
+*** Cambria Downtown Dallas ***
+Height: 96.01
+Floors: 22
+Status: Completed
+Completed: 1931
+Functions: office
+Rank: 57
+
+*** The Union Dallas ***
+Height: 96
+Floors: 22
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 58
+
+*** Adolphus Hotel ***
+Height: 95.1
+Floors: 25
+Status: Completed
+Completed: 1912
+Rank: 59
+
+*** Cirque ***
+Height: 94.8
+Floors: 28
+Status: Completed
+Completed: 2007
+Rank: 60
+
+*** 1900 McKinney ***
+Height: 94.49
+Floors: 26
+Status: Completed
+Completed: 2008
+Rank: 61
+
+*** Tower Residences at the Ritz-Carlton ***
+Height: 94.49
+Floors: 23
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 62
+
+*** Fairmont Hotel ***
+Height: 93.88
+Floors: 24
+Status: Completed
+Completed: 1968
+Functions: hotel
+Rank: 63
+
+*** City Walk ***
+Height: 92.35
+Floors: 17
+Status: Completed
+Completed: 1957
+Rank: 64
+
+*** Mayfair @ Turtle Creek ***
+Height: 92.05
+Floors: 24
+Status: Completed
+Completed: 2000
+Rank: 65
+
+*** M & W Tower ***
+Height: 92.05
+Floors: 22
+Status: Completed
+Completed: 1951
+Rank: 66
+
+*** Sante Fe Building ***
+Height: 91.44
+Floors: 20
+Status: Completed
+Completed: 1926
+Rank: 67
+
+*** Two Turtle Creek Village ***
+Height: 91.44
+Floors: 18
+Status: Completed
+Completed: 1972
+Rank: 68
+
+*** Texas Capital Bank Building ***
+Height: 89.92
+Floors: 20
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 69
+
+*** KPMG Plaza ***
+Height: 88.1
+Floors: 18
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 70
+
+*** Omni Dallas Hotel ***
+Height: 86
+Floors: 23
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: hotel
+Rank: 71
+
+*** Corrigan Tower ***
+Height: 85.95
+Floors: 17
+Status: Completed
+Started: 1951
+Completed: 1952
+Functions: office
+Rank: 72
+
+*** Frost Tower ***
+Height: 85.04
+Floors: 22
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office / retail
+Rank: 73
+
+*** Mosaic Dallas ***
+Height: 83.82
+Floors: 20
+Status: Completed
+Completed: 1953
+Rank: 74
+
+*** Rosewood Court ***
+Height: 83
+Floors: 19
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 75
+
+*** The Tower at Park Lane ***
+Height: 82.3
+Floors: 19
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 76
+
+*** Crowne Plaza Hotel Dallas ***
+Height: 81.69
+Floors: 22
+Status: Completed
+Completed: 1969
+Functions: hotel
+Rank: 77
+
+*** St. Paul Tower ***
+Height: 81.69
+Floors: 22
+Status: Completed
+Completed: 1983
+Rank: 77
+
+*** 400 Record Street ***
+Height: 81.69
+Floors: 16
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 79
+
+*** Doubletree Hotel Campbell Center ***
+Height: 81.38
+Floors: 22
+Status: Completed
+Completed: 1981
+Functions: hotel
+Rank: 80
+
+*** SkyHouse Dallas ***
+Height: 80
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 81
+
+*** Crescent Office Complex, Building 200 ***
+Height: 80
+Floors: 19
+Status: Completed
+Completed: 1985
+Functions: hotel / office / retail
+Rank: 82
+
+*** Earle Cabell Federal Building ***
+Height: 79.86
+Floors: 16
+Status: Completed
+Completed: 1970
+Rank: 83
+
+*** Stemmons Place ***
+Height: 79.25
+Floors: 20
+Status: Completed
+Completed: 1983
+Rank: 84
+
+*** Campbell Center I ***
+Height: 78.64
+Floors: 20
+Status: Completed
+Completed: 1971
+Rank: 85
+
+*** Campbell Center II ***
+Height: 78.64
+Floors: 20
+Status: Completed
+Completed: 1973
+Rank: 85
+
+*** 2828 North Harwood ***
+Height: 78.33
+Floors: 20
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 87
+
+*** Lakeside Square ***
+Height: 77.42
+Floors: 18
+Status: Completed
+Completed: 1986
+Rank: 88
+
+*** Galleria North I ***
+Height: 77.42
+Floors: 17
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 89
+
+*** The Vendome ***
+Height: 77.11
+Floors: 20
+Status: Completed
+Completed: 2002
+Rank: 90
+
+*** Federal Reserve Bank ***
+Height: 77.11
+Floors: 17
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: government
+Rank: 91
+
+*** Claridge Condominiums ***
+Height: 77
+Floors: 22
+Status: Completed
+Functions: residential
+Rank: 92
+
+*** Kirby Building ***
+Height: 76.2
+Floors: 18
+Status: Completed
+Completed: 1913
+Rank: 93
+
+*** 211 North Ervay ***
+Height: 76
+Floors: 18
+Status: Completed
+Completed: 1958
+Functions: office
+Rank: 94

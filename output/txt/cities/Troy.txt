@@ -1,0 +1,21 @@
+*** Troy (1) ***
+1. National City Center, 106m
+
+******************** DETAILS ********************
+
+*** Troy ***
+Country: United States
+Region: North America
+1 tower: National City Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** National City Center ***
+Height: 105.56
+Floors: 25
+Status: Completed
+Started: 1974
+Completed: 1975
+Functions: office
+Rank: 1

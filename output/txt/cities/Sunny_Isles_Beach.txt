@@ -1,0 +1,296 @@
+*** Sunny Isles Beach (80) ***
+1.  Turnberry Ocean Club, 198m
+2.  Muse, 198m
+3.  Residences by Armani Casa, 198m
+4.  Mansions at Acqualina, 196m
+5.  The Ritz-Carlton Residences, 196m
+6.  Porsche Design Tower, 195m
+7.  Jade Signature, 194m
+8.  Jade on the Beach, 175m
+9.  Trump Palace, 168m
+10. Acqualina Resort & Spa, 168m
+11. Trump Royale, 168m
+12. Jade Ocean, 166m
+13. Regalia, 148m
+14. The Pinnacle, 145m
+15. Trump Towers I, 140m
+16. Trump Towers II, 140m
+17. Trump Towers III, 140m
+18. Chateau Beach Residences, 137m
+19. La Perla Ocean Residences, 136m
+20. Turnberry Ocean Colony North Tower, 131m
+21. Turnberry Ocean Colony South Tower, 131m
+22. Ocean Two Condominiums I, 130m
+23. Ocean Two Condominiums II, 130m
+24. Ocean Three Condominiums, 123m
+25. Ocean 4, 123m
+26. The Millennium, 116m
+27. Trump International Beach Resort, 107m
+28. Sayan Condominium, 97m
+29. Le Meridien Sunny Isles Beach, 83m
+
+******************** DETAILS ********************
+
+*** Sunny Isles Beach ***
+Country: United States
+Region: North America
+29 towers: Turnberry Ocean Club, Muse, Residences by Armani Casa, Mansions at Acqualina, The Ritz-Carlton Residences, Porsche Design Tower, Jade Signature, Jade on the Beach, Trump Palace, Acqualina Resort & Spa, Trump Royale, Jade Ocean, Regalia, The Pinnacle, Trump Towers I, Trump Towers II, Trump Towers III, Chateau Beach Residences, La Perla Ocean Residences, Turnberry Ocean Colony North Tower, Turnberry Ocean Colony South Tower, Ocean Two Condominiums I, Ocean Two Condominiums II, Ocean Three Condominiums, Ocean 4, The Millennium, Trump International Beach Resort, Sayan Condominium, Le Meridien Sunny Isles Beach
+Tiers: I: 2, II: 15, III: 12
+Rating: 80 (15.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Turnberry Ocean Club ***
+Height: 197.82
+Floors: 52
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Muse ***
+Height: 197.82
+Floors: 47
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 2
+
+*** Residences by Armani Casa ***
+Height: 197.8
+Floors: 60
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 3
+
+*** Mansions at Acqualina ***
+Height: 196
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 4
+
+*** The Ritz-Carlton Residences ***
+Height: 195.68
+Floors: 52
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 5
+
+*** Porsche Design Tower ***
+Height: 195.43
+Floors: 57
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 6
+
+*** Jade Signature ***
+Height: 193.85
+Floors: 57
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** Jade on the Beach ***
+Height: 175
+Floors: 51
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 8
+
+*** Trump Palace ***
+Height: 167.95
+Floors: 43
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 9
+
+*** Acqualina Resort & Spa ***
+Height: 167.64
+Floors: 51
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 10
+
+*** Trump Royale ***
+Height: 167.64
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 11
+
+*** Jade Ocean ***
+Height: 166
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 12
+
+*** Regalia ***
+Height: 147.75
+Floors: 43
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 13
+
+*** The Pinnacle ***
+Height: 145.09
+Floors: 40
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 14
+
+*** Trump Towers I ***
+Height: 140.5
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 15
+
+*** Trump Towers II ***
+Height: 140.5
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 15
+
+*** Trump Towers III ***
+Height: 140.5
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 15
+
+*** Chateau Beach Residences ***
+Height: 136.8
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 18
+
+*** La Perla Ocean Residences ***
+Height: 136.25
+Floors: 42
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 19
+
+*** Turnberry Ocean Colony North Tower ***
+Height: 131
+Floors: 37
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 20
+
+*** Turnberry Ocean Colony South Tower ***
+Height: 131
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 20
+
+*** Ocean Two Condominiums I ***
+Height: 129.8
+Floors: 40
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 22
+
+*** Ocean Two Condominiums II ***
+Height: 129.8
+Floors: 40
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 22
+
+*** Ocean Three Condominiums ***
+Height: 123.4
+Floors: 37
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 24
+
+*** Ocean 4 ***
+Height: 122.83
+Floors: 40
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 25
+
+*** The Millennium ***
+Height: 115.8
+Floors: 36
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 26
+
+*** Trump International Beach Resort ***
+Height: 107
+Floors: 32
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: residential / hotel
+Rank: 27
+
+*** Sayan Condominium ***
+Height: 97.25
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 28
+
+*** Le Meridien Sunny Isles Beach ***
+Height: 82.6
+Floors: 27
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential / hotel
+Rank: 29

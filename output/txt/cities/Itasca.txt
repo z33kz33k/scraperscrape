@@ -1,0 +1,20 @@
+*** Itasca (2) ***
+1. Two Pierce Place, 120m
+
+******************** DETAILS ********************
+
+*** Itasca ***
+Country: United States
+Region: North America
+1 tower: Two Pierce Place
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Two Pierce Place ***
+Height: 120.4
+Floors: 26
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 1

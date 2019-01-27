@@ -1,0 +1,21 @@
+*** Concepcion (1) ***
+1. Torre del Mall del Centro, 94m
+
+******************** DETAILS ********************
+
+*** Concepcion ***
+Country: Chile
+Region: South America
+1 tower: Torre del Mall del Centro
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-21 23:13:21
+
+*** Torre del Mall del Centro ***
+Height: 94.5
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: hotel / office / retail
+Rank: 1

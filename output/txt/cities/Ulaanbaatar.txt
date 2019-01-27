@@ -1,0 +1,138 @@
+*** Ulaanbaatar (20) ***
+1.  Shangri-La Wind Valley Wing Hotel, 120m
+2.  Soyombo Tower, 120m
+3.  Shangri-La Office Tower, 120m
+4.  Best Western Tuushin, 109m
+5.  Khurd Tower, 108m
+6.  Central Tower, 107m
+7.  Blue Sky Tower, 105m
+8.  Bella Vista Tower 1, 100m
+9.  Bella Vista Tower 2, 100m
+10. Bella Vista Tower 3, 100m
+11. Bella Vista Tower 4, 100m
+12. International Commerce Center, 100m
+13. Shangri-La Ulaanbaatar Hotel, 92m
+14. Monnis Tower, 76m
+
+******************** DETAILS ********************
+
+*** Ulaanbaatar ***
+Country: Mongolia
+Region: Asia
+14 towers: Shangri-La Wind Valley Wing Hotel, Soyombo Tower, Shangri-La Office Tower, Best Western Tuushin, Khurd Tower, Central Tower, Blue Sky Tower, Bella Vista Tower 1, Bella Vista Tower 2, Bella Vista Tower 3, Bella Vista Tower 4, International Commerce Center, Shangri-La Ulaanbaatar Hotel, Monnis Tower
+Tiers: I: 8, II: 6
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shangri-La Wind Valley Wing Hotel ***
+Height: 120
+Floors: 34
+Status: Completed
+Completed: 2016
+Functions: hotel
+Rank: 1
+
+*** Soyombo Tower ***
+Height: 120
+Floors: 28
+Status: Completed
+Completed: 2015
+Functions: residential / office
+Rank: 2
+
+*** Shangri-La Office Tower ***
+Height: 120
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 3
+
+*** Best Western Tuushin ***
+Height: 109
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: hotel
+Rank: 4
+
+*** Khurd Tower ***
+Height: 108
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 5
+
+*** Central Tower ***
+Height: 107.45
+Floors: 17
+Status: Completed
+Completed: 1999
+Functions: office / retail
+Rank: 6
+
+*** Blue Sky Tower ***
+Height: 105
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2010
+Functions: residential / hotel / office / retail
+Rank: 7
+
+*** Bella Vista Tower 1 ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** Bella Vista Tower 2 ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** Bella Vista Tower 3 ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** Bella Vista Tower 4 ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** International Commerce Center ***
+Height: 100
+Floors: 21
+Status: Completed
+Completed: 2014
+Functions: office / retail
+Rank: 12
+
+*** Shangri-La Ulaanbaatar Hotel ***
+Height: 91.5
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: hotel
+Rank: 13
+
+*** Monnis Tower ***
+Height: 75.5
+Floors: 13
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 14

@@ -1,0 +1,18 @@
+*** Hungary (3) ***
+1. Budapest, 3
+
+******************** DETAILS ********************
+
+*** Hungary ***
+Region: Europe
+1 city: Budapest
+Tiers: I: 3
+Rating: 3
+
+*** Budapest ***
+Country: Hungary
+Region: Europe
+3 towers: Semmelweiss Medical University, Schonherz Kollegium, Orszagos Egeszsegbiztositasi Penztar
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16

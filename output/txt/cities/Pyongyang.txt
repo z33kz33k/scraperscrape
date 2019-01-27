@@ -1,0 +1,622 @@
+*** Pyongyang (140) ***
+1.  Ryomyong Street Apartment Building, 270m
+2.  Ryomyong Street 70-Storey Building, 240m
+3.  Ryomyong Street 55-Storey Building, 210m
+4.  Mirae Scientists Street Residential Tower, 210m
+5.  Ryomyong Street 50-Storey Building, 200m
+6.  Taedong Residences 1, 172m
+7.  Yanggakdo Hotel, 170m
+8.  Kim Chaek University of Technology Tower 1, 165m
+9.  Kim Chaek University of Technology Tower 2, 165m
+10. KISU Residential Tower 1, 153m
+11. Ryomyong Street 40-Storey Building, 150m
+12. Twin Tower 1, 150m
+13. Twin Tower 2, 150m
+14. Ryonghung-Dong Apartment, 150m
+15. Koryo Hotel 1, 148m
+16. Koryo Hotel 2, 148m
+17. Taedong Residences 2, 148m
+18. Mansudae Apartment 1#, 146m
+19. Mansudae Apartment 2#, 146m
+20. Kwangbok Street 1, 144m
+21. KISU Residential Tower 2, 132m
+22. Mansudae Apartment 3#, 130m
+23. Green Tower 1, 130m
+24. Green Tower 2, 130m
+25. Ryomyong Street 35-Storey Building, 130m
+26. Blue Tower 1, 125m
+27. Kyongrim Residential 1, 124m
+28. Kwangbok Street 3, 122m
+29. Kwangbok Street 4, 122m
+30. Kwangbok Street 5, 122m
+31. Tongan Apartment 2, 122m
+32. Tongan Apartment 3, 122m
+33. Tongan Residential 1, 120m
+34. Tongan Residential 2, 120m
+35. Tongan Residential 3, 120m
+36. Tongan Residential 4, 120m
+37. Kimchaek University Residences 3, 120m
+38. Kimchaek University Residences 4, 120m
+39. Taedong Residences 3, 120m
+40. Ryusong Residential 1, 116m
+41. Ryusong Residential 2, 116m
+42. Kyongrim Residential 2, 110m
+43. Othan-Kangan Apartment, 109m
+44. Chongnyon Hotel, 107m
+45. Mansudae Apartment 8#A, 107m
+46. Mansudae Apartment 8#B , 107m
+47. Mansudae Apartment 4#, 104m
+48. Mansudae Apartment 5#, 104m
+49. Sosan Hotel, 103m
+50. Tongan Apartment 1, 103m
+51. Mansudae Apartment 9#A, 101m
+52. Mansudae Apartment 9#B, 101m
+53. Blue Tower 2, 100m
+54. Blue Tower 3, 100m
+55. Kyongrim Residential 5, 96m
+56. Kyongrim Residential 6, 96m
+57. Kyongrim Residential 7, 83m
+58. Kyongrim Residential 8, 83m
+59. Mansudae Apartment 10#A , 77m
+60. Mansudae Apartment 10#B, 77m
+61. Mansudae Apartment 12#, 77m
+62. Kyongrim Residential 4, 76m
+
+******************** DETAILS ********************
+
+*** Pyongyang ***
+Country: North Korea
+Region: Asia
+62 towers: Ryomyong Street Apartment Building, Ryomyong Street 70-Storey Building, Ryomyong Street 55-Storey Building, Mirae Scientists Street Residential Tower, Ryomyong Street 50-Storey Building, Taedong Residences 1, Yanggakdo Hotel, Kim Chaek University of Technology Tower 1, Kim Chaek University of Technology Tower 2, KISU Residential Tower 1, Ryomyong Street 40-Storey Building, Twin Tower 1, Twin Tower 2, Ryonghung-Dong Apartment, Koryo Hotel 1, Koryo Hotel 2, Taedong Residences 2, Mansudae Apartment 1#, Mansudae Apartment 2#, Kwangbok Street 1, KISU Residential Tower 2, Mansudae Apartment 3#, Green Tower 1, Green Tower 2, Ryomyong Street 35-Storey Building, Blue Tower 1, Kyongrim Residential 1, Kwangbok Street 3, Kwangbok Street 4, Kwangbok Street 5, Tongan Apartment 2, Tongan Apartment 3, Tongan Residential 1, Tongan Residential 2, Tongan Residential 3, Tongan Residential 4, Kimchaek University Residences 3, Kimchaek University Residences 4, Taedong Residences 3, Ryusong Residential 1, Ryusong Residential 2, Kyongrim Residential 2, Othan-Kangan Apartment, Chongnyon Hotel, Mansudae Apartment 8#A, Mansudae Apartment 8#B , Mansudae Apartment 4#, Mansudae Apartment 5#, Sosan Hotel, Tongan Apartment 1, Mansudae Apartment 9#A, Mansudae Apartment 9#B, Blue Tower 2, Blue Tower 3, Kyongrim Residential 5, Kyongrim Residential 6, Kyongrim Residential 7, Kyongrim Residential 8, Mansudae Apartment 10#A , Mansudae Apartment 10#B, Mansudae Apartment 12#, Kyongrim Residential 4
+Tiers: I: 16, II: 32, III: 12, IV: 2
+Rating: 140 (10.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ryomyong Street Apartment Building ***
+Height: 270
+Floors: 82
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Ryomyong Street 70-Storey Building ***
+Height: 240
+Floors: 70
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 2
+
+*** Ryomyong Street 55-Storey Building ***
+Height: 210
+Floors: 55
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 3
+
+*** Mirae Scientists Street Residential Tower ***
+Height: 210
+Floors: 53
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 4
+
+*** Ryomyong Street 50-Storey Building ***
+Height: 200
+Floors: 50
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 5
+
+*** Taedong Residences 1 ***
+Height: 172
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 6
+
+*** Yanggakdo Hotel ***
+Height: 170
+Floors: 47
+Status: Completed
+Completed: 1995
+Functions: hotel
+Rank: 7
+
+*** Kim Chaek University of Technology Tower 1 ***
+Height: 165
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** Kim Chaek University of Technology Tower 2 ***
+Height: 165
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** KISU Residential Tower 1 ***
+Height: 153
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 10
+
+*** Ryomyong Street 40-Storey Building ***
+Height: 150
+Floors: 40
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** Twin Tower 1 ***
+Height: 150
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 12
+
+*** Twin Tower 2 ***
+Height: 150
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 12
+
+*** Ryonghung-Dong Apartment ***
+Height: 150
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 14
+
+*** Koryo Hotel 1 ***
+Height: 148
+Floors: 40
+Status: Completed
+Completed: 1985
+Functions: hotel
+Rank: 15
+
+*** Koryo Hotel 2 ***
+Height: 148
+Floors: 40
+Status: Completed
+Completed: 1985
+Functions: hotel
+Rank: 15
+
+*** Taedong Residences 2 ***
+Height: 148
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 15
+
+*** Mansudae Apartment 1# ***
+Height: 146.25
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 18
+
+*** Mansudae Apartment 2# ***
+Height: 146.25
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 18
+
+*** Kwangbok Street 1 ***
+Height: 144.3
+Floors: 42
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 20
+
+*** KISU Residential Tower 2 ***
+Height: 132
+Floors: 37
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 21
+
+*** Mansudae Apartment 3# ***
+Height: 130
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 22
+
+*** Green Tower 1 ***
+Height: 130
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 23
+
+*** Green Tower 2 ***
+Height: 130
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 23
+
+*** Ryomyong Street 35-Storey Building ***
+Height: 130
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 23
+
+*** Blue Tower 1 ***
+Height: 125
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 26
+
+*** Kyongrim Residential 1 ***
+Height: 124
+Floors: 36
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 27
+
+*** Kwangbok Street 3 ***
+Height: 122.5
+Floors: 35
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 28
+
+*** Kwangbok Street 4 ***
+Height: 122.5
+Floors: 35
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 28
+
+*** Kwangbok Street 5 ***
+Height: 122.5
+Floors: 35
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 28
+
+*** Tongan Apartment 2 ***
+Height: 122
+Floors: 36
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 31
+
+*** Tongan Apartment 3 ***
+Height: 122
+Floors: 36
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 31
+
+*** Tongan Residential 1 ***
+Height: 120
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tongan Residential 2 ***
+Height: 120
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Tongan Residential 3 ***
+Height: 120
+Floors: 35
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 33
+
+*** Tongan Residential 4 ***
+Height: 120
+Floors: 35
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 33
+
+*** Kimchaek University Residences 3 ***
+Height: 120
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 37
+
+*** Kimchaek University Residences 4 ***
+Height: 120
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 37
+
+*** Taedong Residences 3 ***
+Height: 120
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 37
+
+*** Ryusong Residential 1 ***
+Height: 116
+Floors: 34
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 40
+
+*** Ryusong Residential 2 ***
+Height: 116
+Floors: 34
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 40
+
+*** Kyongrim Residential 2 ***
+Height: 110
+Floors: 32
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 42
+
+*** Othan-Kangan Apartment ***
+Height: 109
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 43
+
+*** Chongnyon Hotel ***
+Height: 107
+Floors: 30
+Status: Completed
+Completed: 1989
+Functions: hotel
+Rank: 44
+
+*** Mansudae Apartment 8#A ***
+Height: 106.75
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 45
+
+*** Mansudae Apartment 8#B  ***
+Height: 106.75
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 45
+
+*** Mansudae Apartment 4# ***
+Height: 104
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 47
+
+*** Mansudae Apartment 5# ***
+Height: 104
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 47
+
+*** Sosan Hotel ***
+Height: 103
+Floors: 30
+Status: Completed
+Completed: 1989
+Functions: hotel
+Rank: 49
+
+*** Tongan Apartment 1 ***
+Height: 103
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 49
+
+*** Mansudae Apartment 9#A ***
+Height: 100.85
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 51
+
+*** Mansudae Apartment 9#B ***
+Height: 100.85
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 51
+
+*** Blue Tower 2 ***
+Height: 100
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 53
+
+*** Blue Tower 3 ***
+Height: 100
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 53
+
+*** Kyongrim Residential 5 ***
+Height: 96
+Floors: 28
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 55
+
+*** Kyongrim Residential 6 ***
+Height: 96
+Floors: 28
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 55
+
+*** Kyongrim Residential 7 ***
+Height: 83
+Floors: 24
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 57
+
+*** Kyongrim Residential 8 ***
+Height: 83
+Floors: 24
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 57
+
+*** Mansudae Apartment 10#A  ***
+Height: 77.25
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 59
+
+*** Mansudae Apartment 10#B ***
+Height: 77.25
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 59
+
+*** Mansudae Apartment 12# ***
+Height: 77.25
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 59
+
+*** Kyongrim Residential 4 ***
+Height: 76
+Floors: 22
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 62

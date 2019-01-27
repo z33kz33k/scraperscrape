@@ -1,0 +1,36 @@
+*** Anshan (12) ***
+1. Ming Du International, 168m
+2. Crowne Plaza, 168m
+3. Anshan Silong Building, 155m
+
+******************** DETAILS ********************
+
+*** Anshan ***
+Country: China
+Region: Asia
+3 towers: Ming Du International, Crowne Plaza, Anshan Silong Building
+Tiers: III: 3
+Rating: 12 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ming Du International ***
+Height: 168
+Floors: 47
+Status: Under Construction
+Functions: office
+Rank: 1
+
+*** Crowne Plaza ***
+Height: 168
+Floors: 38
+Status: Under Construction
+Functions: hotel
+Rank: 2
+
+*** Anshan Silong Building ***
+Height: 155
+Floors: 43
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 3

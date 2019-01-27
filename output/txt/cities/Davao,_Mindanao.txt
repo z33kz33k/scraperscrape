@@ -1,0 +1,21 @@
+*** Davao, Mindanao (1) ***
+1. Aeon Towers, 104m
+
+******************** DETAILS ********************
+
+*** Davao, Mindanao ***
+Country: Philippines
+Region: Asia
+1 tower: Aeon Towers
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Aeon Towers ***
+Height: 103.5
+Floors: 34
+Status: Under Construction
+Started: 2013
+Completed: 2017
+Functions: residential / hotel
+Rank: 1

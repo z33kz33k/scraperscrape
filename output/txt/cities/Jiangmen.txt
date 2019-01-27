@@ -1,0 +1,38 @@
+*** Jiangmen (12) ***
+1. Jiangmen Wanda Plaza A, 200m
+2. Jiangmen Wanda Plaza B, 200m
+3. Telecom Tower, 157m
+
+******************** DETAILS ********************
+
+*** Jiangmen ***
+Country: China
+Region: Asia
+3 towers: Jiangmen Wanda Plaza A, Jiangmen Wanda Plaza B, Telecom Tower
+Tiers: III: 3
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jiangmen Wanda Plaza A ***
+Height: 200
+Floors: 45
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** Jiangmen Wanda Plaza B ***
+Height: 200
+Floors: 45
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** Telecom Tower ***
+Height: 157
+Floors: 38
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 3

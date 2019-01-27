@@ -1,0 +1,18 @@
+*** Myanmar (1) ***
+1. Yangon, 1
+
+******************** DETAILS ********************
+
+*** Myanmar ***
+Region: Asia
+1 city: Yangon
+Tiers: I: 1
+Rating: 1
+
+*** Yangon ***
+Country: Myanmar
+Region: Asia
+1 tower: Sule Shangri-la Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

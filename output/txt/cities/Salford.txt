@@ -1,0 +1,94 @@
+*** Salford (11) ***
+1. 100 Greengate, 131m
+2. Affinity Living Riverview, 110m
+3. Blue Tower, 89m
+4. The Residence Greengate Tower 1, 89m
+5. TheHeart, 86m
+6. X1 Media City-Tower 1, 84m
+7. City Heights/Premier Inn, 80m
+8. NumberOne, 76m
+9. Briar Hill Court, 75m
+
+******************** DETAILS ********************
+
+*** Salford ***
+Country: United Kingdom
+Region: Europe
+9 towers: 100 Greengate, Affinity Living Riverview, Blue Tower, The Residence Greengate Tower 1, TheHeart, X1 Media City-Tower 1, City Heights/Premier Inn, NumberOne, Briar Hill Court
+Tiers: I: 7, II: 2
+Rating: 11 (45.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** 100 Greengate ***
+Height: 131.4
+Floors: 44
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Affinity Living Riverview ***
+Height: 110
+Floors: 35
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Blue Tower ***
+Height: 89.3
+Floors: 19
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 3
+
+*** The Residence Greengate Tower 1 ***
+Height: 89
+Floors: 31
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 4
+
+*** TheHeart ***
+Height: 86
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: serviced apartments
+Rank: 5
+
+*** X1 Media City-Tower 1 ***
+Height: 84.41
+Floors: 27
+Status: Under Construction
+Started: 2015
+Functions: residential
+Rank: 6
+
+*** City Heights/Premier Inn ***
+Height: 80
+Floors: 25
+Status: Completed
+Completed: 1966
+Functions: residential / hotel
+Rank: 7
+
+*** NumberOne ***
+Height: 76.2
+Floors: 22
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 8
+
+*** Briar Hill Court ***
+Height: 75
+Floors: 25
+Status: Completed
+Completed: 1970
+Functions: residential / retail
+Rank: 9

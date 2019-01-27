@@ -1,0 +1,21 @@
+*** Lusaka (1) ***
+1. Findeco House, 90m
+
+******************** DETAILS ********************
+
+*** Lusaka ***
+Country: Zambia
+Region: Africa
+1 tower: Findeco House
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Findeco House ***
+Height: 89.92
+Floors: 23
+Status: Completed
+Started: 1971
+Completed: 1974
+Functions: office
+Rank: 1

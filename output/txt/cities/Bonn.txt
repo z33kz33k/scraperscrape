@@ -1,0 +1,31 @@
+*** Bonn (6) ***
+1. Post Turm, 162m
+2. UN-Hochhaus, 115m
+
+******************** DETAILS ********************
+
+*** Bonn ***
+Country: Germany
+Region: Europe
+2 towers: Post Turm, UN-Hochhaus
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Post Turm ***
+Height: 162.48
+Floors: 42
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 1
+
+*** UN-Hochhaus ***
+Height: 115
+Floors: 29
+Status: Completed
+Started: 1966
+Completed: 1969
+Functions: office
+Rank: 2

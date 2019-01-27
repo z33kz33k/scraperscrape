@@ -1,0 +1,30 @@
+*** Stamford (3) ***
+1. Trump Parc Stamford, 107m
+2. One Landmark Square, 90m
+
+******************** DETAILS ********************
+
+*** Stamford ***
+Country: United States
+Region: North America
+2 towers: Trump Parc Stamford, One Landmark Square
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Trump Parc Stamford ***
+Height: 106.68
+Floors: 35
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** One Landmark Square ***
+Height: 89.92
+Floors: 21
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 2

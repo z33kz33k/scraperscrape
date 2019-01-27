@@ -1,0 +1,141 @@
+*** Birmingham (16) ***
+1.  10 Holloway Circus, 130m
+2.  Beorma Tower, 111m
+3.  103 Colmore Row, 102m
+4.  The Bank Tower 2, 102m
+5.  Alpha Tower, 100m
+6.  Cleveland Tower, 90m
+7.  Clydesdale Tower, 90m
+8.  Orion Tower, 90m
+9.  The Rotunda, 81m
+10. City Centre Tower, 76m
+11. Five Ways Tower, 76m
+12. Centre City Tower, 76m
+13. Hyatt Regency Birmingham, 75m
+14. Two Snowhill, 75m
+
+******************** DETAILS ********************
+
+*** Birmingham ***
+Country: United Kingdom
+Region: Europe
+14 towers: 10 Holloway Circus, Beorma Tower, 103 Colmore Row, The Bank Tower 2, Alpha Tower, Cleveland Tower, Clydesdale Tower, Orion Tower, The Rotunda, City Centre Tower, Five Ways Tower, Centre City Tower, Hyatt Regency Birmingham, Two Snowhill
+Tiers: I: 12, II: 2
+Rating: 16 (25.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 10 Holloway Circus ***
+Height: 130
+Floors: 39
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential / hotel
+Rank: 1
+
+*** Beorma Tower ***
+Height: 110.6
+Floors: 30
+Status: Under Construction
+Started: 2016
+Functions: office
+Rank: 2
+
+*** 103 Colmore Row ***
+Height: 102.5
+Floors: 26
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 3
+
+*** The Bank Tower 2 ***
+Height: 102
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 4
+
+*** Alpha Tower ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 5
+
+*** Cleveland Tower ***
+Height: 90
+Floors: 32
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 6
+
+*** Clydesdale Tower ***
+Height: 90
+Floors: 32
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 6
+
+*** Orion Tower ***
+Height: 90
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 8
+
+*** The Rotunda ***
+Height: 81
+Floors: 23
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 9
+
+*** City Centre Tower ***
+Height: 76.2
+Status: Completed
+Started: 1972
+Completed: 1975
+Functions: office
+Rank: 10
+
+*** Five Ways Tower ***
+Height: 76
+Floors: 22
+Status: Completed
+Functions: office
+Rank: 11
+
+*** Centre City Tower ***
+Height: 76
+Floors: 21
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 12
+
+*** Hyatt Regency Birmingham ***
+Height: 75
+Floors: 24
+Status: Completed
+Completed: 1990
+Functions: hotel
+Rank: 13
+
+*** Two Snowhill ***
+Height: 75
+Floors: 15
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: office
+Rank: 14

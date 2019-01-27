@@ -1,0 +1,77 @@
+*** Praha (8) ***
+1. City Tower, 109m
+2. V Tower, 104m
+3. City Empiria, 104m
+4. Corinthia Towers Hotel, 83m
+5. Lighthouse Vltava Waterfront Towers, 80m
+6. Telefonica O2, 80m
+7. Corinthia Panorama Hotel, 79m
+
+******************** DETAILS ********************
+
+*** Praha ***
+Country: Czech Republic
+Region: Europe
+7 towers: City Tower, V Tower, City Empiria, Corinthia Towers Hotel, Lighthouse Vltava Waterfront Towers, Telefonica O2, Corinthia Panorama Hotel
+Tiers: I: 6, II: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** City Tower ***
+Height: 109
+Floors: 27
+Status: Completed
+Started: 1978
+Completed: 1986
+Functions: office
+Rank: 1
+
+*** V Tower ***
+Height: 104
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 2
+
+*** City Empiria ***
+Height: 103.65
+Floors: 24
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 3
+
+*** Corinthia Towers Hotel ***
+Height: 83
+Floors: 26
+Status: Completed
+Completed: 1988
+Functions: hotel
+Rank: 4
+
+*** Lighthouse Vltava Waterfront Towers ***
+Height: 80
+Floors: 19
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 5
+
+*** Telefonica O2 ***
+Height: 80
+Floors: 18
+Status: Completed
+Completed: 1959
+Functions: office
+Rank: 6
+
+*** Corinthia Panorama Hotel ***
+Height: 79
+Floors: 24
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 7

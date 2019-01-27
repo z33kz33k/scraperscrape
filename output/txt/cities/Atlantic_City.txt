@@ -1,0 +1,220 @@
+*** Atlantic City (38) ***
+1.  Revel Resort and Casino, 219m
+2.  Harrah`s Waterfront Tower, 160m
+3.  Trump Taj Mahal - Chairman Tower, 143m
+4.  The Water Club at Borgata, 139m
+5.  Borgata Hotel & Casino, 131m
+6.  Trump Taj Mahal Casino Hotel, 131m
+7.  Bally`s Atlantic City, 114m
+8.  Claridge Tower at Bally`s, 113m
+9.  Ocean Club Condominiums - East Tower, 110m
+10. Ocean Club Condominiums - West Tower, 110m
+11. Tropicana Casino & Resort Atlantic City - Havana Tower, 101m
+12. Trump Plaza Hotel, 98m
+13. Wyndham Atlantic City at Skyline Tower, 94m
+14. Tropicana Casino & Resort Atlantic City - West Tower, 94m
+15. Harrah's Bayview Tower, 93m
+16. Ramada Renaissance, 92m
+17. Caesars Atlantic City Centurion Tower, 91m
+18. Fantasea Resort Flagship, 90m
+19. Bella Condominiums, 82m
+20. Atlantic City Hilton, 80m
+21. Showboat Atlantic City, 76m
+22. Tropicana Casino & Resort Atlantic City - North Tower, 76m
+
+******************** DETAILS ********************
+
+*** Atlantic City ***
+Country: United States
+Region: North America
+22 towers: Revel Resort and Casino, Harrah`s Waterfront Tower, Trump Taj Mahal - Chairman Tower, The Water Club at Borgata, Borgata Hotel & Casino, Trump Taj Mahal Casino Hotel, Bally`s Atlantic City, Claridge Tower at Bally`s, Ocean Club Condominiums - East Tower, Ocean Club Condominiums - West Tower, Tropicana Casino & Resort Atlantic City - Havana Tower, Trump Plaza Hotel, Wyndham Atlantic City at Skyline Tower, Tropicana Casino & Resort Atlantic City - West Tower, Harrah's Bayview Tower, Ramada Renaissance, Caesars Atlantic City Centurion Tower, Fantasea Resort Flagship, Bella Condominiums, Atlantic City Hilton, Showboat Atlantic City, Tropicana Casino & Resort Atlantic City - North Tower
+Tiers: I: 12, II: 8, III: 1, IV: 1
+Rating: 38
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Revel Resort and Casino ***
+Height: 218.92
+Floors: 53
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: hotel / casino
+Rank: 1
+
+*** Harrah`s Waterfront Tower ***
+Height: 160.02
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel / casino
+Rank: 2
+
+*** Trump Taj Mahal - Chairman Tower ***
+Height: 143.21
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel
+Rank: 3
+
+*** The Water Club at Borgata ***
+Height: 139.29
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel / casino
+Rank: 4
+
+*** Borgata Hotel & Casino ***
+Height: 131.45
+Floors: 42
+Status: Completed
+Started: 2000
+Completed: 2007
+Functions: hotel / casino
+Rank: 5
+
+*** Trump Taj Mahal Casino Hotel ***
+Height: 130.76
+Floors: 42
+Status: Completed
+Started: 1987
+Completed: 1990
+Functions: hotel / casino
+Rank: 6
+
+*** Bally`s Atlantic City ***
+Height: 114.3
+Floors: 37
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: hotel / casino
+Rank: 7
+
+*** Claridge Tower at Bally`s ***
+Height: 112.78
+Floors: 23
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: hotel
+Rank: 8
+
+*** Ocean Club Condominiums - East Tower ***
+Height: 109.73
+Floors: 34
+Status: Completed
+Started: 1983
+Completed: 1984
+Functions: residential
+Rank: 9
+
+*** Ocean Club Condominiums - West Tower ***
+Height: 109.73
+Floors: 34
+Status: Completed
+Started: 1983
+Completed: 1984
+Functions: residential
+Rank: 9
+
+*** Tropicana Casino & Resort Atlantic City - Havana Tower ***
+Height: 101
+Floors: 33
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 11
+
+*** Trump Plaza Hotel ***
+Height: 97.84
+Floors: 39
+Status: Completed
+Started: 1983
+Completed: 1984
+Functions: hotel / casino
+Rank: 12
+
+*** Wyndham Atlantic City at Skyline Tower ***
+Height: 94
+Floors: 32
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 13
+
+*** Tropicana Casino & Resort Atlantic City - West Tower ***
+Height: 93.5
+Floors: 32
+Status: Completed
+Completed: 1996
+Functions: hotel
+Rank: 14
+
+*** Harrah's Bayview Tower ***
+Height: 93
+Floors: 25
+Status: Completed
+Completed: 2002
+Functions: hotel / casino
+Rank: 15
+
+*** Ramada Renaissance ***
+Height: 91.5
+Floors: 30
+Status: Completed
+Completed: 1986
+Functions: residential / hotel
+Rank: 16
+
+*** Caesars Atlantic City Centurion Tower ***
+Height: 91
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 17
+
+*** Fantasea Resort Flagship ***
+Height: 89.6
+Floors: 32
+Status: Completed
+Completed: 1988
+Functions: hotel
+Rank: 18
+
+*** Bella Condominiums ***
+Height: 82.3
+Floors: 27
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 19
+
+*** Atlantic City Hilton ***
+Height: 80
+Floors: 22
+Status: Completed
+Completed: 1981
+Functions: hotel / casino
+Rank: 20
+
+*** Showboat Atlantic City ***
+Height: 76.2
+Floors: 24
+Status: Completed
+Completed: 1987
+Functions: hotel
+Rank: 21
+
+*** Tropicana Casino & Resort Atlantic City - North Tower ***
+Height: 75.9
+Floors: 19
+Status: Completed
+Completed: 1919
+Functions: hotel
+Rank: 22

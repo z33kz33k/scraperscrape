@@ -1,0 +1,20 @@
+*** Kota Kinabalu, Sabah (2) ***
+1. Menara Tun Mustapha, 122m
+
+******************** DETAILS ********************
+
+*** Kota Kinabalu, Sabah ***
+Country: Malaysia
+Region: Asia
+1 tower: Menara Tun Mustapha
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Menara Tun Mustapha ***
+Height: 122
+Floors: 30
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 1

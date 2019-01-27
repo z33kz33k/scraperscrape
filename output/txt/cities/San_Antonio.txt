@@ -1,0 +1,168 @@
+*** San Antonio (27) ***
+1.  San Antonio Marriott Rivercenter, 166m
+2.  Weston Centre, 135m
+3.  Grand Hyatt San Antonio, 129m
+4.  Tower Life Building, 123m
+5.  Frost Bank Tower, 122m
+6.  Bank of America Plaza, 118m
+7.  The Towers at Park Lane, 112m
+8.  Marriott Riverwalk, 107m
+9.  Wyndham San Antonio Riverwalk, 99m
+10. Frost Bank Tower, 91m
+11. Vidorra I, 89m
+12. Milam Building, 85m
+13. Broadway San Antonio, 85m
+14. Drury Plaza Hotel - San Antonio Riverwalk, 85m
+15. Nix Professional Building, 84m
+16. AT&T Building, 79m
+17. Riverview Towers West Tower, 79m
+
+******************** DETAILS ********************
+
+*** San Antonio ***
+Country: United States
+Region: North America
+17 towers: San Antonio Marriott Rivercenter, Weston Centre, Grand Hyatt San Antonio, Tower Life Building, Frost Bank Tower, Bank of America Plaza, The Towers at Park Lane, Marriott Riverwalk, Wyndham San Antonio Riverwalk, Frost Bank Tower, Vidorra I, Milam Building, Broadway San Antonio, Drury Plaza Hotel - San Antonio Riverwalk, Nix Professional Building, AT&T Building, Riverview Towers West Tower
+Tiers: I: 9, II: 7, III: 1
+Rating: 27 (7.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** San Antonio Marriott Rivercenter ***
+Height: 166.42
+Floors: 38
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: hotel
+Rank: 1
+
+*** Weston Centre ***
+Height: 135.33
+Floors: 32
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 2
+
+*** Grand Hyatt San Antonio ***
+Height: 129.31
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office / hotel
+Rank: 3
+
+*** Tower Life Building ***
+Height: 123.14
+Floors: 30
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: office
+Rank: 4
+
+*** Frost Bank Tower ***
+Height: 121.9
+Floors: 23
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 5
+
+*** Bank of America Plaza ***
+Height: 117.96
+Floors: 28
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 6
+
+*** The Towers at Park Lane ***
+Height: 112.17
+Floors: 23
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 7
+
+*** Marriott Riverwalk ***
+Height: 106.7
+Floors: 30
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 8
+
+*** Wyndham San Antonio Riverwalk ***
+Height: 99.06
+Floors: 24
+Status: Completed
+Completed: 2006
+Functions: hotel
+Rank: 9
+
+*** Frost Bank Tower ***
+Height: 91.44
+Floors: 21
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 10
+
+*** Vidorra I ***
+Height: 89
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 11
+
+*** Milam Building ***
+Height: 85.34
+Floors: 20
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 12
+
+*** Broadway San Antonio ***
+Height: 85.04
+Floors: 20
+Status: Completed
+Completed: 2010
+Rank: 13
+
+*** Drury Plaza Hotel - San Antonio Riverwalk ***
+Height: 84.73
+Floors: 24
+Status: Completed
+Completed: 1929
+Functions: hotel
+Rank: 14
+
+*** Nix Professional Building ***
+Height: 83.82
+Floors: 23
+Status: Completed
+Completed: 1931
+Functions: hospital
+Rank: 15
+
+*** AT&T Building ***
+Height: 79.25
+Floors: 16
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: office
+Rank: 16
+
+*** Riverview Towers West Tower ***
+Height: 79.2
+Floors: 20
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 17

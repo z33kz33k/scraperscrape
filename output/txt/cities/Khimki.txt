@@ -1,0 +1,41 @@
+*** Khimki (3) ***
+1. AERO City, 99m
+2. Mayak 3, 92m
+3. MEBE One Khimki Plaza, 87m
+
+******************** DETAILS ********************
+
+*** Khimki ***
+Country: Russia
+Region: Europe
+3 towers: AERO City, Mayak 3, MEBE One Khimki Plaza
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** AERO City ***
+Height: 98.6
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 1
+
+*** Mayak 3 ***
+Height: 91.5
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 2
+
+*** MEBE One Khimki Plaza ***
+Height: 87
+Floors: 20
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: office
+Rank: 3

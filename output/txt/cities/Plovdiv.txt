@@ -1,0 +1,29 @@
+*** Plovdiv (2) ***
+1. Park Sankt Peterburg Hotel, 103m
+2. Hotel Moskva, 81m
+
+******************** DETAILS ********************
+
+*** Plovdiv ***
+Country: Bulgaria
+Region: Europe
+2 towers: Park Sankt Peterburg Hotel, Hotel Moskva
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Park Sankt Peterburg Hotel ***
+Height: 103
+Floors: 30
+Status: Completed
+Completed: 1970
+Functions: hotel
+Rank: 1
+
+*** Hotel Moskva ***
+Height: 81
+Floors: 26
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 2

@@ -1,0 +1,29 @@
+*** Reno (4) ***
+1. Silver Legacy Resort & Casino, 125m
+2. Grand Sierra Resort & Casino, 108m
+
+******************** DETAILS ********************
+
+*** Reno ***
+Country: United States
+Region: North America
+2 towers: Silver Legacy Resort & Casino, Grand Sierra Resort & Casino
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Silver Legacy Resort & Casino ***
+Height: 125
+Floors: 38
+Status: Completed
+Completed: 1995
+Functions: hotel / casino
+Rank: 1
+
+*** Grand Sierra Resort & Casino ***
+Height: 107.6
+Floors: 26
+Status: Completed
+Completed: 1978
+Functions: hotel / casino
+Rank: 2

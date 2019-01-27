@@ -1,0 +1,150 @@
+*** Fort Worth (28) ***
+1.  Burnett Plaza, 173m
+2.  D.R. Horton Tower, 167m
+3.  Carter+Burgess Plaza, 160m
+4.  The Tower, 149m
+5.  Wells Fargo Tower, 145m
+6.  Omni Fort Worth Hotel, 136m
+7.  Pier 1 Place, 99m
+8.  714 Main, 94m
+9.  Bank of America, 91m
+10. AT&T Building, 90m
+11. W.T. Waggoner Building, 82m
+12. Courtyard Fort Worth Downtown, 82m
+13. Star-Telegram Building, 79m
+14. City Place Tower Two, 79m
+15. Fritz G. Lanham Federal Building, 76m
+16. City Place Tower One, 75m
+
+******************** DETAILS ********************
+
+*** Fort Worth ***
+Country: United States
+Region: North America
+16 towers: Burnett Plaza, D.R. Horton Tower, Carter+Burgess Plaza, The Tower, Wells Fargo Tower, Omni Fort Worth Hotel, Pier 1 Place, 714 Main, Bank of America, AT&T Building, W.T. Waggoner Building, Courtyard Fort Worth Downtown, Star-Telegram Building, City Place Tower Two, Fritz G. Lanham Federal Building, City Place Tower One
+Tiers: I: 10, II: 3, III: 3
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Burnett Plaza ***
+Height: 172.91
+Floors: 40
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 1
+
+*** D.R. Horton Tower ***
+Height: 166.65
+Floors: 38
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 2
+
+*** Carter+Burgess Plaza ***
+Height: 160.02
+Floors: 40
+Status: Completed
+Started: 1980
+Completed: 1982
+Functions: office
+Rank: 3
+
+*** The Tower ***
+Height: 148.74
+Floors: 36
+Status: Completed
+Completed: 1974
+Rank: 4
+
+*** Wells Fargo Tower ***
+Height: 145.39
+Floors: 33
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 5
+
+*** Omni Fort Worth Hotel ***
+Height: 136.25
+Floors: 33
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / hotel
+Rank: 6
+
+*** Pier 1 Place ***
+Height: 98.76
+Floors: 20
+Status: Completed
+Completed: 2004
+Rank: 7
+
+*** 714 Main ***
+Height: 93.57
+Floors: 24
+Status: Completed
+Completed: 1921
+Rank: 8
+
+*** Bank of America ***
+Height: 91.44
+Floors: 21
+Status: Completed
+Completed: 1962
+Rank: 9
+
+*** AT&T Building ***
+Height: 89.92
+Floors: 17
+Status: Completed
+Completed: 1958
+Functions: office
+Rank: 10
+
+*** W.T. Waggoner Building ***
+Height: 82.3
+Floors: 20
+Status: Completed
+Completed: 1921
+Rank: 11
+
+*** Courtyard Fort Worth Downtown ***
+Height: 81.69
+Floors: 23
+Status: Completed
+Completed: 1929
+Rank: 12
+
+*** Star-Telegram Building ***
+Height: 79.25
+Floors: 19
+Status: Completed
+Completed: 1930
+Functions: office
+Rank: 13
+
+*** City Place Tower Two ***
+Height: 78.64
+Floors: 20
+Status: Completed
+Completed: 1978
+Rank: 14
+
+*** Fritz G. Lanham Federal Building ***
+Height: 76.2
+Floors: 14
+Status: Completed
+Completed: 1968
+Functions: government
+Rank: 15
+
+*** City Place Tower One ***
+Height: 75.29
+Floors: 19
+Status: Completed
+Completed: 1976
+Rank: 16

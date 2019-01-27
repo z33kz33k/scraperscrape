@@ -1,0 +1,30 @@
+*** Boise (2) ***
+1. 8th and Main Tower, 96m
+2. US Bank Plaza, 81m
+
+******************** DETAILS ********************
+
+*** Boise ***
+Country: United States
+Region: North America
+2 towers: 8th and Main Tower, US Bank Plaza
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 8th and Main Tower ***
+Height: 96
+Floors: 18
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** US Bank Plaza ***
+Height: 81.38
+Floors: 20
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 2

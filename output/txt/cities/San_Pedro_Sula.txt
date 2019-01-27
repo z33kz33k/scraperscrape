@@ -1,0 +1,31 @@
+*** San Pedro Sula (3) ***
+1. Torres Igvanas Tara Eco City, 122m
+2. Condominios Panorama Life Torre I, 102m
+
+******************** DETAILS ********************
+
+*** San Pedro Sula ***
+Country: Honduras
+Region: Central America
+2 towers: Torres Igvanas Tara Eco City, Condominios Panorama Life Torre I
+Tiers: I: 1, II: 1
+Rating: 3 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torres Igvanas Tara Eco City ***
+Height: 122.5
+Floors: 34
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential / retail
+Rank: 1
+
+*** Condominios Panorama Life Torre I ***
+Height: 101.5
+Floors: 27
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 2

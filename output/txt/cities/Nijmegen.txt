@@ -1,0 +1,30 @@
+*** Nijmegen (2) ***
+1. Erasmusgebouw, 88m
+2. 52degrees, 86m
+
+******************** DETAILS ********************
+
+*** Nijmegen ***
+Country: Netherlands
+Region: Europe
+2 towers: Erasmusgebouw, 52degrees
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Erasmusgebouw ***
+Height: 88
+Floors: 20
+Status: Completed
+Completed: 1973
+Functions: education
+Rank: 1
+
+*** 52degrees ***
+Height: 86
+Floors: 18
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 2

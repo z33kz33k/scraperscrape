@@ -1,0 +1,516 @@
+*** Montreal (118) ***
+1.  Le 1250 Boulevard Rene-Levesque, 226m
+2.  Le 1000 de la Gauchetiere, 205m
+3.  Tour de la Bourse, 190m
+4.  Place Ville Marie, 188m
+5.  L'Avenue, 184m
+6.  La Tour CIBC, 184m
+7.  Tour des Canadiens 2, 168m
+8.  Tour des Canadiens, 167m
+9.  Le 1501 McGill College, 158m
+10. Le Complexe Desjardins Sud, 152m
+11. Roccabella (Tour de la Montagne), 147m
+12. Roccabella (Tour Drummond), 147m
+13. Icône , 146m
+14. Tour KPMG, 146m
+15. Marriott Ch&acirc;teau Champlain, 138m
+16. Marriott Courtyard, 136m
+17. Place Montreal Trust, 134m
+18. Tour Deloitte, 133m
+19. Le 500 Place d'Armes, 133m
+20. Tour Telus, 131m
+21. Tour de la Banque Nationale, 131m
+22. Le Complexe Desjardins Tour Est, 130m
+23. Tour Bell Canada, 130m
+24. Le Port-Royal, 129m
+25. Centre Mont-Royal, 128m
+26. Tour Scotia, 128m
+27. Le 800, 125m
+28. TOM Condos, 122m
+29. Edifice Sun Life Building, 122m
+30. Tour de la Banque Royale, 121m
+31. Holiday Inn Montréal Centre-Ville West, 120m
+32. Humaniti Montréal, 120m
+33. YUL Tower 1, 120m
+34. YUL Tower 2, 120m
+35. Maison Manuvie, 120m
+36. Cité du Commerce Électronique, 119m
+37. Le Centre Sheraton, 118m
+38. Place du Canada, 113m
+39. Le 400, 112m
+40. CHUM, 112m
+41. Edifice Hydro Quebec, 110m
+42. 500 Boulvard René-Lévesque Ouest, 110m
+43. Le Complexe Desjardins Nord, 108m
+44. Tour Intact, 106m
+45. Le Peterson, 105m
+46. Hotel Omni Montreal, 104m
+47. Place Sherbrooke, 104m
+48. 1100 René-Levesque Boulevard, 102m
+49. Le Crystal, 101m
+50. Plaza Tower, 101m
+51. Quebecor, 84m
+52. Cité du Commerce Électronique II, 81m
+53. Le Chatel, 80m
+
+******************** DETAILS ********************
+
+*** Montreal ***
+Country: Canada
+Region: North America
+53 towers: Le 1250 Boulevard Rene-Levesque, Le 1000 de la Gauchetiere, Tour de la Bourse, Place Ville Marie, L'Avenue, La Tour CIBC, Tour des Canadiens 2, Tour des Canadiens, Le 1501 McGill College, Le Complexe Desjardins Sud, Roccabella (Tour de la Montagne), Roccabella (Tour Drummond), Icône , Tour KPMG, Marriott Ch&acirc;teau Champlain, Marriott Courtyard, Place Montreal Trust, Tour Deloitte, Le 500 Place d'Armes, Tour Telus, Tour de la Banque Nationale, Le Complexe Desjardins Tour Est, Tour Bell Canada, Le Port-Royal, Centre Mont-Royal, Tour Scotia, Le 800, TOM Condos, Edifice Sun Life Building, Tour de la Banque Royale, Holiday Inn Montréal Centre-Ville West, Humaniti Montréal, YUL Tower 1, YUL Tower 2, Maison Manuvie, Cité du Commerce Électronique, Le Centre Sheraton, Place du Canada, Le 400, CHUM, Edifice Hydro Quebec, 500 Boulvard René-Lévesque Ouest, Le Complexe Desjardins Nord, Tour Intact, Le Peterson, Hotel Omni Montreal, Place Sherbrooke, 1100 René-Levesque Boulevard, Le Crystal, Plaza Tower, Quebecor, Cité du Commerce Électronique II, Le Chatel
+Tiers: I: 10, II: 33, III: 9, IV: 1
+Rating: 118 (13.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Le 1250 Boulevard Rene-Levesque ***
+Height: 226.47
+Floors: 47
+Status: Completed
+Started: 1988
+Completed: 1992
+Functions: office
+Rank: 1
+
+*** Le 1000 de la Gauchetiere ***
+Height: 205
+Floors: 51
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 2
+
+*** Tour de la Bourse ***
+Height: 190
+Floors: 47
+Status: Completed
+Started: 1962
+Completed: 1964
+Functions: office
+Rank: 3
+
+*** Place Ville Marie ***
+Height: 188
+Floors: 43
+Status: Completed
+Started: 1958
+Completed: 1962
+Functions: office
+Rank: 4
+
+*** L'Avenue ***
+Height: 184.4
+Floors: 51
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / office
+Rank: 5
+
+*** La Tour CIBC ***
+Height: 184
+Floors: 45
+Status: Completed
+Started: 1959
+Completed: 1962
+Functions: office
+Rank: 6
+
+*** Tour des Canadiens 2 ***
+Height: 168
+Floors: 53
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 7
+
+*** Tour des Canadiens ***
+Height: 167
+Floors: 48
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 8
+
+*** Le 1501 McGill College ***
+Height: 158.19
+Floors: 36
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 9
+
+*** Le Complexe Desjardins Sud ***
+Height: 151.8
+Floors: 40
+Status: Completed
+Started: 1972
+Completed: 1975
+Functions: office
+Rank: 10
+
+*** Roccabella (Tour de la Montagne) ***
+Height: 147
+Floors: 40
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 11
+
+*** Roccabella (Tour Drummond) ***
+Height: 147
+Floors: 40
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Icône  ***
+Height: 146
+Floors: 39
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Tour KPMG ***
+Height: 146
+Floors: 34
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 14
+
+*** Marriott Ch&acirc;teau Champlain ***
+Height: 138.5
+Floors: 38
+Status: Completed
+Completed: 1967
+Functions: hotel
+Rank: 15
+
+*** Marriott Courtyard ***
+Height: 136
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: hotel
+Rank: 16
+
+*** Place Montreal Trust ***
+Height: 134.1
+Floors: 30
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 17
+
+*** Tour Deloitte ***
+Height: 133
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 18
+
+*** Le 500 Place d'Armes ***
+Height: 132.7
+Floors: 32
+Status: Completed
+Started: 1965
+Completed: 1968
+Functions: office
+Rank: 19
+
+*** Tour Telus ***
+Height: 131
+Floors: 32
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 20
+
+*** Tour de la Banque Nationale ***
+Height: 130.75
+Floors: 28
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: office
+Rank: 21
+
+*** Le Complexe Desjardins Tour Est ***
+Height: 130
+Floors: 32
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 22
+
+*** Tour Bell Canada ***
+Height: 129.5
+Floors: 28
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: office
+Rank: 23
+
+*** Le Port-Royal ***
+Height: 129.2
+Floors: 33
+Status: Completed
+Completed: 1964
+Functions: residential
+Rank: 24
+
+*** Centre Mont-Royal ***
+Height: 128
+Floors: 28
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 25
+
+*** Tour Scotia ***
+Height: 127.6
+Floors: 27
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 26
+
+*** Le 800 ***
+Height: 125
+Floors: 30
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 27
+
+*** TOM Condos ***
+Height: 122
+Floors: 40
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: residential / retail
+Rank: 28
+
+*** Edifice Sun Life Building ***
+Height: 122
+Floors: 24
+Status: Completed
+Started: 1913
+Completed: 1931
+Functions: office
+Rank: 29
+
+*** Tour de la Banque Royale ***
+Height: 121
+Floors: 22
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 30
+
+*** Holiday Inn Montréal Centre-Ville West ***
+Height: 120
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / hotel
+Rank: 31
+
+*** Humaniti Montréal ***
+Height: 120
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential / hotel / office
+Rank: 32
+
+*** YUL Tower 1 ***
+Height: 120
+Floors: 38
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 33
+
+*** YUL Tower 2 ***
+Height: 120
+Floors: 38
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: residential
+Rank: 33
+
+*** Maison Manuvie ***
+Height: 120
+Floors: 27
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 35
+
+*** Cité du Commerce Électronique ***
+Height: 118.8
+Floors: 27
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 36
+
+*** Le Centre Sheraton ***
+Height: 117.6
+Floors: 38
+Status: Completed
+Completed: 1982
+Functions: hotel
+Rank: 37
+
+*** Place du Canada ***
+Height: 113
+Floors: 27
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 38
+
+*** Le 400 ***
+Height: 112.5
+Floors: 37
+Status: Completed
+Completed: 2009
+Functions: residential / hotel
+Rank: 39
+
+*** CHUM ***
+Height: 112.14
+Floors: 22
+Status: Under Construction
+Completed: 2020
+Functions: hospital
+Rank: 40
+
+*** Edifice Hydro Quebec ***
+Height: 110
+Floors: 27
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 41
+
+*** 500 Boulvard René-Lévesque Ouest ***
+Height: 110
+Floors: 26
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 42
+
+*** Le Complexe Desjardins Nord ***
+Height: 108
+Floors: 27
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 43
+
+*** Tour Intact ***
+Height: 105.5
+Floors: 26
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 44
+
+*** Le Peterson ***
+Height: 105
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 45
+
+*** Hotel Omni Montreal ***
+Height: 104
+Floors: 31
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 46
+
+*** Place Sherbrooke ***
+Height: 104
+Floors: 26
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 47
+
+*** 1100 René-Levesque Boulevard ***
+Height: 102
+Floors: 27
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 48
+
+*** Le Crystal ***
+Height: 101
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / hotel
+Rank: 49
+
+*** Plaza Tower ***
+Height: 100.9
+Floors: 33
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 50
+
+*** Quebecor ***
+Height: 83.52
+Floors: 19
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 51
+
+*** Cité du Commerce Électronique II ***
+Height: 80.7
+Floors: 18
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 52
+
+*** Le Chatel ***
+Height: 80.5
+Floors: 27
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 53

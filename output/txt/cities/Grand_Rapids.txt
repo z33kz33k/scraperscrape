@@ -1,0 +1,70 @@
+*** Grand Rapids (7) ***
+1. River House Condominiums, 124m
+2. Plaza Towers, 105m
+3. Amway Grand Plaza Hotel - Glass Tower, 97m
+4. Bridgewater Place, 83m
+5. McKay Tower, 79m
+6. J.W. Marriott Grand Rapids, 78m
+
+******************** DETAILS ********************
+
+*** Grand Rapids ***
+Country: United States
+Region: North America
+6 towers: River House Condominiums, Plaza Towers, Amway Grand Plaza Hotel - Glass Tower, Bridgewater Place, McKay Tower, J.W. Marriott Grand Rapids
+Tiers: I: 5, II: 1
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** River House Condominiums ***
+Height: 123.8
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Plaza Towers ***
+Height: 105.16
+Floors: 34
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: residential / hotel
+Rank: 2
+
+*** Amway Grand Plaza Hotel - Glass Tower ***
+Height: 96.93
+Floors: 29
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: hotel
+Rank: 3
+
+*** Bridgewater Place ***
+Height: 82.8
+Floors: 18
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 4
+
+*** McKay Tower ***
+Height: 78.9
+Floors: 18
+Status: Completed
+Started: 1926
+Completed: 1927
+Functions: office
+Rank: 5
+
+*** J.W. Marriott Grand Rapids ***
+Height: 78.1
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: hotel
+Rank: 6

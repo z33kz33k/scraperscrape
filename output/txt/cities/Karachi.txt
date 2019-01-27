@@ -1,0 +1,118 @@
+*** Karachi (32) ***
+1.  Bahria Town ICON, 273m
+2.  Chapal Skymark, 210m
+3.  Opal 225, 164m
+4.  Dolmen City Tower A, 151m
+5.  Dolmen City Tower B, 150m
+6.  Ocean Towers, 120m
+7.  MCB Bank Limited, 116m
+8.  Centre Point Tower, 110m
+9.  UBL Tower, 110m
+10. PRC Towers, 100m
+11. Habib Bank Plaza, 96m
+
+******************** DETAILS ********************
+
+*** Karachi ***
+Country: Pakistan
+Region: Asia
+11 towers: Bahria Town ICON, Chapal Skymark, Opal 225, Dolmen City Tower A, Dolmen City Tower B, Ocean Towers, MCB Bank Limited, Centre Point Tower, UBL Tower, PRC Towers, Habib Bank Plaza
+Tiers: I: 2, II: 4, III: 4, IV: 1
+Rating: 32 (68.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bahria Town ICON ***
+Height: 273
+Floors: 62
+Status: Architecturally Topped Out
+Started: 2008
+Completed: 2019
+Functions: residential / residential / hotel / office
+Rank: 1
+
+*** Chapal Skymark ***
+Height: 210
+Floors: 50
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 2
+
+*** Opal 225 ***
+Height: 164.3
+Floors: 41
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: residential
+Rank: 3
+
+*** Dolmen City Tower A ***
+Height: 151
+Floors: 40
+Status: Under Construction
+Started: 2005
+Completed: 2019
+Functions: office
+Rank: 4
+
+*** Dolmen City Tower B ***
+Height: 150.4
+Floors: 40
+Status: Under Construction
+Started: 2005
+Completed: 2019
+Functions: hotel / office
+Rank: 5
+
+*** Ocean Towers ***
+Height: 119.79
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: hotel / retail
+Rank: 6
+
+*** MCB Bank Limited ***
+Height: 116
+Floors: 29
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: office
+Rank: 7
+
+*** Centre Point Tower ***
+Height: 110
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office
+Rank: 8
+
+*** UBL Tower ***
+Height: 110
+Floors: 23
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: office
+Rank: 9
+
+*** PRC Towers ***
+Height: 100.5
+Floors: 23
+Status: Completed
+Functions: office
+Rank: 10
+
+*** Habib Bank Plaza ***
+Height: 95.5
+Floors: 22
+Status: Completed
+Completed: 1963
+Functions: office
+Rank: 11

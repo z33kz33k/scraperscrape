@@ -1,0 +1,67 @@
+*** Wellington (7) ***
+1. Majestic Centre, 116m
+2. State Insurance Tower, 103m
+3. HSBC Tower, 94m
+4. 157 Lambton Quay, 90m
+5. Intercontinental Wellington, 88m
+6. Plimmer Towers, 84m
+
+******************** DETAILS ********************
+
+*** Wellington ***
+Country: New Zealand
+Region: Oceania
+6 towers: Majestic Centre, State Insurance Tower, HSBC Tower, 157 Lambton Quay, Intercontinental Wellington, Plimmer Towers
+Tiers: I: 5, II: 1
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Majestic Centre ***
+Height: 116
+Floors: 29
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 1
+
+*** State Insurance Tower ***
+Height: 103
+Floors: 27
+Status: Completed
+Started: 1974
+Completed: 1983
+Functions: office
+Rank: 2
+
+*** HSBC Tower ***
+Height: 94
+Floors: 25
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 3
+
+*** 157 Lambton Quay ***
+Height: 90
+Floors: 25
+Status: Completed
+Started: 1990
+Completed: 1999
+Functions: office
+Rank: 4
+
+*** Intercontinental Wellington ***
+Height: 88.39
+Floors: 26
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 5
+
+*** Plimmer Towers ***
+Height: 84
+Floors: 25
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 6

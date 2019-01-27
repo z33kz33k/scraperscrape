@@ -1,0 +1,1715 @@
+*** Chongqing (716) ***
+1.   Corporate Avenue 1, 468m
+2.   Chongqing Tall Tower, 431m
+3.   Raffles City Chongqing T3N, 354m
+4.   Raffles City Chongqing T4N, 354m
+5.   Chongqing World Financial Center, 339m
+6.   Chongqing IFS T1, 316m
+7.   International Commerce Financial Centre T1, 301m
+8.   Concord International Centre, 290m
+9.   Yingli International Finance Centre, 288m
+10.  United International Mansion, 287m
+11.  HNA&POLY International Centre, 287m
+12.  Chongqing World Trade Center, 283m
+13.  Raffles City Chongqing T2, 265m
+14.  Raffles City Chongqing T5, 265m
+15.  Raffles City Chongqing T4S, 265m
+16.  Raffles City Chongqing T3S, 265m
+17.  Oriental Plaza T1, 262m
+18.  Lanko Grand Hyatt Hotel, 258m
+19.  Lanko Conference & Exhibition International Plaza Yage , 258m
+20.  Zodi Plaza T1, 258m
+21.  Zodi Plaza T2, 258m
+22.  Corporate Avenue 2, 256m
+23.  Jia Fa Centre, 247m
+24.  Forebase Financial Plaza, 245m
+25.  Neo China Top City A1, 242m
+26.  Xinhua International Building, 239m
+27.  ASE Center R3, 237m
+28.  Future International, 236m
+29.  Casin Centre, 236m
+30.  Raffles City Chongqing T1, 234m
+31.  Raffles City Chongqing T6, 234m
+32.  New York New York, 228m
+33.  Wyndham Centre, 226m
+34.  China Resources Building, 224m
+35.  Evergrande Liberation Monument Centre Tower 1, 223m
+36.  Kempinski Hotel Chongqing, 220m
+37.  Pauline's World City T1, 220m
+38.  Ying Li International Plaza T1, 219m
+39.  Chongqing Rural Commercial Bank Financial Building, 218m
+40.  Sheraton International Business Center 1, 218m
+41.  Sheraton International Business Center 2, 218m
+42.  Jahoo Hong Kong City, 211m
+43.  Crowne Plaza Tower 1, 210m
+44.  Crowne Plaza Tower 2, 210m
+45.  Fortune Financial Centre, 210m
+46.  Zesheng Twin Tower A, 208m
+47.  Zesheng Twin Tower B, 208m
+48.  Paradise by the River A, 207m
+49.  Paradise by the River B, 207m
+50.  Paradise by the River C, 207m
+51.  Chongqing Plaza T1, 206m
+52.  Glory International Center, 204m
+53.  ASE Center R2, 203m
+54.  Chongqing Gaoke Taiyangzuo, 202m
+55.  Chongqing Headquarter Building, 200m
+56.  Southwest Securities Headquarter Building, 199m
+57.  Heyday Plaza A, 198m
+58.  7 Financial Town, 198m
+59.  Sincere Financial Center Tower A, 197m
+60.  Sincere Financial Center Tower B, 197m
+61.  Century Emperor South, 196m
+62.  Daxin Building, 195m
+63.  River International A, 195m
+64.  River International B, 195m
+65.  Times Square Tower D, 195m
+66.  ASE Center R1, 194m
+67.  Yunchen Centre, 192m
+68.  Hastin Avenue T1-2, 191m
+69.  Hastin Avenue T1-3, 191m
+70.  Empire Capital Square Tower B, 189m
+71.  Empire State Building Tower 1, 189m
+72.  Hastin Avenue T1-1, 189m
+73.  Gold Peak Centre B, 188m
+74.  3 Financial Town T2, 188m
+75.  Gold Peak Centre A, 186m
+76.  Ying Li International Plaza T2, 184m
+77.  King's Plaza Tower B, 184m
+78.  1 Financial Town T2, 184m
+79.  2 Financial Town T2, 181m
+80.  8 Corporate Avenue, 180m
+81.  Chongqing 101 Mansion T2, 180m
+82.  Century Galaxy, 180m
+83.  Jin Sha Gang Wan 12#, 178m
+84.  Jin Sha Gang Wan 13#, 178m
+85.  First Avenue T1, 177m
+86.  Wanhui Centre T2, 177m
+87.  Shin Kong Place T1, 176m
+88.  Shin Kong Place T2, 176m
+89.  Chongqing Nationality Plaza B, 176m
+90.  Chongqing IFS T2, 171m
+91.  Chongqing IFS T6, 170m
+92.  Southland Garden, 170m
+93.  Dongyuan Centre T2, 170m
+94.  City Heights T1, 169m
+95.  Longhu West Skystreet, 168m
+96.  Atlantic International Building, 168m
+97.  Xi Cheng Tian Je, 168m
+98.  Times Square Tower C, 168m
+99.  Chongqing General Trading Building, 168m
+100. Qiu Shui Chang Tian 9#, 167m
+101. Kangde International A, 165m
+102. Kangde International B, 165m
+103. Lanko Conference & Exhibition International Plaza Meige, 163m
+104. Sunway New Sky, 163m
+105. International Trade Center A, 161m
+106. International Trade Center B, 161m
+107. Jiu Jie Gao Wu A, 161m
+108. Lanko Hyatt Business Mansion, 161m
+109. Oriental Plaza T2, 161m
+110. Yuzhong City T6, 161m
+111. Xinbaolong Yicheng Tower 4, 160m
+112. Hongding International Garden A, 160m
+113. Pauline's World City T2, 160m
+114. Doyen ARC Central Square, 160m
+115. Loncin Centre T2, 160m
+116. Loncin Centre T3, 160m
+117. International Commerce Financial Centre T2, 160m
+118. Agricultural Bank of China Chongqing Branch, 159m
+119. China Resources Plaza Block B, 159m
+120. Financial Centre D, 158m
+121. Landmark Riverside T10, 158m
+122. Landmark Riverside T9, 158m
+123. Bank of Chongqing Tower, 157m
+124. Longfor International, 155m
+125. Fortune Plaza A, 155m
+126. 7 Corporate Avenue, 155m
+127. Times Square Tower B, 153m
+128. Neo China Top City A2, 152m
+129. Zhongxun Times, 152m
+130. China Resources Plaza Block A, 151m
+131. International Commercial Center, 151m
+132. Casin Plaza T1, 151m
+133. 2 Financial Town T3, 150m
+134. One City Leader International, 150m
+135. Lifan Centre A, 150m
+136. Lifan Centre B, 150m
+137. Hilton Hotel Tower A, 150m
+138. Hilton Hotel Tower B, 150m
+139. Great Future, 150m
+140. Cape Coral A8, 149m
+141. Cape Coral A9, 149m
+142. 3 Financial Town T1, 147m
+143. Times Square Tower A, 145m
+144. Lanko Conference & Exhibition International Plaza Yunge, 142m
+145. Century Emperor North, 142m
+146. Chongqing Plaza T2, 142m
+147. City Heights T2, 140m
+148. City Heights T3, 140m
+149. Chongqing Nationality Plaza A, 140m
+150. 1 Financial Town T1, 140m
+151. Chongqing Plaza T0, 139m
+152. Corporate Avenue 3, 135m
+153. 3 Financial Town T3, 134m
+154. Financial Centre C, 133m
+155. Lanko Conference & Exhibition International Plaza Liangge, 128m
+156. Nongken Tower, 126m
+157. 2 Financial Town T1, 126m
+158. Dongyuan Centre T5, 125m
+159. Dongyuan Centre T3, 123m
+160. 6 Corporate Avenue, 121m
+161. Southwest Hospital Surgery Tower, 120m
+162. Wanhui Centre T1, 114m
+163. Chongqing IFS T3, 105m
+164. Chongqing IFS T5, 105m
+165. Jiu Jie Gao Wu B, 100m
+166. Chongqing Plaza T3, 100m
+167. Corporate Avenue 4, 100m
+168. Corporate Avenue 5, 100m
+169. Financial Centre B, 99m
+170. Dongyuan Centre T7, 99m
+171. Chongqing Land Group Headquarters, 99m
+172. Daping Hospital Complex Ward Building, 93m
+173. Wanhui Centre T3, 92m
+174. Financial Centre A, 91m
+
+******************** DETAILS ********************
+
+*** Chongqing ***
+Country: China
+Region: Asia
+174 towers: Corporate Avenue 1, Chongqing Tall Tower, Raffles City Chongqing T3N, Raffles City Chongqing T4N, Chongqing World Financial Center, Chongqing IFS T1, International Commerce Financial Centre T1, Concord International Centre, Yingli International Finance Centre, United International Mansion, HNA&POLY International Centre, Chongqing World Trade Center, Raffles City Chongqing T2, Raffles City Chongqing T5, Raffles City Chongqing T4S, Raffles City Chongqing T3S, Oriental Plaza T1, Lanko Grand Hyatt Hotel, Lanko Conference & Exhibition International Plaza Yage , Zodi Plaza T1, Zodi Plaza T2, Corporate Avenue 2, Jia Fa Centre, Forebase Financial Plaza, Neo China Top City A1, Xinhua International Building, ASE Center R3, Future International, Casin Centre, Raffles City Chongqing T1, Raffles City Chongqing T6, New York New York, Wyndham Centre, China Resources Building, Evergrande Liberation Monument Centre Tower 1, Kempinski Hotel Chongqing, Pauline's World City T1, Ying Li International Plaza T1, Chongqing Rural Commercial Bank Financial Building, Sheraton International Business Center 1, Sheraton International Business Center 2, Jahoo Hong Kong City, Crowne Plaza Tower 1, Crowne Plaza Tower 2, Fortune Financial Centre, Zesheng Twin Tower A, Zesheng Twin Tower B, Paradise by the River A, Paradise by the River B, Paradise by the River C, Chongqing Plaza T1, Glory International Center, ASE Center R2, Chongqing Gaoke Taiyangzuo, Chongqing Headquarter Building, Southwest Securities Headquarter Building, Heyday Plaza A, 7 Financial Town, Sincere Financial Center Tower A, Sincere Financial Center Tower B, Century Emperor South, Daxin Building, River International A, River International B, Times Square Tower D, ASE Center R1, Yunchen Centre, Hastin Avenue T1-2, Hastin Avenue T1-3, Empire Capital Square Tower B, Empire State Building Tower 1, Hastin Avenue T1-1, Gold Peak Centre B, 3 Financial Town T2, Gold Peak Centre A, Ying Li International Plaza T2, King's Plaza Tower B, 1 Financial Town T2, 2 Financial Town T2, 8 Corporate Avenue, Chongqing 101 Mansion T2, Century Galaxy, Jin Sha Gang Wan 12#, Jin Sha Gang Wan 13#, First Avenue T1, Wanhui Centre T2, Shin Kong Place T1, Shin Kong Place T2, Chongqing Nationality Plaza B, Chongqing IFS T2, Chongqing IFS T6, Southland Garden, Dongyuan Centre T2, City Heights T1, Longhu West Skystreet, Atlantic International Building, Xi Cheng Tian Je, Times Square Tower C, Chongqing General Trading Building, Qiu Shui Chang Tian 9#, Kangde International A, Kangde International B, Lanko Conference & Exhibition International Plaza Meige, Sunway New Sky, International Trade Center A, International Trade Center B, Jiu Jie Gao Wu A, Lanko Hyatt Business Mansion, Oriental Plaza T2, Yuzhong City T6, Xinbaolong Yicheng Tower 4, Hongding International Garden A, Pauline's World City T2, Doyen ARC Central Square, Loncin Centre T2, Loncin Centre T3, International Commerce Financial Centre T2, Agricultural Bank of China Chongqing Branch, China Resources Plaza Block B, Financial Centre D, Landmark Riverside T10, Landmark Riverside T9, Bank of Chongqing Tower, Longfor International, Fortune Plaza A, 7 Corporate Avenue, Times Square Tower B, Neo China Top City A2, Zhongxun Times, China Resources Plaza Block A, International Commercial Center, Casin Plaza T1, 2 Financial Town T3, One City Leader International, Lifan Centre A, Lifan Centre B, Hilton Hotel Tower A, Hilton Hotel Tower B, Great Future, Cape Coral A8, Cape Coral A9, 3 Financial Town T1, Times Square Tower A, Lanko Conference & Exhibition International Plaza Yunge, Century Emperor North, Chongqing Plaza T2, City Heights T2, City Heights T3, Chongqing Nationality Plaza A, 1 Financial Town T1, Chongqing Plaza T0, Corporate Avenue 3, 3 Financial Town T3, Financial Centre C, Lanko Conference & Exhibition International Plaza Liangge, Nongken Tower, 2 Financial Town T1, Dongyuan Centre T5, Dongyuan Centre T3, 6 Corporate Avenue, Southwest Hospital Surgery Tower, Wanhui Centre T1, Chongqing IFS T3, Chongqing IFS T5, Jiu Jie Gao Wu B, Chongqing Plaza T3, Corporate Avenue 4, Corporate Avenue 5, Financial Centre B, Dongyuan Centre T7, Chongqing Land Group Headquarters, Daping Hospital Complex Ward Building, Wanhui Centre T3, Financial Centre A
+Tiers: I: 12, II: 23, III: 97, IV: 35, V: 5, VI: 2
+Rating: 716 (18.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Corporate Avenue 1 ***
+Height: 468
+Floors: 99
+Status: Under Construction
+Started: 2012
+Completed: 2022
+Functions: hotel / office
+Rank: 1
+
+*** Chongqing Tall Tower ***
+Height: 431
+Floors: 101
+Status: Under Construction
+Started: 2017
+Completed: 2022
+Functions: hotel / office / residential / retail
+Rank: 2
+
+*** Raffles City Chongqing T3N ***
+Height: 354.5
+Floors: 79
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / retail
+Rank: 3
+
+*** Raffles City Chongqing T4N ***
+Height: 354.5
+Floors: 79
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: hotel / office / retail
+Rank: 3
+
+*** Chongqing World Financial Center ***
+Height: 338.9
+Floors: 72
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: hotel / office
+Rank: 5
+
+*** Chongqing IFS T1 ***
+Height: 316.3
+Floors: 63
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel / office
+Rank: 6
+
+*** International Commerce Financial Centre T1 ***
+Height: 301.2
+Floors: 65
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: hotel / office / retail
+Rank: 7
+
+*** Concord International Centre ***
+Height: 290
+Floors: 64
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: hotel / office / retail
+Rank: 8
+
+*** Yingli International Finance Centre ***
+Height: 288
+Floors: 58
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 9
+
+*** United International Mansion ***
+Height: 287
+Floors: 67
+Status: Completed
+Started: 1998
+Completed: 2013
+Functions: office
+Rank: 10
+
+*** HNA&POLY International Centre ***
+Height: 286.8
+Floors: 61
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: office / hotel / retail
+Rank: 11
+
+*** Chongqing World Trade Center ***
+Height: 283.1
+Floors: 60
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 12
+
+*** Raffles City Chongqing T2 ***
+Height: 265
+Floors: 56
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential / retail
+Rank: 13
+
+*** Raffles City Chongqing T5 ***
+Height: 265
+Floors: 56
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / retail
+Rank: 13
+
+*** Raffles City Chongqing T4S ***
+Height: 265
+Floors: 50
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: hotel / office / retail
+Rank: 15
+
+*** Raffles City Chongqing T3S ***
+Height: 265
+Floors: 46
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office / retail
+Rank: 16
+
+*** Oriental Plaza T1 ***
+Height: 262
+Floors: 56
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel / office / retail
+Rank: 17
+
+*** Lanko Grand Hyatt Hotel ***
+Height: 258
+Floors: 60
+Status: Completed
+Started: 2000
+Completed: 2005
+Functions: hotel / retail
+Rank: 18
+
+*** Lanko Conference & Exhibition International Plaza Yage  ***
+Height: 258
+Floors: 54
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office / retail
+Rank: 19
+
+*** Zodi Plaza T1 ***
+Height: 258
+Status: Under Construction
+Started: 2015
+Functions: office / retail
+Rank: 20
+
+*** Zodi Plaza T2 ***
+Height: 258
+Status: Under Construction
+Started: 2015
+Functions: office / retail
+Rank: 20
+
+*** Corporate Avenue 2 ***
+Height: 255.8
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 22
+
+*** Jia Fa Centre ***
+Height: 247.2
+Floors: 52
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: hotel / office / retail
+Rank: 23
+
+*** Forebase Financial Plaza ***
+Height: 245.3
+Floors: 54
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: hotel / office
+Rank: 24
+
+*** Neo China Top City A1 ***
+Height: 242.4
+Floors: 54
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: hotel / office / retail
+Rank: 25
+
+*** Xinhua International Building ***
+Height: 238.6
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office / retail
+Rank: 26
+
+*** ASE Center R3 ***
+Height: 236.8
+Floors: 69
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / retail
+Rank: 27
+
+*** Future International ***
+Height: 236
+Floors: 50
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office / retail
+Rank: 28
+
+*** Casin Centre ***
+Height: 236
+Floors: 47
+Status: Structurally Topped Out
+Completed: 2019
+Functions: hotel / office
+Rank: 29
+
+*** Raffles City Chongqing T1 ***
+Height: 234.5
+Floors: 58
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential / retail
+Rank: 30
+
+*** Raffles City Chongqing T6 ***
+Height: 234.5
+Floors: 58
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / retail
+Rank: 30
+
+*** New York New York ***
+Height: 228
+Floors: 46
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office / retail
+Rank: 32
+
+*** Wyndham Centre ***
+Height: 226
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel / office / retail
+Rank: 33
+
+*** China Resources Building ***
+Height: 223.7
+Floors: 44
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office / retail
+Rank: 34
+
+*** Evergrande Liberation Monument Centre Tower 1 ***
+Height: 223.1
+Floors: 53
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: hotel / office / retail
+Rank: 35
+
+*** Kempinski Hotel Chongqing ***
+Height: 220.5
+Floors: 54
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential / hotel
+Rank: 36
+
+*** Pauline's World City T1 ***
+Height: 220
+Floors: 41
+Status: Completed
+Completed: 2018
+Functions: office / retail
+Rank: 37
+
+*** Ying Li International Plaza T1 ***
+Height: 218.9
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office / retail
+Rank: 38
+
+*** Chongqing Rural Commercial Bank Financial Building ***
+Height: 218
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 39
+
+*** Sheraton International Business Center 1 ***
+Height: 218
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: hotel
+Rank: 39
+
+*** Sheraton International Business Center 2 ***
+Height: 218
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: hotel
+Rank: 39
+
+*** Jahoo Hong Kong City ***
+Height: 211
+Floors: 56
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hotel / office
+Rank: 42
+
+*** Crowne Plaza Tower 1 ***
+Height: 210
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: hotel
+Rank: 43
+
+*** Crowne Plaza Tower 2 ***
+Height: 210
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: hotel
+Rank: 43
+
+*** Fortune Financial Centre ***
+Height: 210
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 45
+
+*** Zesheng Twin Tower A ***
+Height: 207.7
+Floors: 48
+Status: Completed
+Completed: 2011
+Functions: residential / retail
+Rank: 46
+
+*** Zesheng Twin Tower B ***
+Height: 207.7
+Floors: 48
+Status: Completed
+Completed: 2011
+Functions: residential / retail
+Rank: 46
+
+*** Paradise by the River A ***
+Height: 207
+Floors: 54
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential / retail
+Rank: 48
+
+*** Paradise by the River B ***
+Height: 207
+Floors: 54
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential / retail
+Rank: 48
+
+*** Paradise by the River C ***
+Height: 207
+Floors: 54
+Status: Completed
+Started: 2001
+Completed: 2007
+Functions: residential / retail
+Rank: 48
+
+*** Chongqing Plaza T1 ***
+Height: 206.5
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office / retail
+Rank: 51
+
+*** Glory International Center ***
+Height: 203.8
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel / office
+Rank: 52
+
+*** ASE Center R2 ***
+Height: 202.8
+Floors: 58
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / retail
+Rank: 53
+
+*** Chongqing Gaoke Taiyangzuo ***
+Height: 201.7
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 54
+
+*** Chongqing Headquarter Building ***
+Height: 200
+Floors: 45
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 55
+
+*** Southwest Securities Headquarter Building ***
+Height: 198.6
+Floors: 43
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 56
+
+*** Heyday Plaza A ***
+Height: 198
+Floors: 39
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 57
+
+*** 7 Financial Town ***
+Height: 197.9
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 58
+
+*** Sincere Financial Center Tower A ***
+Height: 196.9
+Floors: 44
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 59
+
+*** Sincere Financial Center Tower B ***
+Height: 196.9
+Floors: 44
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 59
+
+*** Century Emperor South ***
+Height: 196.2
+Floors: 47
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 61
+
+*** Daxin Building ***
+Height: 195.1
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: residential / hotel / office / retail
+Rank: 62
+
+*** River International A ***
+Height: 195
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office / retail
+Rank: 63
+
+*** River International B ***
+Height: 195
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel / residential / retail
+Rank: 63
+
+*** Times Square Tower D ***
+Height: 195
+Floors: 41
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: office
+Rank: 65
+
+*** ASE Center R1 ***
+Height: 193.8
+Floors: 55
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / retail
+Rank: 66
+
+*** Yunchen Centre ***
+Height: 192
+Floors: 42
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 67
+
+*** Hastin Avenue T1-2 ***
+Height: 190.6
+Floors: 51
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 68
+
+*** Hastin Avenue T1-3 ***
+Height: 190.6
+Floors: 51
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 68
+
+*** Empire Capital Square Tower B ***
+Height: 189.2
+Floors: 42
+Status: Completed
+Completed: 2004
+Functions: residential / office
+Rank: 70
+
+*** Empire State Building Tower 1 ***
+Height: 189
+Floors: 48
+Status: Completed
+Functions: serviced apartments / office
+Rank: 71
+
+*** Hastin Avenue T1-1 ***
+Height: 188.6
+Floors: 51
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 72
+
+*** Gold Peak Centre B ***
+Height: 187.75
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential / residential / hotel / office
+Rank: 73
+
+*** 3 Financial Town T2 ***
+Height: 187.75
+Floors: 38
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 74
+
+*** Gold Peak Centre A ***
+Height: 185.5
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office / retail
+Rank: 75
+
+*** Ying Li International Plaza T2 ***
+Height: 184.4
+Floors: 48
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office / retail
+Rank: 76
+
+*** King's Plaza Tower B ***
+Height: 184
+Floors: 43
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 77
+
+*** 1 Financial Town T2 ***
+Height: 183.9
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 78
+
+*** 2 Financial Town T2 ***
+Height: 181.3
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 79
+
+*** 8 Corporate Avenue ***
+Height: 180.2
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 80
+
+*** Chongqing 101 Mansion T2 ***
+Height: 180
+Floors: 45
+Status: Under Construction
+Functions: serviced apartments / retail
+Rank: 81
+
+*** Century Galaxy ***
+Height: 180
+Floors: 43
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 82
+
+*** Jin Sha Gang Wan 12# ***
+Height: 177.78
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 83
+
+*** Jin Sha Gang Wan 13# ***
+Height: 177.78
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 83
+
+*** First Avenue T1 ***
+Height: 177
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: office
+Rank: 85
+
+*** Wanhui Centre T2 ***
+Height: 176.99
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office / retail
+Rank: 86
+
+*** Shin Kong Place T1 ***
+Height: 176.3
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 87
+
+*** Shin Kong Place T2 ***
+Height: 176.3
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 87
+
+*** Chongqing Nationality Plaza B ***
+Height: 175.57
+Floors: 43
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: hotel
+Rank: 89
+
+*** Chongqing IFS T2 ***
+Height: 171.25
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 90
+
+*** Chongqing IFS T6 ***
+Height: 170.15
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 91
+
+*** Southland Garden ***
+Height: 170
+Floors: 43
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / retail
+Rank: 92
+
+*** Dongyuan Centre T2 ***
+Height: 169.5
+Floors: 39
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office / retail
+Rank: 93
+
+*** City Heights T1 ***
+Height: 169.3
+Floors: 47
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 94
+
+*** Longhu West Skystreet ***
+Height: 168
+Floors: 45
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: hotel
+Rank: 95
+
+*** Atlantic International Building ***
+Height: 168
+Floors: 41
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 96
+
+*** Xi Cheng Tian Je ***
+Height: 168
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: residential / office
+Rank: 97
+
+*** Times Square Tower C ***
+Height: 168
+Floors: 39
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 98
+
+*** Chongqing General Trading Building ***
+Height: 168
+Floors: 37
+Status: Completed
+Started: 1992
+Completed: 1999
+Functions: office
+Rank: 99
+
+*** Qiu Shui Chang Tian 9# ***
+Height: 167.15
+Floors: 46
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 100
+
+*** Kangde International A ***
+Height: 165
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office / retail
+Rank: 101
+
+*** Kangde International B ***
+Height: 165
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office / retail
+Rank: 101
+
+*** Lanko Conference & Exhibition International Plaza Meige ***
+Height: 163.2
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office / residential / retail
+Rank: 103
+
+*** Sunway New Sky ***
+Height: 163
+Floors: 44
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 104
+
+*** International Trade Center A ***
+Height: 161.4
+Floors: 43
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 105
+
+*** International Trade Center B ***
+Height: 161.4
+Floors: 43
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: hotel
+Rank: 105
+
+*** Jiu Jie Gao Wu A ***
+Height: 161.25
+Floors: 46
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / retail
+Rank: 107
+
+*** Lanko Hyatt Business Mansion ***
+Height: 161
+Floors: 41
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: office / retail
+Rank: 108
+
+*** Oriental Plaza T2 ***
+Height: 161
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 109
+
+*** Yuzhong City T6 ***
+Height: 160.6
+Floors: 54
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential / retail
+Rank: 110
+
+*** Xinbaolong Yicheng Tower 4 ***
+Height: 160
+Floors: 49
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 111
+
+*** Hongding International Garden A ***
+Height: 160
+Floors: 48
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office / retail
+Rank: 112
+
+*** Pauline's World City T2 ***
+Height: 160
+Floors: 40
+Status: Completed
+Completed: 2017
+Functions: residential / retail
+Rank: 113
+
+*** Doyen ARC Central Square ***
+Height: 160
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 114
+
+*** Loncin Centre T2 ***
+Height: 159.75
+Floors: 33
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: office / retail
+Rank: 115
+
+*** Loncin Centre T3 ***
+Height: 159.75
+Floors: 33
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: office / retail
+Rank: 115
+
+*** International Commerce Financial Centre T2 ***
+Height: 159.6
+Floors: 33
+Status: Structurally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office / retail
+Rank: 117
+
+*** Agricultural Bank of China Chongqing Branch ***
+Height: 159
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 118
+
+*** China Resources Plaza Block B ***
+Height: 158.6
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 119
+
+*** Financial Centre D ***
+Height: 158.5
+Floors: 23
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 120
+
+*** Landmark Riverside T10 ***
+Height: 158.4
+Floors: 52
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / retail
+Rank: 121
+
+*** Landmark Riverside T9 ***
+Height: 158.4
+Floors: 52
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential / retail
+Rank: 121
+
+*** Bank of Chongqing Tower ***
+Height: 157.45
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 123
+
+*** Longfor International ***
+Height: 155.1
+Floors: 42
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / retail
+Rank: 124
+
+*** Fortune Plaza A ***
+Height: 155
+Floors: 33
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 125
+
+*** 7 Corporate Avenue ***
+Height: 154.7
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 126
+
+*** Times Square Tower B ***
+Height: 153
+Floors: 36
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 127
+
+*** Neo China Top City A2 ***
+Height: 152
+Floors: 37
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office / residential / retail
+Rank: 128
+
+*** Zhongxun Times ***
+Height: 152
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 129
+
+*** China Resources Plaza Block A ***
+Height: 151.15
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 130
+
+*** International Commercial Center ***
+Height: 151
+Floors: 31
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 131
+
+*** Casin Plaza T1 ***
+Height: 150.8
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 132
+
+*** 2 Financial Town T3 ***
+Height: 150.2
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 133
+
+*** One City Leader International ***
+Height: 150
+Floors: 41
+Status: Completed
+Completed: 2006
+Functions: hotel / office
+Rank: 134
+
+*** Lifan Centre A ***
+Height: 150
+Floors: 37
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 135
+
+*** Lifan Centre B ***
+Height: 150
+Floors: 37
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 135
+
+*** Hilton Hotel Tower A ***
+Height: 150
+Floors: 35
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: hotel / office
+Rank: 137
+
+*** Hilton Hotel Tower B ***
+Height: 150
+Floors: 35
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: hotel / office
+Rank: 137
+
+*** Great Future ***
+Height: 150
+Floors: 32
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 139
+
+*** Cape Coral A8 ***
+Height: 149
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 140
+
+*** Cape Coral A9 ***
+Height: 149
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 140
+
+*** 3 Financial Town T1 ***
+Height: 147.05
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 142
+
+*** Times Square Tower A ***
+Height: 145
+Floors: 33
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 143
+
+*** Lanko Conference & Exhibition International Plaza Yunge ***
+Height: 142.35
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office / residential / retail
+Rank: 144
+
+*** Century Emperor North ***
+Height: 142
+Status: Completed
+Started: 2006
+Completed: 2009
+Rank: 145
+
+*** Chongqing Plaza T2 ***
+Height: 141.6
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office / retail
+Rank: 146
+
+*** City Heights T2 ***
+Height: 139.75
+Floors: 41
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 147
+
+*** City Heights T3 ***
+Height: 139.75
+Floors: 41
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 147
+
+*** Chongqing Nationality Plaza A ***
+Height: 139.6
+Floors: 34
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 149
+
+*** 1 Financial Town T1 ***
+Height: 139.5
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 150
+
+*** Chongqing Plaza T0 ***
+Height: 138.57
+Floors: 32
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: hotel / retail
+Rank: 151
+
+*** Corporate Avenue 3 ***
+Height: 135
+Floors: 31
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 152
+
+*** 3 Financial Town T3 ***
+Height: 133.95
+Floors: 26
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 153
+
+*** Financial Centre C ***
+Height: 133.1
+Floors: 30
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 154
+
+*** Lanko Conference & Exhibition International Plaza Liangge ***
+Height: 128
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel
+Rank: 155
+
+*** Nongken Tower ***
+Height: 126
+Floors: 31
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 156
+
+*** 2 Financial Town T1 ***
+Height: 125.5
+Floors: 25
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 157
+
+*** Dongyuan Centre T5 ***
+Height: 125.3
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office / retail
+Rank: 158
+
+*** Dongyuan Centre T3 ***
+Height: 123.3
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office / retail
+Rank: 159
+
+*** 6 Corporate Avenue ***
+Height: 120.7
+Floors: 24
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 160
+
+*** Southwest Hospital Surgery Tower ***
+Height: 120
+Floors: 25
+Status: Completed
+Completed: 2003
+Functions: hospital
+Rank: 161
+
+*** Wanhui Centre T1 ***
+Height: 113.69
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office / retail
+Rank: 162
+
+*** Chongqing IFS T3 ***
+Height: 104.9
+Floors: 19
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 163
+
+*** Chongqing IFS T5 ***
+Height: 104.9
+Floors: 19
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 163
+
+*** Jiu Jie Gao Wu B ***
+Height: 100
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / retail
+Rank: 165
+
+*** Chongqing Plaza T3 ***
+Height: 99.99
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office / retail
+Rank: 166
+
+*** Corporate Avenue 4 ***
+Height: 99.75
+Floors: 23
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 167
+
+*** Corporate Avenue 5 ***
+Height: 99.75
+Floors: 23
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 167
+
+*** Financial Centre B ***
+Height: 99
+Floors: 19
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 169
+
+*** Dongyuan Centre T7 ***
+Height: 98.7
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office / retail
+Rank: 170
+
+*** Chongqing Land Group Headquarters ***
+Height: 98.55
+Floors: 20
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 171
+
+*** Daping Hospital Complex Ward Building ***
+Height: 93
+Floors: 20
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hospital
+Rank: 172
+
+*** Wanhui Centre T3 ***
+Height: 92.1
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office / retail
+Rank: 173
+
+*** Financial Centre A ***
+Height: 91
+Floors: 17
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 174

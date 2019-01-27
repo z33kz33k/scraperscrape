@@ -1,0 +1,31 @@
+*** Klaipeda (3) ***
+1. Pilsotas, 112m
+2. BIG2 2, 82m
+
+******************** DETAILS ********************
+
+*** Klaipeda ***
+Country: Lithuania
+Region: Europe
+2 towers: Pilsotas, BIG2 2
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pilsotas ***
+Height: 111.8
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 1
+
+*** BIG2 2 ***
+Height: 82
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 2

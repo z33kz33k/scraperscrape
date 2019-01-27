@@ -1,0 +1,20 @@
+*** Marco Island (2) ***
+1. Cozumel at Cape Marco in Marco Island, 107m
+
+******************** DETAILS ********************
+
+*** Marco Island ***
+Country: United States
+Region: North America
+1 tower: Cozumel at Cape Marco in Marco Island
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cozumel at Cape Marco in Marco Island ***
+Height: 107.3
+Floors: 24
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 1

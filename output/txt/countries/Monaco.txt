@@ -1,0 +1,18 @@
+*** Monaco (18) ***
+1. Monaco, 18
+
+******************** DETAILS ********************
+
+*** Monaco ***
+Region: Europe
+1 city: Monaco
+Tiers: I: 8, II: 3, III: 1
+Rating: 18
+
+*** Monaco ***
+Country: Monaco
+Region: Europe
+12 towers: Tour Odeon, Le Millefiori, L'Annonciade, Parc Saint Roman, Columbia Palace, Chateau Perigord I, Chateau Perigord II, Le Roccabella, Tour Simona, Le Mirabeau, Monte Carlo Sun, Park Palace
+Tiers: I: 8, II: 3, III: 1
+Rating: 18
+Scraped on: 2019-Jan-20 16:05:17

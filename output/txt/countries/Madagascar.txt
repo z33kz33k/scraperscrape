@@ -1,0 +1,18 @@
+*** Madagascar (2) ***
+1. Antananarivo, 2
+
+******************** DETAILS ********************
+
+*** Madagascar ***
+Region: Africa
+1 city: Antananarivo
+Tiers: II: 1
+Rating: 2
+
+*** Antananarivo ***
+Country: Madagascar
+Region: Africa
+1 tower: Orange Telecommunication Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

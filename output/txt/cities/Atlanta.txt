@@ -1,0 +1,794 @@
+*** Atlanta (196) ***
+1.  Bank of America Plaza, 312m
+2.  SunTrust Plaza, 264m
+3.  One Atlantic Center, 250m
+4.  191 Peachtree Tower, 235m
+5.  Westin Peachtree Plaza, 220m
+6.  Georgia Pacific Tower, 212m
+7.  Promenade II, 211m
+8.  AT&T Building, 206m
+9.  Sovereign, 203m
+10. 1180 Peachtree, 200m
+11. GLG Grand-Four Seasons, 186m
+12. The Mansion on Peachtree, 177m
+13. The Atlantic, 176m
+14. State of Georgia Building, 169m
+15. Marriott Marquis Hotel, 169m
+16. Icon Midtown, 157m
+17. Viewpoint, 153m
+18. Twelve Centennial Park Tower I, 150m
+19. 1075 Peachtree Office Tower, 149m
+20. Park Avenue Condominiums, 148m
+21. Terminus 100, 148m
+22. Paramount at Buckhead, 146m
+23. 3630 Peachtree Road, 143m
+24. Centennial Tower, 140m
+25. Equitable Building, 138m
+26. Spire, 138m
+27. Buckhead Grand, 137m
+28. One Park Tower, 134m
+29. 1100 Peachtree, 130m
+30. Atlanta Plaza I, 130m
+31. Park Place on Peachtree, 128m
+32. Icon Buckhead, 128m
+33. 2828 Peachtree Luxury Condominiums, 128m
+34. 10 Terminus Place, 125m
+35. 1280 West, 125m
+36. 1010 Peachtree, 124m
+37. Peachtree Summit #1, 124m
+38. One Coca-Cola Plaza, 123m
+39. Tower Place 100, 122m
+40. 999 Peachtree, 121m
+41. Two Alliance Center, 121m
+42. Mayfair Renaissance, 120m
+43. 171 17th Street, 120m
+44. Coda at Tech Square, 119m
+45. Sam Nunn Federal Center, 118m
+46. Loews Midtown, 118m
+47. Monarch Tower, 118m
+48. Atlanta Hilton Hotel, 117m
+49. Russell Federal Building, 117m
+50. Harris Tower, 116m
+51. 230 Peachtree Building, 116m
+52. AT&T Communications Building, 116m
+53. Marquis I, 115m
+54. Marquis II, 115m
+55. 25 Park Place, 115m
+56. Coastal States Insurance Building, 115m
+57. Peachtree Center International Tower, 115m
+58. BB&T Tower, 114m
+59. One Georgia Center, 113m
+60. Mayfair Tower Condominiums, 113m
+61. Terminus 200, 113m
+62. The Campanile, 112m
+63. Atlantic House, 109m
+64. Resurgens Plaza, 108m
+65. Three Alliance Center, 107m
+66. The Proscenium , 105m
+67. Hyatt Regency Atlanta, 104m
+68. Twelve Atlantic Station, 102m
+69. The Grandview, 102m
+70. Peachtree Center South, 101m
+71. W Downtown Atlanta Hotel & Residences, 101m
+72. Peachtree Center North, 101m
+73. Colony Square 100, 96m
+74. W Atlanta-Midtown, 94m
+75. Omni Hotel CNN Center Expansion, 94m
+76. Museum Tower at Centennial Hill, 94m
+77. Colony Square 400, 94m
+78. Atlanta Center Building, 92m
+79. Merchandise Mart, 91m
+80. Georgia Power Company Headquarters, 91m
+81. Aqua Midtown, 85m
+82. Grady Memorial Hospital, 84m
+83. SkyHouse South, 80m
+
+******************** DETAILS ********************
+
+*** Atlanta ***
+Country: United States
+Region: North America
+83 towers: Bank of America Plaza, SunTrust Plaza, One Atlantic Center, 191 Peachtree Tower, Westin Peachtree Plaza, Georgia Pacific Tower, Promenade II, AT&T Building, Sovereign, 1180 Peachtree, GLG Grand-Four Seasons, The Mansion on Peachtree, The Atlantic, State of Georgia Building, Marriott Marquis Hotel, Icon Midtown, Viewpoint, Twelve Centennial Park Tower I, 1075 Peachtree Office Tower, Park Avenue Condominiums, Terminus 100, Paramount at Buckhead, 3630 Peachtree Road, Centennial Tower, Equitable Building, Spire, Buckhead Grand, One Park Tower, 1100 Peachtree, Atlanta Plaza I, Park Place on Peachtree, Icon Buckhead, 2828 Peachtree Luxury Condominiums, 10 Terminus Place, 1280 West, 1010 Peachtree, Peachtree Summit #1, One Coca-Cola Plaza, Tower Place 100, 999 Peachtree, Two Alliance Center, Mayfair Renaissance, 171 17th Street, Coda at Tech Square, Sam Nunn Federal Center, Loews Midtown, Monarch Tower, Atlanta Hilton Hotel, Russell Federal Building, Harris Tower, 230 Peachtree Building, AT&T Communications Building, Marquis I, Marquis II, 25 Park Place, Coastal States Insurance Building, Peachtree Center International Tower, BB&T Tower, One Georgia Center, Mayfair Tower Condominiums, Terminus 200, The Campanile, Atlantic House, Resurgens Plaza, Three Alliance Center, The Proscenium , Hyatt Regency Atlanta, Twelve Atlantic Station, The Grandview, Peachtree Center South, W Downtown Atlanta Hotel & Residences, Peachtree Center North, Colony Square 100, W Atlanta-Midtown, Omni Hotel CNN Center Expansion, Museum Tower at Centennial Hill, Colony Square 400, Atlanta Center Building, Merchandise Mart, Georgia Power Company Headquarters, Aqua Midtown, Grady Memorial Hospital, SkyHouse South
+Tiers: I: 18, II: 48, III: 11, IV: 5, V: 1
+Rating: 196 (2.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bank of America Plaza ***
+Height: 311.8
+Floors: 55
+Status: Completed
+Started: 1991
+Completed: 1992
+Functions: office
+Rank: 1
+
+*** SunTrust Plaza ***
+Height: 264.25
+Floors: 60
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 2
+
+*** One Atlantic Center ***
+Height: 249.94
+Floors: 50
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 3
+
+*** 191 Peachtree Tower ***
+Height: 234.7
+Floors: 50
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 4
+
+*** Westin Peachtree Plaza ***
+Height: 220.37
+Floors: 73
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 5
+
+*** Georgia Pacific Tower ***
+Height: 212.45
+Floors: 51
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 6
+
+*** Promenade II ***
+Height: 210.62
+Floors: 40
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 7
+
+*** AT&T Building ***
+Height: 206.35
+Floors: 47
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 8
+
+*** Sovereign ***
+Height: 202.69
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / office
+Rank: 9
+
+*** 1180 Peachtree ***
+Height: 200.16
+Floors: 41
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 10
+
+*** GLG Grand-Four Seasons ***
+Height: 185.63
+Floors: 53
+Status: Completed
+Completed: 1992
+Functions: residential / hotel
+Rank: 11
+
+*** The Mansion on Peachtree ***
+Height: 176.79
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / hotel
+Rank: 12
+
+*** The Atlantic ***
+Height: 175.87
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 13
+
+*** State of Georgia Building ***
+Height: 169.47
+Floors: 44
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 14
+
+*** Marriott Marquis Hotel ***
+Height: 168.86
+Floors: 52
+Status: Completed
+Completed: 1985
+Functions: hotel
+Rank: 15
+
+*** Icon Midtown ***
+Height: 157
+Floors: 39
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 16
+
+*** Viewpoint ***
+Height: 152.7
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 17
+
+*** Twelve Centennial Park Tower I ***
+Height: 149.66
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 18
+
+*** 1075 Peachtree Office Tower ***
+Height: 148.74
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 19
+
+*** Park Avenue Condominiums ***
+Height: 148.14
+Floors: 44
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 20
+
+*** Terminus 100 ***
+Height: 147.91
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 21
+
+*** Paramount at Buckhead ***
+Height: 145.7
+Floors: 40
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 22
+
+*** 3630 Peachtree Road ***
+Height: 142.95
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office
+Rank: 23
+
+*** Centennial Tower ***
+Height: 140
+Floors: 36
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 24
+
+*** Equitable Building ***
+Height: 138.08
+Floors: 34
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 25
+
+*** Spire ***
+Height: 138
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 26
+
+*** Buckhead Grand ***
+Height: 137.47
+Floors: 38
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 27
+
+*** One Park Tower ***
+Height: 133.81
+Floors: 32
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 28
+
+*** 1100 Peachtree ***
+Height: 130.46
+Floors: 28
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 29
+
+*** Atlanta Plaza I ***
+Height: 129.54
+Floors: 32
+Status: Completed
+Started: 1984
+Completed: 1985
+Functions: office / retail
+Rank: 30
+
+*** Park Place on Peachtree ***
+Height: 128.02
+Floors: 40
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 31
+
+*** Icon Buckhead ***
+Height: 128
+Floors: 35
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 32
+
+*** 2828 Peachtree Luxury Condominiums ***
+Height: 127.87
+Floors: 33
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 33
+
+*** 10 Terminus Place ***
+Height: 125.27
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 34
+
+*** 1280 West ***
+Height: 125
+Floors: 38
+Status: Completed
+Started: 1988
+Completed: 1989
+Functions: residential
+Rank: 35
+
+*** 1010 Peachtree ***
+Height: 124
+Floors: 36
+Status: Completed
+Completed: 2009
+Functions: retail / residential
+Rank: 36
+
+*** Peachtree Summit #1 ***
+Height: 123.75
+Floors: 31
+Status: Completed
+Completed: 1975
+Functions: government / office
+Rank: 37
+
+*** One Coca-Cola Plaza ***
+Height: 122.84
+Floors: 29
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 38
+
+*** Tower Place 100 ***
+Height: 122.23
+Floors: 29
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 39
+
+*** 999 Peachtree ***
+Height: 120.7
+Floors: 28
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 40
+
+*** Two Alliance Center ***
+Height: 120.52
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 41
+
+*** Mayfair Renaissance ***
+Height: 120.4
+Floors: 35
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 42
+
+*** 171 17th Street ***
+Height: 120
+Floors: 23
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 43
+
+*** Coda at Tech Square ***
+Height: 118.87
+Floors: 21
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office / education / retail
+Rank: 44
+
+*** Sam Nunn Federal Center ***
+Height: 118.26
+Floors: 24
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 45
+
+*** Loews Midtown ***
+Height: 118.19
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / hotel
+Rank: 46
+
+*** Monarch Tower ***
+Height: 118
+Floors: 24
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 47
+
+*** Atlanta Hilton Hotel ***
+Height: 116.74
+Floors: 30
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 48
+
+*** Russell Federal Building ***
+Height: 116.74
+Floors: 26
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 49
+
+*** Harris Tower ***
+Height: 116.44
+Floors: 31
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 50
+
+*** 230 Peachtree Building ***
+Height: 116.44
+Floors: 29
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 51
+
+*** AT&T Communications Building ***
+Height: 115.83
+Floors: 14
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 52
+
+*** Marquis I ***
+Height: 115.22
+Floors: 30
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 53
+
+*** Marquis II ***
+Height: 115.22
+Floors: 30
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 53
+
+*** 25 Park Place ***
+Height: 114.9
+Floors: 28
+Status: Completed
+Completed: 1971
+Functions: education
+Rank: 55
+
+*** Coastal States Insurance Building ***
+Height: 114.9
+Floors: 27
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: office
+Rank: 56
+
+*** Peachtree Center International Tower ***
+Height: 114.61
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 57
+
+*** BB&T Tower ***
+Height: 114.3
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 58
+
+*** One Georgia Center ***
+Height: 113.08
+Floors: 24
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 59
+
+*** Mayfair Tower Condominiums ***
+Height: 112.8
+Floors: 34
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 60
+
+*** Terminus 200 ***
+Height: 112.65
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 61
+
+*** The Campanile ***
+Height: 111.86
+Floors: 20
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 62
+
+*** Atlantic House ***
+Height: 109
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 63
+
+*** Resurgens Plaza ***
+Height: 108.5
+Floors: 25
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 64
+
+*** Three Alliance Center ***
+Height: 106.98
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 65
+
+*** The Proscenium  ***
+Height: 104.85
+Floors: 24
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 66
+
+*** Hyatt Regency Atlanta ***
+Height: 103.63
+Floors: 24
+Status: Completed
+Completed: 1967
+Functions: hotel
+Rank: 67
+
+*** Twelve Atlantic Station ***
+Height: 102.41
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential / hotel
+Rank: 68
+
+*** The Grandview ***
+Height: 102
+Floors: 36
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 69
+
+*** Peachtree Center South ***
+Height: 101.19
+Floors: 27
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 70
+
+*** W Downtown Atlanta Hotel & Residences ***
+Height: 100.9
+Floors: 28
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / hotel
+Rank: 71
+
+*** Peachtree Center North ***
+Height: 100.89
+Floors: 27
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 72
+
+*** Colony Square 100 ***
+Height: 96
+Floors: 24
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 73
+
+*** W Atlanta-Midtown ***
+Height: 94.5
+Floors: 28
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 74
+
+*** Omni Hotel CNN Center Expansion ***
+Height: 94.28
+Floors: 28
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: hotel
+Rank: 75
+
+*** Museum Tower at Centennial Hill ***
+Height: 94
+Floors: 24
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 76
+
+*** Colony Square 400 ***
+Height: 93.9
+Floors: 22
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 77
+
+*** Atlanta Center Building ***
+Height: 91.75
+Floors: 23
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 78
+
+*** Merchandise Mart ***
+Height: 91.44
+Floors: 22
+Status: Completed
+Completed: 1961
+Functions: office / retail
+Rank: 79
+
+*** Georgia Power Company Headquarters ***
+Height: 91
+Floors: 24
+Status: Completed
+Started: 1976
+Completed: 1981
+Functions: office
+Rank: 80
+
+*** Aqua Midtown ***
+Height: 85
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: residential
+Rank: 81
+
+*** Grady Memorial Hospital ***
+Height: 84.4
+Floors: 21
+Status: Completed
+Completed: 1958
+Functions: hospital
+Rank: 82
+
+*** SkyHouse South ***
+Height: 80
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 83

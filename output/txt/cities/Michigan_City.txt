@@ -1,0 +1,21 @@
+*** Michigan City (1) ***
+1. Blue Chip Casino Spa Blu Tower, 85m
+
+******************** DETAILS ********************
+
+*** Michigan City ***
+Country: United States
+Region: North America
+1 tower: Blue Chip Casino Spa Blu Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Blue Chip Casino Spa Blu Tower ***
+Height: 85.22
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: hotel
+Rank: 1

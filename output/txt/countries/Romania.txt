@@ -1,0 +1,18 @@
+*** Romania (12) ***
+1. Bucharest, 12
+
+******************** DETAILS ********************
+
+*** Romania ***
+Region: Europe
+1 city: Bucharest
+Tiers: I: 8, II: 2
+Rating: 12
+
+*** Bucharest ***
+Country: Romania
+Region: Europe
+10 towers: Floreasca City Sky Tower, Tower Center International, Casa Presei, Palace of the Parliament, Bucharest Financial Plaza, BRD-GSG Tower, Euro Tower, Charles de Gaulle Plaza, Hotel InterContinental Bucharest, Cathedral Plaza
+Tiers: I: 8, II: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:16

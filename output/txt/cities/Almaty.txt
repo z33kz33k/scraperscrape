@@ -1,0 +1,102 @@
+*** Almaty (13) ***
+1.  Esentai Tower, 168m
+2.  Hotel Kazakhstan, 102m
+3.  Rahat Towers 1, 100m
+4.  Rahat Towers 2, 100m
+5.  Almaty Tower 1, 84m
+6.  Almaty Tower 2, 84m
+7.  Almaty Tower 3, 84m
+8.  Almaty Tower 4, 84m
+9.  Almaty Tower 5, 84m
+10. Almaty Tower 6, 84m
+
+******************** DETAILS ********************
+
+*** Almaty ***
+Country: Kazakhstan
+Region: Asia
+10 towers: Esentai Tower, Hotel Kazakhstan, Rahat Towers 1, Rahat Towers 2, Almaty Tower 1, Almaty Tower 2, Almaty Tower 3, Almaty Tower 4, Almaty Tower 5, Almaty Tower 6
+Tiers: I: 9, III: 1
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Esentai Tower ***
+Height: 168
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel / office
+Rank: 1
+
+*** Hotel Kazakhstan ***
+Height: 102
+Floors: 26
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 2
+
+*** Rahat Towers 1 ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 3
+
+*** Rahat Towers 2 ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 3
+
+*** Almaty Tower 1 ***
+Height: 84
+Floors: 22
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 5
+
+*** Almaty Tower 2 ***
+Height: 84
+Floors: 22
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 5
+
+*** Almaty Tower 3 ***
+Height: 84
+Floors: 22
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 5
+
+*** Almaty Tower 4 ***
+Height: 84
+Floors: 22
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 5
+
+*** Almaty Tower 5 ***
+Height: 84
+Floors: 22
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 5
+
+*** Almaty Tower 6 ***
+Height: 84
+Floors: 22
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 5

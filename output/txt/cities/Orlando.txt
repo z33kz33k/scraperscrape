@@ -1,0 +1,137 @@
+*** Orlando (21) ***
+1.  SunTrust Center, 134m
+2.  Hyatt Regency Orlando Expansion Tower, 130m
+3.  The Vue at Lake Eola, 130m
+4.  Orange County Courthouse, 127m
+5.  Bank of America Center, 123m
+6.  55 West on the Esplanade, 115m
+7.  Solaire at the Plaza, 109m
+8.  Dynetech Centre, 108m
+9.  Orlando World Center Marriott West Tower, 87m
+10. The Plaza, 84m
+11. Citi Tower, 84m
+12. Ginsburg Tower, 84m
+13. SkyHouse Orlando, 80m
+
+******************** DETAILS ********************
+
+*** Orlando ***
+Country: United States
+Region: North America
+13 towers: SunTrust Center, Hyatt Regency Orlando Expansion Tower, The Vue at Lake Eola, Orange County Courthouse, Bank of America Center, 55 West on the Esplanade, Solaire at the Plaza, Dynetech Centre, Orlando World Center Marriott West Tower, The Plaza, Citi Tower, Ginsburg Tower, SkyHouse Orlando
+Tiers: I: 5, II: 8
+Rating: 21
+Scraped on: 2019-Jan-20 16:05:17
+
+*** SunTrust Center ***
+Height: 134.42
+Floors: 30
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 1
+
+*** Hyatt Regency Orlando Expansion Tower ***
+Height: 130.35
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: hotel
+Rank: 2
+
+*** The Vue at Lake Eola ***
+Height: 129.85
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 3
+
+*** Orange County Courthouse ***
+Height: 126.8
+Floors: 24
+Status: Completed
+Completed: 1997
+Functions: government
+Rank: 4
+
+*** Bank of America Center ***
+Height: 123.14
+Floors: 28
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 5
+
+*** 55 West on the Esplanade ***
+Height: 114.9
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential / retail
+Rank: 6
+
+*** Solaire at the Plaza ***
+Height: 108.8
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 7
+
+*** Dynetech Centre ***
+Height: 108.5
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / office
+Rank: 8
+
+*** Orlando World Center Marriott West Tower ***
+Height: 87
+Floors: 28
+Status: Completed
+Completed: 1986
+Functions: hotel
+Rank: 9
+
+*** The Plaza ***
+Height: 84.3
+Floors: 17
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / office / retail
+Rank: 10
+
+*** Citi Tower ***
+Height: 83.82
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 11
+
+*** Ginsburg Tower ***
+Height: 83.5
+Floors: 15
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hospital
+Rank: 12
+
+*** SkyHouse Orlando ***
+Height: 80
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 13

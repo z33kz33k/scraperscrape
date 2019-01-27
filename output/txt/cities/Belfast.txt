@@ -1,0 +1,38 @@
+*** Belfast (3) ***
+1. Obel Tower, 85m
+2. Windsor House, 80m
+3. Belfast City Hospital Tower, 76m
+
+******************** DETAILS ********************
+
+*** Belfast ***
+Country: United Kingdom
+Region: Europe
+3 towers: Obel Tower, Windsor House, Belfast City Hospital Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Obel Tower ***
+Height: 85
+Floors: 28
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** Windsor House ***
+Height: 80
+Floors: 23
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 2
+
+*** Belfast City Hospital Tower ***
+Height: 76.2
+Floors: 15
+Status: Completed
+Functions: hospital
+Rank: 3

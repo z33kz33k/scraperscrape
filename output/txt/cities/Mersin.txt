@@ -1,0 +1,21 @@
+*** Mersin (4) ***
+1. Mersin Complex, 177m
+
+******************** DETAILS ********************
+
+*** Mersin ***
+Country: Turkey
+Region: Middle East
+1 tower: Mersin Complex
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mersin Complex ***
+Height: 176.8
+Floors: 52
+Status: Completed
+Started: 1986
+Completed: 1987
+Functions: hotel / office
+Rank: 1

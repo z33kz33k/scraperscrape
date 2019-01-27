@@ -1,0 +1,29 @@
+*** Bagnolet (4) ***
+1. Tour Levant, 122m
+2. Tour Ponant, 122m
+
+******************** DETAILS ********************
+
+*** Bagnolet ***
+Country: France
+Region: Europe
+2 towers: Tour Levant, Tour Ponant
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour Levant ***
+Height: 122
+Floors: 34
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 1
+
+*** Tour Ponant ***
+Height: 122
+Floors: 34
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 1

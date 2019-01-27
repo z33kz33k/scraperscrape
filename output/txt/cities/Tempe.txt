@@ -1,0 +1,31 @@
+*** Tempe (2) ***
+1. West Sixth Tempe Tower 2, 105m
+2. West Sixth Tempe Tower 1, 79m
+
+******************** DETAILS ********************
+
+*** Tempe ***
+Country: United States
+Region: North America
+2 towers: West Sixth Tempe Tower 2, West Sixth Tempe Tower 1
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** West Sixth Tempe Tower 2 ***
+Height: 105.16
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 1
+
+*** West Sixth Tempe Tower 1 ***
+Height: 78.64
+Floors: 22
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 2

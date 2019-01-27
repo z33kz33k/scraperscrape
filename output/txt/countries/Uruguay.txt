@@ -1,0 +1,27 @@
+*** Uruguay (16) ***
+1. Montevideo, 14
+2. Maldonado, 2
+
+******************** DETAILS ********************
+
+*** Uruguay ***
+Region: South America
+2 cities: Montevideo, Maldonado
+Tiers: I: 4, II: 4, III: 1
+Rating: 16
+
+*** Montevideo ***
+Country: Uruguay
+Region: South America
+7 towers: Torre ANTEL, World Trade Center Torre 4, World Trade Center Torre 1, World Trade Center Torre 2, Radisson Montevideo Hotel, Torre Norte, Torre El Gaucho, Palacio Salvo
+Tiers: I: 2, II: 4, III: 1
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Maldonado ***
+Country: Uruguay
+Region: South America
+2 towers: Torre Aquarela, Le Jardin Residence
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

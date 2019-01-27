@@ -1,0 +1,361 @@
+*** Xi’an (148) ***
+1.  Xi An Glory International Financial Center, 350m
+2.  OCT Xi’An International Culture Center Tower 1, 318m
+3.  Global Trade Center, 303m
+4.  Rongmin Financial Center, 300m
+5.  Greenland Center Tower 1, 270m
+6.  Greenland Center Tower 2, 270m
+7.  Xi`an Center, 238m
+8.  Shaanxi Information Mansion, 228m
+9.  Maike Business Center Tower 1, 218m
+10. Shaanxi Yanchang Petroleum Headquarters, 217m
+11. Yongwei Times Square, 212m
+12. Wynn International Financial Center, 211m
+13. Kwong Wo Mukden Center 1, 200m
+14. SEG Plaza 1, 200m
+15. Hi-Tech International Business Centre Digital Building, 197m
+16. Shaanxi Telecom & Network Tower, 180m
+17. OCT Xi’An International Culture Center Tower 2, 176m
+18. Xi'an International Center, T6, 172m
+19. Xi'an International Center, T7, 172m
+20. Xi'an Yanzhan, T6, 170m
+21. Xi'an Yanzhan, T7, 170m
+22. Xi'an Telecommuniations Hinge Center, 158m
+23. Goaxin International Communication Center, 155m
+24. Xi An Hi-Tech International Business Centre Office Tower, 150m
+25. SEG Plaza 2, 150m
+26. MOMOPARK Office Tower, 150m
+27. Xian Kempinski Hotel Phase III, 148m
+28. Xi'an Yanzhan, T1, 100m
+29. Xi'an Yanzhan, T9, 100m
+30. MOMOPARK Apartment Tower, 100m
+31. SEG Plaza 3, 100m
+32. Xi'an Yanzhan, T5, 100m
+33. Mansions #101 at Kwong Wo Mukden Center, 100m
+34. Mansions #102 at Kwong Wo Mukden Center, 100m
+35. Mansions #103 at Kwong Wo Mukden Center, 100m
+36. Mansions #104 at Kwong Wo Mukden Center, 100m
+37. Mansions #105 at Kwong Wo Mukden Center, 100m
+
+******************** DETAILS ********************
+
+*** Xi’an ***
+Country: China
+Region: Asia
+37 towers: Xi An Glory International Financial Center, OCT Xi’An International Culture Center Tower 1, Global Trade Center, Rongmin Financial Center, Greenland Center Tower 1, Greenland Center Tower 2, Xi`an Center, Shaanxi Information Mansion, Maike Business Center Tower 1, Shaanxi Yanchang Petroleum Headquarters, Yongwei Times Square, Wynn International Financial Center, Kwong Wo Mukden Center 1, SEG Plaza 1, Hi-Tech International Business Centre Digital Building, Shaanxi Telecom & Network Tower, OCT Xi’An International Culture Center Tower 2, Xi'an International Center, T6, Xi'an International Center, T7, Xi'an Yanzhan, T6, Xi'an Yanzhan, T7, Xi'an Telecommuniations Hinge Center, Goaxin International Communication Center, Xi An Hi-Tech International Business Centre Office Tower, SEG Plaza 2, MOMOPARK Office Tower, Xian Kempinski Hotel Phase III, Xi'an Yanzhan, T1, Xi'an Yanzhan, T9, MOMOPARK Apartment Tower, SEG Plaza 3, Xi'an Yanzhan, T5, Mansions #101 at Kwong Wo Mukden Center, Mansions #102 at Kwong Wo Mukden Center, Mansions #103 at Kwong Wo Mukden Center, Mansions #104 at Kwong Wo Mukden Center, Mansions #105 at Kwong Wo Mukden Center
+Tiers: I: 10, II: 1, III: 14, IV: 8, V: 4
+Rating: 148 (54.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Xi An Glory International Financial Center ***
+Height: 350
+Floors: 75
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** OCT Xi’An International Culture Center Tower 1 ***
+Height: 318
+Floors: 65
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: hotel / office / retail
+Rank: 2
+
+*** Global Trade Center ***
+Height: 303
+Floors: 63
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 3
+
+*** Rongmin Financial Center ***
+Height: 300
+Floors: 58
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: office
+Rank: 4
+
+*** Greenland Center Tower 1 ***
+Height: 270
+Floors: 57
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 5
+
+*** Greenland Center Tower 2 ***
+Height: 270
+Floors: 57
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 5
+
+*** Xi`an Center ***
+Height: 238
+Floors: 54
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 7
+
+*** Shaanxi Information Mansion ***
+Height: 228
+Floors: 51
+Status: Completed
+Started: 2000
+Completed: 2006
+Functions: office
+Rank: 8
+
+*** Maike Business Center Tower 1 ***
+Height: 218
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 9
+
+*** Shaanxi Yanchang Petroleum Headquarters ***
+Height: 217.3
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 10
+
+*** Yongwei Times Square ***
+Height: 212
+Floors: 43
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 11
+
+*** Wynn International Financial Center ***
+Height: 211.2
+Floors: 47
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 12
+
+*** Kwong Wo Mukden Center 1 ***
+Height: 200
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 13
+
+*** SEG Plaza 1 ***
+Height: 200
+Floors: 45
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 13
+
+*** Hi-Tech International Business Centre Digital Building ***
+Height: 197.4
+Floors: 40
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 15
+
+*** Shaanxi Telecom & Network Tower ***
+Height: 180
+Floors: 36
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 16
+
+*** OCT Xi’An International Culture Center Tower 2 ***
+Height: 176
+Floors: 38
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: serviced apartments / retail
+Rank: 17
+
+*** Xi'an International Center, T6 ***
+Height: 171.8
+Floors: 37
+Status: Under Construction
+Completed: 2017
+Functions: office
+Rank: 18
+
+*** Xi'an International Center, T7 ***
+Height: 171.8
+Floors: 36
+Status: Under Construction
+Completed: 2017
+Functions: office
+Rank: 19
+
+*** Xi'an Yanzhan, T6 ***
+Height: 170
+Floors: 34
+Status: Under Construction
+Completed: 2017
+Functions: office
+Rank: 20
+
+*** Xi'an Yanzhan, T7 ***
+Height: 170
+Floors: 34
+Status: Under Construction
+Completed: 2017
+Functions: office
+Rank: 20
+
+*** Xi'an Telecommuniations Hinge Center ***
+Height: 157.9
+Floors: 35
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 22
+
+*** Goaxin International Communication Center ***
+Height: 155
+Floors: 40
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 23
+
+*** Xi An Hi-Tech International Business Centre Office Tower ***
+Height: 150
+Floors: 36
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 24
+
+*** SEG Plaza 2 ***
+Height: 150
+Floors: 35
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 25
+
+*** MOMOPARK Office Tower ***
+Height: 150
+Floors: 30
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 26
+
+*** Xian Kempinski Hotel Phase III ***
+Height: 147.9
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: hotel
+Rank: 27
+
+*** Xi'an Yanzhan, T1 ***
+Height: 100
+Floors: 25
+Status: Under Construction
+Completed: 2017
+Functions: office
+Rank: 28
+
+*** Xi'an Yanzhan, T9 ***
+Height: 100
+Floors: 25
+Status: Under Construction
+Completed: 2017
+Functions: office
+Rank: 28
+
+*** MOMOPARK Apartment Tower ***
+Height: 100
+Floors: 24
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 30
+
+*** SEG Plaza 3 ***
+Height: 100
+Floors: 21
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 31
+
+*** Xi'an Yanzhan, T5 ***
+Height: 100
+Floors: 18
+Status: Under Construction
+Completed: 2017
+Functions: office
+Rank: 32
+
+*** Mansions #101 at Kwong Wo Mukden Center ***
+Height: 100
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Mansions #102 at Kwong Wo Mukden Center ***
+Height: 100
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Mansions #103 at Kwong Wo Mukden Center ***
+Height: 100
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Mansions #104 at Kwong Wo Mukden Center ***
+Height: 100
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Mansions #105 at Kwong Wo Mukden Center ***
+Height: 100
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: residential
+Rank: 33

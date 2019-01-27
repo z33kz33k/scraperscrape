@@ -1,0 +1,40 @@
+*** Charleston (3) ***
+1. Kanawha Valley Building, 81m
+2. Laidley Tower, 78m
+3. BB&T Square, 76m
+
+******************** DETAILS ********************
+
+*** Charleston ***
+Country: United States
+Region: North America
+3 towers: Kanawha Valley Building, Laidley Tower, BB&T Square
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kanawha Valley Building ***
+Height: 80.75
+Floors: 20
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: office
+Rank: 1
+
+*** Laidley Tower ***
+Height: 77.72
+Floors: 18
+Status: Completed
+Started: 1984
+Completed: 1985
+Functions: office
+Rank: 2
+
+*** BB&T Square ***
+Height: 76.2
+Floors: 15
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 3

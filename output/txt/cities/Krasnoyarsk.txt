@@ -1,0 +1,20 @@
+*** Krasnoyarsk (2) ***
+1. Pervaya Bashnya, 118m
+
+******************** DETAILS ********************
+
+*** Krasnoyarsk ***
+Country: Russia
+Region: Asia
+1 tower: Pervaya Bashnya
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pervaya Bashnya ***
+Height: 118
+Floors: 30
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 1

@@ -1,0 +1,21 @@
+*** Kigali (1) ***
+1. Kigali City Tower, 90m
+
+******************** DETAILS ********************
+
+*** Kigali ***
+Country: Rwanda
+Region: Africa
+1 tower: Kigali City Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kigali City Tower ***
+Height: 90
+Floors: 20
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 1

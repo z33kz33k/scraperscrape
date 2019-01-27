@@ -1,0 +1,51 @@
+*** Yantai (20) ***
+1. Yantai Shimao No. 1 The Harbour, 323m
+2. Yantai Shimao No. 2, 190m
+3. Yantai Shimao No. 3, 184m
+4. Yantai Shimao No. 4, 175m
+
+******************** DETAILS ********************
+
+*** Yantai ***
+Country: China
+Region: Asia
+4 towers: Yantai Shimao No. 1 The Harbour, Yantai Shimao No. 2, Yantai Shimao No. 3, Yantai Shimao No. 4
+Tiers: III: 3, V: 1
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yantai Shimao No. 1 The Harbour ***
+Height: 323
+Floors: 59
+Status: Completed
+Started: 2008
+Completed: 2017
+Functions: residential / hotel / office
+Rank: 1
+
+*** Yantai Shimao No. 2 ***
+Height: 190
+Floors: 59
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 2
+
+*** Yantai Shimao No. 3 ***
+Height: 184
+Floors: 56
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 3
+
+*** Yantai Shimao No. 4 ***
+Height: 175
+Floors: 54
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 4

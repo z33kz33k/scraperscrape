@@ -1,0 +1,20 @@
+*** Rennes (1) ***
+1. Les Horizons, 100m
+
+******************** DETAILS ********************
+
+*** Rennes ***
+Country: France
+Region: Europe
+1 tower: Les Horizons
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Les Horizons ***
+Height: 99.5
+Floors: 32
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 1

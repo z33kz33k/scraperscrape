@@ -1,0 +1,31 @@
+*** Virginia Beach (6) ***
+1. The Westin Virginia Beach Town Center & Residences, 155m
+2. Armada Hoffler Tower, 121m
+
+******************** DETAILS ********************
+
+*** Virginia Beach ***
+Country: United States
+Region: North America
+2 towers: The Westin Virginia Beach Town Center & Residences, Armada Hoffler Tower
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Westin Virginia Beach Town Center & Residences ***
+Height: 154.84
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / hotel
+Rank: 1
+
+*** Armada Hoffler Tower ***
+Height: 120.7
+Floors: 23
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 2

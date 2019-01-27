@@ -1,0 +1,89 @@
+*** Bellevue (16) ***
+1. 400 Lincoln Square, 140m
+2. W Bellevue Hotel, 137m
+3. Bellevue Towers Two, 137m
+4. One Lincoln Tower, 137m
+5. Bellevue Towers One, 131m
+6. Eddie Bauer at Lincoln Square, 126m
+7. City Center East, 110m
+8. City Center, 109m
+
+******************** DETAILS ********************
+
+*** Bellevue ***
+Country: United States
+Region: North America
+8 towers: 400 Lincoln Square, W Bellevue Hotel, Bellevue Towers Two, One Lincoln Tower, Bellevue Towers One, Eddie Bauer at Lincoln Square, City Center East, City Center
+Tiers: II: 8
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 400 Lincoln Square ***
+Height: 140.2
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 1
+
+*** W Bellevue Hotel ***
+Height: 137.2
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / hotel
+Rank: 2
+
+*** Bellevue Towers Two ***
+Height: 137.16
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 3
+
+*** One Lincoln Tower ***
+Height: 137.16
+Floors: 42
+Status: Completed
+Completed: 2005
+Functions: residential / hotel
+Rank: 4
+
+*** Bellevue Towers One ***
+Height: 131.07
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 5
+
+*** Eddie Bauer at Lincoln Square ***
+Height: 125.58
+Floors: 28
+Status: Completed
+Started: 2000
+Completed: 2007
+Functions: office
+Rank: 6
+
+*** City Center East ***
+Height: 109.7
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 7
+
+*** City Center ***
+Height: 109.1
+Floors: 27
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 8

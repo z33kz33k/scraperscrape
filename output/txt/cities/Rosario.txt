@@ -1,0 +1,155 @@
+*** Rosario (21) ***
+1.  Maui I, 141m
+2.  Dolfines Guarani Torre 1, 130m
+3.  Dolfines Guarani Torre 2, 130m
+4.  Torre Aqualina, 125m
+5.  Edificio Punta Divisadero, 115m
+6.  Torre Embarcadero, 112m
+7.  Plaza Menor and Alfar Rio, 85m
+8.  Sol Guaraní, 85m
+9.  Torre Atlantida B, 80m
+10. Torre de la Libertad, 79m
+11. Galeria del Paseo, 77m
+12. Rochdale IV, 76m
+13. Torre Atlantida C, 75m
+14. Barranca Libertad, 75m
+15. Torre Arealis, 75m
+
+******************** DETAILS ********************
+
+*** Rosario ***
+Country: Argentina
+Region: South America
+15 towers: Maui I, Dolfines Guarani Torre 1, Dolfines Guarani Torre 2, Torre Aqualina, Edificio Punta Divisadero, Torre Embarcadero, Plaza Menor and Alfar Rio, Sol Guaraní, Torre Atlantida B, Torre de la Libertad, Galeria del Paseo, Rochdale IV, Torre Atlantida C, Barranca Libertad, Torre Arealis
+Tiers: I: 9, II: 6
+Rating: 21
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Maui I ***
+Height: 140.7
+Floors: 46
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Dolfines Guarani Torre 1 ***
+Height: 130
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 2
+
+*** Dolfines Guarani Torre 2 ***
+Height: 130
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 2
+
+*** Torre Aqualina ***
+Height: 124.97
+Floors: 39
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** Edificio Punta Divisadero ***
+Height: 115
+Floors: 37
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 5
+
+*** Torre Embarcadero ***
+Height: 112
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 6
+
+*** Plaza Menor and Alfar Rio ***
+Height: 85
+Floors: 25
+Status: Completed
+Started: 1988
+Completed: 2002
+Functions: residential
+Rank: 7
+
+*** Sol Guaraní ***
+Height: 85
+Floors: 25
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential
+Rank: 7
+
+*** Torre Atlantida B ***
+Height: 79.5
+Floors: 28
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 9
+
+*** Torre de la Libertad ***
+Height: 79.3
+Floors: 25
+Status: Completed
+Started: 1994
+Completed: 1999
+Functions: residential
+Rank: 10
+
+*** Galeria del Paseo ***
+Height: 76.8
+Floors: 25
+Status: Completed
+Completed: 1983
+Functions: residential / office
+Rank: 11
+
+*** Rochdale IV ***
+Height: 75.5
+Floors: 26
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 12
+
+*** Torre Atlantida C ***
+Height: 75.1
+Floors: 24
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 13
+
+*** Barranca Libertad ***
+Height: 75
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 14
+
+*** Torre Arealis ***
+Height: 75
+Floors: 24
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 14

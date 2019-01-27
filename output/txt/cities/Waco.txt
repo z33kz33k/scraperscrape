@@ -1,0 +1,21 @@
+*** Waco (1) ***
+1. Alico Building, 86m
+
+******************** DETAILS ********************
+
+*** Waco ***
+Country: United States
+Region: North America
+1 tower: Alico Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Alico Building ***
+Height: 85.95
+Floors: 21
+Status: Completed
+Started: 1910
+Completed: 1911
+Functions: office
+Rank: 1

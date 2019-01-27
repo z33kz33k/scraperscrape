@@ -1,0 +1,70 @@
+*** Amherst (6) ***
+1. W. E. B. Du Bois Library, 90m
+2. Coolidge Hall, 84m
+3. John Adams Hall, 84m
+4. John Quincy Adams Hall, 84m
+5. Kennedy Hall, 84m
+6. Washington Hall, 84m
+
+******************** DETAILS ********************
+
+*** Amherst ***
+Country: United States
+Region: North America
+6 towers: W. E. B. Du Bois Library, Coolidge Hall, John Adams Hall, John Quincy Adams Hall, Kennedy Hall, Washington Hall
+Tiers: I: 6
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** W. E. B. Du Bois Library ***
+Height: 90.32
+Floors: 26
+Status: Completed
+Completed: 1974
+Functions: library
+Rank: 1
+
+*** Coolidge Hall ***
+Height: 84.12
+Floors: 22
+Status: Completed
+Started: 1964
+Completed: 1966
+Functions: residential
+Rank: 2
+
+*** John Adams Hall ***
+Height: 84.12
+Floors: 22
+Status: Completed
+Started: 1964
+Completed: 1966
+Functions: residential
+Rank: 2
+
+*** John Quincy Adams Hall ***
+Height: 84.12
+Floors: 22
+Status: Completed
+Started: 1964
+Completed: 1966
+Functions: residential
+Rank: 2
+
+*** Kennedy Hall ***
+Height: 84.12
+Floors: 22
+Status: Completed
+Started: 1964
+Completed: 1966
+Functions: residential
+Rank: 2
+
+*** Washington Hall ***
+Height: 84.12
+Floors: 22
+Status: Completed
+Started: 1964
+Completed: 1966
+Functions: residential
+Rank: 2

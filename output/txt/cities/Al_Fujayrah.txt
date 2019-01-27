@@ -1,0 +1,30 @@
+*** Al Fujayrah (8) ***
+1. Al Jaber Tower, 170m
+2. Al Fujayrah Tower, 155m
+
+******************** DETAILS ********************
+
+*** Al Fujayrah ***
+Country: United Arab Emirates
+Region: Middle East
+2 towers: Al Jaber Tower, Al Fujayrah Tower
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Al Jaber Tower ***
+Height: 170
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential / office
+Rank: 1
+
+*** Al Fujayrah Tower ***
+Height: 155
+Floors: 47
+Status: Completed
+Completed: 2002
+Functions: residential / office
+Rank: 2

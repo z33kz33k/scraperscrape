@@ -1,0 +1,990 @@
+*** Los Angeles (264) ***
+1.   Wilshire Grand Center, 335m
+2.   U.S. Bank Tower, 310m
+3.   Aon Center, 262m
+4.   Two California Plaza, 229m
+5.   Deloitte, 228m
+6.   Bank of America Plaza, 224m
+7.   777 Tower, 221m
+8.   Wells Fargo Tower, 220m
+9.   Figueroa at Wilshire, 219m
+10.  City National Tower, 213m
+11.  Paul Hastings Tower, 213m
+12.  Oceanwide Plaza Tower I, 206m
+13.  The Ritz-Carlton Los Angeles, 203m
+14.  Metropolis Tower D, 197m
+15.  825 South Hill, 194m
+16.  Citigroup Center, 190m
+17.  611 Place, 189m
+18.  KPMG Tower, 185m
+19.  Century Plaza North Tower, 183m
+20.  Century Plaza South Tower, 183m
+21.  One California Plaza, 176m
+22.  Century Plaza Tower I, 174m
+23.  Century Plaza Tower II, 174m
+24.  Ernst & Young Plaza, 163m
+25.  AIG Sun-America Center, 162m
+26.  Oceanwide Plaza Tower II, 162m
+27.  Oceanwide Plaza Tower III, 162m
+28.  Hope+Flower Tower 1, 161m
+29.  TCW Tower, 158m
+30.  Union Bank Plaza, 157m
+31.  10 Universal City Plaza, 154m
+32.  1100 Wilshire, 151m
+33.  Fox Plaza, 150m
+34.  Constellation Place, 150m
+35.  Ten Thousand, 147m
+36.  The Century, 146m
+37.  Arco Tower, 141m
+38.  Equitable Life Building, 138m
+39.  City Hall, 138m
+40.  AT&T Center, 138m
+41.  Metropolis Tower C, 138m
+42.  AT&T Switching Center, 137m
+43.  Metropolis Tower B, 135m
+44.  5900 Wilshire, 132m
+45.  Hope+Flower Tower 2, 128m
+46.  MCI Center, 126m
+47.  Circa Tower 1, 122m
+48.  Circa Tower 2, 122m
+49.  MTA Building, 121m
+50.  1900 Avenue of the Stars, 121m
+51.  WaterMarke Tower, 120m
+52.  One Wilshire Building, 120m
+53.  1120 South Grand Avenue, 119m
+54.  Westin Bonaventure Hotel, 118m
+55.  801 Tower, 116m
+56.  888 Olive, 114m
+57.  Mellon Bank Center, 114m
+58.  Roybal Federal Building, 112m
+59.  Beaudry Center, 111m
+60.  Blair House, 111m
+61.  5670 Wilshire Boulevard, 111m
+62.  10100 Santa Monica Boulevard, 111m
+63.  Wilshire at Westwood, 111m
+64.  Center West, 110m
+65.  Figueroa Tower, 109m
+66.  Grand Tower, 108m
+67.  Warner Center Plaza III, 107m
+68.  Atelier, 107m
+69.  KPMG Center, 107m
+70.  Bunker Hill Towers, 106m
+71.  City National Bank Building, 106m
+72.  10960 Wilshire Boulevard, 106m
+73.  Century Park Plark Plaza, 106m
+74.  The Wilshire, 105m
+75.  Biltmore Tower, 104m
+76.  Wilshire Landmark I, 102m
+77.  1000 Wilshire, 102m
+78.  Apex I, 101m
+79.  888 Grand Hope Lofts , 101m
+80.  1133 South Hope Street, 101m
+81.  World Savings Center, 100m
+82.  Eighteen Eighty Eight Building, 100m
+83.  The Tower, 100m
+84.  The Vermont West Tower, 97m
+85.  6500 Wilshire Boulevard, 95m
+86.  Apex II, 95m
+87.  Sheraton Los Angeles Downtown Hotel, 95m
+88.  International Tower, 92m
+89.  The Carlyle on Wilshire, 92m
+90.  Barrington Plaza A, 92m
+91.  Sunset Vine Tower, 90m
+92.  717 Olympic, 90m
+93.  Warner Center Plaza I, 88m
+94.  Sunset Media Tower, 88m
+95.  Warner Center Plaza VI, 86m
+96.  Figueroa Plaza I, 85m
+97.  Figueroa Plaza II, 85m
+98.  Hotel Indigo at Metropolis, 83m
+99.  Sunset and Gordon, 79m
+100. Courtyard Los Angeles L.A. LIVE, 79m
+101. City Hall East, 78m
+102. The Grace on Spring, 76m
+103. The Vermont East Tower, 75m
+
+******************** DETAILS ********************
+
+*** Los Angeles ***
+Country: United States
+Region: North America
+103 towers: Wilshire Grand Center, U.S. Bank Tower, Aon Center, Two California Plaza, Deloitte, Bank of America Plaza, 777 Tower, Wells Fargo Tower, Figueroa at Wilshire, City National Tower, Paul Hastings Tower, Oceanwide Plaza Tower I, The Ritz-Carlton Los Angeles, Metropolis Tower D, 825 South Hill, Citigroup Center, 611 Place, KPMG Tower, Century Plaza North Tower, Century Plaza South Tower, One California Plaza, Century Plaza Tower I, Century Plaza Tower II, Ernst & Young Plaza, AIG Sun-America Center, Oceanwide Plaza Tower II, Oceanwide Plaza Tower III, Hope+Flower Tower 1, TCW Tower, Union Bank Plaza, 10 Universal City Plaza, 1100 Wilshire, Fox Plaza, Constellation Place, Ten Thousand, The Century, Arco Tower, Equitable Life Building, City Hall, AT&T Center, Metropolis Tower C, AT&T Switching Center, Metropolis Tower B, 5900 Wilshire, Hope+Flower Tower 2, MCI Center, Circa Tower 1, Circa Tower 2, MTA Building, 1900 Avenue of the Stars, WaterMarke Tower, One Wilshire Building, 1120 South Grand Avenue, Westin Bonaventure Hotel, 801 Tower, 888 Olive, Mellon Bank Center, Roybal Federal Building, Beaudry Center, Blair House, 5670 Wilshire Boulevard, 10100 Santa Monica Boulevard, Wilshire at Westwood, Center West, Figueroa Tower, Grand Tower, Warner Center Plaza III, Atelier, KPMG Center, Bunker Hill Towers, City National Bank Building, 10960 Wilshire Boulevard, Century Park Plark Plaza, The Wilshire, Biltmore Tower, Wilshire Landmark I, 1000 Wilshire, Apex I, 888 Grand Hope Lofts , 1133 South Hope Street, World Savings Center, Eighteen Eighty Eight Building, The Tower, The Vermont West Tower, 6500 Wilshire Boulevard, Apex II, Sheraton Los Angeles Downtown Hotel, International Tower, The Carlyle on Wilshire, Barrington Plaza A, Sunset Vine Tower, 717 Olympic, Warner Center Plaza I, Sunset Media Tower, Warner Center Plaza VI, Figueroa Plaza I, Figueroa Plaza II, Hotel Indigo at Metropolis, Sunset and Gordon, Courtyard Los Angeles L.A. LIVE, City Hall East, The Grace on Spring, The Vermont East Tower
+Tiers: I: 32, II: 39, III: 21, IV: 9, V: 2
+Rating: 264 (14.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Wilshire Grand Center ***
+Height: 335.28
+Floors: 73
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel / office
+Rank: 1
+
+*** U.S. Bank Tower ***
+Height: 310.29
+Floors: 73
+Status: Completed
+Started: 1987
+Completed: 1990
+Functions: office
+Rank: 2
+
+*** Aon Center ***
+Height: 261.52
+Floors: 62
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 3
+
+*** Two California Plaza ***
+Height: 228.6
+Floors: 52
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 4
+
+*** Deloitte ***
+Height: 228.3
+Floors: 52
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 5
+
+*** Bank of America Plaza ***
+Height: 224.03
+Floors: 55
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 6
+
+*** 777 Tower ***
+Height: 221
+Floors: 53
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 7
+
+*** Wells Fargo Tower ***
+Height: 220.37
+Floors: 54
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: office
+Rank: 8
+
+*** Figueroa at Wilshire ***
+Height: 218.54
+Floors: 52
+Status: Completed
+Started: 1986
+Completed: 1989
+Functions: office
+Rank: 9
+
+*** City National Tower ***
+Height: 213.06
+Floors: 52
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 10
+
+*** Paul Hastings Tower ***
+Height: 213.06
+Floors: 52
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 10
+
+*** Oceanwide Plaza Tower I ***
+Height: 206.35
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / hotel / retail
+Rank: 12
+
+*** The Ritz-Carlton Los Angeles ***
+Height: 203.28
+Floors: 54
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / hotel
+Rank: 13
+
+*** Metropolis Tower D ***
+Height: 197.2
+Floors: 58
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 14
+
+*** 825 South Hill ***
+Height: 194.2
+Floors: 49
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 15
+
+*** Citigroup Center ***
+Height: 190.5
+Floors: 48
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 16
+
+*** 611 Place ***
+Height: 189
+Floors: 42
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 17
+
+*** KPMG Tower ***
+Height: 184.8
+Floors: 45
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 18
+
+*** Century Plaza North Tower ***
+Height: 183
+Floors: 46
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 19
+
+*** Century Plaza South Tower ***
+Height: 183
+Floors: 46
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 19
+
+*** One California Plaza ***
+Height: 176.18
+Floors: 42
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 21
+
+*** Century Plaza Tower I ***
+Height: 174.04
+Floors: 44
+Status: Completed
+Started: 1969
+Completed: 1975
+Functions: office
+Rank: 22
+
+*** Century Plaza Tower II ***
+Height: 174.04
+Floors: 44
+Status: Completed
+Started: 1969
+Completed: 1975
+Functions: office
+Rank: 22
+
+*** Ernst & Young Plaza ***
+Height: 162.76
+Floors: 41
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 24
+
+*** AIG Sun-America Center ***
+Height: 162.46
+Floors: 39
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 25
+
+*** Oceanwide Plaza Tower II ***
+Height: 161.5
+Floors: 40
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / retail
+Rank: 26
+
+*** Oceanwide Plaza Tower III ***
+Height: 161.5
+Floors: 40
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / retail
+Rank: 26
+
+*** Hope+Flower Tower 1 ***
+Height: 161.24
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 28
+
+*** TCW Tower ***
+Height: 157.58
+Floors: 37
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 29
+
+*** Union Bank Plaza ***
+Height: 157.28
+Floors: 40
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: office / retail
+Rank: 30
+
+*** 10 Universal City Plaza ***
+Height: 154.23
+Floors: 36
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 31
+
+*** 1100 Wilshire ***
+Height: 151.18
+Floors: 36
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: residential
+Rank: 32
+
+*** Fox Plaza ***
+Height: 149.96
+Floors: 34
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 33
+
+*** Constellation Place ***
+Height: 149.5
+Floors: 35
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 34
+
+*** Ten Thousand ***
+Height: 147.22
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 35
+
+*** The Century ***
+Height: 145.7
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 36
+
+*** Arco Tower ***
+Height: 140.8
+Floors: 33
+Status: Completed
+Started: 1988
+Completed: 1989
+Functions: office
+Rank: 37
+
+*** Equitable Life Building ***
+Height: 138.4
+Floors: 34
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 38
+
+*** City Hall ***
+Height: 138.38
+Floors: 27
+Status: Completed
+Started: 1926
+Completed: 1928
+Functions: office
+Rank: 39
+
+*** AT&T Center ***
+Height: 137.8
+Floors: 32
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 40
+
+*** Metropolis Tower C ***
+Height: 137.5
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 41
+
+*** AT&T Switching Center ***
+Height: 136.55
+Floors: 17
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 42
+
+*** Metropolis Tower B ***
+Height: 134.7
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 43
+
+*** 5900 Wilshire ***
+Height: 132
+Floors: 31
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 44
+
+*** Hope+Flower Tower 2 ***
+Height: 128.32
+Floors: 31
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 45
+
+*** MCI Center ***
+Height: 126.3
+Floors: 33
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 46
+
+*** Circa Tower 1 ***
+Height: 121.9
+Floors: 36
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / retail
+Rank: 47
+
+*** Circa Tower 2 ***
+Height: 121.9
+Floors: 36
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / retail
+Rank: 47
+
+*** MTA Building ***
+Height: 121.3
+Floors: 26
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 49
+
+*** 1900 Avenue of the Stars ***
+Height: 121
+Floors: 27
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 50
+
+*** WaterMarke Tower ***
+Height: 120.4
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 51
+
+*** One Wilshire Building ***
+Height: 120
+Floors: 28
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 52
+
+*** 1120 South Grand Avenue ***
+Height: 118.87
+Floors: 37
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 53
+
+*** Westin Bonaventure Hotel ***
+Height: 118.26
+Floors: 35
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: hotel
+Rank: 54
+
+*** 801 Tower ***
+Height: 116
+Floors: 24
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 55
+
+*** 888 Olive ***
+Height: 114.3
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 56
+
+*** Mellon Bank Center ***
+Height: 114.3
+Floors: 26
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 57
+
+*** Roybal Federal Building ***
+Height: 112
+Floors: 22
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 58
+
+*** Beaudry Center ***
+Height: 111
+Floors: 29
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 59
+
+*** Blair House ***
+Height: 111
+Floors: 29
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 59
+
+*** 5670 Wilshire Boulevard ***
+Height: 111
+Floors: 28
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 61
+
+*** 10100 Santa Monica Boulevard ***
+Height: 111
+Floors: 26
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 62
+
+*** Wilshire at Westwood ***
+Height: 110.6
+Floors: 24
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 63
+
+*** Center West ***
+Height: 110
+Floors: 23
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 64
+
+*** Figueroa Tower ***
+Height: 109
+Floors: 28
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 65
+
+*** Grand Tower ***
+Height: 108
+Floors: 28
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 66
+
+*** Warner Center Plaza III ***
+Height: 107.3
+Floors: 25
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 67
+
+*** Atelier ***
+Height: 107.29
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 68
+
+*** KPMG Center ***
+Height: 107
+Floors: 28
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 69
+
+*** Bunker Hill Towers ***
+Height: 106.38
+Floors: 32
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 70
+
+*** City National Bank Building ***
+Height: 106.07
+Floors: 24
+Status: Completed
+Started: 1966
+Completed: 1968
+Functions: office
+Rank: 71
+
+*** 10960 Wilshire Boulevard ***
+Height: 105.77
+Floors: 24
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 72
+
+*** Century Park Plark Plaza ***
+Height: 105.75
+Floors: 24
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 73
+
+*** The Wilshire ***
+Height: 104.85
+Floors: 27
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 74
+
+*** Biltmore Tower ***
+Height: 103.63
+Floors: 25
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 75
+
+*** Wilshire Landmark I ***
+Height: 102
+Floors: 24
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 76
+
+*** 1000 Wilshire ***
+Height: 102
+Floors: 21
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: office
+Rank: 77
+
+*** Apex I ***
+Height: 101.2
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 78
+
+*** 888 Grand Hope Lofts  ***
+Height: 100.59
+Floors: 34
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 79
+
+*** 1133 South Hope Street ***
+Height: 100.58
+Floors: 28
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 80
+
+*** World Savings Center ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 81
+
+*** Eighteen Eighty Eight Building ***
+Height: 100
+Floors: 21
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 82
+
+*** The Tower ***
+Height: 99.7
+Floors: 23
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 83
+
+*** The Vermont West Tower ***
+Height: 97.1
+Floors: 29
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 84
+
+*** 6500 Wilshire Boulevard ***
+Height: 95.1
+Floors: 23
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 85
+
+*** Apex II ***
+Height: 95
+Floors: 28
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 86
+
+*** Sheraton Los Angeles Downtown Hotel ***
+Height: 95
+Floors: 24
+Status: Completed
+Started: 1972
+Completed: 1973
+Functions: hotel
+Rank: 87
+
+*** International Tower ***
+Height: 92
+Floors: 23
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 88
+
+*** The Carlyle on Wilshire ***
+Height: 91.75
+Floors: 24
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 89
+
+*** Barrington Plaza A ***
+Height: 91.5
+Floors: 25
+Status: Completed
+Completed: 1961
+Functions: residential
+Rank: 90
+
+*** Sunset Vine Tower ***
+Height: 90.5
+Floors: 20
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 91
+
+*** 717 Olympic ***
+Height: 90.25
+Floors: 26
+Status: Completed
+Completed: 2008
+Functions: residential / retail
+Rank: 92
+
+*** Warner Center Plaza I ***
+Height: 88
+Floors: 21
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 93
+
+*** Sunset Media Tower ***
+Height: 87.78
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 94
+
+*** Warner Center Plaza VI ***
+Height: 86
+Floors: 20
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 95
+
+*** Figueroa Plaza I ***
+Height: 85
+Floors: 16
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 96
+
+*** Figueroa Plaza II ***
+Height: 85
+Floors: 16
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 96
+
+*** Hotel Indigo at Metropolis ***
+Height: 82.6
+Floors: 19
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hotel
+Rank: 98
+
+*** Sunset and Gordon ***
+Height: 79.2
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 99
+
+*** Courtyard Los Angeles L.A. LIVE ***
+Height: 78.6
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel
+Rank: 100
+
+*** City Hall East ***
+Height: 78
+Floors: 16
+Status: Completed
+Completed: 1973
+Functions: government
+Rank: 101
+
+*** The Grace on Spring ***
+Height: 76.2
+Floors: 24
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 102
+
+*** The Vermont East Tower ***
+Height: 75.3
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 103

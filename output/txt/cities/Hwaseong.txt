@@ -1,0 +1,51 @@
+*** Hwaseong (22) ***
+1. Hwaseong Dongtan Metapolis 101, 249m
+2. Hwaseong Dongtan Metapolis 104, 247m
+3. Hwaseong Dongtan Metapolis 102, 224m
+4. Hwaseong Dongtan Metapolis 103, 203m
+
+******************** DETAILS ********************
+
+*** Hwaseong ***
+Country: South Korea
+Region: Asia
+4 towers: Hwaseong Dongtan Metapolis 101, Hwaseong Dongtan Metapolis 104, Hwaseong Dongtan Metapolis 102, Hwaseong Dongtan Metapolis 103
+Tiers: III: 1, IV: 3
+Rating: 22
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hwaseong Dongtan Metapolis 101 ***
+Height: 248.73
+Floors: 66
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** Hwaseong Dongtan Metapolis 104 ***
+Height: 247.4
+Floors: 66
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 2
+
+*** Hwaseong Dongtan Metapolis 102 ***
+Height: 223.83
+Floors: 60
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 3
+
+*** Hwaseong Dongtan Metapolis 103 ***
+Height: 203.2
+Floors: 55
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 4

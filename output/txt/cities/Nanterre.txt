@@ -1,0 +1,57 @@
+*** Nanterre (12) ***
+1. Tour Granite, 183m
+2. Tour Chassagne, 167m
+3. Prefecture des Hauts de Seine, 113m
+4. Tour Nuages 1, 100m
+5. Tour Nuages 2, 100m
+
+******************** DETAILS ********************
+
+*** Nanterre ***
+Country: France
+Region: Europe
+5 towers: Tour Granite, Tour Chassagne, Prefecture des Hauts de Seine, Tour Nuages 1, Tour Nuages 2
+Tiers: I: 2, II: 1, III: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tour Granite ***
+Height: 183
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 1
+
+*** Tour Chassagne ***
+Height: 167
+Floors: 37
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 2
+
+*** Prefecture des Hauts de Seine ***
+Height: 113
+Floors: 25
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 3
+
+*** Tour Nuages 1 ***
+Height: 100
+Floors: 37
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 4
+
+*** Tour Nuages 2 ***
+Height: 100
+Floors: 37
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 4

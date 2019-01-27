@@ -1,0 +1,18 @@
+*** Shantou (2) ***
+1. Jinsui Mansion, 106m
+
+******************** DETAILS ********************
+
+*** Shantou ***
+Country: China
+Region: Asia
+1 tower: Jinsui Mansion
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jinsui Mansion ***
+Height: 106
+Status: Completed
+Functions: office
+Rank: 1

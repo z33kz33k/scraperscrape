@@ -1,0 +1,21 @@
+*** Wolverhampton (1) ***
+1. Victoria Hall, 77m
+
+******************** DETAILS ********************
+
+*** Wolverhampton ***
+Country: United Kingdom
+Region: Europe
+1 tower: Victoria Hall
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Victoria Hall ***
+Height: 77
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: residential
+Rank: 1

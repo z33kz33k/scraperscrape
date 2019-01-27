@@ -1,0 +1,29 @@
+*** Bloomington (3) ***
+1. 8500 Tower, 116m
+2. Wells Fargo Plaza, 91m
+
+******************** DETAILS ********************
+
+*** Bloomington ***
+Country: United States
+Region: North America
+2 towers: 8500 Tower, Wells Fargo Plaza
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 8500 Tower ***
+Height: 116.05
+Floors: 24
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 1
+
+*** Wells Fargo Plaza ***
+Height: 91.44
+Floors: 24
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 2

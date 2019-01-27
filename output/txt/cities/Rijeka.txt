@@ -1,0 +1,20 @@
+*** Rijeka (1) ***
+1. Čandekova 23a, 103m
+
+******************** DETAILS ********************
+
+*** Rijeka ***
+Country: Croatia
+Region: Europe
+1 tower: Čandekova 23a
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Čandekova 23a ***
+Height: 103
+Floors: 28
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 1

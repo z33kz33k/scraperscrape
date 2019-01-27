@@ -1,0 +1,20 @@
+*** Hamamatsu (6) ***
+1. ACT Tower, 213m
+
+******************** DETAILS ********************
+
+*** Hamamatsu ***
+Country: Japan
+Region: Asia
+1 tower: ACT Tower
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** ACT Tower ***
+Height: 212.76
+Floors: 45
+Status: Completed
+Completed: 1994
+Functions: hotel / office
+Rank: 1

@@ -1,0 +1,29 @@
+*** Muntinlupa (4) ***
+1. Insular Life Corporate Center I, 140m
+2. Insular Life Corporate Center II, 124m
+
+******************** DETAILS ********************
+
+*** Muntinlupa ***
+Country: Philippines
+Region: Asia
+2 towers: Insular Life Corporate Center I, Insular Life Corporate Center II
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Insular Life Corporate Center I ***
+Height: 140
+Floors: 34
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 1
+
+*** Insular Life Corporate Center II ***
+Height: 124
+Floors: 30
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 2

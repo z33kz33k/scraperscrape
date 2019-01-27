@@ -1,0 +1,162 @@
+*** Gurgaon (45) ***
+1.  Raheja Revanta, 195m
+2.  Golf Estate Twin Tower 1, 190m
+3.  Golf Estate Twin Tower 2, 190m
+4.  Indiabulls House Gurgaon, 180m
+5.  IREO Victory Valley Tower A, 178m
+6.   Latitude, 160m
+7.  DLF Camellias, 156m
+8.  IREO Victory Valley Tower B, 155m
+9.  IREO Skyon 1, 135m
+10. St. Andrews Tower, 125m
+11. DLF Crest, 125m
+12. IREO Victory Valley Tower C, 120m
+13. One Horizon Center, 104m
+14. Two Horizon Center, 104m
+15. Michael Schumacher World Tower, 100m
+16. Tower G, Oyster Grande, 89m
+17. Escala Residential Tower, 75m
+
+******************** DETAILS ********************
+
+*** Gurgaon ***
+Country: India
+Region: Asia
+17 towers: Raheja Revanta, Golf Estate Twin Tower 1, Golf Estate Twin Tower 2, Indiabulls House Gurgaon, IREO Victory Valley Tower A,  Latitude, DLF Camellias, IREO Victory Valley Tower B, IREO Skyon 1, St. Andrews Tower, DLF Crest, IREO Victory Valley Tower C, One Horizon Center, Two Horizon Center, Michael Schumacher World Tower, Tower G, Oyster Grande, Escala Residential Tower
+Tiers: I: 5, II: 4, III: 8
+Rating: 45 (86.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Raheja Revanta ***
+Height: 195
+Floors: 57
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Golf Estate Twin Tower 1 ***
+Height: 189.5
+Floors: 52
+Status: Under Construction
+Functions: residential
+Rank: 2
+
+*** Golf Estate Twin Tower 2 ***
+Height: 189.5
+Floors: 52
+Status: Under Construction
+Functions: residential
+Rank: 2
+
+*** Indiabulls House Gurgaon ***
+Height: 180
+Status: Under Construction
+Functions: office
+Rank: 4
+
+*** IREO Victory Valley Tower A ***
+Height: 178
+Floors: 51
+Status: Architecturally Topped Out
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 5
+
+***  Latitude ***
+Height: 160.5
+Floors: 44
+Status: Under Construction
+Functions: residential
+Rank: 6
+
+*** DLF Camellias ***
+Height: 156
+Floors: 39
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 7
+
+*** IREO Victory Valley Tower B ***
+Height: 155
+Floors: 45
+Status: Architecturally Topped Out
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 8
+
+*** IREO Skyon 1 ***
+Height: 135
+Floors: 40
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 9
+
+*** St. Andrews Tower ***
+Height: 125
+Floors: 33
+Status: Under Construction
+Functions: residential
+Rank: 10
+
+*** DLF Crest ***
+Height: 125
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** IREO Victory Valley Tower C ***
+Height: 120
+Floors: 36
+Status: Architecturally Topped Out
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** One Horizon Center ***
+Height: 104
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 13
+
+*** Two Horizon Center ***
+Height: 104
+Floors: 23
+Status: Completed
+Functions: office
+Rank: 14
+
+*** Michael Schumacher World Tower ***
+Height: 99.5
+Floors: 30
+Status: Architecturally Topped Out
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Tower G, Oyster Grande ***
+Height: 89.2
+Floors: 24
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 16
+
+*** Escala Residential Tower ***
+Height: 75
+Floors: 25
+Status: Under Construction
+Functions: residential
+Rank: 17

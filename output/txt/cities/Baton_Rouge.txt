@@ -1,0 +1,30 @@
+*** Baton Rouge (3) ***
+1. Louisiana State Capitol, 140m
+2. One American Place, 94m
+
+******************** DETAILS ********************
+
+*** Baton Rouge ***
+Country: United States
+Region: North America
+2 towers: Louisiana State Capitol, One American Place
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Louisiana State Capitol ***
+Height: 140.21
+Floors: 34
+Status: Completed
+Started: 1931
+Completed: 1932
+Functions: office
+Rank: 1
+
+*** One American Place ***
+Height: 94.49
+Floors: 24
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 2

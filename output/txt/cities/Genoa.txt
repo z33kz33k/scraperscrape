@@ -1,0 +1,103 @@
+*** Genoa (12) ***
+1.  Il Matitone, 108m
+2.  Torre Piacentini, 108m
+3.  Sip Tepi, 105m
+4.  World Trade Center, 102m
+5.  Centro Direzionale di San Benigno - Comparto 2, 100m
+6.  Torre Cantore, 92m
+7.  Torre Sampierdarena 1, 90m
+8.  Corte Lambruschini Tower 1, 87m
+9.  Torre Cap, 85m
+10. Torre ELAH, 85m
+
+******************** DETAILS ********************
+
+*** Genoa ***
+Country: Italy
+Region: Europe
+10 towers: Il Matitone, Torre Piacentini, Sip Tepi, World Trade Center, Centro Direzionale di San Benigno - Comparto 2, Torre Cantore, Torre Sampierdarena 1, Corte Lambruschini Tower 1, Torre Cap, Torre ELAH
+Tiers: I: 8, II: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Il Matitone ***
+Height: 108.5
+Floors: 24
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 1
+
+*** Torre Piacentini ***
+Height: 107.95
+Floors: 31
+Status: Completed
+Started: 1935
+Completed: 1940
+Functions: office
+Rank: 2
+
+*** Sip Tepi ***
+Height: 105
+Floors: 23
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 3
+
+*** World Trade Center ***
+Height: 101.8
+Floors: 25
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 4
+
+*** Centro Direzionale di San Benigno - Comparto 2 ***
+Height: 100
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 5
+
+*** Torre Cantore ***
+Height: 91.6
+Floors: 21
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 6
+
+*** Torre Sampierdarena 1 ***
+Height: 90
+Floors: 22
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 7
+
+*** Corte Lambruschini Tower 1 ***
+Height: 86.9
+Floors: 20
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 8
+
+*** Torre Cap ***
+Height: 85
+Floors: 20
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 9
+
+*** Torre ELAH ***
+Height: 85
+Floors: 20
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 9

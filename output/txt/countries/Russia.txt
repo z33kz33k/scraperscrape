@@ -1,0 +1,225 @@
+*** Russia (997) ***
+1.  Moscow, 524
+2.  Yekaterinburg, 196
+3.  Krasnodar, 61
+4.  Samara, 50
+5.  Chelyabinsk, 32
+6.  St. Petersburg, 31
+7.  Rostov-on-Don, 18
+8.  Krasnogorsk, 17
+9.  Surgut, 12
+10. Vladivostok, 10
+11. Tyumen, 8
+12. Groznyj, 7
+13. Kazan, 6
+14. Volgograd, 4
+15. Tolyatti, 4
+16. Khimki, 3
+17. Novosibirsk, 3
+18. Saratov, 2
+19. Shchyolkovo, 2
+20. Krasnoyarsk, 2
+21. Sochi, 2
+22. Magas, 1
+23. Voronezh, 1
+24. Ufa, 1
+
+******************** DETAILS ********************
+
+*** Russia ***
+Region: Europe
+24 cities: Moscow, Yekaterinburg, Krasnodar, Samara, Chelyabinsk, St. Petersburg, Rostov-on-Don, Krasnogorsk, Surgut, Vladivostok, Tyumen, Groznyj, Kazan, Volgograd, Tolyatti, Khimki, Novosibirsk, Saratov, Shchyolkovo, Krasnoyarsk, Sochi, Magas, Voronezh, Ufa
+Tiers: I: 433, II: 135, III: 35, IV: 16, V: 6, VI: 1
+Rating: 997 (14.8% uncompleted)
+
+*** Moscow ***
+Country: Russia
+Region: Europe
+214 towers: Federation Tower, OKO - Residential Tower, NEVA TOWERS 2, Mercury City Tower, Eurasia Tower, Capital City Moscow Tower, NEVA TOWERS 1, Grand Tower, Naberezhnaya Tower Block C, Capital Tower 1, Capital Tower 2, Capital Tower 3, Triumph Palace, Neskuchny Home & Spa Tower 1 , Capital City St. Petersburg Tower, Evolution Tower, Federation Tower - Zapad Tower, MV Lomonosov State University, Imperia Tower, OKO - Office Tower, House on Mosfilmovskaya Tower A, Radisson Royal Hotel, Tricolour 1, Continental, Tricolour 2, Vorobiovy Gory Tower II, IQ-Quarter Tower 2, Edelweiss, Kotelnicheskaya Naberezhnaya, Alye Parusa 4, Ministry of Foreign Affairs, Nordstar Tower, Mirax Plaza - Tower B, Swissotel Krasnye Holmy, Zagorye Quarter Tower, Wellhouse na Leninskom, Vorobiovy Gory Tower I, Vorobiovy Gory Tower III, Presnya City 1, Presnya City 2, Presnya City 3, Kudrinskaya Square, Savelovskii City - Armstrong, Savelovskii City - Coltrane, Savelovskii City - Ellington, Avenue 77 Block 1, Avenue 77 Block 2, Avenue 77 Block 3, Bastion, Gazprom, Alcon III, House in Sokolniki, Dolina Setun Tower B, PFC CSKA Stadium Tower, IQ-Quarter Tower 1, Domnikov, Nord Park A, Izmailovsky 1, Izmailovsky 2, Villange, Central Tourist House, Red Gate Square, Hilton Moscow Leningradskaya, House on Begovaya 1, House on Begovaya 2, Sokolinaya Gora, Dolina Setun Tower A, Monarch Center, House on Mosfilmovskaya Tower C, Rublyovka Lights, NII Delta Business Center, North Tower, Yantarnyi Gorod 2, Serdtse Stolitsy, Olympia Tower 2, World Trade Center Tower 3, Naberezhnaya Tower Block B, Winter Tower, Two Captains 1, Two Captains 2, Aerobus 1, Aerobus 2, Elena, Emerald Tower B, VDNkh Tower, Alye Parusa 1, Alye Parusa 2, Alye Parusa 3, Alye Parusa 5, House on Begovaya 3, Akadem-Palace 3, Radisson SAS Olympisky, Academy of Sciences, Autumn Tower, Gazoil City 1, Oruzheyniy, Government of Russia Building, Crystal, Alye Parusa 6, Levoberezhny 8a-8b, Tricolour 3, Novye Cheryomushki 10A k8, Novye Cheryomushki 10B k8, Novye Cheryomushki 10C k8, House In a Pine Grove, Teplichniy 4, Sun, Preo 8, Star Tower, Rostec, SRI Kontur, SRI Priboi, Lenin Avenue 116-1, 11 Building 1 1st Nagatinsky Drive, 11 Building 2 1st Nagatinsky Drive, 11 Building 3 1st Nagatinsky Drive, Summer Tower, Alye Parusa 8, Izmailovsky 3, Izmailovsky 4, Profico, Nord Park B, Alye Parusa 7, Grand Park 1, Grand Park 2, Grand Park 3, Grand Park 4, Paveletskaya Tower, Lenin Avenue, 98-1, Kutuzovskaya Riviera Tower 1, Kutuzovskaya Riviera Tower 2, Kutuzovskaya Riviera Tower 3, Kutuzovskaya Riviera Tower 4, Painters' Village, Severnye Vorota 1, Severnye Vorota 2, Main Interregional Center of Federal Service of State Statistics, SkyLight Tower A, SkyLight Tower B, Sky Fort (C203 - S6), Sky Fort (C205 - S6), Sky Fort (C206 - S5), Fili Grad - Phase 1-1B, THE MID, City Hall, Spring Tower, Losiniy Ostrov 1, Losiniy Ostrov 2, Losiniy Ostrov 3, Losiniy Ostrov 4, Lenin Avenue 92-1, Zodiak, Lenin Avenue, 128-1, Golden Gate Business Centre, Dubrovskaya Sloboda I, Dubrovskaya Sloboda II, Lenin Avenue, 106-1, Emerald Tower A, Sky Fort (C203 - S2), Sky Fort (C204 - S3), Sky Fort (C206 - S2), Utesov 1, Utesov 3, Vodnyi - Office Tower, Bashnya 2000, Alfa, Beta, Izmailovo Gamma Hotel, Vega, Hotel Cosmos, Headquarters on Mosfilmovskaya, Aivazovskiy, Dimitrovskoe Shosse 13-15 Block 1, Dimitrovskoe Shosse 13-15 Block 2, Dimitrovskoe Shosse 13-15 Block 3, Yantarnyi Gorod 4-1, Yantarnyi Gorod 4-2, Hydroproject Building, 13 New Arbat Street, 15 New Arbat Street, 19 New Arbat Street, 21 New Arbat Street, Sberbank Tower, Dykhanie 1, Dykhanie 4, Flotiliya 1, Flotiliya 2, Flotiliya 3, Flotiliya 4, Fili Grad - Phase 1-1A, Yantarnyi Gorod 1, Yantarnyi Gorod 3, Olympia Tower 1, Versis, Vodnyi - Residential Tower 1, Vodnyi - Residential Tower 2, Vodnyi - Residential Tower 3, Vodnyi - Residential Tower 4, Vodnyi - Residential Tower 5, Litsa, Fili Grad - Phase 2-2, Fili Grad - Phase 2-3, Fili Grad - Phase 2-4, Fili Grad - Phase 2-5, Fili Grad - Phase 2-6, World Trade Center Tower 2, IQ-Quarter Tower 3, Novoyasenevskii, 2-ya Kvesisskaya, 20/1, Fili Grad - Phase 2-1, Fili Grad - Phase 2-7, Etalon-City - Phase 1-1, Etalon-City - Phase 1-2, Etalon-City - Phase 1-3
+Tiers: I: 60, II: 103, III: 30, IV: 15, V: 6
+Rating: 524 (12.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yekaterinburg ***
+Country: Russia
+Region: Asia
+177 towers: Iset Tower, Vysotsky Business Center, OPERA Tower, Sverdlovsk, February Revolution, Demidov Plaza, Olimpiiskii 1, Olimpiiskii 2, Olimpiiskii 3, Malevich 2, Arbatskii, Aleksandrovskii Kvartal 2, Krylov 2, Federation Quarter, Svetlyi 5, Gorkogo 79, World Trade Center Ekaterinburg, Summit, Akvamarin 2, 3D-Club 1, Admiralskii - Phase 1-3, Kamennyi Ruchei 1, Kamennyi Ruchei 2, Kamennyi Ruchei 3, Admiralskii - Phase 1-1, Admiralskii - Phase 1-2, Mayakovskii Park 1, Mayakovskii Park 2, Malevich 1, Malevich 3, Malevich 4, Bazhovskii Premium, State Government, Premier-2 A, Newtone Park 1, Zhemchyuzhina Sortirovki, Apelsin, Vremena Goda A, Vremena Goda G, Raduzhnyi, Nikonova 21, Na Postovskogo 1, Na Postovskogo 2, Bilimbaevskaya 35, Kamennyi Ruchei 4, Millenium 5-6, Avangard 1, Avangard 2, Chkalova 124, Nebesnyi 1, Nebesnyi 2, Ordenonostsev 10, Ordenonostsev 8, Severnoe Siyanie 1, Severnoe Siyanie 2, Tehnicheskaya 14/2, Tihii Bereg 3-1, Tihii Bereg 3-2, Vilonova 18, Atrium, Koltso Ekateriny 2, 3D-Club 2, 3D-Club 3, Premier 1, Premier 2, Premier-2 D, Novyi Uktus 2, Novyi Uktus 4, Novyi Uktus 5, Hyatt Regency Ekaterinburg, Golfstrim 4, Golfstrim 5, Kuibysheva 98, Pervyi Nikolaevskii 3, Golfstrim 1, Golfstrim 2, Azbuka, Baltiiskii 1, Dom u Pruda, Liga Chempionov, Mashinistov 3, Millenium 3, Moskovskii, Moskva, Oazis, Peremena 1, Peremena 2, Rassvetnaya 9a, Rassvetnyi 1, Rassvetnyi 2, Rassvetnyi 3, Rassvetnyi 4, Rassvetnyi 5, Repin Park 1, Repina-Leningradskaya, Semitsvet 1, Semitsvet 2, Solnechnyi Ostrov 5, Universitetskii - Kopernik, Universitetskii - Lomonosov, Universitetskii - Mendeleev, Universitetskii 2, Universitetskii 3, Olhovskii Park 1, President, Atlant, Gazprom Transgaz Ekaterinburg, Na Industrii, Admiral, Admiralskii - Phase 2-1, Admiralskii - Phase 2-2, Antares 1, Aston Plaza, Avrora, Berezovaya Rosha 5, Berezovaya Rosha 6, Chermet Plaza, Flagman 1, Forest 1, Forest 2, Gagarinskii 3, Kalinovskii 8, Kalinovskii 9, Kosmos 1, Kosmos 2, Krylov 1, Lastochkino Gnezdo, Millenium 1, Novgorodtsevoi 25, Olymp, Ordenonostsev 4, Ordenonostsev 6, Parnikovaya 6, Polese 2 - 19, Polese 2 - 23, Prestizh, Profsoyuznaya 43, Roshinskii 7, Simfoniya 1, Solnechnyi Ostrov 1, Solnechnyi Ostrov 4, Sozvezdie 2, Staryh Bolshevikov 1v, Svetlyi 1, Svetlyi 2, Svetlyi 3, Svetlyi 4, Tatisheva 122, Tri Kapitana 2, Tri Kapitana 3, Uralskaya 75, Uralskii 1, Vertikal, Vilonova 24, Vilonova 8, Vysotskogo 18d, Yuzhnye Vorota, Tatishevskii 1, Tatishevskii 2, Tatishevskii 3, Gulliver, Sochi 1A, Akademicheskiy. Block 1.1.2, Akademicheskiy. Block 1.1.3, Akademicheskiy. Block 1.2, Akademicheskiy. Block 1.3, Aleksandrovskii Kvartal 1, Clever Park. Phase 1-1, Duet 1, Duet 2, Kosmonavtov 46a, Kvartal Hudozhnikov, Kvartet 1, Universitetskii 1, Zelenyi Mys, Antei 1, Klen 1
+Tiers: I: 166, II: 7, III: 4
+Rating: 196 (9.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Krasnodar ***
+Country: Russia
+Region: Europe
+61 towers: Crystal Tower, Dom Skala, Moskva 1, Moskva 2, Bolshoi 1, Bolshoi 2, Bolshoi 4, Bolshoi 5, Krasnodar, Novyi Gorod 14, Perspektiva 4.1.2, Sedmoi Kontinent 1, Sedmoi Kontinent 2, Sedmoi Kontinent 3, Sedmoi Kontinent 4, Sedmoi Kontinent 5, Sedmoi Kontinent 7, Turgenev 1, Yantar 3, Yantar 4, Bolshaya Tamanskaya 1 - Purple, Bolshaya Tamanskaya 2 - Orange, Bolshaya Tamanskaya 3 - Scarlet, Bolshaya Tamanskaya 4 - Emerald, Bolshaya Tamanskaya 5 - Turquoise, Oscar, Tri Bogatyrya 1, Tri Bogatyrya 2, Admiral 5.1, Admiral 5.2, Akademicheskii, Anit-City 1, Anit-City 2, Avrora, Avtolyubitelei 52, Bolshaya Rossiiskaya, Cheremushki 2/1, Cheremushki 2/2, Cheremushki 2/3, Dostoevskii 1, Dostoevskii 2, Evropeiskii 1, Evropeiskii 2, Evropeiskii 3, Gubernskii 2, Luch, Na Montazhnikov, Parusnaya Regata 1 - Kruzenshtern, Parusnaya Regata 2 - Sedov, Parusnaya Regata 3 - Nadezhda, Rezidentsiya, Simfoniya 3-2, Solnechnyi Ostrov 2, Triumf 1, Triumf 3, Tsentralnyi, Znamenskogo 9 - 16.1, Znamenskogo 9 - 16.2, Festivalnyi, Solnechnoe Nastroenie, Vozrozhdenie 6 - Sapfir
+Tiers: I: 61
+Rating: 61 (39.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Samara ***
+Country: Russia
+Region: Europe
+46 towers: Ladya 2, Ladya 3, Na Vilonovskoi, Vertical, Spasskaya Tower, Gazprom Transgaz Samara, Railway Station Building, Ladya 1, Favorit 1, Favorit 2, Favorit 3, Favorit 4, Verhnyaya Polevaya 2, Evropeiskii Kvartal - Best House, Gorod Solntsa 1, Gorod Solntsa 2, Gorod Solntsa 3, Sovremennik, ARGO 1, ARGO 2, ARGO 3, Dom u Kosmoporta, Olimpiya-Park 1, Olimpiya-Park 2, Privolzhskii 1, Privolzhskii 2, Raduzhnyi Lyuks 1, Raduzhnyi Lyuks 2, Raduzhnyi Lyuks 3, Raketa, Sputnik, Step Green House, Verhnyaya Polevaya 1, Samara-City 1, Albatros, Botanicheskii 14-17, Botanicheskii 18, Botanicheskii 19, Botanicheskii 20-23, Botanicheskii 5-6, Evropeiskii Kvartal - Vip House, Gastello.rf, Nadezhda 1, Pechera.rf, Zhelyabovo.rf 1, Zhelyabovo.rf 3
+Tiers: I: 42, II: 4
+Rating: 50 (10.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chelyabinsk ***
+Country: Russia
+Region: Asia
+30 towers: Manhattan 2, Chelyabinsk-City, BOVID Business Hall, South Urals State University, Lesoparkovyi 1, Lesoparkovyi 2, Ariant, PARA 1, PARA 2, Academ Riverside 16, Academ Riverside 31, Academ Riverside 54, Dom na Entuziastov, Knyazheskii 1, Korol Plaza, Pioner, Svyatogor 1, Utesov, Zapadnyi Luch 1, Zapadnyi Luch 2, Zapadnyi Luch 3, Zapadnyi Luch 4, Manhattan 1, Manhattan 3, Manhattan 5, Manhattan 6, Manhattan 7, Manhattan 8, Manhattan 9, Svyatogor 2
+Tiers: I: 28, II: 2
+Rating: 32 (12.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** St. Petersburg ***
+Country: Russia
+Region: Europe
+19 towers: Lakhta Center, Leader Tower, Knyaz Aleksandr Nevskii, Bogatyrskii 2, Lotos Tower, Atlantic City, Komendantskii 1, Komendantskii 2, A Poem in Three Lakes 1, A Poem in Three Lakes 2, A Poem in Three Lakes 3, Dominanta 1, Dominanta 2, Dominanta 3, Dominanta 4, Mezhdunarodnyi 1, Mezhdunarodnyi 2, Mezhdunarodnyi 3, Yuntolovskaya Perspektiva
+Tiers: I: 15, II: 3, VI: 1
+Rating: 31 (35.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Rostov-on-Don ***
+Country: Russia
+Region: Europe
+18 towers: Izvilistaya 7/2, Ekaterininskii, Ekaterininskii-1, Akvarel 4, Akvarel 5, Argo, Gvardeiskii-2, Zapadnye Vorota 3-13, Zapadnye Vorota 3-9, Admiral, Aleksandriiskii, Aleksandriiskii 2, Budennovskii 1, Budennovskii 2, Izvilistaya 13/1, Lermontov, Rostov-City, Voenved-City
+Tiers: I: 18
+Rating: 18 (16.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Krasnogorsk ***
+Country: Russia
+Region: Europe
+7 towers: MFK Crocus City, ART 1, ART 2, ART 3, ART 5, ART 4, ART 6
+Tiers: I: 1, II: 5, IV: 1
+Rating: 17 (35.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Surgut ***
+Country: Russia
+Region: Asia
+12 towers: Severnaya Venetsiya, Vozrozhdenie 1, Vozrozhdenie 2, Vozrozhdenie 3, Vozrozhdenie 4, 5 Zvezd 1, 5 Zvezd 2, 5 Zvezd 3, Novye Klyuchi 1, Novye Klyuchi 2, Novye Klyuchi 3, Zhemchuzhina Yugry
+Tiers: I: 12
+Rating: 12 (33.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Vladivostok ***
+Country: Russia
+Region: Asia
+5 towers: Aquamarine 2-3, Magnum 1, Magnum 2, Atlantics City 1, Atlantics City 2
+Tiers: I: 2, II: 2, III: 1
+Rating: 10 (80.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tyumen ***
+Country: Russia
+Region: Asia
+8 towers: Petr Stolypin, Stolichnyi 1, Stolichnyi 2, Stolichnyi 3, Severnaya Zhemchuzhina, Parusa, Yamskaya-Bolotnikova, Samarskaya-Orlovskaya-Kurganskaya
+Tiers: I: 8
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Groznyj ***
+Country: Russia
+Region: Europe
+5 towers: Phoenix, Hotel Grozny-City, Business Center Grozny-City, Grozny-City Residential Tower 1, Grozny-City Residential Tower 2
+Tiers: I: 3, II: 2
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kazan ***
+Country: Russia
+Region: Europe
+5 towers: Lazurnye Nebesa, Kazan Riviera, Clover House, Millenium City 2 - 2, Millenium City 1 - 1
+Tiers: I: 4, II: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Volgograd ***
+Country: Russia
+Region: Europe
+2 towers: Volgograd-City, Volga Sails A
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tolyatti ***
+Country: Russia
+Region: Europe
+4 towers: AvtoVAZ, Lada Arena 1, Moskovskii Prospect, Vega Hotel
+Tiers: I: 4
+Rating: 4 (25.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Khimki ***
+Country: Russia
+Region: Europe
+3 towers: AERO City, Mayak 3, MEBE One Khimki Plaza
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Novosibirsk ***
+Country: Russia
+Region: Asia
+3 towers: Kobra Business Center, Kommunisticheskaya 50, Saret
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Saratov ***
+Country: Russia
+Region: Europe
+1 tower: Elena
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shchyolkovo ***
+Country: Russia
+Region: Europe
+1 tower: Astrum Spa & Conference Hotel
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Krasnoyarsk ***
+Country: Russia
+Region: Asia
+1 tower: Pervaya Bashnya
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sochi ***
+Country: Russia
+Region: Europe
+1 tower: Actor Galaxy
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Magas ***
+Country: Russia
+Region: Europe
+1 tower: Magas Tower Concord
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Voronezh ***
+Country: Russia
+Region: Europe
+1 tower: Center Gallery Chizhov
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ufa ***
+Country: Russia
+Region: Europe
+1 tower: Uralsib Bank
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

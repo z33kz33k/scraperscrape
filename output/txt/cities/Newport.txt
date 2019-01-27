@@ -1,0 +1,21 @@
+*** Newport (1) ***
+1. SouthShore Condominiums Tower 1, 83m
+
+******************** DETAILS ********************
+
+*** Newport ***
+Country: United States
+Region: North America
+1 tower: SouthShore Condominiums Tower 1
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** SouthShore Condominiums Tower 1 ***
+Height: 83.21
+Floors: 21
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 1

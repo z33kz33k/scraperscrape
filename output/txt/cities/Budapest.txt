@@ -1,0 +1,37 @@
+*** Budapest (3) ***
+1. Semmelweiss Medical University, 88m
+2. Schonherz Kollegium, 80m
+3. Orszagos Egeszsegbiztositasi Penztar, 75m
+
+******************** DETAILS ********************
+
+*** Budapest ***
+Country: Hungary
+Region: Europe
+3 towers: Semmelweiss Medical University, Schonherz Kollegium, Orszagos Egeszsegbiztositasi Penztar
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Semmelweiss Medical University ***
+Height: 88
+Floors: 23
+Status: Completed
+Completed: 1976
+Functions: education
+Rank: 1
+
+*** Schonherz Kollegium ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 2
+
+*** Orszagos Egeszsegbiztositasi Penztar ***
+Height: 75
+Floors: 21
+Status: Completed
+Functions: government
+Rank: 3

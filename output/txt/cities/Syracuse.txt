@@ -1,0 +1,38 @@
+*** Syracuse (3) ***
+1. State Tower Building, 95m
+2. AXA Tower I, 82m
+3. AXA Tower II, 82m
+
+******************** DETAILS ********************
+
+*** Syracuse ***
+Country: United States
+Region: North America
+3 towers: State Tower Building, AXA Tower I, AXA Tower II
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** State Tower Building ***
+Height: 95.4
+Floors: 23
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 1
+
+*** AXA Tower I ***
+Height: 81.69
+Floors: 19
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 2
+
+*** AXA Tower II ***
+Height: 81.69
+Floors: 19
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 2

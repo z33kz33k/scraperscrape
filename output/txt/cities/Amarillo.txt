@@ -1,0 +1,20 @@
+*** Amarillo (2) ***
+1. Chase Tower, 114m
+
+******************** DETAILS ********************
+
+*** Amarillo ***
+Country: United States
+Region: North America
+1 tower: Chase Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Chase Tower ***
+Height: 114
+Floors: 31
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 1

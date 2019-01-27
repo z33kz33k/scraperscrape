@@ -1,0 +1,59 @@
+*** Kazan (6) ***
+1. Lazurnye Nebesa, 122m
+2. Kazan Riviera, 85m
+3. Clover House, 82m
+4. Millenium City 2 - 2, 82m
+5. Millenium City 1 - 1, 79m
+
+******************** DETAILS ********************
+
+*** Kazan ***
+Country: Russia
+Region: Europe
+5 towers: Lazurnye Nebesa, Kazan Riviera, Clover House, Millenium City 2 - 2, Millenium City 1 - 1
+Tiers: I: 4, II: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lazurnye Nebesa ***
+Height: 121.7
+Floors: 37
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 1
+
+*** Kazan Riviera ***
+Height: 85
+Floors: 26
+Status: Completed
+Completed: 2008
+Functions: hotel / retail
+Rank: 2
+
+*** Clover House ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Millenium City 2 - 2 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2007
+Completed: 2015
+Functions: residential
+Rank: 3
+
+*** Millenium City 1 - 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: residential
+Rank: 5

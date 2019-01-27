@@ -1,0 +1,31 @@
+*** Enschede (2) ***
+1. Alphatoren, 101m
+2. De Boulevard, 89m
+
+******************** DETAILS ********************
+
+*** Enschede ***
+Country: Netherlands
+Region: Europe
+2 towers: Alphatoren, De Boulevard
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Alphatoren ***
+Height: 101.42
+Floors: 29
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** De Boulevard ***
+Height: 89
+Floors: 29
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 2

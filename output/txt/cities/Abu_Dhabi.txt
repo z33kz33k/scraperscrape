@@ -1,0 +1,545 @@
+*** Abu Dhabi (225) ***
+1.  Burj Mohammed Bin Rashid, 381m
+2.  ADNOC Headquarters, 342m
+3.  The Landmark, 324m
+4.  Etihad Towers T2, 305m
+5.  Sky Tower, 292m
+6.  City of Lights C1 Tower, 282m
+7.  Etihad Towers T1, 278m
+8.  World Trade Center Abu Dhabi - The Offices, 277m
+9.  Nation Towers Residential Lofts, 268m
+10. Etihad Towers T3, 260m
+11. Regent Emirates Pearl, 255m
+12. The Gate Residential Tower 1, 238m
+13. The Gate Residential Tower 2, 238m
+14. The Gate Residential Tower 3, 238m
+15. Sun Tower, 238m
+16. Etihad Towers T4, 234m
+17. St. Regis Luxury Hotel, 233m
+18. The Leaf, 228m
+19. Etihad Towers T5, 218m
+20. Sama Tower, 215m
+21. Capital Plaza Residential Towers, 210m
+22. Horizon Tower A, 205m
+23. Capital Plaza Office Tower, 200m
+24. SEBA Tower, 194m
+25. Saraya Tower 1, 185m
+26. ADIA Tower, 185m
+27. IPIC Square, 185m
+28. National Bank of Abu Dhabi Headquarters, 173m
+29. Creek Tower, 172m
+30. Shining Towers A, 169m
+31. Capital Plaza Sofitel Hotel, 166m
+32. Saraya Tower 2, 165m
+33. Baynunah Hilton Tower Hotel, 165m
+34. Capital Gate Tower, 165m
+35. Etisalat Headquarters, 160m
+36. Al Khatem Tower, 155m
+37. Al Maqam Tower, 155m
+38. Al Bahar Tower 1, 145m
+39. Al Bahar Tower 2, 145m
+40. Four Seasons Abu Dhabi, 144m
+41. Rosewood Abu Dhabi, 140m
+42. Shining Towers B, 139m
+43. Al Jowhara Tower, 134m
+44. Al Sarab Tower, 131m
+45. Al Sila Tower, 131m
+46. Awqaf Tower, 126m
+47. Abu Dhabi Forte Grand Hotel, 121m
+48. Al Maryah Tower, 120m
+49. HQ, 110m
+50. Kaleidoscope Tower, 104m
+51. Cleveland Clinic Abu Dhabi Hospital, 100m
+52. Capital House, 93m
+53. Liwa Tower, 86m
+54. The Arc at Gate Towers, 85m
+
+******************** DETAILS ********************
+
+*** Abu Dhabi ***
+Country: United Arab Emirates
+Region: Middle East
+54 towers: Burj Mohammed Bin Rashid, ADNOC Headquarters, The Landmark, Etihad Towers T2, Sky Tower, City of Lights C1 Tower, Etihad Towers T1, World Trade Center Abu Dhabi - The Offices, Nation Towers Residential Lofts, Etihad Towers T3, Regent Emirates Pearl, The Gate Residential Tower 1, The Gate Residential Tower 2, The Gate Residential Tower 3, Sun Tower, Etihad Towers T4, St. Regis Luxury Hotel, The Leaf, Etihad Towers T5, Sama Tower, Capital Plaza Residential Towers, Horizon Tower A, Capital Plaza Office Tower, SEBA Tower, Saraya Tower 1, ADIA Tower, IPIC Square, National Bank of Abu Dhabi Headquarters, Creek Tower, Shining Towers A, Capital Plaza Sofitel Hotel, Saraya Tower 2, Baynunah Hilton Tower Hotel, Capital Gate Tower, Etisalat Headquarters, Al Khatem Tower, Al Maqam Tower, Al Bahar Tower 1, Al Bahar Tower 2, Four Seasons Abu Dhabi, Rosewood Abu Dhabi, Shining Towers B, Al Jowhara Tower, Al Sarab Tower, Al Sila Tower, Awqaf Tower, Abu Dhabi Forte Grand Hotel, Al Maryah Tower, HQ, Kaleidoscope Tower, Cleveland Clinic Abu Dhabi Hospital, Capital House, Liwa Tower, The Arc at Gate Towers
+Tiers: I: 5, II: 12, III: 17, IV: 16, V: 4
+Rating: 225
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Burj Mohammed Bin Rashid ***
+Height: 381.21
+Floors: 88
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** ADNOC Headquarters ***
+Height: 342
+Floors: 65
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: office
+Rank: 2
+
+*** The Landmark ***
+Height: 324
+Floors: 72
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: residential / office
+Rank: 3
+
+*** Etihad Towers T2 ***
+Height: 305.3
+Floors: 80
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 4
+
+*** Sky Tower ***
+Height: 292.21
+Floors: 74
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / office
+Rank: 5
+
+*** City of Lights C1 Tower ***
+Height: 282.1
+Floors: 62
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: office
+Rank: 6
+
+*** Etihad Towers T1 ***
+Height: 277.61
+Floors: 69
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: hotel / residential
+Rank: 7
+
+*** World Trade Center Abu Dhabi - The Offices ***
+Height: 276.59
+Floors: 60
+Status: Completed
+Started: 2007
+Completed: 2014
+Functions: office
+Rank: 8
+
+*** Nation Towers Residential Lofts ***
+Height: 268
+Floors: 64
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 9
+
+*** Etihad Towers T3 ***
+Height: 260.34
+Floors: 60
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 10
+
+*** Regent Emirates Pearl ***
+Height: 255
+Floors: 52
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: hotel / residential
+Rank: 11
+
+*** The Gate Residential Tower 1 ***
+Height: 238
+Floors: 66
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 12
+
+*** The Gate Residential Tower 2 ***
+Height: 238
+Floors: 66
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 12
+
+*** The Gate Residential Tower 3 ***
+Height: 238
+Floors: 66
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 12
+
+*** Sun Tower ***
+Height: 237.55
+Floors: 64
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 15
+
+*** Etihad Towers T4 ***
+Height: 234
+Floors: 66
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 16
+
+*** St. Regis Luxury Hotel ***
+Height: 233.23
+Floors: 51
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: hotel / office
+Rank: 17
+
+*** The Leaf ***
+Height: 227.85
+Floors: 57
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office / residential
+Rank: 18
+
+*** Etihad Towers T5 ***
+Height: 217.5
+Floors: 61
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 19
+
+*** Sama Tower ***
+Height: 215
+Floors: 52
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / office
+Rank: 20
+
+*** Capital Plaza Residential Towers ***
+Height: 210
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 21
+
+*** Horizon Tower A ***
+Height: 205
+Floors: 63
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 22
+
+*** Capital Plaza Office Tower ***
+Height: 200
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 23
+
+*** SEBA Tower ***
+Height: 194
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential / office
+Rank: 24
+
+*** Saraya Tower 1 ***
+Height: 185
+Floors: 46
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 25
+
+*** ADIA Tower ***
+Height: 185
+Floors: 40
+Status: Completed
+Started: 2001
+Completed: 2006
+Functions: office
+Rank: 26
+
+*** IPIC Square ***
+Height: 185
+Floors: 37
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 27
+
+*** National Bank of Abu Dhabi Headquarters ***
+Height: 173
+Floors: 33
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 28
+
+*** Creek Tower ***
+Height: 172
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 29
+
+*** Shining Towers A ***
+Height: 169
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 30
+
+*** Capital Plaza Sofitel Hotel ***
+Height: 166
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: hotel
+Rank: 31
+
+*** Saraya Tower 2 ***
+Height: 165
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: residential
+Rank: 32
+
+*** Baynunah Hilton Tower Hotel ***
+Height: 164.9
+Floors: 42
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 33
+
+*** Capital Gate Tower ***
+Height: 164.65
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: hotel / office
+Rank: 34
+
+*** Etisalat Headquarters ***
+Height: 160
+Floors: 27
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 35
+
+*** Al Khatem Tower ***
+Height: 155
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 36
+
+*** Al Maqam Tower ***
+Height: 155
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 36
+
+*** Al Bahar Tower 1 ***
+Height: 145.1
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 38
+
+*** Al Bahar Tower 2 ***
+Height: 145.1
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 38
+
+*** Four Seasons Abu Dhabi ***
+Height: 144
+Floors: 34
+Status: Completed
+Completed: 2016
+Functions: serviced apartments / hotel
+Rank: 40
+
+*** Rosewood Abu Dhabi ***
+Height: 140.3
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: serviced apartments / hotel
+Rank: 41
+
+*** Shining Towers B ***
+Height: 139
+Floors: 29
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 42
+
+*** Al Jowhara Tower ***
+Height: 134
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 43
+
+*** Al Sarab Tower ***
+Height: 131
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 44
+
+*** Al Sila Tower ***
+Height: 131
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 44
+
+*** Awqaf Tower ***
+Height: 126
+Floors: 30
+Status: Completed
+Completed: 2016
+Functions: residential / office
+Rank: 46
+
+*** Abu Dhabi Forte Grand Hotel ***
+Height: 120.7
+Floors: 32
+Status: Completed
+Completed: 1993
+Functions: hotel
+Rank: 47
+
+*** Al Maryah Tower ***
+Height: 120
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 48
+
+*** HQ ***
+Height: 110.05
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 49
+
+*** Kaleidoscope Tower ***
+Height: 104
+Floors: 24
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / retail
+Rank: 50
+
+*** Cleveland Clinic Abu Dhabi Hospital ***
+Height: 99.6
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: hospital
+Rank: 51
+
+*** Capital House ***
+Height: 93.45
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 52
+
+*** Liwa Tower ***
+Height: 85.62
+Floors: 20
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 53
+
+*** The Arc at Gate Towers ***
+Height: 84.6
+Floors: 23
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 54

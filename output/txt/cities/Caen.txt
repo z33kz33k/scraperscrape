@@ -1,0 +1,21 @@
+*** Caen (1) ***
+1. Centre Hospitalier Universitaire de Caen, 87m
+
+******************** DETAILS ********************
+
+*** Caen ***
+Country: France
+Region: Europe
+1 tower: Centre Hospitalier Universitaire de Caen
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Centre Hospitalier Universitaire de Caen ***
+Height: 87
+Floors: 23
+Status: Completed
+Started: 1968
+Completed: 1973
+Functions: hospital
+Rank: 1

@@ -1,0 +1,425 @@
+*** Suzhou (185) ***
+1.  Suzhou IFS, 450m
+2.  Greenland Group Suzhou Center, 358m
+3.  Suzhou ICC, 303m
+4.  Gate to the East, 302m
+5.  Suzhou RunHua Global Building A, 282m
+6.  Suzhou Center, 268m
+7.  Golden Eagle Plaza, 252m
+8.  Suzhou RunHua Global Building B, 240m
+9.  Suzhou Xindi Center, 232m
+10. International Fortune Plaza Tower A, 230m
+11. CSSD Plaza, 222m
+12. Suzhou Center Plaza 1, 222m
+13. Tiandu Plaza Tower 1, 217m
+14. The Suzhou Modern Media Plaza 1, 215m
+15. Metropolitan Tower A, 210m
+16. Metropolitan Tower B, 210m
+17. Constant Center 1, 209m
+18. Phoenix International Book City East Tower, 200m
+19. Su Zhou Wan Jing Yuan West Area, 199m
+20. International Commerce Square, 198m
+21. Suzhou Center Plaza 2, 195m
+22. Nison Plaza, 184m
+23. Suzhou Henghe Plaza, 175m
+24. W Suzhou, 170m
+25. International Fortune Plaza Tower B, 169m
+26. The Summit - Plot 554, 167m
+27. The SuzhouModern Media Plaza 2, 165m
+28. Shimao Butterfly Bay, 164m
+29. Suzhou Center Plaza 4, 160m
+30. Constant Center 2, 159m
+31. Jinhe International Building, 151m
+32. Tiandu Plaza Tower 2, 150m
+33. Phoenix International Book City West Tower, 145m
+34. Suzhou Center Plaza 5, 133m
+35. Su Zhou Wan Jing Yuan East Area, 133m
+36. Suzhou International Commerce Center East Tower, 125m
+37. W Avenue Office Tower, 115m
+38. Suzhou Center Plaza 6, 108m
+39. Suzhou Center Plaza 7, 108m
+40. Soochow Securities Headquarters, 106m
+41. W Avenue Service Apartments 1, 104m
+42. Suzhou Industrial Park Logistics Centre, 99m
+43. W Avenue SOHO Tower, 95m
+
+******************** DETAILS ********************
+
+*** Suzhou ***
+Country: China
+Region: Asia
+43 towers: Suzhou IFS, Greenland Group Suzhou Center, Suzhou ICC, Gate to the East, Suzhou RunHua Global Building A, Suzhou Center, Golden Eagle Plaza, Suzhou RunHua Global Building B, Suzhou Xindi Center, International Fortune Plaza Tower A, CSSD Plaza, Suzhou Center Plaza 1, Tiandu Plaza Tower 1, The Suzhou Modern Media Plaza 1, Metropolitan Tower A, Metropolitan Tower B, Constant Center 1, Phoenix International Book City East Tower, Su Zhou Wan Jing Yuan West Area, International Commerce Square, Suzhou Center Plaza 2, Nison Plaza, Suzhou Henghe Plaza, W Suzhou, International Fortune Plaza Tower B, The Summit - Plot 554, The SuzhouModern Media Plaza 2, Shimao Butterfly Bay, Suzhou Center Plaza 4, Constant Center 2, Jinhe International Building, Tiandu Plaza Tower 2, Phoenix International Book City West Tower, Suzhou Center Plaza 5, Su Zhou Wan Jing Yuan East Area, Suzhou International Commerce Center East Tower, W Avenue Office Tower, Suzhou Center Plaza 6, Suzhou Center Plaza 7, Soochow Securities Headquarters, W Avenue Service Apartments 1, Suzhou Industrial Park Logistics Centre, W Avenue SOHO Tower
+Tiers: I: 3, II: 8, III: 18, IV: 10, V: 3, VI: 1
+Rating: 185 (22.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Suzhou IFS ***
+Height: 450
+Floors: 98
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: hotel / office / serviced apartments
+Rank: 1
+
+*** Greenland Group Suzhou Center ***
+Height: 358
+Floors: 77
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: serviced apartments / hotel / office
+Rank: 2
+
+*** Suzhou ICC ***
+Height: 303.2
+Floors: 68
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential / office
+Rank: 3
+
+*** Gate to the East ***
+Height: 301.8
+Floors: 66
+Status: Completed
+Started: 2004
+Completed: 2015
+Functions: residential / hotel / office
+Rank: 4
+
+*** Suzhou RunHua Global Building A ***
+Height: 282
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 5
+
+*** Suzhou Center ***
+Height: 268
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: hotel / office
+Rank: 6
+
+*** Golden Eagle Plaza ***
+Height: 252
+Floors: 55
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: multiple
+Rank: 7
+
+*** Suzhou RunHua Global Building B ***
+Height: 240
+Floors: 54
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 8
+
+*** Suzhou Xindi Center ***
+Height: 232
+Floors: 54
+Status: Completed
+Completed: 2005
+Functions: residential / hotel / office
+Rank: 9
+
+*** International Fortune Plaza Tower A ***
+Height: 230
+Floors: 44
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 10
+
+*** CSSD Plaza ***
+Height: 222
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 11
+
+*** Suzhou Center Plaza 1 ***
+Height: 221.56
+Floors: 56
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: serviced apartments
+Rank: 12
+
+*** Tiandu Plaza Tower 1 ***
+Height: 217
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 13
+
+*** The Suzhou Modern Media Plaza 1 ***
+Height: 214.8
+Floors: 45
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 14
+
+*** Metropolitan Tower A ***
+Height: 210
+Floors: 52
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 15
+
+*** Metropolitan Tower B ***
+Height: 210
+Floors: 52
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 15
+
+*** Constant Center 1 ***
+Height: 209
+Floors: 51
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 17
+
+*** Phoenix International Book City East Tower ***
+Height: 200
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 18
+
+*** Su Zhou Wan Jing Yuan West Area ***
+Height: 199.1
+Floors: 55
+Status: Under Construction
+Functions: residential
+Rank: 19
+
+*** International Commerce Square ***
+Height: 198
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 20
+
+*** Suzhou Center Plaza 2 ***
+Height: 194.7
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: serviced apartments
+Rank: 21
+
+*** Nison Plaza ***
+Height: 184
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 22
+
+*** Suzhou Henghe Plaza ***
+Height: 175
+Floors: 48
+Status: Completed
+Completed: 2000
+Functions: hotel / office / retail
+Rank: 23
+
+*** W Suzhou ***
+Height: 170.38
+Floors: 39
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hotel
+Rank: 24
+
+*** International Fortune Plaza Tower B ***
+Height: 169
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 25
+
+*** The Summit - Plot 554 ***
+Height: 166.85
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: serviced apartments / office / retail
+Rank: 26
+
+*** The SuzhouModern Media Plaza 2 ***
+Height: 164.9
+Floors: 38
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel / serviced apartments
+Rank: 27
+
+*** Shimao Butterfly Bay ***
+Height: 164
+Floors: 50
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 28
+
+*** Suzhou Center Plaza 4 ***
+Height: 160.3
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 29
+
+*** Constant Center 2 ***
+Height: 159
+Floors: 35
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 30
+
+*** Jinhe International Building ***
+Height: 151
+Floors: 42
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 31
+
+*** Tiandu Plaza Tower 2 ***
+Height: 150
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 32
+
+*** Phoenix International Book City West Tower ***
+Height: 145
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / hotel
+Rank: 33
+
+*** Suzhou Center Plaza 5 ***
+Height: 132.9
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 34
+
+*** Su Zhou Wan Jing Yuan East Area ***
+Height: 132.85
+Floors: 38
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 35
+
+*** Suzhou International Commerce Center East Tower ***
+Height: 125
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 36
+
+*** W Avenue Office Tower ***
+Height: 115
+Floors: 23
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 37
+
+*** Suzhou Center Plaza 6 ***
+Height: 107.8
+Floors: 21
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 38
+
+*** Suzhou Center Plaza 7 ***
+Height: 107.8
+Floors: 21
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 38
+
+*** Soochow Securities Headquarters ***
+Height: 106.38
+Floors: 21
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 40
+
+*** W Avenue Service Apartments 1 ***
+Height: 104
+Floors: 28
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: serviced apartments
+Rank: 41
+
+*** Suzhou Industrial Park Logistics Centre ***
+Height: 99
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 42
+
+*** W Avenue SOHO Tower ***
+Height: 95
+Floors: 22
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: SOHO
+Rank: 43

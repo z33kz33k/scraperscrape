@@ -1,0 +1,20 @@
+*** Guatemala City (1) ***
+1. Club Premier, 101m
+
+******************** DETAILS ********************
+
+*** Guatemala City ***
+Country: Guatemala
+Region: Central America
+1 tower: Club Premier
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Club Premier ***
+Height: 101
+Floors: 31
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 1

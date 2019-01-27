@@ -1,0 +1,20 @@
+*** Manaus (1) ***
+1. Soberane, 80m
+
+******************** DETAILS ********************
+
+*** Manaus ***
+Country: Brazil
+Region: South America
+1 tower: Soberane
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Soberane ***
+Height: 80
+Floors: 21
+Status: Completed
+Completed: 2018
+Functions: office / residential
+Rank: 1

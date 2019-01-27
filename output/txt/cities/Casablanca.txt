@@ -1,0 +1,29 @@
+*** Casablanca (4) ***
+1. Casablanca Twin Center East Tower, 115m
+2. Casablanca Twin Center West Tower, 115m
+
+******************** DETAILS ********************
+
+*** Casablanca ***
+Country: Morocco
+Region: Africa
+2 towers: Casablanca Twin Center East Tower, Casablanca Twin Center West Tower
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Casablanca Twin Center East Tower ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 1
+
+*** Casablanca Twin Center West Tower ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 1

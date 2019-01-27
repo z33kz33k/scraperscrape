@@ -1,0 +1,21 @@
+*** Bremen (1) ***
+1. Weser Tower, 82m
+
+******************** DETAILS ********************
+
+*** Bremen ***
+Country: Germany
+Region: Europe
+1 tower: Weser Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Weser Tower ***
+Height: 82
+Floors: 22
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 1

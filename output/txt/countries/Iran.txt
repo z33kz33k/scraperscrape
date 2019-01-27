@@ -1,0 +1,27 @@
+*** Iran (37) ***
+1. Tehran, 35
+2. Shiraz, 2
+
+******************** DETAILS ********************
+
+*** Iran ***
+Region: Middle East
+2 cities: Tehran, Shiraz
+Tiers: I: 15, II: 7, III: 2
+Rating: 37 (27.0% uncompleted)
+
+*** Tehran ***
+Country: Iran
+Region: Middle East
+23 towers: Fereshteh Pasargad Hotel, Tehran International Tower, Tehran International Financial Center, Kapsad Development Housing, B3 Tower, Imperial Medical Center, Third Millennium Tower, Sepher Tower, Farmaneih Residential Commercial Tower, Golnar Tower, Shahin Dezh I, Shahin Dezh II, Shahin Dezh III, Shahin Dezh IV, Kohe Nore Tower, Apadana Tower II, Apadana Tower III, Azadi Grand Hotel, Bonyad-e-Tarikh Administrative Tower, Seda-va-sima Tower, Iran Zamin Towers, Apadana Tower I, Foreign Trade Bank of Iran
+Tiers: I: 15, II: 6, III: 2
+Rating: 35 (22.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shiraz ***
+Country: Iran
+Region: Middle East
+1 tower: Persian Gulf Complex International Hotel
+Tiers: II: 1
+Rating: 2 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17

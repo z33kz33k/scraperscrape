@@ -1,0 +1,18 @@
+*** Algeria (9) ***
+1. Oran, 9
+
+******************** DETAILS ********************
+
+*** Algeria ***
+Region: Africa
+1 city: Oran
+Tiers: I: 1, II: 4
+Rating: 9
+
+*** Oran ***
+Country: Algeria
+Region: Africa
+5 towers: Bahia Center Tower A, Bahia Center Tower B, Bahia Center Tower C, Bahia Center Tower D, Sheraton Oran Hotel
+Tiers: I: 1, II: 4
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17

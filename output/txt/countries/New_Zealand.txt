@@ -1,0 +1,45 @@
+*** New Zealand (65) ***
+1. Auckland, 55
+2. Wellington, 7
+3. Takapuna, 2
+4. Christchurch, 1
+
+******************** DETAILS ********************
+
+*** New Zealand ***
+Region: Oceania
+4 cities: Auckland, Wellington, Takapuna, Christchurch
+Tiers: I: 21, II: 12, III: 5
+Rating: 65 (18.5% uncompleted)
+
+*** Auckland ***
+Country: New Zealand
+Region: Oceania
+30 towers: Seascape, PwC Tower, The Pacifica, Vero Centre, The Ascott Metropolis, ANZ Centre, Oaks Residences, PricewaterhouseCoopers Tower, Lumley Centre, Quay West, ASB Bank Centre, Precinct Apartments, Crowne Plaza Hotel, Park Residences, BNZ Tower, IAG House, Deloitte Center, BDO Tower, Quantas House, Phillips Fox Tower, CityLife Auckland, City Gardens, Stamford Residences, AMP Centre, Chorus House, AIG Centre, HSBC House, Victoria Residences, Arthur Anderson Tower, Telecom Tower
+Tiers: I: 15, II: 10, III: 5
+Rating: 55 (21.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Wellington ***
+Country: New Zealand
+Region: Oceania
+6 towers: Majestic Centre, State Insurance Tower, HSBC Tower, 157 Lambton Quay, Intercontinental Wellington, Plimmer Towers
+Tiers: I: 5, II: 1
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Takapuna ***
+Country: New Zealand
+Region: Oceania
+1 tower: Sentinel
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Christchurch ***
+Country: New Zealand
+Region: Oceania
+1 tower: Pacific Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

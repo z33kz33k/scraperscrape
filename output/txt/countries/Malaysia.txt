@@ -1,0 +1,72 @@
+*** Malaysia (532) ***
+1. Kuala Lumpur, 468
+2. Penang, 29
+3. Johor Bahru, 26
+4. Putrajaya, 4
+5. Sibu, Sarawak, 2
+6. Kota Kinabalu, Sabah, 2
+7. Shah Alam, 1
+
+******************** DETAILS ********************
+
+*** Malaysia ***
+Region: Asia
+7 cities: Kuala Lumpur, Penang, Johor Bahru, Putrajaya, Sibu, Sarawak, Kota Kinabalu, Sabah, Shah Alam
+Tiers: I: 2, II: 24, III: 50, IV: 31, V: 7, VI: 4
+Rating: 532 (31.2% uncompleted)
+
+*** Kuala Lumpur ***
+Country: Malaysia
+Region: Asia
+101 towers: Merdeka PNB118, The Exchange 106, Petronas Twin Tower 1, Petronas Twin Tower 2, Fairmont Kuala Lumpur Tower 1, Four Seasons Place, Oxley Tower 1, M101 Skywheel, Menara TM, Kempinski Hotel & Residences, Dayabumi, Fairmont Kuala Lumpur Tower 2, 8 Conlay Tower A, Ilham Tower, Petronas Tower 3, Star Residences RT2, Star Residences RT3, 8 Conlay Tower B, KLCC Lot 91, Star Residences RT1, Menara Maybank, Setia Eco City - Vogue Suite One, MidValley Tower of Light, Banyan Tree Signatures, Vista Tower, WKL Hotel and Tropicana The Residences, BBCC Lucentia Residential Towers, Oxley Tower 2, Sky Suites @ KLCC 1, Sky Suites @ KLCC 2, Sky Suites @ KLCC 3, Elite Pavilion, Equatorial Plaza, Harrods Hotel & Residences Main Tower, Menara Felda, Platinum Park, Naza Tower 1, Menara Maxis, The Sentral Residences Tower A, The Sentral Residences Tower B, AmBank Tower, St. Regis Hotel & Residences, The Troika Tower 3, Berjaya Times Square Tower A, Berjaya Times Square Tower B, K Residence, Lot G Office Towers, Capital Square Tower 1, Maju Perdana One, Menara Standard Chartered, Menara Citibank, Marinara Financial Center, Grand Seasons Hotel, Public Mutual Tower, The Troika Tower 2, Menara Data'Onn, KKR2 Tower, Menara PNB, Menara Public Bank, Wisma Goldhill, Menara Prestige, CAHB Corporate Office Tower, Plaza Cygal, Menara Keck Seng, JKG Tower, The Troika Tower 1, Kompleks Dayabumi, Oxley Tower 3, Dynasty Hotel, Pavilion Residences Tower 1, Hilton Kuala Lumpur, Le Meridien Kuala Lumpur Sentral, Menara Dion, Sheraton Imperial Kuala Lumpur Hotel, Menara KH, Bangunan Tabung Haji, Mont Kiara Damai, Park View Serviced Apartments, Parkview Serviced Apartments, Menara TA One, Bangunan MAS, Bangunan MAS Rennovation, Menara Binjai, Rio City, Plaza Sentral Condominiums II, Plaza Sentral Condominiums I, Wisma Denmark, UBN Tower, Vision City Tower D, Inwood Residences, Wisma Beraga, The Capers Tower A, The Capers Tower B, Bistari Condominium Begonia, Bistari Condominium Lavendar, Bangunan Dewan Bandaraya, Menara DBKL, Wisma Cyclecarri, Aloft Kuala Lumpur Sentral, Menara Boustead, The Weld Tower, Central Plaza
+Tiers: II: 19, III: 45, IV: 27, V: 6, VI: 4
+Rating: 468 (32.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Penang ***
+Country: Malaysia
+Region: Asia
+9 towers: Menara KOMTAR, Arte S Tower 1, Gurney Paragon East Tower, Gurney Paragon West Tower, Skyview Residence, The Terraces Penang, Arte S Tower 2, MBf Tower, Menara UMNO
+Tiers: I: 1, II: 3, III: 4, IV: 1
+Rating: 29 (20.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Johor Bahru ***
+Country: Malaysia
+Region: Asia
+4 towers: Coronation Square Tower 1, The Astaka Tower A, The Astaka Tower B, The Altus
+Tiers: IV: 3, V: 1
+Rating: 26 (30.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Putrajaya ***
+Country: Malaysia
+Region: Asia
+1 tower: Kementerian Pembangunan Wanita, Keluarga Dan Masyarakat
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sibu, Sarawak ***
+Country: Malaysia
+Region: Asia
+1 tower: Wisma Sanyan
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kota Kinabalu, Sabah ***
+Country: Malaysia
+Region: Asia
+1 tower: Menara Tun Mustapha
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Shah Alam ***
+Country: Malaysia
+Region: Asia
+1 tower: Top Glove Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

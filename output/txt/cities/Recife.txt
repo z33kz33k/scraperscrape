@@ -1,0 +1,650 @@
+*** Recife (113) ***
+1.  Jardins da Aurora - Torre Beberibe, 142m
+2.  Jardins da Aurora - Torre Capibaribe, 142m
+3.  Empresarial Charles Darwin, 138m
+4.  Freguesia de Casa Forte, 131m
+5.  Pier Duarte Coelho, 131m
+6.  Pier Mauricio de Nassau, 131m
+7.  Terras Brasilis, 130m
+8.  Maria Angela Lucena, 128m
+9.  Living Tower Andrade Bezerra, 128m
+10. Brennand Plaza, 124m
+11. Aderbal Jurema, 123m
+12. Antonio Espindola, 123m
+13. Arcos da Aurora Prince, 122m
+14. Beach Class International, 121m
+15. Mendo Sampaio, 121m
+16. Edifico Maria Edicta, 121m
+17. Edificio Alameda Casa Forte, 120m
+18. Estacio do Mar, 120m
+19. Jardim das Tulipas, 119m
+20. Grand Tower Shopping, 119m
+21. Beach Class Residence, 119m
+22. Casa Rosada, 119m
+23. Jardins do Rosarinho, 118m
+24. Beach Class Hotel & Residence, 118m
+25. Edifício Teresa Novaes, 117m
+26. Jardim das Acácias, 117m
+27. Beach Class Executive, 117m
+28. Governador Cid Sampaio, 116m
+29. Maria da Graça, 115m
+30. Maria Júlia, 115m
+31. Saint Albert, 115m
+32. Saint Andre, 114m
+33. Maria Diva, 113m
+34. Empresarial RioMar Trade Center 1, 111m
+35. Empresarial RioMar Trade Center 2, 111m
+36. Empresarial RioMar Trade Center 3, 111m
+37. Luís Dias Lins, 110m
+38. Alameda 17, 110m
+39. Grand Tower Boa Vista, 109m
+40. Don Miguel Inácio, 109m
+41. Saint Elisée, 109m
+42. Sítio Rosarinho, 108m
+43. Estacao da Jaqueira, 107m
+44. Porto Seguro, 107m
+45. Ubaias Prince, 104m
+46. Ubaias Prince, 104m
+47. Castelinho, 104m
+48. Castelo del Mar, 104m
+49. Costa Azevedo, 104m
+50. Maria Flávia, 102m
+51. Felicitá Prince, 101m
+52. Valdemar de Oliveira, 99m
+53. Torre Prince, 97m
+54. Promenade Prince, 96m
+55. Madison Avenida, 94m
+56. Alfred Nobel, 93m
+57. Isaac Newton, 93m
+58. Maria de Lourdes, 91m
+59. Ramada Hotels and Suítes, 88m
+60. Lincoln Avenida, 87m
+61. Rio Sena, 85m
+62. Reginaldo Araújo, 85m
+63. Mar Azul, 85m
+64. International Trade Center, 83m
+65. Maria Alice, 81m
+66. Maria Beatriz, 81m
+67. Maria Genita, 80m
+68. Pernambuco Corporate, 79m
+69. Boulevard Prince, 77m
+
+******************** DETAILS ********************
+
+*** Recife ***
+Country: Brazil
+Region: South America
+69 towers: Jardins da Aurora - Torre Beberibe, Jardins da Aurora - Torre Capibaribe, Empresarial Charles Darwin, Freguesia de Casa Forte, Pier Duarte Coelho, Pier Mauricio de Nassau, Terras Brasilis, Maria Angela Lucena, Living Tower Andrade Bezerra, Brennand Plaza, Aderbal Jurema, Antonio Espindola, Arcos da Aurora Prince, Beach Class International, Mendo Sampaio, Edifico Maria Edicta, Edificio Alameda Casa Forte, Estacio do Mar, Jardim das Tulipas, Grand Tower Shopping, Beach Class Residence, Casa Rosada, Jardins do Rosarinho, Beach Class Hotel & Residence, Edifício Teresa Novaes, Jardim das Acácias, Beach Class Executive, Governador Cid Sampaio, Maria da Graça, Maria Júlia, Saint Albert, Saint Andre, Maria Diva, Empresarial RioMar Trade Center 1, Empresarial RioMar Trade Center 2, Empresarial RioMar Trade Center 3, Luís Dias Lins, Alameda 17, Grand Tower Boa Vista, Don Miguel Inácio, Saint Elisée, Sítio Rosarinho, Estacao da Jaqueira, Porto Seguro, Ubaias Prince, Ubaias Prince, Castelinho, Castelo del Mar, Costa Azevedo, Maria Flávia, Felicitá Prince, Valdemar de Oliveira, Torre Prince, Promenade Prince, Madison Avenida, Alfred Nobel, Isaac Newton, Maria de Lourdes, Ramada Hotels and Suítes, Lincoln Avenida, Rio Sena, Reginaldo Araújo, Mar Azul, International Trade Center, Maria Alice, Maria Beatriz, Maria Genita, Pernambuco Corporate, Boulevard Prince
+Tiers: I: 25, II: 44
+Rating: 113 (10.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jardins da Aurora - Torre Beberibe ***
+Height: 141.84
+Floors: 47
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Jardins da Aurora - Torre Capibaribe ***
+Height: 141.84
+Floors: 47
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Empresarial Charles Darwin ***
+Height: 138
+Floors: 39
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: office
+Rank: 3
+
+*** Freguesia de Casa Forte ***
+Height: 131.25
+Floors: 42
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 4
+
+*** Pier Duarte Coelho ***
+Height: 130.72
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 5
+
+*** Pier Mauricio de Nassau ***
+Height: 130.72
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 5
+
+*** Terras Brasilis ***
+Height: 130
+Floors: 44
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 7
+
+*** Maria Angela Lucena ***
+Height: 128
+Floors: 42
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 8
+
+*** Living Tower Andrade Bezerra ***
+Height: 127.8
+Floors: 40
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 9
+
+*** Brennand Plaza ***
+Height: 124.5
+Floors: 36
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 10
+
+*** Aderbal Jurema ***
+Height: 123.4
+Floors: 40
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 11
+
+*** Antonio Espindola ***
+Height: 123
+Floors: 40
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 12
+
+*** Arcos da Aurora Prince ***
+Height: 122.42
+Floors: 39
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 13
+
+*** Beach Class International ***
+Height: 121.4
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel
+Rank: 14
+
+*** Mendo Sampaio ***
+Height: 121
+Floors: 41
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 15
+
+*** Edifico Maria Edicta ***
+Height: 120.7
+Floors: 38
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 16
+
+*** Edificio Alameda Casa Forte ***
+Height: 119.5
+Floors: 42
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 17
+
+*** Estacio do Mar ***
+Height: 119.5
+Floors: 41
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 18
+
+*** Jardim das Tulipas ***
+Height: 119.2
+Floors: 39
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 19
+
+*** Grand Tower Shopping ***
+Height: 119.2
+Floors: 30
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: office
+Rank: 20
+
+*** Beach Class Residence ***
+Height: 118.8
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 21
+
+*** Casa Rosada ***
+Height: 118.57
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 22
+
+*** Jardins do Rosarinho ***
+Height: 118
+Floors: 38
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 23
+
+*** Beach Class Hotel & Residence ***
+Height: 118
+Floors: 32
+Status: Under Construction
+Completed: 2019
+Functions: hotel / residential
+Rank: 24
+
+*** Edifício Teresa Novaes ***
+Height: 117.3
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 25
+
+*** Jardim das Acácias ***
+Height: 117.28
+Floors: 39
+Status: Completed
+Completed: 2018
+Functions: residential
+Rank: 26
+
+*** Beach Class Executive ***
+Height: 116.8
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 27
+
+*** Governador Cid Sampaio ***
+Height: 115.75
+Floors: 37
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 28
+
+*** Maria da Graça ***
+Height: 114.91
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 29
+
+*** Maria Júlia ***
+Height: 114.91
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 29
+
+*** Saint Albert ***
+Height: 114.7
+Floors: 35
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: residential
+Rank: 31
+
+*** Saint Andre ***
+Height: 114.1
+Floors: 36
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: residential
+Rank: 32
+
+*** Maria Diva ***
+Height: 113.08
+Floors: 36
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 33
+
+*** Empresarial RioMar Trade Center 1 ***
+Height: 110.65
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 34
+
+*** Empresarial RioMar Trade Center 2 ***
+Height: 110.65
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 34
+
+*** Empresarial RioMar Trade Center 3 ***
+Height: 110.65
+Floors: 31
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 34
+
+*** Luís Dias Lins ***
+Height: 110.5
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 37
+
+*** Alameda 17 ***
+Height: 110
+Floors: 36
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 38
+
+*** Grand Tower Boa Vista ***
+Height: 109.2
+Floors: 31
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: office
+Rank: 39
+
+*** Don Miguel Inácio ***
+Height: 108.95
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 40
+
+*** Saint Elisée ***
+Height: 108.7
+Floors: 35
+Status: Completed
+Started: 2002
+Completed: 2006
+Functions: residential
+Rank: 41
+
+*** Sítio Rosarinho ***
+Height: 107.75
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 42
+
+*** Estacao da Jaqueira ***
+Height: 107
+Floors: 37
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 43
+
+*** Porto Seguro ***
+Height: 107
+Floors: 37
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 43
+
+*** Ubaias Prince ***
+Height: 104.34
+Floors: 34
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 45
+
+*** Ubaias Prince ***
+Height: 104.25
+Floors: 33
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 46
+
+*** Castelinho ***
+Height: 104.22
+Floors: 35
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 47
+
+*** Castelo del Mar ***
+Height: 104.22
+Floors: 35
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 47
+
+*** Costa Azevedo ***
+Height: 104
+Floors: 36
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 49
+
+*** Maria Flávia ***
+Height: 102
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 50
+
+*** Felicitá Prince ***
+Height: 101.4
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 51
+
+*** Valdemar de Oliveira ***
+Height: 99.36
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 52
+
+*** Torre Prince ***
+Height: 97
+Floors: 30
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 53
+
+*** Promenade Prince ***
+Height: 96.2
+Floors: 30
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 54
+
+*** Madison Avenida ***
+Height: 94.12
+Floors: 28
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 55
+
+*** Alfred Nobel ***
+Height: 93.03
+Floors: 25
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 56
+
+*** Isaac Newton ***
+Height: 93.03
+Floors: 25
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 56
+
+*** Maria de Lourdes ***
+Height: 91.1
+Floors: 28
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 58
+
+*** Ramada Hotels and Suítes ***
+Height: 88.15
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: hotel
+Rank: 59
+
+*** Lincoln Avenida ***
+Height: 86.6
+Floors: 26
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 60
+
+*** Rio Sena ***
+Height: 85.3
+Floors: 29
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 61
+
+*** Reginaldo Araújo ***
+Height: 84.75
+Floors: 28
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 62
+
+*** Mar Azul ***
+Height: 84.75
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 63
+
+*** International Trade Center ***
+Height: 82.62
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 64
+
+*** Maria Alice ***
+Height: 80.77
+Floors: 24
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 65
+
+*** Maria Beatriz ***
+Height: 80.77
+Floors: 24
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 65
+
+*** Maria Genita ***
+Height: 79.86
+Floors: 25
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 67
+
+*** Pernambuco Corporate ***
+Height: 78.6
+Floors: 21
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 68
+
+*** Boulevard Prince ***
+Height: 76.75
+Floors: 23
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 69

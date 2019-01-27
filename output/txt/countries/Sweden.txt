@@ -1,0 +1,45 @@
+*** Sweden (28) ***
+1. Stockholm, 15
+2. Malmo, 8
+3. Goteborg, 4
+4. Vasteras, 1
+
+******************** DETAILS ********************
+
+*** Sweden ***
+Region: Europe
+4 cities: Stockholm, Malmo, Goteborg, Vasteras
+Tiers: I: 14, II: 5, III: 1
+Rating: 28 (10.7% uncompleted)
+
+*** Stockholm ***
+Country: Sweden
+Region: Europe
+11 towers: Kista Science Tower, Innovationen, Victoria Tower, Kista Torn, Helix, Skrapan, Soder Torn, DN-Skrapan, Folksamhuset, Kajen 5, Wenner-Gren Center
+Tiers: I: 7, II: 4
+Rating: 15 (6.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Malmo ***
+Country: Sweden
+Region: Europe
+4 towers: Turning Torso, Point Hyllie, Malm&ouml; Live, Kronprinsen
+Tiers: I: 2, II: 1, III: 1
+Rating: 8 (25.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Goteborg ***
+Country: Sweden
+Region: Europe
+4 towers: Gothia New Tower, Crown Tower, Lilla Brommen, Gothia West Tower
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Vasteras ***
+Country: Sweden
+Region: Europe
+1 tower: Skrapan
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

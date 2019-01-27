@@ -1,0 +1,205 @@
+*** Santo Domingo (34) ***
+1.  Anacaona 27, 161m
+2.  Torre Caney, 150m
+3.  Torre Mar Azul, 145m
+4.  Torre Silver Sun Gallery, 130m
+5.  Malecon Center 1, 122m
+6.  Malecon Center 2, 122m
+7.  Malecon Center 3, 122m
+8.  Torre Azul, 120m
+9.  Torre Citibank, 115m
+10. Diandy XX, 110m
+11. Torre Da Silva 4, 100m
+12. Hilton Santo Domingo, 96m
+13. Veiramar 2, 86m
+14. Torre Carib, 85m
+15. Torre del Conservatorio, 82m
+16. ALCO Paradisso, 82m
+17. Torre del Parque, 79m
+18. Torre del Sol, 78m
+19. Intercentro, 78m
+20. Torre Atiemar, 75m
+
+******************** DETAILS ********************
+
+*** Santo Domingo ***
+Country: Dominican Republic
+Region: Central America
+20 towers: Anacaona 27, Torre Caney, Torre Mar Azul, Torre Silver Sun Gallery, Malecon Center 1, Malecon Center 2, Malecon Center 3, Torre Azul, Torre Citibank, Diandy XX, Torre Da Silva 4, Hilton Santo Domingo, Veiramar 2, Torre Carib, Torre del Conservatorio, ALCO Paradisso, Torre del Parque, Torre del Sol, Intercentro, Torre Atiemar
+Tiers: I: 10, II: 8, III: 2
+Rating: 34
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Anacaona 27 ***
+Height: 161
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Torre Caney ***
+Height: 150
+Floors: 38
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 2
+
+*** Torre Mar Azul ***
+Height: 145
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Torre Silver Sun Gallery ***
+Height: 130
+Floors: 31
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel / office
+Rank: 4
+
+*** Malecon Center 1 ***
+Height: 122.4
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 5
+
+*** Malecon Center 2 ***
+Height: 122.4
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 5
+
+*** Malecon Center 3 ***
+Height: 122.4
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 5
+
+*** Torre Azul ***
+Height: 120
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 8
+
+*** Torre Citibank ***
+Height: 115
+Floors: 22
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: office
+Rank: 9
+
+*** Diandy XX ***
+Height: 110
+Floors: 27
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 10
+
+*** Torre Da Silva 4 ***
+Height: 100
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 11
+
+*** Hilton Santo Domingo ***
+Height: 96
+Floors: 26
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 12
+
+*** Veiramar 2 ***
+Height: 85.9
+Floors: 22
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 13
+
+*** Torre Carib ***
+Height: 85
+Floors: 23
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 14
+
+*** Torre del Conservatorio ***
+Height: 82
+Floors: 24
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 15
+
+*** ALCO Paradisso ***
+Height: 82
+Floors: 22
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential
+Rank: 16
+
+*** Torre del Parque ***
+Height: 78.9
+Floors: 23
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: residential
+Rank: 17
+
+*** Torre del Sol ***
+Height: 78
+Floors: 23
+Status: Completed
+Started: 1988
+Completed: 1993
+Functions: residential
+Rank: 18
+
+*** Intercentro ***
+Height: 78
+Floors: 18
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 19
+
+*** Torre Atiemar ***
+Height: 75
+Floors: 21
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 20

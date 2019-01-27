@@ -1,0 +1,19 @@
+*** Bamako (1) ***
+1. BCEAO Tower, 80m
+
+******************** DETAILS ********************
+
+*** Bamako ***
+Country: Mali
+Region: Africa
+1 tower: BCEAO Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** BCEAO Tower ***
+Height: 80
+Floors: 20
+Status: Completed
+Functions: office
+Rank: 1

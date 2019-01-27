@@ -1,0 +1,95 @@
+*** Oakland (13) ***
+1. Ordway Building, 123m
+2. Kaiser Center, 119m
+3. Lake Merritt Plaza, 113m
+4. 1111 Broadway, 110m
+5. Kaiser Engineering Building, 102m
+6. Clorox Building, 101m
+7. Elihu M. Harris State Office Building, 100m
+8. Oakland City Hall, 97m
+9. Tribune Tower, 94m
+
+******************** DETAILS ********************
+
+*** Oakland ***
+Country: United States
+Region: North America
+9 towers: Ordway Building, Kaiser Center, Lake Merritt Plaza, 1111 Broadway, Kaiser Engineering Building, Clorox Building, Elihu M. Harris State Office Building, Oakland City Hall, Tribune Tower
+Tiers: I: 5, II: 4
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ordway Building ***
+Height: 123.14
+Floors: 28
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 1
+
+*** Kaiser Center ***
+Height: 118.7
+Floors: 28
+Status: Completed
+Started: 1958
+Completed: 1960
+Functions: office
+Rank: 2
+
+*** Lake Merritt Plaza ***
+Height: 113.1
+Floors: 27
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 3
+
+*** 1111 Broadway ***
+Height: 109.7
+Floors: 24
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 4
+
+*** Kaiser Engineering Building ***
+Height: 102.4
+Floors: 25
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 5
+
+*** Clorox Building ***
+Height: 100.6
+Floors: 24
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 6
+
+*** Elihu M. Harris State Office Building ***
+Height: 100
+Floors: 23
+Status: Completed
+Completed: 1998
+Functions: government
+Rank: 7
+
+*** Oakland City Hall ***
+Height: 97.2
+Floors: 18
+Status: Completed
+Started: 1911
+Completed: 1914
+Functions: government
+Rank: 8
+
+*** Tribune Tower ***
+Height: 94.49
+Floors: 20
+Status: Completed
+Started: 1906
+Completed: 1923
+Functions: office
+Rank: 9

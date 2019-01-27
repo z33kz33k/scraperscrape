@@ -1,0 +1,907 @@
+*** Wuhan (453) ***
+1.  Wuhan Greenland Center, 472m
+2.  Wuhan Center Tower, 438m
+3.  Riverview Plaza A1, 436m
+4.  Heartland 66 Office Tower, 339m
+5.  Minsheng Bank Building, 331m
+6.  Yuexiu Fortune Center Tower 1, 330m
+7.  Wuhan Yangtze River Shipping Center, 330m
+8.  Wuhan Tiandi Park Place Office Tower 1, 283m
+9.  Tianyue Xinchen Tower 1, 275m
+10. Wuhan World Trade Tower, 273m
+11. Hongren Fortune Center, 265m
+12. PTJ International Finance Center, 264m
+13. Yulong International Financial Plaza, 262m
+14. Jiali Plaza, 251m
+15. Changjiang Media Tower, 243m
+16. Greatwall Tower 1, 240m
+17. Founder International Financial Center North Tower, 238m
+18. Wuhan International Financial Plaza, 237m
+19. Wuhan Central Trade Center A, 233m
+20. 1818 Center, 232m
+21. Sanyang Road Station Tower 1, 229m
+22. Wuhan Euro-Asia Plaza Office Building, 228m
+23. Changchenghui Tower 1, 228m
+24. China City B1, 228m
+25. Wuhan Central Trade Center B, 225m
+26. Wuhan Hengda Riverside Center 1#, 224m
+27. Gezhouba International Plaza 1, 224m
+28. Wuhan Pan Hai Times Center #1, 223m
+29. Wuhan Pan Hai Times Center #2, 223m
+30. Optical Valley New World Center A, 222m
+31. Wuhan Chenggong Tower, 220m
+32. Guangdong Development Bank Building, 218m
+33. Bank of China Hubei Province Headquarters, 212m
+34. New World Trade Tower, 212m
+35. Kanlong Taizi Hotel, 212m
+36. Poly Cultural Plaza, 212m
+37. Zhejiang International Building, 212m
+38. China Metallurgical Corporation Tower, 210m
+39. Sanyang Road Station Tower 2, 210m
+40. Wuhan Times Square Tower 1, 208m
+41. Jian Yin Tower A, 208m
+42. New Times Business Center, 208m
+43. Hanjiang International Tower, 207m
+44. Heartland 66 Tower SA3, 206m
+45. Wuhan Ruichuang Center #45, 206m
+46. Chang Hang Building, 202m
+47. China Oceanwide International Center Tower 1, 200m
+48. Gezhouba Nanda Tiandi, 200m
+49. Wuhan Starry Winking Residential Tower 4, 188m
+50. Wuhan Starry Winking Residential Tower 8, 188m
+51. Country Garden Binjiang Project Building 1, 187m
+52. Wuhan Plaza Office Tower, 186m
+53. Riverview Plaza A3, 186m
+54. Wuhan Tiandi Park Place Office Tower 2, 186m
+55. Beijing North Star Guangguli Phase IV #9, 185m
+56. Heartland 66 Tower SA2, 184m
+57. Hubei Power Bureau Building, 180m
+58. Zhongshang Plaza, 179m
+59. Zhongnan Coal Science & Technology Mansion, 178m
+60. Pan Yue City T2 South Tower, 178m
+61. Truroll Plaza, 176m
+62. Shimao Splendid Yangtze Tower 1, 175m
+63. Tianli Plaza Tower A, 170m
+64. Wuhan Tiandi Park Place Residential Tower 1, 170m
+65. Wuhan Tiandi Park Place Residential Tower 2, 170m
+66. Wuhan Starry Winking Residential Tower 1, 168m
+67. Wuhan Starry Winking Residential Tower 2, 168m
+68. Wuhan Starry Winking Residential Tower 3, 168m
+69. Wuhan Radio & Television Center, 168m
+70. Baibuting Xingfushidai Block A4 Office Building, 165m
+71. Yuexiu Fortune Center Tower 2, 165m
+72. Shuian Xingcheng Phase 4 Tower G17, 165m
+73. Shuian Xingcheng Phase 4 Tower G18, 165m
+74. Heartland 66 Tower SA1, 164m
+75. Tianyue Xinchen Tower 2, 163m
+76. New Century Hotel, 162m
+77. Optical Valley New World Center B, 158m
+78. Optical Valley New World Hotel, 157m
+79. Riverview Plaza A2, 156m
+80. Tianli Plaza Tower II, 155m
+81. Sun Shine Building, 150m
+82. Poly Changyangtianyue, 150m
+83. Greatwall Tower 2, 150m
+84. Founder International Financial Center South Tower, 150m
+85. Wuhan Construction Science and Technology Centre, 149m
+86. Wuhan Ping An Bank Building, 146m
+87. Wuhan Xiehe Hospital Tower, 145m
+88. Hubei Hotel, 138m
+89. Lenovo Office Building, 137m
+90. Vanke Jincheng Building 1, 137m
+91. Huazhong Electric Power Building, 120m
+92. Bestore Headquarters Office Building, 115m
+93. WISDRI Building, 112m
+94. Wuhan Pan Hai Times Center #3, 110m
+95. Wuhan Pan Hai Times Center #4, 110m
+96. Tie Siyuan Headquarters Building, 83m
+
+******************** DETAILS ********************
+
+*** Wuhan ***
+Country: China
+Region: Asia
+96 towers: Wuhan Greenland Center, Wuhan Center Tower, Riverview Plaza A1, Heartland 66 Office Tower, Minsheng Bank Building, Yuexiu Fortune Center Tower 1, Wuhan Yangtze River Shipping Center, Wuhan Tiandi Park Place Office Tower 1, Tianyue Xinchen Tower 1, Wuhan World Trade Tower, Hongren Fortune Center, PTJ International Finance Center, Yulong International Financial Plaza, Jiali Plaza, Changjiang Media Tower, Greatwall Tower 1, Founder International Financial Center North Tower, Wuhan International Financial Plaza, Wuhan Central Trade Center A, 1818 Center, Sanyang Road Station Tower 1, Wuhan Euro-Asia Plaza Office Building, Changchenghui Tower 1, China City B1, Wuhan Central Trade Center B, Wuhan Hengda Riverside Center 1#, Gezhouba International Plaza 1, Wuhan Pan Hai Times Center #1, Wuhan Pan Hai Times Center #2, Optical Valley New World Center A, Wuhan Chenggong Tower, Guangdong Development Bank Building, Bank of China Hubei Province Headquarters, New World Trade Tower, Kanlong Taizi Hotel, Poly Cultural Plaza, Zhejiang International Building, China Metallurgical Corporation Tower, Sanyang Road Station Tower 2, Wuhan Times Square Tower 1, Jian Yin Tower A, New Times Business Center, Hanjiang International Tower, Heartland 66 Tower SA3, Wuhan Ruichuang Center #45, Chang Hang Building, China Oceanwide International Center Tower 1, Gezhouba Nanda Tiandi, Wuhan Starry Winking Residential Tower 4, Wuhan Starry Winking Residential Tower 8, Country Garden Binjiang Project Building 1, Wuhan Plaza Office Tower, Riverview Plaza A3, Wuhan Tiandi Park Place Office Tower 2, Beijing North Star Guangguli Phase IV #9, Heartland 66 Tower SA2, Hubei Power Bureau Building, Zhongshang Plaza, Zhongnan Coal Science & Technology Mansion, Pan Yue City T2 South Tower, Truroll Plaza, Shimao Splendid Yangtze Tower 1, Tianli Plaza Tower A, Wuhan Tiandi Park Place Residential Tower 1, Wuhan Tiandi Park Place Residential Tower 2, Wuhan Starry Winking Residential Tower 1, Wuhan Starry Winking Residential Tower 2, Wuhan Starry Winking Residential Tower 3, Wuhan Radio & Television Center, Baibuting Xingfushidai Block A4 Office Building, Yuexiu Fortune Center Tower 2, Shuian Xingcheng Phase 4 Tower G17, Shuian Xingcheng Phase 4 Tower G18, Heartland 66 Tower SA1, Tianyue Xinchen Tower 2, New Century Hotel, Optical Valley New World Center B, Optical Valley New World Hotel, Riverview Plaza A2, Tianli Plaza Tower II, Sun Shine Building, Poly Changyangtianyue, Greatwall Tower 2, Founder International Financial Center South Tower, Wuhan Construction Science and Technology Centre, Wuhan Ping An Bank Building, Wuhan Xiehe Hospital Tower, Hubei Hotel, Lenovo Office Building, Vanke Jincheng Building 1, Huazhong Electric Power Building, Bestore Headquarters Office Building, WISDRI Building, Wuhan Pan Hai Times Center #3, Wuhan Pan Hai Times Center #4, Tie Siyuan Headquarters Building
+Tiers: I: 1, II: 11, III: 47, IV: 30, V: 4, VI: 3
+Rating: 453 (38.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wuhan Greenland Center ***
+Height: 472
+Floors: 96
+Status: Structurally Topped Out
+Started: 2012
+Functions: hotel / serviced apartments / office
+Rank: 1
+
+*** Wuhan Center Tower ***
+Height: 438
+Floors: 88
+Status: Architecturally Topped Out
+Started: 2011
+Completed: 2019
+Functions: hotel / residential / office
+Rank: 2
+
+*** Riverview Plaza A1 ***
+Height: 436
+Floors: 73
+Status: Under Construction
+Started: 2013
+Completed: 2019
+Functions: hotel / office
+Rank: 3
+
+*** Heartland 66 Office Tower ***
+Height: 339
+Floors: 60
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2020
+Functions: office
+Rank: 4
+
+*** Minsheng Bank Building ***
+Height: 331
+Floors: 68
+Status: Completed
+Started: 2001
+Completed: 2008
+Functions: office
+Rank: 5
+
+*** Yuexiu Fortune Center Tower 1 ***
+Height: 330
+Floors: 69
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 6
+
+*** Wuhan Yangtze River Shipping Center ***
+Height: 330
+Floors: 65
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: hotel / office
+Rank: 7
+
+*** Wuhan Tiandi Park Place Office Tower 1 ***
+Height: 283
+Status: Under Construction
+Started: 2018
+Functions: office
+Rank: 8
+
+*** Tianyue Xinchen Tower 1 ***
+Height: 275.3
+Floors: 43
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 9
+
+*** Wuhan World Trade Tower ***
+Height: 273
+Floors: 60
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 10
+
+*** Hongren Fortune Center ***
+Height: 264.65
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 11
+
+*** PTJ International Finance Center ***
+Height: 264
+Floors: 56
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel / office
+Rank: 12
+
+*** Yulong International Financial Plaza ***
+Height: 262
+Floors: 55
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential / office
+Rank: 13
+
+*** Jiali Plaza ***
+Height: 251
+Floors: 57
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 14
+
+*** Changjiang Media Tower ***
+Height: 243
+Floors: 49
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 15
+
+*** Greatwall Tower 1 ***
+Height: 240
+Floors: 40
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 16
+
+*** Founder International Financial Center North Tower ***
+Height: 238
+Status: Under Construction
+Completed: 2020
+Functions: office
+Rank: 17
+
+*** Wuhan International Financial Plaza ***
+Height: 237
+Floors: 51
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: office
+Rank: 18
+
+*** Wuhan Central Trade Center A ***
+Height: 232.8
+Floors: 45
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 19
+
+*** 1818 Center ***
+Height: 232
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential / office / retail
+Rank: 20
+
+*** Sanyang Road Station Tower 1 ***
+Height: 229
+Floors: 46
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 21
+
+*** Wuhan Euro-Asia Plaza Office Building ***
+Height: 228
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 22
+
+*** Changchenghui Tower 1 ***
+Height: 228
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office / retail
+Rank: 23
+
+*** China City B1 ***
+Height: 227.7
+Floors: 51
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: office
+Rank: 24
+
+*** Wuhan Central Trade Center B ***
+Height: 225
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hotel / office / retail
+Rank: 25
+
+*** Wuhan Hengda Riverside Center 1# ***
+Height: 224.13
+Floors: 58
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 26
+
+*** Gezhouba International Plaza 1 ***
+Height: 223.5
+Floors: 50
+Status: Under Construction
+Started: 2018
+Functions: office
+Rank: 27
+
+*** Wuhan Pan Hai Times Center #1 ***
+Height: 222.8
+Floors: 51
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 28
+
+*** Wuhan Pan Hai Times Center #2 ***
+Height: 222.8
+Floors: 51
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 28
+
+*** Optical Valley New World Center A ***
+Height: 222.1
+Floors: 44
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 30
+
+*** Wuhan Chenggong Tower ***
+Height: 220
+Floors: 45
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 31
+
+*** Guangdong Development Bank Building ***
+Height: 218.5
+Floors: 51
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 32
+
+*** Bank of China Hubei Province Headquarters ***
+Height: 212.39
+Floors: 42
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 33
+
+*** New World Trade Tower ***
+Height: 212
+Floors: 55
+Status: Completed
+Started: 1994
+Completed: 2003
+Functions: office
+Rank: 34
+
+*** Kanlong Taizi Hotel ***
+Height: 212
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: hotel / office
+Rank: 35
+
+*** Poly Cultural Plaza ***
+Height: 211.8
+Floors: 46
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 36
+
+*** Zhejiang International Building ***
+Height: 211.6
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 37
+
+*** China Metallurgical Corporation Tower ***
+Height: 210
+Floors: 49
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: office
+Rank: 38
+
+*** Sanyang Road Station Tower 2 ***
+Height: 210
+Floors: 45
+Status: Under Construction
+Started: 2018
+Functions: office
+Rank: 39
+
+*** Wuhan Times Square Tower 1 ***
+Height: 208
+Floors: 56
+Status: Completed
+Completed: 2007
+Functions: multiple
+Rank: 40
+
+*** Jian Yin Tower A ***
+Height: 208
+Floors: 50
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 41
+
+*** New Times Business Center ***
+Height: 208
+Floors: 48
+Status: Completed
+Completed: 2007
+Functions: hotel / office
+Rank: 42
+
+*** Hanjiang International Tower ***
+Height: 207
+Floors: 41
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 43
+
+*** Heartland 66 Tower SA3 ***
+Height: 206.2
+Floors: 47
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: other
+Rank: 44
+
+*** Wuhan Ruichuang Center #45 ***
+Height: 206
+Floors: 45
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 45
+
+*** Chang Hang Building ***
+Height: 202
+Floors: 42
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 46
+
+*** China Oceanwide International Center Tower 1 ***
+Height: 200
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 47
+
+*** Gezhouba Nanda Tiandi ***
+Height: 200
+Floors: 42
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 48
+
+*** Wuhan Starry Winking Residential Tower 4 ***
+Height: 188.1
+Floors: 58
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 49
+
+*** Wuhan Starry Winking Residential Tower 8 ***
+Height: 188
+Floors: 61
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 50
+
+*** Country Garden Binjiang Project Building 1 ***
+Height: 187
+Floors: 52
+Status: Under Construction
+Completed: 2019
+Functions: serviced apartments
+Rank: 51
+
+*** Wuhan Plaza Office Tower ***
+Height: 186
+Floors: 48
+Status: Completed
+Completed: 1997
+Functions: office / retail
+Rank: 52
+
+*** Riverview Plaza A3 ***
+Height: 186
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 53
+
+*** Wuhan Tiandi Park Place Office Tower 2 ***
+Height: 186
+Status: Under Construction
+Started: 2018
+Functions: office
+Rank: 54
+
+*** Beijing North Star Guangguli Phase IV #9 ***
+Height: 184.6
+Floors: 38
+Status: Under Construction
+Completed: 2020
+Functions: office
+Rank: 55
+
+*** Heartland 66 Tower SA2 ***
+Height: 183.7
+Floors: 42
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: residential
+Rank: 56
+
+*** Hubei Power Bureau Building ***
+Height: 180
+Floors: 33
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 57
+
+*** Zhongshang Plaza ***
+Height: 179
+Floors: 47
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 58
+
+*** Zhongnan Coal Science & Technology Mansion ***
+Height: 178
+Floors: 50
+Status: Under Construction
+Functions: multiple
+Rank: 59
+
+*** Pan Yue City T2 South Tower ***
+Height: 177.7
+Floors: 33
+Status: Under Construction
+Completed: 2020
+Functions: office
+Rank: 60
+
+*** Truroll Plaza ***
+Height: 176
+Floors: 47
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: office
+Rank: 61
+
+*** Shimao Splendid Yangtze Tower 1 ***
+Height: 175
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 62
+
+*** Tianli Plaza Tower A ***
+Height: 170
+Floors: 46
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 63
+
+*** Wuhan Tiandi Park Place Residential Tower 1 ***
+Height: 170
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 64
+
+*** Wuhan Tiandi Park Place Residential Tower 2 ***
+Height: 170
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 64
+
+*** Wuhan Starry Winking Residential Tower 1 ***
+Height: 168.1
+Floors: 53
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 66
+
+*** Wuhan Starry Winking Residential Tower 2 ***
+Height: 168.1
+Floors: 53
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 66
+
+*** Wuhan Starry Winking Residential Tower 3 ***
+Height: 168.1
+Floors: 53
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 66
+
+*** Wuhan Radio & Television Center ***
+Height: 168
+Floors: 30
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 69
+
+*** Baibuting Xingfushidai Block A4 Office Building ***
+Height: 165.3
+Floors: 30
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 70
+
+*** Yuexiu Fortune Center Tower 2 ***
+Height: 165.3
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: serviced apartments
+Rank: 70
+
+*** Shuian Xingcheng Phase 4 Tower G17 ***
+Height: 165
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 72
+
+*** Shuian Xingcheng Phase 4 Tower G18 ***
+Height: 165
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 72
+
+*** Heartland 66 Tower SA1 ***
+Height: 163.6
+Floors: 37
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: residential
+Rank: 74
+
+*** Tianyue Xinchen Tower 2 ***
+Height: 163
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Rank: 75
+
+*** New Century Hotel ***
+Height: 162
+Floors: 36
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 76
+
+*** Optical Valley New World Center B ***
+Height: 157.88
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 77
+
+*** Optical Valley New World Hotel ***
+Height: 156.7
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hotel
+Rank: 78
+
+*** Riverview Plaza A2 ***
+Height: 156
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 79
+
+*** Tianli Plaza Tower II ***
+Height: 155
+Floors: 41
+Status: Completed
+Completed: 2002
+Rank: 80
+
+*** Sun Shine Building ***
+Height: 150
+Floors: 40
+Status: Completed
+Rank: 81
+
+*** Poly Changyangtianyue ***
+Height: 150
+Floors: 35
+Status: Under Construction
+Functions: office
+Rank: 82
+
+*** Greatwall Tower 2 ***
+Height: 150
+Floors: 29
+Status: Completed
+Completed: 2015
+Functions: office / retail
+Rank: 83
+
+*** Founder International Financial Center South Tower ***
+Height: 150
+Status: Under Construction
+Completed: 2020
+Functions: serviced apartments
+Rank: 84
+
+*** Wuhan Construction Science and Technology Centre ***
+Height: 149
+Floors: 31
+Status: Completed
+Functions: office
+Rank: 85
+
+*** Wuhan Ping An Bank Building ***
+Height: 145.7
+Floors: 33
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 86
+
+*** Wuhan Xiehe Hospital Tower ***
+Height: 144.7
+Floors: 32
+Status: Completed
+Completed: 2006
+Functions: hospital
+Rank: 87
+
+*** Hubei Hotel ***
+Height: 138.3
+Floors: 29
+Status: Under Construction
+Functions: office
+Rank: 88
+
+*** Lenovo Office Building ***
+Height: 137.2
+Floors: 31
+Status: Under Construction
+Functions: office
+Rank: 89
+
+*** Vanke Jincheng Building 1 ***
+Height: 136.6
+Floors: 36
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 90
+
+*** Huazhong Electric Power Building ***
+Height: 120
+Floors: 30
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 91
+
+*** Bestore Headquarters Office Building ***
+Height: 115.3
+Floors: 24
+Status: Architecturally Topped Out
+Functions: office
+Rank: 92
+
+*** WISDRI Building ***
+Height: 111.7
+Floors: 23
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 93
+
+*** Wuhan Pan Hai Times Center #3 ***
+Height: 110.1
+Floors: 25
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 94
+
+*** Wuhan Pan Hai Times Center #4 ***
+Height: 110.1
+Floors: 25
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 94
+
+*** Tie Siyuan Headquarters Building ***
+Height: 83.2
+Floors: 21
+Status: Completed
+Functions: office
+Rank: 96

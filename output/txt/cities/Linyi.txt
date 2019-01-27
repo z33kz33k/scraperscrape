@@ -1,0 +1,19 @@
+*** Linyi (2) ***
+1. Shandong Linyi International City Square, 127m
+
+******************** DETAILS ********************
+
+*** Linyi ***
+Country: China
+Region: Asia
+1 tower: Shandong Linyi International City Square
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Shandong Linyi International City Square ***
+Height: 126.6
+Floors: 32
+Status: Completed
+Functions: office
+Rank: 1

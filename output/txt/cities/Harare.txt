@@ -1,0 +1,29 @@
+*** Harare (3) ***
+1. New Reserve Bank of Zimbabwe, 120m
+2. Mukwati Building, 76m
+
+******************** DETAILS ********************
+
+*** Harare ***
+Country: Zimbabwe
+Region: Africa
+2 towers: New Reserve Bank of Zimbabwe, Mukwati Building
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** New Reserve Bank of Zimbabwe ***
+Height: 120
+Floors: 28
+Status: Completed
+Started: 1993
+Completed: 1997
+Functions: office
+Rank: 1
+
+*** Mukwati Building ***
+Height: 75.59
+Floors: 21
+Status: Completed
+Functions: office
+Rank: 2

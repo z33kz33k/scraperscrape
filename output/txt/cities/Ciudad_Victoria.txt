@@ -1,0 +1,21 @@
+*** Ciudad Victoria (2) ***
+1. Torre Gubernamental, 132m
+
+******************** DETAILS ********************
+
+*** Ciudad Victoria ***
+Country: Mexico
+Region: North America
+1 tower: Torre Gubernamental
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-21 23:13:09
+
+*** Torre Gubernamental ***
+Height: 132.4
+Floors: 25
+Status: Completed
+Started: 2009
+Completed: 2010
+Functions: government
+Rank: 1

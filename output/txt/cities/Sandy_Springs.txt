@@ -1,0 +1,29 @@
+*** Sandy Springs (8) ***
+1. Concourse Corporate Center V, 174m
+2. Concourse Corporate Center VI, 169m
+
+******************** DETAILS ********************
+
+*** Sandy Springs ***
+Country: United States
+Region: North America
+2 towers: Concourse Corporate Center V, Concourse Corporate Center VI
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Concourse Corporate Center V ***
+Height: 173.74
+Floors: 34
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 1
+
+*** Concourse Corporate Center VI ***
+Height: 168.56
+Floors: 34
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 2

@@ -1,0 +1,18 @@
+*** Sri Lanka (69) ***
+1. Colombo, 69
+
+******************** DETAILS ********************
+
+*** Sri Lanka ***
+Region: Asia
+1 city: Colombo
+Tiers: I: 1, II: 4, III: 7, IV: 4, V: 1
+Rating: 69 (46.4% uncompleted)
+
+*** Colombo ***
+Country: Sri Lanka
+Region: Asia
+17 towers: The One Ritz-Carlton Tower, Altair, Grand Hyatt Colombo, Sapphire Residences, 606 The Address Residential Tower, Shangri-La Colombo Residential Tower 1, Shangri-La Colombo Residential Tower 2, Clearpoint Residencies, Colombo City Center, Shangri-La Colombo Office Tower, World Trade Center 1, World Trade Center 2, ITC One Hotel, Shangri-La Colombo Hotel Tower, Hilton Tower Apartments, Crescat Office & Condominium, Bank of Ceylon Headquarters
+Tiers: I: 1, II: 4, III: 7, IV: 4, V: 1
+Rating: 69 (46.4% uncompleted)
+Scraped on: 2019-Jan-21 23:13:16

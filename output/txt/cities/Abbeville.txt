@@ -1,0 +1,20 @@
+*** Abbeville (2) ***
+1. Prysmian Copper Wire Tower, 114m
+
+******************** DETAILS ********************
+
+*** Abbeville ***
+Country: United States
+Region: North America
+1 tower: Prysmian Copper Wire Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Prysmian Copper Wire Tower ***
+Height: 113.7
+Floors: 30
+Status: Completed
+Completed: 2009
+Functions: industrial
+Rank: 1

@@ -1,0 +1,20 @@
+*** Metairie (2) ***
+1. Three Lakeway Center, 123m
+
+******************** DETAILS ********************
+
+*** Metairie ***
+Country: United States
+Region: North America
+1 tower: Three Lakeway Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Three Lakeway Center ***
+Height: 122.84
+Floors: 34
+Status: Completed
+Completed: 1987
+Functions: hotel / office
+Rank: 1

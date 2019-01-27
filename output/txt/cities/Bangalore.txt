@@ -1,0 +1,97 @@
+*** Bangalore (16) ***
+1. Mantri Pinnacle, 153m
+2. World Trade Center, 128m
+3. UB Tower, 123m
+4. UB City Concord Tower, 115m
+5. Subhas Chandra Bose Tower, 106m
+6. Aquila Heights Tower A, 105m
+7. Aquila Heights Tower B, 105m
+8. Aquila Heights Tower C, 105m
+9. UB City Canberra Tower, 105m
+
+******************** DETAILS ********************
+
+*** Bangalore ***
+Country: India
+Region: Asia
+9 towers: Mantri Pinnacle, World Trade Center, UB Tower, UB City Concord Tower, Subhas Chandra Bose Tower, Aquila Heights Tower A, Aquila Heights Tower B, Aquila Heights Tower C, UB City Canberra Tower
+Tiers: I: 4, II: 4, III: 1
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Mantri Pinnacle ***
+Height: 153
+Floors: 46
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** World Trade Center ***
+Height: 128
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 2
+
+*** UB Tower ***
+Height: 123
+Floors: 20
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 3
+
+*** UB City Concord Tower ***
+Height: 115
+Floors: 20
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 4
+
+*** Subhas Chandra Bose Tower ***
+Height: 106
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 5
+
+*** Aquila Heights Tower A ***
+Height: 105
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 6
+
+*** Aquila Heights Tower B ***
+Height: 105
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 6
+
+*** Aquila Heights Tower C ***
+Height: 105
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 6
+
+*** UB City Canberra Tower ***
+Height: 105
+Floors: 18
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 9

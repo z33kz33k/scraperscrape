@@ -1,0 +1,187 @@
+*** Santiago (40) ***
+1.  Torre Costanera, 300m
+2.  Titanium La Portada, 195m
+3.  Torre Telefónica Chile, 143m
+4.  Boulevard Kennedy & Santiago Marriott, 130m
+5.  El Bosque 500, 120m
+6.  Isidora 3000, 118m
+7.  Costanera Hotel, 113m
+8.  Torre Centenario, 112m
+9.  Edificio de la Industria, 110m
+10. Edificio Millenium, 110m
+11. Grand Hyatt Santiago, 110m
+12. Torre Santa Maria, 109m
+13. Edificio Las Americas, 106m
+14. Torre Interamericana, 100m
+15. Espacio 3 Edificio Plaza, 99m
+16. Torre Alameda, 97m
+17. Edificio Palladio, 96m
+18. Edificio Nunoa Capital Office Tower, 86m
+19. Edificio Nunoa Capital Residential Tower, 86m
+
+******************** DETAILS ********************
+
+*** Santiago ***
+Country: Chile
+Region: South America
+19 towers: Torre Costanera, Titanium La Portada, Torre Telefónica Chile, Boulevard Kennedy & Santiago Marriott, El Bosque 500, Isidora 3000, Costanera Hotel, Torre Centenario, Edificio de la Industria, Edificio Millenium, Grand Hyatt Santiago, Torre Santa Maria, Edificio Las Americas, Torre Interamericana, Espacio 3 Edificio Plaza, Torre Alameda, Edificio Palladio, Edificio Nunoa Capital Office Tower, Edificio Nunoa Capital Residential Tower
+Tiers: I: 6, II: 11, III: 1, V: 1
+Rating: 40
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre Costanera ***
+Height: 300
+Floors: 62
+Status: Completed
+Started: 2006
+Completed: 2014
+Functions: hotel / office
+Rank: 1
+
+*** Titanium La Portada ***
+Height: 195
+Floors: 55
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 2
+
+*** Torre Telefónica Chile ***
+Height: 143
+Floors: 34
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 3
+
+*** Boulevard Kennedy & Santiago Marriott ***
+Height: 129.85
+Floors: 40
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: hotel / office
+Rank: 4
+
+*** El Bosque 500 ***
+Height: 120
+Floors: 24
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 5
+
+*** Isidora 3000 ***
+Height: 118
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential / hotel / office
+Rank: 6
+
+*** Costanera Hotel ***
+Height: 112.7
+Floors: 28
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: hotel
+Rank: 7
+
+*** Torre Centenario ***
+Height: 112
+Floors: 31
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 8
+
+*** Edificio de la Industria ***
+Height: 110
+Floors: 32
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 9
+
+*** Edificio Millenium ***
+Height: 110
+Floors: 31
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 10
+
+*** Grand Hyatt Santiago ***
+Height: 110
+Floors: 24
+Status: Completed
+Completed: 1992
+Functions: hotel
+Rank: 11
+
+*** Torre Santa Maria ***
+Height: 109
+Floors: 29
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 12
+
+*** Edificio Las Americas ***
+Height: 106
+Floors: 29
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 13
+
+*** Torre Interamericana ***
+Height: 100
+Floors: 24
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 14
+
+*** Espacio 3 Edificio Plaza ***
+Height: 99
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 15
+
+*** Torre Alameda ***
+Height: 97.2
+Floors: 30
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 16
+
+*** Edificio Palladio ***
+Height: 96
+Floors: 26
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 17
+
+*** Edificio Nunoa Capital Office Tower ***
+Height: 86
+Floors: 29
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 18
+
+*** Edificio Nunoa Capital Residential Tower ***
+Height: 86
+Floors: 29
+Status: Completed
+Functions: residential
+Rank: 18

@@ -1,0 +1,21 @@
+*** Arhus (1) ***
+1. University Hospital, 100m
+
+******************** DETAILS ********************
+
+*** Arhus ***
+Country: Denmark
+Region: Europe
+1 tower: University Hospital
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** University Hospital ***
+Height: 100
+Floors: 25
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: hospital
+Rank: 1

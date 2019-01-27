@@ -1,0 +1,970 @@
+*** Chengdu (421) ***
+1.   Chengdu Greenland Tower, 468m
+2.   Mandarin Oriental Hotel Tower A, 333m
+3.   Chengdu Poly International Plaza, 309m
+4.   International Commerce Center Tower 1, 280m
+5.   Chengdu International Finance Square Tower 1, 247m
+6.   Chengdu International Finance Square Tower 2, 247m
+7.   Western International Finance Center Conrad Hotel, 241m
+8.   Mandarin Oriental Hotel Tower B, 224m
+9.   Tianxi Twin Towers 1, 222m
+10.  Tianxi Twin Towers 2, 222m
+11.  Tianfu IFC 1, 220m
+12.  Tianfu IFC 2, 220m
+13.  Yintai Center Tower 1, 220m
+14.  Oriental Hope Intertek Plaza 1, 219m
+15.  Oriental Hope Intertek Plaza 2, 219m
+16.  Minyoun Financial Plaza, 206m
+17.  OPPO Headquarters, 206m
+18.  Chengdu Fantasia Meinian Plaza, Tower C, 204m
+19.  Chengdu Fantasia Meinian Plaza, Tower D, 204m
+20.  Sichuan Airlines Center, 204m
+21.  Huarun Tower, 201m
+22.  Pinnacle One, 200m
+23.  Chengdu World Financial Center 1, 200m
+24.  Chengdu World Financial Center 2, 200m
+25.  Twin Rivers International Office Tower A, 200m
+26.  Palm Springs International Center Tower 1, 200m
+27.  Chengdu International Finance Square Tower 4, 198m
+28.  Evergrande Huazhi Office Tower, 194m
+29.  Evergrande Huazhi Residential Tower 1, 191m
+30.  Evergrande Huazhi Residential Tower 2, 191m
+31.  Hailrun Square, 190m
+32.  Chengdu International Finance Square Tower 3, 188m
+33.  Maoye World Tower A, 185m
+34.  Twin Rivers International Office Tower B, 185m
+35.  Royal Bay Tower 10, 180m
+36.  Royal Bay Tower 12, 180m
+37.  Royal Bay Tower 13, 180m
+38.  Tobacco and Industrial Building, 180m
+39.  Chengdu Renheng Fraser Suites, 180m
+40.  Fairmont Hotel, 179m
+41.  Tianzijie International Condo, 178m
+42.  The Metropolis 1, 176m
+43.  The Metropolis 2, 176m
+44.  Future Plaza Office Tower 1, 176m
+45.  Future Plaza Office Tower 2, 176m
+46.  The Excellency 1, 175m
+47.  The Excellency 2, 175m
+48.  R&F Center, 175m
+49.  Chengdu Greenland Center Tower 2, 173m
+50.  Tianfu Times Tower 1, 172m
+51.  Tianfu Times Tower 8, 172m
+52.  Western International Finance Center Tower 2, 170m
+53.  Hui Sheng Xingzheng Apartments, 170m
+54.  Sichuan Aerospace Tower, 170m
+55.  Tongwei International Center, 169m
+56.  Square One, 169m
+57.  International Mall Office Building, 168m
+58.  Yang Guang Center Apartment and Loft Building, 166m
+59.  Grand Hyatt Chengdu at Chicony Plaza, 166m
+60.  Chengdu Greenland Center Tower 3, 166m
+61.  Seaton Plaza Hotel Tower, 166m
+62.  Seaton Plaza Office Tower 1, 166m
+63.  Seaton Plaza Office Tower 2, 166m
+64.  Fraser Suites Chengdu, 165m
+65.  Huamin Empire Plaza, 165m
+66.  Chengdu Fantasia Meinian Plaza, Tower B, 164m
+67.  International Technology Energy Conservation Building, 163m
+68.  Minxing Financial Tower, 163m
+69.  Xiongfei Center Office Building, 161m
+70.  R&F Mansion, 160m
+71.  Sichuan Bank of China, 160m
+72.  Funian Plaza Loft Building 1, 160m
+73.  Funian Plaza Loft Building 2, 160m
+74.  Times-Kaiyue Main Tower, 158m
+75.  The Atrium Serviced Apartments, 157m
+76.  Chengdu Fantasia Meinian Plaza, Tower A, 156m
+77.  Zhujiang New City International Tower A4, 156m
+78.  The Atrium Residences, 155m
+79.  Shangri-La Chengdu, 155m
+80.  Changhong Technology Tower, 154m
+81.  Longfor Century Tower 10, 153m
+82.  Longfor Century Tower 8, 153m
+83.  Longfor Century Tower 9, 153m
+84.  Silverstone Square, 153m
+85.  Genesis Plaza Office Building, 152m
+86.  Minyoun Tower, 152m
+87.  Panda Mall Hotel, 150m
+88.  Sichuan Tobacco Tower, 150m
+89.  Diamond Plaza Office Building, 150m
+90.  Overseas Exchange Square 1, 145m
+91.  Overseas Exchange Square 2, 145m
+92.  Evergrande Huazhi St. Regis Hotel, 144m
+93.  Century City Crystal Tower, 140m
+94.  Sichuan Radio & TV Centre, 136m
+95.  Raffles City Chengdu Office Block 1, 123m
+96.  Raffles City Chengdu Office Block 2, 123m
+97.  The Atrium Office Tower, 119m
+98.  Raffles City Chengdu Hotel Block, 119m
+99.  Raffles City Chengdu Office Block 3, 112m
+100. Raffles City Chengdu Serviced Apartment Block, 112m
+101. Crowne Plaza Chengdu City Centre, 110m
+102. Crystal Laputa Tower 1, 108m
+103. New Century Global Center, 100m
+
+******************** DETAILS ********************
+
+*** Chengdu ***
+Country: China
+Region: Asia
+103 towers: Chengdu Greenland Tower, Mandarin Oriental Hotel Tower A, Chengdu Poly International Plaza, International Commerce Center Tower 1, Chengdu International Finance Square Tower 1, Chengdu International Finance Square Tower 2, Western International Finance Center Conrad Hotel, Mandarin Oriental Hotel Tower B, Tianxi Twin Towers 1, Tianxi Twin Towers 2, Tianfu IFC 1, Tianfu IFC 2, Yintai Center Tower 1, Oriental Hope Intertek Plaza 1, Oriental Hope Intertek Plaza 2, Minyoun Financial Plaza, OPPO Headquarters, Chengdu Fantasia Meinian Plaza, Tower C, Chengdu Fantasia Meinian Plaza, Tower D, Sichuan Airlines Center, Huarun Tower, Pinnacle One, Chengdu World Financial Center 1, Chengdu World Financial Center 2, Twin Rivers International Office Tower A, Palm Springs International Center Tower 1, Chengdu International Finance Square Tower 4, Evergrande Huazhi Office Tower, Evergrande Huazhi Residential Tower 1, Evergrande Huazhi Residential Tower 2, Hailrun Square, Chengdu International Finance Square Tower 3, Maoye World Tower A, Twin Rivers International Office Tower B, Royal Bay Tower 10, Royal Bay Tower 12, Royal Bay Tower 13, Tobacco and Industrial Building, Chengdu Renheng Fraser Suites, Fairmont Hotel, Tianzijie International Condo, The Metropolis 1, The Metropolis 2, Future Plaza Office Tower 1, Future Plaza Office Tower 2, The Excellency 1, The Excellency 2, R&F Center, Chengdu Greenland Center Tower 2, Tianfu Times Tower 1, Tianfu Times Tower 8, Western International Finance Center Tower 2, Hui Sheng Xingzheng Apartments, Sichuan Aerospace Tower, Tongwei International Center, Square One, International Mall Office Building, Yang Guang Center Apartment and Loft Building, Grand Hyatt Chengdu at Chicony Plaza, Chengdu Greenland Center Tower 3, Seaton Plaza Hotel Tower, Seaton Plaza Office Tower 1, Seaton Plaza Office Tower 2, Fraser Suites Chengdu, Huamin Empire Plaza, Chengdu Fantasia Meinian Plaza, Tower B, International Technology Energy Conservation Building, Minxing Financial Tower, Xiongfei Center Office Building, R&F Mansion, Sichuan Bank of China, Funian Plaza Loft Building 1, Funian Plaza Loft Building 2, Times-Kaiyue Main Tower, The Atrium Serviced Apartments, Chengdu Fantasia Meinian Plaza, Tower A, Zhujiang New City International Tower A4, The Atrium Residences, Shangri-La Chengdu, Changhong Technology Tower, Longfor Century Tower 10, Longfor Century Tower 8, Longfor Century Tower 9, Silverstone Square, Genesis Plaza Office Building, Minyoun Tower, Panda Mall Hotel, Sichuan Tobacco Tower, Diamond Plaza Office Building, Overseas Exchange Square 1, Overseas Exchange Square 2, Evergrande Huazhi St. Regis Hotel, Century City Crystal Tower, Sichuan Radio & TV Centre, Raffles City Chengdu Office Block 1, Raffles City Chengdu Office Block 2, The Atrium Office Tower, Raffles City Chengdu Hotel Block, Raffles City Chengdu Office Block 3, Raffles City Chengdu Serviced Apartment Block, Crowne Plaza Chengdu City Centre, Crystal Laputa Tower 1, New Century Global Center
+Tiers: I: 1, II: 13, III: 74, IV: 12, V: 2, VI: 1
+Rating: 421 (11.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Chengdu Greenland Tower ***
+Height: 468
+Floors: 101
+Status: Under Construction
+Started: 2014
+Completed: 2021
+Functions: hotel / office
+Rank: 1
+
+*** Mandarin Oriental Hotel Tower A ***
+Height: 333.1
+Floors: 73
+Status: Under Construction
+Started: 2013
+Functions: hotel / residential
+Rank: 2
+
+*** Chengdu Poly International Plaza ***
+Height: 309
+Floors: 56
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: hotel / office
+Rank: 3
+
+*** International Commerce Center Tower 1 ***
+Height: 280
+Status: Under Construction
+Started: 2013
+Completed: 2021
+Functions: office
+Rank: 4
+
+*** Chengdu International Finance Square Tower 1 ***
+Height: 247
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 5
+
+*** Chengdu International Finance Square Tower 2 ***
+Height: 247
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 5
+
+*** Western International Finance Center Conrad Hotel ***
+Height: 241
+Floors: 56
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel
+Rank: 7
+
+*** Mandarin Oriental Hotel Tower B ***
+Height: 223.5
+Floors: 69
+Status: Under Construction
+Started: 2013
+Functions: residential
+Rank: 8
+
+*** Tianxi Twin Towers 1 ***
+Height: 222
+Floors: 65
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: residential
+Rank: 9
+
+*** Tianxi Twin Towers 2 ***
+Height: 222
+Floors: 65
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: residential
+Rank: 9
+
+*** Tianfu IFC 1 ***
+Height: 220
+Floors: 58
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 11
+
+*** Tianfu IFC 2 ***
+Height: 220
+Floors: 58
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 11
+
+*** Yintai Center Tower 1 ***
+Height: 220
+Floors: 52
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: serviced apartments / hotel
+Rank: 13
+
+*** Oriental Hope Intertek Plaza 1 ***
+Height: 219
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 14
+
+*** Oriental Hope Intertek Plaza 2 ***
+Height: 219
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 14
+
+*** Minyoun Financial Plaza ***
+Height: 206
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: hotel / office
+Rank: 16
+
+*** OPPO Headquarters ***
+Height: 206
+Floors: 42
+Status: Under Construction
+Completed: 2019
+Functions: office
+Rank: 17
+
+*** Chengdu Fantasia Meinian Plaza, Tower C ***
+Height: 204.1
+Floors: 48
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 18
+
+*** Chengdu Fantasia Meinian Plaza, Tower D ***
+Height: 204.1
+Floors: 48
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 18
+
+*** Sichuan Airlines Center ***
+Height: 204
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 20
+
+*** Huarun Tower ***
+Height: 201
+Floors: 39
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 21
+
+*** Pinnacle One ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 22
+
+*** Chengdu World Financial Center 1 ***
+Height: 200
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 23
+
+*** Chengdu World Financial Center 2 ***
+Height: 200
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 23
+
+*** Twin Rivers International Office Tower A ***
+Height: 200
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 25
+
+*** Palm Springs International Center Tower 1 ***
+Height: 200
+Floors: 41
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 26
+
+*** Chengdu International Finance Square Tower 4 ***
+Height: 198
+Floors: 46
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential
+Rank: 27
+
+*** Evergrande Huazhi Office Tower ***
+Height: 194.4
+Floors: 36
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 28
+
+*** Evergrande Huazhi Residential Tower 1 ***
+Height: 190.65
+Floors: 53
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 29
+
+*** Evergrande Huazhi Residential Tower 2 ***
+Height: 190.65
+Floors: 53
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 29
+
+*** Hailrun Square ***
+Height: 190
+Floors: 49
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 31
+
+*** Chengdu International Finance Square Tower 3 ***
+Height: 188
+Floors: 48
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: hotel
+Rank: 32
+
+*** Maoye World Tower A ***
+Height: 185
+Floors: 46
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 33
+
+*** Twin Rivers International Office Tower B ***
+Height: 185
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 34
+
+*** Royal Bay Tower 10 ***
+Height: 180
+Floors: 54
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Royal Bay Tower 12 ***
+Height: 180
+Floors: 54
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Royal Bay Tower 13 ***
+Height: 180
+Floors: 54
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Tobacco and Industrial Building ***
+Height: 180
+Floors: 40
+Status: Completed
+Functions: office
+Rank: 38
+
+*** Chengdu Renheng Fraser Suites ***
+Height: 179.85
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 39
+
+*** Fairmont Hotel ***
+Height: 179
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: serviced apartments / hotel
+Rank: 40
+
+*** Tianzijie International Condo ***
+Height: 178
+Floors: 55
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 41
+
+*** The Metropolis 1 ***
+Height: 176
+Floors: 51
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 42
+
+*** The Metropolis 2 ***
+Height: 176
+Floors: 51
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 42
+
+*** Future Plaza Office Tower 1 ***
+Height: 176
+Floors: 46
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 44
+
+*** Future Plaza Office Tower 2 ***
+Height: 176
+Floors: 46
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 44
+
+*** The Excellency 1 ***
+Height: 175
+Floors: 51
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 46
+
+*** The Excellency 2 ***
+Height: 175
+Floors: 51
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 46
+
+*** R&F Center ***
+Height: 175
+Floors: 42
+Status: Completed
+Completed: 2008
+Functions: hotel / office
+Rank: 48
+
+*** Chengdu Greenland Center Tower 2 ***
+Height: 173
+Floors: 38
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: serviced apartments
+Rank: 49
+
+*** Tianfu Times Tower 1 ***
+Height: 172
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 50
+
+*** Tianfu Times Tower 8 ***
+Height: 172
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 50
+
+*** Western International Finance Center Tower 2 ***
+Height: 170
+Floors: 39
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 52
+
+*** Hui Sheng Xingzheng Apartments ***
+Height: 170
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 53
+
+*** Sichuan Aerospace Tower ***
+Height: 169.8
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 54
+
+*** Tongwei International Center ***
+Height: 169
+Floors: 40
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 55
+
+*** Square One ***
+Height: 169
+Floors: 37
+Status: Completed
+Completed: 2011
+Functions: office / retail
+Rank: 56
+
+*** International Mall Office Building ***
+Height: 168
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 57
+
+*** Yang Guang Center Apartment and Loft Building ***
+Height: 166
+Floors: 45
+Status: Completed
+Functions: residential
+Rank: 58
+
+*** Grand Hyatt Chengdu at Chicony Plaza ***
+Height: 166
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: hotel / retail
+Rank: 59
+
+*** Chengdu Greenland Center Tower 3 ***
+Height: 166
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: serviced apartments
+Rank: 60
+
+*** Seaton Plaza Hotel Tower ***
+Height: 165.8
+Floors: 37
+Status: Completed
+Completed: 2015
+Functions: hotel
+Rank: 61
+
+*** Seaton Plaza Office Tower 1 ***
+Height: 165.8
+Floors: 37
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 61
+
+*** Seaton Plaza Office Tower 2 ***
+Height: 165.8
+Floors: 37
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 61
+
+*** Fraser Suites Chengdu ***
+Height: 164.85
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: serviced apartments
+Rank: 64
+
+*** Huamin Empire Plaza ***
+Height: 164.8
+Floors: 45
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 65
+
+*** Chengdu Fantasia Meinian Plaza, Tower B ***
+Height: 163.8
+Floors: 38
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 66
+
+*** International Technology Energy Conservation Building ***
+Height: 163
+Floors: 41
+Status: Completed
+Functions: office
+Rank: 67
+
+*** Minxing Financial Tower ***
+Height: 163
+Floors: 41
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 67
+
+*** Xiongfei Center Office Building ***
+Height: 161
+Floors: 37
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 69
+
+*** R&F Mansion ***
+Height: 160
+Floors: 47
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 70
+
+*** Sichuan Bank of China ***
+Height: 160
+Floors: 38
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 71
+
+*** Funian Plaza Loft Building 1 ***
+Height: 160
+Floors: 28
+Status: Completed
+Completed: 2010
+Rank: 72
+
+*** Funian Plaza Loft Building 2 ***
+Height: 160
+Status: Completed
+Completed: 2010
+Rank: 73
+
+*** Times-Kaiyue Main Tower ***
+Height: 158
+Floors: 40
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 74
+
+*** The Atrium Serviced Apartments ***
+Height: 157
+Floors: 38
+Status: Completed
+Completed: 2015
+Functions: serviced apartments
+Rank: 75
+
+*** Chengdu Fantasia Meinian Plaza, Tower A ***
+Height: 156
+Floors: 37
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 76
+
+*** Zhujiang New City International Tower A4 ***
+Height: 156
+Floors: 35
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 77
+
+*** The Atrium Residences ***
+Height: 155
+Floors: 40
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 78
+
+*** Shangri-La Chengdu ***
+Height: 155
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential / hotel
+Rank: 79
+
+*** Changhong Technology Tower ***
+Height: 154
+Floors: 38
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 80
+
+*** Longfor Century Tower 10 ***
+Height: 153
+Floors: 49
+Status: Completed
+Functions: residential
+Rank: 81
+
+*** Longfor Century Tower 8 ***
+Height: 153
+Floors: 49
+Status: Completed
+Functions: residential
+Rank: 81
+
+*** Longfor Century Tower 9 ***
+Height: 153
+Floors: 49
+Status: Completed
+Functions: residential
+Rank: 81
+
+*** Silverstone Square ***
+Height: 153
+Floors: 38
+Status: Completed
+Rank: 84
+
+*** Genesis Plaza Office Building ***
+Height: 152
+Floors: 38
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 85
+
+*** Minyoun Tower ***
+Height: 152
+Floors: 36
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 86
+
+*** Panda Mall Hotel ***
+Height: 150
+Floors: 43
+Status: Completed
+Completed: 2006
+Functions: hotel
+Rank: 87
+
+*** Sichuan Tobacco Tower ***
+Height: 150
+Floors: 39
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 88
+
+*** Diamond Plaza Office Building ***
+Height: 150
+Floors: 35
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 89
+
+*** Overseas Exchange Square 1 ***
+Height: 145
+Floors: 34
+Status: Completed
+Started: 1993
+Completed: 2005
+Functions: office
+Rank: 90
+
+*** Overseas Exchange Square 2 ***
+Height: 145
+Floors: 34
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 90
+
+*** Evergrande Huazhi St. Regis Hotel ***
+Height: 143.65
+Floors: 29
+Status: Completed
+Completed: 2015
+Functions: hotel
+Rank: 92
+
+*** Century City Crystal Tower ***
+Height: 140.1
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 93
+
+*** Sichuan Radio & TV Centre ***
+Height: 135.5
+Floors: 31
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 94
+
+*** Raffles City Chengdu Office Block 1 ***
+Height: 123
+Floors: 29
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office / retail
+Rank: 95
+
+*** Raffles City Chengdu Office Block 2 ***
+Height: 123
+Floors: 29
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office / retail
+Rank: 95
+
+*** The Atrium Office Tower ***
+Height: 119
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / retail
+Rank: 97
+
+*** Raffles City Chengdu Hotel Block ***
+Height: 118.6
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hotel
+Rank: 98
+
+*** Raffles City Chengdu Office Block 3 ***
+Height: 112.4
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: serviced apartments / retail
+Rank: 99
+
+*** Raffles City Chengdu Serviced Apartment Block ***
+Height: 112.4
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: serviced apartments / retail
+Rank: 99
+
+*** Crowne Plaza Chengdu City Centre ***
+Height: 110
+Floors: 30
+Status: Completed
+Functions: hotel
+Rank: 101
+
+*** Crystal Laputa Tower 1 ***
+Height: 108.4
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 102
+
+*** New Century Global Center ***
+Height: 100
+Floors: 18
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: other / hotel / education / office / retail
+Rank: 103

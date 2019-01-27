@@ -1,0 +1,18 @@
+*** Bangladesh (17) ***
+1. Dhaka, 17
+
+******************** DETAILS ********************
+
+*** Bangladesh ***
+Region: Asia
+1 city: Dhaka
+Tiers: I: 1, II: 4, III: 2
+Rating: 17 (35.3% uncompleted)
+
+*** Dhaka ***
+Country: Bangladesh
+Region: Asia
+7 towers: City Centre, Red Crescent Rupayan Tower, Unique Acropolis, Gulshan Tower, Bangladesh Bank Building, City Bank Tower, Doreen Tower
+Tiers: I: 1, II: 4, III: 2
+Rating: 17 (35.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

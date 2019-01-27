@@ -1,0 +1,113 @@
+*** Birmingham (AL) (15) ***
+1.  Wells Fargo Tower, 138m
+2.  Regions Harbert Plaza, 133m
+3.  AT&T City Center, 119m
+4.  Regions Center, 119m
+5.  City Federal Condominiums, 99m
+6.  Leer Tower, 87m
+7.  John Hand Building, 87m
+8.  Daniel Building, 86m
+9.  Jefferson Tower, 82m
+10. Two North Twentieth, 80m
+11. Empire Building, 75m
+
+******************** DETAILS ********************
+
+*** Birmingham (AL) ***
+Country: United States
+Region: North America
+11 towers: Wells Fargo Tower, Regions Harbert Plaza, AT&T City Center, Regions Center, City Federal Condominiums, Leer Tower, John Hand Building, Daniel Building, Jefferson Tower, Two North Twentieth, Empire Building
+Tiers: I: 7, II: 4
+Rating: 15
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Wells Fargo Tower ***
+Height: 138.38
+Floors: 34
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 1
+
+*** Regions Harbert Plaza ***
+Height: 133.2
+Floors: 32
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: office
+Rank: 2
+
+*** AT&T City Center ***
+Height: 118.87
+Floors: 30
+Status: Completed
+Started: 1969
+Completed: 1972
+Functions: office
+Rank: 3
+
+*** Regions Center ***
+Height: 118.87
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 3
+
+*** City Federal Condominiums ***
+Height: 99.06
+Floors: 27
+Status: Completed
+Completed: 1913
+Functions: residential
+Rank: 5
+
+*** Leer Tower ***
+Height: 87.48
+Floors: 20
+Status: Completed
+Started: 1926
+Completed: 1929
+Functions: abandoned
+Rank: 6
+
+*** John Hand Building ***
+Height: 86.56
+Floors: 20
+Status: Completed
+Completed: 1912
+Functions: residential / office
+Rank: 7
+
+*** Daniel Building ***
+Height: 86.26
+Floors: 20
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 8
+
+*** Jefferson Tower ***
+Height: 82.2
+Floors: 16
+Status: Completed
+Completed: 1940
+Functions: hospital
+Rank: 9
+
+*** Two North Twentieth ***
+Height: 80.47
+Floors: 18
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 10
+
+*** Empire Building ***
+Height: 75.28
+Floors: 16
+Status: Completed
+Completed: 1909
+Functions: office
+Rank: 11

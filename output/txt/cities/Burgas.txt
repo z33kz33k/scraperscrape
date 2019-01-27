@@ -1,0 +1,31 @@
+*** Burgas (2) ***
+1. GM Stroy Residential Tower, 100m
+2. Hotel Mirage, 95m
+
+******************** DETAILS ********************
+
+*** Burgas ***
+Country: Bulgaria
+Region: Europe
+2 towers: GM Stroy Residential Tower, Hotel Mirage
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** GM Stroy Residential Tower ***
+Height: 100
+Floors: 30
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Hotel Mirage ***
+Height: 95
+Floors: 21
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: hotel
+Rank: 2

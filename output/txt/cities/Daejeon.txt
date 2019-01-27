@@ -1,0 +1,111 @@
+*** Daejeon (40) ***
+1.  Kumgang Exllu Tower 102, 170m
+2.  Kumgang Exllu Tower 103, 170m
+3.  Kumgang Exllu Tower 105, 170m
+4.  Kumgang Exllu Tower 106, 170m
+5.  Kumgang Exllu Tower 107, 170m
+6.  Kumgang Exllu Tower 108, 170m
+7.  Kumgang Exllu Tower 110, 170m
+8.  Kumgang Exllu Tower 111, 170m
+9.  Korail Headquarters Tower A, 150m
+10. Korail Headquarters Tower B, 150m
+
+******************** DETAILS ********************
+
+*** Daejeon ***
+Country: South Korea
+Region: Asia
+10 towers: Kumgang Exllu Tower 102, Kumgang Exllu Tower 103, Kumgang Exllu Tower 105, Kumgang Exllu Tower 106, Kumgang Exllu Tower 107, Kumgang Exllu Tower 108, Kumgang Exllu Tower 110, Kumgang Exllu Tower 111, Korail Headquarters Tower A, Korail Headquarters Tower B
+Tiers: III: 10
+Rating: 40
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kumgang Exllu Tower 102 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Kumgang Exllu Tower 103 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Kumgang Exllu Tower 105 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Kumgang Exllu Tower 106 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Kumgang Exllu Tower 107 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Kumgang Exllu Tower 108 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Kumgang Exllu Tower 110 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Kumgang Exllu Tower 111 ***
+Height: 170
+Floors: 50
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Korail Headquarters Tower A ***
+Height: 150
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 9
+
+*** Korail Headquarters Tower B ***
+Height: 150
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 9

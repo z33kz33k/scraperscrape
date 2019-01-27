@@ -1,0 +1,18 @@
+*** Slovenia (2) ***
+1. Ljubljana, 2
+
+******************** DETAILS ********************
+
+*** Slovenia ***
+Region: Europe
+1 city: Ljubljana
+Tiers: I: 2
+Rating: 2
+
+*** Ljubljana ***
+Country: Slovenia
+Region: Europe
+2 towers: Crystal Palace, World Trade Center Ljubljana
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

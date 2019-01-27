@@ -1,0 +1,83 @@
+*** Belem (11) ***
+1. Village Moon, 120m
+2. Village Sun, 120m
+3. Pegasus, 113m
+4. Sintese Plaza, 102m
+5. Samurai, 91m
+6. Flex Lilás, 90m
+7. Sintese 21, 78m
+8. Avalon, 75m
+
+******************** DETAILS ********************
+
+*** Belem ***
+Country: Brazil
+Region: South America
+8 towers: Village Moon, Village Sun, Pegasus, Sintese Plaza, Samurai, Flex Lilás, Sintese 21, Avalon
+Tiers: I: 5, II: 3
+Rating: 11
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Village Moon ***
+Height: 120
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Village Sun ***
+Height: 120
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Pegasus ***
+Height: 113
+Floors: 33
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 3
+
+*** Sintese Plaza ***
+Height: 102.1
+Floors: 30
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 4
+
+*** Samurai ***
+Height: 91.4
+Floors: 28
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 5
+
+*** Flex Lilás ***
+Height: 89.6
+Floors: 27
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 6
+
+*** Sintese 21 ***
+Height: 77.72
+Floors: 22
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 7
+
+*** Avalon ***
+Height: 75.29
+Floors: 23
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 8

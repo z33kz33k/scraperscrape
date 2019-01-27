@@ -1,0 +1,21 @@
+*** Ichikawa (4) ***
+1. Tower A Ichikawa Station, 160m
+
+******************** DETAILS ********************
+
+*** Ichikawa ***
+Country: Japan
+Region: Asia
+1 tower: Tower A Ichikawa Station
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tower A Ichikawa Station ***
+Height: 160
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 1

@@ -1,0 +1,132 @@
+*** Buffalo (19) ***
+1.  One Seneca Tower, 161m
+2.  Rand Building, 119m
+3.  Buffalo City Hall, 115m
+4.  Main Place Tower, 107m
+5.  Liberty Building, 102m
+6.  One M&T Plaza, 96m
+7.  Key Center - North Tower, 90m
+8.  Electric Tower, 90m
+9.  Buffalo Central Terminal, 83m
+10. 10 Lafayette Square, 80m
+11. Verizon/AT&T Building, 79m
+12. Statler Towers, 76m
+13. Main Seneca Building, 76m
+
+******************** DETAILS ********************
+
+*** Buffalo ***
+Country: United States
+Region: North America
+13 towers: One Seneca Tower, Rand Building, Buffalo City Hall, Main Place Tower, Liberty Building, One M&T Plaza, Key Center - North Tower, Electric Tower, Buffalo Central Terminal, 10 Lafayette Square, Verizon/AT&T Building, Statler Towers, Main Seneca Building
+Tiers: I: 9, II: 3, III: 1
+Rating: 19
+Scraped on: 2019-Jan-20 16:05:16
+
+*** One Seneca Tower ***
+Height: 161.24
+Floors: 38
+Status: Completed
+Started: 1969
+Completed: 1974
+Functions: office
+Rank: 1
+
+*** Rand Building ***
+Height: 119.18
+Floors: 29
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 2
+
+*** Buffalo City Hall ***
+Height: 115.22
+Floors: 32
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: government
+Rank: 3
+
+*** Main Place Tower ***
+Height: 106.68
+Floors: 26
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 4
+
+*** Liberty Building ***
+Height: 101.5
+Floors: 23
+Status: Completed
+Completed: 1925
+Functions: office
+Rank: 5
+
+*** One M&T Plaza ***
+Height: 96
+Floors: 21
+Status: Completed
+Started: 1964
+Completed: 1966
+Functions: office
+Rank: 6
+
+*** Key Center - North Tower ***
+Height: 89.61
+Floors: 17
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 7
+
+*** Electric Tower ***
+Height: 89.61
+Floors: 14
+Status: Completed
+Completed: 1912
+Functions: office
+Rank: 8
+
+*** Buffalo Central Terminal ***
+Height: 82.6
+Floors: 17
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: abandoned
+Rank: 9
+
+*** 10 Lafayette Square ***
+Height: 80.16
+Floors: 21
+Status: Completed
+Completed: 1959
+Functions: office
+Rank: 10
+
+*** Verizon/AT&T Building ***
+Height: 78.64
+Floors: 16
+Status: Completed
+Completed: 1914
+Functions: telecommunications
+Rank: 11
+
+*** Statler Towers ***
+Height: 76.2
+Floors: 18
+Status: Completed
+Started: 1921
+Completed: 1923
+Rank: 12
+
+*** Main Seneca Building ***
+Height: 76.2
+Floors: 16
+Status: Completed
+Completed: 1915
+Functions: office
+Rank: 13

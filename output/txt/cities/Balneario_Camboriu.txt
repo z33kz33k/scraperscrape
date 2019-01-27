@@ -1,0 +1,401 @@
+*** Balneario Camboriu (134) ***
+1.  Yachthouse Residence Club by Pininfarina Tower 1, 271m
+2.  Yachthouse Residence Club by Pininfarina Tower 2, 271m
+3.  One Tower, 263m
+4.  Infinity Coast Tower, 235m
+5.  Epic Tower, 209m
+6.  Vitra Residence, 208m
+7.  Millennium Palace, 177m
+8.  Splendido, 176m
+9.  Splendia Tower, 175m
+10. Alameda Jardins Residence, 174m
+11. New York Apartments, 170m
+12. Falcon Tower, 168m
+13. Império das Ondas, 165m
+14. Edifício Pharos, 161m
+15. Vision Tower, 160m
+16. Villa Serena Home Club Torre A, 159m
+17. Villa Serena Home Club Torre B, 159m
+18. Olympo Tower, 157m
+19. Magnifique Tower, 155m
+20. Ocean Palace, 153m
+21. Serendipity Village, 152m
+22. Eleganza Tower, 151m
+23. Ibiza Towers - Torre Central, 150m
+24. Praia do Sol, 145m
+25. Sky Tower, 141m
+26. Argos Residence, 140m
+27. Ibiza Towers - Torre Norte, 140m
+28. Ibiza Towers - Torre Sul, 140m
+29. Marina Beach Towers - Torre Atlantic, 140m
+30. Marina Beach Towers - Torre Pacific, 140m
+31. Apogee, 137m
+32. Metropolis, 134m
+33. Alexandria, 126m
+34. Condominio Barra Tower, 122m
+35. Sea`s Palace Residence, 114m
+36. Renaissance Torre A, 111m
+37. Renaissance Torre B, 111m
+38. Residencial Renaissance Torre A, 111m
+39. Residencial Renaissance Torre B, 111m
+40. Majestic, 96m
+41. Santos Dumont, 75m
+
+******************** DETAILS ********************
+
+*** Balneario Camboriu ***
+Country: Brazil
+Region: South America
+41 towers: Yachthouse Residence Club by Pininfarina Tower 1, Yachthouse Residence Club by Pininfarina Tower 2, One Tower, Infinity Coast Tower, Epic Tower, Vitra Residence, Millennium Palace, Splendido, Splendia Tower, Alameda Jardins Residence, New York Apartments, Falcon Tower, Império das Ondas, Edifício Pharos, Vision Tower, Villa Serena Home Club Torre A, Villa Serena Home Club Torre B, Olympo Tower, Magnifique Tower, Ocean Palace, Serendipity Village, Eleganza Tower, Ibiza Towers - Torre Central, Praia do Sol, Sky Tower, Argos Residence, Ibiza Towers - Torre Norte, Ibiza Towers - Torre Sul, Marina Beach Towers - Torre Atlantic, Marina Beach Towers - Torre Pacific, Apogee, Metropolis, Alexandria, Condominio Barra Tower, Sea`s Palace Residence, Renaissance Torre A, Renaissance Torre B, Residencial Renaissance Torre A, Residencial Renaissance Torre B, Majestic, Santos Dumont
+Tiers: I: 2, II: 16, III: 19, IV: 4
+Rating: 134 (53.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Yachthouse Residence Club by Pininfarina Tower 1 ***
+Height: 271.38
+Floors: 81
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Yachthouse Residence Club by Pininfarina Tower 2 ***
+Height: 271.38
+Floors: 81
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** One Tower ***
+Height: 263
+Floors: 70
+Status: Under Construction
+Started: 2015
+Completed: 2022
+Functions: residential
+Rank: 3
+
+*** Infinity Coast Tower ***
+Height: 234.78
+Floors: 66
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: residential
+Rank: 4
+
+*** Epic Tower ***
+Height: 209
+Floors: 55
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: residential
+Rank: 5
+
+*** Vitra Residence ***
+Height: 208.5
+Floors: 62
+Status: Under Construction
+Started: 2017
+Functions: residential
+Rank: 6
+
+*** Millennium Palace ***
+Height: 177.3
+Floors: 46
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 7
+
+*** Splendido ***
+Height: 176
+Floors: 50
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 8
+
+*** Splendia Tower ***
+Height: 175
+Floors: 43
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 9
+
+*** Alameda Jardins Residence ***
+Height: 174
+Floors: 45
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 10
+
+*** New York Apartments ***
+Height: 170
+Floors: 51
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 11
+
+*** Falcon Tower ***
+Height: 168
+Floors: 40
+Status: Under Construction
+Started: 2016
+Functions: residential
+Rank: 12
+
+*** Império das Ondas ***
+Height: 165
+Floors: 51
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Edifício Pharos ***
+Height: 160.7
+Floors: 46
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2020
+Functions: residential
+Rank: 14
+
+*** Vision Tower ***
+Height: 160
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Villa Serena Home Club Torre A ***
+Height: 159.3
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 16
+
+*** Villa Serena Home Club Torre B ***
+Height: 159.3
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 16
+
+*** Olympo Tower ***
+Height: 157
+Floors: 44
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 18
+
+*** Magnifique Tower ***
+Height: 154.81
+Floors: 44
+Status: Under Construction
+Completed: 2022
+Functions: residential
+Rank: 19
+
+*** Ocean Palace ***
+Height: 152.8
+Floors: 42
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 20
+
+*** Serendipity Village ***
+Height: 152
+Floors: 45
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 21
+
+*** Eleganza Tower ***
+Height: 151.29
+Floors: 43
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 22
+
+*** Ibiza Towers - Torre Central ***
+Height: 150
+Floors: 43
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Praia do Sol ***
+Height: 145
+Floors: 38
+Status: Completed
+Completed: 2002
+Rank: 24
+
+*** Sky Tower ***
+Height: 141
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 25
+
+*** Argos Residence ***
+Height: 140.3
+Floors: 43
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 26
+
+*** Ibiza Towers - Torre Norte ***
+Height: 140
+Floors: 39
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 27
+
+*** Ibiza Towers - Torre Sul ***
+Height: 140
+Floors: 39
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 27
+
+*** Marina Beach Towers - Torre Atlantic ***
+Height: 140
+Floors: 34
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 29
+
+*** Marina Beach Towers - Torre Pacific ***
+Height: 140
+Floors: 34
+Status: Under Construction
+Completed: 2019
+Functions: residential
+Rank: 29
+
+*** Apogee ***
+Height: 137
+Floors: 37
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 31
+
+*** Metropolis ***
+Height: 133.9
+Floors: 41
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 32
+
+*** Alexandria ***
+Height: 126
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 33
+
+*** Condominio Barra Tower ***
+Height: 122.5
+Floors: 37
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 34
+
+*** Sea`s Palace Residence ***
+Height: 114.4
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 35
+
+*** Renaissance Torre A ***
+Height: 110.62
+Floors: 36
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 36
+
+*** Renaissance Torre B ***
+Height: 110.62
+Floors: 36
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 36
+
+*** Residencial Renaissance Torre A ***
+Height: 110.6
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 38
+
+*** Residencial Renaissance Torre B ***
+Height: 110.6
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 38
+
+*** Majestic ***
+Height: 95.6
+Floors: 30
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 40
+
+*** Santos Dumont ***
+Height: 75
+Floors: 23
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 41

@@ -1,0 +1,19 @@
+*** IJmuiden (1) ***
+1. Kolenmaallijn 3, 80m
+
+******************** DETAILS ********************
+
+*** IJmuiden ***
+Country: Netherlands
+Region: Europe
+1 tower: Kolenmaallijn 3
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kolenmaallijn 3 ***
+Height: 80
+Status: Completed
+Completed: 1995
+Functions: industrial
+Rank: 1

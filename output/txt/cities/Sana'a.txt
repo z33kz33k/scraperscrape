@@ -1,0 +1,18 @@
+*** Sana'a (1) ***
+1. Qubaty Tower, 80m
+
+******************** DETAILS ********************
+
+*** Sana'a ***
+Country: Yemen
+Region: Middle East
+1 tower: Qubaty Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Qubaty Tower ***
+Height: 80
+Floors: 20
+Status: Completed
+Rank: 1

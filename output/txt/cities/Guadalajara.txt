@@ -1,0 +1,100 @@
+*** Guadalajara (22) ***
+1. Hotel Riu Plaza Guadalajara, 215m
+2. Corporativo Bansi, 154m
+3. Midtown Jalisco Office Tower, 147m
+4. Americas 1254, 135m
+5. Torre Niba, 124m
+6. Americas 1500, 122m
+7. Condominios Country Club, 120m
+8. The Westin Guadalajara, 93m
+9. Torre Chapultepec, 92m
+
+******************** DETAILS ********************
+
+*** Guadalajara ***
+Country: Mexico
+Region: North America
+9 towers: Hotel Riu Plaza Guadalajara, Corporativo Bansi, Midtown Jalisco Office Tower, Americas 1254, Torre Niba, Americas 1500, Condominios Country Club, The Westin Guadalajara, Torre Chapultepec
+Tiers: I: 2, II: 5, III: 1, IV: 1
+Rating: 22 (36.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hotel Riu Plaza Guadalajara ***
+Height: 215
+Floors: 44
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: hotel
+Rank: 1
+
+*** Corporativo Bansi ***
+Height: 154
+Floors: 32
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 2
+
+*** Midtown Jalisco Office Tower ***
+Height: 147
+Floors: 30
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 3
+
+*** Americas 1254 ***
+Height: 135.4
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / office
+Rank: 4
+
+*** Torre Niba ***
+Height: 124.2
+Floors: 29
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 5
+
+*** Americas 1500 ***
+Height: 122.5
+Floors: 28
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: hotel / office
+Rank: 6
+
+*** Condominios Country Club ***
+Height: 120
+Floors: 34
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 7
+
+*** The Westin Guadalajara ***
+Height: 92.8
+Floors: 21
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 8
+
+*** Torre Chapultepec ***
+Height: 92
+Floors: 26
+Status: Completed
+Started: 1991
+Completed: 1995
+Functions: hotel / office
+Rank: 9

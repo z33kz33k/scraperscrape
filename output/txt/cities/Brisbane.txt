@@ -1,0 +1,1000 @@
+*** Brisbane (201) ***
+1.   Brisbane Skytower, 270m
+2.   The One, 264m
+3.   1 William Street, 260m
+4.   Infinity, 249m
+5.   Soleil, 243m
+6.   Aurora, 207m
+7.   Riparian Plaza, 200m
+8.   One One One Eagle Street, 195m
+9.   443 Queen Street, 184m
+10.  300 George Street, 182m
+11.  Central Plaza One, 174m
+12.  275 George Street, 171m
+13.  Waterfront Place, 162m
+14.  480 Queen Street, 153m
+15.  180 Brisbane, 152m
+16.  Brisbane Square, 151m
+17.  Skyline Apartments, 150m
+18.  400 George Street, 150m
+19.  Abian Apartments, 148m
+20.  Santos Place, 146m
+21.  M on Mary, 145m
+22.  111 George Street, 145m
+23.  80 Ann Street, 143m
+24.  Riverside Centre, 142m
+25.  Charlotte Towers, 138m
+26.  Festival Towers, 135m
+27.  AMP Place, 135m
+28.  Comalco Place, 134m
+29.  Spire, 131m
+30.  Felix Tower, 131m
+31.  Mary Lane, 131m
+32.  King George Central, 129m
+33.  State Law Building, 128m
+34.  W Hotel, 127m
+35.  123 Albert Street, 127m
+36.  Student One Wharf Street, 126m
+37.  Admiralty Towers II, 126m
+38.  River Place Apartments, 126m
+39.  Macrossan Apartments, 125m
+40.  River City Apartments, 124m
+41.  Casino Towers, 120m
+42.  Metropole Apartments, 120m
+43.  Commonwealth Bank Building, 120m
+44.  Emirates House, 119m
+45.  Suncorp Metway Plaza, 118m
+46.  Oaks 212 Margaret, 115m
+47.  Admiralty Quays, 114m
+48.  Jetset House, 112m
+49.  Evolution, 111m
+50.  Hitachi Building, 111m
+51.  Central Plaza Two, 110m
+52.  Mineral House, 110m
+53.  ADC Building, 109m
+54.  Brisbane Marriot Hotel, 107m
+55.  Four Points by Sheraton, 107m
+56.  97 Elizabeth Street, 107m
+57.  ANZ Centre, 106m
+58.  Brisbane Casino Towers, 105m
+59.  Education House, 105m
+60.  Terrica Place, 105m
+61.  Westpac Building, 105m
+62.  HSBC Centre, 104m
+63.  National Bank House, 104m
+64.  179 Turbot Street, 103m
+65.  The Milton Residences, 103m
+66.  Matisse Tower, 103m
+67.  Mantra on Queen, 102m
+68.  CPA Centre, 102m
+69.  333 Ann Street, 102m
+70.  No 1 Fortitude Valley, 101m
+71.  Brisbane 1 Building A, 101m
+72.  Madison Heights, 100m
+73.  Lucid, 99m
+74.  Eve, 97m
+75.  Ivy, 96m
+76.  Chifley at Lennons, 96m
+77.  PIPE Networks House, 96m
+78.  175 Eagle Street, 96m
+79.  FV - Valley House, 96m
+80.  FV - Flatiron, 95m
+81.  Brisbane 1 Building B, 95m
+82.  River Park Central, 95m
+83.  Hotel Sofitel Brisbane, 95m
+84.  The Sebel, 94m
+85.  The Midtown, 93m
+86.  Mantra Midtown, 93m
+87.  Ibis Hotel, 92m
+88.  Brisbane Administration Centre, 92m
+89.  Grosvenor Apartments, 90m
+90.  Brisbane Club Tower, 90m
+91.  Woolloongabba Telstra Exchange, 90m
+92.  AM-60, 89m
+93.  Arthouse, 87m
+94.  Haven, 86m
+95.  53 Albert Street, 83m
+96.  144 Edward Street, 82m
+97.  Skyring Apartments, 80m
+98.  150 Charlotte Street, 80m
+99.  McLachlan & Ann Apartment Tower, 78m
+100. South Point, 77m
+
+******************** DETAILS ********************
+
+*** Brisbane ***
+Country: Australia
+Region: Oceania
+100 towers: Brisbane Skytower, The One, 1 William Street, Infinity, Soleil, Aurora, Riparian Plaza, One One One Eagle Street, 443 Queen Street, 300 George Street, Central Plaza One, 275 George Street, Waterfront Place, 480 Queen Street, 180 Brisbane, Brisbane Square, Skyline Apartments, 400 George Street, Abian Apartments, Santos Place, M on Mary, 111 George Street, 80 Ann Street, Riverside Centre, Charlotte Towers, Festival Towers, AMP Place, Comalco Place, Spire, Felix Tower, Mary Lane, King George Central, State Law Building, W Hotel, 123 Albert Street, Student One Wharf Street, Admiralty Towers II, River Place Apartments, Macrossan Apartments, River City Apartments, Casino Towers, Metropole Apartments, Commonwealth Bank Building, Emirates House, Suncorp Metway Plaza, Oaks 212 Margaret, Admiralty Quays, Jetset House, Evolution, Hitachi Building, Central Plaza Two, Mineral House, ADC Building, Brisbane Marriot Hotel, Four Points by Sheraton, 97 Elizabeth Street, ANZ Centre, Brisbane Casino Towers, Education House, Terrica Place, Westpac Building, HSBC Centre, National Bank House, 179 Turbot Street, The Milton Residences, Matisse Tower, Mantra on Queen, CPA Centre, 333 Ann Street, No 1 Fortitude Valley, Brisbane 1 Building A, Madison Heights, Lucid, Eve, Ivy, Chifley at Lennons, PIPE Networks House, 175 Eagle Street, FV - Valley House, FV - Flatiron, Brisbane 1 Building B, River Park Central, Hotel Sofitel Brisbane, The Sebel, The Midtown, Mantra Midtown, Ibis Hotel, Brisbane Administration Centre, Grosvenor Apartments, Brisbane Club Tower, Woolloongabba Telstra Exchange, AM-60, Arthouse, Haven, 53 Albert Street, 144 Edward Street, Skyring Apartments, 150 Charlotte Street, McLachlan & Ann Apartment Tower, South Point
+Tiers: I: 43, II: 40, III: 12, IV: 5
+Rating: 201 (14.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Brisbane Skytower ***
+Height: 270.5
+Floors: 90
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** The One ***
+Height: 264
+Floors: 82
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** 1 William Street ***
+Height: 259.76
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 3
+
+*** Infinity ***
+Height: 248.98
+Floors: 81
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 4
+
+*** Soleil ***
+Height: 243
+Floors: 79
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 5
+
+*** Aurora ***
+Height: 207
+Floors: 69
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 6
+
+*** Riparian Plaza ***
+Height: 200
+Floors: 53
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: residential / office
+Rank: 7
+
+*** One One One Eagle Street ***
+Height: 194.67
+Floors: 48
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 8
+
+*** 443 Queen Street ***
+Height: 183.7
+Floors: 50
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / residential / residential
+Rank: 9
+
+*** 300 George Street ***
+Height: 182.2
+Floors: 41
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 10
+
+*** Central Plaza One ***
+Height: 174
+Floors: 44
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 11
+
+*** 275 George Street ***
+Height: 171
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 12
+
+*** Waterfront Place ***
+Height: 162
+Floors: 40
+Status: Completed
+Started: 1987
+Completed: 1990
+Functions: office
+Rank: 13
+
+*** 480 Queen Street ***
+Height: 153
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 14
+
+*** 180 Brisbane ***
+Height: 152
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 15
+
+*** Brisbane Square ***
+Height: 151
+Floors: 38
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 16
+
+*** Skyline Apartments ***
+Height: 150
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 17
+
+*** 400 George Street ***
+Height: 149.91
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 18
+
+*** Abian Apartments ***
+Height: 148.1
+Floors: 41
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 19
+
+*** Santos Place ***
+Height: 146
+Floors: 38
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 20
+
+*** M on Mary ***
+Height: 145
+Floors: 46
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 21
+
+*** 111 George Street ***
+Height: 145
+Floors: 30
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 22
+
+*** 80 Ann Street ***
+Height: 142.75
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: office
+Rank: 23
+
+*** Riverside Centre ***
+Height: 142
+Floors: 40
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 24
+
+*** Charlotte Towers ***
+Height: 138
+Floors: 44
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 25
+
+*** Festival Towers ***
+Height: 135
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 26
+
+*** AMP Place ***
+Height: 135
+Floors: 35
+Status: Completed
+Started: 1976
+Completed: 1978
+Functions: office
+Rank: 27
+
+*** Comalco Place ***
+Height: 134
+Floors: 35
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 28
+
+*** Spire ***
+Height: 131.1
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 29
+
+*** Felix Tower ***
+Height: 131
+Floors: 40
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 30
+
+*** Mary Lane ***
+Height: 130.6
+Floors: 38
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential / hotel
+Rank: 31
+
+*** King George Central ***
+Height: 129
+Floors: 27
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 32
+
+*** State Law Building ***
+Height: 128
+Floors: 30
+Status: Completed
+Completed: 1977
+Functions: government
+Rank: 33
+
+*** W Hotel ***
+Height: 127
+Floors: 34
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hotel
+Rank: 34
+
+*** 123 Albert Street ***
+Height: 127
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 35
+
+*** Student One Wharf Street ***
+Height: 126.3
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 36
+
+*** Admiralty Towers II ***
+Height: 126
+Floors: 38
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 37
+
+*** River Place Apartments ***
+Height: 126
+Floors: 38
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 37
+
+*** Macrossan Apartments ***
+Height: 125
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 39
+
+*** River City Apartments ***
+Height: 124
+Floors: 39
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 40
+
+*** Casino Towers ***
+Height: 120
+Floors: 39
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 41
+
+*** Metropole Apartments ***
+Height: 120
+Floors: 39
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 41
+
+*** Commonwealth Bank Building ***
+Height: 120
+Floors: 28
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: office
+Rank: 43
+
+*** Emirates House ***
+Height: 119
+Floors: 24
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: office
+Rank: 44
+
+*** Suncorp Metway Plaza ***
+Height: 118
+Floors: 26
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 45
+
+*** Oaks 212 Margaret ***
+Height: 115
+Floors: 33
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: hotel / residential
+Rank: 46
+
+*** Admiralty Quays ***
+Height: 114
+Floors: 32
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: residential
+Rank: 47
+
+*** Jetset House ***
+Height: 112
+Floors: 30
+Status: Completed
+Started: 1977
+Completed: 1979
+Functions: office
+Rank: 48
+
+*** Evolution ***
+Height: 111
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: residential
+Rank: 49
+
+*** Hitachi Building ***
+Height: 111
+Floors: 32
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: office
+Rank: 50
+
+*** Central Plaza Two ***
+Height: 110
+Floors: 30
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 51
+
+*** Mineral House ***
+Height: 110
+Floors: 30
+Status: Completed
+Started: 1982
+Completed: 1984
+Functions: office
+Rank: 51
+
+*** ADC Building ***
+Height: 109
+Floors: 28
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 53
+
+*** Brisbane Marriot Hotel ***
+Height: 107
+Floors: 28
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: hotel
+Rank: 54
+
+*** Four Points by Sheraton ***
+Height: 106.96
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: hotel
+Rank: 55
+
+*** 97 Elizabeth Street ***
+Height: 106.64
+Floors: 31
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 56
+
+*** ANZ Centre ***
+Height: 106
+Floors: 26
+Status: Completed
+Started: 1980
+Completed: 1982
+Functions: office
+Rank: 57
+
+*** Brisbane Casino Towers ***
+Height: 105.4
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 58
+
+*** Education House ***
+Height: 105
+Floors: 30
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 59
+
+*** Terrica Place ***
+Height: 105
+Floors: 24
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office
+Rank: 60
+
+*** Westpac Building ***
+Height: 105
+Floors: 23
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: office
+Rank: 61
+
+*** HSBC Centre ***
+Height: 104
+Floors: 25
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 62
+
+*** National Bank House ***
+Height: 104
+Floors: 24
+Status: Completed
+Started: 1979
+Completed: 1981
+Functions: office
+Rank: 63
+
+*** 179 Turbot Street ***
+Height: 103.2
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 64
+
+*** The Milton Residences ***
+Height: 103
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 65
+
+*** Matisse Tower ***
+Height: 103
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: residential
+Rank: 66
+
+*** Mantra on Queen ***
+Height: 102
+Floors: 32
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: hotel
+Rank: 67
+
+*** CPA Centre ***
+Height: 102
+Floors: 29
+Status: Completed
+Started: 1976
+Completed: 1977
+Functions: office
+Rank: 68
+
+*** 333 Ann Street ***
+Height: 102
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: office
+Rank: 69
+
+*** No 1 Fortitude Valley ***
+Height: 101.3
+Floors: 30
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 70
+
+*** Brisbane 1 Building A ***
+Height: 101.2
+Floors: 30
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 71
+
+*** Madison Heights ***
+Height: 100
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: retail / retail / retail / residential
+Rank: 72
+
+*** Lucid ***
+Height: 98.8
+Floors: 30
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 73
+
+*** Eve ***
+Height: 97.4
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 74
+
+*** Ivy ***
+Height: 96.4
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 75
+
+*** Chifley at Lennons ***
+Height: 96
+Floors: 27
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: hotel
+Rank: 76
+
+*** PIPE Networks House ***
+Height: 96
+Floors: 23
+Status: Completed
+Started: 1977
+Completed: 1978
+Functions: office
+Rank: 77
+
+*** 175 Eagle Street ***
+Height: 96
+Floors: 20
+Status: Completed
+Started: 2001
+Completed: 2002
+Functions: office
+Rank: 78
+
+*** FV - Valley House ***
+Height: 95.9
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 79
+
+*** FV - Flatiron ***
+Height: 95.2
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 80
+
+*** Brisbane 1 Building B ***
+Height: 95
+Floors: 30
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 81
+
+*** River Park Central ***
+Height: 95
+Floors: 29
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 82
+
+*** Hotel Sofitel Brisbane ***
+Height: 95
+Floors: 25
+Status: Completed
+Started: 1982
+Completed: 1984
+Functions: hotel
+Rank: 83
+
+*** The Sebel ***
+Height: 94
+Floors: 31
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 84
+
+*** The Midtown ***
+Height: 93
+Floors: 29
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: residential
+Rank: 85
+
+*** Mantra Midtown ***
+Height: 93
+Floors: 28
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: hotel
+Rank: 86
+
+*** Ibis Hotel ***
+Height: 92
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: hotel
+Rank: 87
+
+*** Brisbane Administration Centre ***
+Height: 92
+Floors: 23
+Status: Completed
+Started: 1976
+Completed: 1977
+Functions: office
+Rank: 88
+
+*** Grosvenor Apartments ***
+Height: 90
+Floors: 27
+Status: Completed
+Started: 1997
+Completed: 1998
+Functions: residential
+Rank: 89
+
+*** Brisbane Club Tower ***
+Height: 90
+Floors: 24
+Status: Completed
+Started: 1997
+Completed: 1998
+Functions: office
+Rank: 90
+
+*** Woolloongabba Telstra Exchange ***
+Height: 90
+Floors: 16
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: telecommunications
+Rank: 91
+
+*** AM-60 ***
+Height: 89
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 92
+
+*** Arthouse ***
+Height: 87.23
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 93
+
+*** Haven ***
+Height: 85.9
+Floors: 27
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential / retail
+Rank: 94
+
+*** 53 Albert Street ***
+Height: 82.9
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 95
+
+*** 144 Edward Street ***
+Height: 82
+Floors: 22
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 96
+
+*** Skyring Apartments ***
+Height: 80
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 97
+
+*** 150 Charlotte Street ***
+Height: 80
+Floors: 23
+Status: Completed
+Started: 2011
+Completed: 2012
+Functions: office
+Rank: 98
+
+*** McLachlan & Ann Apartment Tower ***
+Height: 77.7
+Floors: 23
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 99
+
+*** South Point ***
+Height: 77.04
+Floors: 22
+Status: Completed
+Completed: 2018
+Functions: residential
+Rank: 100

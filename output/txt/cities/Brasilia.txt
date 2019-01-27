@@ -1,0 +1,40 @@
+*** Brasilia (3) ***
+1. Banco Central do Brasil, 101m
+2. Palacio do Congresso Nacional Anexo I, 92m
+3. Palacio do Congresso Nacional Anexo II, 92m
+
+******************** DETAILS ********************
+
+*** Brasilia ***
+Country: Brazil
+Region: South America
+3 towers: Banco Central do Brasil, Palacio do Congresso Nacional Anexo I, Palacio do Congresso Nacional Anexo II
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Banco Central do Brasil ***
+Height: 101
+Floors: 21
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 1
+
+*** Palacio do Congresso Nacional Anexo I ***
+Height: 92
+Floors: 28
+Status: Completed
+Started: 1957
+Completed: 1960
+Functions: government
+Rank: 2
+
+*** Palacio do Congresso Nacional Anexo II ***
+Height: 92
+Floors: 28
+Status: Completed
+Started: 1957
+Completed: 1960
+Functions: government
+Rank: 2

@@ -1,0 +1,888 @@
+*** Busan (368) ***
+1.  LCT Landmark Tower, 412m
+2.  LCT Residential Tower A, 339m
+3.  LCT Residential Tower B, 333m
+4.  Doosan Haeundae We've the Zenith Tower A, 300m
+5.  Haeundae I Park Marina Tower 2, 292m
+6.  Busan International Finance Center Landmark Tower, 289m
+7.  Doosan Haeundae We've the Zenith Tower B, 282m
+8.  Haeundae I Park Marina Tower 1, 273m
+9.  Doosan Haeundae We've the Zenith Tower C, 265m
+10. WBC The Palace 1, 265m
+11. WBC The Palace 2, 265m
+12. The-W 101, 246m
+13. The-W 102, 246m
+14. The-W 103, 246m
+15. The-W 104, 246m
+16. Songdo Ijin Bay City Tower 1, 244m
+17. Songdo Ijin Bay City Tower 2, 244m
+18. Songdo Ijin Bay City Tower 3, 244m
+19. Centum Star B, 212m
+20. Seomyeon Central Star A, 207m
+21. Haeundae I Park Marina Tower 3, 205m
+22. Golden View Central Park Tower A, 205m
+23. Golden View Central Park Tower B, 205m
+24. Golden View Central Park Tower C, 205m
+25. Daewoo Haeundae Aratrium, 198m
+26. Centum Leaders Mark, 192m
+27. Centum Star C, 189m
+28. Centum Star A, 184m
+29. SK HUB Sky Tower 1, 182m
+30. SK HUB Sky Tower 2, 182m
+31. Haeundae Hillside We've Tower 102, 176m
+32. Haeundae Hillside We've Tower 202, 176m
+33. Kyungdong Jade 103, 175m
+34. Lotte Hotel Busan, 173m
+35. Seomyeon Central Star C, 170m
+36. Seomyeon Central Star D, 170m
+37. Haeundae Iaan Exordium 101, 170m
+38. Majestower Beomil 101, 170m
+39. Majestower Beomil 102, 170m
+40. Seomyeon Central Star E, 170m
+41. Seomyeon Central Star B, 167m
+42. Haeundae Hillside We've Tower 104, 164m
+43. Kyungdong Jade 102, 163m
+44. Beomil LH Ocean Bridge Tower A, 162m
+45. Beomil LH Ocean Bridge Tower B, 162m
+46. Haeundae Lotte Castle Star 101, 162m
+47. Haeundae Lotte Castle Star 102, 162m
+48. Haeundae Lotte Castle Star 103, 162m
+49. Haeundae Lotte Castle Star 104, 162m
+50. Marine City Xi, 162m
+51. Dongrae Hyosung Hellington Place Tower A, 161m
+52. Dongrae Hyosung Hellington Place Tower B, 161m
+53. Dongrae Hyosung Hellington Place Tower C, 161m
+54. Majestower Beomil 103, 160m
+55. Haeundae Hillside We've Tower 201, 159m
+56. Sharp Centum Park 102, 158m
+57. Sharp Centum Park 104, 158m
+58. Sharp Centum Park 106, 158m
+59. Sharp Centum Park 107, 158m
+60. Sharp Centum Park 108, 158m
+61. Sharp Centum Park 110, 158m
+62. Sharp Centum Park 112, 158m
+63. Sharp Centum Park 113, 158m
+64. Sharp Centum Park 114, 158m
+65. Hotel Lamuette, 155m
+66. Haeundae Hillside We've Tower 105, 153m
+67. Sharp Centum Park 202, 153m
+68. Sharp Centum Park 204, 153m
+69. Sharp Centum Park 206, 153m
+70. Kyungdong Jade 101, 153m
+71. Haeundae Hillside We've Tower 103, 152m
+72. We've the Zenith Poseidon A, 148m
+73. We've the Zenith Poseidon B, 148m
+74. The Sharp Adele-Reese 101, 143m
+75. The Sharp Adele-Reese 102, 143m
+76. Sharp Centum Park 101, 143m
+77. Sharp Centum Park 109, 143m
+78. Sharp Centum Park 111, 143m
+79. Sharp Centum Park 205, 143m
+80. Woosin Golden Sweet Complex, 143m
+81. Daewoo Trump World Marine A, 138m
+82. Daewoo Trump World Marine B, 138m
+83. Haeundae Hillside We've Tower 204, 138m
+84. Haeundae Iaan Exordium 102, 135m
+85. Haeundae Iaan Exordium 103, 135m
+86. Haeundae Hillside We've Tower 101, 134m
+87. Hanhwa Resort Hotel, 130m
+88. Daewoo Trump World Centum A, 126m
+89. Daewoo Trump World Centum B, 126m
+90. Haeundae Hillside We've Tower 203, 122m
+
+******************** DETAILS ********************
+
+*** Busan ***
+Country: South Korea
+Region: Asia
+90 towers: LCT Landmark Tower, LCT Residential Tower A, LCT Residential Tower B, Doosan Haeundae We've the Zenith Tower A, Haeundae I Park Marina Tower 2, Busan International Finance Center Landmark Tower, Doosan Haeundae We've the Zenith Tower B, Haeundae I Park Marina Tower 1, Doosan Haeundae We've the Zenith Tower C, WBC The Palace 1, WBC The Palace 2, The-W 101, The-W 102, The-W 103, The-W 104, Songdo Ijin Bay City Tower 1, Songdo Ijin Bay City Tower 2, Songdo Ijin Bay City Tower 3, Centum Star B, Seomyeon Central Star A, Haeundae I Park Marina Tower 3, Golden View Central Park Tower A, Golden View Central Park Tower B, Golden View Central Park Tower C, Daewoo Haeundae Aratrium, Centum Leaders Mark, Centum Star C, Centum Star A, SK HUB Sky Tower 1, SK HUB Sky Tower 2, Haeundae Hillside We've Tower 102, Haeundae Hillside We've Tower 202, Kyungdong Jade 103, Lotte Hotel Busan, Seomyeon Central Star C, Seomyeon Central Star D, Haeundae Iaan Exordium 101, Majestower Beomil 101, Majestower Beomil 102, Seomyeon Central Star E, Seomyeon Central Star B, Haeundae Hillside We've Tower 104, Kyungdong Jade 102, Beomil LH Ocean Bridge Tower A, Beomil LH Ocean Bridge Tower B, Haeundae Lotte Castle Star 101, Haeundae Lotte Castle Star 102, Haeundae Lotte Castle Star 103, Haeundae Lotte Castle Star 104, Marine City Xi, Dongrae Hyosung Hellington Place Tower A, Dongrae Hyosung Hellington Place Tower B, Dongrae Hyosung Hellington Place Tower C, Majestower Beomil 103, Haeundae Hillside We've Tower 201, Sharp Centum Park 102, Sharp Centum Park 104, Sharp Centum Park 106, Sharp Centum Park 107, Sharp Centum Park 108, Sharp Centum Park 110, Sharp Centum Park 112, Sharp Centum Park 113, Sharp Centum Park 114, Hotel Lamuette, Haeundae Hillside We've Tower 105, Sharp Centum Park 202, Sharp Centum Park 204, Sharp Centum Park 206, Kyungdong Jade 101, Haeundae Hillside We've Tower 103, We've the Zenith Poseidon A, We've the Zenith Poseidon B, The Sharp Adele-Reese 101, The Sharp Adele-Reese 102, Sharp Centum Park 101, Sharp Centum Park 109, Sharp Centum Park 111, Sharp Centum Park 205, Woosin Golden Sweet Complex, Daewoo Trump World Marine A, Daewoo Trump World Marine B, Haeundae Hillside We've Tower 204, Haeundae Iaan Exordium 102, Haeundae Iaan Exordium 103, Haeundae Hillside We've Tower 101, Hanhwa Resort Hotel, Daewoo Trump World Centum A, Daewoo Trump World Centum B, Haeundae Hillside We've Tower 203
+Tiers: II: 19, III: 52, IV: 15, V: 4
+Rating: 368 (20.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** LCT Landmark Tower ***
+Height: 411.6
+Floors: 101
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: hotel / residential
+Rank: 1
+
+*** LCT Residential Tower A ***
+Height: 339.1
+Floors: 85
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2020
+Functions: residential
+Rank: 2
+
+*** LCT Residential Tower B ***
+Height: 333.1
+Floors: 85
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2020
+Functions: residential
+Rank: 3
+
+*** Doosan Haeundae We've the Zenith Tower A ***
+Height: 300
+Floors: 80
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 4
+
+*** Haeundae I Park Marina Tower 2 ***
+Height: 292.06
+Floors: 72
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 5
+
+*** Busan International Finance Center Landmark Tower ***
+Height: 289
+Floors: 63
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 6
+
+*** Doosan Haeundae We've the Zenith Tower B ***
+Height: 281.5
+Floors: 75
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 7
+
+*** Haeundae I Park Marina Tower 1 ***
+Height: 272.86
+Floors: 66
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 8
+
+*** Doosan Haeundae We've the Zenith Tower C ***
+Height: 265
+Floors: 70
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 9
+
+*** WBC The Palace 1 ***
+Height: 265
+Floors: 51
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 10
+
+*** WBC The Palace 2 ***
+Height: 265
+Floors: 51
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 10
+
+*** The-W 101 ***
+Height: 246.4
+Floors: 69
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** The-W 102 ***
+Height: 246.4
+Floors: 69
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** The-W 103 ***
+Height: 246.4
+Floors: 69
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** The-W 104 ***
+Height: 246.4
+Floors: 69
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Songdo Ijin Bay City Tower 1 ***
+Height: 243.7
+Floors: 69
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 16
+
+*** Songdo Ijin Bay City Tower 2 ***
+Height: 243.7
+Floors: 69
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 16
+
+*** Songdo Ijin Bay City Tower 3 ***
+Height: 243.7
+Floors: 69
+Status: Under Construction
+Started: 2018
+Functions: residential
+Rank: 16
+
+*** Centum Star B ***
+Height: 212
+Floors: 60
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 19
+
+*** Seomyeon Central Star A ***
+Height: 206.98
+Floors: 58
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 20
+
+*** Haeundae I Park Marina Tower 3 ***
+Height: 205.46
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 21
+
+*** Golden View Central Park Tower A ***
+Height: 205
+Floors: 58
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 22
+
+*** Golden View Central Park Tower B ***
+Height: 205
+Floors: 58
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 22
+
+*** Golden View Central Park Tower C ***
+Height: 205
+Floors: 58
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 22
+
+*** Daewoo Haeundae Aratrium ***
+Height: 198
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 25
+
+*** Centum Leaders Mark ***
+Height: 192
+Floors: 44
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 26
+
+*** Centum Star C ***
+Height: 189
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 27
+
+*** Centum Star A ***
+Height: 184
+Floors: 51
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 28
+
+*** SK HUB Sky Tower 1 ***
+Height: 182
+Floors: 49
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 29
+
+*** SK HUB Sky Tower 2 ***
+Height: 182
+Floors: 49
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 29
+
+*** Haeundae Hillside We've Tower 102 ***
+Height: 176.5
+Floors: 53
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 31
+
+*** Haeundae Hillside We've Tower 202 ***
+Height: 176.5
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 32
+
+*** Kyungdong Jade 103 ***
+Height: 175.1
+Floors: 47
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 33
+
+*** Lotte Hotel Busan ***
+Height: 172.82
+Floors: 41
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 34
+
+*** Seomyeon Central Star C ***
+Height: 170.41
+Floors: 48
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 35
+
+*** Seomyeon Central Star D ***
+Height: 170.41
+Floors: 48
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 35
+
+*** Haeundae Iaan Exordium 101 ***
+Height: 170
+Floors: 45
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 37
+
+*** Majestower Beomil 101 ***
+Height: 170
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 38
+
+*** Majestower Beomil 102 ***
+Height: 170
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 38
+
+*** Seomyeon Central Star E ***
+Height: 169.9
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 40
+
+*** Seomyeon Central Star B ***
+Height: 167.38
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 41
+
+*** Haeundae Hillside We've Tower 104 ***
+Height: 164.5
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 42
+
+*** Kyungdong Jade 102 ***
+Height: 162.7
+Floors: 43
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 43
+
+*** Beomil LH Ocean Bridge Tower A ***
+Height: 162.3
+Floors: 48
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 44
+
+*** Beomil LH Ocean Bridge Tower B ***
+Height: 162.3
+Floors: 48
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 44
+
+*** Haeundae Lotte Castle Star 101 ***
+Height: 162
+Floors: 49
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 46
+
+*** Haeundae Lotte Castle Star 102 ***
+Height: 162
+Floors: 49
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 46
+
+*** Haeundae Lotte Castle Star 103 ***
+Height: 162
+Floors: 49
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 46
+
+*** Haeundae Lotte Castle Star 104 ***
+Height: 162
+Floors: 49
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 46
+
+*** Marine City Xi ***
+Height: 162
+Floors: 49
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 46
+
+*** Dongrae Hyosung Hellington Place Tower A ***
+Height: 161
+Floors: 49
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 51
+
+*** Dongrae Hyosung Hellington Place Tower B ***
+Height: 161
+Floors: 49
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 51
+
+*** Dongrae Hyosung Hellington Place Tower C ***
+Height: 161
+Floors: 49
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 51
+
+*** Majestower Beomil 103 ***
+Height: 160
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / office
+Rank: 54
+
+*** Haeundae Hillside We've Tower 201 ***
+Height: 159.1
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 55
+
+*** Sharp Centum Park 102 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Sharp Centum Park 104 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Sharp Centum Park 106 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Sharp Centum Park 107 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Sharp Centum Park 108 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Sharp Centum Park 110 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Sharp Centum Park 112 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Sharp Centum Park 113 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Sharp Centum Park 114 ***
+Height: 157.55
+Floors: 51
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 56
+
+*** Hotel Lamuette ***
+Height: 155
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential / hotel
+Rank: 65
+
+*** Haeundae Hillside We've Tower 105 ***
+Height: 153.1
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 66
+
+*** Sharp Centum Park 202 ***
+Height: 153
+Floors: 50
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 67
+
+*** Sharp Centum Park 204 ***
+Height: 153
+Floors: 50
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 67
+
+*** Sharp Centum Park 206 ***
+Height: 153
+Floors: 50
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 67
+
+*** Kyungdong Jade 101 ***
+Height: 152.6
+Floors: 40
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 70
+
+*** Haeundae Hillside We've Tower 103 ***
+Height: 152.5
+Floors: 44
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 71
+
+*** We've the Zenith Poseidon A ***
+Height: 148
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 72
+
+*** We've the Zenith Poseidon B ***
+Height: 148
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 72
+
+*** The Sharp Adele-Reese 101 ***
+Height: 143
+Floors: 47
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 74
+
+*** The Sharp Adele-Reese 102 ***
+Height: 143
+Floors: 47
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 74
+
+*** Sharp Centum Park 101 ***
+Height: 143
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 76
+
+*** Sharp Centum Park 109 ***
+Height: 143
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 76
+
+*** Sharp Centum Park 111 ***
+Height: 143
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 76
+
+*** Sharp Centum Park 205 ***
+Height: 143
+Floors: 43
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 76
+
+*** Woosin Golden Sweet Complex ***
+Height: 142.7
+Floors: 45
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 80
+
+*** Daewoo Trump World Marine A ***
+Height: 138
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 81
+
+*** Daewoo Trump World Marine B ***
+Height: 138
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 81
+
+*** Haeundae Hillside We've Tower 204 ***
+Height: 137.5
+Floors: 40
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 83
+
+*** Haeundae Iaan Exordium 102 ***
+Height: 135
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 84
+
+*** Haeundae Iaan Exordium 103 ***
+Height: 135
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 84
+
+*** Haeundae Hillside We've Tower 101 ***
+Height: 134.5
+Floors: 39
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 86
+
+*** Hanhwa Resort Hotel ***
+Height: 130.1
+Floors: 32
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 87
+
+*** Daewoo Trump World Centum A ***
+Height: 126
+Floors: 39
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 88
+
+*** Daewoo Trump World Centum B ***
+Height: 126
+Floors: 39
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 88
+
+*** Haeundae Hillside We've Tower 203 ***
+Height: 122.5
+Floors: 35
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 90

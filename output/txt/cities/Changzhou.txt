@@ -1,0 +1,40 @@
+*** Changzhou (16) ***
+1. Changzhou Modern Media Center, 265m
+2. Kaina Business Plaza, 228m
+3. Yatai Fortune Center, 200m
+
+******************** DETAILS ********************
+
+*** Changzhou ***
+Country: China
+Region: Asia
+3 towers: Changzhou Modern Media Center, Kaina Business Plaza, Yatai Fortune Center
+Tiers: III: 1, IV: 2
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Changzhou Modern Media Center ***
+Height: 265.1
+Floors: 58
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / hotel / office
+Rank: 1
+
+*** Kaina Business Plaza ***
+Height: 228
+Floors: 56
+Status: Completed
+Completed: 2010
+Functions: hotel / office
+Rank: 2
+
+*** Yatai Fortune Center ***
+Height: 200
+Floors: 42
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential / office
+Rank: 3

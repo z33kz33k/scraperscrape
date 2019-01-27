@@ -1,0 +1,4801 @@
+*** Chicago (1107) ***
+1.   Willis Tower, 442m
+2.   Trump International Hotel & Tower, 423m
+3.   Vista Tower, 363m
+4.   875 North Michigan Avenue, 344m
+5.   The Franklin - North Tower, 307m
+6.   Two Prudential Plaza, 303m
+7.   311 South Wacker Drive, 293m
+8.   NEMA Chicago, 273m
+9.   900 North Michigan Avenue, 265m
+10.  Chase Tower, 265m
+11.  Water Tower Place, 262m
+12.  Aqua at Lakeshore East, 262m
+13.  Park Tower, 257m
+14.  One Bennett Park, 255m
+15.  The Legacy at Millennium Park, 249m
+16.  Bank of America Tower, 249m
+17.  300 North LaSalle, 239m
+18.  Three First National Plaza, 234m
+19.  Grant Thornton Tower, 230m
+20.  Blue Cross-Blue Shield Tower, 227m
+21.  River Point, 223m
+22.  Olympia Centre, 223m
+23.  One Museum Park, 221m
+24.  150 North Riverside, 221m
+25.  AMA Plaza, 212m
+26.  Waldorf Astoria Chicago, 209m
+27.  111 South Wacker, 208m
+28.  181 West Madison, 207m
+29.  71 South Wacker, 207m
+30.  One Magnificent Mile, 205m
+31.  340 on the Park, 205m
+32.  77 West Wacker Drive, 204m
+33.  Wolf Point East Tower, 204m
+34.  UBS Tower, 199m
+35.  Richard J. Daley Center, 198m
+36.  55 East Erie, 197m
+37.  Lake Point Tower, 196m
+38.  River East Center, 196m
+39.  Grand Plaza Apartments, 195m
+40.  155 North Wacker, 195m
+41.  Leo Burnett Building, 194m
+42.  The Heritage at Millennium Park, 192m
+43.  NBC Tower, 191m
+44.  353 North Clark, 190m
+45.  Essex on the Park, 189m
+46.  OneEleven, 187m
+47.  Millennium Centre, 186m
+48.  Chicago Place, 185m
+49.  Chicago Board of Trade, 184m
+50.  333 South Wabash, 183m
+51.  One Prudential Plaza, 183m
+52.  Heller International Tower, 183m
+53.  Madison Plaza, 182m
+54.  The Grant, 181m
+55.  1000 Lake Shore Plaza, 180m
+56.  The Clare, 179m
+57.  Citigroup Center, 179m
+58.  Marina City I, 179m
+59.  Marina City II, 179m
+60.  Optima Signature, 179m
+61.  55 East Monroe, 178m
+62.  Crain Communications Building, 177m
+63.  North Pier Apartments, 177m
+64.  Citadel Center, 177m
+65.  The Fordham, 175m
+66.  190 South LaSalle, 175m
+67.  One South Dearborn, 174m
+68.  Onterie Center, 174m
+69.  Loews Chicago Hotel, 173m
+70.  Chicago Temple Building, 173m
+71.  CNA Center, 173m
+72.  Palmolive Building, 172m
+73.  Kluczynski Federal Building, 171m
+74.  Huron Plaza, 171m
+75.  Boeing International Headquarters, 171m
+76.  The Parkshore, 169m
+77.  North Harbor Tower, 169m
+78.  Civic Opera Building, 169m
+79.  Harbor Point, 169m
+80.  Streeter Place, 169m
+81.  Newberry Plaza, 169m
+82.  Michigan Plaza South, 169m
+83.  30 North LaSalle, 169m
+84.  Pittsfield Building, 168m
+85.  One South Wacker, 168m
+86.  Park Millennium, 166m
+87.  AMLI River North, 165m
+88.  The Franklin - South Tower, 164m
+89.  The Pinnacle, 163m
+90.  465 North Park, 163m
+91.  LaSalle National Bank, 163m
+92.  Park Place Tower, 162m
+93.  One North LaSalle Street, 162m
+94.  Elysees Condominiums, 161m
+95.  River Plaza, 160m
+96.  The Paragon Chicago, 159m
+97.  35 East Wacker Drive, 159m
+98.  Kemper Building, 159m
+99.  Mather Tower, 159m
+100. 10 South Wacker, 158m
+101. 30 South Wacker, 158m
+102. The Columbian, 158m
+103. 191 North Wacker Drive, 157m
+104. 401 East Ontario Street, 157m
+105. One Financial Place, 157m
+106. The Streeter, 157m
+107. 600 North Lake Shore Drive - South Tower, 156m
+108. Park Tower Condominiums, 156m
+109. LaSalle-Wacker Building, 156m
+110. 321 North Clark Street, 155m
+111. Harris Bank Bank Addition II, 155m
+112. 215 West, 155m
+113. Carbide & Carbon Building, 153m
+114. 400 East Ohio Street, 153m
+115. One Superior Place, 153m
+116. 120 North LaSalle, 153m
+117. 10 South LaSalle, 153m
+118. The Tides at Lakeshore East, 152m
+119. 200 South Wacker, 152m
+120. Parkview West, 152m
+121. 500 North Lake Shore Drive, 151m
+122. 55 West Monroe, 151m
+123. Ontario Place, 151m
+124. 727 West Madison, 151m
+125. The Ritz-Carlton Residences, 151m
+126. 50 East Chestnut Street, 151m
+127. PNC Centre, 151m
+128. No. 9 Walton, 150m
+129. 235 West Van Buren, 149m
+130. The Bristol, 149m
+131. 333 Wacker Drive, 149m
+132. AT&T South Canal, 148m
+133. Wolf Point West , 148m
+134. The Regatta, 146m
+135. 33 North LaSalle, 146m
+136. 73 East Lake, 146m
+137. Lincoln Park 2550, 146m
+138. Moment, 146m
+139. Bankers Building, 145m
+140. Metropolitan Tower, 145m
+141. Cook County Administration Building, 145m
+142. Plaza 440, 144m
+143. American Furniture Mart, 144m
+144. Hotel InterContinental, 144m
+145. City Place, 143m
+146. Roosevelt University Academic, Student Life Residence Center, 143m
+147. Columbus Plaza, 143m
+148. Coast at Lakeshore East, 142m
+149. The Sterling, 142m
+150. Tribune Tower, 141m
+151. 200 North Dearborn Apartments, 141m
+152. Randolph Tower, 141m
+153. Presidential Towers I, 141m
+154. Presidential Towers II, 141m
+155. Presidential Towers III, 141m
+156. Presidential Towers IV, 141m
+157. The New York, 140m
+158. Chicago Marriott, 140m
+159. The Residences at Grand Plaza, 140m
+160. 600 North Fairbanks, 140m
+161. Swissotel Chicago, 139m
+162. Equitable Building, 139m
+163. Kingsbury Plaza, 139m
+164. 400 North LaSalle, 138m
+165. ABN AMRO Plaza, 138m
+166. 600 North Lake Shore Drive - North Tower, 138m
+167. Residence Inn Chicago Downtown/Loop, 138m
+168. Riverbend Condominiums, 137m
+169. The Shoreham, 137m
+170. Eugenie Terrace on the Park, 137m
+171. Fifth Third Center, 137m
+172. Hubbard Place, 137m
+173. 200 Squared, 137m
+174. Ann & Robert H. Lurie Children's Hospital of Chicago, 136m
+175. 300 South Wacker, 136m
+176. 444 North Michigan, 136m
+177. MILA, 135m
+178. Marriott Marquis Chicago, 135m
+179. Optima Chicago Center, 135m
+180. 1001 South State Street, 134m
+181. Wrigley Building, 134m
+182. Willoughby Tower, 134m
+183. Marquee, 133m
+184. 123 North Wacker, 133m
+185. 180 North LaSalle, 133m
+186. Silver Tower, 132m
+187. 225 West Wacker, 132m
+188. Shirley Ryan AbilityLab, 131m
+189. 1130 South Michigan, 131m
+190. The Gallery On Wells, 131m
+191. McClurg Court Center A, 131m
+192. McClurg Court Center B, 131m
+193. 1555 North Astor, 131m
+194. 225 West Randolph Street, 130m
+195. AMA Building, 130m
+196. Eugenie Square, 130m
+197. 202 West Hill Street, 130m
+198. Fairmont Hotel, 130m
+199. Sky55, 129m
+200. 2020 North Lincoln Park West, 128m
+201. Skybridge, 128m
+202. The Sinclair, 128m
+203. Alta at K Station - East Tower, 127m
+204. 2 East Erie, 126m
+205. Hartford Plaza South, 126m
+206. Northern Trust Building, 126m
+207. 10 East Delaware, 126m
+208. MoMo, 125m
+209. State and Chestnut, 125m
+210. 1100 North Lake Shore Drive, 125m
+211. Museum Tower, 125m
+212. Malibu East, 124m
+213. 200 West Adams, 124m
+214. Two First National Plaza, 124m
+215. Lake Shore Plaza, 123m
+216. 1300 North Lake Shore Drive, 123m
+217. Time-Life Building, 123m
+218. The Montgomery, 123m
+219. Galter Pavilion, 123m
+220. 420 East Ohio, 122m
+221. Buckingham Plaza, 122m
+222. Millennium Park Plaza, 122m
+223. 777 North Michigan, 122m
+224. Avondale Center, 122m
+225. River View II, 122m
+226. James House, 121m
+227. Cityfront Place, 121m
+228. 333 North Michigan, 121m
+229. Metcalfe Federal Building, 121m
+230. The Pearson, 120m
+231. Walton Colonnade, 120m
+232. The Plaza on Dewitt, 120m
+233. 1110 North Lake Shore Drive, 120m
+234. Avenue Hotel, 120m
+235. 150 North Wacker, 120m
+236. 225 West Washington Street, 120m
+237. East Point, 119m
+238. The Chandler, 118m
+239. The Lex, 118m
+240. The Carlyle, 118m
+241. Wells Street Tower, 118m
+242. Forty-One East Eighth, 118m
+243. The Fairbanks at Cityfront Plaza, 118m
+244. Northwestern Medicine 259 East Erie, 117m
+245. The Elm at Clark, 117m
+246. The Wyndham Grand Chicago Riverfront, 117m
+247. 2626 North Lakeview, 117m
+248. 2650 North Lakeview, 117m
+249. Everett McKinley Dirksen United States Courthouse, 117m
+250. Hotel Palomar, 116m
+251. The Aurelien, 116m
+252. Alta at K Station - West Tower, 115m
+253. Outer Drive East, 115m
+254. 1700 East 56th Street, 115m
+255. 1400 Museum Park, 114m
+256. Two Illinois Center, 114m
+257. 33 West Monroe, 114m
+258. 633 North St. Clair, 114m
+259. Astoria Tower, 114m
+260. 2800 North Lake Shore Drive, 113m
+261. Brookdale Plaza, 113m
+262. 303 West Madison, 113m
+263. Arkadia Tower, 112m
+264. Sheraton Chicago Hotel & Towers, 112m
+265. 1720 South Michigan, 112m
+266. The Admiral at the Lake, 112m
+267. Hawthorne House, 112m
+268. 1111 South Wabash, 112m
+269. One East Delaware, 112m
+270. K2 at K Station, 112m
+271. Left Bank at K Station, 111m
+272. Kinzie Park Tower, 111m
+273. Hyatt Regency Chicago West Tower, 111m
+274. Echelon at K Station, 111m
+275. The Chicagoan, 110m
+276. One Illinois Center, 110m
+277. Edgewater Plaza North, 110m
+278. The Allerton Hotel Chicago, 110m
+279. 2 East Oak Street, 110m
+280. Chestnut Tower, 110m
+281. Walton on the Park, 110m
+282. 200 West Jackson, 110m
+283. Regents Park South, 109m
+284. 1600 Museum Park, 109m
+285. Exhibit on Superior, 109m
+286. Alta Roosevelt, 108m
+287. 230 West Monroe Street, 108m
+288. Florsheim Tower, 107m
+289. Malibu Condominiums, 107m
+290. Three Illinois Center, 107m
+291. 625 North Michigan, 107m
+292. LINEA, 106m
+293. Eight O Five, 106m
+294. 33 North Dearborn, 106m
+295. Park Alexandria, 106m
+296. Hyatt Regency Chicago East Tower, 106m
+297. Sofitel Chicago Water Tower, 106m
+298. Drake Tower, 106m
+299. Edgewater Plaza South, 106m
+300. Eleven40, 105m
+301. Hyatt Regency McCormick Place, 105m
+302. 222 North LaSalle, 104m
+303. Regents Park North, 104m
+304. Chicago Hilton & Towers, 104m
+305. Merchandise Mart, 104m
+306. 3150 North Lake Shore Drive, 103m
+307. 1550 North Lake Shore Drive Apartments, 103m
+308. University Hall, 103m
+309. 200 East Delaware, 102m
+310. Century Tower, 102m
+311. Loop Transportation Center, 102m
+312. Elm Street Plaza, 102m
+313. Michigan Plaza North, 102m
+314. 990 North Lake Shore Drive, 102m
+315. Transunion Building, 102m
+316. 1212 North Lake Shore Drive, 102m
+317. 2500 North Lakeview, 102m
+318. 55 East Jackson, 102m
+319. Arkes Family Pavilion, 101m
+320. Inland Steel Building, 101m
+321. Concord City Centre, 101m
+322. Gold Coast Galleria, 101m
+323. 525 West Monroe Street, 101m
+324. ADA Building, 101m
+325. Museum Park Place 2, 100m
+326. South Shore Beach Apartments, 100m
+327. 840 North Lake Shore Drive, 100m
+328. Michigan Terrace Condominiums, 100m
+329. 1240 North Lake Shore Drive, 100m
+330. 530 North Lake Shore Drive, 100m
+331. 500 North Michigan Avenue, 99m
+332. The Breakers at Edgewater Beach, 99m
+333. 101 North Wacker, 99m
+334. Apparel Center, 99m
+335. Old Republic Building, 99m
+336. The Lancaster, 99m
+337. Vetro, 99m
+338. Harris Bank Addition I, 98m
+339. Americana Towers, 98m
+340. 1212 South Michigan, 98m
+341. River View I, 98m
+342. 1133 North Dearborn, 98m
+343. The Cooper, 98m
+344. Westin Michigan Avenue, 98m
+345. Gateway Center IV, 98m
+346. 1 North Dearborn, 98m
+347. LondonHouse Chicago, 97m
+348. Courtyard Chicago Magnificent Mile, 97m
+349. 100 Bellevue Place, 96m
+350. 2 North LaSalle Street, 96m
+351. Prentice Women's Hospital, 96m
+352. The Parker, 96m
+353. 100 West Chestnut, 96m
+354. 1000 South Clark, 96m
+355. Michigan Avenue Tower I, 96m
+356. McCormick Building, 96m
+357. Burnham Pointe, 96m
+358. 777 South State, 95m
+359. 550 St. Clair, 95m
+360. Hilton Suites Chicago, 95m
+361. theWit Hotel, 95m
+362. Michigan Avenue Tower II, 95m
+363. Hilton Homewood Suites and Wabash Suites Hotel, 95m
+364. EnV, 94m
+365. James R. Thompson Center, 94m
+366. Landmark West Loop, 94m
+367. 65 East Wacker Place, 94m
+368. Socony-Vacuum Building, 93m
+369. SoNo West Tower, 93m
+370. 625 West Adams, 93m
+371. Hyatt Centric The Loop Chicago, 93m
+372. 1136-1140 South Wabash Avenue, 92m
+373. The National, 92m
+374. Riverside Plaza, 92m
+375. 120 South LaSalle, 92m
+376. 231 South LaSalle , 92m
+377. Michigan Avenue Lofts, 92m
+378. People's Gas Building, 92m
+379. 1111 North Dearborn, 92m
+380. Kingsbury on the Park, 92m
+381. Lake-Michigan Building, 92m
+382. Loop Center Building, 92m
+383. 4 East Elm Street, 92m
+384. Virgin Hotels Chicago, 91m
+385. Cambria Hotel Chicago Loop Theatre District, 91m
+386. Burnham Center, 91m
+387. Michigan Boulevard Building, 91m
+388. NEXT, 91m
+389. Gr333N, 91m
+390. Astor Tower, 91m
+391. W Hotel Chicago Lakeshore, 91m
+392. River North Marriott Suites, 91m
+393. Feinberg Pavillion, 91m
+394. Bel Harbour, 91m
+395. 1600 East 53rd Street, 90m
+396. Lawyers Building, 90m
+397. Noble Square Co-op, 90m
+398. North American Building, 90m
+399. Harris Bank Building, 90m
+400. Garland Building, 90m
+401. Wrigley Building North Addition, 90m
+402. 3Eleven, 89m
+403. 8 East Huron, 89m
+404. Marquee Michigan Avenue, 89m
+405. Erie on the Park, 89m
+406. 1418 North Lake Shore Drive, 89m
+407. Randolph-Wells Building, 89m
+408. Consumers Building, 89m
+409. Renaissance Blackstone, 88m
+410. Astor House, 88m
+411. MDA City Apartments, 88m
+412. One Triple Three, 88m
+413. Museum Pointe, 88m
+414. Metropolitan Correctional Center, 88m
+415. 5000 East End Building, 88m
+416. 208 South LaSalle Street, 87m
+417. Solstice on the Park, 87m
+418. Renaissance Chicago Downtown Hotel, 87m
+419. Lake Vista Apartments North, 87m
+420. Mallers Building, 87m
+421. Eight Eleven Uptown, 87m
+422. 525 Hawthorne, 87m
+423. CDW Plaza, 87m
+424. Transportation Building, 87m
+425. Horizon House, 87m
+426. Majestic Building, 86m
+427. 29 East Madison Street, 86m
+428. 200 West Monroe, 85m
+429. 640 North Wells Street, 85m
+430. Museum Park Tower I, 85m
+431. Metropolitan Block, 85m
+432. Ward Memorial Building, 85m
+433. Lake Park Plaza, 85m
+434. Cornell Village, 84m
+435. River Place on the Park, 84m
+436. 22 West Washington, 84m
+437. 3150 North Sheridan, 84m
+438. Chicago Board of Trade Addition, 84m
+439. Fisher Building, 84m
+440. Loyola University Tower, 84m
+441. Chicago Athletic Association Annex, 84m
+442. The Newport North Tower, 84m
+443. The Newport South Tower, 84m
+444. Borg-Warner Building, 84m
+445. Macy's at State Street, 83m
+446. Quadrangle House, 83m
+447. Jones , 83m
+448. The Bernardin, 83m
+449. Admiral's Point, 83m
+450. State of Illinois Building, 83m
+451. Prairie Pointe, 83m
+452. Hollywood Towers North, 82m
+453. Hollywood Towers South, 82m
+454. 860 North Lake Shore Drive, 82m
+455. 880 North Lake Shore Drive, 82m
+456. The Powhatan, 82m
+457. 734 North Milwaukee, 81m
+458. 14 East Jackson Boulevard, 81m
+459. Criminal Courts Administration Building, 81m
+460. Rehabilitation Institute of Chicago, 80m
+461. 1401 South State , 80m
+462. Pearson on the Park, 80m
+463. Century Building, 80m
+464. The Hudson, 80m
+465. Hubbard 221, 80m
+466. Palmer House, 80m
+467. Hermitage on Huron, 80m
+468. Esplanade Apartments I, 79m
+469. Esplanade Apartments II, 79m
+470. Harper Square Cooperative - North Tower, 79m
+471. Harper Square Cooperative - South Tower, 79m
+472. Hilton Garden Inn Chicago Downtown/Magnificent Mile, 79m
+473. Santa Fe Building, 79m
+474. Museum Park Place 1, 79m
+475. 899 South Plymouth Court, 79m
+476. Lake Village East, 79m
+477. 55 West Wacker, 78m
+478. 1410 North State Parkway, 78m
+479. AMLI 900, 78m
+480. 2101 South Michigan, 78m
+481. 205 West Wacker, 78m
+482. Barclay Condominiums, 78m
+483. Cambridge Manor, 78m
+484. Hilton Garden Inn Chicago North Loop, 77m
+485. Wolberg Hall, 77m
+486. Commonwealth Promenade I, 77m
+487. Commonwealth Promenade II, 77m
+488. Rush University Medical Center Hospital Tower, 77m
+489. Hampton Inn / Homewood Suites Chicago Downtown West Loop, 77m
+490. Narragansett Apartments, 77m
+491. 123 East Cermak, 76m
+492. Westin River North, 76m
+493. Hotel EMC2, 75m
+
+******************** DETAILS ********************
+
+*** Chicago ***
+Country: United States
+Region: North America
+493 towers: Willis Tower, Trump International Hotel & Tower, Vista Tower, 875 North Michigan Avenue, The Franklin - North Tower, Two Prudential Plaza, 311 South Wacker Drive, NEMA Chicago, 900 North Michigan Avenue, Chase Tower, Water Tower Place, Aqua at Lakeshore East, Park Tower, One Bennett Park, The Legacy at Millennium Park, Bank of America Tower, 300 North LaSalle, Three First National Plaza, Grant Thornton Tower, Blue Cross-Blue Shield Tower, River Point, Olympia Centre, One Museum Park, 150 North Riverside, AMA Plaza, Waldorf Astoria Chicago, 111 South Wacker, 181 West Madison, 71 South Wacker, One Magnificent Mile, 340 on the Park, 77 West Wacker Drive, Wolf Point East Tower, UBS Tower, Richard J. Daley Center, 55 East Erie, Lake Point Tower, River East Center, Grand Plaza Apartments, 155 North Wacker, Leo Burnett Building, The Heritage at Millennium Park, NBC Tower, 353 North Clark, Essex on the Park, OneEleven, Millennium Centre, Chicago Place, Chicago Board of Trade, 333 South Wabash, One Prudential Plaza, Heller International Tower, Madison Plaza, The Grant, 1000 Lake Shore Plaza, The Clare, Citigroup Center, Marina City I, Marina City II, Optima Signature, 55 East Monroe, Crain Communications Building, North Pier Apartments, Citadel Center, The Fordham, 190 South LaSalle, One South Dearborn, Onterie Center, Loews Chicago Hotel, Chicago Temple Building, CNA Center, Palmolive Building, Kluczynski Federal Building, Huron Plaza, Boeing International Headquarters, The Parkshore, North Harbor Tower, Civic Opera Building, Harbor Point, Streeter Place, Newberry Plaza, Michigan Plaza South, 30 North LaSalle, Pittsfield Building, One South Wacker, Park Millennium, AMLI River North, The Franklin - South Tower, The Pinnacle, 465 North Park, LaSalle National Bank, Park Place Tower, One North LaSalle Street, Elysees Condominiums, River Plaza, The Paragon Chicago, 35 East Wacker Drive, Kemper Building, Mather Tower, 10 South Wacker, 30 South Wacker, The Columbian, 191 North Wacker Drive, 401 East Ontario Street, One Financial Place, The Streeter, 600 North Lake Shore Drive - South Tower, Park Tower Condominiums, LaSalle-Wacker Building, 321 North Clark Street, Harris Bank Bank Addition II, 215 West, Carbide & Carbon Building, 400 East Ohio Street, One Superior Place, 120 North LaSalle, 10 South LaSalle, The Tides at Lakeshore East, 200 South Wacker, Parkview West, 500 North Lake Shore Drive, 55 West Monroe, Ontario Place, 727 West Madison, The Ritz-Carlton Residences, 50 East Chestnut Street, PNC Centre, No. 9 Walton, 235 West Van Buren, The Bristol, 333 Wacker Drive, AT&T South Canal, Wolf Point West , The Regatta, 33 North LaSalle, 73 East Lake, Lincoln Park 2550, Moment, Bankers Building, Metropolitan Tower, Cook County Administration Building, Plaza 440, American Furniture Mart, Hotel InterContinental, City Place, Roosevelt University Academic, Student Life Residence Center, Columbus Plaza, Coast at Lakeshore East, The Sterling, Tribune Tower, 200 North Dearborn Apartments, Randolph Tower, Presidential Towers I, Presidential Towers II, Presidential Towers III, Presidential Towers IV, The New York, Chicago Marriott, The Residences at Grand Plaza, 600 North Fairbanks, Swissotel Chicago, Equitable Building, Kingsbury Plaza, 400 North LaSalle, ABN AMRO Plaza, 600 North Lake Shore Drive - North Tower, Residence Inn Chicago Downtown/Loop, Riverbend Condominiums, The Shoreham, Eugenie Terrace on the Park, Fifth Third Center, Hubbard Place, 200 Squared, Ann & Robert H. Lurie Children's Hospital of Chicago, 300 South Wacker, 444 North Michigan, MILA, Marriott Marquis Chicago, Optima Chicago Center, 1001 South State Street, Wrigley Building, Willoughby Tower, Marquee, 123 North Wacker, 180 North LaSalle, Silver Tower, 225 West Wacker, Shirley Ryan AbilityLab, 1130 South Michigan, The Gallery On Wells, McClurg Court Center A, McClurg Court Center B, 1555 North Astor, 225 West Randolph Street, AMA Building, Eugenie Square, 202 West Hill Street, Fairmont Hotel, Sky55, 2020 North Lincoln Park West, Skybridge, The Sinclair, Alta at K Station - East Tower, 2 East Erie, Hartford Plaza South, Northern Trust Building, 10 East Delaware, MoMo, State and Chestnut, 1100 North Lake Shore Drive, Museum Tower, Malibu East, 200 West Adams, Two First National Plaza, Lake Shore Plaza, 1300 North Lake Shore Drive, Time-Life Building, The Montgomery, Galter Pavilion, 420 East Ohio, Buckingham Plaza, Millennium Park Plaza, 777 North Michigan, Avondale Center, River View II, James House, Cityfront Place, 333 North Michigan, Metcalfe Federal Building, The Pearson, Walton Colonnade, The Plaza on Dewitt, 1110 North Lake Shore Drive, Avenue Hotel, 150 North Wacker, 225 West Washington Street, East Point, The Chandler, The Lex, The Carlyle, Wells Street Tower, Forty-One East Eighth, The Fairbanks at Cityfront Plaza, Northwestern Medicine 259 East Erie, The Elm at Clark, The Wyndham Grand Chicago Riverfront, 2626 North Lakeview, 2650 North Lakeview, Everett McKinley Dirksen United States Courthouse, Hotel Palomar, The Aurelien, Alta at K Station - West Tower, Outer Drive East, 1700 East 56th Street, 1400 Museum Park, Two Illinois Center, 33 West Monroe, 633 North St. Clair, Astoria Tower, 2800 North Lake Shore Drive, Brookdale Plaza, 303 West Madison, Arkadia Tower, Sheraton Chicago Hotel & Towers, 1720 South Michigan, The Admiral at the Lake, Hawthorne House, 1111 South Wabash, One East Delaware, K2 at K Station, Left Bank at K Station, Kinzie Park Tower, Hyatt Regency Chicago West Tower, Echelon at K Station, The Chicagoan, One Illinois Center, Edgewater Plaza North, The Allerton Hotel Chicago, 2 East Oak Street, Chestnut Tower, Walton on the Park, 200 West Jackson, Regents Park South, 1600 Museum Park, Exhibit on Superior, Alta Roosevelt, 230 West Monroe Street, Florsheim Tower, Malibu Condominiums, Three Illinois Center, 625 North Michigan, LINEA, Eight O Five, 33 North Dearborn, Park Alexandria, Hyatt Regency Chicago East Tower, Sofitel Chicago Water Tower, Drake Tower, Edgewater Plaza South, Eleven40, Hyatt Regency McCormick Place, 222 North LaSalle, Regents Park North, Chicago Hilton & Towers, Merchandise Mart, 3150 North Lake Shore Drive, 1550 North Lake Shore Drive Apartments, University Hall, 200 East Delaware, Century Tower, Loop Transportation Center, Elm Street Plaza, Michigan Plaza North, 990 North Lake Shore Drive, Transunion Building, 1212 North Lake Shore Drive, 2500 North Lakeview, 55 East Jackson, Arkes Family Pavilion, Inland Steel Building, Concord City Centre, Gold Coast Galleria, 525 West Monroe Street, ADA Building, Museum Park Place 2, South Shore Beach Apartments, 840 North Lake Shore Drive, Michigan Terrace Condominiums, 1240 North Lake Shore Drive, 530 North Lake Shore Drive, 500 North Michigan Avenue, The Breakers at Edgewater Beach, 101 North Wacker, Apparel Center, Old Republic Building, The Lancaster, Vetro, Harris Bank Addition I, Americana Towers, 1212 South Michigan, River View I, 1133 North Dearborn, The Cooper, Westin Michigan Avenue, Gateway Center IV, 1 North Dearborn, LondonHouse Chicago, Courtyard Chicago Magnificent Mile, 100 Bellevue Place, 2 North LaSalle Street, Prentice Women's Hospital, The Parker, 100 West Chestnut, 1000 South Clark, Michigan Avenue Tower I, McCormick Building, Burnham Pointe, 777 South State, 550 St. Clair, Hilton Suites Chicago, theWit Hotel, Michigan Avenue Tower II, Hilton Homewood Suites and Wabash Suites Hotel, EnV, James R. Thompson Center, Landmark West Loop, 65 East Wacker Place, Socony-Vacuum Building, SoNo West Tower, 625 West Adams, Hyatt Centric The Loop Chicago, 1136-1140 South Wabash Avenue, The National, Riverside Plaza, 120 South LaSalle, 231 South LaSalle , Michigan Avenue Lofts, People's Gas Building, 1111 North Dearborn, Kingsbury on the Park, Lake-Michigan Building, Loop Center Building, 4 East Elm Street, Virgin Hotels Chicago, Cambria Hotel Chicago Loop Theatre District, Burnham Center, Michigan Boulevard Building, NEXT, Gr333N, Astor Tower, W Hotel Chicago Lakeshore, River North Marriott Suites, Feinberg Pavillion, Bel Harbour, 1600 East 53rd Street, Lawyers Building, Noble Square Co-op, North American Building, Harris Bank Building, Garland Building, Wrigley Building North Addition, 3Eleven, 8 East Huron, Marquee Michigan Avenue, Erie on the Park, 1418 North Lake Shore Drive, Randolph-Wells Building, Consumers Building, Renaissance Blackstone, Astor House, MDA City Apartments, One Triple Three, Museum Pointe, Metropolitan Correctional Center, 5000 East End Building, 208 South LaSalle Street, Solstice on the Park, Renaissance Chicago Downtown Hotel, Lake Vista Apartments North, Mallers Building, Eight Eleven Uptown, 525 Hawthorne, CDW Plaza, Transportation Building, Horizon House, Majestic Building, 29 East Madison Street, 200 West Monroe, 640 North Wells Street, Museum Park Tower I, Metropolitan Block, Ward Memorial Building, Lake Park Plaza, Cornell Village, River Place on the Park, 22 West Washington, 3150 North Sheridan, Chicago Board of Trade Addition, Fisher Building, Loyola University Tower, Chicago Athletic Association Annex, The Newport North Tower, The Newport South Tower, Borg-Warner Building, Macy's at State Street, Quadrangle House, Jones , The Bernardin, Admiral's Point, State of Illinois Building, Prairie Pointe, Hollywood Towers North, Hollywood Towers South, 860 North Lake Shore Drive, 880 North Lake Shore Drive, The Powhatan, 734 North Milwaukee, 14 East Jackson Boulevard, Criminal Courts Administration Building, Rehabilitation Institute of Chicago, 1401 South State , Pearson on the Park, Century Building, The Hudson, Hubbard 221, Palmer House, Hermitage on Huron, Esplanade Apartments I, Esplanade Apartments II, Harper Square Cooperative - North Tower, Harper Square Cooperative - South Tower, Hilton Garden Inn Chicago Downtown/Magnificent Mile, Santa Fe Building, Museum Park Place 1, 899 South Plymouth Court, Lake Village East, 55 West Wacker, 1410 North State Parkway, AMLI 900, 2101 South Michigan, 205 West Wacker, Barclay Condominiums, Cambridge Manor, Hilton Garden Inn Chicago North Loop, Wolberg Hall, Commonwealth Promenade I, Commonwealth Promenade II, Rush University Medical Center Hospital Tower, Hampton Inn / Homewood Suites Chicago Downtown West Loop, Narragansett Apartments, 123 East Cermak, Westin River North, Hotel EMC2
+Tiers: I: 199, II: 167, III: 102, IV: 19, V: 4, VI: 2
+Rating: 1107 (3.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Willis Tower ***
+Height: 442.14
+Floors: 108
+Status: Completed
+Started: 1970
+Completed: 1974
+Functions: office
+Rank: 1
+
+*** Trump International Hotel & Tower ***
+Height: 423.22
+Floors: 98
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / hotel
+Rank: 2
+
+*** Vista Tower ***
+Height: 362.91
+Floors: 101
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential / hotel
+Rank: 3
+
+*** 875 North Michigan Avenue ***
+Height: 343.69
+Floors: 100
+Status: Completed
+Started: 1965
+Completed: 1969
+Functions: residential / office
+Rank: 4
+
+*** The Franklin - North Tower ***
+Height: 306.94
+Floors: 60
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: office
+Rank: 5
+
+*** Two Prudential Plaza ***
+Height: 303.28
+Floors: 64
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 6
+
+*** 311 South Wacker Drive ***
+Height: 292.92
+Floors: 65
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 7
+
+*** NEMA Chicago ***
+Height: 273.1
+Floors: 76
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 8
+
+*** 900 North Michigan Avenue ***
+Height: 265
+Floors: 66
+Status: Completed
+Completed: 1989
+Functions: residential / residential / office / hotel
+Rank: 9
+
+*** Chase Tower ***
+Height: 264.6
+Floors: 61
+Status: Completed
+Started: 1966
+Completed: 1969
+Functions: office
+Rank: 10
+
+*** Water Tower Place ***
+Height: 261.88
+Floors: 74
+Status: Completed
+Started: 1972
+Completed: 1976
+Functions: residential / hotel / retail
+Rank: 11
+
+*** Aqua at Lakeshore East ***
+Height: 261.75
+Floors: 86
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / hotel
+Rank: 12
+
+*** Park Tower ***
+Height: 257.35
+Floors: 68
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential / hotel
+Rank: 13
+
+*** One Bennett Park ***
+Height: 255.17
+Floors: 67
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 14
+
+*** The Legacy at Millennium Park ***
+Height: 249.33
+Floors: 73
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 15
+
+*** Bank of America Tower ***
+Height: 248.97
+Floors: 56
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 16
+
+*** 300 North LaSalle ***
+Height: 239.12
+Floors: 60
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 17
+
+*** Three First National Plaza ***
+Height: 233.65
+Floors: 57
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 18
+
+*** Grant Thornton Tower ***
+Height: 230.48
+Floors: 50
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 19
+
+*** Blue Cross-Blue Shield Tower ***
+Height: 226.72
+Floors: 54
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 20
+
+*** River Point ***
+Height: 223
+Floors: 52
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 21
+
+*** Olympia Centre ***
+Height: 222.9
+Floors: 63
+Status: Completed
+Started: 1981
+Completed: 1986
+Functions: residential / office
+Rank: 22
+
+*** One Museum Park ***
+Height: 221.34
+Floors: 62
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 23
+
+*** 150 North Riverside ***
+Height: 220.76
+Floors: 51
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 24
+
+*** AMA Plaza ***
+Height: 211.84
+Floors: 52
+Status: Completed
+Started: 1971
+Completed: 1972
+Functions: office
+Rank: 25
+
+*** Waldorf Astoria Chicago ***
+Height: 209
+Floors: 60
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / hotel
+Rank: 26
+
+*** 111 South Wacker ***
+Height: 207.64
+Floors: 51
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 27
+
+*** 181 West Madison ***
+Height: 207.27
+Floors: 50
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 28
+
+*** 71 South Wacker ***
+Height: 207.1
+Floors: 48
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 29
+
+*** One Magnificent Mile ***
+Height: 205.13
+Floors: 57
+Status: Completed
+Completed: 1983
+Functions: residential / office
+Rank: 30
+
+*** 340 on the Park ***
+Height: 204.9
+Floors: 64
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 31
+
+*** 77 West Wacker Drive ***
+Height: 203.61
+Floors: 49
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 32
+
+*** Wolf Point East Tower ***
+Height: 203.53
+Floors: 60
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 33
+
+*** UBS Tower ***
+Height: 198.58
+Floors: 50
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 34
+
+*** Richard J. Daley Center ***
+Height: 197.51
+Floors: 31
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 35
+
+*** 55 East Erie ***
+Height: 197.15
+Floors: 56
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 36
+
+*** Lake Point Tower ***
+Height: 196.45
+Floors: 70
+Status: Completed
+Started: 1965
+Completed: 1968
+Functions: residential
+Rank: 37
+
+*** River East Center ***
+Height: 196.29
+Floors: 58
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 38
+
+*** Grand Plaza Apartments ***
+Height: 195.38
+Floors: 57
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 39
+
+*** 155 North Wacker ***
+Height: 194.57
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 40
+
+*** Leo Burnett Building ***
+Height: 193.55
+Floors: 46
+Status: Completed
+Started: 1986
+Completed: 1989
+Functions: office
+Rank: 41
+
+*** The Heritage at Millennium Park ***
+Height: 192.38
+Floors: 57
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 42
+
+*** NBC Tower ***
+Height: 191.11
+Floors: 37
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 43
+
+*** 353 North Clark ***
+Height: 189.99
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 44
+
+*** Essex on the Park ***
+Height: 188.98
+Floors: 57
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 45
+
+*** OneEleven ***
+Height: 186.77
+Floors: 58
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 46
+
+*** Millennium Centre ***
+Height: 185.91
+Floors: 58
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 47
+
+*** Chicago Place ***
+Height: 185.32
+Floors: 49
+Status: Completed
+Completed: 1991
+Functions: residential / retail
+Rank: 48
+
+*** Chicago Board of Trade ***
+Height: 184.41
+Floors: 44
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: office
+Rank: 49
+
+*** 333 South Wabash ***
+Height: 183.19
+Floors: 44
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: office
+Rank: 50
+
+*** One Prudential Plaza ***
+Height: 183.19
+Floors: 41
+Status: Completed
+Started: 1952
+Completed: 1955
+Functions: office
+Rank: 51
+
+*** Heller International Tower ***
+Height: 182.86
+Floors: 45
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 52
+
+*** Madison Plaza ***
+Height: 182.46
+Floors: 44
+Status: Completed
+Started: 1981
+Completed: 1982
+Functions: office
+Rank: 53
+
+*** The Grant ***
+Height: 181.3
+Floors: 54
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 54
+
+*** 1000 Lake Shore Plaza ***
+Height: 179.83
+Floors: 55
+Status: Completed
+Completed: 1964
+Functions: residential
+Rank: 55
+
+*** The Clare ***
+Height: 179.48
+Floors: 53
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 56
+
+*** Citigroup Center ***
+Height: 179.23
+Floors: 42
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: office
+Rank: 57
+
+*** Marina City I ***
+Height: 179.22
+Floors: 61
+Status: Completed
+Started: 1960
+Completed: 1964
+Functions: residential
+Rank: 58
+
+*** Marina City II ***
+Height: 179.22
+Floors: 61
+Status: Completed
+Started: 1960
+Completed: 1964
+Functions: residential
+Rank: 58
+
+*** Optima Signature ***
+Height: 178.9
+Floors: 57
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 60
+
+*** 55 East Monroe ***
+Height: 177.62
+Floors: 49
+Status: Completed
+Completed: 2013
+Functions: residential / office
+Rank: 61
+
+*** Crain Communications Building ***
+Height: 177.4
+Floors: 41
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: office
+Rank: 62
+
+*** North Pier Apartments ***
+Height: 177.09
+Floors: 61
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 63
+
+*** Citadel Center ***
+Height: 176.84
+Floors: 39
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 64
+
+*** The Fordham ***
+Height: 174.81
+Floors: 52
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 65
+
+*** 190 South LaSalle ***
+Height: 174.65
+Floors: 40
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 66
+
+*** One South Dearborn ***
+Height: 173.94
+Floors: 39
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 67
+
+*** Onterie Center ***
+Height: 173.74
+Floors: 58
+Status: Completed
+Completed: 1986
+Functions: residential / office
+Rank: 68
+
+*** Loews Chicago Hotel ***
+Height: 173.43
+Floors: 54
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / hotel
+Rank: 69
+
+*** Chicago Temple Building ***
+Height: 173.13
+Floors: 23
+Status: Completed
+Started: 1922
+Completed: 1924
+Functions: office / religious
+Rank: 70
+
+*** CNA Center ***
+Height: 173.1
+Floors: 36
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 71
+
+*** Palmolive Building ***
+Height: 172.21
+Floors: 37
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: office
+Rank: 72
+
+*** Kluczynski Federal Building ***
+Height: 171.3
+Floors: 42
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 73
+
+*** Huron Plaza ***
+Height: 170.69
+Floors: 56
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 74
+
+*** Boeing International Headquarters ***
+Height: 170.69
+Floors: 36
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 75
+
+*** The Parkshore ***
+Height: 169.47
+Floors: 56
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 76
+
+*** North Harbor Tower ***
+Height: 169.47
+Floors: 55
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 77
+
+*** Civic Opera Building ***
+Height: 169.17
+Floors: 45
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: office / other
+Rank: 78
+
+*** Harbor Point ***
+Height: 169
+Floors: 54
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 79
+
+*** Streeter Place ***
+Height: 168.76
+Floors: 55
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 80
+
+*** Newberry Plaza ***
+Height: 168.56
+Floors: 53
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: residential
+Rank: 81
+
+*** Michigan Plaza South ***
+Height: 168.56
+Floors: 46
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 82
+
+*** 30 North LaSalle ***
+Height: 168.56
+Floors: 44
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 83
+
+*** Pittsfield Building ***
+Height: 167.97
+Floors: 38
+Status: Completed
+Started: 1926
+Completed: 1927
+Functions: office
+Rank: 84
+
+*** One South Wacker ***
+Height: 167.64
+Floors: 40
+Status: Completed
+Started: 1979
+Completed: 1982
+Functions: office
+Rank: 85
+
+*** Park Millennium ***
+Height: 165.88
+Floors: 57
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 86
+
+*** AMLI River North ***
+Height: 165.48
+Floors: 49
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 87
+
+*** The Franklin - South Tower ***
+Height: 163.91
+Floors: 35
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 88
+
+*** The Pinnacle ***
+Height: 163.07
+Floors: 48
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 89
+
+*** 465 North Park ***
+Height: 163.07
+Floors: 47
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 90
+
+*** LaSalle National Bank ***
+Height: 163.07
+Floors: 45
+Status: Completed
+Started: 1931
+Completed: 1934
+Functions: office
+Rank: 91
+
+*** Park Place Tower ***
+Height: 161.85
+Floors: 56
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 92
+
+*** One North LaSalle Street ***
+Height: 161.55
+Floors: 48
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: office
+Rank: 93
+
+*** Elysees Condominiums ***
+Height: 161.24
+Floors: 56
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: residential / retail
+Rank: 94
+
+*** River Plaza ***
+Height: 159.72
+Floors: 56
+Status: Completed
+Completed: 1977
+Functions: residential
+Rank: 95
+
+*** The Paragon Chicago ***
+Height: 159.41
+Floors: 48
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 96
+
+*** 35 East Wacker Drive ***
+Height: 159.41
+Floors: 40
+Status: Completed
+Started: 1925
+Completed: 1927
+Functions: office
+Rank: 97
+
+*** Kemper Building ***
+Height: 159.11
+Floors: 41
+Status: Completed
+Started: 1960
+Completed: 1962
+Functions: office
+Rank: 98
+
+*** Mather Tower ***
+Height: 158.9
+Floors: 38
+Status: Completed
+Started: 1926
+Completed: 1928
+Functions: office
+Rank: 99
+
+*** 10 South Wacker ***
+Height: 158.5
+Floors: 40
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 100
+
+*** 30 South Wacker ***
+Height: 158.5
+Floors: 40
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: office
+Rank: 100
+
+*** The Columbian ***
+Height: 157.66
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 102
+
+*** 191 North Wacker Drive ***
+Height: 157.41
+Floors: 37
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 103
+
+*** 401 East Ontario Street ***
+Height: 156.97
+Floors: 51
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 104
+
+*** One Financial Place ***
+Height: 156.97
+Floors: 39
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 105
+
+*** The Streeter ***
+Height: 156.67
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 106
+
+*** 600 North Lake Shore Drive - South Tower ***
+Height: 156.36
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 107
+
+*** Park Tower Condominiums ***
+Height: 156.31
+Floors: 54
+Status: Completed
+Started: 1971
+Completed: 1973
+Functions: residential
+Rank: 108
+
+*** LaSalle-Wacker Building ***
+Height: 156.06
+Floors: 41
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: office
+Rank: 109
+
+*** 321 North Clark Street ***
+Height: 155.45
+Floors: 38
+Status: Completed
+Started: 1983
+Completed: 1987
+Functions: office
+Rank: 110
+
+*** Harris Bank Bank Addition II ***
+Height: 155.45
+Floors: 35
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: office
+Rank: 111
+
+*** 215 West ***
+Height: 155.06
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 112
+
+*** Carbide & Carbon Building ***
+Height: 153.32
+Floors: 37
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: office
+Rank: 113
+
+*** 400 East Ohio Street ***
+Height: 153.3
+Floors: 50
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 114
+
+*** One Superior Place ***
+Height: 152.91
+Floors: 52
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential
+Rank: 115
+
+*** 120 North LaSalle ***
+Height: 152.71
+Floors: 39
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 116
+
+*** 10 South LaSalle ***
+Height: 152.71
+Floors: 37
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 117
+
+*** The Tides at Lakeshore East ***
+Height: 152.35
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 118
+
+*** 200 South Wacker ***
+Height: 152.3
+Floors: 41
+Status: Completed
+Started: 1979
+Completed: 1981
+Functions: office
+Rank: 119
+
+*** Parkview West ***
+Height: 151.64
+Floors: 49
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 120
+
+*** 500 North Lake Shore Drive ***
+Height: 151.49
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 121
+
+*** 55 West Monroe ***
+Height: 150.92
+Floors: 41
+Status: Completed
+Started: 1977
+Completed: 1980
+Functions: office
+Rank: 122
+
+*** Ontario Place ***
+Height: 150.88
+Floors: 49
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: residential
+Rank: 123
+
+*** 727 West Madison ***
+Height: 150.88
+Floors: 44
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 124
+
+*** The Ritz-Carlton Residences ***
+Height: 150.85
+Floors: 40
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 125
+
+*** 50 East Chestnut Street ***
+Height: 150.73
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 126
+
+*** PNC Centre ***
+Height: 150.54
+Floors: 36
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 127
+
+*** No. 9 Walton ***
+Height: 149.76
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 128
+
+*** 235 West Van Buren ***
+Height: 149.41
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 129
+
+*** The Bristol ***
+Height: 148.74
+Floors: 42
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 130
+
+*** 333 Wacker Drive ***
+Height: 148.57
+Floors: 36
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 131
+
+*** AT&T South Canal ***
+Height: 147.83
+Floors: 28
+Status: Completed
+Started: 1968
+Completed: 1971
+Functions: office / telecommunications
+Rank: 132
+
+*** Wolf Point West  ***
+Height: 147.77
+Floors: 48
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 133
+
+*** The Regatta ***
+Height: 146.45
+Floors: 45
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 134
+
+*** 33 North LaSalle ***
+Height: 146
+Floors: 38
+Status: Completed
+Started: 1928
+Completed: 1930
+Functions: office
+Rank: 135
+
+*** 73 East Lake ***
+Height: 145.54
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 136
+
+*** Lincoln Park 2550 ***
+Height: 145.54
+Floors: 39
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 137
+
+*** Moment ***
+Height: 145.5
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 138
+
+*** Bankers Building ***
+Height: 145.09
+Floors: 41
+Status: Completed
+Started: 1926
+Completed: 1927
+Functions: office
+Rank: 139
+
+*** Metropolitan Tower ***
+Height: 144.78
+Floors: 37
+Status: Completed
+Started: 1923
+Completed: 1924
+Functions: office
+Rank: 140
+
+*** Cook County Administration Building ***
+Height: 144.78
+Floors: 35
+Status: Completed
+Started: 1962
+Completed: 1964
+Functions: office
+Rank: 141
+
+*** Plaza 440 ***
+Height: 144.48
+Floors: 49
+Status: Completed
+Completed: 1991
+Functions: residential / hotel
+Rank: 142
+
+*** American Furniture Mart ***
+Height: 144.48
+Floors: 29
+Status: Completed
+Started: 1922
+Completed: 1926
+Functions: office
+Rank: 143
+
+*** Hotel InterContinental ***
+Height: 143.56
+Floors: 42
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: hotel
+Rank: 144
+
+*** City Place ***
+Height: 143.26
+Floors: 40
+Status: Completed
+Completed: 1990
+Functions: office / hotel
+Rank: 145
+
+*** Roosevelt University Academic, Student Life Residence Center ***
+Height: 143
+Floors: 32
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential / education / office
+Rank: 146
+
+*** Columbus Plaza ***
+Height: 142.65
+Floors: 47
+Status: Completed
+Started: 1978
+Completed: 1980
+Functions: residential
+Rank: 147
+
+*** Coast at Lakeshore East ***
+Height: 142.22
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 148
+
+*** The Sterling ***
+Height: 142.04
+Floors: 49
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: residential / retail
+Rank: 149
+
+*** Tribune Tower ***
+Height: 141.12
+Floors: 34
+Status: Completed
+Started: 1922
+Completed: 1925
+Functions: office
+Rank: 150
+
+*** 200 North Dearborn Apartments ***
+Height: 141.07
+Floors: 47
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: residential
+Rank: 151
+
+*** Randolph Tower ***
+Height: 141.02
+Floors: 45
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 152
+
+*** Presidential Towers I ***
+Height: 140.6
+Floors: 49
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: residential
+Rank: 153
+
+*** Presidential Towers II ***
+Height: 140.6
+Floors: 49
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: residential
+Rank: 153
+
+*** Presidential Towers III ***
+Height: 140.6
+Floors: 49
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: residential
+Rank: 153
+
+*** Presidential Towers IV ***
+Height: 140.6
+Floors: 49
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: residential
+Rank: 153
+
+*** The New York ***
+Height: 140.49
+Floors: 49
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 157
+
+*** Chicago Marriott ***
+Height: 140.2
+Floors: 45
+Status: Completed
+Completed: 1978
+Functions: hotel
+Rank: 158
+
+*** The Residences at Grand Plaza ***
+Height: 139.6
+Floors: 39
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 159
+
+*** 600 North Fairbanks ***
+Height: 139.5
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 160
+
+*** Swissotel Chicago ***
+Height: 139.29
+Floors: 43
+Status: Completed
+Started: 1986
+Completed: 1989
+Functions: hotel
+Rank: 161
+
+*** Equitable Building ***
+Height: 139.29
+Floors: 35
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 162
+
+*** Kingsbury Plaza ***
+Height: 138.84
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 163
+
+*** 400 North LaSalle ***
+Height: 138.43
+Floors: 45
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 164
+
+*** ABN AMRO Plaza ***
+Height: 138.13
+Floors: 29
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 165
+
+*** 600 North Lake Shore Drive - North Tower ***
+Height: 138.08
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 166
+
+*** Residence Inn Chicago Downtown/Loop ***
+Height: 137.77
+Floors: 37
+Status: Completed
+Started: 1913
+Completed: 1927
+Functions: office
+Rank: 167
+
+*** Riverbend Condominiums ***
+Height: 137.39
+Floors: 38
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 168
+
+*** The Shoreham ***
+Height: 137.16
+Floors: 47
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 169
+
+*** Eugenie Terrace on the Park ***
+Height: 137.16
+Floors: 44
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 170
+
+*** Fifth Third Center ***
+Height: 137.16
+Floors: 35
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: office
+Rank: 171
+
+*** Hubbard Place ***
+Height: 136.96
+Floors: 44
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 172
+
+*** 200 Squared ***
+Height: 136.86
+Floors: 42
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 173
+
+*** Ann & Robert H. Lurie Children's Hospital of Chicago ***
+Height: 136.19
+Floors: 22
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hospital
+Rank: 174
+
+*** 300 South Wacker ***
+Height: 135.64
+Floors: 36
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 175
+
+*** 444 North Michigan ***
+Height: 135.64
+Floors: 36
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 175
+
+*** MILA ***
+Height: 135.47
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 177
+
+*** Marriott Marquis Chicago ***
+Height: 135.18
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: hotel
+Rank: 178
+
+*** Optima Chicago Center ***
+Height: 134.9
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 179
+
+*** 1001 South State Street ***
+Height: 134.11
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 180
+
+*** Wrigley Building ***
+Height: 133.51
+Floors: 27
+Status: Completed
+Started: 1920
+Completed: 1922
+Functions: office
+Rank: 181
+
+*** Willoughby Tower ***
+Height: 133.5
+Floors: 38
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 182
+
+*** Marquee ***
+Height: 132.89
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / retail
+Rank: 183
+
+*** 123 North Wacker ***
+Height: 132.59
+Floors: 30
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: office
+Rank: 184
+
+*** 180 North LaSalle ***
+Height: 132.58
+Floors: 37
+Status: Completed
+Started: 1971
+Completed: 1972
+Functions: office
+Rank: 185
+
+*** Silver Tower ***
+Height: 132.08
+Floors: 39
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 186
+
+*** 225 West Wacker ***
+Height: 132
+Floors: 28
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: office
+Rank: 187
+
+*** Shirley Ryan AbilityLab ***
+Height: 131.45
+Floors: 27
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: hospital
+Rank: 188
+
+*** 1130 South Michigan ***
+Height: 131.37
+Floors: 43
+Status: Completed
+Started: 1966
+Completed: 1967
+Functions: residential
+Rank: 189
+
+*** The Gallery On Wells ***
+Height: 131.1
+Floors: 39
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 190
+
+*** McClurg Court Center A ***
+Height: 131
+Floors: 46
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: residential
+Rank: 191
+
+*** McClurg Court Center B ***
+Height: 131
+Floors: 46
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: residential
+Rank: 191
+
+*** 1555 North Astor ***
+Height: 130.56
+Floors: 48
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 193
+
+*** 225 West Randolph Street ***
+Height: 130.15
+Floors: 31
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 194
+
+*** AMA Building ***
+Height: 130
+Floors: 30
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 195
+
+*** Eugenie Square ***
+Height: 129.85
+Floors: 42
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 196
+
+*** 202 West Hill Street ***
+Height: 129.82
+Floors: 40
+Status: Under Construction
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 197
+
+*** Fairmont Hotel ***
+Height: 129.77
+Floors: 37
+Status: Completed
+Completed: 1987
+Functions: hotel
+Rank: 198
+
+*** Sky55 ***
+Height: 129.41
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 199
+
+*** 2020 North Lincoln Park West ***
+Height: 128.32
+Floors: 39
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 200
+
+*** Skybridge ***
+Height: 128.17
+Floors: 39
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 201
+
+*** The Sinclair ***
+Height: 128
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 202
+
+*** Alta at K Station - East Tower ***
+Height: 127.14
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 203
+
+*** 2 East Erie ***
+Height: 126.49
+Floors: 39
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 204
+
+*** Hartford Plaza South ***
+Height: 126.49
+Floors: 33
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 205
+
+*** Northern Trust Building ***
+Height: 126.49
+Floors: 31
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: office
+Rank: 206
+
+*** 10 East Delaware ***
+Height: 126.39
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 207
+
+*** MoMo ***
+Height: 125.14
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 208
+
+*** State and Chestnut ***
+Height: 125
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 209
+
+*** 1100 North Lake Shore Drive ***
+Height: 124.97
+Floors: 40
+Status: Completed
+Started: 1977
+Completed: 1979
+Functions: residential
+Rank: 210
+
+*** Museum Tower ***
+Height: 124.64
+Floors: 38
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 211
+
+*** Malibu East ***
+Height: 124.36
+Floors: 45
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 212
+
+*** 200 West Adams ***
+Height: 124.06
+Floors: 30
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 213
+
+*** Two First National Plaza ***
+Height: 124.06
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 213
+
+*** Lake Shore Plaza ***
+Height: 123.45
+Floors: 38
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 215
+
+*** 1300 North Lake Shore Drive ***
+Height: 123.14
+Floors: 40
+Status: Completed
+Completed: 1965
+Functions: residential
+Rank: 216
+
+*** Time-Life Building ***
+Height: 123.14
+Floors: 30
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: office
+Rank: 217
+
+*** The Montgomery ***
+Height: 123.04
+Floors: 28
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 218
+
+*** Galter Pavilion ***
+Height: 122.68
+Floors: 22
+Status: Completed
+Started: 1994
+Completed: 1999
+Functions: hospital
+Rank: 219
+
+*** 420 East Ohio ***
+Height: 122
+Floors: 41
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 220
+
+*** Buckingham Plaza ***
+Height: 121.92
+Floors: 44
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 221
+
+*** Millennium Park Plaza ***
+Height: 121.92
+Floors: 40
+Status: Completed
+Completed: 1982
+Functions: residential / office
+Rank: 222
+
+*** 777 North Michigan ***
+Height: 121.92
+Floors: 38
+Status: Completed
+Started: 1963
+Completed: 1964
+Functions: residential
+Rank: 223
+
+*** Avondale Center ***
+Height: 121.92
+Floors: 36
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 224
+
+*** River View II ***
+Height: 121.62
+Floors: 32
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 225
+
+*** James House ***
+Height: 121.26
+Floors: 43
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 226
+
+*** Cityfront Place ***
+Height: 120.7
+Floors: 40
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 227
+
+*** 333 North Michigan ***
+Height: 120.7
+Floors: 34
+Status: Completed
+Started: 1927
+Completed: 1928
+Functions: office
+Rank: 228
+
+*** Metcalfe Federal Building ***
+Height: 120.7
+Floors: 27
+Status: Completed
+Completed: 1991
+Functions: government
+Rank: 229
+
+*** The Pearson ***
+Height: 120.47
+Floors: 35
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 230
+
+*** Walton Colonnade ***
+Height: 120.4
+Floors: 44
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 231
+
+*** The Plaza on Dewitt ***
+Height: 120.4
+Floors: 43
+Status: Completed
+Started: 1963
+Completed: 1966
+Functions: residential
+Rank: 232
+
+*** 1110 North Lake Shore Drive ***
+Height: 120
+Floors: 40
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: residential
+Rank: 233
+
+*** Avenue Hotel ***
+Height: 119.79
+Floors: 40
+Status: Completed
+Completed: 1973
+Functions: hotel / office
+Rank: 234
+
+*** 150 North Wacker ***
+Height: 119.79
+Floors: 30
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: office
+Rank: 235
+
+*** 225 West Washington Street ***
+Height: 119.78
+Floors: 28
+Status: Completed
+Started: 1985
+Completed: 1987
+Functions: office
+Rank: 236
+
+*** East Point ***
+Height: 119.18
+Floors: 43
+Status: Completed
+Started: 1966
+Completed: 1967
+Functions: residential
+Rank: 237
+
+*** The Chandler ***
+Height: 118.47
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 238
+
+*** The Lex ***
+Height: 118.32
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 239
+
+*** The Carlyle ***
+Height: 118.26
+Floors: 40
+Status: Completed
+Started: 1964
+Completed: 1967
+Functions: residential
+Rank: 240
+
+*** Wells Street Tower ***
+Height: 118.14
+Floors: 35
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 241
+
+*** Forty-One East Eighth ***
+Height: 118.09
+Floors: 33
+Status: Completed
+Started: 2001
+Completed: 2003
+Rank: 242
+
+*** The Fairbanks at Cityfront Plaza ***
+Height: 117.91
+Floors: 31
+Status: Completed
+Started: 2000
+Completed: 2008
+Functions: residential
+Rank: 243
+
+*** Northwestern Medicine 259 East Erie ***
+Height: 117.47
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hospital
+Rank: 244
+
+*** The Elm at Clark ***
+Height: 117.35
+Floors: 37
+Status: Completed
+Completed: 1989
+Rank: 245
+
+*** The Wyndham Grand Chicago Riverfront ***
+Height: 117.35
+Floors: 36
+Status: Completed
+Started: 1958
+Completed: 1960
+Functions: hotel
+Rank: 246
+
+*** 2626 North Lakeview ***
+Height: 117.05
+Floors: 44
+Status: Completed
+Started: 1968
+Completed: 1970
+Rank: 247
+
+*** 2650 North Lakeview ***
+Height: 117.05
+Floors: 44
+Status: Completed
+Completed: 1973
+Rank: 247
+
+*** Everett McKinley Dirksen United States Courthouse ***
+Height: 116.74
+Floors: 30
+Status: Completed
+Started: 1959
+Completed: 1964
+Functions: office / government
+Rank: 249
+
+*** Hotel Palomar ***
+Height: 115.83
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel / residential
+Rank: 250
+
+*** The Aurelien ***
+Height: 115.8
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 251
+
+*** Alta at K Station - West Tower ***
+Height: 115.31
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 252
+
+*** Outer Drive East ***
+Height: 115.22
+Floors: 36
+Status: Completed
+Started: 1962
+Completed: 1963
+Functions: residential
+Rank: 253
+
+*** 1700 East 56th Street ***
+Height: 114.61
+Floors: 38
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 254
+
+*** 1400 Museum Park ***
+Height: 114.3
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 255
+
+*** Two Illinois Center ***
+Height: 114.3
+Floors: 32
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: office
+Rank: 256
+
+*** 33 West Monroe ***
+Height: 114.3
+Floors: 29
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 257
+
+*** 633 North St. Clair ***
+Height: 114.3
+Floors: 27
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: hotel / office
+Rank: 258
+
+*** Astoria Tower ***
+Height: 113.88
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 259
+
+*** 2800 North Lake Shore Drive ***
+Height: 113.4
+Floors: 43
+Status: Completed
+Started: 1967
+Completed: 1968
+Functions: residential
+Rank: 260
+
+*** Brookdale Plaza ***
+Height: 113.39
+Floors: 38
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: residential
+Rank: 261
+
+*** 303 West Madison ***
+Height: 113.37
+Floors: 26
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 262
+
+*** Arkadia Tower ***
+Height: 112.42
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 263
+
+*** Sheraton Chicago Hotel & Towers ***
+Height: 112.34
+Floors: 33
+Status: Completed
+Completed: 1992
+Functions: hotel
+Rank: 264
+
+*** 1720 South Michigan ***
+Height: 112.22
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 265
+
+*** The Admiral at the Lake ***
+Height: 112.17
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 266
+
+*** Hawthorne House ***
+Height: 111.86
+Floors: 42
+Status: Completed
+Started: 1965
+Completed: 1966
+Functions: residential
+Rank: 267
+
+*** 1111 South Wabash ***
+Height: 111.86
+Floors: 34
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 268
+
+*** One East Delaware ***
+Height: 111.56
+Floors: 36
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 269
+
+*** K2 at K Station ***
+Height: 111.56
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 270
+
+*** Left Bank at K Station ***
+Height: 111.41
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 271
+
+*** Kinzie Park Tower ***
+Height: 111.3
+Floors: 34
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 272
+
+*** Hyatt Regency Chicago West Tower ***
+Height: 111.3
+Floors: 33
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 273
+
+*** Echelon at K Station ***
+Height: 110.7
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 274
+
+*** The Chicagoan ***
+Height: 110.3
+Floors: 37
+Status: Completed
+Completed: 1990
+Functions: residential / retail
+Rank: 275
+
+*** One Illinois Center ***
+Height: 110.3
+Floors: 30
+Status: Completed
+Started: 1967
+Completed: 1970
+Functions: office
+Rank: 276
+
+*** Edgewater Plaza North ***
+Height: 110
+Floors: 38
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 277
+
+*** The Allerton Hotel Chicago ***
+Height: 109.73
+Floors: 25
+Status: Completed
+Started: 1923
+Completed: 1924
+Functions: hotel
+Rank: 278
+
+*** 2 East Oak Street ***
+Height: 109.7
+Floors: 39
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 279
+
+*** Chestnut Tower ***
+Height: 109.7
+Floors: 36
+Status: Completed
+Started: 1999
+Completed: 2000
+Functions: residential
+Rank: 280
+
+*** Walton on the Park ***
+Height: 109.7
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 281
+
+*** 200 West Jackson ***
+Height: 109.7
+Floors: 27
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: office
+Rank: 282
+
+*** Regents Park South ***
+Height: 108.9
+Floors: 37
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 283
+
+*** 1600 Museum Park ***
+Height: 108.9
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 284
+
+*** Exhibit on Superior ***
+Height: 108.81
+Floors: 34
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 285
+
+*** Alta Roosevelt ***
+Height: 107.9
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 286
+
+*** 230 West Monroe Street ***
+Height: 107.6
+Floors: 29
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 287
+
+*** Florsheim Tower ***
+Height: 107.3
+Floors: 30
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 288
+
+*** Malibu Condominiums ***
+Height: 106.7
+Floors: 39
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: residential
+Rank: 289
+
+*** Three Illinois Center ***
+Height: 106.7
+Floors: 28
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 290
+
+*** 625 North Michigan ***
+Height: 106.68
+Floors: 27
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 291
+
+*** LINEA ***
+Height: 106.17
+Floors: 33
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 292
+
+*** Eight O Five ***
+Height: 106.07
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 293
+
+*** 33 North Dearborn ***
+Height: 106.07
+Floors: 25
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 294
+
+*** Park Alexandria ***
+Height: 105.84
+Floors: 32
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 295
+
+*** Hyatt Regency Chicago East Tower ***
+Height: 105.8
+Floors: 33
+Status: Completed
+Started: 1979
+Completed: 1980
+Functions: hotel
+Rank: 296
+
+*** Sofitel Chicago Water Tower ***
+Height: 105.79
+Floors: 33
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: hotel
+Rank: 297
+
+*** Drake Tower ***
+Height: 105.77
+Floors: 30
+Status: Completed
+Completed: 1929
+Functions: residential
+Rank: 298
+
+*** Edgewater Plaza South ***
+Height: 105.5
+Floors: 38
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: residential
+Rank: 299
+
+*** Eleven40 ***
+Height: 105
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 300
+
+*** Hyatt Regency McCormick Place ***
+Height: 104.8
+Floors: 33
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 301
+
+*** 222 North LaSalle ***
+Height: 104.24
+Floors: 26
+Status: Completed
+Completed: 1926
+Functions: office
+Rank: 302
+
+*** Regents Park North ***
+Height: 104.18
+Floors: 36
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: residential
+Rank: 303
+
+*** Chicago Hilton & Towers ***
+Height: 103.63
+Floors: 29
+Status: Completed
+Started: 1925
+Completed: 1927
+Functions: hotel
+Rank: 304
+
+*** Merchandise Mart ***
+Height: 103.63
+Floors: 25
+Status: Completed
+Started: 1928
+Completed: 1930
+Rank: 305
+
+*** 3150 North Lake Shore Drive ***
+Height: 103.33
+Floors: 38
+Status: Completed
+Completed: 1963
+Functions: residential
+Rank: 306
+
+*** 1550 North Lake Shore Drive Apartments ***
+Height: 103
+Floors: 34
+Status: Completed
+Started: 1958
+Completed: 1960
+Functions: residential
+Rank: 307
+
+*** University Hall ***
+Height: 103
+Floors: 28
+Status: Completed
+Completed: 1965
+Functions: education / office
+Rank: 308
+
+*** 200 East Delaware ***
+Height: 102.41
+Floors: 36
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 309
+
+*** Century Tower ***
+Height: 102.41
+Floors: 28
+Status: Completed
+Completed: 1930
+Functions: residential
+Rank: 310
+
+*** Loop Transportation Center ***
+Height: 102.41
+Floors: 27
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 311
+
+*** Elm Street Plaza ***
+Height: 102.11
+Floors: 33
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 312
+
+*** Michigan Plaza North ***
+Height: 102.1
+Floors: 25
+Status: Completed
+Started: 1980
+Completed: 1981
+Functions: office
+Rank: 313
+
+*** 990 North Lake Shore Drive ***
+Height: 102
+Floors: 33
+Status: Completed
+Started: 1972
+Completed: 1973
+Functions: residential
+Rank: 314
+
+*** Transunion Building ***
+Height: 101.8
+Floors: 24
+Status: Completed
+Started: 1959
+Completed: 1961
+Functions: office
+Rank: 315
+
+*** 1212 North Lake Shore Drive ***
+Height: 101.5
+Floors: 36
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 316
+
+*** 2500 North Lakeview ***
+Height: 101.5
+Floors: 35
+Status: Completed
+Started: 1973
+Completed: 1974
+Functions: residential
+Rank: 317
+
+*** 55 East Jackson ***
+Height: 101.5
+Floors: 24
+Status: Completed
+Started: 1961
+Completed: 1962
+Functions: office
+Rank: 318
+
+*** Arkes Family Pavilion ***
+Height: 101.35
+Floors: 25
+Status: Completed
+Completed: 1979
+Functions: hospital
+Rank: 319
+
+*** Inland Steel Building ***
+Height: 101.3
+Floors: 19
+Status: Completed
+Started: 1956
+Completed: 1958
+Functions: office
+Rank: 320
+
+*** Concord City Centre ***
+Height: 101.2
+Floors: 23
+Status: Completed
+Completed: 1927
+Functions: residential
+Rank: 321
+
+*** Gold Coast Galleria ***
+Height: 100.89
+Floors: 32
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: residential
+Rank: 322
+
+*** 525 West Monroe Street ***
+Height: 100.59
+Floors: 25
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 323
+
+*** ADA Building ***
+Height: 100.59
+Floors: 23
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 324
+
+*** Museum Park Place 2 ***
+Height: 100.4
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 325
+
+*** South Shore Beach Apartments ***
+Height: 100.3
+Floors: 34
+Status: Completed
+Started: 1964
+Completed: 1965
+Functions: residential
+Rank: 326
+
+*** 840 North Lake Shore Drive ***
+Height: 100.18
+Floors: 27
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 327
+
+*** Michigan Terrace Condominiums ***
+Height: 100
+Floors: 33
+Status: Completed
+Started: 1961
+Completed: 1963
+Functions: residential
+Rank: 328
+
+*** 1240 North Lake Shore Drive ***
+Height: 99.98
+Floors: 32
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 329
+
+*** 530 North Lake Shore Drive ***
+Height: 99.87
+Floors: 29
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 330
+
+*** 500 North Michigan Avenue ***
+Height: 99.1
+Floors: 24
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 331
+
+*** The Breakers at Edgewater Beach ***
+Height: 99.06
+Floors: 33
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 332
+
+*** 101 North Wacker ***
+Height: 99.06
+Floors: 23
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 333
+
+*** Apparel Center ***
+Height: 99
+Floors: 24
+Status: Completed
+Started: 1976
+Completed: 1977
+Functions: hotel / office
+Rank: 334
+
+*** Old Republic Building ***
+Height: 99
+Floors: 24
+Status: Completed
+Completed: 1925
+Functions: office
+Rank: 334
+
+*** The Lancaster ***
+Height: 98.81
+Floors: 30
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 336
+
+*** Vetro ***
+Height: 98.8
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 337
+
+*** Harris Bank Addition I ***
+Height: 98.2
+Floors: 23
+Status: Completed
+Started: 1957
+Completed: 1960
+Functions: office
+Rank: 338
+
+*** Americana Towers ***
+Height: 98
+Floors: 34
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 339
+
+*** 1212 South Michigan ***
+Height: 98
+Floors: 30
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 340
+
+*** River View I ***
+Height: 97.99
+Floors: 27
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: residential
+Rank: 341
+
+*** 1133 North Dearborn ***
+Height: 97.89
+Floors: 33
+Status: Completed
+Started: 1987
+Completed: 1988
+Functions: residential
+Rank: 342
+
+*** The Cooper ***
+Height: 97.82
+Floors: 29
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 343
+
+*** Westin Michigan Avenue ***
+Height: 97.54
+Floors: 27
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 344
+
+*** Gateway Center IV ***
+Height: 97.54
+Floors: 25
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: office
+Rank: 345
+
+*** 1 North Dearborn ***
+Height: 97.5
+Floors: 17
+Status: Completed
+Started: 1904
+Completed: 1905
+Functions: office / retail
+Rank: 346
+
+*** LondonHouse Chicago ***
+Height: 97.02
+Floors: 22
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: hotel
+Rank: 347
+
+*** Courtyard Chicago Magnificent Mile ***
+Height: 96.64
+Floors: 23
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: hotel
+Rank: 348
+
+*** 100 Bellevue Place ***
+Height: 96.32
+Floors: 31
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 349
+
+*** 2 North LaSalle Street ***
+Height: 96.32
+Floors: 26
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 350
+
+*** Prentice Women's Hospital ***
+Height: 96.32
+Floors: 18
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: hospital
+Rank: 351
+
+*** The Parker ***
+Height: 96.01
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 352
+
+*** 100 West Chestnut ***
+Height: 96
+Floors: 30
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: residential
+Rank: 353
+
+*** 1000 South Clark ***
+Height: 95.86
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 354
+
+*** Michigan Avenue Tower I ***
+Height: 95.76
+Floors: 29
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 355
+
+*** McCormick Building ***
+Height: 95.7
+Floors: 20
+Status: Completed
+Started: 1908
+Completed: 1912
+Functions: residential / office
+Rank: 356
+
+*** Burnham Pointe ***
+Height: 95.68
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: residential
+Rank: 357
+
+*** 777 South State ***
+Height: 95.1
+Floors: 27
+Status: Completed
+Started: 1983
+Completed: 1984
+Functions: residential
+Rank: 358
+
+*** 550 St. Clair ***
+Height: 95.1
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 359
+
+*** Hilton Suites Chicago ***
+Height: 95
+Floors: 29
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: hotel
+Rank: 360
+
+*** theWit Hotel ***
+Height: 94.79
+Floors: 26
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: hotel
+Rank: 361
+
+*** Michigan Avenue Tower II ***
+Height: 94.67
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 362
+
+*** Hilton Homewood Suites and Wabash Suites Hotel ***
+Height: 94.64
+Floors: 29
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential / hotel
+Rank: 363
+
+*** EnV ***
+Height: 94
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 364
+
+*** James R. Thompson Center ***
+Height: 93.9
+Floors: 17
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 365
+
+*** Landmark West Loop ***
+Height: 93.88
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 366
+
+*** 65 East Wacker Place ***
+Height: 93.88
+Floors: 24
+Status: Completed
+Completed: 1928
+Functions: office / retail
+Rank: 367
+
+*** Socony-Vacuum Building ***
+Height: 93.3
+Floors: 27
+Status: Completed
+Started: 1928
+Completed: 1930
+Functions: residential / office
+Rank: 368
+
+*** SoNo West Tower ***
+Height: 93.2
+Floors: 27
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 369
+
+*** 625 West Adams ***
+Height: 93
+Floors: 20
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 370
+
+*** Hyatt Centric The Loop Chicago ***
+Height: 92.96
+Floors: 23
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 371
+
+*** 1136-1140 South Wabash Avenue ***
+Height: 92.35
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 372
+
+*** The National ***
+Height: 92.35
+Floors: 20
+Status: Completed
+Completed: 1907
+Functions: office
+Rank: 373
+
+*** Riverside Plaza ***
+Height: 92.05
+Floors: 26
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: office
+Rank: 374
+
+*** 120 South LaSalle ***
+Height: 92.05
+Floors: 22
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 375
+
+*** 231 South LaSalle  ***
+Height: 92.05
+Floors: 20
+Status: Completed
+Started: 1923
+Completed: 1924
+Functions: office
+Rank: 376
+
+*** Michigan Avenue Lofts ***
+Height: 92
+Floors: 20
+Status: Completed
+Completed: 1911
+Functions: residential
+Rank: 377
+
+*** People's Gas Building ***
+Height: 92
+Floors: 20
+Status: Completed
+Started: 1910
+Completed: 1911
+Functions: office
+Rank: 377
+
+*** 1111 North Dearborn ***
+Height: 91.75
+Floors: 32
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 379
+
+*** Kingsbury on the Park ***
+Height: 91.75
+Floors: 25
+Status: Completed
+Completed: 2004
+Functions: residential / residential
+Rank: 380
+
+*** Lake-Michigan Building ***
+Height: 91.75
+Floors: 23
+Status: Completed
+Started: 1926
+Completed: 1927
+Functions: office
+Rank: 381
+
+*** Loop Center Building ***
+Height: 91.75
+Floors: 22
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: office
+Rank: 382
+
+*** 4 East Elm Street ***
+Height: 91.59
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 383
+
+*** Virgin Hotels Chicago ***
+Height: 91.44
+Floors: 26
+Status: Completed
+Started: 1926
+Completed: 1928
+Functions: hotel
+Rank: 384
+
+*** Cambria Hotel Chicago Loop Theatre District ***
+Height: 91.44
+Floors: 23
+Status: Completed
+Started: 1925
+Completed: 1926
+Functions: office
+Rank: 385
+
+*** Burnham Center ***
+Height: 91.4
+Floors: 22
+Status: Completed
+Started: 1912
+Completed: 1915
+Functions: office
+Rank: 386
+
+*** Michigan Boulevard Building ***
+Height: 91.4
+Floors: 21
+Status: Completed
+Started: 1913
+Completed: 1914
+Functions: office
+Rank: 387
+
+*** NEXT ***
+Height: 91.13
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 388
+
+*** Gr333N ***
+Height: 91.13
+Floors: 19
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 389
+
+*** Astor Tower ***
+Height: 91.1
+Floors: 25
+Status: Completed
+Completed: 1962
+Functions: residential
+Rank: 390
+
+*** W Hotel Chicago Lakeshore ***
+Height: 90.83
+Floors: 33
+Status: Completed
+Completed: 1964
+Functions: hotel
+Rank: 391
+
+*** River North Marriott Suites ***
+Height: 90.68
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel
+Rank: 392
+
+*** Feinberg Pavillion ***
+Height: 90.53
+Floors: 17
+Status: Completed
+Started: 1994
+Completed: 1999
+Functions: hospital / retail
+Rank: 393
+
+*** Bel Harbour ***
+Height: 90.52
+Floors: 30
+Status: Completed
+Started: 1966
+Completed: 1967
+Functions: residential
+Rank: 394
+
+*** 1600 East 53rd Street ***
+Height: 90.45
+Floors: 27
+Status: Architecturally Topped Out
+Started: 2018
+Functions: residential
+Rank: 395
+
+*** Lawyers Building ***
+Height: 90
+Floors: 25
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: office
+Rank: 396
+
+*** Noble Square Co-op ***
+Height: 89.92
+Floors: 28
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 397
+
+*** North American Building ***
+Height: 89.9
+Floors: 19
+Status: Completed
+Started: 1911
+Completed: 1912
+Functions: residential
+Rank: 398
+
+*** Harris Bank Building ***
+Height: 89.69
+Floors: 20
+Status: Completed
+Started: 1910
+Completed: 1911
+Functions: office
+Rank: 399
+
+*** Garland Building ***
+Height: 89.6
+Floors: 22
+Status: Completed
+Completed: 1914
+Functions: office
+Rank: 400
+
+*** Wrigley Building North Addition ***
+Height: 89.6
+Floors: 18
+Status: Completed
+Completed: 1924
+Functions: office
+Rank: 401
+
+*** 3Eleven ***
+Height: 89.17
+Floors: 25
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 402
+
+*** 8 East Huron ***
+Height: 89.16
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 403
+
+*** Marquee Michigan Avenue ***
+Height: 89.1
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 404
+
+*** Erie on the Park ***
+Height: 89.1
+Floors: 24
+Status: Completed
+Started: 2001
+Completed: 2002
+Functions: residential
+Rank: 405
+
+*** 1418 North Lake Shore Drive ***
+Height: 89
+Floors: 29
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: residential
+Rank: 406
+
+*** Randolph-Wells Building ***
+Height: 89
+Floors: 23
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 407
+
+*** Consumers Building ***
+Height: 88.7
+Floors: 22
+Status: Completed
+Started: 1912
+Completed: 1913
+Functions: office
+Rank: 408
+
+*** Renaissance Blackstone ***
+Height: 88.4
+Floors: 21
+Status: Completed
+Started: 1908
+Completed: 1910
+Functions: hotel
+Rank: 409
+
+*** Astor House ***
+Height: 88.23
+Floors: 30
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 410
+
+*** MDA City Apartments ***
+Height: 88.2
+Floors: 24
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 411
+
+*** One Triple Three ***
+Height: 88.1
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 412
+
+*** Museum Pointe ***
+Height: 88.1
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 413
+
+*** Metropolitan Correctional Center ***
+Height: 88.09
+Floors: 27
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: other
+Rank: 414
+
+*** 5000 East End Building ***
+Height: 87.78
+Floors: 28
+Status: Completed
+Completed: 1928
+Functions: residential
+Rank: 415
+
+*** 208 South LaSalle Street ***
+Height: 87.48
+Floors: 21
+Status: Completed
+Completed: 1914
+Functions: hotel / office / retail
+Rank: 416
+
+*** Solstice on the Park ***
+Height: 87.27
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 417
+
+*** Renaissance Chicago Downtown Hotel ***
+Height: 87.2
+Floors: 27
+Status: Completed
+Completed: 1991
+Functions: hotel
+Rank: 418
+
+*** Lake Vista Apartments North ***
+Height: 87.2
+Floors: 19
+Status: Completed
+Completed: 1925
+Functions: hospital
+Rank: 419
+
+*** Mallers Building ***
+Height: 87
+Floors: 21
+Status: Completed
+Completed: 1910
+Functions: office / retail
+Rank: 420
+
+*** Eight Eleven Uptown ***
+Height: 86.97
+Floors: 27
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 421
+
+*** 525 Hawthorne ***
+Height: 86.87
+Floors: 31
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: residential
+Rank: 422
+
+*** CDW Plaza ***
+Height: 86.87
+Floors: 21
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: office
+Rank: 423
+
+*** Transportation Building ***
+Height: 86.8
+Floors: 22
+Status: Completed
+Completed: 1911
+Functions: residential
+Rank: 424
+
+*** Horizon House ***
+Height: 86.7
+Floors: 30
+Status: Completed
+Started: 1964
+Completed: 1965
+Functions: residential
+Rank: 425
+
+*** Majestic Building ***
+Height: 86.25
+Floors: 20
+Status: Completed
+Completed: 1905
+Functions: office
+Rank: 426
+
+*** 29 East Madison Street ***
+Height: 86
+Floors: 18
+Status: Completed
+Completed: 1905
+Functions: office
+Rank: 427
+
+*** 200 West Monroe ***
+Height: 85.35
+Floors: 23
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 428
+
+*** 640 North Wells Street ***
+Height: 85.34
+Floors: 22
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 429
+
+*** Museum Park Tower I ***
+Height: 85.34
+Floors: 20
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 430
+
+*** Metropolitan Block ***
+Height: 85.3
+Floors: 22
+Status: Completed
+Completed: 1926
+Functions: office
+Rank: 431
+
+*** Ward Memorial Building ***
+Height: 85
+Floors: 20
+Status: Completed
+Started: 1925
+Completed: 1926
+Functions: education
+Rank: 432
+
+*** Lake Park Plaza ***
+Height: 84.75
+Floors: 30
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 433
+
+*** Cornell Village ***
+Height: 84.15
+Floors: 27
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 434
+
+*** River Place on the Park ***
+Height: 84.1
+Floors: 21
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: residential
+Rank: 435
+
+*** 22 West Washington ***
+Height: 84.1
+Floors: 17
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 436
+
+*** 3150 North Sheridan ***
+Height: 84
+Floors: 29
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: residential
+Rank: 437
+
+*** Chicago Board of Trade Addition ***
+Height: 83.82
+Floors: 23
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 438
+
+*** Fisher Building ***
+Height: 83.82
+Floors: 20
+Status: Completed
+Started: 1895
+Completed: 1906
+Functions: office
+Rank: 439
+
+*** Loyola University Tower ***
+Height: 83.82
+Floors: 16
+Status: Completed
+Started: 1992
+Completed: 1994
+Functions: education
+Rank: 440
+
+*** Chicago Athletic Association Annex ***
+Height: 83.6
+Floors: 20
+Status: Completed
+Completed: 1906
+Functions: other
+Rank: 441
+
+*** The Newport North Tower ***
+Height: 83.52
+Floors: 27
+Status: Completed
+Started: 1962
+Completed: 1963
+Functions: residential
+Rank: 442
+
+*** The Newport South Tower ***
+Height: 83.52
+Floors: 27
+Status: Completed
+Started: 1962
+Completed: 1963
+Functions: residential
+Rank: 442
+
+*** Borg-Warner Building ***
+Height: 83.5
+Floors: 22
+Status: Completed
+Completed: 1958
+Functions: office
+Rank: 444
+
+*** Macy's at State Street ***
+Height: 83
+Floors: 13
+Status: Completed
+Started: 1901
+Completed: 1914
+Functions: retail
+Rank: 445
+
+*** Quadrangle House ***
+Height: 82.9
+Floors: 28
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 446
+
+*** Jones  ***
+Height: 82.9
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 447
+
+*** The Bernardin ***
+Height: 82.85
+Floors: 27
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: residential
+Rank: 448
+
+*** Admiral's Point ***
+Height: 82.6
+Floors: 27
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 449
+
+*** State of Illinois Building ***
+Height: 82.6
+Floors: 21
+Status: Completed
+Completed: 1920
+Functions: office
+Rank: 450
+
+*** Prairie Pointe ***
+Height: 82.53
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 451
+
+*** Hollywood Towers North ***
+Height: 82.3
+Floors: 29
+Status: Completed
+Started: 1961
+Completed: 1962
+Functions: residential
+Rank: 452
+
+*** Hollywood Towers South ***
+Height: 82.3
+Floors: 29
+Status: Completed
+Started: 1961
+Completed: 1962
+Functions: residential
+Rank: 452
+
+*** 860 North Lake Shore Drive ***
+Height: 82.3
+Floors: 26
+Status: Completed
+Started: 1949
+Completed: 1951
+Functions: residential
+Rank: 454
+
+*** 880 North Lake Shore Drive ***
+Height: 82.3
+Floors: 26
+Status: Completed
+Started: 1949
+Completed: 1951
+Functions: residential
+Rank: 454
+
+*** The Powhatan ***
+Height: 82.22
+Floors: 22
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: residential
+Rank: 456
+
+*** 734 North Milwaukee ***
+Height: 81.08
+Floors: 23
+Status: Under Construction
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 457
+
+*** 14 East Jackson Boulevard ***
+Height: 81.08
+Floors: 19
+Status: Completed
+Completed: 1913
+Functions: education / retail
+Rank: 458
+
+*** Criminal Courts Administration Building ***
+Height: 80.75
+Floors: 16
+Status: Completed
+Completed: 1974
+Functions: government
+Rank: 459
+
+*** Rehabilitation Institute of Chicago ***
+Height: 80.5
+Floors: 19
+Status: Completed
+Completed: 1973
+Functions: hospital
+Rank: 460
+
+*** 1401 South State  ***
+Height: 80.37
+Floors: 22
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 461
+
+*** Pearson on the Park ***
+Height: 80
+Floors: 27
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: residential
+Rank: 462
+
+*** Century Building ***
+Height: 80
+Floors: 16
+Status: Completed
+Completed: 1915
+Functions: abandoned
+Rank: 463
+
+*** The Hudson ***
+Height: 79.96
+Floors: 25
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 464
+
+*** Hubbard 221 ***
+Height: 79.86
+Floors: 23
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 465
+
+*** Palmer House ***
+Height: 79.86
+Floors: 21
+Status: Completed
+Started: 1925
+Completed: 1927
+Functions: hotel
+Rank: 466
+
+*** Hermitage on Huron ***
+Height: 79.55
+Floors: 26
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: residential
+Rank: 467
+
+*** Esplanade Apartments I ***
+Height: 79.25
+Floors: 28
+Status: Completed
+Started: 1953
+Completed: 1956
+Functions: residential
+Rank: 468
+
+*** Esplanade Apartments II ***
+Height: 79.25
+Floors: 28
+Status: Completed
+Started: 1953
+Completed: 1956
+Functions: residential
+Rank: 468
+
+*** Harper Square Cooperative - North Tower ***
+Height: 79.25
+Floors: 25
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 470
+
+*** Harper Square Cooperative - South Tower ***
+Height: 79.25
+Floors: 25
+Status: Completed
+Started: 1968
+Completed: 1969
+Functions: residential
+Rank: 470
+
+*** Hilton Garden Inn Chicago Downtown/Magnificent Mile ***
+Height: 79.25
+Floors: 23
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: hotel
+Rank: 472
+
+*** Santa Fe Building ***
+Height: 78.94
+Floors: 17
+Status: Completed
+Started: 1903
+Completed: 1904
+Functions: office
+Rank: 473
+
+*** Museum Park Place 1 ***
+Height: 78.9
+Floors: 23
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 474
+
+*** 899 South Plymouth Court ***
+Height: 78.87
+Floors: 27
+Status: Completed
+Started: 1978
+Completed: 1980
+Functions: residential
+Rank: 475
+
+*** Lake Village East ***
+Height: 78.6
+Floors: 26
+Status: Completed
+Completed: 1974
+Rank: 476
+
+*** 55 West Wacker ***
+Height: 78.03
+Floors: 16
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 477
+
+*** 1410 North State Parkway ***
+Height: 78
+Floors: 26
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 478
+
+*** AMLI 900 ***
+Height: 77.9
+Floors: 23
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 479
+
+*** 2101 South Michigan ***
+Height: 77.75
+Floors: 26
+Status: Completed
+Started: 1970
+Completed: 1971
+Functions: residential
+Rank: 480
+
+*** 205 West Wacker ***
+Height: 77.75
+Floors: 23
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 481
+
+*** Barclay Condominiums ***
+Height: 77.75
+Floors: 20
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: residential
+Rank: 482
+
+*** Cambridge Manor ***
+Height: 77.5
+Floors: 28
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 483
+
+*** Hilton Garden Inn Chicago North Loop ***
+Height: 77.42
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: hotel
+Rank: 484
+
+*** Wolberg Hall ***
+Height: 77.4
+Floors: 18
+Status: Completed
+Started: 1906
+Completed: 1908
+Functions: education
+Rank: 485
+
+*** Commonwealth Promenade I ***
+Height: 77.12
+Floors: 27
+Status: Completed
+Started: 1953
+Completed: 1956
+Functions: residential
+Rank: 486
+
+*** Commonwealth Promenade II ***
+Height: 77.12
+Floors: 27
+Status: Completed
+Started: 1953
+Completed: 1956
+Functions: residential
+Rank: 486
+
+*** Rush University Medical Center Hospital Tower ***
+Height: 76.96
+Floors: 14
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hospital
+Rank: 488
+
+*** Hampton Inn / Homewood Suites Chicago Downtown West Loop ***
+Height: 76.69
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: hotel
+Rank: 489
+
+*** Narragansett Apartments ***
+Height: 76.63
+Floors: 22
+Status: Completed
+Completed: 1929
+Functions: residential
+Rank: 490
+
+*** 123 East Cermak ***
+Height: 75.68
+Floors: 22
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: hotel
+Rank: 491
+
+*** Westin River North ***
+Height: 75.59
+Floors: 21
+Status: Completed
+Started: 1986
+Completed: 1987
+Functions: hotel
+Rank: 492
+
+*** Hotel EMC2 ***
+Height: 75
+Floors: 21
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: hotel
+Rank: 493

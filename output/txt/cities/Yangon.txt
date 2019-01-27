@@ -1,0 +1,20 @@
+*** Yangon (1) ***
+1. Sule Shangri-la Hotel, 80m
+
+******************** DETAILS ********************
+
+*** Yangon ***
+Country: Myanmar
+Region: Asia
+1 tower: Sule Shangri-la Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sule Shangri-la Hotel ***
+Height: 80.5
+Floors: 22
+Status: Completed
+Completed: 1996
+Functions: hotel
+Rank: 1

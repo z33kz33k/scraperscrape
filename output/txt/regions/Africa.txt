@@ -1,0 +1,204 @@
+*** Africa (332) ***
+1.  South Africa, 135
+2.  Egypt, 54
+3.  Kenya, 43
+4.  Tanzania, 13
+5.  Nigeria, 12
+6.  Morocco, 11
+7.  Libya, 10
+8.  Algeria, 9
+9.  Ethiopia, 7
+10. Angola, 7
+11. Mozambique, 4
+12. Cameroon, 3
+13. Zimbabwe, 3
+14. Ivory Coast, 3
+15. Mauritius, 2
+16. Congo, 2
+17. Madagascar, 2
+18. Sudan, 2
+19. Tunisia, 1
+20. Senegal, 1
+21. Uganda, 1
+22. Namibia, 1
+23. Togo, 1
+24. Democratic Republic Of The Congo, 1
+25. Rwanda, 1
+26. Botswana, 1
+27. Mali, 1
+28. Zambia, 1
+
+******************** DETAILS ********************
+
+*** Africa ***
+28 countries: South Africa, Egypt, Kenya, Tanzania, Nigeria, Morocco, Libya, Algeria, Ethiopia, Angola, Mozambique, Cameroon, Zimbabwe, Ivory Coast, Mauritius, Congo, Madagascar, Sudan, Tunisia, Senegal, Uganda, Namibia, Togo, Democratic Republic Of The Congo, Rwanda, Botswana, Mali, Zambia
+Tiers: I: 56, II: 100, III: 14, IV: 2, V: 1
+Rating: 332 (15.1% uncompleted)
+
+*** South Africa ***
+Region: Africa
+6 cities: Durban, Johannesburg, Cape Town, Pretoria, Sandton, Midrand
+Tiers: I: 25, II: 44, III: 4, IV: 1
+Rating: 135 (7.4% uncompleted)
+
+*** Egypt ***
+Region: Africa
+2 cities: Cairo, Alexandria
+Tiers: II: 27
+Rating: 54 (7.4% uncompleted)
+
+*** Kenya ***
+Region: Africa
+1 city: Nairobi
+Tiers: I: 11, II: 4, III: 4, V: 1
+Rating: 43 (41.9% uncompleted)
+
+*** Tanzania ***
+Region: Africa
+1 city: Dar es Salaam
+Tiers: I: 1, III: 3
+Rating: 13
+
+*** Nigeria ***
+Region: Africa
+2 cities: Abuja, Lagos
+Tiers: II: 2, III: 2
+Rating: 12 (50.0% uncompleted)
+
+*** Morocco ***
+Region: Africa
+2 cities: Rabat, Casablanca
+Tiers: I: 1, II: 2, IV: 1
+Rating: 11 (54.5% uncompleted)
+
+*** Libya ***
+Region: Africa
+1 city: Tripoli
+Tiers: II: 5
+Rating: 10
+
+*** Algeria ***
+Region: Africa
+1 city: Oran
+Tiers: I: 1, II: 4
+Rating: 9
+
+*** Ethiopia ***
+Region: Africa
+1 city: Addis Ababa
+Tiers: I: 1, II: 1, III: 1
+Rating: 7 (57.1% uncompleted)
+
+*** Angola ***
+Region: Africa
+1 city: Luanda
+Tiers: I: 3, II: 2
+Rating: 7 (28.6% uncompleted)
+
+*** Mozambique ***
+Region: Africa
+1 city: Maputo
+Tiers: II: 2
+Rating: 4
+
+*** Cameroon ***
+Region: Africa
+1 city: Yaound
+Tiers: I: 1, II: 1
+Rating: 3
+
+*** Zimbabwe ***
+Region: Africa
+1 city: Harare
+Tiers: I: 1, II: 1
+Rating: 3
+
+*** Ivory Coast ***
+Region: Africa
+1 city: Abidjan
+Tiers: I: 1, II: 1
+Rating: 3
+
+*** Mauritius ***
+Region: Africa
+1 city: Port Louis
+Tiers: II: 1
+Rating: 2
+
+*** Congo ***
+Region: Africa
+1 city: Brazzaville
+Tiers: II: 1
+Rating: 2
+
+*** Madagascar ***
+Region: Africa
+1 city: Antananarivo
+Tiers: II: 1
+Rating: 2
+
+*** Sudan ***
+Region: Africa
+1 city: Khartoum
+Tiers: II: 1
+Rating: 2
+
+*** Tunisia ***
+Region: Africa
+1 city: Tunis
+Tiers: I: 1
+Rating: 1
+
+*** Senegal ***
+Region: Africa
+1 city: Dakar
+Tiers: I: 1
+Rating: 1
+
+*** Uganda ***
+Region: Africa
+1 city: Kampala
+Tiers: I: 1
+Rating: 1
+
+*** Namibia ***
+Region: Africa
+1 city: Windhoek
+Tiers: I: 1
+Rating: 1
+
+*** Togo ***
+Region: Africa
+1 city: Lome
+Tiers: I: 1
+Rating: 1
+
+*** Democratic Republic Of The Congo ***
+Region: Africa
+1 city: Kinshasa
+Tiers: I: 1
+Rating: 1
+
+*** Rwanda ***
+Region: Africa
+1 city: Kigali
+Tiers: I: 1
+Rating: 1
+
+*** Botswana ***
+Region: Africa
+1 city: Gaborone
+Tiers: I: 1
+Rating: 1
+
+*** Mali ***
+Region: Africa
+1 city: Bamako
+Tiers: I: 1
+Rating: 1
+
+*** Zambia ***
+Region: Africa
+1 city: Lusaka
+Tiers: I: 1
+Rating: 1

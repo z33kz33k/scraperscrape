@@ -1,0 +1,116 @@
+*** Arlington (17) ***
+1.  CEB Tower, 119m
+2.  1812 North Moore Street, 118m
+3.  Rosslyn Twin Tower One, 116m
+4.  Rosslyn Twin Tower Two, 116m
+5.  One Skyline Tower, 111m
+6.  Central Place Residential Tower, 108m
+7.  1801 North Lynn Street, 105m
+8.  Turnberry Tower, 95m
+9.  Two Waterview Place, 91m
+10. One Waterview Place, 91m
+11. Rosslyn Metro Center, 91m
+
+******************** DETAILS ********************
+
+*** Arlington ***
+Country: United States
+Region: North America
+11 towers: CEB Tower, 1812 North Moore Street, Rosslyn Twin Tower One, Rosslyn Twin Tower Two, One Skyline Tower, Central Place Residential Tower, 1801 North Lynn Street, Turnberry Tower, Two Waterview Place, One Waterview Place, Rosslyn Metro Center
+Tiers: I: 5, II: 6
+Rating: 17 (11.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** CEB Tower ***
+Height: 118.87
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 1
+
+*** 1812 North Moore Street ***
+Height: 117.81
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 2
+
+*** Rosslyn Twin Tower One ***
+Height: 116.13
+Floors: 27
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 3
+
+*** Rosslyn Twin Tower Two ***
+Height: 116.13
+Floors: 26
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 4
+
+*** One Skyline Tower ***
+Height: 110.9
+Floors: 26
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 5
+
+*** Central Place Residential Tower ***
+Height: 108.2
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 6
+
+*** 1801 North Lynn Street ***
+Height: 105
+Floors: 24
+Status: Completed
+Completed: 2002
+Functions: residential / office
+Rank: 7
+
+*** Turnberry Tower ***
+Height: 95.3
+Floors: 27
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 8
+
+*** Two Waterview Place ***
+Height: 91.4
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / hotel
+Rank: 9
+
+*** One Waterview Place ***
+Height: 91.4
+Floors: 24
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office / retail
+Rank: 10
+
+*** Rosslyn Metro Center ***
+Height: 90.8
+Floors: 22
+Status: Completed
+Completed: 2002
+Functions: office / retail
+Rank: 11

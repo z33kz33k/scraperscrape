@@ -1,0 +1,20 @@
+*** Tunica (1) ***
+1. Gold Strike Casino Hotel, 97m
+
+******************** DETAILS ********************
+
+*** Tunica ***
+Country: United States
+Region: North America
+1 tower: Gold Strike Casino Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Gold Strike Casino Hotel ***
+Height: 96.62
+Floors: 31
+Status: Completed
+Completed: 1998
+Functions: hotel / casino
+Rank: 1

@@ -1,0 +1,29 @@
+*** Orange Beach (3) ***
+1. Turquoise Place East, 115m
+2. Turquoise Place, 93m
+
+******************** DETAILS ********************
+
+*** Orange Beach ***
+Country: United States
+Region: North America
+2 towers: Turquoise Place East, Turquoise Place
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Turquoise Place East ***
+Height: 114.9
+Floors: 32
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** Turquoise Place ***
+Height: 92.66
+Floors: 26
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 2

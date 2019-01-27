@@ -1,0 +1,144 @@
+*** Sendai, Miyagi (29) ***
+1.  Sendai Trust Tower, 180m
+2.  NTT DoCoMo Tohoku Building, 150m
+3.  Tohoku Denryoku Head Office Building, 148m
+4.  AERU, 146m
+5.  Sumitomo Seimei Sendai Chou Building, 143m
+6.  Lions Tower Sendai Nagamachi, 114m
+7.  Park Tower Dainohara, 110m
+8.  Lions Tower Sendai Hirose, 110m
+9.  Atlas Tower 33, 109m
+10. Apple Towers Sendai, 106m
+11. Kakyoin Square, 106m
+12. Lions Tower Kotodai-dori, 104m
+13. Sendai MT Building, 85m
+14. Tohoku University Hospital, 80m
+
+******************** DETAILS ********************
+
+*** Sendai, Miyagi ***
+Country: Japan
+Region: Asia
+14 towers: Sendai Trust Tower, NTT DoCoMo Tohoku Building, Tohoku Denryoku Head Office Building, AERU, Sumitomo Seimei Sendai Chou Building, Lions Tower Sendai Nagamachi, Park Tower Dainohara, Lions Tower Sendai Hirose, Atlas Tower 33, Apple Towers Sendai, Kakyoin Square, Lions Tower Kotodai-dori, Sendai MT Building, Tohoku University Hospital
+Tiers: I: 3, II: 9, III: 2
+Rating: 29
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sendai Trust Tower ***
+Height: 180
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel / office
+Rank: 1
+
+*** NTT DoCoMo Tohoku Building ***
+Height: 150
+Floors: 21
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 2
+
+*** Tohoku Denryoku Head Office Building ***
+Height: 148.1
+Floors: 28
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 3
+
+*** AERU ***
+Height: 145.5
+Floors: 31
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 4
+
+*** Sumitomo Seimei Sendai Chou Building ***
+Height: 143
+Floors: 31
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 5
+
+*** Lions Tower Sendai Nagamachi ***
+Height: 114
+Floors: 31
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 6
+
+*** Park Tower Dainohara ***
+Height: 110
+Floors: 31
+Status: Completed
+Completed: 1965
+Functions: residential
+Rank: 7
+
+*** Lions Tower Sendai Hirose ***
+Height: 109.9
+Floors: 32
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 8
+
+*** Atlas Tower 33 ***
+Height: 108.7
+Floors: 33
+Status: Completed
+Completed: 1993
+Functions: residential
+Rank: 9
+
+*** Apple Towers Sendai ***
+Height: 106.5
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 10
+
+*** Kakyoin Square ***
+Height: 106.3
+Floors: 23
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 11
+
+*** Lions Tower Kotodai-dori ***
+Height: 103.6
+Floors: 29
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 12
+
+*** Sendai MT Building ***
+Height: 85
+Floors: 18
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 13
+
+*** Tohoku University Hospital ***
+Height: 80
+Floors: 18
+Status: Completed
+Completed: 2000
+Functions: hospital
+Rank: 14

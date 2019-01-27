@@ -1,0 +1,20 @@
+*** Dakar (1) ***
+1. Immeuble K&eacute;b&eacute;, 76m
+
+******************** DETAILS ********************
+
+*** Dakar ***
+Country: Senegal
+Region: Africa
+1 tower: Immeuble K&eacute;b&eacute;
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Immeuble K&eacute;b&eacute; ***
+Height: 76.2
+Floors: 21
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 1

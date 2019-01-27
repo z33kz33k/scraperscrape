@@ -1,0 +1,115 @@
+*** Stockholm (15) ***
+1.  Kista Science Tower, 124m
+2.  Innovationen, 121m
+3.  Victoria Tower, 118m
+4.  Kista Torn, 112m
+5.  Helix, 104m
+6.  Skrapan, 86m
+7.  Soder Torn, 86m
+8.  DN-Skrapan, 84m
+9.  Folksamhuset, 79m
+10. Kajen 5, 76m
+11. Wenner-Gren Center, 76m
+
+******************** DETAILS ********************
+
+*** Stockholm ***
+Country: Sweden
+Region: Europe
+11 towers: Kista Science Tower, Innovationen, Victoria Tower, Kista Torn, Helix, Skrapan, Soder Torn, DN-Skrapan, Folksamhuset, Kajen 5, Wenner-Gren Center
+Tiers: I: 7, II: 4
+Rating: 15 (6.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kista Science Tower ***
+Height: 124
+Floors: 32
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 1
+
+*** Innovationen ***
+Height: 121.05
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 2
+
+*** Victoria Tower ***
+Height: 117.6
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: hotel / office
+Rank: 3
+
+*** Kista Torn ***
+Height: 111.65
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 4
+
+*** Helix ***
+Height: 104
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 5
+
+*** Skrapan ***
+Height: 86
+Floors: 27
+Status: Completed
+Completed: 1959
+Functions: residential / office
+Rank: 6
+
+*** Soder Torn ***
+Height: 86
+Floors: 24
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 7
+
+*** DN-Skrapan ***
+Height: 84
+Floors: 26
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 8
+
+*** Folksamhuset ***
+Height: 79
+Floors: 24
+Status: Completed
+Completed: 1959
+Functions: office
+Rank: 9
+
+*** Kajen 5 ***
+Height: 76.2
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 10
+
+*** Wenner-Gren Center ***
+Height: 76
+Floors: 25
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 11

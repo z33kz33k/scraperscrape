@@ -1,0 +1,20 @@
+*** Oakbrook Terrace (2) ***
+1. Oakbrook Terrace Tower, 127m
+
+******************** DETAILS ********************
+
+*** Oakbrook Terrace ***
+Country: United States
+Region: North America
+1 tower: Oakbrook Terrace Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Oakbrook Terrace Tower ***
+Height: 127.41
+Floors: 31
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 1

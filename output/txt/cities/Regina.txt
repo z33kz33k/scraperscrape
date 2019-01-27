@@ -1,0 +1,30 @@
+*** Regina (2) ***
+1. Mosaic Potash Tower, 84m
+2. Delta Regina Hotel, 84m
+
+******************** DETAILS ********************
+
+*** Regina ***
+Country: Canada
+Region: North America
+2 towers: Mosaic Potash Tower, Delta Regina Hotel
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mosaic Potash Tower ***
+Height: 84.5
+Floors: 20
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 1
+
+*** Delta Regina Hotel ***
+Height: 83.82
+Floors: 25
+Status: Completed
+Completed: 1988
+Functions: hotel / office
+Rank: 2

@@ -1,0 +1,41 @@
+*** Addis Ababa (7) ***
+1. Commercial Bank of Ethiopia, 198m
+2. African Union Headquarters, 118m
+3. Nani Tower, 103m
+
+******************** DETAILS ********************
+
+*** Addis Ababa ***
+Country: Ethiopia
+Region: Africa
+3 towers: Commercial Bank of Ethiopia, African Union Headquarters, Nani Tower
+Tiers: I: 1, II: 1, III: 1
+Rating: 7 (57.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Commercial Bank of Ethiopia ***
+Height: 198
+Floors: 46
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** African Union Headquarters ***
+Height: 117.7
+Floors: 21
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 2
+
+*** Nani Tower ***
+Height: 103
+Floors: 22
+Status: Completed
+Started: 1998
+Completed: 2004
+Functions: office
+Rank: 3

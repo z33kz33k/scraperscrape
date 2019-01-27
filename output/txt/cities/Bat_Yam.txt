@@ -1,0 +1,31 @@
+*** Bat Yam (6) ***
+1. Nave Noff Tower, 168m
+2. Ashdar One Tower, 147m
+
+******************** DETAILS ********************
+
+*** Bat Yam ***
+Country: Israel
+Region: Middle East
+2 towers: Nave Noff Tower, Ashdar One Tower
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nave Noff Tower ***
+Height: 168.29
+Floors: 44
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Ashdar One Tower ***
+Height: 147
+Floors: 42
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 2

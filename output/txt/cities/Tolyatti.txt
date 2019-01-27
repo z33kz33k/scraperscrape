@@ -1,0 +1,48 @@
+*** Tolyatti (4) ***
+1. AvtoVAZ, 96m
+2. Lada Arena 1, 79m
+3. Moskovskii Prospect, 76m
+4. Vega Hotel, 76m
+
+******************** DETAILS ********************
+
+*** Tolyatti ***
+Country: Russia
+Region: Europe
+4 towers: AvtoVAZ, Lada Arena 1, Moskovskii Prospect, Vega Hotel
+Tiers: I: 4
+Rating: 4 (25.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** AvtoVAZ ***
+Height: 96
+Floors: 24
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 1
+
+*** Lada Arena 1 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 2
+
+*** Moskovskii Prospect ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 3
+
+*** Vega Hotel ***
+Height: 75.7
+Floors: 24
+Status: Completed
+Completed: 2010
+Functions: office / hotel / retail
+Rank: 4

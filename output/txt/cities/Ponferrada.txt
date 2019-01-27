@@ -1,0 +1,21 @@
+*** Ponferrada (2) ***
+1. Torre de La Rosaleda, 107m
+
+******************** DETAILS ********************
+
+*** Ponferrada ***
+Country: Spain
+Region: Europe
+1 tower: Torre de La Rosaleda
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre de La Rosaleda ***
+Height: 107
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / hotel / office
+Rank: 1

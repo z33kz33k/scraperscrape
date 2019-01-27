@@ -1,0 +1,41 @@
+*** Marseille (5) ***
+1. Tour CMA-CGM, 143m
+2. La Marseillaise , 135m
+3. H99, 99m
+
+******************** DETAILS ********************
+
+*** Marseille ***
+Country: France
+Region: Europe
+3 towers: Tour CMA-CGM, La Marseillaise , H99
+Tiers: I: 1, II: 2
+Rating: 5 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tour CMA-CGM ***
+Height: 142.8
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 1
+
+*** La Marseillaise  ***
+Height: 134.95
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 2
+
+*** H99 ***
+Height: 99
+Floors: 26
+Status: Under Construction
+Started: 2011
+Completed: 2020
+Functions: residential
+Rank: 3

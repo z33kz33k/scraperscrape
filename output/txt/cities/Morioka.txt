@@ -1,0 +1,20 @@
+*** Morioka (1) ***
+1. Malios, 92m
+
+******************** DETAILS ********************
+
+*** Morioka ***
+Country: Japan
+Region: Asia
+1 tower: Malios
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Malios ***
+Height: 92
+Floors: 20
+Status: Completed
+Completed: 1997
+Functions: office / retail
+Rank: 1

@@ -1,0 +1,80 @@
+*** Dusseldorf (10) ***
+1. ARAG Tower, 125m
+2. LVA Hauptgebaude, 123m
+3. VICTORIA-Haus, 108m
+4. Dreischeibenhaus, 95m
+5. Sky Office Duesseldorf, 89m
+6. Vodafone Hochhaus, 88m
+7. SIGN Dusseldorf, 75m
+
+******************** DETAILS ********************
+
+*** Dusseldorf ***
+Country: Germany
+Region: Europe
+7 towers: ARAG Tower, LVA Hauptgebaude, VICTORIA-Haus, Dreischeibenhaus, Sky Office Duesseldorf, Vodafone Hochhaus, SIGN Dusseldorf
+Tiers: I: 4, II: 3
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:16
+
+*** ARAG Tower ***
+Height: 124.88
+Floors: 31
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 1
+
+*** LVA Hauptgebaude ***
+Height: 123
+Floors: 29
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 2
+
+*** VICTORIA-Haus ***
+Height: 108
+Floors: 29
+Status: Completed
+Started: 1994
+Completed: 1998
+Functions: office
+Rank: 3
+
+*** Dreischeibenhaus ***
+Height: 94.69
+Floors: 25
+Status: Completed
+Started: 1957
+Completed: 1960
+Functions: office
+Rank: 4
+
+*** Sky Office Duesseldorf ***
+Height: 89
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 5
+
+*** Vodafone Hochhaus ***
+Height: 88.5
+Floors: 26
+Status: Completed
+Started: 1952
+Completed: 1955
+Functions: office
+Rank: 6
+
+*** SIGN Dusseldorf ***
+Height: 75.25
+Floors: 19
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 7

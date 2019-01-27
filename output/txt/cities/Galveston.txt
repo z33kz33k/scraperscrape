@@ -1,0 +1,40 @@
+*** Galveston (6) ***
+1. The Beach Club, 116m
+2. The Trade Winds, 116m
+3. One Moody Plaza, 109m
+
+******************** DETAILS ********************
+
+*** Galveston ***
+Country: United States
+Region: North America
+3 towers: The Beach Club, The Trade Winds, One Moody Plaza
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Beach Club ***
+Height: 116.41
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 1
+
+*** The Trade Winds ***
+Height: 116.41
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 1
+
+*** One Moody Plaza ***
+Height: 109.12
+Floors: 23
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 3

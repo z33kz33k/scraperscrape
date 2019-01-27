@@ -1,0 +1,18 @@
+*** Moldova (1) ***
+1. Chisinau, 1
+
+******************** DETAILS ********************
+
+*** Moldova ***
+Region: Europe
+1 city: Chisinau
+Tiers: I: 1
+Rating: 1
+
+*** Chisinau ***
+Country: Moldova
+Region: Europe
+1 tower: Romashka Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

@@ -1,0 +1,69 @@
+*** Zapopan (16) ***
+1. Hyatt Regency Andares, 173m
+2. Torre Aura Altitude, 172m
+3. Torre Cube II, 124m
+4. Torre Titanium, 115m
+5. Torre Aura Puerta de Hierro, 113m
+6. Centro Medico Puerta de Hierro, 110m
+
+******************** DETAILS ********************
+
+*** Zapopan ***
+Country: Mexico
+Region: North America
+6 towers: Hyatt Regency Andares, Torre Aura Altitude, Torre Cube II, Torre Titanium, Torre Aura Puerta de Hierro, Centro Medico Puerta de Hierro
+Tiers: II: 4, III: 2
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hyatt Regency Andares ***
+Height: 173
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: hotel
+Rank: 1
+
+*** Torre Aura Altitude ***
+Height: 171.6
+Floors: 44
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 2
+
+*** Torre Cube II ***
+Height: 124.36
+Floors: 26
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 3
+
+*** Torre Titanium ***
+Height: 115
+Floors: 29
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 4
+
+*** Torre Aura Puerta de Hierro ***
+Height: 113
+Floors: 28
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 5
+
+*** Centro Medico Puerta de Hierro ***
+Height: 110
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: hospital
+Rank: 6

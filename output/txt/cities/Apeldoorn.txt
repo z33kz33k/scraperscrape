@@ -1,0 +1,21 @@
+*** Apeldoorn (1) ***
+1. La Tour, 75m
+
+******************** DETAILS ********************
+
+*** Apeldoorn ***
+Country: Netherlands
+Region: Europe
+1 tower: La Tour
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** La Tour ***
+Height: 75
+Floors: 20
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 1

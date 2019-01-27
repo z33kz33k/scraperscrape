@@ -1,0 +1,41 @@
+*** Al Khobar (8) ***
+1. Dhahran Tower, 200m
+2. Al Hugayet Tower, 140m
+3. Al Khobar Gate Tower, 135m
+
+******************** DETAILS ********************
+
+*** Al Khobar ***
+Country: Saudi Arabia
+Region: Middle East
+3 towers: Dhahran Tower, Al Hugayet Tower, Al Khobar Gate Tower
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dhahran Tower ***
+Height: 200
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Al Hugayet Tower ***
+Height: 140
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 2
+
+*** Al Khobar Gate Tower ***
+Height: 135
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 3

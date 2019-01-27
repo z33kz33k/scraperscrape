@@ -1,0 +1,78 @@
+*** Memphis (12) ***
+1. 100 North Main Building, 131m
+2. Raymond James Tower, 123m
+3. Clark Tower, 122m
+4. One Commerce Square, 121m
+5. Sterick Building, 111m
+6. 1st Tennessee Bank Building, 101m
+7. Hilton Memphis, 100m
+
+******************** DETAILS ********************
+
+*** Memphis ***
+Country: United States
+Region: North America
+7 towers: 100 North Main Building, Raymond James Tower, Clark Tower, One Commerce Square, Sterick Building, 1st Tennessee Bank Building, Hilton Memphis
+Tiers: I: 2, II: 5
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** 100 North Main Building ***
+Height: 131.07
+Floors: 37
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 1
+
+*** Raymond James Tower ***
+Height: 122.91
+Floors: 21
+Status: Completed
+Completed: 1985
+Functions: hotel
+Rank: 2
+
+*** Clark Tower ***
+Height: 121.92
+Floors: 34
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 3
+
+*** One Commerce Square ***
+Height: 120.7
+Floors: 31
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 4
+
+*** Sterick Building ***
+Height: 111.25
+Floors: 29
+Status: Completed
+Started: 1928
+Completed: 1930
+Functions: abandoned
+Rank: 5
+
+*** 1st Tennessee Bank Building ***
+Height: 101.2
+Floors: 25
+Status: Completed
+Started: 1961
+Completed: 1964
+Functions: office
+Rank: 6
+
+*** Hilton Memphis ***
+Height: 100.28
+Floors: 27
+Status: Completed
+Started: 1973
+Completed: 1975
+Functions: hotel
+Rank: 7

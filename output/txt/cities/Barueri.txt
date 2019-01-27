@@ -1,0 +1,39 @@
+*** Barueri (8) ***
+1. Air Offices, 150m
+2. West Side, 147m
+3. I-Tower, 129m
+
+******************** DETAILS ********************
+
+*** Barueri ***
+Country: Brazil
+Region: South America
+3 towers: Air Offices, West Side, I-Tower
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Air Offices ***
+Height: 150
+Floors: 38
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 1
+
+*** West Side ***
+Height: 147
+Floors: 37
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 2
+
+*** I-Tower ***
+Height: 129.2
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 3

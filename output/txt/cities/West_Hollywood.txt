@@ -1,0 +1,30 @@
+*** West Hollywood (3) ***
+1. Sierra Towers, 107m
+2. Sunset Tower Hotel, 88m
+
+******************** DETAILS ********************
+
+*** West Hollywood ***
+Country: United States
+Region: North America
+2 towers: Sierra Towers, Sunset Tower Hotel
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sierra Towers ***
+Height: 106.7
+Floors: 32
+Status: Completed
+Completed: 1966
+Functions: residential
+Rank: 1
+
+*** Sunset Tower Hotel ***
+Height: 87.78
+Floors: 16
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: hotel
+Rank: 2

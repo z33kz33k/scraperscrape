@@ -13,9 +13,6 @@ import time
 import os
 from collections import Counter
 import itertools
-import codecs
-import csv
-from pprint import pprint
 
 from tscscrape.constants import URL, OUTPUT_JSON_PATH, RATINGS_MATRIX, STATUSMAP, REGIONMAP, Tier
 from tscscrape.errors import (PageWrongFormatError, InvalidCityError,
@@ -27,7 +24,6 @@ from tscscrape.countries import COUNTRYMAP
 SUBCITYMAP = {
     "Courbevoie": "Paris",
     "Puteaux": "Paris",
-    "Courbevoie": "Paris",
     "Nanterre": "Paris",
     "Bagnolet": "Paris",
     "Issy-les-Moulineaux": "Paris",

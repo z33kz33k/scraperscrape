@@ -1,0 +1,27 @@
+*** Bolivia (10) ***
+1. La Paz, 6
+2. Santa Cruz, 4
+
+******************** DETAILS ********************
+
+*** Bolivia ***
+Region: South America
+2 cities: La Paz, Santa Cruz
+Tiers: I: 2, II: 4
+Rating: 10 (10.0% uncompleted)
+
+*** La Paz ***
+Country: Bolivia
+Region: South America
+3 towers: Torre Girasoles, New Presidential Palace, Banco Central de Bolivia
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Santa Cruz ***
+Country: Bolivia
+Region: South America
+3 towers: Condominio La Casona, Palacio de Justicia, La Riviera Condominio Boutique
+Tiers: I: 2, II: 1
+Rating: 4 (25.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17

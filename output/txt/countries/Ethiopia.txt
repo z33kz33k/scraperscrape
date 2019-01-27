@@ -1,0 +1,18 @@
+*** Ethiopia (7) ***
+1. Addis Ababa, 7
+
+******************** DETAILS ********************
+
+*** Ethiopia ***
+Region: Africa
+1 city: Addis Ababa
+Tiers: I: 1, II: 1, III: 1
+Rating: 7 (57.1% uncompleted)
+
+*** Addis Ababa ***
+Country: Ethiopia
+Region: Africa
+3 towers: Commercial Bank of Ethiopia, African Union Headquarters, Nani Tower
+Tiers: I: 1, II: 1, III: 1
+Rating: 7 (57.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

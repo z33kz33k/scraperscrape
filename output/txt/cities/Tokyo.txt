@@ -1,0 +1,3499 @@
+*** Tokyo (991) ***
+1.   Toranomon Hills, 256m
+2.   Midtown Tower, 248m
+3.   Tokyo Metropolitan Government Building, 243m
+4.   Sunshine 60 Tower, 240m
+5.   NTT DoCoMo Yoyogi Building, 240m
+6.   Roppongi Hills Mori Tower, 238m
+7.   Opera City Tower, 234m
+8.   Shinjuku Park Tower, 233m
+9.   Sumitomo Roppongi Grand Tower, 230m
+10.  Shibuya Scramble Square, 228m
+11.  Shinjuku Mitsui Building, 225m
+12.  Shinjuku Center Building, 223m
+13.  St. Luke's Tower, 221m
+14.  Shiodome City Center, 216m
+15.  Dentsu Headquarters Building, 213m
+16.  Shinjuku Sumitomo Building, 210m
+17.  Shinjuku Nomura Building, 209m
+18.  The Parkhouse Nishi Shinjuku Tower 60, 209m
+19.  Ark Hills Sengokuyama Mori Tower, 207m
+20.  Akasaka Intercity AIR, 205m
+21.  GranTokyo North Tower, 205m
+22.  GranTokyo South Tower, 205m
+23.  Mode Gakuen Cocoon Tower, 204m
+24.  Izumi Garden Tower, 201m
+25.  Japan Post Tower, 200m
+26.  Sompo Japan Head Office Building, 200m
+27.  The Yomiuri Shimbun Building, 200m
+28.  The Otemachi Tower, 200m
+29.  Shin-Marunouchi Building, 198m
+30.  Sumitomo Fudosan Shinjuku Grand Tower, 195m
+31.  Harumi Island Triton Square Tower X, 195m
+32.  Sanno Park Tower, 194m
+33.  Nippon Television Tower, 193m
+34.  Nihonbashi Mitsui Tower, 192m
+35.  Kachidoki View Tower, 192m
+36.  The Tokyo Towers Mid Tower, 192m
+37.  The Tokyo Towers Sea Tower, 192m
+38.  Tokyo Midtown Hibiya, 192m
+39.  Tomihisa Cross Comfort Tower, 191m
+40.  Acty Shiodome, 190m
+41.  Shinjuku I-Land Tower, 190m
+42.  Toshima Ecomusee Town, 189m
+43.  Cerulean Tower, 188m
+44.  Capital Gate Place, 187m
+45.  Atago Green Hills Mori Tower, 187m
+46.  Shinjuku Oak Tower, 184m
+47.  Owl Tower, 183m
+48.  Shibuya Hikarie, 182m
+49.  Tokyo Nihonbashi Tower, 182m
+50.  Century Park Tower, 180m
+51.  Park City Toyosu Building A, 180m
+52.  Proud Tower Shinonome Canal Court, 180m
+53.  NEC Supertower, 180m
+54.  JA Building, 180m
+55.  Shibuya Stream, 180m
+56.  Tokyo Garden Terrace Kioicho - Kioi Tower, 180m
+57.  Sumitomo Fudosan Mita Twin Building West, 179m
+58.  Akasaka Biz Tower, 179m
+59.  Marunouchi Building, 179m
+60.  Otemachi 2-Chome 1st Class Urban Redevelopment Project Building A, 179m
+61.  Kachidoki The Tower, 179m
+62.  W-Comfort Towers East, 178m
+63.  Keio Plaza North Building, 178m
+64.  Marunouchi Trust Building Main Tower, 178m
+65.  A2 Tower 3 Harumi, 177m
+66.  A3 Tower 3 Harumi, 177m
+67.  Otemachi Financial City South Tower, 177m
+68.  Kasumigaseki Common Gate West Building, 176m
+69.  Harumi Island Triton Square Tower Y, 175m
+70.  The Parkhouse Harumi Towers Tiaro Residence, 175m
+71.  Tokyo Shiodome Building , 173m
+72.  Shiodome Media Tower, 173m
+73.  Park Axis Aoyama 1-chome Tower, 172m
+74.  Royal Park Shiodome Tower, 172m
+75.  City Towers Toyosu North Tower, 171m
+76.   Kyobashi EDOGRAND, 170m
+77.  Shibaura Island Air Tower, 170m
+78.  Park Court Akasaka Hinokicho The Tower, 170m
+79.  Marunouchi Park Building, 170m
+80.  JT Building, 170m
+81.  The Parkhouse Harumi Towers Krono Residence, 170m
+82.  Bay City Harumi Sky Link Tower, 169m
+83.  Shibaura Island Grove Tower, 169m
+84.  Otemachi Financial City Grand Cube, 168m
+85.  JR Shinjuku Miraina Tower, 168m
+86.  Central Park La Tour Shinjuku, 168m
+87.  Shibaura Island Bloom Tower, 167m
+88.  Sapia Tower, 167m
+89.  Capital Mark Tower, 167m
+90.  Toshiba Building, 167m
+91.  Yebisu Garden Place Tower, 167m
+92.  City Towers Toyosu South Tower, 167m
+93.  Kita Shinjuku 2 Chome Building, 166m
+94.  Toyosu Center Building, 165m
+95.  Harumi View Tower, 165m
+96.  Twin Parks Left Wing, 165m
+97.  Twin Parks Right Wing, 165m
+98.  Naka-Meguro Atlas Tower, 165m
+99.  Otemachi 2-Chome 1st Class Urban Redevelopment Project Building B, 165m
+100. Waterras Tower, 165m
+101. KDDI Building, 165m
+102. Tokyo Building, 164m
+103. Tokyo Metropolitan Government Building II, 163m
+104. Shirogane 6-Chome Redevelopment, 163m
+105. Akasaka Tower Residence, 162m
+106. Shibaura Island Cape Tower, 161m
+107. Shinjuku Maynds Tower, 161m
+108. Nihon Seimei Marunouchi Building, 160m
+109. Concieria Nishi-Shinjuku Tower's West, 160m
+110. Tornare Nihonbashi Hamacho Tower, 160m
+111. Apartment Tower Kachidoki, 160m
+112. Shiba 3-Chome Coop Building, 159m
+113. Brillia Tower Tokyo, 159m
+114. Roppongi Hills Residential Building B, 159m
+115. Roppongi Hills Residential Building C, 159m
+116. Prudential Tower, 158m
+117. Tokyo World Trade Center, 158m
+118. Joyama Project, 158m
+119. Sky Tree East, 158m
+120. K-Tower, 158m
+121. Shiroyama JT Trust Tower, 158m
+122. Park Court Akasaka The Tower, 157m
+123. Atago Green Hills Forest Tower, 157m
+124. Kasumigaseki Common Gate East Building, 157m
+125. Kasumigaseki Building, 156m
+126. NTT DoCoMo Sumida Building, 156m
+127. Shinagawa Season Terrace, 155m
+128. Plaza Tower Kachidoki, 155m
+129. The Toyosu Tower, 155m
+130. Tokyo Dome Hotel, 155m
+131. Harumi Island Triton Square Tower Z, 155m
+132. Nikkei Building, 155m
+133. SKYZ Tower & Garden, 154m
+134. Otemachi Financial City North Tower, 154m
+135. Hilltop Tower, 154m
+136. Toranomon Towers Residence, 154m
+137. W-Comfort Towers West, 153m
+138. City Towers Toyosu The Symbol, 153m
+139. Station Garden Tower, 153m
+140. Ark Hills Mori Building, 153m
+141. Park Tower Gran Sky, 153m
+142. Garden Air Tower, 153m
+143. Futakotamagawa Rise Tower & Residence East, 151m
+144. Odakyu Southern Tower, 151m
+145. Shiba-Koen First Building, 151m
+146. Kudan Dai 3 Complex Chiyoda Prefecture Office, 151m
+147. Air Rise Tower, 151m
+148. The Roppongi Tokyo Club Residence, 150m
+149. Sumitomo Mitsui Banking Corporation East Tower, 150m
+150. Iidabashi Grand Bloom, 150m
+151. JR East Japan Building, 150m
+152. Marunouchi Eiraku Building, 150m
+153. Granpark Tower, 150m
+154. Otemachi Park Building, 150m
+155. Iidabashi Grand Bloom, 150m
+156. Pacific Century Plaza, 150m
+157. Sumitomo Realty Iidabashi First Tower, 150m
+158. Park Court Chiyoda Fujimi The Tower, 149m
+159. Park Court Chiyoda Fujimi Tower, 149m
+160. Shinagawa East One Tower, 149m
+161. Shinagawa Grand Central Tower, 148m
+162. Akihabara Fuji Soft ABC Building, 148m
+163. Mitsubishi UFJ Trust & Banking Corporate Head Office, 148m
+164. Taiyo Life Shinagawa Building, 148m
+165. Marunouchi Kitaguchi Building, 147m
+166. Toyosu Center Building Annex, 147m
+167. Mitsubishi Heavy Industries Building, 147m
+168. Meiji Yasuda Life Building, 147m
+169. St. Luke's International Residences, 146m
+170. Tokyo Sankei New Building, 146m
+171. Bunkyō Civic Center, 146m
+172. Kabukiza Tower, 146m
+173. NTT DoCoMo Shinagawa Building, 145m
+174. River City 21 East Towers II, 145m
+175. Hotel New Otani Tokyo, Garden Tower, 144m
+176. Shinagawa Intercity Tower A, 144m
+177. Canon S Tower, 144m
+178. Iino Building, 143m
+179. Shinagawa V-Tower, 143m
+180. Shinagawa Prince Hotel New Tower, 143m
+181. Mizuho Bank Headquarters, 142m
+182. Akihabara Dai Building, 142m
+183. East Core Towing Nibankan, 142m
+184. Akasaka Park Building, 141m
+185. World City Breeze Tower, 140m
+186. World City Capital Tower, 140m
+187. Shinagawa Intercity Tower B, 140m
+188. Shinagawa Intercity Tower C, 140m
+189. River City 21 Skylight Tower, 139m
+190. World City Aqua Tower, 139m
+191. The Tower Grandia, 139m
+192. Keio Plaza Hotel South Building, 139m
+193. Tokyo Times Tower, 138m
+194. Roppongi T-CUBE, 138m
+195. Venasis Kanamachi Tower Residence, 138m
+196. Otemachi Nomura Building, 138m
+197. Futakotamagawa Rise 2a, 137m
+198. Cosmopolis Shinagawa, 137m
+199. Nippon Express Headquarters, 137m
+200. Tekko Building, 135m
+201. Hotel New Otani Garden Court, 135m
+202. Akasaka Intercity, 135m
+203. Riverside Sumida Center, 134m
+204. Nakano-Sakaue Sun Bright Twin, 134m
+205. Moon Island Tower	, 134m
+206. Shinjuku NS Building, 134m
+207. Shiodome Building, 134m
+208. Tokyo Tech Tower, 133m
+209. Tokyo ANA Tower, 133m
+210. NBF Osaki Building, 133m
+211. Sumitomo Realty Shiba-Koen Tower, 133m
+212. NTT Data Shinagawa Building, 132m
+213. River City 21 Riverpoint Tower , 132m
+214. Shibuya Cross Tower, 131m
+215. City Tower Shinjuku Shintoshin, 130m
+216. Shinjuku Kokusai Building - Hilton Tokyo, 130m
+217. Tomin Tower Shinonome, 130m
+218. Imperial Hotel Imperial Tower, 129m
+219. River City 21 East Towers I, 128m
+220. Ochanomizu Sola City, 127m
+221. NTT Shinjuku Head Office Building, 127m
+222. Shiodome Sumitomo Building, 126m
+223. M&D Tower, 126m
+224. Tokyo Square Garden, 124m
+225. Shinjuku L Tower, 124m
+226. Takeda Global Headquarters, 124m
+227. FUJI TV Headquarters, 123m
+228. Shinjuku Monolith Building, 123m
+229. STEC Information Building, 123m
+230. Boissonade Tower, 123m
+231. The Towers Daiba East, 122m
+232. The Towers Daiba West, 122m
+233. Keidanren Kaikan, 122m
+234. Ginza Mitsui Building, 121m
+235. Coredo Nihombashi, 121m
+236. Tokyu Capitol Tower, 120m
+237. Sumitomo Fudosan Shiodome Hamarikyu Building, 120m
+238. Toyosu Canal Wharf Tower East, 120m
+239. Toyosu Canal Wharf Tower West, 120m
+240. Panasonic Electric Works Tokyo Headquarters Building, 120m
+241. Shin-Marunouchi Center Building, 120m
+242. Asahi Seimei Otemachi Building, 120m
+243. Muromachi Furukawa Mitsui Building, 119m
+244. Kosha Tower Tsukuda	, 119m
+245. Sun City Ginza East, 119m
+246. Liberty Tower, 119m
+247. Toyo Takarazuka Theatre, 118m
+248. Sumitomo Mitsui Banking Corporation Head Office, 117m
+249. Izumi Garden Residence, 116m
+250. Hyatt Regency Tokyo, 116m
+251. Nishi-Shinbashi Square, 116m
+252. Ariake Frontier Building, 116m
+253. Toranomon Kotohira Tower, 115m
+254. Roppongi 3 Chome East District Redevelopment Residential Tower, 115m
+255. Nippon Life Marunouchi Garden Tower, 115m
+256. Mitsubishi Corporation Building, 115m
+257. Risona Maruha Building Redevelopment, 115m
+258. Palace Building, 114m
+259. Tradepia Odaiba, 114m
+260. Palace Hotel Tokyo, 114m
+261. DN Tower 21, 114m
+262. Grand Nikko Tokyo Daiba, 113m
+263. Midtown East, 113m
+264. Daiba Frontier Building, 113m
+265. Shin-Gofukubashi Building, 112m
+266. Shiodome Shiba-rikyu Building, 112m
+267. Toranomon Towers Office, 112m
+268. Park Tower Shinagawa Bayward, 112m
+269. Kanda Warabi-cho district first type city redevelopment project, 112m
+270. Celia Odaiba Area 1 Building 1, 112m
+271. Tomin Tower Daiba Area 1 Building 2, 111m
+272. The Peninsula Tokyo, 111m
+273. I-Mark Tower, 111m
+274. Tokyo Mitsubishi UFJ Bank Head Office, 111m
+275. BAYZ Tower & Garden , 110m
+276. National Cancer Center Chuo Hospital, 110m
+277. Shinjuku Green Tower Building, 110m
+278. Lions Tower Tsukishima	, 109m
+279. The Crest Tower, 109m
+280. Kyobashi Trust Tower, 109m
+281. Shinagawa Prince Hotel Executive Tower, 108m
+282. Nihonbashi Muromachi Nomura Building, 108m
+283. Tokyo Marine Nichido Building, 108m
+284. Ark Hills South Tower, 108m
+285. Muromachi Higashi Mitsui Building, 108m
+286. Dai-ichi Hotel Tokyo, 107m
+287. Kokusai Fashion Center, 107m
+288. Shibuya Mark City West Tower, 107m
+289. Holland Hills Mori Tower, 107m
+290. KDDI Otemachi Building, 107m
+291. NTT Shinagawa Twins Annex Building, 106m
+292. DiverCity Tokyo Office Tower, 106m
+293. Shimizu Corporation Tokyo Headquarters, 106m
+294. Otemachi First Square - East, 106m
+295. Otemachi First Square - West, 106m
+296. Ootemachi Financial Center Building, 105m
+297. Daido Seimei Kasumigaseki Building, 105m
+298. Akasaka Tameike Tower, 105m
+299. The Prince Park Tower Tokyo, 104m
+300. Mitsui Marine & Fire Insurance Co. Headquarters, 104m
+301. Storia Shinagawa, 104m
+302. Yaesu First Financial Building, 103m
+303. Motoazabu Hills Forest Tower, 103m
+304. Shibuya Infos Tower, 102m
+305. Shin-Saiwaibashi Building, 102m
+306. Futakotamagawa Rise Tower & Residence Building A, 102m
+307. Futakotamagawa Rise Tower & Residence Building C, 102m
+308. Mitsui Sumitomo Insurance Kanda Surugadai Annex, 102m
+309. Tokyo Baycourt Club Hotel and Spa Resort, 101m
+310. River Pier Azumabashi Life Tower, 101m
+311. River City 21 Cityfront Tower , 100m
+312. Ote Center Building, 100m
+313. W Building, 100m
+314. Shibuya Mark City East Tower, 100m
+315. Kokusai Shin-Akasaka East Building, 100m
+316. JR Shinagawa East Building, 100m
+317. Juntendo University Hospital Building B, 100m
+318. Marunouchi Trust Tower North Building, 100m
+319. Akasaka Centerville, 100m
+320. Momento Shiodome, 99m
+321. Sony City, 99m
+322. Jikei University Hospital, 99m
+323. Toppan Forms Head Office Building, 99m
+324. Toranomon 2-chome Tower, 98m
+325. Atlas Tower Roppongi, 98m
+326. Onarimon Tokyo Jikei Medical School New Building, 98m
+327. UrbanNet Otemachi Building, 96m
+328. Shinjuku Washington Hotel, 96m
+329. Grand Hyatt Tokyo, 96m
+330. TBS Broadcasting Center, 95m
+331. Asahi Beer Azumabashi Building, 95m
+332. Pacific Tower Roppongi, 95m
+333. T&D Financial Building, 95m
+334. Center for the Mentally and Physically Handicapped, 94m
+335. Marunouchi Hotel, 92m
+336. Industrial Property Information and Training Museum, 92m
+337. Tokyo Medical and Dental University Building 3, 91m
+338. Century Tower, 91m
+339. Roppongi First Building, 91m
+340. Shinjuku First West, 91m
+341. Tokyo Garden Terrace Kioicho - Kioi Residence, 90m
+342. Tokyo Bank Association Building, 90m
+343. Tokyo Medical and Dental University Hospital B Wing, 90m
+344. Toyota Tokyo Headquarters, 89m
+345. The Itoyama Tower, 88m
+346. Tokyo Medical and Dental University Hospital A Wing, 87m
+347. Tokyo Medical University Hospital, 86m
+348. Marunouchi Center Building, 85m
+349. Shinagawa Crystal Square, 84m
+350. Hibiya Dai Building, 84m
+351. JX Building, 84m
+352. Sumida Ward Office, 84m
+353. Teikyo University Hospital, 84m
+354. Okubo Hospital Tower 2, 83m
+355. Kokusai Akasaka Building, 83m
+356. Koraku Mori Building, 82m
+357. University of Tokyo Hospital, 82m
+358. IM Tower, 80m
+359. Muromachi Chibagin Mitsui Building, 80m
+360. Okubo Hospital Tower 1, 79m
+361. Showa University Hospital, 77m
+362. Roppongi Ark Towers East, 77m
+363. Juntendo University Hospital Building 1, 75m
+364. Shimbashi No 29 Redevelopment, 75m
+
+******************** DETAILS ********************
+
+*** Tokyo ***
+Country: Japan
+Region: Asia
+364 towers: Toranomon Hills, Midtown Tower, Tokyo Metropolitan Government Building, Sunshine 60 Tower, NTT DoCoMo Yoyogi Building, Roppongi Hills Mori Tower, Opera City Tower, Shinjuku Park Tower, Sumitomo Roppongi Grand Tower, Shibuya Scramble Square, Shinjuku Mitsui Building, Shinjuku Center Building, St. Luke's Tower, Shiodome City Center, Dentsu Headquarters Building, Shinjuku Sumitomo Building, Shinjuku Nomura Building, The Parkhouse Nishi Shinjuku Tower 60, Ark Hills Sengokuyama Mori Tower, Akasaka Intercity AIR, GranTokyo North Tower, GranTokyo South Tower, Mode Gakuen Cocoon Tower, Izumi Garden Tower, Japan Post Tower, Sompo Japan Head Office Building, The Yomiuri Shimbun Building, The Otemachi Tower, Shin-Marunouchi Building, Sumitomo Fudosan Shinjuku Grand Tower, Harumi Island Triton Square Tower X, Sanno Park Tower, Nippon Television Tower, Nihonbashi Mitsui Tower, Kachidoki View Tower, The Tokyo Towers Mid Tower, The Tokyo Towers Sea Tower, Tokyo Midtown Hibiya, Tomihisa Cross Comfort Tower, Acty Shiodome, Shinjuku I-Land Tower, Toshima Ecomusee Town, Cerulean Tower, Capital Gate Place, Atago Green Hills Mori Tower, Shinjuku Oak Tower, Owl Tower, Shibuya Hikarie, Tokyo Nihonbashi Tower, Century Park Tower, Park City Toyosu Building A, Proud Tower Shinonome Canal Court, NEC Supertower, JA Building, Shibuya Stream, Tokyo Garden Terrace Kioicho - Kioi Tower, Sumitomo Fudosan Mita Twin Building West, Akasaka Biz Tower, Marunouchi Building, Otemachi 2-Chome 1st Class Urban Redevelopment Project Building A, Kachidoki The Tower, W-Comfort Towers East, Keio Plaza North Building, Marunouchi Trust Building Main Tower, A2 Tower 3 Harumi, A3 Tower 3 Harumi, Otemachi Financial City South Tower, Kasumigaseki Common Gate West Building, Harumi Island Triton Square Tower Y, The Parkhouse Harumi Towers Tiaro Residence, Tokyo Shiodome Building , Shiodome Media Tower, Park Axis Aoyama 1-chome Tower, Royal Park Shiodome Tower, City Towers Toyosu North Tower,  Kyobashi EDOGRAND, Shibaura Island Air Tower, Park Court Akasaka Hinokicho The Tower, Marunouchi Park Building, JT Building, The Parkhouse Harumi Towers Krono Residence, Bay City Harumi Sky Link Tower, Shibaura Island Grove Tower, Otemachi Financial City Grand Cube, JR Shinjuku Miraina Tower, Central Park La Tour Shinjuku, Shibaura Island Bloom Tower, Sapia Tower, Capital Mark Tower, Toshiba Building, Yebisu Garden Place Tower, City Towers Toyosu South Tower, Kita Shinjuku 2 Chome Building, Toyosu Center Building, Harumi View Tower, Twin Parks Left Wing, Twin Parks Right Wing, Naka-Meguro Atlas Tower, Otemachi 2-Chome 1st Class Urban Redevelopment Project Building B, Waterras Tower, KDDI Building, Tokyo Building, Tokyo Metropolitan Government Building II, Shirogane 6-Chome Redevelopment, Akasaka Tower Residence, Shibaura Island Cape Tower, Shinjuku Maynds Tower, Nihon Seimei Marunouchi Building, Concieria Nishi-Shinjuku Tower's West, Tornare Nihonbashi Hamacho Tower, Apartment Tower Kachidoki, Shiba 3-Chome Coop Building, Brillia Tower Tokyo, Roppongi Hills Residential Building B, Roppongi Hills Residential Building C, Prudential Tower, Tokyo World Trade Center, Joyama Project, Sky Tree East, K-Tower, Shiroyama JT Trust Tower, Park Court Akasaka The Tower, Atago Green Hills Forest Tower, Kasumigaseki Common Gate East Building, Kasumigaseki Building, NTT DoCoMo Sumida Building, Shinagawa Season Terrace, Plaza Tower Kachidoki, The Toyosu Tower, Tokyo Dome Hotel, Harumi Island Triton Square Tower Z, Nikkei Building, SKYZ Tower & Garden, Otemachi Financial City North Tower, Hilltop Tower, Toranomon Towers Residence, W-Comfort Towers West, City Towers Toyosu The Symbol, Station Garden Tower, Ark Hills Mori Building, Park Tower Gran Sky, Garden Air Tower, Futakotamagawa Rise Tower & Residence East, Odakyu Southern Tower, Shiba-Koen First Building, Kudan Dai 3 Complex Chiyoda Prefecture Office, Air Rise Tower, The Roppongi Tokyo Club Residence, Sumitomo Mitsui Banking Corporation East Tower, Iidabashi Grand Bloom, JR East Japan Building, Marunouchi Eiraku Building, Granpark Tower, Otemachi Park Building, Iidabashi Grand Bloom, Pacific Century Plaza, Sumitomo Realty Iidabashi First Tower, Park Court Chiyoda Fujimi The Tower, Park Court Chiyoda Fujimi Tower, Shinagawa East One Tower, Shinagawa Grand Central Tower, Akihabara Fuji Soft ABC Building, Mitsubishi UFJ Trust & Banking Corporate Head Office, Taiyo Life Shinagawa Building, Marunouchi Kitaguchi Building, Toyosu Center Building Annex, Mitsubishi Heavy Industries Building, Meiji Yasuda Life Building, St. Luke's International Residences, Tokyo Sankei New Building, Bunkyō Civic Center, Kabukiza Tower, NTT DoCoMo Shinagawa Building, River City 21 East Towers II, Hotel New Otani Tokyo, Garden Tower, Shinagawa Intercity Tower A, Canon S Tower, Iino Building, Shinagawa V-Tower, Shinagawa Prince Hotel New Tower, Mizuho Bank Headquarters, Akihabara Dai Building, East Core Towing Nibankan, Akasaka Park Building, World City Breeze Tower, World City Capital Tower, Shinagawa Intercity Tower B, Shinagawa Intercity Tower C, River City 21 Skylight Tower, World City Aqua Tower, The Tower Grandia, Keio Plaza Hotel South Building, Tokyo Times Tower, Roppongi T-CUBE, Venasis Kanamachi Tower Residence, Otemachi Nomura Building, Futakotamagawa Rise 2a, Cosmopolis Shinagawa, Nippon Express Headquarters, Tekko Building, Hotel New Otani Garden Court, Akasaka Intercity, Riverside Sumida Center, Nakano-Sakaue Sun Bright Twin, Moon Island Tower	, Shinjuku NS Building, Shiodome Building, Tokyo Tech Tower, Tokyo ANA Tower, NBF Osaki Building, Sumitomo Realty Shiba-Koen Tower, NTT Data Shinagawa Building, River City 21 Riverpoint Tower , Shibuya Cross Tower, City Tower Shinjuku Shintoshin, Shinjuku Kokusai Building - Hilton Tokyo, Tomin Tower Shinonome, Imperial Hotel Imperial Tower, River City 21 East Towers I, Ochanomizu Sola City, NTT Shinjuku Head Office Building, Shiodome Sumitomo Building, M&D Tower, Tokyo Square Garden, Shinjuku L Tower, Takeda Global Headquarters, FUJI TV Headquarters, Shinjuku Monolith Building, STEC Information Building, Boissonade Tower, The Towers Daiba East, The Towers Daiba West, Keidanren Kaikan, Ginza Mitsui Building, Coredo Nihombashi, Tokyu Capitol Tower, Sumitomo Fudosan Shiodome Hamarikyu Building, Toyosu Canal Wharf Tower East, Toyosu Canal Wharf Tower West, Panasonic Electric Works Tokyo Headquarters Building, Shin-Marunouchi Center Building, Asahi Seimei Otemachi Building, Muromachi Furukawa Mitsui Building, Kosha Tower Tsukuda	, Sun City Ginza East, Liberty Tower, Toyo Takarazuka Theatre, Sumitomo Mitsui Banking Corporation Head Office, Izumi Garden Residence, Hyatt Regency Tokyo, Nishi-Shinbashi Square, Ariake Frontier Building, Toranomon Kotohira Tower, Roppongi 3 Chome East District Redevelopment Residential Tower, Nippon Life Marunouchi Garden Tower, Mitsubishi Corporation Building, Risona Maruha Building Redevelopment, Palace Building, Tradepia Odaiba, Palace Hotel Tokyo, DN Tower 21, Grand Nikko Tokyo Daiba, Midtown East, Daiba Frontier Building, Shin-Gofukubashi Building, Shiodome Shiba-rikyu Building, Toranomon Towers Office, Park Tower Shinagawa Bayward, Kanda Warabi-cho district first type city redevelopment project, Celia Odaiba Area 1 Building 1, Tomin Tower Daiba Area 1 Building 2, The Peninsula Tokyo, I-Mark Tower, Tokyo Mitsubishi UFJ Bank Head Office, BAYZ Tower & Garden , National Cancer Center Chuo Hospital, Shinjuku Green Tower Building, Lions Tower Tsukishima	, The Crest Tower, Kyobashi Trust Tower, Shinagawa Prince Hotel Executive Tower, Nihonbashi Muromachi Nomura Building, Tokyo Marine Nichido Building, Ark Hills South Tower, Muromachi Higashi Mitsui Building, Dai-ichi Hotel Tokyo, Kokusai Fashion Center, Shibuya Mark City West Tower, Holland Hills Mori Tower, KDDI Otemachi Building, NTT Shinagawa Twins Annex Building, DiverCity Tokyo Office Tower, Shimizu Corporation Tokyo Headquarters, Otemachi First Square - East, Otemachi First Square - West, Ootemachi Financial Center Building, Daido Seimei Kasumigaseki Building, Akasaka Tameike Tower, The Prince Park Tower Tokyo, Mitsui Marine & Fire Insurance Co. Headquarters, Storia Shinagawa, Yaesu First Financial Building, Motoazabu Hills Forest Tower, Shibuya Infos Tower, Shin-Saiwaibashi Building, Futakotamagawa Rise Tower & Residence Building A, Futakotamagawa Rise Tower & Residence Building C, Mitsui Sumitomo Insurance Kanda Surugadai Annex, Tokyo Baycourt Club Hotel and Spa Resort, River Pier Azumabashi Life Tower, River City 21 Cityfront Tower , Ote Center Building, W Building, Shibuya Mark City East Tower, Kokusai Shin-Akasaka East Building, JR Shinagawa East Building, Juntendo University Hospital Building B, Marunouchi Trust Tower North Building, Akasaka Centerville, Momento Shiodome, Sony City, Jikei University Hospital, Toppan Forms Head Office Building, Toranomon 2-chome Tower, Atlas Tower Roppongi, Onarimon Tokyo Jikei Medical School New Building, UrbanNet Otemachi Building, Shinjuku Washington Hotel, Grand Hyatt Tokyo, TBS Broadcasting Center, Asahi Beer Azumabashi Building, Pacific Tower Roppongi, T&D Financial Building, Center for the Mentally and Physically Handicapped, Marunouchi Hotel, Industrial Property Information and Training Museum, Tokyo Medical and Dental University Building 3, Century Tower, Roppongi First Building, Shinjuku First West, Tokyo Garden Terrace Kioicho - Kioi Residence, Tokyo Bank Association Building, Tokyo Medical and Dental University Hospital B Wing, Toyota Tokyo Headquarters, The Itoyama Tower, Tokyo Medical and Dental University Hospital A Wing, Tokyo Medical University Hospital, Marunouchi Center Building, Shinagawa Crystal Square, Hibiya Dai Building, JX Building, Sumida Ward Office, Teikyo University Hospital, Okubo Hospital Tower 2, Kokusai Akasaka Building, Koraku Mori Building, University of Tokyo Hospital, IM Tower, Muromachi Chibagin Mitsui Building, Okubo Hospital Tower 1, Showa University Hospital, Roppongi Ark Towers East, Juntendo University Hospital Building 1, Shimbashi No 29 Redevelopment
+Tiers: I: 71, II: 141, III: 137, IV: 15
+Rating: 991 (1.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Toranomon Hills ***
+Height: 255.5
+Floors: 52
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: hotel / residential / office
+Rank: 1
+
+*** Midtown Tower ***
+Height: 247.9
+Floors: 54
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: hotel / office
+Rank: 2
+
+*** Tokyo Metropolitan Government Building ***
+Height: 243.39
+Floors: 48
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: office
+Rank: 3
+
+*** Sunshine 60 Tower ***
+Height: 240
+Floors: 60
+Status: Completed
+Started: 1973
+Completed: 1978
+Functions: office
+Rank: 4
+
+*** NTT DoCoMo Yoyogi Building ***
+Height: 240
+Floors: 33
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 5
+
+*** Roppongi Hills Mori Tower ***
+Height: 238.06
+Floors: 54
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 6
+
+*** Opera City Tower ***
+Height: 234.37
+Floors: 54
+Status: Completed
+Started: 1992
+Completed: 1997
+Functions: office
+Rank: 7
+
+*** Shinjuku Park Tower ***
+Height: 232.57
+Floors: 52
+Status: Completed
+Started: 1990
+Completed: 1994
+Functions: hotel / office
+Rank: 8
+
+*** Sumitomo Roppongi Grand Tower ***
+Height: 230
+Floors: 40
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 9
+
+*** Shibuya Scramble Square ***
+Height: 228.3
+Floors: 47
+Status: Structurally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 10
+
+*** Shinjuku Mitsui Building ***
+Height: 225
+Floors: 55
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: office
+Rank: 11
+
+*** Shinjuku Center Building ***
+Height: 222.81
+Floors: 54
+Status: Completed
+Started: 1976
+Completed: 1979
+Functions: office / retail
+Rank: 12
+
+*** St. Luke's Tower ***
+Height: 220.63
+Floors: 51
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 13
+
+*** Shiodome City Center ***
+Height: 215.75
+Floors: 43
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 14
+
+*** Dentsu Headquarters Building ***
+Height: 213.34
+Floors: 48
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 15
+
+*** Shinjuku Sumitomo Building ***
+Height: 210.3
+Floors: 52
+Status: Completed
+Started: 1971
+Completed: 1974
+Functions: office
+Rank: 16
+
+*** Shinjuku Nomura Building ***
+Height: 209
+Floors: 53
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 17
+
+*** The Parkhouse Nishi Shinjuku Tower 60 ***
+Height: 208.97
+Floors: 60
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 18
+
+*** Ark Hills Sengokuyama Mori Tower ***
+Height: 206.69
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office / residential
+Rank: 19
+
+*** Akasaka Intercity AIR ***
+Height: 205.08
+Floors: 37
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 20
+
+*** GranTokyo North Tower ***
+Height: 205
+Floors: 43
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 21
+
+*** GranTokyo South Tower ***
+Height: 205
+Floors: 42
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 22
+
+*** Mode Gakuen Cocoon Tower ***
+Height: 203.65
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: education
+Rank: 23
+
+*** Izumi Garden Tower ***
+Height: 201
+Floors: 43
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: hotel / office
+Rank: 24
+
+*** Japan Post Tower ***
+Height: 200.1
+Floors: 40
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 25
+
+*** Sompo Japan Head Office Building ***
+Height: 200
+Floors: 43
+Status: Completed
+Started: 1973
+Completed: 1976
+Functions: office
+Rank: 26
+
+*** The Yomiuri Shimbun Building ***
+Height: 200
+Floors: 33
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 27
+
+*** The Otemachi Tower ***
+Height: 199.7
+Floors: 38
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: hotel / office
+Rank: 28
+
+*** Shin-Marunouchi Building ***
+Height: 198
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 29
+
+*** Sumitomo Fudosan Shinjuku Grand Tower ***
+Height: 195.2
+Floors: 40
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 30
+
+*** Harumi Island Triton Square Tower X ***
+Height: 194.9
+Floors: 44
+Status: Completed
+Started: 1994
+Completed: 2001
+Functions: office
+Rank: 31
+
+*** Sanno Park Tower ***
+Height: 194.45
+Floors: 44
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 32
+
+*** Nippon Television Tower ***
+Height: 192.8
+Floors: 32
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office / retail
+Rank: 33
+
+*** Nihonbashi Mitsui Tower ***
+Height: 192.34
+Floors: 39
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: hotel / office
+Rank: 34
+
+*** Kachidoki View Tower ***
+Height: 192.2
+Floors: 55
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office
+Rank: 35
+
+*** The Tokyo Towers Mid Tower ***
+Height: 192
+Floors: 58
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 36
+
+*** The Tokyo Towers Sea Tower ***
+Height: 192
+Floors: 58
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 36
+
+*** Tokyo Midtown Hibiya ***
+Height: 191.5
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office / retail
+Rank: 38
+
+*** Tomihisa Cross Comfort Tower ***
+Height: 191
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 39
+
+*** Acty Shiodome ***
+Height: 190.3
+Floors: 58
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: residential
+Rank: 40
+
+*** Shinjuku I-Land Tower ***
+Height: 190
+Floors: 44
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 41
+
+*** Toshima Ecomusee Town ***
+Height: 189
+Floors: 50
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / office
+Rank: 42
+
+*** Cerulean Tower ***
+Height: 188
+Floors: 41
+Status: Completed
+Completed: 2001
+Functions: residential / hotel / office
+Rank: 43
+
+*** Capital Gate Place ***
+Height: 187.1
+Floors: 53
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 44
+
+*** Atago Green Hills Mori Tower ***
+Height: 187
+Floors: 42
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 45
+
+*** Shinjuku Oak Tower ***
+Height: 183.84
+Floors: 38
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 46
+
+*** Owl Tower ***
+Height: 182.8
+Floors: 52
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 47
+
+*** Shibuya Hikarie ***
+Height: 182.5
+Floors: 34
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / exhibition / retail
+Rank: 48
+
+*** Tokyo Nihonbashi Tower ***
+Height: 182.17
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 49
+
+*** Century Park Tower ***
+Height: 180
+Floors: 54
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: residential
+Rank: 50
+
+*** Park City Toyosu Building A ***
+Height: 180
+Floors: 52
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 51
+
+*** Proud Tower Shinonome Canal Court ***
+Height: 180
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 51
+
+*** NEC Supertower ***
+Height: 180
+Floors: 44
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 53
+
+*** JA Building ***
+Height: 180
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 54
+
+*** Shibuya Stream ***
+Height: 180
+Floors: 37
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office / hotel
+Rank: 54
+
+*** Tokyo Garden Terrace Kioicho - Kioi Tower ***
+Height: 180
+Floors: 36
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office / retail
+Rank: 56
+
+*** Sumitomo Fudosan Mita Twin Building West ***
+Height: 179.3
+Floors: 43
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: hotel / office
+Rank: 57
+
+*** Akasaka Biz Tower ***
+Height: 179.25
+Floors: 39
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 58
+
+*** Marunouchi Building ***
+Height: 179
+Floors: 37
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 59
+
+*** Otemachi 2-Chome 1st Class Urban Redevelopment Project Building A ***
+Height: 179
+Floors: 35
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 60
+
+*** Kachidoki The Tower ***
+Height: 178.78
+Floors: 53
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 61
+
+*** W-Comfort Towers East ***
+Height: 178.48
+Floors: 54
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 62
+
+*** Keio Plaza North Building ***
+Height: 178
+Floors: 47
+Status: Completed
+Started: 1968
+Completed: 1971
+Functions: hotel
+Rank: 63
+
+*** Marunouchi Trust Building Main Tower ***
+Height: 178
+Floors: 37
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: hotel / office
+Rank: 64
+
+*** A2 Tower 3 Harumi ***
+Height: 177.3
+Floors: 51
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 65
+
+*** A3 Tower 3 Harumi ***
+Height: 177.3
+Floors: 51
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 65
+
+*** Otemachi Financial City South Tower ***
+Height: 177
+Floors: 34
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 67
+
+*** Kasumigaseki Common Gate West Building ***
+Height: 176
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 68
+
+*** Harumi Island Triton Square Tower Y ***
+Height: 175
+Floors: 40
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 69
+
+*** The Parkhouse Harumi Towers Tiaro Residence ***
+Height: 174.7
+Floors: 49
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 70
+
+*** Tokyo Shiodome Building  ***
+Height: 173.2
+Floors: 37
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: hotel / office
+Rank: 71
+
+*** Shiodome Media Tower ***
+Height: 172.55
+Floors: 34
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: hotel / office
+Rank: 72
+
+*** Park Axis Aoyama 1-chome Tower ***
+Height: 172.39
+Floors: 46
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 73
+
+*** Royal Park Shiodome Tower ***
+Height: 172
+Floors: 38
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: hotel / office
+Rank: 74
+
+*** City Towers Toyosu North Tower ***
+Height: 171.2
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 75
+
+***  Kyobashi EDOGRAND ***
+Height: 170.37
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office / retail
+Rank: 76
+
+*** Shibaura Island Air Tower ***
+Height: 170
+Floors: 48
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 77
+
+*** Park Court Akasaka Hinokicho The Tower ***
+Height: 170
+Floors: 44
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 78
+
+*** Marunouchi Park Building ***
+Height: 170
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 79
+
+*** JT Building ***
+Height: 169.7
+Floors: 35
+Status: Completed
+Started: 1991
+Completed: 1995
+Functions: office
+Rank: 80
+
+*** The Parkhouse Harumi Towers Krono Residence ***
+Height: 169.5
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 81
+
+*** Bay City Harumi Sky Link Tower ***
+Height: 169
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 82
+
+*** Shibaura Island Grove Tower ***
+Height: 168.8
+Floors: 49
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 83
+
+*** Otemachi Financial City Grand Cube ***
+Height: 168.28
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office / retail
+Rank: 84
+
+*** JR Shinjuku Miraina Tower ***
+Height: 167.95
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: office / retail
+Rank: 85
+
+*** Central Park La Tour Shinjuku ***
+Height: 167.8
+Floors: 46
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 86
+
+*** Shibaura Island Bloom Tower ***
+Height: 167.4
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 87
+
+*** Sapia Tower ***
+Height: 167.2
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel / office
+Rank: 88
+
+*** Capital Mark Tower ***
+Height: 167
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 89
+
+*** Toshiba Building ***
+Height: 167
+Floors: 40
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 90
+
+*** Yebisu Garden Place Tower ***
+Height: 167
+Floors: 40
+Status: Completed
+Started: 1991
+Completed: 1994
+Functions: office
+Rank: 90
+
+*** City Towers Toyosu South Tower ***
+Height: 166.9
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 92
+
+*** Kita Shinjuku 2 Chome Building ***
+Height: 166.5
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 93
+
+*** Toyosu Center Building ***
+Height: 165.2
+Floors: 37
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 94
+
+*** Harumi View Tower ***
+Height: 165
+Floors: 50
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: residential
+Rank: 95
+
+*** Twin Parks Left Wing ***
+Height: 165
+Floors: 47
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 96
+
+*** Twin Parks Right Wing ***
+Height: 165
+Floors: 47
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 96
+
+*** Naka-Meguro Atlas Tower ***
+Height: 165
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / office
+Rank: 98
+
+*** Otemachi 2-Chome 1st Class Urban Redevelopment Project Building B ***
+Height: 165
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 99
+
+*** Waterras Tower ***
+Height: 164.9
+Floors: 41
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office / residential / retail
+Rank: 100
+
+*** KDDI Building ***
+Height: 164.7
+Floors: 32
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 101
+
+*** Tokyo Building ***
+Height: 164
+Floors: 33
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 102
+
+*** Tokyo Metropolitan Government Building II ***
+Height: 163.3
+Floors: 34
+Status: Completed
+Started: 1988
+Completed: 1991
+Functions: government
+Rank: 103
+
+*** Shirogane 6-Chome Redevelopment ***
+Height: 163
+Floors: 40
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 104
+
+*** Akasaka Tower Residence ***
+Height: 162
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 105
+
+*** Shibaura Island Cape Tower ***
+Height: 161
+Floors: 48
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 106
+
+*** Shinjuku Maynds Tower ***
+Height: 161
+Floors: 34
+Status: Completed
+Started: 1992
+Completed: 1995
+Functions: office
+Rank: 107
+
+*** Nihon Seimei Marunouchi Building ***
+Height: 160
+Floors: 28
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 108
+
+*** Concieria Nishi-Shinjuku Tower's West ***
+Height: 159.8
+Floors: 44
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 109
+
+*** Tornare Nihonbashi Hamacho Tower ***
+Height: 159.7
+Floors: 47
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 110
+
+*** Apartment Tower Kachidoki ***
+Height: 159.7
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 111
+
+*** Shiba 3-Chome Coop Building ***
+Height: 159.3
+Floors: 34
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 112
+
+*** Brillia Tower Tokyo ***
+Height: 159.11
+Floors: 45
+Status: Completed
+Started: 2002
+Completed: 2006
+Functions: residential
+Rank: 113
+
+*** Roppongi Hills Residential Building B ***
+Height: 159.11
+Floors: 43
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 114
+
+*** Roppongi Hills Residential Building C ***
+Height: 159.11
+Floors: 43
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 114
+
+*** Prudential Tower ***
+Height: 158.35
+Floors: 38
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential / office
+Rank: 116
+
+*** Tokyo World Trade Center ***
+Height: 158
+Floors: 40
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 117
+
+*** Joyama Project ***
+Height: 158
+Floors: 36
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 118
+
+*** Sky Tree East ***
+Height: 158
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 119
+
+*** K-Tower ***
+Height: 158
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential / office
+Rank: 120
+
+*** Shiroyama JT Trust Tower ***
+Height: 157.89
+Floors: 36
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 121
+
+*** Park Court Akasaka The Tower ***
+Height: 157.3
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / office
+Rank: 122
+
+*** Atago Green Hills Forest Tower ***
+Height: 157
+Floors: 42
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 123
+
+*** Kasumigaseki Common Gate East Building ***
+Height: 156.7
+Floors: 33
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 124
+
+*** Kasumigaseki Building ***
+Height: 156
+Floors: 36
+Status: Completed
+Started: 1965
+Completed: 1968
+Functions: office
+Rank: 125
+
+*** NTT DoCoMo Sumida Building ***
+Height: 156
+Floors: 27
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 126
+
+*** Shinagawa Season Terrace ***
+Height: 155.4
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 127
+
+*** Plaza Tower Kachidoki ***
+Height: 155.15
+Floors: 43
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 128
+
+*** The Toyosu Tower ***
+Height: 155.1
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 129
+
+*** Tokyo Dome Hotel ***
+Height: 155
+Floors: 43
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: hotel
+Rank: 130
+
+*** Harumi Island Triton Square Tower Z ***
+Height: 155
+Floors: 35
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office
+Rank: 131
+
+*** Nikkei Building ***
+Height: 155
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 132
+
+*** SKYZ Tower & Garden ***
+Height: 154
+Floors: 44
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 133
+
+*** Otemachi Financial City North Tower ***
+Height: 154
+Floors: 30
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 134
+
+*** Hilltop Tower ***
+Height: 153.9
+Floors: 47
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 135
+
+*** Toranomon Towers Residence ***
+Height: 153.5
+Floors: 41
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 136
+
+*** W-Comfort Towers West ***
+Height: 153.4
+Floors: 45
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 137
+
+*** City Towers Toyosu The Symbol ***
+Height: 153
+Floors: 44
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 138
+
+*** Station Garden Tower ***
+Height: 153
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential / office
+Rank: 139
+
+*** Ark Hills Mori Building ***
+Height: 153
+Floors: 37
+Status: Completed
+Started: 1983
+Completed: 1986
+Functions: office
+Rank: 140
+
+*** Park Tower Gran Sky ***
+Height: 152.9
+Floors: 44
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 141
+
+*** Garden Air Tower ***
+Height: 152.6
+Floors: 35
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 142
+
+*** Futakotamagawa Rise Tower & Residence East ***
+Height: 151.1
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 143
+
+*** Odakyu Southern Tower ***
+Height: 151
+Floors: 36
+Status: Completed
+Completed: 1998
+Functions: hotel / office
+Rank: 144
+
+*** Shiba-Koen First Building ***
+Height: 151
+Floors: 35
+Status: Completed
+Completed: 2000
+Functions: residential / office
+Rank: 145
+
+*** Kudan Dai 3 Complex Chiyoda Prefecture Office ***
+Height: 151
+Floors: 23
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: government
+Rank: 146
+
+*** Air Rise Tower ***
+Height: 150.6
+Floors: 42
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 147
+
+*** The Roppongi Tokyo Club Residence ***
+Height: 150.3
+Floors: 39
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential / office / retail
+Rank: 148
+
+*** Sumitomo Mitsui Banking Corporation East Tower ***
+Height: 150
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 149
+
+*** Iidabashi Grand Bloom ***
+Height: 150
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 150
+
+*** JR East Japan Building ***
+Height: 150
+Floors: 28
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 151
+
+*** Marunouchi Eiraku Building ***
+Height: 150
+Floors: 27
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office / retail
+Rank: 152
+
+*** Granpark Tower ***
+Height: 149.96
+Floors: 34
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 153
+
+*** Otemachi Park Building ***
+Height: 149.95
+Floors: 31
+Status: Completed
+Completed: 2017
+Functions: serviced apartments / office
+Rank: 154
+
+*** Iidabashi Grand Bloom ***
+Height: 149.88
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 155
+
+*** Pacific Century Plaza ***
+Height: 149.8
+Floors: 32
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: hotel / office
+Rank: 156
+
+*** Sumitomo Realty Iidabashi First Tower ***
+Height: 149.7
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office
+Rank: 157
+
+*** Park Court Chiyoda Fujimi The Tower ***
+Height: 149.1
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 158
+
+*** Park Court Chiyoda Fujimi Tower ***
+Height: 149
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 159
+
+*** Shinagawa East One Tower ***
+Height: 149
+Floors: 32
+Status: Completed
+Completed: 2003
+Functions: hotel / office
+Rank: 160
+
+*** Shinagawa Grand Central Tower ***
+Height: 148
+Floors: 32
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 161
+
+*** Akihabara Fuji Soft ABC Building ***
+Height: 148
+Floors: 31
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 162
+
+*** Mitsubishi UFJ Trust & Banking Corporate Head Office ***
+Height: 148
+Floors: 30
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 163
+
+*** Taiyo Life Shinagawa Building ***
+Height: 148
+Floors: 30
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 163
+
+*** Marunouchi Kitaguchi Building ***
+Height: 147.4
+Floors: 29
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 165
+
+*** Toyosu Center Building Annex ***
+Height: 147
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 166
+
+*** Mitsubishi Heavy Industries Building ***
+Height: 147
+Floors: 32
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 167
+
+*** Meiji Yasuda Life Building ***
+Height: 146.8
+Floors: 30
+Status: Completed
+Completed: 2004
+Functions: hotel / office
+Rank: 168
+
+*** St. Luke's International Residences ***
+Height: 146
+Floors: 38
+Status: Completed
+Completed: 1994
+Functions: residential / hotel
+Rank: 169
+
+*** Tokyo Sankei New Building ***
+Height: 146
+Floors: 33
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: office / retail
+Rank: 170
+
+*** Bunkyō Civic Center ***
+Height: 145.7
+Floors: 28
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 171
+
+*** Kabukiza Tower ***
+Height: 145.5
+Floors: 29
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office / residential
+Rank: 172
+
+*** NTT DoCoMo Shinagawa Building ***
+Height: 145
+Floors: 29
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 173
+
+*** River City 21 East Towers II ***
+Height: 144.9
+Floors: 43
+Status: Completed
+Started: 1997
+Completed: 2000
+Functions: residential
+Rank: 174
+
+*** Hotel New Otani Tokyo, Garden Tower ***
+Height: 144.5
+Floors: 40
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 175
+
+*** Shinagawa Intercity Tower A ***
+Height: 144.5
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: office / retail
+Rank: 176
+
+*** Canon S Tower ***
+Height: 144.17
+Floors: 29
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 177
+
+*** Iino Building ***
+Height: 143
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 178
+
+*** Shinagawa V-Tower ***
+Height: 142.95
+Floors: 43
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 179
+
+*** Shinagawa Prince Hotel New Tower ***
+Height: 142.9
+Floors: 39
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 180
+
+*** Mizuho Bank Headquarters ***
+Height: 142.5
+Floors: 35
+Status: Completed
+Started: 1977
+Completed: 1980
+Functions: office
+Rank: 181
+
+*** Akihabara Dai Building ***
+Height: 142.01
+Floors: 31
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 182
+
+*** East Core Towing Nibankan ***
+Height: 141.6
+Floors: 41
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 183
+
+*** Akasaka Park Building ***
+Height: 141
+Floors: 32
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 184
+
+*** World City Breeze Tower ***
+Height: 139.9
+Floors: 43
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 185
+
+*** World City Capital Tower ***
+Height: 139.9
+Floors: 43
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 185
+
+*** Shinagawa Intercity Tower B ***
+Height: 139.9
+Floors: 32
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office / retail
+Rank: 187
+
+*** Shinagawa Intercity Tower C ***
+Height: 139.9
+Floors: 32
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office / retail
+Rank: 187
+
+*** River City 21 Skylight Tower ***
+Height: 139
+Floors: 40
+Status: Completed
+Started: 1990
+Completed: 1993
+Functions: residential
+Rank: 189
+
+*** World City Aqua Tower ***
+Height: 138.7
+Floors: 41
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 190
+
+*** The Tower Grandia ***
+Height: 138.7
+Floors: 38
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 191
+
+*** Keio Plaza Hotel South Building ***
+Height: 138.7
+Floors: 35
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 192
+
+*** Tokyo Times Tower ***
+Height: 138.45
+Floors: 41
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 193
+
+*** Roppongi T-CUBE ***
+Height: 138.4
+Floors: 27
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office / residential / retail
+Rank: 194
+
+*** Venasis Kanamachi Tower Residence ***
+Height: 138.2
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 195
+
+*** Otemachi Nomura Building ***
+Height: 138.1
+Floors: 27
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 196
+
+*** Futakotamagawa Rise 2a ***
+Height: 137
+Floors: 30
+Status: Completed
+Completed: 2015
+Functions: office / hotel
+Rank: 197
+
+*** Cosmopolis Shinagawa ***
+Height: 136.9
+Floors: 40
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 198
+
+*** Nippon Express Headquarters ***
+Height: 136.6
+Floors: 28
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 199
+
+*** Tekko Building ***
+Height: 135
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 200
+
+*** Hotel New Otani Garden Court ***
+Height: 134.7
+Floors: 30
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: hotel
+Rank: 201
+
+*** Akasaka Intercity ***
+Height: 134.7
+Floors: 29
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 202
+
+*** Riverside Sumida Center ***
+Height: 134.4
+Floors: 33
+Status: Completed
+Completed: 1994
+Functions: residential
+Rank: 203
+
+*** Nakano-Sakaue Sun Bright Twin ***
+Height: 134
+Floors: 30
+Status: Completed
+Completed: 1996
+Functions: office / retail
+Rank: 204
+
+*** Moon Island Tower	 ***
+Height: 133.8
+Floors: 38
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 205
+
+*** Shinjuku NS Building ***
+Height: 133.8
+Floors: 30
+Status: Completed
+Started: 1979
+Completed: 1982
+Functions: office
+Rank: 206
+
+*** Shiodome Building ***
+Height: 133.5
+Floors: 26
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 207
+
+*** Tokyo Tech Tower ***
+Height: 133.26
+Floors: 29
+Status: Completed
+Completed: 1989
+Functions: education
+Rank: 208
+
+*** Tokyo ANA Tower ***
+Height: 132.9
+Floors: 36
+Status: Completed
+Started: 1983
+Completed: 1986
+Functions: hotel / retail
+Rank: 209
+
+*** NBF Osaki Building ***
+Height: 132.9
+Floors: 25
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 210
+
+*** Sumitomo Realty Shiba-Koen Tower ***
+Height: 132.6
+Floors: 35
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 211
+
+*** NTT Data Shinagawa Building ***
+Height: 132.3
+Floors: 27
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 212
+
+*** River City 21 Riverpoint Tower  ***
+Height: 131.68
+Floors: 40
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 213
+
+*** Shibuya Cross Tower ***
+Height: 131
+Floors: 32
+Status: Completed
+Started: 1972
+Completed: 1975
+Functions: office
+Rank: 214
+
+*** City Tower Shinjuku Shintoshin ***
+Height: 130.45
+Floors: 37
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential / retail
+Rank: 215
+
+*** Shinjuku Kokusai Building - Hilton Tokyo ***
+Height: 130.3
+Floors: 38
+Status: Completed
+Completed: 1984
+Functions: hotel
+Rank: 216
+
+*** Tomin Tower Shinonome ***
+Height: 130
+Floors: 36
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 217
+
+*** Imperial Hotel Imperial Tower ***
+Height: 129.2
+Floors: 31
+Status: Completed
+Started: 1979
+Completed: 1983
+Functions: hotel
+Rank: 218
+
+*** River City 21 East Towers I ***
+Height: 128
+Floors: 37
+Status: Completed
+Completed: 1988
+Functions: residential
+Rank: 219
+
+*** Ochanomizu Sola City ***
+Height: 127.4
+Floors: 23
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 220
+
+*** NTT Shinjuku Head Office Building ***
+Height: 127.1
+Floors: 30
+Status: Completed
+Started: 1990
+Completed: 1995
+Functions: office
+Rank: 221
+
+*** Shiodome Sumitomo Building ***
+Height: 126.41
+Floors: 25
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: hotel
+Rank: 222
+
+*** M&D Tower ***
+Height: 125.9
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2009
+Functions: education / hospital
+Rank: 223
+
+*** Tokyo Square Garden ***
+Height: 124.4
+Floors: 26
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office / retail
+Rank: 224
+
+*** Shinjuku L Tower ***
+Height: 124
+Floors: 31
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 225
+
+*** Takeda Global Headquarters ***
+Height: 124
+Floors: 24
+Status: Completed
+Functions: office
+Rank: 226
+
+*** FUJI TV Headquarters ***
+Height: 123.45
+Floors: 25
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: office
+Rank: 227
+
+*** Shinjuku Monolith Building ***
+Height: 123.4
+Floors: 30
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 228
+
+*** STEC Information Building ***
+Height: 123.4
+Floors: 27
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: office
+Rank: 229
+
+*** Boissonade Tower ***
+Height: 122.53
+Floors: 27
+Status: Completed
+Completed: 2000
+Functions: education
+Rank: 230
+
+*** The Towers Daiba East ***
+Height: 122.2
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 231
+
+*** The Towers Daiba West ***
+Height: 122.2
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 231
+
+*** Keidanren Kaikan ***
+Height: 121.9
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 233
+
+*** Ginza Mitsui Building ***
+Height: 121.3
+Floors: 24
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: hotel / office
+Rank: 234
+
+*** Coredo Nihombashi ***
+Height: 120.7
+Floors: 20
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office / retail
+Rank: 235
+
+*** Tokyu Capitol Tower ***
+Height: 120.3
+Floors: 29
+Status: Completed
+Completed: 2010
+Functions: hotel
+Rank: 236
+
+*** Sumitomo Fudosan Shiodome Hamarikyu Building ***
+Height: 120.1
+Floors: 21
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 237
+
+*** Toyosu Canal Wharf Tower East ***
+Height: 120
+Floors: 36
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 238
+
+*** Toyosu Canal Wharf Tower West ***
+Height: 120
+Floors: 36
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 238
+
+*** Panasonic Electric Works Tokyo Headquarters Building ***
+Height: 119.8
+Floors: 25
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: office
+Rank: 240
+
+*** Shin-Marunouchi Center Building ***
+Height: 119.8
+Floors: 25
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office / retail
+Rank: 240
+
+*** Asahi Seimei Otemachi Building ***
+Height: 119.5
+Floors: 29
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 242
+
+*** Muromachi Furukawa Mitsui Building ***
+Height: 119.2
+Floors: 23
+Status: Completed
+Completed: 2014
+Functions: office / retail
+Rank: 243
+
+*** Kosha Tower Tsukuda	 ***
+Height: 119
+Floors: 37
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 244
+
+*** Sun City Ginza East ***
+Height: 119
+Floors: 32
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 245
+
+*** Liberty Tower ***
+Height: 119
+Floors: 23
+Status: Completed
+Completed: 1998
+Functions: education
+Rank: 246
+
+*** Toyo Takarazuka Theatre ***
+Height: 117.9
+Floors: 19
+Status: Completed
+Completed: 2000
+Functions: exhibition
+Rank: 247
+
+*** Sumitomo Mitsui Banking Corporation Head Office ***
+Height: 117.1
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 248
+
+*** Izumi Garden Residence ***
+Height: 116.1
+Floors: 32
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 249
+
+*** Hyatt Regency Tokyo ***
+Height: 116
+Floors: 28
+Status: Completed
+Started: 1978
+Completed: 1980
+Functions: hotel
+Rank: 250
+
+*** Nishi-Shinbashi Square ***
+Height: 115.91
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 251
+
+*** Ariake Frontier Building ***
+Height: 115.9
+Floors: 21
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 252
+
+*** Toranomon Kotohira Tower ***
+Height: 115.2
+Floors: 26
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 253
+
+*** Roppongi 3 Chome East District Redevelopment Residential Tower ***
+Height: 115
+Floors: 27
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 254
+
+*** Nippon Life Marunouchi Garden Tower ***
+Height: 115
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 255
+
+*** Mitsubishi Corporation Building ***
+Height: 114.9
+Floors: 23
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 256
+
+*** Risona Maruha Building Redevelopment ***
+Height: 114.85
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: office / retail
+Rank: 257
+
+*** Palace Building ***
+Height: 114
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 258
+
+*** Tradepia Odaiba ***
+Height: 114
+Floors: 24
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 259
+
+*** Palace Hotel Tokyo ***
+Height: 114
+Floors: 23
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 260
+
+*** DN Tower 21 ***
+Height: 114
+Floors: 21
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 261
+
+*** Grand Nikko Tokyo Daiba ***
+Height: 113.4
+Floors: 30
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 262
+
+*** Midtown East ***
+Height: 113.4
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office / residential
+Rank: 263
+
+*** Daiba Frontier Building ***
+Height: 113
+Floors: 23
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 264
+
+*** Shin-Gofukubashi Building ***
+Height: 112.5
+Floors: 21
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 265
+
+*** Shiodome Shiba-rikyu Building ***
+Height: 112.5
+Floors: 21
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 265
+
+*** Toranomon Towers Office ***
+Height: 112.4
+Floors: 23
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 267
+
+*** Park Tower Shinagawa Bayward ***
+Height: 111.9
+Floors: 32
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 268
+
+*** Kanda Warabi-cho district first type city redevelopment project ***
+Height: 111.9
+Floors: 21
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential / office
+Rank: 269
+
+*** Celia Odaiba Area 1 Building 1 ***
+Height: 111.6
+Floors: 32
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 270
+
+*** Tomin Tower Daiba Area 1 Building 2 ***
+Height: 111.3
+Floors: 32
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 271
+
+*** The Peninsula Tokyo ***
+Height: 111.25
+Floors: 24
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 272
+
+*** I-Mark Tower ***
+Height: 110.9
+Floors: 32
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 273
+
+*** Tokyo Mitsubishi UFJ Bank Head Office ***
+Height: 110.6
+Floors: 24
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 274
+
+*** BAYZ Tower & Garden  ***
+Height: 110
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 275
+
+*** National Cancer Center Chuo Hospital ***
+Height: 109.8
+Floors: 19
+Status: Completed
+Completed: 1999
+Functions: hospital
+Rank: 276
+
+*** Shinjuku Green Tower Building ***
+Height: 109.6
+Floors: 29
+Status: Completed
+Completed: 1986
+Functions: office / retail
+Rank: 277
+
+*** Lions Tower Tsukishima	 ***
+Height: 109.1
+Floors: 32
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 278
+
+*** The Crest Tower ***
+Height: 109.1
+Floors: 32
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 278
+
+*** Kyobashi Trust Tower ***
+Height: 109
+Floors: 23
+Status: Completed
+Completed: 2014
+Functions: office / hotel / retail
+Rank: 280
+
+*** Shinagawa Prince Hotel Executive Tower ***
+Height: 108.5
+Floors: 32
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 281
+
+*** Nihonbashi Muromachi Nomura Building ***
+Height: 108.5
+Floors: 21
+Status: Completed
+Completed: 2010
+Functions: office / retail
+Rank: 282
+
+*** Tokyo Marine Nichido Building ***
+Height: 108.2
+Floors: 25
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 283
+
+*** Ark Hills South Tower ***
+Height: 108
+Floors: 20
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 284
+
+*** Muromachi Higashi Mitsui Building ***
+Height: 107.9
+Floors: 22
+Status: Completed
+Completed: 2010
+Functions: office / retail
+Rank: 285
+
+*** Dai-ichi Hotel Tokyo ***
+Height: 107.3
+Floors: 21
+Status: Completed
+Completed: 1993
+Functions: hotel
+Rank: 286
+
+*** Kokusai Fashion Center ***
+Height: 107.13
+Floors: 26
+Status: Completed
+Completed: 2000
+Functions: hotel / office / retail
+Rank: 287
+
+*** Shibuya Mark City West Tower ***
+Height: 106.8
+Floors: 23
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 288
+
+*** Holland Hills Mori Tower ***
+Height: 106.7
+Floors: 24
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential / office
+Rank: 289
+
+*** KDDI Otemachi Building ***
+Height: 106.7
+Floors: 23
+Status: Completed
+Completed: 1990
+Functions: office / retail
+Rank: 290
+
+*** NTT Shinagawa Twins Annex Building ***
+Height: 106.1
+Floors: 24
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 291
+
+*** DiverCity Tokyo Office Tower ***
+Height: 106
+Floors: 22
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office / retail
+Rank: 292
+
+*** Shimizu Corporation Tokyo Headquarters ***
+Height: 106
+Floors: 22
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 292
+
+*** Otemachi First Square - East ***
+Height: 105.8
+Floors: 23
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 294
+
+*** Otemachi First Square - West ***
+Height: 105.8
+Floors: 23
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 294
+
+*** Ootemachi Financial Center Building ***
+Height: 105
+Floors: 24
+Status: Completed
+Started: 2011
+Completed: 2011
+Functions: office
+Rank: 296
+
+*** Daido Seimei Kasumigaseki Building ***
+Height: 104.85
+Floors: 22
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 297
+
+*** Akasaka Tameike Tower ***
+Height: 104.8
+Floors: 25
+Status: Completed
+Completed: 2000
+Functions: residential / office
+Rank: 298
+
+*** The Prince Park Tower Tokyo ***
+Height: 104.5
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: hotel
+Rank: 299
+
+*** Mitsui Marine & Fire Insurance Co. Headquarters ***
+Height: 103.94
+Floors: 25
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 300
+
+*** Storia Shinagawa ***
+Height: 103.6
+Floors: 31
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 301
+
+*** Yaesu First Financial Building ***
+Height: 103.4
+Floors: 20
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 302
+
+*** Motoazabu Hills Forest Tower ***
+Height: 103
+Floors: 29
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 303
+
+*** Shibuya Infos Tower ***
+Height: 102.1
+Floors: 22
+Status: Completed
+Started: 1994
+Completed: 1998
+Functions: office
+Rank: 304
+
+*** Shin-Saiwaibashi Building ***
+Height: 102.1
+Floors: 22
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 304
+
+*** Futakotamagawa Rise Tower & Residence Building A ***
+Height: 102
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 306
+
+*** Futakotamagawa Rise Tower & Residence Building C ***
+Height: 102
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 306
+
+*** Mitsui Sumitomo Insurance Kanda Surugadai Annex ***
+Height: 102
+Floors: 22
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 308
+
+*** Tokyo Baycourt Club Hotel and Spa Resort ***
+Height: 101.1
+Floors: 26
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hotel
+Rank: 309
+
+*** River Pier Azumabashi Life Tower ***
+Height: 100.9
+Floors: 30
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 310
+
+*** River City 21 Cityfront Tower  ***
+Height: 100
+Floors: 31
+Status: Completed
+Started: 1986
+Completed: 1990
+Functions: residential
+Rank: 311
+
+*** Ote Center Building ***
+Height: 100
+Floors: 24
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 312
+
+*** W Building ***
+Height: 100
+Floors: 21
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 313
+
+*** Shibuya Mark City East Tower ***
+Height: 99.7
+Floors: 25
+Status: Completed
+Completed: 2000
+Functions: hotel / retail
+Rank: 314
+
+*** Kokusai Shin-Akasaka East Building ***
+Height: 99.7
+Floors: 24
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 315
+
+*** JR Shinagawa East Building ***
+Height: 99.7
+Floors: 20
+Status: Completed
+Completed: 2004
+Functions: office / retail
+Rank: 316
+
+*** Juntendo University Hospital Building B ***
+Height: 99.67
+Floors: 20
+Status: Completed
+Completed: 2014
+Functions: hospital
+Rank: 317
+
+*** Marunouchi Trust Tower North Building ***
+Height: 99.6
+Floors: 21
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office / retail
+Rank: 318
+
+*** Akasaka Centerville ***
+Height: 99.54
+Floors: 20
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 319
+
+*** Momento Shiodome ***
+Height: 99.42
+Floors: 24
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 320
+
+*** Sony City ***
+Height: 99.4
+Floors: 20
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 321
+
+*** Jikei University Hospital ***
+Height: 99.06
+Floors: 22
+Status: Completed
+Completed: 1999
+Functions: hospital
+Rank: 322
+
+*** Toppan Forms Head Office Building ***
+Height: 98.8
+Floors: 19
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 323
+
+*** Toranomon 2-chome Tower ***
+Height: 98.1
+Floors: 21
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 324
+
+*** Atlas Tower Roppongi ***
+Height: 98
+Floors: 29
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 325
+
+*** Onarimon Tokyo Jikei Medical School New Building ***
+Height: 97.8
+Floors: 22
+Status: Completed
+Completed: 1999
+Functions: education
+Rank: 326
+
+*** UrbanNet Otemachi Building ***
+Height: 96.3
+Floors: 22
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 327
+
+*** Shinjuku Washington Hotel ***
+Height: 96
+Floors: 25
+Status: Completed
+Completed: 1986
+Functions: hotel
+Rank: 328
+
+*** Grand Hyatt Tokyo ***
+Height: 95.71
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 329
+
+*** TBS Broadcasting Center ***
+Height: 95.1
+Floors: 20
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 330
+
+*** Asahi Beer Azumabashi Building ***
+Height: 95
+Floors: 22
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 331
+
+*** Pacific Tower Roppongi ***
+Height: 94.8
+Floors: 27
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 332
+
+*** T&D Financial Building ***
+Height: 94.8
+Floors: 20
+Status: Completed
+Completed: 1989
+Functions: hotel / office
+Rank: 333
+
+*** Center for the Mentally and Physically Handicapped ***
+Height: 94
+Floors: 23
+Status: Completed
+Completed: 1998
+Functions: hospital
+Rank: 334
+
+*** Marunouchi Hotel ***
+Height: 92.4
+Floors: 18
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 335
+
+*** Industrial Property Information and Training Museum ***
+Height: 92.3
+Floors: 18
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 336
+
+*** Tokyo Medical and Dental University Building 3 ***
+Height: 91.14
+Floors: 20
+Status: Completed
+Completed: 2004
+Functions: hospital
+Rank: 337
+
+*** Century Tower ***
+Height: 91.1
+Floors: 21
+Status: Completed
+Started: 1987
+Completed: 1991
+Functions: education
+Rank: 338
+
+*** Roppongi First Building ***
+Height: 91.1
+Floors: 20
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 339
+
+*** Shinjuku First West ***
+Height: 90.8
+Floors: 18
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 340
+
+*** Tokyo Garden Terrace Kioicho - Kioi Residence ***
+Height: 90
+Floors: 21
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 341
+
+*** Tokyo Bank Association Building ***
+Height: 89.9
+Floors: 20
+Status: Completed
+Started: 1991
+Completed: 1993
+Functions: office
+Rank: 342
+
+*** Tokyo Medical and Dental University Hospital B Wing ***
+Height: 89.61
+Floors: 18
+Status: Completed
+Completed: 1996
+Functions: hospital
+Rank: 343
+
+*** Toyota Tokyo Headquarters ***
+Height: 89
+Floors: 19
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 344
+
+*** The Itoyama Tower ***
+Height: 88.4
+Floors: 19
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 345
+
+*** Tokyo Medical and Dental University Hospital A Wing ***
+Height: 87.48
+Floors: 16
+Status: Completed
+Completed: 1991
+Functions: hospital
+Rank: 346
+
+*** Tokyo Medical University Hospital ***
+Height: 85.65
+Floors: 18
+Status: Completed
+Completed: 1986
+Functions: hospital
+Rank: 347
+
+*** Marunouchi Center Building ***
+Height: 85.3
+Floors: 20
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 348
+
+*** Shinagawa Crystal Square ***
+Height: 84.4
+Floors: 20
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 349
+
+*** Hibiya Dai Building ***
+Height: 84.1
+Floors: 21
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 350
+
+*** JX Building ***
+Height: 84
+Floors: 20
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 351
+
+*** Sumida Ward Office ***
+Height: 84
+Floors: 19
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 352
+
+*** Teikyo University Hospital ***
+Height: 83.52
+Floors: 18
+Status: Completed
+Functions: hospital
+Rank: 353
+
+*** Okubo Hospital Tower 2 ***
+Height: 82.91
+Floors: 17
+Status: Completed
+Functions: office / hospital
+Rank: 354
+
+*** Kokusai Akasaka Building ***
+Height: 82.6
+Floors: 20
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 355
+
+*** Koraku Mori Building ***
+Height: 82
+Floors: 19
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 356
+
+*** University of Tokyo Hospital ***
+Height: 82
+Floors: 15
+Status: Completed
+Completed: 2006
+Functions: hospital
+Rank: 357
+
+*** IM Tower ***
+Height: 80
+Floors: 14
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: office
+Rank: 358
+
+*** Muromachi Chibagin Mitsui Building ***
+Height: 79.5
+Floors: 17
+Status: Completed
+Completed: 2014
+Functions: office / retail
+Rank: 359
+
+*** Okubo Hospital Tower 1 ***
+Height: 79.25
+Floors: 17
+Status: Completed
+Functions: hospital
+Rank: 360
+
+*** Showa University Hospital ***
+Height: 77
+Floors: 17
+Status: Completed
+Completed: 1980
+Functions: hospital
+Rank: 361
+
+*** Roppongi Ark Towers East ***
+Height: 76.8
+Floors: 25
+Status: Completed
+Completed: 1986
+Functions: residential
+Rank: 362
+
+*** Juntendo University Hospital Building 1 ***
+Height: 75.29
+Status: Completed
+Completed: 2014
+Functions: hospital
+Rank: 363
+
+*** Shimbashi No 29 Redevelopment ***
+Height: 75
+Floors: 15
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 364

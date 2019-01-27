@@ -1,0 +1,121 @@
+*** Monaco (18) ***
+1.  Tour Odeon, 170m
+2.  Le Millefiori, 111m
+3.  L'Annonciade, 111m
+4.  Parc Saint Roman, 108m
+5.  Columbia Palace, 105m
+6.  Chateau Perigord I, 93m
+7.  Chateau Perigord II, 93m
+8.  Le Roccabella, 90m
+9.  Tour Simona, 90m
+10. Le Mirabeau, 81m
+11. Monte Carlo Sun, 81m
+12. Park Palace, 81m
+
+******************** DETAILS ********************
+
+*** Monaco ***
+Country: Monaco
+Region: Europe
+12 towers: Tour Odeon, Le Millefiori, L'Annonciade, Parc Saint Roman, Columbia Palace, Chateau Perigord I, Chateau Perigord II, Le Roccabella, Tour Simona, Le Mirabeau, Monte Carlo Sun, Park Palace
+Tiers: I: 8, II: 3, III: 1
+Rating: 18
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tour Odeon ***
+Height: 170
+Floors: 49
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential / office
+Rank: 1
+
+*** Le Millefiori ***
+Height: 111
+Floors: 37
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 2
+
+*** L'Annonciade ***
+Height: 111
+Floors: 35
+Status: Completed
+Completed: 1980
+Functions: residential
+Rank: 3
+
+*** Parc Saint Roman ***
+Height: 108
+Floors: 35
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 4
+
+*** Columbia Palace ***
+Height: 105
+Floors: 34
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 5
+
+*** Chateau Perigord I ***
+Height: 93
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: residential
+Rank: 6
+
+*** Chateau Perigord II ***
+Height: 93
+Floors: 30
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 6
+
+*** Le Roccabella ***
+Height: 90
+Floors: 29
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 8
+
+*** Tour Simona ***
+Height: 90
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 9
+
+*** Le Mirabeau ***
+Height: 81
+Floors: 26
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 10
+
+*** Monte Carlo Sun ***
+Height: 81
+Floors: 26
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 10
+
+*** Park Palace ***
+Height: 81
+Floors: 26
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 10

@@ -1,0 +1,21 @@
+*** Sao Bernardo do Campo (2) ***
+1. Domo Business - Torre Comercial, 130m
+
+******************** DETAILS ********************
+
+*** Sao Bernardo do Campo ***
+Country: Brazil
+Region: South America
+1 tower: Domo Business - Torre Comercial
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Domo Business - Torre Comercial ***
+Height: 130
+Floors: 38
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 1

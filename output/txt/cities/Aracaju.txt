@@ -1,0 +1,21 @@
+*** Aracaju (1) ***
+1. Estado de Sergipe, 96m
+
+******************** DETAILS ********************
+
+*** Aracaju ***
+Country: Brazil
+Region: South America
+1 tower: Estado de Sergipe
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Estado de Sergipe ***
+Height: 96
+Floors: 28
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: government
+Rank: 1

@@ -1,0 +1,30 @@
+*** Asuncion (4) ***
+1. Icono Lofts, 142m
+2. Edificio Wilson, 107m
+
+******************** DETAILS ********************
+
+*** Asuncion ***
+Country: Paraguay
+Region: South America
+2 towers: Icono Lofts, Edificio Wilson
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Icono Lofts ***
+Height: 142
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Edificio Wilson ***
+Height: 107
+Floors: 31
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 2

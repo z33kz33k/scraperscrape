@@ -1,0 +1,26 @@
+*** Chennai (6) ***
+1. Anchorage, House of Hiranandani, 160m
+2. Bay View Hiranandani, 134m
+
+******************** DETAILS ********************
+
+*** Chennai ***
+Country: India
+Region: Asia
+2 towers: Anchorage, House of Hiranandani, Bay View Hiranandani
+Tiers: II: 1, III: 1
+Rating: 6 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Anchorage, House of Hiranandani ***
+Height: 160
+Floors: 45
+Status: Under Construction
+Functions: residential
+Rank: 1
+
+*** Bay View Hiranandani ***
+Height: 134
+Status: Under Construction
+Functions: residential
+Rank: 2

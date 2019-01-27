@@ -1,0 +1,20 @@
+*** Lagos (4) ***
+1. NECOM House, 160m
+
+******************** DETAILS ********************
+
+*** Lagos ***
+Country: Nigeria
+Region: Africa
+1 tower: NECOM House
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** NECOM House ***
+Height: 160.33
+Floors: 32
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 1

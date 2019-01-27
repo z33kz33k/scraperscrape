@@ -1,0 +1,1279 @@
+*** Bangkok (480) ***
+1.   Magnolias Waterfront Residences Tower 1, 315m
+2.   King Power MahaNakhon, 314m
+3.   Baiyoke Tower II, 304m
+4.   Four Seasons Hotel and Private Residences and Capella Hotel, 300m
+5.   Mandarin Oriental Residences Bangkok , 269m
+6.   The River South Tower, 258m
+7.   Canapaya Residences I, 253m
+8.   State Tower, 247m
+9.   Waldorf Astoria + Magnolias Ratchaprasong, 242m
+10.  Eastin Grand Hotel Phayathai Bangkok, 240m
+11.  Menam Residence, 239m
+12.  The ESSE Asoke, 237m
+13.  Centara Grand, 235m
+14.  The Met, 231m
+15.  Empire Tower, 227m
+16.  MARQUE Sukhumvit, 222m
+17.  Jewelry Trade Center, 221m
+18.  The Pano, 220m
+19.  Nimit Langsuan, 210m
+20.  CRC Tower, 210m
+21.  StarView Condo Tower B, 204m
+22.  ASHTON Chula-Silom, 204m
+23.  Singha Complex Tower 1, 201m
+24.  Millennium Residence 2, 199m
+25.  Millennium Residence 3, 199m
+26.  The Offices at CentralWorld, 199m
+27.  M Silom, 198m
+28.  Centrepointe Ratchadamri, 197m
+29.  Siamese Sukhumvit, 196m
+30.  Sinn Sathorn Tower, 195m
+31.  Thai Wah Tower II, 194m
+32.  ASHTON Asoke, 193m
+33.  Millennium Residence 1, 192m
+34.  Millennium Residence 4, 192m
+35.  Krungsri Ploenchit Tower, 192m
+36.  Cyber World Tower 1, 190m
+37.  Noble BE19, 190m
+38.  28 Chidlom, 189m
+39.  Watermark Chaophraya Tower A, 189m
+40.  The Bangkok Sathorn, 189m
+41.  The Issara, 188m
+42.  Empire Place, 188m
+43.  Lumpini Sukhumvit 24, 187m
+44.  United Center, 187m
+45.  St. Regis Hotel & Residences Bangkok, 187m
+46.  Abdulrahim Place, 187m
+47.  Park 24 Tower B, 186m
+48.  Park 24 Tower A, 186m
+49.  Noble Ploenchit Tower B, 185m
+50.  Sathorn Square Office Tower, 181m
+51.  ASHTON Silom, 181m
+52.  Whizdom Essence, 180m
+53.  Tipco Tower, 180m
+54.  Rhythm Pahol-Ari, 178m
+55.  Terminal 21, 177m
+56.  Banyan Tree Residences Riverside, 177m
+57.  Kasikorn Bank Head Office, 177m
+58.  Exchange Tower, 175m
+59.  Sathorn House, 174m
+60.  Q Sukhumvit, 174m
+61.  The Hansar, 173m
+62.  The Line Sathorn, 171m
+63.  Q Asoke, 168m
+64.  Hyde Sukhumvit 13, 168m
+65.  Emporium Suites Tower, 167m
+66.  Hyde Sukhumvit 11, 167m
+67.  Somkid Tower, 167m
+68.  StarView Condo Tower A, 166m
+69.  Sukhothai Residences, 165m
+70.  Cyber World Tower 2, 165m
+71.  Noble Ploenchit Tower C, 165m
+72.  Italthai Tower, 165m
+73.  The Aguston Tower A, 165m
+74.  RS Tower, 165m
+75.  The Fullerton, 163m
+76.  Q Chidlom, 162m
+77.  Pyne By Sansiri, 161m
+78.  Vanit Tower II, 160m
+79.  U Chu Liang Building, 160m
+80.  Cathedral of Learning, 159m
+81.  Grand Langsuan Condominium, 158m
+82.  Q Langsuan, 158m
+83.  Chamchuri Office Tower, 157m
+84.  Interchange 21, 157m
+85.  Wish Signature @ Midtown Siam, 155m
+86.  Rama 9 Square Tower, 155m
+87.  Rosewood Bangkok Hotel, 155m
+88.  The River North Tower, 152m
+89.  Park 24 Tower C, 152m
+90.  Baiyoke Tower I, 151m
+91.  IDEO Q Chula Samyan, 151m
+92.  The Peninsula Bangkok Hotel, 151m
+93.  The LINE, 150m
+94.  The Infinity Sathorn Square, 150m
+95.  Pearl Building, 149m
+96.  Shinawatra Tower III, 147m
+97.  Chidlom Tower, 146m
+98.  The Line Ratchathewi, 143m
+99.  Park Ventures, 142m
+100. Piriyapul Tower, 140m
+101. Capitol Tower, 140m
+102. M-Thai Tower, 140m
+103. Siam Commercial Bank Tower A, 135m
+104. IDEO Q Siam Ratchathewi, 135m
+105. Bangkok Bank Building, 134m
+106. Saladaeng One, 133m
+107. IDEO Morph 38, Ashton Tower, 132m
+108. Baan Siri Twenty Four, 132m
+109. Thai Military Bank Headquarters, 130m
+110. Eastin Grand Hotel Sathorn, 121m
+111. Queen Sirikit National Institute of Child Health, 120m
+112. Sathorn City Tower, 116m
+113. Gaysorn Office Tower, 114m
+114. Bhumisirimangkhlanusorn Building, 113m
+115. Park 24 Tower D, 109m
+116. Novotel Bangkok Fenix Ploenchit, 109m
+117. Park 24 Tower E, 108m
+118. Ivy Thonglor, 105m
+119. Blossom Condo@Fashion, 102m
+120. Elephant Tower, 102m
+121. Rajavithi Hospital, 102m
+122. Siamese Blossom@Fashion Beyond, 99m
+123. Saladaeng Residences, 98m
+124. Por Por Ror Building, 94m
+125. Siamese Exclusive 31, 93m
+126. Siamese Ratchakru Tower 2, 91m
+127. Hotel Muse, 88m
+128. H.M. Queen Sirikit Building, 87m
+129. Bank of Asia Tower, 83m
+130. Hua Chiew Hospital, 82m
+131. Dusit Thani Bangkok, 82m
+
+******************** DETAILS ********************
+
+*** Bangkok ***
+Country: Thailand
+Region: Asia
+131 towers: Magnolias Waterfront Residences Tower 1, King Power MahaNakhon, Baiyoke Tower II, Four Seasons Hotel and Private Residences and Capella Hotel, Mandarin Oriental Residences Bangkok , The River South Tower, Canapaya Residences I, State Tower, Waldorf Astoria + Magnolias Ratchaprasong, Eastin Grand Hotel Phayathai Bangkok, Menam Residence, The ESSE Asoke, Centara Grand, The Met, Empire Tower, MARQUE Sukhumvit, Jewelry Trade Center, The Pano, Nimit Langsuan, CRC Tower, StarView Condo Tower B, ASHTON Chula-Silom, Singha Complex Tower 1, Millennium Residence 2, Millennium Residence 3, The Offices at CentralWorld, M Silom, Centrepointe Ratchadamri, Siamese Sukhumvit, Sinn Sathorn Tower, Thai Wah Tower II, ASHTON Asoke, Millennium Residence 1, Millennium Residence 4, Krungsri Ploenchit Tower, Cyber World Tower 1, Noble BE19, 28 Chidlom, Watermark Chaophraya Tower A, The Bangkok Sathorn, The Issara, Empire Place, Lumpini Sukhumvit 24, United Center, St. Regis Hotel & Residences Bangkok, Abdulrahim Place, Park 24 Tower B, Park 24 Tower A, Noble Ploenchit Tower B, Sathorn Square Office Tower, ASHTON Silom, Whizdom Essence, Tipco Tower, Rhythm Pahol-Ari, Terminal 21, Banyan Tree Residences Riverside, Kasikorn Bank Head Office, Exchange Tower, Sathorn House, Q Sukhumvit, The Hansar, The Line Sathorn, Q Asoke, Hyde Sukhumvit 13, Emporium Suites Tower, Hyde Sukhumvit 11, Somkid Tower, StarView Condo Tower A, Sukhothai Residences, Cyber World Tower 2, Noble Ploenchit Tower C, Italthai Tower, The Aguston Tower A, RS Tower, The Fullerton, Q Chidlom, Pyne By Sansiri, Vanit Tower II, U Chu Liang Building, Cathedral of Learning, Grand Langsuan Condominium, Q Langsuan, Chamchuri Office Tower, Interchange 21, Wish Signature @ Midtown Siam, Rama 9 Square Tower, Rosewood Bangkok Hotel, The River North Tower, Park 24 Tower C, Baiyoke Tower I, IDEO Q Chula Samyan, The Peninsula Bangkok Hotel, The LINE, The Infinity Sathorn Square, Pearl Building, Shinawatra Tower III, Chidlom Tower, The Line Ratchathewi, Park Ventures, Piriyapul Tower, Capitol Tower, M-Thai Tower, Siam Commercial Bank Tower A, IDEO Q Siam Ratchathewi, Bangkok Bank Building, Saladaeng One, IDEO Morph 38, Ashton Tower, Baan Siri Twenty Four, Thai Military Bank Headquarters, Eastin Grand Hotel Sathorn, Queen Sirikit National Institute of Child Health, Sathorn City Tower, Gaysorn Office Tower, Bhumisirimangkhlanusorn Building, Park 24 Tower D, Novotel Bangkok Fenix Ploenchit, Park 24 Tower E, Ivy Thonglor, Blossom Condo@Fashion, Elephant Tower, Rajavithi Hospital, Siamese Blossom@Fashion Beyond, Saladaeng Residences, Por Por Ror Building, Siamese Exclusive 31, Siamese Ratchakru Tower 2, Hotel Muse, H.M. Queen Sirikit Building, Bank of Asia Tower, Hua Chiew Hospital, Dusit Thani Bangkok
+Tiers: I: 14, II: 23, III: 76, IV: 14, V: 4
+Rating: 480 (12.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Magnolias Waterfront Residences Tower 1 ***
+Height: 315
+Floors: 70
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 1
+
+*** King Power MahaNakhon ***
+Height: 314
+Floors: 79
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / hotel
+Rank: 2
+
+*** Baiyoke Tower II ***
+Height: 304
+Floors: 85
+Status: Completed
+Started: 1990
+Completed: 1997
+Functions: hotel
+Rank: 3
+
+*** Four Seasons Hotel and Private Residences and Capella Hotel ***
+Height: 299.5
+Floors: 73
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: hotel / residential
+Rank: 4
+
+*** Mandarin Oriental Residences Bangkok  ***
+Height: 268.7
+Floors: 52
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: serviced apartments
+Rank: 5
+
+*** The River South Tower ***
+Height: 258
+Floors: 74
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 6
+
+*** Canapaya Residences I ***
+Height: 253
+Floors: 57
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 7
+
+*** State Tower ***
+Height: 247.2
+Floors: 68
+Status: Completed
+Completed: 2001
+Functions: residential / serviced apartments / hotel / office
+Rank: 8
+
+*** Waldorf Astoria + Magnolias Ratchaprasong ***
+Height: 242
+Floors: 60
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / hotel
+Rank: 9
+
+*** Eastin Grand Hotel Phayathai Bangkok ***
+Height: 239.7
+Floors: 51
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: hotel / office / retail
+Rank: 10
+
+*** Menam Residence ***
+Height: 239.3
+Floors: 59
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** The ESSE Asoke ***
+Height: 236.75
+Floors: 55
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 12
+
+*** Centara Grand ***
+Height: 235
+Floors: 57
+Status: Completed
+Completed: 2008
+Functions: hotel
+Rank: 13
+
+*** The Met ***
+Height: 230.56
+Floors: 69
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 14
+
+*** Empire Tower ***
+Height: 226.8
+Floors: 62
+Status: Completed
+Started: 1995
+Completed: 1999
+Functions: office
+Rank: 15
+
+*** MARQUE Sukhumvit ***
+Height: 222
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 16
+
+*** Jewelry Trade Center ***
+Height: 220.7
+Floors: 59
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 17
+
+*** The Pano ***
+Height: 220
+Floors: 57
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 18
+
+*** Nimit Langsuan ***
+Height: 210.44
+Floors: 55
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 19
+
+*** CRC Tower ***
+Height: 210
+Floors: 53
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 20
+
+*** StarView Condo Tower B ***
+Height: 204
+Floors: 54
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 21
+
+*** ASHTON Chula-Silom ***
+Height: 203.8
+Floors: 57
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 22
+
+*** Singha Complex Tower 1 ***
+Height: 201.3
+Floors: 36
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office / office
+Rank: 23
+
+*** Millennium Residence 2 ***
+Height: 199.3
+Floors: 54
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 24
+
+*** Millennium Residence 3 ***
+Height: 199.3
+Floors: 54
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 24
+
+*** The Offices at CentralWorld ***
+Height: 198.8
+Floors: 51
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 26
+
+*** M Silom ***
+Height: 198
+Floors: 53
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 27
+
+*** Centrepointe Ratchadamri ***
+Height: 197
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 28
+
+*** Siamese Sukhumvit ***
+Height: 196
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 29
+
+*** Sinn Sathorn Tower ***
+Height: 195
+Floors: 43
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 30
+
+*** Thai Wah Tower II ***
+Height: 194
+Floors: 60
+Status: Completed
+Completed: 1996
+Functions: hotel / office
+Rank: 31
+
+*** ASHTON Asoke ***
+Height: 192.95
+Floors: 57
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 32
+
+*** Millennium Residence 1 ***
+Height: 192.3
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 33
+
+*** Millennium Residence 4 ***
+Height: 192.3
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 33
+
+*** Krungsri Ploenchit Tower ***
+Height: 192
+Floors: 37
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 35
+
+*** Cyber World Tower 1 ***
+Height: 190
+Floors: 53
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 36
+
+*** Noble BE19 ***
+Height: 190
+Floors: 48
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 37
+
+*** 28 Chidlom ***
+Height: 189
+Floors: 48
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 38
+
+*** Watermark Chaophraya Tower A ***
+Height: 188.75
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 39
+
+*** The Bangkok Sathorn ***
+Height: 188.6
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 40
+
+*** The Issara ***
+Height: 188
+Floors: 51
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 41
+
+*** Empire Place ***
+Height: 188
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 42
+
+*** Lumpini Sukhumvit 24 ***
+Height: 187.35
+Floors: 54
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 43
+
+*** United Center ***
+Height: 187
+Floors: 55
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 44
+
+*** St. Regis Hotel & Residences Bangkok ***
+Height: 187
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / hotel
+Rank: 45
+
+*** Abdulrahim Place ***
+Height: 187
+Floors: 34
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 46
+
+*** Park 24 Tower B ***
+Height: 186.2
+Floors: 51
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 47
+
+*** Park 24 Tower A ***
+Height: 186
+Floors: 50
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 48
+
+*** Noble Ploenchit Tower B ***
+Height: 185
+Floors: 52
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 49
+
+*** Sathorn Square Office Tower ***
+Height: 181.4
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 50
+
+*** ASHTON Silom ***
+Height: 181
+Floors: 48
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 51
+
+*** Whizdom Essence ***
+Height: 180
+Floors: 50
+Status: Completed
+Completed: 2018
+Functions: residential
+Rank: 52
+
+*** Tipco Tower ***
+Height: 180
+Floors: 40
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office
+Rank: 53
+
+*** Rhythm Pahol-Ari ***
+Height: 177.75
+Floors: 54
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 54
+
+*** Terminal 21 ***
+Height: 177.4
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential / hotel / retail
+Rank: 55
+
+*** Banyan Tree Residences Riverside ***
+Height: 177
+Floors: 45
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 56
+
+*** Kasikorn Bank Head Office ***
+Height: 177
+Floors: 42
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 57
+
+*** Exchange Tower ***
+Height: 175
+Floors: 46
+Status: Completed
+Started: 1997
+Completed: 2004
+Functions: office
+Rank: 58
+
+*** Sathorn House ***
+Height: 174.21
+Floors: 50
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 59
+
+*** Q Sukhumvit ***
+Height: 174
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 60
+
+*** The Hansar ***
+Height: 172.95
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: hotel / residential
+Rank: 61
+
+*** The Line Sathorn ***
+Height: 170.75
+Floors: 46
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 62
+
+*** Q Asoke ***
+Height: 168
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 63
+
+*** Hyde Sukhumvit 13 ***
+Height: 167.5
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2014
+Functions: residential
+Rank: 64
+
+*** Emporium Suites Tower ***
+Height: 167
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential / office
+Rank: 65
+
+*** Hyde Sukhumvit 11 ***
+Height: 167
+Floors: 39
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 66
+
+*** Somkid Tower ***
+Height: 167
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 67
+
+*** StarView Condo Tower A ***
+Height: 166
+Floors: 44
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 68
+
+*** Sukhothai Residences ***
+Height: 165.1
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 69
+
+*** Cyber World Tower 2 ***
+Height: 165
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 70
+
+*** Noble Ploenchit Tower C ***
+Height: 165
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 71
+
+*** Italthai Tower ***
+Height: 165
+Floors: 44
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office
+Rank: 72
+
+*** The Aguston Tower A ***
+Height: 165
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 73
+
+*** RS Tower ***
+Height: 164.9
+Floors: 41
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 74
+
+*** The Fullerton ***
+Height: 162.6
+Floors: 37
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 75
+
+*** Q Chidlom ***
+Height: 162
+Floors: 42
+Status: Completed
+Completed: 2018
+Functions: residential
+Rank: 76
+
+*** Pyne By Sansiri ***
+Height: 160.88
+Floors: 44
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 77
+
+*** Vanit Tower II ***
+Height: 160
+Floors: 42
+Status: Completed
+Started: 1992
+Completed: 1994
+Functions: office
+Rank: 78
+
+*** U Chu Liang Building ***
+Height: 160
+Floors: 40
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 79
+
+*** Cathedral of Learning ***
+Height: 159.03
+Floors: 39
+Status: Completed
+Completed: 2002
+Functions: education
+Rank: 80
+
+*** Grand Langsuan Condominium ***
+Height: 158
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 81
+
+*** Q Langsuan ***
+Height: 158
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 82
+
+*** Chamchuri Office Tower ***
+Height: 157
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 83
+
+*** Interchange 21 ***
+Height: 157
+Floors: 34
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 84
+
+*** Wish Signature @ Midtown Siam ***
+Height: 155
+Floors: 46
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 85
+
+*** Rama 9 Square Tower ***
+Height: 155
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: office
+Rank: 86
+
+*** Rosewood Bangkok Hotel ***
+Height: 154.8
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hotel / hotel
+Rank: 87
+
+*** The River North Tower ***
+Height: 151.75
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 88
+
+*** Park 24 Tower C ***
+Height: 151.6
+Floors: 41
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 89
+
+*** Baiyoke Tower I ***
+Height: 151
+Floors: 42
+Status: Completed
+Completed: 1987
+Functions: hotel
+Rank: 90
+
+*** IDEO Q Chula Samyan ***
+Height: 151
+Floors: 40
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 91
+
+*** The Peninsula Bangkok Hotel ***
+Height: 151
+Floors: 40
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 91
+
+*** The LINE ***
+Height: 150
+Floors: 43
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 93
+
+*** The Infinity Sathorn Square ***
+Height: 150
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 94
+
+*** Pearl Building ***
+Height: 149
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 95
+
+*** Shinawatra Tower III ***
+Height: 147
+Floors: 38
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 96
+
+*** Chidlom Tower ***
+Height: 146
+Floors: 28
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 97
+
+*** The Line Ratchathewi ***
+Height: 143.03
+Floors: 38
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 98
+
+*** Park Ventures ***
+Height: 142.1
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: hotel / office
+Rank: 99
+
+*** Piriyapul Tower ***
+Height: 140
+Floors: 40
+Status: Completed
+Functions: office
+Rank: 100
+
+*** Capitol Tower ***
+Height: 140
+Floors: 35
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 101
+
+*** M-Thai Tower ***
+Height: 140
+Floors: 35
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 101
+
+*** Siam Commercial Bank Tower A ***
+Height: 135
+Floors: 37
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 103
+
+*** IDEO Q Siam Ratchathewi ***
+Height: 135
+Floors: 36
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 104
+
+*** Bangkok Bank Building ***
+Height: 134
+Floors: 35
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 105
+
+*** Saladaeng One ***
+Height: 133
+Floors: 35
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 106
+
+*** IDEO Morph 38, Ashton Tower ***
+Height: 132.4
+Floors: 35
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 107
+
+*** Baan Siri Twenty Four ***
+Height: 132
+Floors: 34
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 108
+
+*** Thai Military Bank Headquarters ***
+Height: 130
+Floors: 40
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 109
+
+*** Eastin Grand Hotel Sathorn ***
+Height: 121
+Floors: 32
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 110
+
+*** Queen Sirikit National Institute of Child Health ***
+Height: 119.89
+Floors: 29
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: hospital
+Rank: 111
+
+*** Sathorn City Tower ***
+Height: 116
+Floors: 32
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 112
+
+*** Gaysorn Office Tower ***
+Height: 114
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office / retail
+Rank: 113
+
+*** Bhumisirimangkhlanusorn Building ***
+Height: 113.25
+Floors: 29
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: hospital
+Rank: 114
+
+*** Park 24 Tower D ***
+Height: 108.9
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 115
+
+*** Novotel Bangkok Fenix Ploenchit ***
+Height: 108.85
+Floors: 30
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: hotel
+Rank: 116
+
+*** Park 24 Tower E ***
+Height: 107.6
+Floors: 29
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 117
+
+*** Ivy Thonglor ***
+Height: 104.54
+Floors: 26
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 118
+
+*** Blossom Condo@Fashion ***
+Height: 102.11
+Floors: 22
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 119
+
+*** Elephant Tower ***
+Height: 102.1
+Floors: 32
+Status: Completed
+Completed: 1997
+Functions: residential / office
+Rank: 120
+
+*** Rajavithi Hospital ***
+Height: 101.93
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hospital
+Rank: 121
+
+*** Siamese Blossom@Fashion Beyond ***
+Height: 98.59
+Floors: 19
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: residential / retail
+Rank: 122
+
+*** Saladaeng Residences ***
+Height: 97.7
+Floors: 25
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 123
+
+*** Por Por Ror Building ***
+Height: 94.38
+Floors: 25
+Status: Completed
+Completed: 1989
+Functions: hospital
+Rank: 124
+
+*** Siamese Exclusive 31 ***
+Height: 92.6
+Floors: 21
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 125
+
+*** Siamese Ratchakru Tower 2 ***
+Height: 91.3
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 126
+
+*** Hotel Muse ***
+Height: 88.2
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: hotel
+Rank: 127
+
+*** H.M. Queen Sirikit Building ***
+Height: 86.83
+Floors: 23
+Status: Completed
+Completed: 1994
+Functions: hospital
+Rank: 128
+
+*** Bank of Asia Tower ***
+Height: 83.2
+Floors: 20
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 129
+
+*** Hua Chiew Hospital ***
+Height: 82
+Floors: 22
+Status: Completed
+Functions: hospital
+Rank: 130
+
+*** Dusit Thani Bangkok ***
+Height: 82
+Floors: 21
+Status: Completed
+Completed: 1970
+Functions: hotel
+Rank: 131

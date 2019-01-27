@@ -1,0 +1,1457 @@
+*** Seoul (490) ***
+1.   Lotte World Tower, 555m
+2.   Parc1 Tower A, 338m
+3.   Three International Finance Center, 284m
+4.   Tower Palace Three, Tower G, 264m
+5.   Parc1 Tower B, 261m
+6.   Mokdong Hyperion Tower A, 256m
+7.   KLI 63 Building, 250m
+8.   FKI Tower, 245m
+9.   Mokdong Hyperion Tower B, 239m
+10.  Tower Palace One, Tower B, 234m
+11.  Trade Tower, 228m
+12.  Tower Palace One, Tower A, 209m
+13.  Tower Palace One, Tower C, 209m
+14.  Seoul Forest E-Convenient World Tower 1, 207m
+15.  Seoul Forest E-Convenient World Tower 2, 207m
+16.  Star Tower, Gangnam Finance Center, 204m
+17.  Samsung Electronics Corporation HQ, 203m
+18.  Mokdong Hyperion Tower C, 201m
+19.  Ichon Rex Tower A, 201m
+20.  Seoul Trimage Tower I, 200m
+21.  Seoul Trimage Tower II, 200m
+22.  Conrad Seoul, 199m
+23.  Gundae Posco The Star City Tower A, 196m
+24.  Sharp Star City Tower A, 196m
+25.  Tower Palace Two, Tower E, 191m
+26.  Tower Palace Two, Tower F, 191m
+27.  Daeseong D-Cube City Headquarters, 190m
+28.  Techno Mart 21, 189m
+29.  Mokdong Trapalace Tower A, 186m
+30.  Daeseong D3-City Residential 1, 186m
+31.  Daeseong D3-City Residential 2, 186m
+32.  Parnas Tower, 185m
+33.  Sangbong Premier's AMCO Tower 1, 185m
+34.  One International Finance Center, 184m
+35.  Mokdong Trapalace Tower C, 182m
+36.  Shindorim Techno Mart, 182m
+37.  Seoul Trimage Tower III, 182m
+38.  Seoul Trimage Tower IV, 182m
+39.  LG Gangnam Tower, 177m
+40.  Gundae Posco The Star City Tower B, 177m
+41.  ASEM Tower, 176m
+42.  Two International Finance Center, 176m
+43.  Boramae Chereville, 174m
+44.  Sharp Star City Tower C, 173m
+45.  Seoul Forest E-Convenient World Office Tower , 172m
+46.  Galleria Foret Tower 1, 172m
+47.  Galleria Foret Tower 2, 172m
+48.  Hyundai 41 Tower, 168m
+49.  Academy Sweet, 167m
+50.  SBS Broadcasting Center, 167m
+51.  Ichon Rex Tower B, 166m
+52.  Seogyo Xi West Valley Office Tower, 164m
+53.  Daelim Acrovill One, 163m
+54.  Daelim Acrovill Two, 163m
+55.  Mokdong Trapalace Tower B, 163m
+56.  Hyundai Superville Tower D, 162m
+57.  SK Building, 160m
+58.  Raemian Yongsan Tower 1, 160m
+59.  Raemian Yongsan Tower 2, 160m
+60.  Mokdong Trapalace Tower D, 160m
+61.  Sharp Star City Tower D, 159m
+62.  Sangbong Premier's AMCO Tower 2, 159m
+63.  Sangbong Premier's AMCO Tower 3, 159m
+64.  I-Park Tower 103, 159m
+65.  Dongbu Finance Building, 158m
+66.  Yeongdeungpo SK Leaders View Officetel, Wing 2, 158m
+67.  Doosan Tower, 156m
+68.  I-Park Tower 101, 156m
+69.  Sangbong Sante-ciel 1, 155m
+70.  Sangbong Sante-ciel 2, 155m
+71.  Brownstone Seoul 101, 154m
+72.  S-Trenue, 154m
+73.  Samsung Raemian Gangdong Palace Office Tower, 154m
+74.  Tower Palace One, Tower D, 153m
+75.  Samsung C&T Corporation HQ, 153m
+76.  Samsung Life Insurance Corporation HQ, 153m
+77.  Lotte Castle President 101, 152m
+78.  Lotte Castle President 102, 152m
+79.  Kumho Richensia Tower A, 151m
+80.  Kumho Richensia Tower B, 151m
+81.  Samsung Raemian Gangdong Palace Residential Tower 103, 151m
+82.  Co-op Starclass Residential Complex Tower 1, 150m
+83.  Yeongdeungpo SK Leaders View Officetel, Wing 1, 150m
+84.  Ichon Rex Tower C, 150m
+85.  Wolgok New City Tower 1, 150m
+86.  Galleria Palace Tower A, 150m
+87.  Galleria Palace Tower B, 150m
+88.  Galleria Palace Tower C, 150m
+89.  Lotte Castle Gold 1, 149m
+90.  Lotte Castle Gold 2, 149m
+91.  SK Telecom Headquarters, 148m
+92.  Glostar Center Tower 1, 148m
+93.  Glostar Center Tower 2, 148m
+94.  Wolgok New City Tower 2, 147m
+95.  Lucky-Goldstar Tower I, 144m
+96.  Wolgok New City Tower 3, 144m
+97.  Co-op Starclass Residential Complex Tower 2, 144m
+98.  Tong Yang Fire & Marine Building, 143m
+99.  Samsung Raemian Gangdong Palace Residential Tower 101, 143m
+100. Samsung Raemian Gangdong Palace Residential Tower 102, 143m
+101. Meritz Building, 143m
+102. Boramae Nasan Suite, 141m
+103. Wolgok New City Tower 4, 141m
+104. Boramae Fantasia Tower, 140m
+105. Ssangyong Finance Building, 140m
+106. Brownstone Seoul 102, 139m
+107. Lotte Hotel Seoul, 138m
+108. Daelim Acrotel, 137m
+109. MMAA Building, 136m
+110. POSCO Centre East Tower, 135m
+111. Park Suites Seoul Tower A, 135m
+112. Park Suites Seoul Tower B, 135m
+113. Daewoo Trumpworld Two, Tower I, 134m
+114. Daewoo Trumpworld Two, Tower II, 134m
+115. Good Morning Securities Building, 134m
+116. Hanwa Securities Building, 134m
+117. Mok-Dong Chereville Tower I, 134m
+118. Mok-Dong Chereville Tower II, 134m
+119. Samsung Jong-Ro Tower, 134m
+120. Lucky-Goldstar Tower II, 133m
+121. I-Park Tower 102, 133m
+122. Posteel Tower, 133m
+123. Daewoo Trumpworld One, Tower I, 133m
+124. Daewoo Trumpworld One, Tower II, 133m
+125. Hyundai Superville Tower C, 130m
+126. Seocho Garak Tower East, 130m
+127. Daewoo Worldmark Yongsan 1, 130m
+128. Daewoo Worldmark Yongsan 2, 130m
+129. Yongsan 3 District Dongbu Asterium 1, 129m
+130. Yongsan 3 District Dongbu Asterium 2, 129m
+131. Hyundai Parkville, 129m
+132. Korea HP Plaza, 128m
+133. Ferrum Tower, 128m
+134. Korea Special Construction Center, 126m
+135. Chang Kyong Building, 126m
+136. Hanwha Headquarters, 124m
+137. Daelim Acroriver Tower A, 122m
+138. Sharp Star City Tower B, 119m
+139. Glass Tower, 118m
+140. Boutique Monaco, 117m
+141. Hana Bank Headquarters, 110m
+142. Amorepacific Headquarters, 110m
+143. Yonsei Medical Center Severance Hospital, 107m
+144. COEX InterContinental Seoul, 105m
+145. Namdaemun Office Building, 98m
+146. Hyundai Superville Tower B, 86m
+147. Samsung Medical Center, 86m
+148. Central Goverment Complex, 84m
+149. Hyundai Superville Tower A, 79m
+
+******************** DETAILS ********************
+
+*** Seoul ***
+Country: South Korea
+Region: Asia
+149 towers: Lotte World Tower, Parc1 Tower A, Three International Finance Center, Tower Palace Three, Tower G, Parc1 Tower B, Mokdong Hyperion Tower A, KLI 63 Building, FKI Tower, Mokdong Hyperion Tower B, Tower Palace One, Tower B, Trade Tower, Tower Palace One, Tower A, Tower Palace One, Tower C, Seoul Forest E-Convenient World Tower 1, Seoul Forest E-Convenient World Tower 2, Star Tower, Gangnam Finance Center, Samsung Electronics Corporation HQ, Mokdong Hyperion Tower C, Ichon Rex Tower A, Seoul Trimage Tower I, Seoul Trimage Tower II, Conrad Seoul, Gundae Posco The Star City Tower A, Sharp Star City Tower A, Tower Palace Two, Tower E, Tower Palace Two, Tower F, Daeseong D-Cube City Headquarters, Techno Mart 21, Mokdong Trapalace Tower A, Daeseong D3-City Residential 1, Daeseong D3-City Residential 2, Parnas Tower, Sangbong Premier's AMCO Tower 1, One International Finance Center, Mokdong Trapalace Tower C, Shindorim Techno Mart, Seoul Trimage Tower III, Seoul Trimage Tower IV, LG Gangnam Tower, Gundae Posco The Star City Tower B, ASEM Tower, Two International Finance Center, Boramae Chereville, Sharp Star City Tower C, Seoul Forest E-Convenient World Office Tower , Galleria Foret Tower 1, Galleria Foret Tower 2, Hyundai 41 Tower, Academy Sweet, SBS Broadcasting Center, Ichon Rex Tower B, Seogyo Xi West Valley Office Tower, Daelim Acrovill One, Daelim Acrovill Two, Mokdong Trapalace Tower B, Hyundai Superville Tower D, SK Building, Raemian Yongsan Tower 1, Raemian Yongsan Tower 2, Mokdong Trapalace Tower D, Sharp Star City Tower D, Sangbong Premier's AMCO Tower 2, Sangbong Premier's AMCO Tower 3, I-Park Tower 103, Dongbu Finance Building, Yeongdeungpo SK Leaders View Officetel, Wing 2, Doosan Tower, I-Park Tower 101, Sangbong Sante-ciel 1, Sangbong Sante-ciel 2, Brownstone Seoul 101, S-Trenue, Samsung Raemian Gangdong Palace Office Tower, Tower Palace One, Tower D, Samsung C&T Corporation HQ, Samsung Life Insurance Corporation HQ, Lotte Castle President 101, Lotte Castle President 102, Kumho Richensia Tower A, Kumho Richensia Tower B, Samsung Raemian Gangdong Palace Residential Tower 103, Co-op Starclass Residential Complex Tower 1, Yeongdeungpo SK Leaders View Officetel, Wing 1, Ichon Rex Tower C, Wolgok New City Tower 1, Galleria Palace Tower A, Galleria Palace Tower B, Galleria Palace Tower C, Lotte Castle Gold 1, Lotte Castle Gold 2, SK Telecom Headquarters, Glostar Center Tower 1, Glostar Center Tower 2, Wolgok New City Tower 2, Lucky-Goldstar Tower I, Wolgok New City Tower 3, Co-op Starclass Residential Complex Tower 2, Tong Yang Fire & Marine Building, Samsung Raemian Gangdong Palace Residential Tower 101, Samsung Raemian Gangdong Palace Residential Tower 102, Meritz Building, Boramae Nasan Suite, Wolgok New City Tower 4, Boramae Fantasia Tower, Ssangyong Finance Building, Brownstone Seoul 102, Lotte Hotel Seoul, Daelim Acrotel, MMAA Building, POSCO Centre East Tower, Park Suites Seoul Tower A, Park Suites Seoul Tower B, Daewoo Trumpworld Two, Tower I, Daewoo Trumpworld Two, Tower II, Good Morning Securities Building, Hanwa Securities Building, Mok-Dong Chereville Tower I, Mok-Dong Chereville Tower II, Samsung Jong-Ro Tower, Lucky-Goldstar Tower II, I-Park Tower 102, Posteel Tower, Daewoo Trumpworld One, Tower I, Daewoo Trumpworld One, Tower II, Hyundai Superville Tower C, Seocho Garak Tower East, Daewoo Worldmark Yongsan 1, Daewoo Worldmark Yongsan 2, Yongsan 3 District Dongbu Asterium 1, Yongsan 3 District Dongbu Asterium 2, Hyundai Parkville, Korea HP Plaza, Ferrum Tower, Korea Special Construction Center, Chang Kyong Building, Hanwha Headquarters, Daelim Acroriver Tower A, Sharp Star City Tower B, Glass Tower, Boutique Monaco, Hana Bank Headquarters, Amorepacific Headquarters, Yonsei Medical Center Severance Hospital, COEX InterContinental Seoul, Namdaemun Office Building, Hyundai Superville Tower B, Samsung Medical Center, Central Goverment Complex, Hyundai Superville Tower A
+Tiers: I: 6, II: 58, III: 74, IV: 9, V: 1, VI: 1
+Rating: 490 (5.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Lotte World Tower ***
+Height: 554.53
+Floors: 123
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: hotel / residential / office / retail
+Rank: 1
+
+*** Parc1 Tower A ***
+Height: 337.97
+Floors: 68
+Status: Under Construction
+Started: 2008
+Completed: 2020
+Functions: office
+Rank: 2
+
+*** Three International Finance Center ***
+Height: 284
+Floors: 55
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 3
+
+*** Tower Palace Three, Tower G ***
+Height: 263.68
+Floors: 73
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 4
+
+*** Parc1 Tower B ***
+Height: 260.6
+Floors: 52
+Status: Under Construction
+Started: 2008
+Completed: 2020
+Functions: office
+Rank: 5
+
+*** Mokdong Hyperion Tower A ***
+Height: 256
+Floors: 69
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 6
+
+*** KLI 63 Building ***
+Height: 249.58
+Floors: 60
+Status: Completed
+Started: 1979
+Completed: 1985
+Functions: office
+Rank: 7
+
+*** FKI Tower ***
+Height: 245.47
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 8
+
+*** Mokdong Hyperion Tower B ***
+Height: 239.31
+Floors: 63
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 9
+
+*** Tower Palace One, Tower B ***
+Height: 233.78
+Floors: 66
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 10
+
+*** Trade Tower ***
+Height: 227.95
+Floors: 55
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 11
+
+*** Tower Palace One, Tower A ***
+Height: 209.1
+Floors: 59
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 12
+
+*** Tower Palace One, Tower C ***
+Height: 209.1
+Floors: 59
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 12
+
+*** Seoul Forest E-Convenient World Tower 1 ***
+Height: 207
+Floors: 51
+Status: Under Construction
+Started: 2008
+Completed: 2020
+Functions: residential
+Rank: 14
+
+*** Seoul Forest E-Convenient World Tower 2 ***
+Height: 207
+Floors: 51
+Status: Under Construction
+Started: 2008
+Completed: 2020
+Functions: residential
+Rank: 14
+
+*** Star Tower, Gangnam Finance Center ***
+Height: 204
+Floors: 45
+Status: Completed
+Started: 1995
+Completed: 2001
+Functions: office
+Rank: 16
+
+*** Samsung Electronics Corporation HQ ***
+Height: 203
+Floors: 44
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 17
+
+*** Mokdong Hyperion Tower C ***
+Height: 201.21
+Floors: 54
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 18
+
+*** Ichon Rex Tower A ***
+Height: 201
+Floors: 56
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** Seoul Trimage Tower I ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 20
+
+*** Seoul Trimage Tower II ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 20
+
+*** Conrad Seoul ***
+Height: 199.4
+Floors: 38
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: hotel
+Rank: 22
+
+*** Gundae Posco The Star City Tower A ***
+Height: 196
+Floors: 58
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 23
+
+*** Sharp Star City Tower A ***
+Height: 196
+Floors: 58
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 23
+
+*** Tower Palace Two, Tower E ***
+Height: 191.11
+Floors: 55
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 25
+
+*** Tower Palace Two, Tower F ***
+Height: 191.11
+Floors: 55
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 25
+
+*** Daeseong D-Cube City Headquarters ***
+Height: 189.65
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: hotel / office
+Rank: 27
+
+*** Techno Mart 21 ***
+Height: 189
+Floors: 39
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 28
+
+*** Mokdong Trapalace Tower A ***
+Height: 185.67
+Floors: 49
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 29
+
+*** Daeseong D3-City Residential 1 ***
+Height: 185.6
+Floors: 51
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 30
+
+*** Daeseong D3-City Residential 2 ***
+Height: 185.6
+Floors: 51
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 30
+
+*** Parnas Tower ***
+Height: 185
+Floors: 39
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: hotel / office
+Rank: 32
+
+*** Sangbong Premier's AMCO Tower 1 ***
+Height: 184.7
+Floors: 47
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 33
+
+*** One International Finance Center ***
+Height: 184.5
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 34
+
+*** Mokdong Trapalace Tower C ***
+Height: 182.49
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 35
+
+*** Shindorim Techno Mart ***
+Height: 182
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 36
+
+*** Seoul Trimage Tower III ***
+Height: 182
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 37
+
+*** Seoul Trimage Tower IV ***
+Height: 182
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 37
+
+*** LG Gangnam Tower ***
+Height: 177.05
+Floors: 38
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 39
+
+*** Gundae Posco The Star City Tower B ***
+Height: 177
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 40
+
+*** ASEM Tower ***
+Height: 176.48
+Floors: 42
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 41
+
+*** Two International Finance Center ***
+Height: 175.5
+Floors: 29
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 42
+
+*** Boramae Chereville ***
+Height: 174
+Floors: 49
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 43
+
+*** Sharp Star City Tower C ***
+Height: 173
+Floors: 50
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 44
+
+*** Seoul Forest E-Convenient World Office Tower  ***
+Height: 171.6
+Floors: 35
+Status: Under Construction
+Started: 2008
+Completed: 2020
+Functions: office
+Rank: 45
+
+*** Galleria Foret Tower 1 ***
+Height: 171.5
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 46
+
+*** Galleria Foret Tower 2 ***
+Height: 171.5
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 46
+
+*** Hyundai 41 Tower ***
+Height: 167.95
+Floors: 41
+Status: Completed
+Completed: 2001
+Functions: residential / office
+Rank: 48
+
+*** Academy Sweet ***
+Height: 167.19
+Floors: 51
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 49
+
+*** SBS Broadcasting Center ***
+Height: 167
+Floors: 38
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 50
+
+*** Ichon Rex Tower B ***
+Height: 166
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 51
+
+*** Seogyo Xi West Valley Office Tower ***
+Height: 164
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 52
+
+*** Daelim Acrovill One ***
+Height: 163.07
+Floors: 46
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: residential
+Rank: 53
+
+*** Daelim Acrovill Two ***
+Height: 163.07
+Floors: 46
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: residential
+Rank: 53
+
+*** Mokdong Trapalace Tower B ***
+Height: 162.76
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 55
+
+*** Hyundai Superville Tower D ***
+Height: 162
+Floors: 46
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 56
+
+*** SK Building ***
+Height: 160.33
+Floors: 38
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 57
+
+*** Raemian Yongsan Tower 1 ***
+Height: 160.2
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / SOHO
+Rank: 58
+
+*** Raemian Yongsan Tower 2 ***
+Height: 160.2
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / SOHO
+Rank: 58
+
+*** Mokdong Trapalace Tower D ***
+Height: 159.58
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 60
+
+*** Sharp Star City Tower D ***
+Height: 159
+Floors: 45
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 61
+
+*** Sangbong Premier's AMCO Tower 2 ***
+Height: 159
+Floors: 43
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 62
+
+*** Sangbong Premier's AMCO Tower 3 ***
+Height: 159
+Floors: 43
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 62
+
+*** I-Park Tower 103 ***
+Height: 158.64
+Floors: 46
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 64
+
+*** Dongbu Finance Building ***
+Height: 158.25
+Floors: 35
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 65
+
+*** Yeongdeungpo SK Leaders View Officetel, Wing 2 ***
+Height: 157.89
+Floors: 41
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel / office
+Rank: 66
+
+*** Doosan Tower ***
+Height: 156.06
+Floors: 34
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 67
+
+*** I-Park Tower 101 ***
+Height: 155.64
+Floors: 45
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 68
+
+*** Sangbong Sante-ciel 1 ***
+Height: 155
+Floors: 41
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 69
+
+*** Sangbong Sante-ciel 2 ***
+Height: 155
+Floors: 41
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 69
+
+*** Brownstone Seoul 101 ***
+Height: 154.41
+Floors: 39
+Status: Completed
+Completed: 2006
+Functions: hotel / residential / office
+Rank: 71
+
+*** S-Trenue ***
+Height: 154.14
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / office
+Rank: 72
+
+*** Samsung Raemian Gangdong Palace Office Tower ***
+Height: 154
+Floors: 36
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 73
+
+*** Tower Palace One, Tower D ***
+Height: 153
+Floors: 42
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 74
+
+*** Samsung C&T Corporation HQ ***
+Height: 153
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 75
+
+*** Samsung Life Insurance Corporation HQ ***
+Height: 153
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 75
+
+*** Lotte Castle President 101 ***
+Height: 152.5
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 77
+
+*** Lotte Castle President 102 ***
+Height: 152.5
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 77
+
+*** Kumho Richensia Tower A ***
+Height: 151
+Floors: 40
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential / office
+Rank: 79
+
+*** Kumho Richensia Tower B ***
+Height: 151
+Floors: 40
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential / office
+Rank: 79
+
+*** Samsung Raemian Gangdong Palace Residential Tower 103 ***
+Height: 150.6
+Floors: 45
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 81
+
+*** Co-op Starclass Residential Complex Tower 1 ***
+Height: 150.35
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / office
+Rank: 82
+
+*** Yeongdeungpo SK Leaders View Officetel, Wing 1 ***
+Height: 150.25
+Floors: 39
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel / office
+Rank: 83
+
+*** Ichon Rex Tower C ***
+Height: 150
+Floors: 36
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 84
+
+*** Wolgok New City Tower 1 ***
+Height: 150
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 84
+
+*** Galleria Palace Tower A ***
+Height: 149.6
+Floors: 46
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 86
+
+*** Galleria Palace Tower B ***
+Height: 149.6
+Floors: 46
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 86
+
+*** Galleria Palace Tower C ***
+Height: 149.6
+Floors: 46
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 86
+
+*** Lotte Castle Gold 1 ***
+Height: 149
+Floors: 39
+Status: Completed
+Completed: 2005
+Functions: hotel / office
+Rank: 89
+
+*** Lotte Castle Gold 2 ***
+Height: 149
+Floors: 39
+Status: Completed
+Completed: 2005
+Functions: hotel / office
+Rank: 89
+
+*** SK Telecom Headquarters ***
+Height: 148
+Floors: 33
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 91
+
+*** Glostar Center Tower 1 ***
+Height: 148
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 92
+
+*** Glostar Center Tower 2 ***
+Height: 148
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 92
+
+*** Wolgok New City Tower 2 ***
+Height: 147
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 94
+
+*** Lucky-Goldstar Tower I ***
+Height: 144
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 95
+
+*** Wolgok New City Tower 3 ***
+Height: 144
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 96
+
+*** Co-op Starclass Residential Complex Tower 2 ***
+Height: 143.95
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential / office
+Rank: 97
+
+*** Tong Yang Fire & Marine Building ***
+Height: 143.25
+Floors: 30
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 98
+
+*** Samsung Raemian Gangdong Palace Residential Tower 101 ***
+Height: 143.1
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 99
+
+*** Samsung Raemian Gangdong Palace Residential Tower 102 ***
+Height: 143.1
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 99
+
+*** Meritz Building ***
+Height: 143
+Floors: 29
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 101
+
+*** Boramae Nasan Suite ***
+Height: 141
+Floors: 37
+Status: Completed
+Completed: 1993
+Functions: residential
+Rank: 102
+
+*** Wolgok New City Tower 4 ***
+Height: 141
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 103
+
+*** Boramae Fantasia Tower ***
+Height: 140
+Floors: 42
+Status: Completed
+Completed: 1999
+Functions: multiple
+Rank: 104
+
+*** Ssangyong Finance Building ***
+Height: 140
+Floors: 38
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 105
+
+*** Brownstone Seoul 102 ***
+Height: 138.57
+Floors: 35
+Status: Completed
+Completed: 2006
+Functions: hotel / residential / office
+Rank: 106
+
+*** Lotte Hotel Seoul ***
+Height: 138
+Floors: 37
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 107
+
+*** Daelim Acrotel ***
+Height: 137
+Floors: 32
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 108
+
+*** MMAA Building ***
+Height: 136
+Floors: 31
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 109
+
+*** POSCO Centre East Tower ***
+Height: 135
+Floors: 30
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 110
+
+*** Park Suites Seoul Tower A ***
+Height: 134.75
+Floors: 34
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 111
+
+*** Park Suites Seoul Tower B ***
+Height: 134.75
+Floors: 34
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 111
+
+*** Daewoo Trumpworld Two, Tower I ***
+Height: 134.1
+Floors: 36
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 113
+
+*** Daewoo Trumpworld Two, Tower II ***
+Height: 134.1
+Floors: 36
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 113
+
+*** Good Morning Securities Building ***
+Height: 134
+Floors: 30
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 115
+
+*** Hanwa Securities Building ***
+Height: 134
+Floors: 27
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 116
+
+*** Mok-Dong Chereville Tower I ***
+Height: 133.5
+Floors: 42
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 117
+
+*** Mok-Dong Chereville Tower II ***
+Height: 133.5
+Floors: 42
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 117
+
+*** Samsung Jong-Ro Tower ***
+Height: 133.5
+Floors: 24
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 119
+
+*** Lucky-Goldstar Tower II ***
+Height: 133.24
+Floors: 35
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 120
+
+*** I-Park Tower 102 ***
+Height: 133.2
+Floors: 39
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 121
+
+*** Posteel Tower ***
+Height: 133
+Floors: 28
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 122
+
+*** Daewoo Trumpworld One, Tower I ***
+Height: 132.9
+Floors: 41
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 123
+
+*** Daewoo Trumpworld One, Tower II ***
+Height: 132.9
+Floors: 41
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 123
+
+*** Hyundai Superville Tower C ***
+Height: 130.3
+Floors: 37
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 125
+
+*** Seocho Garak Tower East ***
+Height: 130.05
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 126
+
+*** Daewoo Worldmark Yongsan 1 ***
+Height: 130
+Floors: 37
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 127
+
+*** Daewoo Worldmark Yongsan 2 ***
+Height: 130
+Floors: 37
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 127
+
+*** Yongsan 3 District Dongbu Asterium 1 ***
+Height: 129
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 129
+
+*** Yongsan 3 District Dongbu Asterium 2 ***
+Height: 129
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 129
+
+*** Hyundai Parkville ***
+Height: 128.9
+Floors: 36
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 131
+
+*** Korea HP Plaza ***
+Height: 128
+Floors: 25
+Status: Completed
+Started: 1995
+Completed: 1998
+Functions: office
+Rank: 132
+
+*** Ferrum Tower ***
+Height: 127.7
+Floors: 28
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 133
+
+*** Korea Special Construction Center ***
+Height: 125.9
+Floors: 30
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 134
+
+*** Chang Kyong Building ***
+Height: 125.6
+Floors: 30
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 135
+
+*** Hanwha Headquarters ***
+Height: 124
+Floors: 21
+Status: Under Construction
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 136
+
+*** Daelim Acroriver Tower A ***
+Height: 122
+Floors: 37
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 137
+
+*** Sharp Star City Tower B ***
+Height: 119
+Floors: 35
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 138
+
+*** Glass Tower ***
+Height: 118.3
+Floors: 32
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 139
+
+*** Boutique Monaco ***
+Height: 117
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 140
+
+*** Hana Bank Headquarters ***
+Height: 110
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 141
+
+*** Amorepacific Headquarters ***
+Height: 110
+Floors: 22
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 142
+
+*** Yonsei Medical Center Severance Hospital ***
+Height: 106.7
+Floors: 21
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: hospital
+Rank: 143
+
+*** COEX InterContinental Seoul ***
+Height: 105
+Floors: 30
+Status: Completed
+Completed: 1999
+Functions: hotel
+Rank: 144
+
+*** Namdaemun Office Building ***
+Height: 98
+Floors: 14
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: office
+Rank: 145
+
+*** Hyundai Superville Tower B ***
+Height: 86
+Floors: 24
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 146
+
+*** Samsung Medical Center ***
+Height: 85.9
+Floors: 20
+Status: Completed
+Completed: 1996
+Functions: hospital
+Rank: 147
+
+*** Central Goverment Complex ***
+Height: 84
+Floors: 22
+Status: Completed
+Started: 1967
+Completed: 1970
+Functions: government
+Rank: 148
+
+*** Hyundai Superville Tower A ***
+Height: 79
+Floors: 22
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 149

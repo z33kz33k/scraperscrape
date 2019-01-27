@@ -1,0 +1,1776 @@
+*** Jakarta (609) ***
+1.   Thamrin Nine Tower 1, 334m
+2.   Indonesia-1 North Tower, 303m
+3.   Indonesia-1 South Tower, 303m
+4.   7Point8, 298m
+5.   Gama Tower, 286m
+6.   Treasury Tower, 280m
+7.   Thamrin Nine Tower 2, 275m
+8.   Jakarta Office Tower, 266m
+9.   Wisma 46, 262m
+10.  Menara Astra, 262m
+11.  Sahid Sudirman Center, 258m
+12.  Millennium Office Tower, 254m
+13.  Raffles Hotel, 253m
+14.  The Pakubuwono Signature, 252m
+15.  Sinarmas MSIG Tower, 245m
+16.  World Capital Tower, 244m
+17.  Four Seasons Residences, 244m
+18.  Casa Domaine Tower 1, 230m
+19.  Menara BCA, 230m
+20.  Keraton at the Plaza, 225m
+21.  BTPN Office Tower, 223m
+22.  Telkom Landmark Tower 2, 220m
+23.  Equity Tower, 220m
+24.  The Peak at Sudirman, 219m
+25.  The Energy, 217m
+26.  Capital Place Office Tower, 215m
+27.  Kempinski Residences, 215m
+28.  Bakrie Tower, 214m
+29.  International Financial Centre Tower 2, 213m
+30.  The Pinnacle, 213m
+31.  The Tower, 212m
+32.  Ritz-Carlton Jakarta, 212m
+33.  Casa Domaine Tower 2, 210m
+34.  Pacific Century Place Jakarta, 209m
+35.  World Trade Center 3, 209m
+36.  Seaview Condominium @ Green Bay Pluit Tower J, 208m
+37.  Seaview Condominium @ Green Bay Pluit Tower K, 208m
+38.  Seaview Condominium @ Green Bay Pluit Tower L, 208m
+39.  Seaview Condominium @ Green Bay Pluit Tower M, 208m
+40.  The City Center @ Batavia City, 208m
+41.  Ciputra World Residential Tower, 207m
+42.  Sequis Tower, 206m
+43.  Eternity Apartment @ District 8, 205m
+44.  Infinity Apartment @ District 8, 205m
+45.  Denpasar Residence Kintamani Tower, 203m
+46.  Denpasar Residence Ubud Tower, 203m
+47.  The Plaza Office Tower, 200m
+48.  Anandamaya One, 198m
+49.  Chitaland Tower, 196m
+50.  Wisma Mulia, 195m
+51.  AXA Tower, 195m
+52.  UOB Plaza, 194m
+53.  DBS Bank Tower, 194m
+54.  The Ritz Kemang Village, 192m
+55.  One Pacific Place, 190m
+56.  Noble House, 188m
+57.  Central Park Residences Tower 1, 188m
+58.  Central Park Residences Tower 2, 188m
+59.  Central Park Residences Tower 3, 188m
+60.  Residence 8 @ Senopati Tower A, 188m
+61.  Residence 8 @ Senopati Tower B, 188m
+62.  Pacific Place Apartments 1, 180m
+63.  Pacific Place Apartments 2, 180m
+64.  Anandamaya Three, 176m
+65.  Anandamaya Two, 176m
+66.  MNC Media Tower, 173m
+67.  The Orchard Satrio, 171m
+68.  The Residence Satrio, 171m
+69.  Menara Kadin Indonesia, 169m
+70.  AIA Tower, 167m
+71.  Central Park Office Tower, 167m
+72.  Centennial Office Tower, 164m
+73.  Residence 8 @ Senopati Equity Tower, 161m
+74.  Plaza BII Tower II, 160m
+75.  World Trade Center 2, 160m
+76.  The Pakubuwono View Lacewood Tower, 159m
+77.  Menara Da Vinci, 158m
+78.  Sahid Surdiman Residences, 158m
+79.  Oakwood Premier Cozmo, 158m
+80.  The St. Moritz Tower, 158m
+81.  Sampoerna Strategic Square North Tower, 158m
+82.  Sampoerna Strategic Square South Tower, 158m
+83.  Holland Village Office Tower, 157m
+84.  Cyber2 Tower, 156m
+85.  InterContinental MidPlaza Jakarta Hotel, 155m
+86.  Altira Office Park, 155m
+87.  Mangkuluhur City Office Tower 1, 152m
+88.  Taman Anggrek I, 151m
+89.  Taman Anggrek II, 151m
+90.  Taman Anggrek III, 151m
+91.  Taman Anggrek IV, 151m
+92.  Taman Anggrek V, 151m
+93.  Taman Anggrek VI, 151m
+94.  Taman Anggrek VII, 151m
+95.  Taman Anggrek VIII, 151m
+96.  Menara Pertiwi, 150m
+97.  The City Tower, 150m
+98.  The Pakubuwono House, 150m
+99.  Thamrin City, 148m
+100. Bona Vista Tower I, 147m
+101. Thamrin Residences 1, 146m
+102. Thamrin Residences 2, 146m
+103. Thamrin Residences 3, 146m
+104. Thamrin Residences 4, 146m
+105. Seasons City Tower 1, 144m
+106. Seasons City Tower 2, 144m
+107. Seasons City Tower 3, 144m
+108. Capital Residences Towers 1 & 2, 144m
+109. Tempo Scan Tower, 143m
+110. Bank Bumi Daya Plaza, 143m
+111. Gedung BRI II, 143m
+112. Menara Standard Chartered, 143m
+113. Sudirman Park Tower 1, 140m
+114. Sudirman Park Tower 2, 140m
+115. IDX Building I, 140m
+116. IDX Building II, 140m
+117. Satrio Tower, 139m
+118. The East, 138m
+119. Menara Prima Tower I, 138m
+120. Bank Negara Indonesia, 136m
+121. JW Marriott Hotel, 134m
+122. Menara Imperium, 134m
+123. Landmark Building Tower A, 133m
+124. Landmark Building Tower B, 133m
+125. Rajawali Headquarters, 132m
+126. Alamanda Office Tower, 131m
+127. Wisma GKBI, 131m
+128. Bellagio Mansions, 131m
+129. Menara Batavia, 130m
+130. Puri Indah Financial Tower, 128m
+131. Hotel Mulia Senayan, 127m
+132. Bellagio Residence, 127m
+133. Menara Karya, 126m
+134. The Pakubuwono View Redwood Tower, 125m
+135. Gedung Artha Graha, 125m
+136. Menara Mulia, 124m
+137. Grand Hyatt Jakarta, 122m
+138. The Manhattan Hotel Jakarta, 120m
+139. MNC Tower, 120m
+140. Wisma KEIAI, 120m
+141. MRCCC Siloam Semanggi, 118m
+142. Menara Global, 117m
+143. Wisma Nusantara, 117m
+144. Shangri-La Hotel, 115m
+145. Chase Plaza, 113m
+146. Kompas Multimedia Tower, 113m
+147. Gudang Garam Tower, 110m
+148. Prudential Tower, 110m
+149. Graha Niaga I, 110m
+150. Puri Matahari Tower, 107m
+151. Dubai Tower, 107m
+152. Miami Tower, 107m
+153. Monte Carlo Tower, 107m
+154. Rio de Janeiro Tower, 107m
+155. Bank Indonesia Tower 1, 106m
+156. Bank Indonesia Tower 2, 106m
+157. Menara Bank Mega, 106m
+158. Telkom Landmark Tower 1, 105m
+159. Generali Tower at Gran Rubina Office Park, 104m
+160. Bank NISP, 101m
+161. Menara Lemhannas, 100m
+162. Wisma Dharmala Sakti, 100m
+163. Hamilton Tower, 100m
+164. King and Queen Towers, 100m
+165. Royal Tower, 100m
+166. Sovereign Plaza, 99m
+167. Permata Kuningan, 98m
+168. Ministry of Transport, 97m
+169. Mayapada Tower, 94m
+170. 1Park Residences Tower C, 94m
+171. The Summit, 93m
+172. Menara Kompas I, 92m
+173. Bona Vista Tower II, 91m
+174. Four Seasons Hotel Jakarta, 91m
+175. Gedung Utama UNTAR, 90m
+176. World Trade Center 1, 90m
+177. Menara Multimedia, 89m
+178. Sherwood Residence Tower 1, 87m
+179. Sherwood Residence Tower 2, 87m
+180. Sherwood Residence Tower 3, 87m
+181. Gedung Kementerian Agama Republik Indonesia, 86m
+182. South Quarter Tower A, 86m
+183. South Quarter Tower B, 86m
+184. South Quarter Tower C, 86m
+185. 1Park Residences Tower A, 85m
+186. Park Royal III, 85m
+187. Wisma BCA, 83m
+
+******************** DETAILS ********************
+
+*** Jakarta ***
+Country: Indonesia
+Region: Asia
+187 towers: Thamrin Nine Tower 1, Indonesia-1 North Tower, Indonesia-1 South Tower, 7Point8, Gama Tower, Treasury Tower, Thamrin Nine Tower 2, Jakarta Office Tower, Wisma 46, Menara Astra, Sahid Sudirman Center, Millennium Office Tower, Raffles Hotel, The Pakubuwono Signature, Sinarmas MSIG Tower, World Capital Tower, Four Seasons Residences, Casa Domaine Tower 1, Menara BCA, Keraton at the Plaza, BTPN Office Tower, Telkom Landmark Tower 2, Equity Tower, The Peak at Sudirman, The Energy, Capital Place Office Tower, Kempinski Residences, Bakrie Tower, International Financial Centre Tower 2, The Pinnacle, The Tower, Ritz-Carlton Jakarta, Casa Domaine Tower 2, Pacific Century Place Jakarta, World Trade Center 3, Seaview Condominium @ Green Bay Pluit Tower J, Seaview Condominium @ Green Bay Pluit Tower K, Seaview Condominium @ Green Bay Pluit Tower L, Seaview Condominium @ Green Bay Pluit Tower M, The City Center @ Batavia City, Ciputra World Residential Tower, Sequis Tower, Eternity Apartment @ District 8, Infinity Apartment @ District 8, Denpasar Residence Kintamani Tower, Denpasar Residence Ubud Tower, The Plaza Office Tower, Anandamaya One, Chitaland Tower, Wisma Mulia, AXA Tower, UOB Plaza, DBS Bank Tower, The Ritz Kemang Village, One Pacific Place, Noble House, Central Park Residences Tower 1, Central Park Residences Tower 2, Central Park Residences Tower 3, Residence 8 @ Senopati Tower A, Residence 8 @ Senopati Tower B, Pacific Place Apartments 1, Pacific Place Apartments 2, Anandamaya Three, Anandamaya Two, MNC Media Tower, The Orchard Satrio, The Residence Satrio, Menara Kadin Indonesia, AIA Tower, Central Park Office Tower, Centennial Office Tower, Residence 8 @ Senopati Equity Tower, Plaza BII Tower II, World Trade Center 2, The Pakubuwono View Lacewood Tower, Menara Da Vinci, Sahid Surdiman Residences, Oakwood Premier Cozmo, The St. Moritz Tower, Sampoerna Strategic Square North Tower, Sampoerna Strategic Square South Tower, Holland Village Office Tower, Cyber2 Tower, InterContinental MidPlaza Jakarta Hotel, Altira Office Park, Mangkuluhur City Office Tower 1, Taman Anggrek I, Taman Anggrek II, Taman Anggrek III, Taman Anggrek IV, Taman Anggrek V, Taman Anggrek VI, Taman Anggrek VII, Taman Anggrek VIII, Menara Pertiwi, The City Tower, The Pakubuwono House, Thamrin City, Bona Vista Tower I, Thamrin Residences 1, Thamrin Residences 2, Thamrin Residences 3, Thamrin Residences 4, Seasons City Tower 1, Seasons City Tower 2, Seasons City Tower 3, Capital Residences Towers 1 & 2, Tempo Scan Tower, Bank Bumi Daya Plaza, Gedung BRI II, Menara Standard Chartered, Sudirman Park Tower 1, Sudirman Park Tower 2, IDX Building I, IDX Building II, Satrio Tower, The East, Menara Prima Tower I, Bank Negara Indonesia, JW Marriott Hotel, Menara Imperium, Landmark Building Tower A, Landmark Building Tower B, Rajawali Headquarters, Alamanda Office Tower, Wisma GKBI, Bellagio Mansions, Menara Batavia, Puri Indah Financial Tower, Hotel Mulia Senayan, Bellagio Residence, Menara Karya, The Pakubuwono View Redwood Tower, Gedung Artha Graha, Menara Mulia, Grand Hyatt Jakarta, The Manhattan Hotel Jakarta, MNC Tower, Wisma KEIAI, MRCCC Siloam Semanggi, Menara Global, Wisma Nusantara, Shangri-La Hotel, Chase Plaza, Kompas Multimedia Tower, Gudang Garam Tower, Prudential Tower, Graha Niaga I, Puri Matahari Tower, Dubai Tower, Miami Tower, Monte Carlo Tower, Rio de Janeiro Tower, Bank Indonesia Tower 1, Bank Indonesia Tower 2, Menara Bank Mega, Telkom Landmark Tower 1, Generali Tower at Gran Rubina Office Park, Bank NISP, Menara Lemhannas, Wisma Dharmala Sakti, Hamilton Tower, King and Queen Towers, Royal Tower, Sovereign Plaza, Permata Kuningan, Ministry of Transport, Mayapada Tower, 1Park Residences Tower C, The Summit, Menara Kompas I, Bona Vista Tower II, Four Seasons Hotel Jakarta, Gedung Utama UNTAR, World Trade Center 1, Menara Multimedia, Sherwood Residence Tower 1, Sherwood Residence Tower 2, Sherwood Residence Tower 3, Gedung Kementerian Agama Republik Indonesia, South Quarter Tower A, South Quarter Tower B, South Quarter Tower C, 1Park Residences Tower A, Park Royal III, Wisma BCA
+Tiers: I: 33, II: 56, III: 66, IV: 28, V: 4
+Rating: 609 (13.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Thamrin Nine Tower 1 ***
+Height: 333.5
+Floors: 70
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: hotel / office
+Rank: 1
+
+*** Indonesia-1 North Tower ***
+Height: 303
+Floors: 64
+Status: Under Construction
+Started: 2015
+Completed: 2021
+Functions: residential / hotel / office
+Rank: 2
+
+*** Indonesia-1 South Tower ***
+Height: 303
+Floors: 60
+Status: Under Construction
+Started: 2015
+Completed: 2021
+Functions: residential / hotel / office
+Rank: 3
+
+*** 7Point8 ***
+Height: 298
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Functions: residential / office / retail
+Rank: 4
+
+*** Gama Tower ***
+Height: 285.5
+Floors: 64
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: hotel / office
+Rank: 5
+
+*** Treasury Tower ***
+Height: 279.5
+Floors: 57
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 6
+
+*** Thamrin Nine Tower 2 ***
+Height: 275
+Floors: 62
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential / hotel / office / retail
+Rank: 7
+
+*** Jakarta Office Tower ***
+Height: 266
+Floors: 59
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 8
+
+*** Wisma 46 ***
+Height: 261.94
+Floors: 46
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 9
+
+*** Menara Astra ***
+Height: 261.5
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 10
+
+*** Sahid Sudirman Center ***
+Height: 258
+Floors: 59
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 11
+
+*** Millennium Office Tower ***
+Height: 254
+Floors: 53
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 12
+
+*** Raffles Hotel ***
+Height: 253.34
+Floors: 52
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: residential / hotel
+Rank: 13
+
+*** The Pakubuwono Signature ***
+Height: 252
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 14
+
+*** Sinarmas MSIG Tower ***
+Height: 245
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 15
+
+*** World Capital Tower ***
+Height: 244.3
+Floors: 51
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 16
+
+*** Four Seasons Residences ***
+Height: 244
+Floors: 55
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 17
+
+*** Casa Domaine Tower 1 ***
+Height: 230
+Floors: 61
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 18
+
+*** Menara BCA ***
+Height: 230
+Floors: 56
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 19
+
+*** Keraton at the Plaza ***
+Height: 225
+Floors: 48
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / hotel
+Rank: 20
+
+*** BTPN Office Tower ***
+Height: 223
+Floors: 48
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 21
+
+*** Telkom Landmark Tower 2 ***
+Height: 220.2
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 22
+
+*** Equity Tower ***
+Height: 220
+Floors: 44
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 23
+
+*** The Peak at Sudirman ***
+Height: 218.54
+Floors: 55
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 24
+
+*** The Energy ***
+Height: 217
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: office / retail
+Rank: 25
+
+*** Capital Place Office Tower ***
+Height: 215.15
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 26
+
+*** Kempinski Residences ***
+Height: 215
+Floors: 57
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 27
+
+*** Bakrie Tower ***
+Height: 214
+Floors: 50
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 28
+
+*** International Financial Centre Tower 2 ***
+Height: 213.2
+Floors: 49
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 29
+
+*** The Pinnacle ***
+Height: 213
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 30
+
+*** The Tower ***
+Height: 212
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 31
+
+*** Ritz-Carlton Jakarta ***
+Height: 212
+Floors: 48
+Status: Completed
+Completed: 2005
+Functions: hotel
+Rank: 32
+
+*** Casa Domaine Tower 2 ***
+Height: 209.88
+Floors: 57
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: residential
+Rank: 33
+
+*** Pacific Century Place Jakarta ***
+Height: 209.25
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 34
+
+*** World Trade Center 3 ***
+Height: 209.1
+Floors: 44
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 35
+
+*** Seaview Condominium @ Green Bay Pluit Tower J ***
+Height: 208
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 36
+
+*** Seaview Condominium @ Green Bay Pluit Tower K ***
+Height: 208
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 36
+
+*** Seaview Condominium @ Green Bay Pluit Tower L ***
+Height: 208
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 36
+
+*** Seaview Condominium @ Green Bay Pluit Tower M ***
+Height: 208
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential / retail
+Rank: 36
+
+*** The City Center @ Batavia City ***
+Height: 208
+Floors: 43
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 40
+
+*** Ciputra World Residential Tower ***
+Height: 206.93
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential
+Rank: 41
+
+*** Sequis Tower ***
+Height: 206.27
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 42
+
+*** Eternity Apartment @ District 8 ***
+Height: 205
+Floors: 51
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 43
+
+*** Infinity Apartment @ District 8 ***
+Height: 205
+Floors: 51
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 43
+
+*** Denpasar Residence Kintamani Tower ***
+Height: 203.15
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 45
+
+*** Denpasar Residence Ubud Tower ***
+Height: 203.15
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 45
+
+*** The Plaza Office Tower ***
+Height: 200
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 47
+
+*** Anandamaya One ***
+Height: 197.5
+Floors: 47
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 48
+
+*** Chitaland Tower ***
+Height: 196.1
+Floors: 40
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 49
+
+*** Wisma Mulia ***
+Height: 195
+Floors: 54
+Status: Completed
+Started: 1997
+Completed: 2003
+Functions: office
+Rank: 50
+
+*** AXA Tower ***
+Height: 195
+Floors: 45
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 51
+
+*** UOB Plaza ***
+Height: 194.3
+Floors: 44
+Status: Completed
+Started: 1997
+Completed: 2007
+Functions: office
+Rank: 52
+
+*** DBS Bank Tower ***
+Height: 193.98
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office
+Rank: 53
+
+*** The Ritz Kemang Village ***
+Height: 191.8
+Floors: 41
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 54
+
+*** One Pacific Place ***
+Height: 190
+Floors: 37
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / hotel / office
+Rank: 55
+
+*** Noble House ***
+Height: 188.4
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 56
+
+*** Central Park Residences Tower 1 ***
+Height: 188
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 57
+
+*** Central Park Residences Tower 2 ***
+Height: 188
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 57
+
+*** Central Park Residences Tower 3 ***
+Height: 188
+Floors: 49
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 57
+
+*** Residence 8 @ Senopati Tower A ***
+Height: 187.85
+Floors: 43
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 60
+
+*** Residence 8 @ Senopati Tower B ***
+Height: 187.85
+Floors: 43
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 60
+
+*** Pacific Place Apartments 1 ***
+Height: 180
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / retail
+Rank: 62
+
+*** Pacific Place Apartments 2 ***
+Height: 180
+Floors: 32
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 62
+
+*** Anandamaya Three ***
+Height: 176.4
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 64
+
+*** Anandamaya Two ***
+Height: 176.4
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 64
+
+*** MNC Media Tower ***
+Height: 173
+Floors: 39
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: hotel / office
+Rank: 66
+
+*** The Orchard Satrio ***
+Height: 171
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 67
+
+*** The Residence Satrio ***
+Height: 171
+Floors: 44
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: serviced apartments / residential
+Rank: 67
+
+*** Menara Kadin Indonesia ***
+Height: 169
+Floors: 37
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 69
+
+*** AIA Tower ***
+Height: 167
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 70
+
+*** Central Park Office Tower ***
+Height: 166.7
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 71
+
+*** Centennial Office Tower ***
+Height: 164
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 72
+
+*** Residence 8 @ Senopati Equity Tower ***
+Height: 160.6
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 73
+
+*** Plaza BII Tower II ***
+Height: 160.34
+Floors: 39
+Status: Completed
+Functions: office
+Rank: 74
+
+*** World Trade Center 2 ***
+Height: 160
+Floors: 30
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 75
+
+*** The Pakubuwono View Lacewood Tower ***
+Height: 159
+Floors: 37
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 76
+
+*** Menara Da Vinci ***
+Height: 158.5
+Floors: 34
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 77
+
+*** Sahid Surdiman Residences ***
+Height: 158.2
+Floors: 44
+Status: Completed
+Completed: 2009
+Functions: residential / hotel
+Rank: 78
+
+*** Oakwood Premier Cozmo ***
+Height: 158
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 79
+
+*** The St. Moritz Tower ***
+Height: 158
+Floors: 42
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: hotel / office
+Rank: 80
+
+*** Sampoerna Strategic Square North Tower ***
+Height: 158
+Floors: 32
+Status: Completed
+Started: 1993
+Completed: 1997
+Functions: office
+Rank: 81
+
+*** Sampoerna Strategic Square South Tower ***
+Height: 158
+Floors: 32
+Status: Completed
+Started: 1993
+Completed: 1997
+Functions: office
+Rank: 81
+
+*** Holland Village Office Tower ***
+Height: 156.6
+Floors: 35
+Status: Under Construction
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 83
+
+*** Cyber2 Tower ***
+Height: 156
+Floors: 33
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 84
+
+*** InterContinental MidPlaza Jakarta Hotel ***
+Height: 155
+Floors: 37
+Status: Completed
+Completed: 1997
+Functions: residential / hotel
+Rank: 85
+
+*** Altira Office Park ***
+Height: 155
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 86
+
+*** Mangkuluhur City Office Tower 1 ***
+Height: 152.4
+Floors: 33
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 87
+
+*** Taman Anggrek I ***
+Height: 151
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 88
+
+*** Taman Anggrek II ***
+Height: 151
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 88
+
+*** Taman Anggrek III ***
+Height: 151
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 88
+
+*** Taman Anggrek IV ***
+Height: 151
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 88
+
+*** Taman Anggrek V ***
+Height: 151
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 88
+
+*** Taman Anggrek VI ***
+Height: 151
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 88
+
+*** Taman Anggrek VII ***
+Height: 151
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 88
+
+*** Taman Anggrek VIII ***
+Height: 151
+Floors: 46
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 88
+
+*** Menara Pertiwi ***
+Height: 150
+Floors: 34
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 96
+
+*** The City Tower ***
+Height: 150
+Floors: 32
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 97
+
+*** The Pakubuwono House ***
+Height: 150
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 97
+
+*** Thamrin City ***
+Height: 148
+Status: Completed
+Completed: 2007
+Rank: 99
+
+*** Bona Vista Tower I ***
+Height: 147.14
+Floors: 27
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 100
+
+*** Thamrin Residences 1 ***
+Height: 146.2
+Floors: 42
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 101
+
+*** Thamrin Residences 2 ***
+Height: 146.2
+Floors: 42
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 101
+
+*** Thamrin Residences 3 ***
+Height: 146.2
+Floors: 42
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 101
+
+*** Thamrin Residences 4 ***
+Height: 146.2
+Floors: 42
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 101
+
+*** Seasons City Tower 1 ***
+Height: 144.1
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / retail
+Rank: 105
+
+*** Seasons City Tower 2 ***
+Height: 144.1
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / retail
+Rank: 105
+
+*** Seasons City Tower 3 ***
+Height: 144.1
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / retail
+Rank: 105
+
+*** Capital Residences Towers 1 & 2 ***
+Height: 144
+Floors: 38
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 108
+
+*** Tempo Scan Tower ***
+Height: 143.4
+Floors: 30
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 109
+
+*** Bank Bumi Daya Plaza ***
+Height: 143
+Floors: 32
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 110
+
+*** Gedung BRI II ***
+Height: 143
+Floors: 32
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 110
+
+*** Menara Standard Chartered ***
+Height: 143
+Floors: 31
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 112
+
+*** Sudirman Park Tower 1 ***
+Height: 140
+Floors: 46
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 113
+
+*** Sudirman Park Tower 2 ***
+Height: 140
+Floors: 46
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 113
+
+*** IDX Building I ***
+Height: 140
+Floors: 32
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 115
+
+*** IDX Building II ***
+Height: 140
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 115
+
+*** Satrio Tower ***
+Height: 138.97
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 117
+
+*** The East ***
+Height: 138.2
+Floors: 32
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 118
+
+*** Menara Prima Tower I ***
+Height: 138
+Floors: 28
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 119
+
+*** Bank Negara Indonesia ***
+Height: 136
+Floors: 34
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 120
+
+*** JW Marriott Hotel ***
+Height: 134.2
+Floors: 33
+Status: Completed
+Completed: 2001
+Functions: hotel
+Rank: 121
+
+*** Menara Imperium ***
+Height: 134
+Floors: 37
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 122
+
+*** Landmark Building Tower A ***
+Height: 133
+Floors: 31
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 123
+
+*** Landmark Building Tower B ***
+Height: 133
+Floors: 31
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 123
+
+*** Rajawali Headquarters ***
+Height: 132
+Floors: 30
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office / hotel
+Rank: 125
+
+*** Alamanda Office Tower ***
+Height: 131.05
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 126
+
+*** Wisma GKBI ***
+Height: 131
+Floors: 37
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 127
+
+*** Bellagio Mansions ***
+Height: 131
+Floors: 36
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 128
+
+*** Menara Batavia ***
+Height: 130.1
+Floors: 32
+Status: Completed
+Completed: 1997
+Functions: hotel / office
+Rank: 129
+
+*** Puri Indah Financial Tower ***
+Height: 127.8
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 130
+
+*** Hotel Mulia Senayan ***
+Height: 127
+Floors: 40
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 131
+
+*** Bellagio Residence ***
+Height: 127
+Floors: 36
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 132
+
+*** Menara Karya ***
+Height: 126.5
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2006
+Functions: office
+Rank: 133
+
+*** The Pakubuwono View Redwood Tower ***
+Height: 125
+Floors: 34
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: residential
+Rank: 134
+
+*** Gedung Artha Graha ***
+Height: 125
+Floors: 28
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 135
+
+*** Menara Mulia ***
+Height: 124
+Floors: 26
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 136
+
+*** Grand Hyatt Jakarta ***
+Height: 122
+Floors: 30
+Status: Completed
+Started: 1987
+Completed: 1991
+Functions: hotel
+Rank: 137
+
+*** The Manhattan Hotel Jakarta ***
+Height: 120
+Floors: 31
+Status: Completed
+Completed: 2006
+Functions: hotel
+Rank: 138
+
+*** MNC Tower ***
+Height: 120
+Floors: 29
+Status: Completed
+Functions: office
+Rank: 139
+
+*** Wisma KEIAI ***
+Height: 120
+Floors: 26
+Status: Completed
+Functions: office / retail
+Rank: 140
+
+*** MRCCC Siloam Semanggi ***
+Height: 117.94
+Floors: 29
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: hospital
+Rank: 141
+
+*** Menara Global ***
+Height: 117.2
+Floors: 24
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 142
+
+*** Wisma Nusantara ***
+Height: 117
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 143
+
+*** Shangri-La Hotel ***
+Height: 115
+Floors: 32
+Status: Completed
+Completed: 1994
+Functions: hotel
+Rank: 144
+
+*** Chase Plaza ***
+Height: 113
+Floors: 27
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 145
+
+*** Kompas Multimedia Tower ***
+Height: 113
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 146
+
+*** Gudang Garam Tower ***
+Height: 110.4
+Floors: 25
+Status: Completed
+Functions: office
+Rank: 147
+
+*** Prudential Tower ***
+Height: 110
+Floors: 26
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: office
+Rank: 148
+
+*** Graha Niaga I ***
+Height: 109.8
+Floors: 27
+Status: Completed
+Started: 1989
+Completed: 1993
+Functions: office
+Rank: 149
+
+*** Puri Matahari Tower ***
+Height: 107
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: residential / office
+Rank: 150
+
+*** Dubai Tower ***
+Height: 107
+Floors: 24
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 151
+
+*** Miami Tower ***
+Height: 107
+Floors: 24
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 151
+
+*** Monte Carlo Tower ***
+Height: 107
+Floors: 24
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 151
+
+*** Rio de Janeiro Tower ***
+Height: 107
+Floors: 24
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 151
+
+*** Bank Indonesia Tower 1 ***
+Height: 105.7
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 155
+
+*** Bank Indonesia Tower 2 ***
+Height: 105.7
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 155
+
+*** Menara Bank Mega ***
+Height: 105.7
+Floors: 26
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 155
+
+*** Telkom Landmark Tower 1 ***
+Height: 105.2
+Floors: 21
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 158
+
+*** Generali Tower at Gran Rubina Office Park ***
+Height: 104.1
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 159
+
+*** Bank NISP ***
+Height: 100.7
+Floors: 23
+Status: Completed
+Functions: office
+Rank: 160
+
+*** Menara Lemhannas ***
+Height: 100
+Floors: 24
+Status: Under Construction
+Started: 2015
+Functions: office
+Rank: 161
+
+*** Wisma Dharmala Sakti ***
+Height: 100
+Floors: 24
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 161
+
+*** Hamilton Tower ***
+Height: 99.8
+Floors: 30
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 163
+
+*** King and Queen Towers ***
+Height: 99.8
+Floors: 30
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 163
+
+*** Royal Tower ***
+Height: 99.8
+Floors: 30
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 163
+
+*** Sovereign Plaza ***
+Height: 99.4
+Floors: 22
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 166
+
+*** Permata Kuningan ***
+Height: 97.6
+Floors: 24
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 167
+
+*** Ministry of Transport ***
+Height: 97
+Floors: 26
+Status: Completed
+Functions: government
+Rank: 168
+
+*** Mayapada Tower ***
+Height: 94.5
+Floors: 22
+Status: Completed
+Functions: office
+Rank: 169
+
+*** 1Park Residences Tower C ***
+Height: 94.1
+Floors: 26
+Status: Completed
+Functions: residential
+Rank: 170
+
+*** The Summit ***
+Height: 93.42
+Floors: 24
+Status: Completed
+Functions: residential
+Rank: 171
+
+*** Menara Kompas I ***
+Height: 92
+Floors: 18
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 172
+
+*** Bona Vista Tower II ***
+Height: 91
+Floors: 23
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 173
+
+*** Four Seasons Hotel Jakarta ***
+Height: 91
+Floors: 20
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: hotel
+Rank: 174
+
+*** Gedung Utama UNTAR ***
+Height: 90
+Floors: 21
+Status: Completed
+Completed: 2007
+Functions: education
+Rank: 175
+
+*** World Trade Center 1 ***
+Height: 90
+Floors: 20
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 176
+
+*** Menara Multimedia ***
+Height: 89
+Floors: 22
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 177
+
+*** Sherwood Residence Tower 1 ***
+Height: 87.4
+Floors: 24
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 178
+
+*** Sherwood Residence Tower 2 ***
+Height: 87.4
+Floors: 24
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 178
+
+*** Sherwood Residence Tower 3 ***
+Height: 87.4
+Floors: 24
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 178
+
+*** Gedung Kementerian Agama Republik Indonesia ***
+Height: 86
+Floors: 21
+Status: Completed
+Completed: 2010
+Functions: government
+Rank: 181
+
+*** South Quarter Tower A ***
+Height: 85.7
+Floors: 20
+Status: Completed
+Completed: 2015
+Functions: office / retail
+Rank: 182
+
+*** South Quarter Tower B ***
+Height: 85.7
+Floors: 20
+Status: Completed
+Completed: 2015
+Functions: office / retail
+Rank: 182
+
+*** South Quarter Tower C ***
+Height: 85.7
+Floors: 20
+Status: Completed
+Completed: 2015
+Functions: office / retail
+Rank: 182
+
+*** 1Park Residences Tower A ***
+Height: 85.4
+Floors: 22
+Status: Completed
+Functions: residential
+Rank: 185
+
+*** Park Royal III ***
+Height: 85
+Floors: 26
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 186
+
+*** Wisma BCA ***
+Height: 83
+Floors: 18
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 187

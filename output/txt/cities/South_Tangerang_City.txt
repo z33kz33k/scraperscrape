@@ -1,0 +1,27 @@
+*** South Tangerang City (3) ***
+1. Midtown Signature, 110m
+2. Midtown Residence, 92m
+
+******************** DETAILS ********************
+
+*** South Tangerang City ***
+Country: Indonesia
+Region: Asia
+2 towers: Midtown Signature, Midtown Residence
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Midtown Signature ***
+Height: 109.5
+Floors: 33
+Status: Completed
+Functions: residential
+Rank: 1
+
+*** Midtown Residence ***
+Height: 92
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 2

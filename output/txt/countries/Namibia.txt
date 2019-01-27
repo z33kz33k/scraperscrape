@@ -1,0 +1,18 @@
+*** Namibia (1) ***
+1. Windhoek, 1
+
+******************** DETAILS ********************
+
+*** Namibia ***
+Region: Africa
+1 city: Windhoek
+Tiers: I: 1
+Rating: 1
+
+*** Windhoek ***
+Country: Namibia
+Region: Africa
+1 tower: Old Mutual Namibia Headquarters
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

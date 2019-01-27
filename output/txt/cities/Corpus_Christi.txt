@@ -1,0 +1,65 @@
+*** Corpus Christi (8) ***
+1. One Shoreline Plaza South Tower, 125m
+2. One Shoreline Plaza North Tower, 114m
+3. Frost Bank Building, 102m
+4. Trinity Towers, 87m
+5. Wilson Plaza West, 83m
+6. 600 Building, 76m
+
+******************** DETAILS ********************
+
+*** Corpus Christi ***
+Country: United States
+Region: North America
+6 towers: One Shoreline Plaza South Tower, One Shoreline Plaza North Tower, Frost Bank Building, Trinity Towers, Wilson Plaza West, 600 Building
+Tiers: I: 4, II: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** One Shoreline Plaza South Tower ***
+Height: 125.27
+Floors: 28
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 1
+
+*** One Shoreline Plaza North Tower ***
+Height: 114.3
+Floors: 22
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 2
+
+*** Frost Bank Building ***
+Height: 102.41
+Floors: 23
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 3
+
+*** Trinity Towers ***
+Height: 86.87
+Floors: 19
+Status: Completed
+Completed: 1978
+Functions: residential
+Rank: 4
+
+*** Wilson Plaza West ***
+Height: 83.21
+Floors: 21
+Status: Completed
+Completed: 1951
+Functions: office
+Rank: 5
+
+*** 600 Building ***
+Height: 75.59
+Floors: 21
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 6

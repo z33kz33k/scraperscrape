@@ -1,0 +1,21 @@
+*** Aomori (1) ***
+1. Aomori Prefecture Kanko Bussankan ASPM, 76m
+
+******************** DETAILS ********************
+
+*** Aomori ***
+Country: Japan
+Region: Asia
+1 tower: Aomori Prefecture Kanko Bussankan ASPM
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Aomori Prefecture Kanko Bussankan ASPM ***
+Height: 76
+Floors: 15
+Status: Completed
+Started: 1984
+Completed: 1986
+Functions: office / government / retail
+Rank: 1

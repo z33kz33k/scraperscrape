@@ -1,0 +1,21 @@
+*** Blacktown (1) ***
+1. Altitude Tower, 80m
+
+******************** DETAILS ********************
+
+*** Blacktown ***
+Country: Australia
+Region: Oceania
+1 tower: Altitude Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Altitude Tower ***
+Height: 80
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 1

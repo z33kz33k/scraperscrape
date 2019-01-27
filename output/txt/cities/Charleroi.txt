@@ -1,0 +1,21 @@
+*** Charleroi (1) ***
+1. Police Headquarters & Charleroi Danses, 75m
+
+******************** DETAILS ********************
+
+*** Charleroi ***
+Country: Belgium
+Region: Europe
+1 tower: Police Headquarters & Charleroi Danses
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Police Headquarters & Charleroi Danses ***
+Height: 75
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 1

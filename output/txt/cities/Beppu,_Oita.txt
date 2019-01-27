@@ -1,0 +1,18 @@
+*** Beppu, Oita (2) ***
+1. Global Tower, 124m
+
+******************** DETAILS ********************
+
+*** Beppu, Oita ***
+Country: Japan
+Region: Asia
+1 tower: Global Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Global Tower ***
+Height: 124.38
+Status: Completed
+Completed: 1994
+Rank: 1

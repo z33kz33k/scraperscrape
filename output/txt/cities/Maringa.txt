@@ -1,0 +1,20 @@
+*** Maringa (2) ***
+1. Royal Garden, 140m
+
+******************** DETAILS ********************
+
+*** Maringa ***
+Country: Brazil
+Region: South America
+1 tower: Royal Garden
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Royal Garden ***
+Height: 140
+Floors: 39
+Status: Completed
+Completed: 1991
+Functions: residential
+Rank: 1

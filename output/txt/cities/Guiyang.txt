@@ -1,0 +1,309 @@
+*** Guiyang (164) ***
+1.  Guiyang International Financial Center T1 , 401m
+2.  Guiyang World Trade Center Landmark Tower, 380m
+3.  Hengfeng Guiyang Center Tower 1, 349m
+4.  Twin Towers Guiyang, East Tower, 335m
+5.  Twin Towers Guiyang, West Tower, 335m
+6.  Huaguouuan Zone D, 330m
+7.  Huaguoyuan Zone N, 330m
+8.  Guizhou Park Office Tower, 276m
+9.  Guiyang International Financial Center T2, 271m
+10. Hunter Douglas International Plaza, 250m
+11. Maotai International Business Center 1, 234m
+12. Xingyun Electrical Appliance Redevelopment Tower 2, 233m
+13. Xingyun Electrical Appliance Redevelopment Tower 3, 233m
+14. Kempinski Hotel, 228m
+15. Huaguoyuan Hilton Hotel, 224m
+16. Xingyun Electrical Appliance Redevelopment Tower 4, 221m
+17. Xingyun Electrical Appliance Redevelopment Tower 5, 221m
+18. Asia-Pacific Center, 210m
+19. Zhongtian Exhibition City 1, 205m
+20. Zhongtian Exhibition City 2, 205m
+21. Huijin International Plaza, 202m
+22. 201 Tower, 201m
+23. Guizhou Park Hotel Two, 188m
+24. Xingyun Electrical Appliance Redevelopment Tower 6, 179m
+25. Sheraton Hotel Guiyang, 159m
+26. Guiyang Midea Square, 153m
+27. Quanlin International Plaza Main Tower, 151m
+28. Times Mingshi Tower, 146m
+29. Xingyun Electrical Appliance Redevelopment Tower 7, 145m
+30. Liebian Building, 121m
+31. Guizhou Park Hotel, 106m
+
+******************** DETAILS ********************
+
+*** Guiyang ***
+Country: China
+Region: Asia
+31 towers: Guiyang International Financial Center T1 , Guiyang World Trade Center Landmark Tower, Hengfeng Guiyang Center Tower 1, Twin Towers Guiyang, East Tower, Twin Towers Guiyang, West Tower, Huaguouuan Zone D, Huaguoyuan Zone N, Guizhou Park Office Tower, Guiyang International Financial Center T2, Hunter Douglas International Plaza, Maotai International Business Center 1, Xingyun Electrical Appliance Redevelopment Tower 2, Xingyun Electrical Appliance Redevelopment Tower 3, Kempinski Hotel, Huaguoyuan Hilton Hotel, Xingyun Electrical Appliance Redevelopment Tower 4, Xingyun Electrical Appliance Redevelopment Tower 5, Asia-Pacific Center, Zhongtian Exhibition City 1, Zhongtian Exhibition City 2, Huijin International Plaza, 201 Tower, Guizhou Park Hotel Two, Xingyun Electrical Appliance Redevelopment Tower 6, Sheraton Hotel Guiyang, Guiyang Midea Square, Quanlin International Plaza Main Tower, Times Mingshi Tower, Xingyun Electrical Appliance Redevelopment Tower 7, Liebian Building, Guizhou Park Hotel
+Tiers: II: 4, III: 10, IV: 10, V: 7
+Rating: 164 (72.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Guiyang International Financial Center T1  ***
+Height: 401
+Floors: 79
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: hotel / office
+Rank: 1
+
+*** Guiyang World Trade Center Landmark Tower ***
+Height: 380
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: serviced apartments / hotel / office
+Rank: 2
+
+*** Hengfeng Guiyang Center Tower 1 ***
+Height: 348.9
+Floors: 77
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: hotel / office
+Rank: 3
+
+*** Twin Towers Guiyang, East Tower ***
+Height: 335
+Floors: 74
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: office
+Rank: 4
+
+*** Twin Towers Guiyang, West Tower ***
+Height: 335
+Floors: 74
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: hotel / office
+Rank: 4
+
+*** Huaguouuan Zone D ***
+Height: 330
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Rank: 6
+
+*** Huaguoyuan Zone N ***
+Height: 330
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Rank: 6
+
+*** Guizhou Park Office Tower ***
+Height: 276
+Floors: 55
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: office / retail
+Rank: 8
+
+*** Guiyang International Financial Center T2 ***
+Height: 271
+Floors: 54
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 9
+
+*** Hunter Douglas International Plaza ***
+Height: 250.25
+Floors: 59
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: hotel / office
+Rank: 10
+
+*** Maotai International Business Center 1 ***
+Height: 233.6
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 11
+
+*** Xingyun Electrical Appliance Redevelopment Tower 2 ***
+Height: 233.4
+Floors: 67
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential
+Rank: 12
+
+*** Xingyun Electrical Appliance Redevelopment Tower 3 ***
+Height: 233.4
+Floors: 67
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential
+Rank: 12
+
+*** Kempinski Hotel ***
+Height: 228
+Floors: 53
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: hotel
+Rank: 14
+
+*** Huaguoyuan Hilton Hotel ***
+Height: 224.4
+Floors: 50
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: hotel
+Rank: 15
+
+*** Xingyun Electrical Appliance Redevelopment Tower 4 ***
+Height: 220.8
+Floors: 69
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Rank: 16
+
+*** Xingyun Electrical Appliance Redevelopment Tower 5 ***
+Height: 220.8
+Floors: 69
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Rank: 16
+
+*** Asia-Pacific Center ***
+Height: 210
+Floors: 55
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 18
+
+*** Zhongtian Exhibition City 1 ***
+Height: 204.75
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 19
+
+*** Zhongtian Exhibition City 2 ***
+Height: 204.75
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 19
+
+*** Huijin International Plaza ***
+Height: 202
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office / retail
+Rank: 21
+
+*** 201 Tower ***
+Height: 201
+Floors: 39
+Status: Completed
+Started: 2009
+Completed: 2011
+Functions: office
+Rank: 22
+
+*** Guizhou Park Hotel Two ***
+Height: 188
+Floors: 40
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: hotel / retail
+Rank: 23
+
+*** Xingyun Electrical Appliance Redevelopment Tower 6 ***
+Height: 178.8
+Floors: 55
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 24
+
+*** Sheraton Hotel Guiyang ***
+Height: 158.6
+Floors: 38
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: hotel
+Rank: 25
+
+*** Guiyang Midea Square ***
+Height: 152.6
+Floors: 39
+Status: Under Construction
+Completed: 2020
+Functions: serviced apartments
+Rank: 26
+
+*** Quanlin International Plaza Main Tower ***
+Height: 151
+Floors: 40
+Status: Completed
+Completed: 2002
+Functions: hotel
+Rank: 27
+
+*** Times Mingshi Tower ***
+Height: 146
+Floors: 40
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 28
+
+*** Xingyun Electrical Appliance Redevelopment Tower 7 ***
+Height: 144.8
+Floors: 45
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 29
+
+*** Liebian Building ***
+Height: 121
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel
+Rank: 30
+
+*** Guizhou Park Hotel ***
+Height: 106
+Floors: 30
+Status: Completed
+Completed: 1989
+Functions: hotel
+Rank: 31

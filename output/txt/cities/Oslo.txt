@@ -1,0 +1,30 @@
+*** Oslo (4) ***
+1. Radisson Blu Plaza Hotel, 117m
+2. Biskop Gunnerus Gate 14, 111m
+
+******************** DETAILS ********************
+
+*** Oslo ***
+Country: Norway
+Region: Europe
+2 towers: Radisson Blu Plaza Hotel, Biskop Gunnerus Gate 14
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Radisson Blu Plaza Hotel ***
+Height: 117
+Floors: 37
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: hotel
+Rank: 1
+
+*** Biskop Gunnerus Gate 14 ***
+Height: 111
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 2

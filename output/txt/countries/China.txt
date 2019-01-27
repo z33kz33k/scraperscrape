@@ -1,0 +1,855 @@
+*** China (13037) ***
+1.  Hong Kong, 2107
+2.  Shenzhen, 1061
+3.  Shanghai, 941
+4.  Chongqing, 716
+5.  Guangzhou, 681
+6.  Nanning, 663
+7.  Shenyang, 521
+8.  Wuhan, 453
+9.  Chengdu, 421
+10. Nanjing, 338
+11. Tianjin, 296
+12. Beijing, 288
+13. Hangzhou, 259
+14. Dalian, 232
+15. Changsha, 200
+16. Suzhou, 185
+17. Xiamen, 178
+18. Guigang, 171
+19. Guiyang, 164
+20. Hefei, 163
+21. Nanchang, 161
+22. Zhuhai, 152
+23. Xi’an, 148
+24. Ningbo, 144
+25. Jinan, 144
+26. Qingdao, 136
+27. Kunming, 136
+28. Liuzhou, 135
+29. Wuxi, 127
+30. Macau, 101
+31. Urumqi, 96
+32. Fuzhou, 87
+33. Yulin, 79
+34. Taiyuan, 74
+35. Beihai, 70
+36. Lanzhou, 69
+37. Foshan, 69
+38. Dongguan, 68
+39. Zhanjiang, 68
+40. Zhengzhou, 63
+41. Harbin, 58
+42. Qinzhou, 57
+43. Shijiazhuang, 55
+44. Changchun, 52
+45. Sanya, 51
+46. Laibin, 46
+47. Haikou, 40
+48. Huizhou, 36
+49. Ordos, 28
+50. Zhongshan, 26
+51. Wenzhou, 26
+52. Hezhou, 24
+53. Yinchuan, 23
+54. Hechi, 22
+55. Yantai, 20
+56. Guilin, 19
+57. Zhenjiang, 18
+58. Fangcheng, 18
+59. Changzhou, 16
+60. Wuzhou, 16
+61. Wuhu, 14
+62. Luoyang, 14
+63. Nantong, 14
+64. Huzhou, 13
+65. Quanzhou, 12
+66. Anshan, 12
+67. Jiangmen, 12
+68. Zibo, 12
+69. Jiujiang, 8
+70. Shaoxing, 8
+71. Taizhou, 8
+72. Lianyungang, 8
+73. Yiwu, 6
+74. Weihai, 6
+75. Yixing, 6
+76. Baoding, 6
+77. Xuzhou, 6
+78. Yangzhou, 6
+79. Chongzuo, 6
+80. Baise, 5
+81. Yichang, 4
+82. Baoji, 4
+83. Taicang, 4
+84. Yuxi, 4
+85. Shangyu, 4
+86. Hohhot, 4
+87. Rizhao, 4
+88. Mianyang, 2
+89. Linyi, 2
+90. Shantou, 2
+91. Ganzhou, 2
+92. Baotou, 1
+93. Huangshan, 1
+94. Jincheng, 1
+
+******************** DETAILS ********************
+
+*** China ***
+Region: Asia
+94 cities: Hong Kong, Shenzhen, Shanghai, Chongqing, Guangzhou, Nanning, Shenyang, Wuhan, Chengdu, Nanjing, Tianjin, Beijing, Hangzhou, Dalian, Changsha, Suzhou, Xiamen, Guigang, Guiyang, Hefei, Nanchang, Zhuhai, Xi’an, Ningbo, Jinan, Qingdao, Kunming, Liuzhou, Wuxi, Macau, Urumqi, Fuzhou, Yulin, Taiyuan, Beihai, Lanzhou, Foshan, Dongguan, Zhanjiang, Zhengzhou, Harbin, Qinzhou, Shijiazhuang, Changchun, Sanya, Laibin, Haikou, Huizhou, Ordos, Zhongshan, Wenzhou, Hezhou, Yinchuan, Hechi, Yantai, Guilin, Zhenjiang, Fangcheng, Changzhou, Wuzhou, Wuhu, Luoyang, Nantong, Huzhou, Quanzhou, Anshan, Jiangmen, Zibo, Jiujiang, Shaoxing, Taizhou, Lianyungang, Yiwu, Weihai, Yixing, Baoding, Xuzhou, Yangzhou, Chongzuo, Baise, Yichang, Baoji, Taicang, Yuxi, Shangyu, Hohhot, Rizhao, Mianyang, Linyi, Shantou, Ganzhou, Baotou, Huangshan, Jincheng
+Tiers: I: 733, II: 690, III: 1600, IV: 533, V: 137, VI: 23
+Rating: 13037 (20.4% uncompleted)
+
+*** Hong Kong ***
+Country: China
+Region: Asia
+704 towers: International Commerce Centre, Two International Finance Centre, Central Plaza, Bank of China Tower, The Center, Nina Tower, One Island East, Cheung Kong Centre, Victoria Dockside, The Cullinan I, The Cullinan II, The Masterpiece, Sorrento 1, Langham Place Office Tower, Highcliff, The Harbourside, Lee Garden One, Sorrento 2, Harbourfront Landmark, The Arch, One Taikoo Place, COSCO Tower, The Belcher's Tower 5, The Belcher's Tower 6, Hopewell Centre, The Belcher's Tower 1, The Belcher's Tower 2, Tregunter Tower III, The Summit, Grand Promenade Towers 2-3-5, Sorrento 3, LOHAS Park Le Prestige Tower B, Sun Hung Kai Centre, The Belcher's Tower 3, The Belcher's Tower 8, Shangri-La Hotel, Victoria Towers I, Victoria Towers II, Victoria Towers III, Shining Heights, Sorrento 5, Indi Home, LOHAS Park The Capitol Oslo, LOHAS Park The Capitol Whistler, One International Finance Centre, Grand Promenade Tower 1, Grand Promenade Tower 6, Metro Plaza Tower II, Sorrento 6, LOHAS Park The Capitol Madrid, LOHAS Park The Capitol Milan, Bellagio Tower 1-5, Citibank Plaza 1, May House, Metro Town Tower 1, Metro Town Tower 2, Four Seasons Place, Hysan Place, Island Resort Towers 1 & 2, Island Resort Towers 3 & 5, Island Resort Towers 6 & 7, Island Resort Towers 8 & 9, China Online Centre, LOHAS Park Le Prestige Tower A, LOHAS Park Le Prestige Tower C, LOHAS Park The Capitol Florence, Conrad Hong Kong, Queensway Government Office Building, Le Point Tower 6, Le Point Tower 7, Bellagio Tower 6-9, The Merton 1, Wharf Cable Tower, Aigburth, Le Point Tower 10, Le Point Tower 8, Le Point Tower 9, Vision City Tower 2, Vision City Tower 3, Vision City Tower 5, NatWest Tower, Times Square, Manhattan Hill 1-2, Vision City Tower 1, 39 Conduit Road, Banyan Garden 2, Banyan Garden 6, Banyan Garden 7, The Merton 2, The Centrium, Metro Town Tower 3, Metro Town Tower 5, Exchange Square #1, Exchange Square #2, Oxford House Time Warner, 9 Queen's Road Central, Millennium City 5, Landmark East Tower 1, Landmark East Tower 2, Standard Chartered Bank, Festival City III Tower 5, Entertainment Building, Manhattan Hill 3, Manhattan Hill 5, Manhattan Hill 6, Lippo Tower, The Westpoint, Manhattan Heights, Sino Plaza, AIA Central, Festival City III Tower 1, Festival City III Tower 2, Festival City III Tower 3, Ocean Pointe, Cadogan, Vision City Tower 6, Banyan Garden 5, Branksome Crest, Three Pacific Place, Convention Plaza Office Tower, The Pavilia Bay Tower 1, Liberte 1, Liberte 2, Liberte 3, Immigration Tower, Revenue Tower, AIA Tower, Liberte 5, Liberte 6, The Merton 3, Banyan Garden 3, Hong Kong and Shanghai Banking Corporation Headquarters, Jardine House, China Resources Building, Grand Waterfront 1-5, Grand Waterfront 6, The Oakhill, Azura, Far East Finance Centre, One Kowloon, Billionaire Royale, Oscar by the Sea Tower 5, Vianni Cove 2, Vianni Cove 3, Enterprise Square 3, Tavistock II, Ocean Shores Tower 1-3, Ocean Shores Tower 15, Ocean Shores Tower 16-17, Ocean Shores Tower 5, Ocean Shores Tower 6, Ocean Shores Tower 7, Ocean Shores Tower 8, Ocean Shores Tower 9-10, The Pavilia Bay Tower 2, Metro Plaza Tower I, Enterprise Square 5 / MegaBOX, Queen's Garden, The ONE, The Dynasty 1, The Dynasty 2, Peregrine Tower, Lippo Centre, Dorset House/PCCW Tower, Vianni Cove 1, Ocean Shores Tower 11-13, Metro Harbourview 1, Metro Harbourview 10, Metro Harbourview 2, Metro Harbourview 3, Metro Harbourview 4, Metro Harbourview 5, Metro Harbourview 6, Metro Harbourview 7, Metro Harbourview 8, Metro Harbourview 9, Festival City I Tower 2, Festival City I Tower 3, L'Hotel Nina Tower, Arezzo, Festival City II Tower 5, Festival City II Tower 3, Langham Place Hotel, Albany Cove 6, Albany Cove 7, Albany Cove 8, Caribbean Coast 10, Caribbean Coast 11, Caribbean Coast 12, Caribbean Coast 13, Caribbean Coast 15, Caribbean Coast 9, Monterey Cove 2, Monterey Cove 3, Monterey Cove 5, Oscar by the Sea Tower 8, Summit Terrace 3, Summit Terrace 5, Shell Tower, Times Square, The Avenue Phase 2, T2, The Avenue Phase 2, T3, Residence Oasis 1, Residence Oasis 2, Residence Oasis 3, The Grandiose 1, The Grandiose 2, The Grandiose 3, Hong Kong Plaza, Park Central 1, Park Central 12, Park Central 13, Park Central 2, Park Central 3, Park Central 5, Park Central 6, Oscar by the Sea Tower 6, Oscar by the Sea Tower 7, Festival City I Tower 1, Festival City I Tower 5, The Latitude Tower 6, The Latitude Tower 7, The Latitude Tower 8, The Latitude Tower 1, The Latitude Tower 2, Festival City II Tower 1, Festival City II Tower 2, Asia Pacific Finance Tower, Tierra Verde Tower 10-12, The Palazzo, Summit Terrace 2, La Cite Noble Tower 3, Park Central 11, The Serenade Tower 1, The Serenade Tower 2, Residence Oasis 5, Residence Oasis 6, Residence Oasis 7, Four Seasons Hotel Hong Kong, Lime Stardom, Grand Hyatt Serviced Apartments, Sky Tower 1-2, Sky Tower 3-7, J.W. Marriott and The Upper House, The Gloucester, Seaview Crescent 5, Verbena Heights 3-6, Monterey Cove 1, Upton , One Pacific Heights, La Cite Noble Tower 1, La Cite Noble Tower 4, La Cite Noble Tower 6, Island Crest Tower 1, Island Crest Tower 2, Park Central 10, Park Central 7, Park Central 8, Park Central 9, Banyan Garden 1, Banyan Garden 8, 118 Connaught Road West, One Pacific Place, Seaview Crescent 1-3, Coastal Skyline 1-3,5-6, Tung Chung, Coastal Skyline 7-8, Tung Chung, Les Saisons, Metropolis 1, Metropolis 2, Metropolis 3, Metropolis 5, Belcher's Hill, City Point Tower 1, City Point Tower 2, City Point Tower 3, Island Lodge, One Peking Road, One Wanchai, The Landmark Gloucester Tower, The Landmark Edinburgh Tower, Dynasty Court Tower 1-2, Cambridge House, Galaxia Tower 2, Galaxia Tower 3, Galaxia Tower 5, 148 Electric Road, SOHO 189, Century Gateway 1, La Cite Noble Tower 2, La Cite Noble Tower 5, The Forest Hills, Century Gateway 5, Park Towers One, City Point Tower 5, City Point Tower 6, Summit Terrace 1, Le Sommet, Ellery Terrace, Kowloon, Liberte 7, China Merchants Tower, Shun Tak Centre West, Sunlight Tower, Park Avenue Towers 6-10, Galaxia Tower 1, Galaxia Tower 6, Henley Building, Bank of Communications Tower, Imperial Court Block C, Li Po Chun Chambers, Metro City I Tower 3, Metro City I Tower 4, Metro City I Tower 5, Metro City I Tower 6, Metro City I Tower 1, Metro City I Tower 2, The Panorama, Liberte 8, Century Gateway 2, The Zenith 1, Robinson Place Tower A, York Place, Bayshore Apartments, Thorn Cliff, World Trade Centre, Nan Fung Plaza 1, Nan Fung Plaza 2, New World Tower 1, Century Gateway 6, 31 Robinson Road, Oscar by The Sea Tower 3, Dynasty Court Tower 3-5, Skyline Tower, East Point City Tower 1, East Point City Tower 2, East Point City Tower 3, East Point City Tower 5, East Point City Tower 6, East Point City Tower 7, East Point City Tower 8, Queen's Terrace 1, Royal Penisula 2-5, Harbour One, Sun Tuen Mun Centre 1, Sun Tuen Mun Centre 10, Sun Tuen Mun Centre 2, Sun Tuen Mun Centre 3, Sun Tuen Mun Centre 4, Sun Tuen Mun Centre 5, Sun Tuen Mun Centre 6, Sun Tuen Mun Centre 7, Sun Tuen Mun Centre 8, Sun Tuen Mun Centre 9, Robinson Place Tower B, Broadview Villa, VISTA, Manulife Tower, Serenity Place 1, Serenity Place 2, Serenity Place 4, Serenity Place 5, Broadview Court 3, Broadview Court 4, Renaissance Harbour View Hotel, Maritime Bay 1, Maritime Bay 2, Hong Kong Sanitorium & Hospital - Li Shu Pui Block, Villa Esplanada 10, Villa Esplanada 11, Villa Esplanada 8, Villa Esplanada 9, City Point Tower 7, City Point Tower 8, Bel Air Heights 1, Bel Air Heights 2, Birchwood Place, Century Gateway 3, Park Avenue Tower 1, Park Avenue Tower 2, Park Avenue Tower 3, Park Avenue Tower 5, Radiant Towers 1, Radiant Towers 2, The Colonnade, Serenity Place 3, The Zenith 2, The Zenith 3, Bank of America Tower, Great Eagle Centre, Harbour Centre, MLC Millennia Plaza, Kornville Tower 1, Kornville Tower 2, Grand Terrace, Century Gateway 7, Tierra Verde 1, The Pinnacle 1, The Pinnacle 2, The Pinnacle 3, The Pinnacle 4, Broad View Villa, New Haven 1-3, Western Harbour Centre, Three Exchange Square, Broadview Court 1, Broadview Court 2, iSQUARE, Discovery Park Tower 1, Discovery Park Tower 2, Discovery Park Tower 3, Discovery Park Tower 5, Villa Esplanada 3, Villa Esplanada 5, Villa Esplanada 6, Villa Esplanada 7, Dah Sing Financial Centre, The Waterfront 1, The Waterfront 2, The Waterfront 3, The Waterfront 5, The Waterfront 6, The Waterfront 7, Sing Pao Centre, 633 Kings Road, Tierra Verde 2, Tierra Verde 3, Tierra Verde 3A, Tierra Verde 5, The Manhattan, Windsor House, Morrison Plaza, Well On Garden 1, Well On Garden 2, Well On Garden 3, Well On Garden 4, Oscar by The Sea Tower 1, Nan Fung Plaza 5, Ibis Hong Kong Central and Sheung Wan Hotel, Villa Esplanada 1, Villa Esplanada 2, Oscar by the Sea Tower 2, Nan Fung Plaza 6, Lexington Hill, Imperial Cullinan Tower 1, Imperial Cullinan Tower 2, Imperial Cullinan Tower 3, Imperial Cullinan Tower 5, Imperial Cullinan Tower 8, United Centre, Larvotto Towers 1, 2, Larvotto Towers 3, 5, 6, 7, Millennium City 1 - Tower 1, Century Gateway 8, Argenta, Princeton Tower, Wu Chung House, East, AIA Financial Centre, The Avenue Phase 2, T1, Kerry Centre, Millennium City 1 - Standard Chartered Tower, Two Chinachem Central, Berkshire House, 50 Connaught Road Central, Chater House, Queen Mary Hospital Block K, Nan Fung Plaza 3, Tierra Verde 9, Larvotto Towers 8, 9, 10, Metro City II Tower 1, Metro City II Tower 10, Metro City II Tower 11, Metro City II Tower 2, Metro City II Tower 3, Metro City II Tower 4, Metro City II Tower 5, Metro City II Tower 6, Metro City II Tower 7, Metro City II Tower 8, Metro City II Tower 9, Wan Chai Tower, OLIV, Top Glory Tower, Pacific View 1-5, 9 Des Voeux Road West, Tierra Verde 7, Tierra Verde 8, One Chinachem Central, Regence Royale Tower II, Regence Royale Tower I, Lai Tin House, Tai Tin House, Grand Hyatt Hong Kong, Queen's Terrace 3, Best Western Hotel Harbour View, Guangdong Finance Centre, Queen's Terrace 2, Mung Ching House, Sheung Ching House, Tierra Verde 6, Discovery Park Tower 10, Discovery Park Tower 11, Discovery Park Tower 12, Discovery Park Tower 13, Discovery Park Tower 6, Discovery Park Tower 7, Discovery Park Tower 8, Discovery Park Tower 9, Bank of China Centre, LHT Tower, Verbena Heights 1-2, Park Towers Two, The Gateway Tower 1, The Gateway Tower 2, The Gateway Tower 3, The Gateway Tower 5, The Gateway Tower 6, Yau Lai Estate Cheuk Lai House, Yau Lai Estate Yung Lai House, Choi Man House-Yee Man House, The Pavilia Hill Tower 3, The Pavilia Hill Tower 1, The Pavilia Hill Tower 2, The Pavilia Hill Tower 5, The Pavilia Hill Tower 6, Oi Chak House, Oi Ping House, King Man House, Sik Man House, Yat Man House, The Royal Court, Ching Chak House, Ching Chiu House, Ching Chung House, Ching Hin House, Ching Long House, Ching Ping House, Ching Yu House, Ching Yun House, Kwun Hei Court Block A, Hoi Yan House, Shing Tin House and Cheung Tin House, CITIC Tower, Lee Garden Two, H Queen's, Arsenal House West Wing, Central Government Offices, The Excelsior, Hong Ching House, Lok Ching House, Yan Ching House, CITÉ 33, Tak Cheung House, Tak Kei House, Tak Loong House, Tak Shan House, Tak Sui House, Tak Ying House, Tak Yiu House, Tak Yu House, Verbena Heights 7, Green Code Towers 1-2, Green Code Towers 3, Green Code Towers 5, Oi Yat House, MOD 595, Hung Yan House, Hung Yiu House, Forfar, Shui On Centre, Hung Yat House, Devon House, Yiu Fook House, Yiu Fu House, Yiu Lok House, Yiu Wah House, Fuk Lok House, Fuk On House, Hing Cho House, Hing Fung House, Hing Hong House, Tung Lam Court, Yuet Ching House, 33-49 Des Voeux Road West, 99 Bonham, High Point, Hoi Ning House-Hoi Nam House, Hoi Wen House, Hotel ICON, Cubus Building, Hotel Indigo Hong Kong Island, Chinese People`s Liberation Army Forces Hong Kong Building, Bedford 28, Tak Pui House, The Avenue Phase 1, T5, Tregunter Tower 1, Tregunter Tower 2, Pearl City Mansion, Cheung Chi House, Cheung Tak House, Tuen Mun Town Plaza Block 8, Academic 3, City University of Hong Kong, Lincoln House, Kwun Tong 223, Dragon Pride, Cityplaza 1, The Beacon, SKYPARK, J Hotel @ Jervois Street, Oi Yuk House, Hung Sing House, Southern Lodge, Trade and Industry Tower, Lee Garden Five, THE MOOD Lyndhurst, Wan Tin House, M+, Hong Kong Poly Technic University Community College, Hung Hom Campus, Cornwall House, Best Western Hotel Tsim Sha Tsui, Warwick House, 100 Queens Road Central, The Lily Repulse Bay, The Murray, The Hong Kong Club Building, Banyan Mansion, Kin On Mansion, Ko On Mansion, Pine Mansion, Hing On Mansion, Ning On Mansion, Po On Mansion, Shun On Mansion, Oi Sin House, Leighton Centre, Ruttenjee Hospital, ICAC Headquarters Building, Fuk Tai House, Lee Garden Six, Cityplaza 4, One Hysan Avenue, Cityplaza 3, Prince of Wales Hospital, Yiu Hing House, Mount Parker Residences, Foong Shan Mansion, Fu Shan Mansion, Fu Shan Mansion, Heng Shan Mansion, Kam Shan Mansion, Loong Shan Mansion, Lu Shan Mansion, Nan Shan Mansion, Po Shan Mansion, Tai Shan Mansion, Tien Shan Mansion, Tung Shan Mansion, Wah Shan Mansion, Yee Shan Mansion, Begonia Mansion, Lotus Mansion, Marigold Mansion, Nam Hoi Mansion, Pak Hoi Mansion, Primrose Mansion, Tung Hoi Mansion, Wisteria Mansion, Po Yang Mansion, Tai Woo Mansion, Tung Ting Mansion, Juniper Mansion, Maple Mansion, Oak Mansion, Willow Mansion, Cheung King-Cheung Shun House, Cheung Lok-Cheung Wo House, Cheung Yue-Cheung Fung House, Choi Wah House, Choi Wu House, Chi Sing Mansion, Hang Sing Mansion, Hoi Sing Mansion, Kam Sing Mansion, Ngan Sing Mansion, Tien Sing Mansion, Wai Sing Mansion, Yiu Sing Mansion, Choi Tien Mansion, Fu Tien Mansion, Heng Tien Mansion, Hoi Tien Mansion, Kai Tien Mansion, King Tien Mansion, Kwan Tien Mansion, Nam Tien Mansion, Yat Tien Mansion, Chai Kung Mansion, Han Kung Mansion, Hsia Kung Mansion, Ming Kung Mansion, Tang Kung Mansion, Tsui Kung Mansion, Yen Kung Mansion, Yuan Kung Mansion, Dragon View Garden, Oi Po House, PolyU West Kowloon Campus, St. John's Building
+Tiers: I: 105, II: 247, III: 310, IV: 35, V: 6, VI: 1
+Rating: 2107 (0.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Shenzhen ***
+Country: China
+Region: Asia
+222 towers: Ping An Finance Center, KK100, China Resources Headquarters, Shum Yip Upperhills Tower 1, Shun Hing Square, Shenzhen Center, Galaxy Tower 1, Galaxy Tower 2, Hanking Center Tower, Huiyun Center, One Shenzhen Bay Tower 7, Shimao Qianhai Project Tower 1, Hon Kwok City Center, Baoneng Center, Shenzhen Bay Innovation and Technology Centre Tower 1, CITIC Financial Center Tower 1, East Pacific Center Tower A, Shenzhen CFC Changfu Centre, Shenzhen Zhongzhou Holdings Financial Center, OCT Tower, Shum Yip Upperhills Tower 2, Riverfront Times Square, China Horoy Qianhai Guanze Office Tower 1, Ping An Finance Center South, SEG Plaza, China Resources Qianhai Center Tower 1, C Future City East Tower, C Future City West Tower, China Chuneng Tower, Huaxun Center, One Excellence Tower 1, Excellence Century Plaza Tower 1, Shenzhen Bay Ecocity B-Tech Tower 1, NEO Tower A, Shenzhen Metro Che Kung Temple Hub, CR Capital Holdings Headquarter Building, East Pacific Center Tower B,  Qianhai Financial Centre - T1, Dahanwang Tower 1, Shenzhen Special Zone Daily Tower, Shenzhen AVIC Plaza, Wongtee Plaza, Excellence Century Plaza Tower 2, North Station West Square 1, China Merchants Bank Tower, Shenzhen University Subway Station Tower, Shenzhen Bay Innovation and Technology Centre Tower 2, Shenzhen Stock Exchange, Tencent Seafront Tower 1, Shenzhen Bay Ecocity B-Tech Tower 2, Vanke Yun City, China Resources Qianhai Center Tower 5, Shenzhen Broadcasting Center I, Panglin Plaza, New World Center, Shuibei Jewelry Headquarters Tower 1, CASC International Center North Tower, China Resources Dachong Redevelopment Tower 1, Lihe Tower, UpperHills North Tower 1A, UpperHills North Tower 2A, Rongchao Headquarters Tower, China Construction Bank Building 2, Shanglong Building, Shenzhen Guosen Securities Tower, Taiping Finance Tower, Coastal Center, Jinlitong Financial Center Tower 1, Jinlitong Financial Center Tower 2, UNI-Center Tower A, China Resources Qianhai Center Tower 2, World Finance Center Tower A, Shenzhen Energy Headquarters North Tower, Nanyou Tower 1, Nanyou Tower 2, Vanke One City Office Tower, Shuiwan 1979 Tower, Longpark Grand Sights Hotel, Sino Life Insurance Building, Hung Cheung Plaza, Fortune Tower, Times Square Excellence, China Resources Dachong Redevelopment Tower 2, AVIC Center Office Tower, International Chamber of Commerce Tower, Sinotrans Logistic Centre, Vanke Times Square, China Merchants Tower, Hengmingzhu Financial Building, Ziyuanyuan Tower, Excellence Houhai Financial Center, CNOOC New Tower 1, CNOOC New Tower 2, Horizon Skyline Garden Office Tower, Shenzhen Gemdale Center Tower 1, Nanfang International Hotel, First Tower, Wenbo Tower, Southern Bosera Building, Landmark, East Pacific Center Tower C, North Station West Square 2, Prince Plaza, New Century Plaza West Tower, Shenzhen Venture Capital – Private Enterprise Tower, Shenzhen Media Group Building, Regency Hotel , Guotong Building, Futian Technology Plaza Tower 1, China Resources Dachong Redevelopment Tower 3, China Resources Qianhai Center Tower 4, Jinzhonghuan International Business Building, One Excellence Tower 3, SF Express Headquarter Building, Centralcon Group Tower, Gmond International Building, Shenzhen Kerry Centre II, COFCO Qianhai Asia Pacific Headquarters, Das Intellitech Headquarters, CITIC Financial Center Tower 2, Walton Heights, One Excellence Tower 2, Dahanwang Tower 2, United Plaza A, Great China International Exchange Square, Tencent Seafront Tower 2, Grand Hyatt Shenzhen, Noble Tower, Rongchao Tower, A, Shenzhen Futian Shangri La, One Shenzhen Bay Tower 5, Shenzhen Bay Ecocity B-Tech Tower 3, Baidu Headquarters, New Era Plaza, Qianhai Financial Centre - T2, Excellence Century Plaza Tower 3, Shenzhen Development Bank, Taxation Bureau Building, Shenzhen International Science and Technology Building, Electronics Science & Technology Building, Green View Apartments R5, Aviva-COFCO Life Insurance Company Tower, Futian Technology Plaza Tower 2, Shenzhen Modern International Tower, UpperHills North Tower 1B, UpperHills North Tower 2B, China Merchants Bank, One Excellence Tower 7, One Excellence Tower 8, New Century Plaza East Tower, China Mobile Building, NEO Tower B, UNI-Center Tower 1, UNI-Center Tower 3, UNI-Center Tower 5, UNI-Center Tower 6, Shen Fang Plaza, World Trade Plaza, Galaxy Century A, Shenzhen Bay Ecocity B-Tech Tower 4, Shenzhen Kerry Centre I, Jiangsheng Tower, Shenzhen Gemdale Center Tower 2, Shenzhen Development Center, Chinese Mercantile Bank Building, News Center Building, China Life Tower, China Resources Qianhai Center Tower 3, Exemption Tower, Anlian Tower, UNI-Center Tower B, Vanke Jierong Tower, Zhongzhou E-ClASS, International Foreign Trade Center, Juno Tower, Park Lane Manor - Tower 1, Park Lane Manor - Tower 2, Park Lane Manor - Tower 3, Sunshine Tower, UNI-Center Tower 2, Excellence Meilin Project Tower 1, Excellence Meilin Project Tower 2, Shenzhen Zhongzhou Holdings Financial Center Tower B, Excellence Century Plaza Tower 4, Shenzhen Xinhe World Office Tower A, Shenzhen Xinhe World Office Tower B, Grace Mansion, Shen Ye Center, Shenzhen Coastal City West Tower, East Pacific Center Tower D, Dayong Commercial Center 1, China Travel Tower, Green View Apartments R1, Green View Apartments R2, Green View Apartments R3, Green View Apartments R4, Shenzhen Bay Innovation and Technology Centre Tower 3, Shenzhen Rural Commercial Bank Headquarters, Tencent Tower, UNI-Center Tower 4, Dayong Commercial Center 2, UNI-Center Tower 7, One Palace, Minmetals Financial Center, Qianhai Financial Centre - T3, CASC International Center South Tower, Shenzhen Bay Ecocity B-Tech Tower 5, Dayong Commercial Center 3, Shenzhen Bay Innovation and Technology Centre Tower 4, Futian Technology Plaza Tower 3, Shenzhen Energy Headquarters South Tower, JW Marriott Shenzhen Bao'an, China Unicom Building, Dayong Commercial Center 4, Shenzhen International Chamber Of Commerce Building A, China Construction Bank Building, NEO Tower C, Shenzhen Bay Innovation and Technology Centre Tower 5, Shenye TaiRan Building, Shenzhen North Plaza Tower 2, One Excellence Tower 4, Shenzhen Fourth People's Hospital New People's Ward Tower
+Tiers: I: 3, II: 20, III: 111, IV: 67, V: 19, VI: 2
+Rating: 1061 (26.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shanghai ***
+Country: China
+Region: Asia
+251 towers: Shanghai Tower, Shanghai World Financial Center, Jin Mao Tower, Xujiahui Center Tower 1, Shimao International Plaza, Zhenru Center, Sinar Mas Center 1, Huangpu Dongjiadu 1, Plaza 66, Henderson Xuhui Tower, Tomorrow Square, Qiantan Center, Hong Kong New World Tower, SK Group Tower, Shanghai Wheelock Square, One Lujiazui, Star Harbor International Centre East Tower, Star Harbor International Centre West Tower, 66 Tower 1, 66 Tower 2, Jing An Kerry Centre Tower 2, Shanghai IFC North Tower, CITIC Ruibo Tower 1, Bank of Shanghai Headquarters Building, HKRI Centre One, Shanghai IFC South Tower, One Museum Place, Global Harbor North Tower, Global Harbor South Tower, Maxdo Centre, Huangpu Dongjiadu 2, Cloud Nine, CITIC Ruibo Tower 2, Huamin Emperor Hotel, International Ocean Shipping Building, BOCOM Financial Towers, International Air Service Center Tower 1, Plaza 66 Tower 2, CITIC Plaza, Bank of China Tower, Pullman Shanghai Skyway Hotel, Raffles Square Tower, Zhongrong Jasper Tower, Xujiahui Center Tower 2, Shanghai Longemont Hotel, The Exchange–SOHO, Riviera TwinStar Square 1, Riviera TwinStar Square 2, Shanghai Stock Exchange of Shanghai International Financial Center, World Finance Tower, Xinjinqiao Mansion, Pudong International Information Port, No. 1 Shanghai, 21st Century Mansion, Radisson New World Hotel, Golden Bell Mansion, Taiping Financial Tower, China Merchants Bank Mansion, Doubletree by Hilton, Shanghai - Pudong, Golden Landmark, China Resources Land Suhewan, Nan Zheng Mansion, Lippo Plaza, HSBC Tower, BM Plaza Office Tower, Shanghai World Plaza, Oriental Financial Center, Bund Center, Jing An Kerry Centre Tower 3, BEA Financial Tower, Wenxin United Press Building, Walton Plaza, Lan Sheng Building, China Insurance Mansion, China Financial Futures Exchange of Shanghai International Financial Center, Pudong Financial Plaza Tower 1, CITIC Square, Shimao Riviera Garden 7, Shimao Riviera Garden 8, Huaxia Financial Square Tower A, Huaxia Financial Square Tower B, Pujiang International Finance Plaza, Lujiazui Century Tower 1, International Air Service Center Tower 2, Park Place, Raffles City Changning 1, Bao'an Tower, Huaneng Union Tower, Ramada Plaza Pudong, Shanghai Futures Tower, Shanghai China Merchants Plaza Office Building, China Merchants Tower, Aurora Plaza, Pudong, PUFA Tower, Ciro's Plaza, Shinmay Union Square I, Shinmay Union Square II, Great Wall Building, Pudong Shangri-La Hotel Extension, Citigroup Tower, The Bund Finance Center North, The Bund Finance Center South, Citic Pacific Fortune Plaza 1, Fengxian SME Building, Shanghai Property Information Exchange Center, Mirae Asset Tower, Shanghai Securities Exchange Building, Offices at Kerry Parkside, Harbour Ring Plaza, Hong Kong Prosperity Tower, CMBC Tower, Citic Pacific Fortune Plaza 2, Liu Chong Hing Finance Center, HKRI Centre Two, Shimao Riviera Garden 1, Four Seasons Hotel, Sinar Mas Center 2, Shanghai Grand Center, Shenzhen Commerical Bank Building, Shanghai Central Square, Shimao Riviera Garden 2, Shimao Riviera Garden 3, Shimao Riviera Garden 5, AZIA Center, Shanghai Development Bank Tower, Jiushi Corporation Headquarters, Shanghai International Tower, Lucky Target Plaza, Century Link Tower A, Century Link Tower B, Shanghai International Commerce Center Tower 2, STV Mansion, China Fortune Tower, Shanghai Commercial Center, Portman Ritz-Carlton, K Wah Center, Shimao Riviera Garden 6, Oriental Fisherman's Wharf Tower, United Plaza, Huaxia Bank Tower, Holiday Inn Shanghai Pudong, Golden Sail Plaza, Shanghai JW Marriott Marquis Hotel, Shanghai International Commerce Center Tower 1, City155, Shanghai Times Square, Suncome Liauw Building, Shengda Jinpan 1, Shengda Jinpan 2, Shengda Jinpan 3, New Caohejing International Business Center A, New Caohejing International Business Center B, Jin Jiang Hotel, Tomson Riviera Garden 1, Tomson Riviera Garden 2, LJZ Plaza, World Trade Tower, Hua Mao Building, China Securities Depository and Clearing Corporation of Shanghai International Financial Center, Shanghai Central Plaza, Shanghai Industrial Investment Building, Hongta Hotel, Bulgari Residence 1, Bulgari Residence 2, Hong Kong Plaza 1, Hong Kong Plaza 2, Bulgari Hotel, Huangpu Dongjiadu 3, Haitong Securities Building, Guangming Building, GIC Tower, Hongkou Plaza Tower 1, Hongkou Plaza Tower 2, Lucky Mansion, Shanghai Broadcasting & TV Building, WPP Campus, Purple Mountain Hotel, Shanghai International Trade Center, Yuhuashan Tower, Lucky Target Hotel, TODTOWN, Shanghai Arch, Hilton Shanghai, Guang Hua Towers, Hongyi Tower, Shanghai Mart, Jianhui Building, Bund SOHO, Qian Tan Office Park T-1, Qian Tan Office Park T-2, 5 Corporate Avenue, Sheraton Pudong Shanghai Hotel, L'Avenue, Hongkou SOHO, Jing An Kerry Centre Tower 1, Eastern Harbor International Tower, SOHO Hailun Plaza, Yin Dong Building, Lujiazui Century Tower 2, Lujiazui Century Tower 3, Renaissance Shanghai Yangtze Hotel, Kerry Hotel, Capital Square Plaza, Huadong Electrical Power Distribution Building, Raffles City Changning 2, Huadu Mansion, Hua Du Tower, Residences at Kerry Parkside, Xuhui Vanke Center Phase III Tower 1, Xuhui Vanke Center Phase III Tower 2, Shanghai Tian An Center, Shanghai Centre East Apartment, Shanghai Centre West Apartment, Universal Mansion, Shanghai Exhibition Center, Shanghai Library, Jin Jiang Galaxy Hotel, Cullinan Shanghai, 1700 Huangxing Road, SOHO Fuxing Plaza, Eastern Financial Plaza, Henderson Metropolitan, Jin Jang Rainbow Hotel, Central Hotel, Courtyard by Marriott Shanghai Pudong, Honi International Plaza, Land Rover Regional Offices Shanghai East Tower, Land Rover Regional Offices Shanghai West Tower, 2E31 Shanghai Shipyard (Pudong)  (Tower 2), Swissotel Grand Shanghai, Outpatient Diagnostic Building of Ruijin Hospital, Guotai Junan Securities Tower, Shanghai One Sino Park Building No.20, Shanghai One Sino Park Building No.12&13, Raffles City Changning 3, Andaz Xintiandi, Shanghai Bund House Building No. 7 of Plot 11-5 , The Langham Xintiandi, Fuxing Royale, Shanghai One Sino Park Building No. 6&7, Jinying Mansion Block A, Jinying Mansion Block B, Baccarat Residences Tower 1, Baccarat Residences Tower 2, Holiday Inn Shanghai Pudong Kangqiao, Shanghai Park Hotel, Lujiazui Century Tower 5, Lujiazui Century Tower 6, Peace Hotel, China Diamond Exchange Center, Shanghai Bund House Building No.3-6 of Plot 11-3
+Tiers: I: 35, II: 41, III: 123, IV: 44, V: 6, VI: 2
+Rating: 941 (11.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chongqing ***
+Country: China
+Region: Asia
+174 towers: Corporate Avenue 1, Chongqing Tall Tower, Raffles City Chongqing T3N, Raffles City Chongqing T4N, Chongqing World Financial Center, Chongqing IFS T1, International Commerce Financial Centre T1, Concord International Centre, Yingli International Finance Centre, United International Mansion, HNA&POLY International Centre, Chongqing World Trade Center, Raffles City Chongqing T2, Raffles City Chongqing T5, Raffles City Chongqing T4S, Raffles City Chongqing T3S, Oriental Plaza T1, Lanko Grand Hyatt Hotel, Lanko Conference & Exhibition International Plaza Yage , Zodi Plaza T1, Zodi Plaza T2, Corporate Avenue 2, Jia Fa Centre, Forebase Financial Plaza, Neo China Top City A1, Xinhua International Building, ASE Center R3, Future International, Casin Centre, Raffles City Chongqing T1, Raffles City Chongqing T6, New York New York, Wyndham Centre, China Resources Building, Evergrande Liberation Monument Centre Tower 1, Kempinski Hotel Chongqing, Pauline's World City T1, Ying Li International Plaza T1, Chongqing Rural Commercial Bank Financial Building, Sheraton International Business Center 1, Sheraton International Business Center 2, Jahoo Hong Kong City, Crowne Plaza Tower 1, Crowne Plaza Tower 2, Fortune Financial Centre, Zesheng Twin Tower A, Zesheng Twin Tower B, Paradise by the River A, Paradise by the River B, Paradise by the River C, Chongqing Plaza T1, Glory International Center, ASE Center R2, Chongqing Gaoke Taiyangzuo, Chongqing Headquarter Building, Southwest Securities Headquarter Building, Heyday Plaza A, 7 Financial Town, Sincere Financial Center Tower A, Sincere Financial Center Tower B, Century Emperor South, Daxin Building, River International A, River International B, Times Square Tower D, ASE Center R1, Yunchen Centre, Hastin Avenue T1-2, Hastin Avenue T1-3, Empire Capital Square Tower B, Empire State Building Tower 1, Hastin Avenue T1-1, Gold Peak Centre B, 3 Financial Town T2, Gold Peak Centre A, Ying Li International Plaza T2, King's Plaza Tower B, 1 Financial Town T2, 2 Financial Town T2, 8 Corporate Avenue, Chongqing 101 Mansion T2, Century Galaxy, Jin Sha Gang Wan 12#, Jin Sha Gang Wan 13#, First Avenue T1, Wanhui Centre T2, Shin Kong Place T1, Shin Kong Place T2, Chongqing Nationality Plaza B, Chongqing IFS T2, Chongqing IFS T6, Southland Garden, Dongyuan Centre T2, City Heights T1, Longhu West Skystreet, Atlantic International Building, Xi Cheng Tian Je, Times Square Tower C, Chongqing General Trading Building, Qiu Shui Chang Tian 9#, Kangde International A, Kangde International B, Lanko Conference & Exhibition International Plaza Meige, Sunway New Sky, International Trade Center A, International Trade Center B, Jiu Jie Gao Wu A, Lanko Hyatt Business Mansion, Oriental Plaza T2, Yuzhong City T6, Xinbaolong Yicheng Tower 4, Hongding International Garden A, Pauline's World City T2, Doyen ARC Central Square, Loncin Centre T2, Loncin Centre T3, International Commerce Financial Centre T2, Agricultural Bank of China Chongqing Branch, China Resources Plaza Block B, Financial Centre D, Landmark Riverside T10, Landmark Riverside T9, Bank of Chongqing Tower, Longfor International, Fortune Plaza A, 7 Corporate Avenue, Times Square Tower B, Neo China Top City A2, Zhongxun Times, China Resources Plaza Block A, International Commercial Center, Casin Plaza T1, 2 Financial Town T3, One City Leader International, Lifan Centre A, Lifan Centre B, Hilton Hotel Tower A, Hilton Hotel Tower B, Great Future, Cape Coral A8, Cape Coral A9, 3 Financial Town T1, Times Square Tower A, Lanko Conference & Exhibition International Plaza Yunge, Century Emperor North, Chongqing Plaza T2, City Heights T2, City Heights T3, Chongqing Nationality Plaza A, 1 Financial Town T1, Chongqing Plaza T0, Corporate Avenue 3, 3 Financial Town T3, Financial Centre C, Lanko Conference & Exhibition International Plaza Liangge, Nongken Tower, 2 Financial Town T1, Dongyuan Centre T5, Dongyuan Centre T3, 6 Corporate Avenue, Southwest Hospital Surgery Tower, Wanhui Centre T1, Chongqing IFS T3, Chongqing IFS T5, Jiu Jie Gao Wu B, Chongqing Plaza T3, Corporate Avenue 4, Corporate Avenue 5, Financial Centre B, Dongyuan Centre T7, Chongqing Land Group Headquarters, Daping Hospital Complex Ward Building, Wanhui Centre T3, Financial Centre A
+Tiers: I: 12, II: 23, III: 97, IV: 35, V: 5, VI: 2
+Rating: 716 (18.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Guangzhou ***
+Country: China
+Region: Asia
+156 towers: Guangzhou CTF Finance Centre, Guangzhou International Finance Center, CITIC Plaza, Guangdong Business Center, The Pinnacle, East Gate Tower, Huijin Center 1, Junchao Plaza, Global City Square, Poly Pazhou C2, Pearl River Tower, Fortune Center, Guangfa Securities Headquarters, Leatop Plaza, San Cheng Finance Tower 1, R&F Yingkai Square, GT Land Landmark Plaza South Tower, Tianhui Plaza C3, China International Center Tower B, Dapeng International Plaza, Bank of Guangzhou Tower, Guangdong Telecom Plaza, Cadre City Plaza West Tower , R&F International Business Center Phase 2, Banghua World Trade Center, South China International Wharf Service Center, R&F Center, New World Zengcheng Mixed Use Development C1 Tower, Guangzhou Fuli Dongshan Xintiandi, Kingold Century, Wanbo Tianhe Shopping Center Tower C, Victory Plaza Tower A, Aoyuan International Center, Huijin Center 2, Guangzhou Nimble Square 1, Onelink Center, Tianhebei Tower, TaiKoo Hui Tower 1, Vertical City, CCCC South Headquarters, Alibaba South Tower, GT Land Landmark Plaza North Tower, Center Plaza, Cadre City Plaza East Tower, Nanfang International Mansion, New World Zengcheng Mixed Use Development C2 Tower, Guangdong International Building, Guangzhou Greenland Baiyun Center, Metro Plaza I, The Canton Fair Westin Hotel, Shangdong Hanyu Yayuan Apartments, International Finance Place, Poly Pazhou C1, Matsunichi Tower, Teem Plaza East Tower, Guangzhou Electric Power Building, Victory Garden Block C, Aiqun Huijing Wan Tower A, Aiqun Huijing Wan Tower B, Bercy Plaza I, Bercy Plaza II, Agile Corporation Headquarters Tower, Guangzhou Marriott Hotel Tianhe, Tianhui Plaza C1, The Centrepointe, China Shine Plaza, R&F Ritz-Carlton Hotel, Tianhui Plaza A6, Guangdong Asia International Hotel, Poly Tower V, Yuecai Building, Yuexiu City Plaza South Tower, RenFun Business Mansion, The Riverside 1, The Riverside 2, Tianhui Plaza A2, Tianhui Plaza A3, Tianhui Plaza A4-A5, Hong Kong Macau Centre, Tianhui Plaza C2, CC Tower, New World Zengcheng Mixed Use Development Residential Tower 2, Canton Fair Command Center, Pearl River International Building, Westin Guangzhou Hotel, R&F Profit Plaza, Huabang International Centre Tower 1, New World Zengcheng Mixed Use Development Residential Tower 1, Poly Center, Guangzhou Nimble Square 2, W Guangzhou, GIE Tower, Guangzhou International Trade Center, GZITIC Mansion, Soluxe Hotel Guangzhou, Guangdong GoTone Building, TaiKoo Hui Tower 2, Top View 2, Zhonghai Guanyuan International, The Riverside 3, The Riverside 4, R&F Yinglong Plaza, Times Property Centre, New China Mansion, Haizhu Peninsula Garden Tower 4, Haizhu Peninsula Garden Tower 5, Haizhu Peninsula Garden Tower 6, Haizhu Peninsula Garden Tower 7, Haizhu Peninsula Garden Tower 8, Haizhu Peninsula Garden Tower 9, Victory Plaza Tower B, Poly Real Estate Headquarters Tower 1, Poly Real Estate Headquarters Tower 2, Victory Garden Block B, Post Chateau Block A, Post Chateau Block B, Guangdong Color TV Center, Le Palais, Dongzhao Building, Rengfeng Tower, Riverside Hotel Central Tower, The Regal Harbour 1, The Regal Harbour 2, The Regal Harbour 3, Shun Tak Business Centre, The Cosmos 1, The Cosmos 2, King Peak Garden Block D, King Peak Garden Block E, Guangdong Development Bank Center, Guangzhou Development Center Building, Guangzhou Nimble Square 3, Huabang International Centre Tower 2, Xinyu Building, Xinyuan Mansion, The Cosmos 3, The Cosmos 4, The Cosmos 5, CITIC Plaza Apartments I, CITIC Plaza Apartments II, Guangzhou Circle, King Peak Garden Block A, The Riverside 5, The Riverside 6, Taikoo Hui Mandarin Oriental Hotel, Guangzhou Linhe Office, China Mayors Plaza, Guangdong Provincial Outpatient Hospital, Guangzhou Poly National Tax Bureau Building, The Riverside 7, The Riverside 8, Grand Hyatt Hotel Guangzhou, Unlimited Center, Lingnan Building of Sun Yat-sen Memorial Hospital, White Swan Hotel, Matsunichi Heaquarters Building
+Tiers: I: 7, II: 16, III: 95, IV: 23, V: 13, VI: 2
+Rating: 681 (18.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nanning ***
+Country: China
+Region: Asia
+294 towers: Skyfame Center Landmark Tower, Guangxi China Resources Tower, Nanning Logan Century 1, Guangxi Financial Investment Center, Guangxi Finance Plaza, Jiuzhou International Tower, Guangxi Wealth Financial Center, Logan International Headquarters Tower 1, Diwang International Commerce Center, Hangyang Sino Plaza 1, Hangyang Sino Plaza 3, Sankee Plaza, KWG International Plaza, Hangyang Sino Plaza 2, Liyuan Skyline City, Tsingtao Haier Union Square Tower 1, Park Lane Manor 5, Park Lane Manor 6, Science and Technology Park Headquarters C3, Nanhu Mingdu Plaza, Qingxiu Wanda Mansion 1, Qingxiu Wanda Mansion 4, Yuda Group Headquarters Tower 1, Greenland Center Tower 8, Triumph One #1, Triumph One #2, Triumph One #3, Triumph One #4, Qingxiu Wanda Plaza Office Tower 1, Qingxiu Wanda Plaza Office Tower 2, Qingxiu Wanda Plaza Office Tower 3, Qingxiu Wanda Mansion 2, Logan International Headquarters Tower 2, Nanning Logan Century 2, Xianggang Jie #5-1, Xianggang Jie #5-2, Vanke City South Area #17, Guangxi International Trade Center Main Tower, Nanning Taiping Financial Building, Vanke City South Area #18, Park Lane Manor 7, Park Lane Manor 8, Park Lane Manor 9, Nanning No. 2 Telecom Hinge Building, Park Lane Manor 1, Park Lane Manor 2, Park Lane Manor 3, Park Lane Manor 4, Vanke City South Area #15, Vanke City South Area #16, Huarun Jiacheng Five Elephants Office Building, Huarun Jiacheng Five Elephants #18, Huarun Jiacheng Five Elephants #26, Guangxi Water Conservancy Electric Industry Business Building, Huarun Jiacheng Five Elephants #13, Huarun Jiacheng Five Elephants #16, Huarun Jiacheng Five Elephants #21, Huarun Jiacheng Five Elephants #23, Vanke City South Area #22, Cartier Manor 2, Jinyuan City Five 1#, Jinyuan City Five 2# , Jinyuan City Five 3# , Jinyuan City Five 6#, Jinyuan City Five 7#  , Jinyuan City Five 8#  , Nanning International Tourism Center 3, Long Light Water Yue Longwan 10, Long Light Water Yue Longwan 11, Yuda Group Headquarters Tower 2, Vanke City South Area S3, Xianggang Jie #2, Xianggang Jie #3, Tsingtao Haier Union Square Tower 2, Jinyuan City Five 10# , Huarun Jiacheng Five Elephants #12, Huarun Jiacheng Five Elephants #17, Huarun Jiacheng Five Elephants #20, Huarun Jiacheng Five Elephants #25, Cartier Manor 1, Cartier Manor 3, Guangxi New Media Center, Li Hai · Asia International Lingfeng Block A, Li Hai · Asia International Lingfeng Block B, Vanke City South Area #21, Rong and Banyan Mountain #11, Rong and Banyan Mountain #16, Rong and Banyan Mountain #17, Rong and Banyan Mountain #18, Rong and Banyan Mountain #10, Rong and Banyan Mountain #20, Rong and Banyan Mountain #21, Vanke City South Area #11, Vanke City South Area #12, Huarun Jiacheng Five Elephants #5, Huarun Jiacheng Five Elephants #6, Vanke City South Area S2, Silver Spring Yitian #3, Vanke City North Area #1, Vanke City North Area #2, Vanke City North Area #3, Vanke City North Area #4, Vanke City North Area #15, Vanke City North Area #16, Vanke City North Area #8, Vanke City North Area #9, Rong and Banyan Mountain #6, Nanning Rong i Qijiang Yue House #2, Guangxi Electric Power Mansion, International Ocean City 3, Huarun Jiacheng Five Elephants #10, Huarun Jiacheng Five Elephants #9, Huarun Jiacheng Five Elephants #11, Huarun Jiacheng Five Elephants #15, Huarun Jiacheng Five Elephants #19, Huarun Jiacheng Five Elephants #22, Rong and Banyan Mountain #9, Rong and Banyan Mountain #8, International Ocean City 2, Rong and Banyan Mountain #19, Huarun Jiacheng Five Elephants #3, Huarun Jiacheng Five Elephants #7, Vanke City South Area #4, Vanke City South Area #5, Guang Investment Xin Environment A, Residential at Macau Street, Huarun Jiacheng Five Elephants #8, Nanning Rong i Qijiang Yue House #3, Water Resources Department, Vanke City North Area #25, Vanke City North Area #5, Vanke City South Area #20, Tsingtao Haier Union Square Tower 3, Golden One 2#, Golden One 3#, Golden One 5#, Golden One 6#, Golden One 10#, Golden One 7#, Golden One 8#, Golden One 9#, Vanke City South Area #13, Vanke City South Area #14, Vanke City South Area #19, Vanke City North Area #10, Vanke City North Area #11, Vanke City North Area #12, Vanke City North Area #13, Vanke City North Area #14, Vanke City North Area #17, Vanke City North Area #18, Vanke City North Area #19, Vanke City North Area #20, Vanke City North Area #23, Vanke City North Area #24, Silver Spring Yitian #2, Silver Spring Yitian #4, Longguang Royal Lake Sunshine 13, Longguang Royal Lake Sunshine 21, Vanke City South Area #9, Vanke City South Area #10, Guangxi Construction Building #1, Guangxi Construction Building #2, International Ocean City 1, International Ocean City 4, Greenland Center Tower 2, Greenland Center Tower 7, Longguang Royal Lake Sunshine 12, Longguang Royal Lake Sunshine 22, Sheng Tian Dong Jun Tower 24, Sheng Tian Dong Jun Tower 25, Sheng Tian Dong Jun Tower 26, Sheng Tian Dong Jun Tower 22, Sheng Tian Dong Jun Tower 23, Nanning Rong i Qijiang Yue House #1, Golden One 11#, Golden One 12#, Golden One 13#, Golden One 15#, Nanning International Tourism Center 2, Wanda Vista Nanning, Sheng Tian Dong Jun Tower 30, Sheng Tian Dong Jun Towers 31-32, Sheng Tian Dong Jun Towers 33-35, Sheng Tian Dong Jun Towers 36-37, Sheng Tian Dong Jun Towers 12-13, Longgang Tang Fruit #2, Longgang Tang Fruit #7, Sheng Tian Dong Jun Tower 21, Sheng Tian Dong Jun Towers 15-16, Sheng Tian Dong Jun Towers 17-18, Sheng Tian Dong Jun Towers 19-20, Sheng Tian Dong Jun Towers 8-9, Sheng Tian Dong Jun Towers 1-2, Sheng Tian Dong Jun Towers 3-5, Sheng Tian Dong Jun Towers 6-7, Huafa Guobin One 11#, Huafa Guobin One 13#, Huafa Guobin One 16#, Huafa Guobin One 18#, Huafa Guobin One 19#, Huafa Guobin One 7#, Huafa Guobin One 8#, Vanke City South Area #1, Vanke City South Area #2, Vanke City South Area #3, Vanke City South Area #6, Vanke City South Area #7, Vanke City South Area #8, Vanke City North Area #21, Longguang Royal Lake Sunshine 3, Haoyuefu 18#, Haoyuefu 6#, Haoyuefu 7#, Haoyuefu 8#, Guang Investment Xin Environment, Huarun Jiacheng Five Elephants #2, Longguang Royal Lake Sunshine 25, Longguang Royal Lake Sunshine 28, Longguang Royal Lake Sunshine 29, Longguang Royal Lake Sunshine 6, Longguang Royal Lake Sunshine 7, Rong and Banyan Mountain #12, Rong and Banyan Mountain #1B, Rong and Banyan Mountain #5A, Vanke City North Area #22, Haoyuefu 11#, Haoyuefu 16#, Haoyuefu 17#, Haoyuefu 3#, Haoyuefu 5#, Grand Gateway Huijin, Vanke City North Area #6, Longgang Tang Fruit #8, Haoyuefu 10#, Haoyuefu 9#, Longguang Royal Lake Sunshine 10, Longguang Royal Lake Sunshine 11, Longguang Royal Lake Sunshine 14, Longguang Royal Lake Sunshine 9, Vanke City North Area #7, Silver Spring Yitian #1, Longguang Royal Lake Sunshine 2, Longgang Tang Fruit #3, Guang Investment Xin Environment B, Guang Investment Xin Environment C, Silver Spring Yitian #5, Huafa Guobin One 10# , Huafa Guobin One 12#, Huafa Guobin One 14# , Huafa Guobin One 15# , Huafa Guobin One 17#, Huafa Guobin One 4#, Huafa Guobin One 9#, Huarun Jiacheng Five Elephants #1, Rong and Banyan Mountain #15, Xianggang Jie #1-1, Xianggang Jie #1-2, Yuda Group Headquarters Serviced Apartments, Huafa Guobin One 5#, Longguang Royal Lake Sunshine 24, Longguang Royal Lake Sunshine 26, Ming Huang Island International Business Plaza, Longgang Tang Fruit #6, Tsingtao Haier Union Square Tower 4, Longguang Royal Lake Sunshine 20, Longguang Royal Lake Sunshine 23, Longguang Royal Lake Sunshine 32, Longguang Royal Lake Sunshine 33, Longgang Tang Fruit #9, Silver Spring Yitian #6, Goldfield Blue Bay #21-1,2, Huafa Guobin One 1#, Huafa Guobin One 2# , Huafa Guobin One 3# , Huafa Guobin One 6#, Athens International, Cloud Star - Qian Long World 1#, Cloud Star - Qian Long World 2#, Huafa Guobin One 20#, Huafa Guobin One 21#, Rong and Banyan Mountain #7, Longguang Royal Lake Sunshine 27, Longguang Royal Lake Sunshine 30, Jinyuan City Five 5#, Longguang Royal Lake Sunshine 5, Longguang Royal Lake Sunshine 8, Longgang Tang Fruit #5, Longguang Royal Lake Sunshine 1, Rong and Banyan Mountain #2B, Rong and Banyan Mountain #3B, Longgang Tang Fruit #1, Longguang Royal Lake Sunshine 4, Country Garden Tianzhu Bay 14
+Tiers: I: 125, II: 98, III: 49, IV: 15, V: 7
+Rating: 663 (30.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shenyang ***
+Country: China
+Region: Asia
+123 towers: Forum 66 Tower 1, Shengjing Finance Plaza T2, Global Financial Centre Tower 2, Huaqiang Golden Corridor City Plaza Main Tower, Moi Center Tower A, Shengjing Finance Plaza T1, Shimao Wulihe City T3, SunnyWorld Center, Longemont Asia Pacific Center Tower A, Longemont Asia Pacific Center Tower B, Shimao Wulihe City T4, Eton Shenyang Center #6, Eton Shenyang Center #7, Shimao Wulihe City T5, North Yoker Plaza Tower A, Shenyang New World Center Tower C, Shenyang Royal Wan Xin International Mansion Tower A, Shenyang New World Center Tower E, Shengjing Finance Plaza T3, Summer Palace Tower A, Shengjing Finance Plaza R1, Shengjing Finance Plaza R10, Shengjing Finance Plaza R11, Shengjing Finance Plaza R12, Shengjing Finance Plaza R2, Shengjing Finance Plaza R4, Shengjing Finance Plaza R5, Shengjing Finance Plaza R6, Shengjing Finance Plaza R7, Shengjing Finance Plaza R8, Shengjing Finance Plaza R9, Eton Shenyang Center #5, Eton Shenyang Center #9, Hongyun Building Tower A, Baoneng Shenyang Global Financial Centre Tower 3, Baoneng Shenyang Global Financial Centre Tower 4, Baoneng Shenyang Global Financial Centre Tower 5, Baoneng Shenyang Global Financial Centre Tower 6, Baoneng Shenyang Global Financial Centre Tower 7, Huaqiang Golden Corridor City Plaza Tower 3, Kaisa Center Tower A, Shengjing Finance Plaza R3, Aoti Wanda Plaza Residential A, Aoti Wanda Plaza Residential B, Shenyang Fortune Center 2, Liyang Shengjing Plaza Tower A, Liyang Shengjing Plaza Tower B, Kaisa Center Tower B, Kaisa Center Tower C, Northeast Electric Power Mansion, Moi Center Tower B, Northeast Media Culture Plaza, Summer Palace Tower B, Tongfang Times Square Tower A, Tongfang Times Square Tower B, Cai Dao Building, Cheng Kai Center, Towercrest International Plaza, Huaqiang Golden Corridor City Plaza Tower 6, Eton Shenyang Center #4, Friendship Times Square Tower B, Taiyuan Center, Fu Jia International Finance Centre , Shimao Wulihe City 1#, Shimao Wulihe City 4#, Shimao Wulihe City 8#, Shimao Wulihe City 9#, Shenyang New World Center Tower D, China Resources Building, Shimao Wulihe City 10#, Shimao Wulihe City 7#, Eton Shenyang Center #10, Eton Shenyang Center #11, China Resources Center Yuefu #10, China Resources Center Yuefu #6, China Resources Center Yuefu #8, Global International Building Phase II, Aoti Wanda Plaza Tower A, Aoti Wanda Plaza Tower B, Aoti Wanda Plaza Tower C, Shimao Wulihe City T6, Dongda Liwan International Apartment, Shimao Wulihe City 11#, Shimao Wulihe City 6#, Huahang Building, Moi Center Tower C, Shenyang Kerry Center T1, Shenyang Kerry Center T2, Shenyang Kerry Center 10#, Shenyang Kerry Center 11#, Shenyang Kerry Center 12#, Shenyang Kerry Center 13#, Shenyang Kerry Center 14#, Shenyang Kerry Center 15#, Shimao Wulihe City 3#, Rich Gate City Phase II, Tower A1, Rich Gate City Phase II, Tower B1, Huaqiang Golden Corridor City Plaza Tower 2, Huaqiang Golden Corridor City Plaza Tower 4, Huaqiang Golden Corridor City Plaza Tower 5, Eka Garden B1, Eka Garden B2, Eka Garden B3, Eka Garden B4, Hyatt Hotel - China Resources Center, Shenyang Royal Wan Xin International Mansion Tower B, Shenyang Royal Wan Xin International Mansion Tower C, Friendship Times Square Tower A, Shenyang Lotte World - Residential 1#, Shenyang Lotte World - Residential 2#, Shenyang Lotte World - Residential 3#, Shenyang Lotte World - Residential 4#, Fanhua Square, Huaqiang Square, New World Minghui Apartments, Rich Gate City Phase II Tower C4, Shimao Wulihe City 5#, Hongyun Building Tower B, Shenyang Tiandi, Shimao Wulihe City 12#, Shenyang New World Center Tower G, Shenyang New World Center Tower F, Fangyuan Mansion
+Tiers: I: 1, II: 7, III: 97, IV: 13, V: 5
+Rating: 521 (29.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wuhan ***
+Country: China
+Region: Asia
+96 towers: Wuhan Greenland Center, Wuhan Center Tower, Riverview Plaza A1, Heartland 66 Office Tower, Minsheng Bank Building, Yuexiu Fortune Center Tower 1, Wuhan Yangtze River Shipping Center, Wuhan Tiandi Park Place Office Tower 1, Tianyue Xinchen Tower 1, Wuhan World Trade Tower, Hongren Fortune Center, PTJ International Finance Center, Yulong International Financial Plaza, Jiali Plaza, Changjiang Media Tower, Greatwall Tower 1, Founder International Financial Center North Tower, Wuhan International Financial Plaza, Wuhan Central Trade Center A, 1818 Center, Sanyang Road Station Tower 1, Wuhan Euro-Asia Plaza Office Building, Changchenghui Tower 1, China City B1, Wuhan Central Trade Center B, Wuhan Hengda Riverside Center 1#, Gezhouba International Plaza 1, Wuhan Pan Hai Times Center #1, Wuhan Pan Hai Times Center #2, Optical Valley New World Center A, Wuhan Chenggong Tower, Guangdong Development Bank Building, Bank of China Hubei Province Headquarters, New World Trade Tower, Kanlong Taizi Hotel, Poly Cultural Plaza, Zhejiang International Building, China Metallurgical Corporation Tower, Sanyang Road Station Tower 2, Wuhan Times Square Tower 1, Jian Yin Tower A, New Times Business Center, Hanjiang International Tower, Heartland 66 Tower SA3, Wuhan Ruichuang Center #45, Chang Hang Building, China Oceanwide International Center Tower 1, Gezhouba Nanda Tiandi, Wuhan Starry Winking Residential Tower 4, Wuhan Starry Winking Residential Tower 8, Country Garden Binjiang Project Building 1, Wuhan Plaza Office Tower, Riverview Plaza A3, Wuhan Tiandi Park Place Office Tower 2, Beijing North Star Guangguli Phase IV #9, Heartland 66 Tower SA2, Hubei Power Bureau Building, Zhongshang Plaza, Zhongnan Coal Science & Technology Mansion, Pan Yue City T2 South Tower, Truroll Plaza, Shimao Splendid Yangtze Tower 1, Tianli Plaza Tower A, Wuhan Tiandi Park Place Residential Tower 1, Wuhan Tiandi Park Place Residential Tower 2, Wuhan Starry Winking Residential Tower 1, Wuhan Starry Winking Residential Tower 2, Wuhan Starry Winking Residential Tower 3, Wuhan Radio & Television Center, Baibuting Xingfushidai Block A4 Office Building, Yuexiu Fortune Center Tower 2, Shuian Xingcheng Phase 4 Tower G17, Shuian Xingcheng Phase 4 Tower G18, Heartland 66 Tower SA1, Tianyue Xinchen Tower 2, New Century Hotel, Optical Valley New World Center B, Optical Valley New World Hotel, Riverview Plaza A2, Tianli Plaza Tower II, Sun Shine Building, Poly Changyangtianyue, Greatwall Tower 2, Founder International Financial Center South Tower, Wuhan Construction Science and Technology Centre, Wuhan Ping An Bank Building, Wuhan Xiehe Hospital Tower, Hubei Hotel, Lenovo Office Building, Vanke Jincheng Building 1, Huazhong Electric Power Building, Bestore Headquarters Office Building, WISDRI Building, Wuhan Pan Hai Times Center #3, Wuhan Pan Hai Times Center #4, Tie Siyuan Headquarters Building
+Tiers: I: 1, II: 11, III: 47, IV: 30, V: 4, VI: 3
+Rating: 453 (38.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chengdu ***
+Country: China
+Region: Asia
+103 towers: Chengdu Greenland Tower, Mandarin Oriental Hotel Tower A, Chengdu Poly International Plaza, International Commerce Center Tower 1, Chengdu International Finance Square Tower 1, Chengdu International Finance Square Tower 2, Western International Finance Center Conrad Hotel, Mandarin Oriental Hotel Tower B, Tianxi Twin Towers 1, Tianxi Twin Towers 2, Tianfu IFC 1, Tianfu IFC 2, Yintai Center Tower 1, Oriental Hope Intertek Plaza 1, Oriental Hope Intertek Plaza 2, Minyoun Financial Plaza, OPPO Headquarters, Chengdu Fantasia Meinian Plaza, Tower C, Chengdu Fantasia Meinian Plaza, Tower D, Sichuan Airlines Center, Huarun Tower, Pinnacle One, Chengdu World Financial Center 1, Chengdu World Financial Center 2, Twin Rivers International Office Tower A, Palm Springs International Center Tower 1, Chengdu International Finance Square Tower 4, Evergrande Huazhi Office Tower, Evergrande Huazhi Residential Tower 1, Evergrande Huazhi Residential Tower 2, Hailrun Square, Chengdu International Finance Square Tower 3, Maoye World Tower A, Twin Rivers International Office Tower B, Royal Bay Tower 10, Royal Bay Tower 12, Royal Bay Tower 13, Tobacco and Industrial Building, Chengdu Renheng Fraser Suites, Fairmont Hotel, Tianzijie International Condo, The Metropolis 1, The Metropolis 2, Future Plaza Office Tower 1, Future Plaza Office Tower 2, The Excellency 1, The Excellency 2, R&F Center, Chengdu Greenland Center Tower 2, Tianfu Times Tower 1, Tianfu Times Tower 8, Western International Finance Center Tower 2, Hui Sheng Xingzheng Apartments, Sichuan Aerospace Tower, Tongwei International Center, Square One, International Mall Office Building, Yang Guang Center Apartment and Loft Building, Grand Hyatt Chengdu at Chicony Plaza, Chengdu Greenland Center Tower 3, Seaton Plaza Hotel Tower, Seaton Plaza Office Tower 1, Seaton Plaza Office Tower 2, Fraser Suites Chengdu, Huamin Empire Plaza, Chengdu Fantasia Meinian Plaza, Tower B, International Technology Energy Conservation Building, Minxing Financial Tower, Xiongfei Center Office Building, R&F Mansion, Sichuan Bank of China, Funian Plaza Loft Building 1, Funian Plaza Loft Building 2, Times-Kaiyue Main Tower, The Atrium Serviced Apartments, Chengdu Fantasia Meinian Plaza, Tower A, Zhujiang New City International Tower A4, The Atrium Residences, Shangri-La Chengdu, Changhong Technology Tower, Longfor Century Tower 10, Longfor Century Tower 8, Longfor Century Tower 9, Silverstone Square, Genesis Plaza Office Building, Minyoun Tower, Panda Mall Hotel, Sichuan Tobacco Tower, Diamond Plaza Office Building, Overseas Exchange Square 1, Overseas Exchange Square 2, Evergrande Huazhi St. Regis Hotel, Century City Crystal Tower, Sichuan Radio & TV Centre, Raffles City Chengdu Office Block 1, Raffles City Chengdu Office Block 2, The Atrium Office Tower, Raffles City Chengdu Hotel Block, Raffles City Chengdu Office Block 3, Raffles City Chengdu Serviced Apartment Block, Crowne Plaza Chengdu City Centre, Crystal Laputa Tower 1, New Century Global Center
+Tiers: I: 1, II: 13, III: 74, IV: 12, V: 2, VI: 1
+Rating: 421 (11.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nanjing ***
+Country: China
+Region: Asia
+75 towers: Zifeng Tower, Golden Eagle Tiandi Tower A, Golden Eagle Tiandi Tower B, Deji Plaza, Walsin Centro 2, Jumeirah Nanjing Hotel & Cultural Centre Tower 2, Shimao SIC 1, Golden Eagle Tiandi Tower C, Nanjing International Finance Center A, Walsin Centro 1, Shimao SIC 2, New Century Plaza Tower 1, Jumeirah Nanjing Hotel & Cultural Centre Tower 1, Xinjiekou Department Store Phase 2, Asia Pacific Tower & Jinling Hotel, Xindi Center, China Merchants Financial Center, Kingtown International Center, China Merchants Bank Tower, Golden Eagle International Shopping Center, Shangmao Century Plaza, Golden Eagle International Plaza, Zhongshang Wanhao International Condominium, Suning Ruicheng Phase 1 E06 #1, Suning Ruicheng Phase 1 E07 #2, Suning Ruicheng Phase 1 E08 #2, Jiangsu TV Station Building, Zhonghuan International Plaza, Jiangsu Telecommunication Limited Company Multiple-Use Building, Nanjing Financial City Tower 2, Nanjing Financial City Tower 4, Nanjing Financial City Tower 6, Suning Electric Plaza, Huali International Mansion, Yanlord International Apartments Tower B, Central International Plaza, Galaxy International Plaza, #1 Zhujiang Road Plaza, Nanjing Yilai International Plaza, Jiangsu Power Co. Headquarters, Nanjing New World Center Tower A, Nanjing New World Center Tower B, Suning Ruicheng Phase 1 E07 #1, Sky Capital, Suning Ruicheng Phase 1 E08 #1, Xinhua Daily Mansion, Jiangsu News Center, Chief Fine Building, Nanjing Shimao Riviera New City 1, Nanjing Financial City Tower 9, Nanjing International Center 1, Nanjing International Center 2, Nanjing World Trade Center Tower 2, Synnex Technology International Building, Sheraton Nanjing Kingsley Hotel & Towers, Xufu Lane Telecom Building, Nanjing Tianan International Mansion, Nanjing Financial City Tower 10, Nanjing Financial City Tower 8, Bank of Communications Building, Dongcheng International Center Tower A, Xuanwu Lake Mingren Tower, Deji Mansion, Changfa Center Office Tower 1, Changfa Center Office Tower 2, Yanlord International Apartments Tower A, Nanjing Financial City Tower 1, Nanjing Financial City Tower 3, Nanjing Financial City Tower 5, Fortune Building Tower A, Fortune Building Tower B, Nanjing World Trade Center Tower 3, Nanjing World Trade Center Tower 4, Nanjing Financial City Tower 7, Jinling Hotel
+Tiers: II: 12, III: 41, IV: 14, V: 7, VI: 1
+Rating: 338 (17.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tianjin ***
+Country: China
+Region: Asia
+60 towers: Goldin Finance 117, Tianjin CTF Finance Centre, Tianjin Modern City Office Tower, Tianjin World Financial Center, TEDA IFC 1, Jin Wan Plaza 9, Powerlong Center Tower 1, Bohai Bank Tower, Financial Street Heping Center, The Metropolitan Office Tower, 5 Taian Dao, Shangbang Leasing Tower, Jin Wan Plaza 2, Tianjin Junlin Tianxia Building, Tianjin Xinda Plaza, Tianjin International Trade Tower 1, Tianjin Kerry Center R1, Tianjin Kerry Center R2, Tianjin Kerry Center R3, Four Seasons Tower, AVIC International Plaza, Liqin Hotel, Hongji Commercial Centre 1, Financial Street Nankai Center, Kunlun Center, Tianjin Maoye Building, Renaissance Hotel Tianjin, Golden Mansion Center, R&F Center Tower 1, R&F Center Tower 2, Binhai Cathay Tower, Jinmao Xianchang, Metropolitan Heights Tower 1, Golden Crown Tower, COFCO Tianjin Joy City Office Tower, Tianjin Centre West Tower, Hongji Commercial Centre 2, Binhai Trade Tower, Vantone Center, Post and Communications Network Center, Jin Wan Plaza 3, Powerlong Center Tower 2, Metropolitan Heights Tower 2, Metropolitan Heights Tower 3, Tianjin Daily Building, Tianjin International Finance Centre, Global Landmark Square, Tianjin Greentown Office Tower, Tianjin International Trade Tower 3, Tianjin International Trade Tower 2, Yunding Tower, Tianjin Evening News Hotel, Fortune Heights T11, Fortune Heights T14, COSCO Tower 1, Tianjin Ocean Shipping Mansion, Zhuoyue Qianshui Wan Tower 1, Zhuoyue Qianshui Wan Tower 2, Tianjin Department Store, Powerlong Center Tower 3
+Tiers: II: 2, III: 36, IV: 16, V: 4, VI: 2
+Rating: 296 (18.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Beijing ***
+Country: China
+Region: Asia
+88 towers: China Zun, China World Tower, China World Trade Center Phase 3B, Fortune Financial Center, Samsung China Headquarters, Beijing Greenland Center, Beijing Yintai Centre - Park Tower, Beijing Television Center, Z14 Plot Tower 1, Z14 Plot Tower 2, CCTV Headquarters, Tsinghua University Campus - Z1 Lot, Dawangjing 618 Tower 1, Sunshine Insurance Headquarters, Dawangjing 626 Tower 1, Z12 Plot, Dawangjing 626 Tower 2, Jing Guang Center, SOHO Li Ze Tower, China Tiewu Tower A, Wangjing SOHO T3, Fortune Heights, Pangu Plaza Building A, Beijing Yintai Centre - PICC Office Tower, Beijing Yintai Centre - Yintai Office Tower, Capital Mansion, 8 Chang An Avenue, People's Daily New Headquarters, Dawangjing 618 Tower 3, Gemdale Plaza Tower A, China Central Place Tower 1, Fortune Plaza Office Building II, Beijing Nexus Center, Poly International Plaza – Dawangjing , TVCC, Zhong Hong Tower, China World Trade Center I, China World Trade Center II, Dawangjing 618 Tower 2, Beijing IFC West Tower A/B, Beijing Goldfield Plaza Tower A, China Central Place Tower 2, Topwin Center & InterContinental Beijing Sanlitun, Zhongguancun Financial Center, Central International Trade Center Tower B, Beijing Greenland Center Office Tower 1, Beijing Greenland Center Office Tower 2, China Merchants Group Tower, Beijing Silver Tower, LG Twin Tower 1, LG Twin Tower 2, China Central Place Tower 3, Beijing New Town Tower A, China Life Tower, Chaoyang Park Plaza 1, Wangjing SOHO T2, Beijing Kerry Centre Office Building, Fortune Plaza Apartments I, Chaoyang Park Plaza 2, Keppel Beijing Aether Square Tower B, Emperor Group Centre, Wangjing SOHO T1, Keppel Beijing Aether Square Tower A, Henderson Center, Gemdale Plaza Tower B, Poly Corporation Headquarters, Kunlun Hotel, Jing Mian Xin Cheng Tower, Chaowai MEN Center 1, Chaowai MEN Center 2, Jiaming Center, Military Museum of the Chinese People`s Revolution, Mosaic I, Keppel Beijing Aether Square Tower C, Sunrise Kempinski Hotel, Raffles City 1, China National Petroleum Corporation Headquarters, Parkview Green FangCaoDi, Mosaic II, CHAO Hotel, Xingchuang Tower, Poly International Plaza Tower 2, BUMPS in Beijing 1, BUMPS in Beijing 2, BUMPS in Beijing 3, BUMPS in Beijing 4, Shuohuang Development Building, Raffles City 3
+Tiers: I: 22, II: 19, III: 30, IV: 15, V: 1, VI: 1
+Rating: 288 (9.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hangzhou ***
+Country: China
+Region: Asia
+66 towers: Greenland Center 1, Greenland Center 2, Hangzhou Centre Tower A, Shimao Hangzhou Twin Tower A, Shimao Hangzhou Twin Tower B, Bodi Center Tower C, Longda Tower 1, Zhe Jiang Fortune Financial Center - Tower 1, Grand Parkray Hangzhou Hotel Tower 1, Raffles City Hangzhou Tower 2, Raffles City Hangzhou Tower 1, Hangzhou Telecom Mansion, Wanxiang City Tower 1, New Century Grand Hotel, Zhejiang Television Center, MT Tower Building, Sunyard Plaza 1, Wanyin International 2, Dicara Gold Tower - Hilton Hotel, Jumeirah Hangzhou Hotel, Wanyin International 3, Linping Xizi International Building No. 4, Longda Tower 2, Wanxiang City Tower 3, Zhe Jiang Fortune Financial Center - Tower 2, Huacheng Mansion, TA Tower Building, Asian Packaging Center Mansion East Tower, Asian Packaging Center Mansion West Tower, Hangzhou Centre Tower C, Wanxiang City Tower 4, TD Tower Building, Wanyin International 1, Xihuwenhua Square, Linping Xizi International Building No. 1, Dikai International Center, Zun Bao Gold Tower, Zun Bao Silver Tower, Hangzhou Centre Tower D, Wanxiang City Tower 5, TC Tower Building, TB Tower Building, Sunyard Plaza 2, Bodi Center Tower A, Bodi Center Tower B, Sunrise Qiantang Mansion, Sheng Ao Tower, Hangzhou Centre Tower E, Jimei International Tower, Hangzhou Xizi International Center Building 1, Hangzhou Centre Tower B, Grand Parkray Hangzhou Hotel Tower 2, Hangzhou Xizi International Center Building 2, Hangzhou Civic Center 1, Hangzhou Civic Center 2, Hangzhou Civic Center 3, Hangzhou Civic Center 4, Hangzhou Civic Center 5, Hangzhou Civic Center 6, Green Residence Tower 1, Green Residence Tower 2, Green Residence Tower 3, Hangzhou Xizi International Center Building 3, CITIC Bank Headquarters, Linping Xizi International Building No. 2, Shimao Hangzhou Tower C
+Tiers: I: 7, II: 11, III: 31, IV: 15, V: 2
+Rating: 259 (26.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dalian ***
+Country: China
+Region: Asia
+54 towers: Eton Place Dalian Tower 1, Dalian International Trade Center, Eton Place Dalian Tower 2, Victoria Square 1, Victoria Square 2, Dalian Futures Square 1, Dalian Futures Square 2, Dalian World Trade Center, Dalian Dingsen Center North Tower, Dalian Dingsen Center South Tower, Wanda East Port Tower 1, Dalian East Harbor C05 Mixed Use Project, Furama Tower, Jinzou Plaza, Dalian Tianan International Tower, East Harbour Place Tower 2, China Co-op Group Tower, King of Towers, Orix Towers East, Orix Towers West, Victoria Mansion Tower 1, Victoria Mansion Tower 2, Jiahe Plaza, Pinnacle, Yuanyang Building, Wanda East Port Tower 3, Grand Hyatt Dalian, Wanda East Port Tower 4, International Shipping Tower, Wanda East Port Tower 5, Luxury Mountainview, The Manhattan Office Tower, Coastal International Center Tower 1, Coastal International Center Tower 2, Coastal International Center Tower 3, Wanda East Port Tower 2, Greenland Plaza Apartment Block 1, Greenland Plaza Apartment Block 2, Greenland Plaza Apartment Block 3, Xiwang Tower, Peace City Modern D1, Tianlun Commercial Building, Dalian Times Square 1, Dalian Freedom Plaza, Dalian Telecommunications Center, Rainbow Building, Hotel Nikko Dalian, Eton Place Dalian Tower 3, Eton Place Dalian Tower 4, Eton Place Dalian Tower 5, Luxury Horizon 1, Luxury Horizon 2, Dalian Times Square 2, Dalian Global Finance Center Tower A
+Tiers: II: 9, III: 30, IV: 13, V: 2
+Rating: 232 (11.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Changsha ***
+Country: China
+Region: Asia
+43 towers: Changsha IFS Tower T1, Shimao Hunan Center, Changsha A9 Financial District, Changsha IFS Tower T2, Huachuang International Plaza Tower 1, Huayuan Center Tower 7, Yunda Central Plaza - St. Regis Hotel, Hunan Daily Media Center, Jinmao International Plaza Tower 1, Changsha Huarong Xiangjiang Bank Headquarters, Jinmao International Plaza Tower 2, Poly Nanhu Plaza 1, Changsha Xinhe Delta Office, Westin Hotel, Bofu International Plaza Office Tower, Huizhong Development Center Tower B, Huizhong Development Center Tower A, Changsha Yulin International Building C, Changsha No. 2 Telecom Hinge Building, J57 Mini Sky City, Greenland Center T1, Hunan International Finance Building, Dolton Hotel, Huayuan Center Tower 1A, Huayuan Center Tower 6, Hunan Hydro Department, Huayuan Center Tower 5, Huayuan Center Tower 1B, Changsha Yulin International Building B, Taskin City Plaza, B1, Taskin City Plaza, B2, Bofu International Plaza Residential Tower, Agricultural Bank of China Tower, China Telecom Service Tower, Hunan Electric Power Co. Headquarters, Huachuang International Plaza Tower 2, Huayuan Center Tower 8, Changsha Xinhe Delta Hotel, Changsha Yulin International Building A, Huachuang International Plaza Tower 3, T30 Hotel, S30 Apartment, Changsha International Convention & Exhibition Center Hotel
+Tiers: I: 4, II: 4, III: 17, IV: 13, V: 4, VI: 1
+Rating: 200 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Suzhou ***
+Country: China
+Region: Asia
+43 towers: Suzhou IFS, Greenland Group Suzhou Center, Suzhou ICC, Gate to the East, Suzhou RunHua Global Building A, Suzhou Center, Golden Eagle Plaza, Suzhou RunHua Global Building B, Suzhou Xindi Center, International Fortune Plaza Tower A, CSSD Plaza, Suzhou Center Plaza 1, Tiandu Plaza Tower 1, The Suzhou Modern Media Plaza 1, Metropolitan Tower A, Metropolitan Tower B, Constant Center 1, Phoenix International Book City East Tower, Su Zhou Wan Jing Yuan West Area, International Commerce Square, Suzhou Center Plaza 2, Nison Plaza, Suzhou Henghe Plaza, W Suzhou, International Fortune Plaza Tower B, The Summit - Plot 554, The SuzhouModern Media Plaza 2, Shimao Butterfly Bay, Suzhou Center Plaza 4, Constant Center 2, Jinhe International Building, Tiandu Plaza Tower 2, Phoenix International Book City West Tower, Suzhou Center Plaza 5, Su Zhou Wan Jing Yuan East Area, Suzhou International Commerce Center East Tower, W Avenue Office Tower, Suzhou Center Plaza 6, Suzhou Center Plaza 7, Soochow Securities Headquarters, W Avenue Service Apartments 1, Suzhou Industrial Park Logistics Centre, W Avenue SOHO Tower
+Tiers: I: 3, II: 8, III: 18, IV: 10, V: 3, VI: 1
+Rating: 185 (22.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Xiamen ***
+Country: China
+Region: Asia
+42 towers: Xiamen Cross Strait Financial Centre, Xiamen Shimao Straits Tower B, Xinglin Bay Business Tower, Dijing Park Tower 1, Dijing Park Tower 2, Dijing Park Tower 3, Dijing Park Tower 4, Dijing Park Tower 5, Xiamen Shimao Straits Tower A, Strait Pearl Plaza, C&D International Tower, Lucheng Plaza Tower 1, Xiamen Financial Centre, Cross Strait Exchange Center Phase 2 Tower A, Cross Strait Exchange Center Phase 2 Tower B, AVIC Plaza, Zijin Mining Plaza, Kempinski Hotel Xiamen, Fortune Center, China Construction Bank, Zhongmin Building, The International Bank Plaza, Airport Hotel, International Trade Building, Minnan Hotel, Silver Palace, SEC Center Office Building, Haixi Jingu Plaza Tower 3, Haixi Jingu Plaza Tower 4, More Luxurious Mansion 1, More Luxurious Mansion 2, More Luxurious Mansion 3, Hyde Park C2, Hyde Park C4, Port Building, Guanyin Mountain Business Center, Building 11, Heavens A, International Plaza, Haixi Jingu Plaza Tower 1, Xiamen World Overseas Chinese International Conference Center, Xiamen Suiwa Tower, Haixi Jingu Plaza Tower 2
+Tiers: I: 2, II: 6, III: 21, IV: 12, V: 1
+Rating: 178 (28.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Guigang ***
+Country: China
+Region: Asia
+137 towers: Songda view the world 8#, Triumph International Office A, Guigang Golden Age 10#, Guigang Golden Age 11#, Spirit Park View 1#, Spirit Park View 6# , Spirit Park View 2# , Spirit Park View 3# , Spirit Park View 4#, Spirit Park View 5# , Triumph International 10#, Songda View The World 1#, Songda View The World 10# , Songda View The World 11# , Songda View The World 12#, Songda View The World 2# , Songda View The World 3# , Songda View The World 4# , Songda View The World 5# , Songda View The World 6#, Songda View The World 7#, Songda View The World 9#, Guigang Marriott Belvedere C1, Guigang Marriott Belvedere C2, Guigang Golden Age 13#, Guigang Golden Age 16#, Guigang Golden Age 12#, Guigang Golden Age 17#, Guigang Marriott Belvedere C3, Guigang Marriott Belvedere C4, Guigang Marriott Belvedere C5, Oriental Paris Office, Guigang Bank of China Tower, New Greatwall Hotel, Guanghui·Holy Lake City #10, Guanghui·Holy Lake City #11, Guanghui·Holy Lake City #22, Guanghui·Holy Lake City #8, Guanghui·Holy Lake City 9#, Guigang Golden Age 14#, Guigang Golden Age 15#, Golden Age Dutch City A-1 Area #5, Golden Age Dutch City A-1 Area #6, Golden Age Dutch City A-1 Area #8, Golden Age Dutch City A-1 Area #1, Golden Age Dutch City A-1 Area #2 , Golden Age Dutch City A-3 Area #1, Golden Age Dutch City A-3 Area #2  , Golden Age Dutch City A-3 Area #3, Triumph International 1#, Triumph International 13#, Triumph International 15#, Triumph International 2#, Triumph International 3#, Triumph International 5#, Triumph International 6#, Triumph International 7#, Triumph International 8#, Triumph International 9#, Tian Yue Shangcheng 11#, Tian Yue Shangcheng 12#, Tian Yue Shangcheng 1A#, Tian Yue Shangcheng 1B#, Tian Yue Shangcheng 3#, Tian Yue Shangcheng 5#, Tian Yue Shangcheng 6#, Tian Yue Shangcheng 7#, Tian Yue Shangcheng 8#, Tian Yue Shangcheng 9#, Elysee Wutai 4#, Elysee Wutai 6#, Elysee Wutai 7#, Elysee Wutai 8#, Triumph International 11#, Triumph International 12#, Triumph International 16#, Triumph International 17#, Tian Yue Shangcheng 13#, Tian Yue Shangcheng 10#, Tian Yue Shangcheng 15#, Guowang Garden 1#, Guowang Garden 2# , Guowang Garden 3# , Guowang Garden 4# , Guowang Garden 5# , Guowang Garden 6# , Oriental Paris 1#, Oriental Paris 2#, Oriental Paris 3#, Oriental Paris 4#, Oriental Paris 5#, Elysee Wutai 9#, Elysee Wutai 10#, Sheng Jia Jiayuan 1#, Sheng Jia Jiayuan 2#, Sheng Jia Jiayuan 3#, Sheng Jia Jiayuan 4#, Sheng Jia Jiayuan 5#, Sheng Jia Jiayuan 6#, Sheng Jia Jiayuan 7#, Xijiang Greentown 5#, Xijiang Greentown 7#, Xijiang Greentown 8#, Chinatown, Elysee Wutai 1#, Elysee Wutai 2#, Guanghui East Lake City 4#, Guanghui East Lake City 6#, Guigang Donghu 10#, Guigang Donghu 16#, Guigang Donghu 23#, Guigang Donghu 7#, Guigang Donghu 8#, Guigang Donghu 9#, Golden Age Dutch City A-1 Area #3, Golden Age Dutch City A-1 Area #7, Guanghui East Lake City 1#, Guanghui East Lake City 2# , Guanghui East Lake City 3# , Guanghui East Lake City 9#, Tian Yue Shangcheng 2#, Elysee Wutai 5#, Elysee Wutai 3#, Tian Yue Shangcheng 16#, Guigang Donghu 11#, Guigang Donghu 12#, Guigang Donghu 19#, Guigang Donghu 20#, Qili Xiangjiang A, Qili Xiangjiang B, Guanghui·Holy Lake City #5, Guanghui·Holy Lake City 23#, Guanghui·Holy Lake City #19, Guanghui East Lake City 5#, Golden Age Dutch City A-2 Area #1, Golden Age Dutch City A-2 Area #2, Golden Age Dutch City A-2 Area #4
+Tiers: I: 105, II: 31, III: 1
+Rating: 171 (19.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Guiyang ***
+Country: China
+Region: Asia
+31 towers: Guiyang International Financial Center T1 , Guiyang World Trade Center Landmark Tower, Hengfeng Guiyang Center Tower 1, Twin Towers Guiyang, East Tower, Twin Towers Guiyang, West Tower, Huaguouuan Zone D, Huaguoyuan Zone N, Guizhou Park Office Tower, Guiyang International Financial Center T2, Hunter Douglas International Plaza, Maotai International Business Center 1, Xingyun Electrical Appliance Redevelopment Tower 2, Xingyun Electrical Appliance Redevelopment Tower 3, Kempinski Hotel, Huaguoyuan Hilton Hotel, Xingyun Electrical Appliance Redevelopment Tower 4, Xingyun Electrical Appliance Redevelopment Tower 5, Asia-Pacific Center, Zhongtian Exhibition City 1, Zhongtian Exhibition City 2, Huijin International Plaza, 201 Tower, Guizhou Park Hotel Two, Xingyun Electrical Appliance Redevelopment Tower 6, Sheraton Hotel Guiyang, Guiyang Midea Square, Quanlin International Plaza Main Tower, Times Mingshi Tower, Xingyun Electrical Appliance Redevelopment Tower 7, Liebian Building, Guizhou Park Hotel
+Tiers: II: 4, III: 10, IV: 10, V: 7
+Rating: 164 (72.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hefei ***
+Country: China
+Region: Asia
+36 towers: Evergrande International Financial Center T1, Evergrande IFC 5, China Resources Center 2, Evergrande IFC 4, Anhui New Broadcasting & TV Center, Binhu Times Square, Greenland Center, Anhui International Trade Center Tower 1, Landscape-Brilliant Center, China Resources Center 1, Greenland Park River Block A, Xindi Center Office Tower 1, Bashang Jie Global Center Residential Tower 1, Ahcof City Plaza, New City International, Huabang World Trade City Tower 1, Blue Business Hong Kong Cultural Center Block F, Evergrande IFC 3, Greenland Park River Block B, Fortune Plaza, Greenland Park River Block C, Bank of China Anhui Branch, China Construction Bank Tower, Anhui Telecommunications Dispatching Center, Evergrande IFC 2, Greenland Park River Block D, Commercial Industrial Bank Mansion, Xindi Center Residential Tower 1, Xindi Center Residential Tower 2, Xindi Center Residential Tower 3, Xindi Center Residential Tower 4, Xindi Center Residential Tower 5, Han International Center, Xindi Center Office Tower 2, Xindi Center Office Tower 3, Carnival Hao court 11#
+Tiers: I: 1, II: 3, III: 20, IV: 11, VI: 1
+Rating: 163 (35.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nanchang ***
+Country: China
+Region: Asia
+35 towers: Jiangxi Nanchang Greenland Central Plaza, Parcel A, Jiangxi Nanchang Greenland Central Plaza, Parcel B, Central Financial Street Tower, Commercial Union Centre 1, Commercial Union Centre 2, Jiangxi Nanchang Greenland Zifeng Tower, International Finance Center, SunnyWorld Center Main Tower, Ligao International, Yunzhong Tower 1, Yunzhong Tower 2, Kerry Center, Causeway Bay International Plaza, Peace Hotel Tower B, SINIC Center, Wall Street Plaza, CECIC Headquarters, Lianfa Building, Central Spring, Commercial Union Centre 3, Binjiang Global Center One, Xiqi International Hotel, ZhongHang Building 1, Nanchang Bank Financial Services Centre, Trilec International Finance Tower A, Peace Hotel Tower A, Nanchang World Trade Center 1, Fulong City, Offices and Crowne Plaza Nanchang Riverside, Jiangxi Electric Power Mansion, Nanchang World Trade Center 2, Binjiang One Cullinan, Binjiang One Longxi, Shangri-La Hotel Nanchang, Sheraton Nanchang Hotel Tower
+Tiers: I: 1, II: 3, III: 18, IV: 11, V: 2
+Rating: 161 (9.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zhuhai ***
+Country: China
+Region: Asia
+34 towers: Wanling Global Center, Hengqin International Finance Center, Zhuhai St. Regis Hotel & Office Tower, CCCC Southern Financial Investment Building, Hengqin Headquarters Phase 2 Tower A, Hengqin Headquarters Phase 2 Tower B, E Fund Financial Building, Yanlord Marina Center Tower 5, Tianlang Haifeng International Center A, Tianlang Haifeng International Center B, Zhuhai Hengqin Xinqu Ahongda Finance Tower 1, Crown Tree Building, Yu Hai World Financial Center, Gree Square R1, Gree Square R2, CITIC Mangrove Bay R1, CITIC Mangrove Bay R2, Hengqin Headquarters Tower 1, Beaconsfield Office Building A, Gulf Bank Apartments A, Gulf Bank Apartments B, Gulf Bank Apartments C, Imperial Phoenix Apartments A, Imperial Phoenix Apartments B, Imperial Phoenix Apartments C, Golden Mile Island, Vanke Apartments R1, Hong Heng Century Plaza A, Hong Heng Century Plaza B, Hong Heng Century Plaza C, Yanlord Marina Center Tower 1, Yanlord Marina Center Tower 2, Yanlord Marina Center Tower 3, Yanlord Marina Center Tower 4
+Tiers: II: 4, III: 22, IV: 4, V: 4
+Rating: 152 (27.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Xi’an ***
+Country: China
+Region: Asia
+37 towers: Xi An Glory International Financial Center, OCT Xi’An International Culture Center Tower 1, Global Trade Center, Rongmin Financial Center, Greenland Center Tower 1, Greenland Center Tower 2, Xi`an Center, Shaanxi Information Mansion, Maike Business Center Tower 1, Shaanxi Yanchang Petroleum Headquarters, Yongwei Times Square, Wynn International Financial Center, Kwong Wo Mukden Center 1, SEG Plaza 1, Hi-Tech International Business Centre Digital Building, Shaanxi Telecom & Network Tower, OCT Xi’An International Culture Center Tower 2, Xi'an International Center, T6, Xi'an International Center, T7, Xi'an Yanzhan, T6, Xi'an Yanzhan, T7, Xi'an Telecommuniations Hinge Center, Goaxin International Communication Center, Xi An Hi-Tech International Business Centre Office Tower, SEG Plaza 2, MOMOPARK Office Tower, Xian Kempinski Hotel Phase III, Xi'an Yanzhan, T1, Xi'an Yanzhan, T9, MOMOPARK Apartment Tower, SEG Plaza 3, Xi'an Yanzhan, T5, Mansions #101 at Kwong Wo Mukden Center, Mansions #102 at Kwong Wo Mukden Center, Mansions #103 at Kwong Wo Mukden Center, Mansions #104 at Kwong Wo Mukden Center, Mansions #105 at Kwong Wo Mukden Center
+Tiers: I: 10, II: 1, III: 14, IV: 8, V: 4
+Rating: 148 (54.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ningbo ***
+Country: China
+Region: Asia
+33 towers: Manhattan Tower, Ningbo Global Shipping Plaza, Ningbo New World Plaza 1, Ningbo Bank of China Headquarters, Greenland Center Tower 1, Ningbo International Trade Center, Ningbo Guohua Financial Tower, Ningbo Fortune Center, Evergrande Huafu , City Lights 2, Ningbo Center Tower 2, Greenland Center Tower 2, LinJiang Mingting, Shenjia Building, Nanyuan Mingzhou International Garden Hotel, Ninghai Universe Center, Wanda Plaza 48 Carat, Ningbo Marriott Hotel, World Trade Center East District Tower 1, Westin Hotel, Nanyuan New City Hotel, Ningbo Red Giant Building, Ningbo Gateway North, Ningbo Gateway South, Beilun Financial Center, Ningbo Shangri-La Hotel, Redwood Building, Jinan Center, Ningxing Plaza Hotel, Novotel Ningbo East, Qinghua Global City , Ningbo Chamber of Commerce Headquarters, Greenland Center Tower 3
+Tiers: III: 27, IV: 6
+Rating: 144 (40.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jinan ***
+Country: China
+Region: Asia
+35 towers: Shandong IFC, Jinan Center Financial City A5-3, Greenland Puli Center, China Resources Center , Gold Times Square Block A, Jinan Center Financial City A3-5, Provincial Cultural Center Building 2, China Life Tower 1, China Life Tower 2, Hong Plaza Tower 2, Hong Plaza Tower 3, Pearl International Business Center, Sofitel Jinan Silver Plaza, Shandong Agricultural Bank, International Financial Building, The Wave of Science and Technology Park S01 Research Building, Jinan Center Financial City A4-3, Jinan Center Financial City A5-5, Jinan Center Financial City A4-4, Jinlong Center Tower 1, Qilu Centre Tower Hotel, Jinan Center Financial City A5-1, Jinan Center Financial City A5-4, 57 Jingshi Road, Jinan Center Financial City A1-5, Jinan Center Financial City A5-2, Provincial Cultural Center Building 3, IB Bank Headquarters , Shandong Electric Power Mansion, Jinan Center Financial City A6-3, Jinan Center Financial City A1-3, Jinan Center Financial City A6-5, Jinan Center Financial City A2-5, Hong Plaza Tower 4, Provincial Cultural Center Building 1
+Tiers: II: 7, III: 23, IV: 2, V: 2, VI: 1
+Rating: 144 (26.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Qingdao ***
+Country: China
+Region: Asia
+28 towers: Haitian Center Tower 2, Qingdao Landmark Tower, Lianyungang Lu 66, Haitian Center Tower 3, Bank of China Mansion, Tsingdao Center Tower A, Tsingdao Center Tower B, Qingdao Agora, Excellence Century Center Tower 1, Farglory International Plaza, Qingdao Parkson Plaza, Jinshi International Plaza 1, Haitian Center Tower 1, 9 Donghai Lu Tower 1, 9 Donghai Lu Tower 2, Qingdao Landmark Center - Tower B, Tsingdao Center Tower C, Zhidi Bldg. 1, Zhidi Bldg. 2, Crowne Plaza, Qingdao Landmark Center - Tower A, Excellence Century Center Tower 2, Excellence Century Center Tower 3, Huaren International Mansion, International Customer Transportation Center Tower 1, International Customer Transportation Center Tower 2, Qingdao Linghai Spa Hotel, Excellence Century Center Tower 4
+Tiers: II: 2, III: 14, IV: 10, V: 2
+Rating: 136 (19.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kunming ***
+Country: China
+Region: Asia
+29 towers: Dongfeng Plaza Landmark Tower, Spring City 66, Dongfeng Plaza Tower 2, Fanya International Finance Building North, Fanya International Finance Building South, Kunming Rainbow Yunnan First City Tower 1, Tongde Kunming Plaza, Landmark Plaza Tower A, Yowe Center, Kunming Iron and Steel Building, Yonghe Plaza Tower A, Yonghe Plaza Tower B, Harmonious Century Tower A, Harmonious Century Tower B, Dragon Building, Kunming Century Square, Yilong · Vientiane City, Kunming Rainbow Yunnan First City Tower 2, South Asian First City A, Office Building at Erji Road, Star Fortune Center A, Xanadu Building, Kai Wah Plaza A, Kunlun Center, Colorful Yunnan • Flower City Tower A, Wanda Vista Hotel, Wanda International Decorated Apartment 1, Wanda International Decorated Apartment 2, Colorful Yunnan • Flower City Tower B
+Tiers: I: 4, II: 1, III: 12, IV: 7, V: 5
+Rating: 136 (38.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Liuzhou ***
+Country: China
+Region: Asia
+47 towers: Diwang International Fortune Center, Poly International Center, Sanpower Plaza, Jushang Plaza, Fortune Center Residential Tower 1, Fortune Center Residential Tower 2, Fortune Center Residential Tower 3, China Resources Center Tower A, Century Plaza Tower 1, Kai Yuan Square, Zhongfang Liutie New City #4, Zhongfang Liutie New City #5, Zhongfang Liutie New City #6, Jiuzhou International, Harbour Style A, Rainbow City 5, Ronghe Glories 1, Ronghe Glories 2, Ronghe Glories 3, Liuzhou Xinhe Financial Services Building, Wanda Plaza A, China Resources Center Tower B, China Resources Center Tower C, Intime City, Vientiane City 3, Vientiane City 6, Ronghe Glories 4, Ronghe Glories 5, Vientiane City 5, Harbour Style B, Zhongfang Liutie New City #3, Century Plaza Tower 2, Zhongfang Liutie New City #11, Kai Yuan Square B, Weilai Bieyuan #9, Weilai Bieyuan #1B, Weilai Bieyuan #2, Weilai Bieyuan #11, Weilai Bieyuan #4, Weilai Bieyuan #1A, Weilai Bieyuan #3, Weilai Bieyuan #10, Weilai Bieyuan #5, Liutie Central Hospital, Weilai Bieyuan #7, Weilai Bieyuan #8, Weilai Bieyuan #12
+Tiers: I: 15, II: 8, III: 21, IV: 2, V: 1
+Rating: 135 (21.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Wuxi ***
+Country: China
+Region: Asia
+28 towers: Wuxi International Finance Square, Longxi International Hotel, Wuxi Suning Plaza 1, Wuxi Maoye City - Marriott Hotel, Heilan Fortune Center, Center 66 Office 1, Yunfu Tower, RunHua International Building, Hongdou International Plaza, Jiangyin Chengxing Square, Moresky 360, Kempinski Hotel, Center 66 Office 2, Jiangyin Howard Johnson International Apartment, Wuxi Suning Plaza 2, Intercontinental Hotel Wuxi, Shanghai Center 1, Shanghai Center 2, First International 1, Xi Sui Dong 1, Xi Sui Dong 2, First International 2, Guamai Tower, Wuxi Camphor Wood Plot 2-5, Huaguang Building, Wuxi Camphor Wood Plot 2-6 Tower 2, Wuxi Comphor Wood Plot 2-6 Tower 1, Wuxi Medical Center
+Tiers: I: 1, II: 5, III: 12, IV: 6, V: 4
+Rating: 127 (9.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Macau ***
+Country: China
+Region: Asia
+28 towers: Grand Lisboa, L'Arc New World Hotel, Encore at Wynn Macau, Baia de Praia Grande, The Praia Block 1, The Praia Block 2, The Praia Block 3, The Praia Block 4, Pak Keng Van Tower 1, Pak Keng Van Tower 2, One Central, Bank of China, StarWorld Hotel, Buckingham Place, Galaxy Macau Phase II, Lai San Kok, MGM Grand Macau, Morpheus Hotel & Resort at City of Dreams, Studio City, Venetian Macau Hotel Tower, MGM Grand Paradise, Altira Macau, L'Hermitage, Lake View Tower, Wynn Palace, Wynn Macau Resort & Casino, Louis XIII Macau, Sands Macao
+Tiers: I: 3, II: 3, III: 20, IV: 2
+Rating: 101 (7.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Urumqi ***
+Country: China
+Region: Asia
+22 towers: Baoneng Financial Center 1, Baoneng Financial Center 2, Baoneng Financial Center 3, Urumqi Greentown Square Tower A, Greenland Center 1, Greenland Center 2, Fortune Plaza, Baoneng Financial Center 4, Baoneng Financial Center 5, ABK Times Square Tower, Urumqi Greentown Square Tower B, Urumqi Greentown Square Tower C, Laiyuan Plaza 1, Laiyuan Plaza 2, Times Square H-office A, Times Square H-office B, Xinjiang Bank of China, Urban Building, Urumqi Greentown Square Tower D, Urumqi Greentown Square Tower E, Urumqi Greentown Square Tower F, Urumqi Greentown Square Tower G
+Tiers: I: 4, II: 2, III: 7, IV: 6, V: 3
+Rating: 96 (64.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Fuzhou ***
+Country: China
+Region: Asia
+20 towers: Thang Long Global Center, Shimao International Center Office Tower, Yuyang Tower, Fusheng Qianlong Plaza, Sandy Federal Tower, Fuzhou IFC, Fuzhou Shenglong Financial Centre, Vanke Jinyu Central Tower 1, Mincheng Center Hotel, Fujian Power Dispatching and Communication Building, Vanke Jinyu Central Tower 2, Zhengda Plaza Tower 1, Yi Fa Tower, Shimao Bund Garden 2, Shimao Bund Garden 5, Shimao Bund Garden 1, Bank of China, Fujian Provincial Electric and Power Company Headquarters, Fujian Foreign Trade Center Hotel, Mincheng Center Office Tower
+Tiers: I: 1, II: 2, III: 11, IV: 5, V: 1
+Rating: 87 (9.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Yulin ***
+Country: China
+Region: Asia
+72 towers: Yulin Tianyuan Emerald International, Yulin Beiliu Tianhe Fortune Square, Yulin Yun Temple, Yuchai Building, Yulin Yongli Square Happiness A, Yulin Yongli Square Happiness B, Zhongding Park Holiday B1, Zhongding Park Holiday B2, Zhongding Park Holiday B3, Zhongding Park Holiday B5, Zhongding Park Holiday B6, Zhongding Park Holiday B7, Zhongding Park Holiday B8, Zhongding Park Holiday A1, Zhongding Park Holiday A2, Zhongding Park Holiday A3, Huashang International #18, Huashang International #19, Huashang International #20, Sofitel Yulin Everbright International Hotel, Tianhu. Yulin Bay #1, Tianhu. Yulin Bay #2, Huashang International #2, Huashang International #4, Huashang International #5-6-7, Hengda Dragon Court #1, Hengda Dragon Court #2, Zhongding Park Holiday B10, Zhongding Park Holiday B11, Zhongding Park Holiday B12, Zhongding Park Holiday B13, Huashang International #3, Tianhu. Yulin Bay #10, Tianhu. Yulin Bay #11, Tianhu. Yulin Bay #12, Tianhu. Yulin Bay #13-14, Tianhu. Yulin Bay #15, Tianhu. Yulin Bay #16, Tianhu. Yulin Bay #17-18, Tianhu. Yulin Bay #19, Tianhu. Yulin Bay #20, Tianhu. Yulin Bay #21, Tianhu. Yulin Bay #3, Tianhu. Yulin Bay #4, Tianhu. Yulin Bay #5, Tianhu. Yulin Bay #6, Tianhu. Yulin Bay #7, Tianhu. Yulin Bay #9, Hengda Dragon Court #3, Hengda Dragon Court #4, Tianhu. Yulin Bay #8, Zhongding Park Holiday B16, Zhongding Park Holiday B17, Zhongding Park Holiday B19, Zhongding Park Holiday B20, Zhongding Park Holiday B21, Aofeng International A, Aofeng International B-C, Aofeng International D-E, Zhongding Park Holiday B15, Zhongding Park Holiday B18, Zhongding Park Holiday B22, Zhongding Park Holiday B9, Yuehai Times New City #8, Yuehai Times New City #6, Yuehai Times New City #9, Yuehai Times New City #3, Yuehai Times New City #5, Huashang International #14, Huashang International #15, Yuehai Times New City #2, Yuehai Times New City #1
+Tiers: I: 69, II: 1, III: 2
+Rating: 79 (21.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Taiyuan ***
+Country: China
+Region: Asia
+17 towers: Taiyuan Cinda IFC, Taiyuan Sea La Cite Tower A, Taiyuan Sea La Cite Tower B, Moi Tiandi, Hubin Plaza, Taiyuan Tower, Taiyuan Sea La Cité Residential Block 1-A, Taiyuan Sea La Cité Residential Block 1-B, Taiyuan Sea La Cité Residential Block 2-A, Taiyuan Sea La Cité Residential Block 2-B, Taiyuan Sea La Cité Residential Block 3-A, Taiyuan Sea La Cité Residential Block 3-B, Taiyuan Sea La Cité Residential Block 4-A, Taiyuan Sea La Cité Residential Block 4-B, Taiyuan Sea La Cité Residential Block 5-A, Shaanxi International Mansion Tower I, Shaanxi International Mansion Tower II
+Tiers: III: 14, IV: 3
+Rating: 74 (24.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Beihai ***
+Country: China
+Region: Asia
+51 towers: Fake Hills Point Tower, Triumph International Commerce Hotel, Sands Bay C3, Jiasheng Mingdu, Sands Bay B1, Sands Bay B2, Yinhui International Hotel , Wen Bang International Building , Fake Hills Linear Tower, Furama Hotel, South Pacific International Hotel, Fuyu Plaza, North Sea Zhenxing, Royal Court Hailan 1#, Royal Court Hailan 2#, Royal Court Hailan 5#, Jubilee Bay 1#, Jubilee Bay 11#, Senhai Heights View Di 1#, Senhai Heights View Di 2#, Senhai Heights View Di 3#, Senhai Heights View Di 6#, Furama 1#, Dingsheng Building, Sands Bay A5, Vietnam Silver Beach City 1#, Vietnam Silver Beach City 2#, Vietnam Silver Beach City 3#, Vietnam Silver Beach City 6#, Vietnam Silver Beach City 8#, Vietnam Silver Beach City 9#, Jubilee Bay 3#, Furama 2#, Sands Bay A6, Sands Bay A7, Jubilee Bay 2#, Vietnam Silver Beach City 4#, Vietnam Silver Beach City 7#, Royal Court Hailan 3#, Royal Court Hailan 4#, Beihai First City 5#, Vietnam Silver Beach City B, Vietnam Silver Beach City 5#, Beihai First City 4#, Beihai First City 6#, Vietnam Silver Beach City A, Senhai Heights View Di 4#, Senhai Heights View Di 5#, Jubilee Bay 9#, Jubilee Bay 10#, Jubilee Bay 8#
+Tiers: I: 42, II: 5, III: 3, IV: 1
+Rating: 70 (44.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lanzhou ***
+Country: China
+Region: Asia
+15 towers: Honglou Times Square, Lanzhou City Plaza Building 1, Fortune Jinmao Tower A, New Victory Hotel Tower, Lanzhou Center Office Tower, Lanzhou City Plaza Building 4, Lanzhou City Plaza Building 2, Lanzhou City Plaza Building 3, Lanzhou Tianbao Century Square, Lanzhou Center Hilton Hotel, Fortune Jinmao Tower B, Lanzhou Center SOHO Tower, Lanzhou Kuniyoshi Parkson, Guofang Hotel, Lanzhou No. 1 Hospital Building
+Tiers: I: 1, III: 9, IV: 4, V: 1
+Rating: 69 (26.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Foshan ***
+Country: China
+Region: Asia
+21 towers: Foshan Suning Plaza Tower 1, Poly Business Center Office Tower, Louvre International Furniture Headquarters Building, Chancheng Greenland Center Phase 2 Office Tower 2, Chancheng Greenland Center Phase 2 Office Tower 1, Foshan International Plaza, Baihua Plaza, Foshan Opera Tower, Foshan Information Building, Foshan Beijiao Fortune Center, One AIA Financial Center, Foshan Midea Square, Nanhai Waterside Apartments 1, Nanhai Waterside Apartments 2, Nanhai Waterside Apartments 3, Nanhai Waterside Apartments 4, Poly Business Center Hotel Tower, Chancheng Greenland Center Phase 1 Office Tower, Chancheng Greenland Center Phase 2 Office Tower 3, Thrive United IFC 1, Thrive United IFC 2
+Tiers: I: 3, II: 9, III: 4, IV: 4, V: 1
+Rating: 69 (33.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dongguan ***
+Country: China
+Region: Asia
+13 towers: Dongguan International Trade Center 1, Dongguan TBA Tower, Vanke Chang'an Center, Dongguan International Trade Center 2, Huanghe River Center Building, Regal Palace Hotel, Huijing Center Tower 1, HJ International Hotel, Dongguan International Trade Center 3, Dongguan Guangying Tower, Dongguan China Telecom Tower, Jinyuan Center, Central Wealth District Block C
+Tiers: III: 7, IV: 5, VI: 1
+Rating: 68 (29.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Zhanjiang ***
+Country: China
+Region: Asia
+20 towers: 1 Zhanjiang Hengyi Bay Phase III, Zhanjiang Fortune Meeting, Vientiane Golden Bay Plaza 4, Zhanjiang Huaduhui, SOHO Apartment Building No.3, SOHO Apartment Building No.4, SOHO Apartment Building No.5, SOHO Apartment Building No.6, SOHO Apartment Building No.2, SOHO Apartment Building No.1, Zhanjiang Baoli Tianyue Bay 1, Zhanjiang Baoli Tianyue Bay 2, Sheraton Zhanjiang Tower A, Zhanjiang Post Bureau, 2 Zhanjiang Hengyi Bay Phase III, Vientiane Golden Bay Plaza 1, Vientiane Golden Bay Plaza 2, Vientiane Golden Bay Plaza 3, Zhanjiang Commercial Mansion, Sheraton Zhanjiang Tower B
+Tiers: II: 8, III: 10, IV: 2
+Rating: 68 (41.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zhengzhou ***
+Country: China
+Region: Asia
+15 towers: Greenland Zhengzhou Central Plaza South Tower, Zhengzhou Greenland Central Plaza North Tower, Zhengzhou Greenland Plaza , EPH Headquarters, Greenland Center Tower 4, Jinshui Wanda Center Office Tower, Zhengzhou Resources Center, Yuda World Trade Center, Zhengzhou Greenland New Metropolis Tower 9, Jinshui Wanda Center Residential Tower 1, Jinshui Wanda Center Residential Tower 2, Jinshui Wanda Center Residential Tower 3, Zhengzhou Hilton Manhattan Hotel, Greenland Center Tower 3, Jinshui Wanda Center Hotel Tower
+Tiers: I: 1, II: 1, III: 9, IV: 4
+Rating: 63 (17.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Harbin ***
+Country: China
+Region: Asia
+15 towers: Agricultural Development Center Tower 1, R&F Riverside New City - Ritz-Carlton Hotel, Agricultural Science and Technology International Center, Agricultural Development Center Tower 2, Innovation & Entrepenuership Tower, Harbin Exhibition Center Hotel, Agricultural Development Center Tower 3, Harbin Bank Headquarters Building, Rongfu Conifer Hotel, Agricultural Development Center Tower 4, Agricultural Development Center Tower 5, Agricultural Development Center Tower 6, Agricultural Development Center Tower 7, Harmony Plaza Harbin- Parcel 4- (T2), Harmony Plaza Harbin- Parcel 4- (T1)
+Tiers: I: 2, II: 3, III: 6, IV: 3, V: 1
+Rating: 58 (58.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Qinzhou ***
+Country: China
+Region: Asia
+43 towers: Qinzhou North Bay Center, Qinzhou Zhengkun Building, Qinzhou North Bay International Hotel, Songyu · Time City G2, Songyu · Time City G1, Blue Sea International Building, Olin Washington 10#, Olin Washington 7#, Olin Washington 8#, Olin Washington 9#, Everbright Whitehead Lake Plaza 1#, Everbright Whitehead Lake Plaza 10#, Everbright Whitehead Lake Plaza 11#, Everbright Whitehead Lake Plaza 12#, Everbright Whitehead Lake Plaza 13#, Everbright Whitehead Lake Plaza 14#, Everbright Whitehead Lake Plaza 15#, Everbright Whitehead Lake Plaza 2#, Everbright Whitehead Lake Plaza 3#, Everbright Whitehead Lake Plaza 4#, Everbright Whitehead Lake Plaza 5#, Everbright Whitehead Lake Plaza 6#, Everbright Whitehead Lake Plaza 7#, Everbright Whitehead Lake Plaza 8#, Everbright Whitehead Lake Plaza 9#, Olin Washington 2#, Olin Washington 3#, Central · Riverside One 2#, Central · Riverside One 3#, Olin Washington 6#, Qin Jiang Li King 1#, Urban Spring, Central · Riverside One 4#, Olin Washington 1#, Olin Washington 5#, Wan Jin Yue House 7#, Qin Jiang Li King 6#, Qin Jiang Li King 5#, Qin Jiang Li King 2#, Qin Jiang Li King 3#, Wan Jin Yue House 1#, Wan Jin Yue House 2#, Wan Jin Yue House 3#
+Tiers: I: 39, II: 1, III: 1, IV: 2
+Rating: 57 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shijiazhuang ***
+Country: China
+Region: Asia
+14 towers: Kaiyuan Finance Center, Shijiazhuang No. 2 Telecommunications Hub, Lerthai Center 2, Suning Plaza, Lerthai Center 3, Xinyanzhao Fortune Center 1, Xinyanzhao Fortune Center 2, Lerthai Center 1, Huaqiang Plaza, New Cooperation Tower, Shijiazhuang Pelagic Hotel, Hebei JinGu Building, Lerthai Center 4, Shijiazhuang No.1 Hospital Medical Technique Building
+Tiers: I: 1, II: 2, III: 8, IV: 3
+Rating: 55 (21.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Changchun ***
+Country: China
+Region: Asia
+11 towers: Changchun China Resources Center Tower 1, Changchun Longxiang IBC Tower 1, Changchun International Finance Center Tower 1, Changchun HNA International Plaza, Changchun China Resources Center Tower 2, Changchun China Resources Center Tower 3, Hongwell International Plaza, World Trade Center GTC, Changchun Longxiang IBC Tower 2, Changchun Longxiang IBC Tower 3, Changchun Jinzuo Building 1
+Tiers: III: 7, IV: 4
+Rating: 52 (65.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sanya ***
+Country: China
+Region: Asia
+34 towers: Atlantis Hotel Sanya, Rosewood Sanya and Sanya Forum, Hongzhou Renaissance Hotel, Sunshine Insurance Finance Plaza, Sanya Haitang Bay Mangrove Resort , Sanya Poly Plaza Central Plaza, Sanya Haitang Bay Waldorf Astoria , Poly Phoenix Residence, Rongke Lanlifang #1, Phoenix Island 1, Phoenix Island 2, Phoenix Island 3, Phoenix Island 4, Phoenix Island 5, Banyan Tree Fengling Tower 1, Rongke Lanlifang #2, Rongke Lanlifang #3, Pearl River Hao #1, Pearl River Hao #2, Pearl River Hao #3, Pearl River Hao #4, Pearl River Hao #5, Pearl River Hao #6, Luhuitou Peninsula B7-1, Luhuitou Peninsula B7-2, Luhuitou Peninsula B7-3, Luhuitou Peninsula B7-5, Sanya China Iron City Youyou Lake #1, Sanya China Iron City Youyou Lake #2, Sanya China Iron City Youyou Lake #3, Sanya China Iron City Youyou Lake #5, Sanya China Iron City Youyou Lake #6, Sanya China Iron City Youyou Lake #7, Sanya China Iron City Youyou Lake #8
+Tiers: I: 27, II: 3, III: 3, IV: 1
+Rating: 51 (15.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Laibin ***
+Country: China
+Region: Asia
+20 towers: Laibin Yuda Building, Yuda Central City - Water Gate South Gate, Riverside Park #6, Riverside Park #7, Riverside Park #8, Riverside Park #9, Yuda Gold Biyu #1, Yuda Gold Biyu #2, Yuda Gold Biyu #7, Yuda Gold Biyu #8, Riverside Park #1, Riverside Park #2, Riverside Park #3, Riverside Park #5, Yuda Gold Biyu #3, Yuda Gold Biyu #4, Yuda Gold Biyu #5, Yuda Gold Biyu #6, Yuda Gold Biyu #11, Yuda Gold Biyu #12
+Tiers: I: 6, II: 8, III: 6
+Rating: 46 (4.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Haikou ***
+Country: China
+Region: Asia
+7 towers: Haikou Tower 1, Haikou Center, Landmark Tower, Haihang International Plaza Tower A, Hainan Tower 1, Hainan Tianyi International Building, HNA Mingguang Hotel
+Tiers: III: 3, IV: 3, VI: 1
+Rating: 40 (55.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Huizhou ***
+Country: China
+Region: Asia
+7 towers: Kaisa Center, Chengjieyi Center, Xinyue Tiandi, Kaisa Center Phase 3, R&F International Center, Huamao Tower 3, Huizhou Wheat and World Trade Center
+Tiers: III: 3, IV: 4
+Rating: 36 (16.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ordos ***
+Country: China
+Region: Asia
+11 towers: Cathay Pacific Plaza 1, Cathay Pacific Plaza 2, Meng Yuan Building, Cathay Pacific Plaza 3, Cathay Pacific Plaza 4, Fangyuan Yixia, Wulan International Hotel, Yiqi Industry & Trade Building A, Yiqi Industry & Trade Building B, Cathay Pacific Plaza 5, Cathay Pacific Plaza 6
+Tiers: II: 8, III: 3
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zhongshan ***
+Country: China
+Region: Asia
+4 towers: International Trade Center, Perfect Golden Eagle Square, Zhongshan International Finance Center Tower 1, Zhongshan International Finance Center Tower 2
+Tiers: IV: 3, V: 1
+Rating: 26 (53.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wenzhou ***
+Country: China
+Region: Asia
+5 towers: Wenzhou Trade Center, Wenzhou Zhixin Plaza, Wenzhou Zhixin Plaza Residential Tower, Huameng Commerce Plaza, China Telecom Building
+Tiers: III: 3, IV: 1, V: 1
+Rating: 26
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hezhou ***
+Country: China
+Region: Asia
+24 towers: Carnival Hao Court 5#, Carnival Hao Court 6#, Carnival Hao Court 7#, Carnival Hao Court 8#, Far East Riverside Washington 11#, Far East Riverside Washington 12#, Hezhou People's Hospital, Far East Riverside Washington 10#, Far East Riverside Washington 13#, Carnival Hao Court 2#, Carnival Hao Court 3#, Carnival Hao Court 10#, Oasis Home B18# , Oasis Home B23#  , Oasis Home B25# , Oasis Home B7# , Oasis Home C28#, Oasis Home C29#, Oasis Home C30#, Oasis Home C31# , Oasis Home C35# , Oasis Home C36# , Oasis Home C37#, Carnival Hao Court 9#
+Tiers: I: 24
+Rating: 24 (16.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Yinchuan ***
+Country: China
+Region: Asia
+4 towers: Greenland Center North Tower, Greenland Center South Tower, Genyuan Marriott Hotel, Talents Building
+Tiers: I: 1, IV: 1, V: 2
+Rating: 23 (69.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hechi ***
+Country: China
+Region: Asia
+16 towers: Han Jiang Longjing King 1#, Han Jiang Longjing King 2#, Han Jiang Longjing King 3#, Han Jiang Longjing King 5#, Han Jiang Longjing King 6#, Han Jiang Longjing King 7#, Jincheng International 5#, Jincheng International 4#, Century Jiayuan A-1, Century Jiayuan A-2, Century Jiayuan B-1, Century Jiayuan B-2, Jincheng International 3#, Jincheng International Office, Jincheng International 2#, Jincheng International 1#
+Tiers: I: 10, II: 6
+Rating: 22 (4.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Yantai ***
+Country: China
+Region: Asia
+4 towers: Yantai Shimao No. 1 The Harbour, Yantai Shimao No. 2, Yantai Shimao No. 3, Yantai Shimao No. 4
+Tiers: III: 3, V: 1
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Guilin ***
+Country: China
+Region: Asia
+9 towers: Guilin Jin Trade Center 1, Guilin Jin Trade Center 2, Guilin Huijin Times Square, Guilin Financial Center, Guilin China Resources Center, Guilin Hengda Square 1#, Guilin Hengda Square 2# , Guilin Hengda Square 3# , Guilin Hengda Square 4#
+Tiers: I: 5, II: 1, III: 3
+Rating: 19 (68.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Zhenjiang ***
+Country: China
+Region: Asia
+3 towers: Suning Plaza Tower 1, Suning Plaza Tower 2, Telecommunications Commanding Center
+Tiers: III: 1, IV: 1, V: 1
+Rating: 18
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Fangcheng ***
+Country: China
+Region: Asia
+7 towers: Fangchenggang North Bay Finance Center, Fangchenggang Beibuwan Marina Center , Fangchenggang Central Business, Blue Bay Fortune, Fangchenggang Yunnan Building, Blue Sea Garden, Yandi Incense Embankment
+Tiers: I: 2, II: 2, III: 3
+Rating: 18 (44.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Changzhou ***
+Country: China
+Region: Asia
+3 towers: Changzhou Modern Media Center, Kaina Business Plaza, Yatai Fortune Center
+Tiers: III: 1, IV: 2
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Wuzhou ***
+Country: China
+Region: Asia
+15 towers: God Crown All, Guanghui Tancheng 7#, Guanghui Tancheng 8#, Hao Jing Yue City 12#, Hao Jing Yue City 13#, Hao Jing Yue City 11#, Hao Jing Yue City 10#, Hao Jing Yue City 18#, Hao Jing Yue City 8#, Hao Jing Yue City 9#, Guanghui Tancheng 5B#, Guanghui Tancheng 6#, Hao Jing Yue City 17#, Hao Jing Yue City 19#, Hao Jing Yue City 16#
+Tiers: I: 14, II: 1
+Rating: 16 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wuhu ***
+Country: China
+Region: Asia
+3 towers: Riverside Century Plaza Main Tower, Riverside Century Plaza Apartment Tower 1, Riverside Century Plaza Apartment Tower 2
+Tiers: III: 2, IV: 1
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Luoyang ***
+Country: China
+Region: Asia
+3 towers: Zhengda International Plaza 7, Luoyang Police Communication Tower, Luoyang World Trade Center
+Tiers: III: 2, IV: 1
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nantong ***
+Country: China
+Region: Asia
+3 towers: Nantong Zhongnan International Plaza, Harmony Square, Golf Hotel
+Tiers: III: 2, IV: 1
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Huzhou ***
+Country: China
+Region: Asia
+3 towers: Soochow International Plaza East Tower, Soochow International Plaza West Tower, Sheraton Huzhou Hot Spring Resort
+Tiers: I: 1, IV: 2
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Quanzhou ***
+Country: China
+Region: Asia
+3 towers: Quanzhou World Trade Center, Puxi Wanda Plaza A, Puxi Wanda Plaza B
+Tiers: III: 3
+Rating: 12 (33.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Anshan ***
+Country: China
+Region: Asia
+3 towers: Ming Du International, Crowne Plaza, Anshan Silong Building
+Tiers: III: 3
+Rating: 12 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jiangmen ***
+Country: China
+Region: Asia
+3 towers: Jiangmen Wanda Plaza A, Jiangmen Wanda Plaza B, Telecom Tower
+Tiers: III: 3
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Zibo ***
+Country: China
+Region: Asia
+6 towers: Zibo Huijin Building, Zibo Broadcast & TV Building, Gold No.1 Mansion, China International, Weitong International Center A, Weitong International Center B
+Tiers: I: 4, III: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jiujiang ***
+Country: China
+Region: Asia
+1 tower: Jiujiang IFC
+Tiers: V: 1
+Rating: 8 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Shaoxing ***
+Country: China
+Region: Asia
+2 towers: Shaoxing Shimao Crowne Plaza, Shaoxing City Tower
+Tiers: II: 1, IV: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Taizhou ***
+Country: China
+Region: Asia
+1 tower: Taizhou Tiansheng Center
+Tiers: V: 1
+Rating: 8 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Lianyungang ***
+Country: China
+Region: Asia
+2 towers: Sunshine International Tower, Sinny Coast
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Yiwu ***
+Country: China
+Region: Asia
+1 tower: World Trade Center 1
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Weihai ***
+Country: China
+Region: Asia
+2 towers: Zhongxin Finance Tower, Weihai CITIC Financial Building
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yixing ***
+Country: China
+Region: Asia
+1 tower: Yixing Dongjiu Tower
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Baoding ***
+Country: China
+Region: Asia
+2 towers: Vanbo Plaza South Tower, Vanbo Plaza North Tower
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Xuzhou ***
+Country: China
+Region: Asia
+1 tower: Suning Plaza Tower A
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yangzhou ***
+Country: China
+Region: Asia
+1 tower: Yangzhou International Mansion
+Tiers: IV: 1
+Rating: 6 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chongzuo ***
+Country: China
+Region: Asia
+3 towers: Chongzuo FBC Financial Center, ASEAN • International City, Chongzuo International Hotel
+Tiers: I: 2, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Baise ***
+Country: China
+Region: Asia
+4 towers: Baise Chuanhui International Hotel, Baise Global Financial Center, Baise Moon Lake Hotel, Baise Hengsheng Hotel 
+Tiers: I: 3, II: 1
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Yichang ***
+Country: China
+Region: Asia
+1 tower: Junyao Times Square
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Baoji ***
+Country: China
+Region: Asia
+1 tower: Baoji IFC
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Taicang ***
+Country: China
+Region: Asia
+1 tower: Taicang New Port Businese Area NO.1 Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yuxi ***
+Country: China
+Region: Asia
+1 tower: Yuxi Mining Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shangyu ***
+Country: China
+Region: Asia
+1 tower: Baiguan Plaza
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hohhot ***
+Country: China
+Region: Asia
+1 tower: Inner Mongolia Power College
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Rizhao ***
+Country: China
+Region: Asia
+1 tower: Aetna Sonnenschein International Plaza
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mianyang ***
+Country: China
+Region: Asia
+1 tower: Xinyi Mansion
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Linyi ***
+Country: China
+Region: Asia
+1 tower: Shandong Linyi International City Square
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Shantou ***
+Country: China
+Region: Asia
+1 tower: Jinsui Mansion
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ganzhou ***
+Country: China
+Region: Asia
+1 tower: Harmony Clock Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Baotou ***
+Country: China
+Region: Asia
+1 tower: Contemporary Ecological Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Huangshan ***
+Country: China
+Region: Asia
+1 tower: Huangshan Mountain Village 6
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jincheng ***
+Country: China
+Region: Asia
+1 tower: JinCheng Office Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

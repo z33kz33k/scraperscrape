@@ -1,0 +1,1644 @@
+*** Houston (366) ***
+1.   JPMorgan Chase Tower, 305m
+2.   Wells Fargo Plaza, 302m
+3.   Williams Tower, 275m
+4.   Bank of America Center, 238m
+5.   Heritage Plaza, 232m
+6.   Enterprise Plaza, 230m
+7.   609 Main at Texas, 230m
+8.   Centerpoint Energy Plaza, 226m
+9.   1600 Smith Street, 223m
+10.  Fulbright Tower, 221m
+11.  One Shell Plaza, 218m
+12.  1400 Smith Street, 211m
+13.  Three Allen Center, 209m
+14.  LyondellBassell Tower, 207m
+15.  First City Tower, 202m
+16.  BG Group Place, 193m
+17.  San Felipe Plaza, 190m
+18.  ExxonMobil Building, 185m
+19.  1500 Louisiana Street, 183m
+20.  America Tower, 180m
+21.  Two Houston Center, 176m
+22.  Capitol Tower, 176m
+23.  Marathon Oil Tower, 171m
+24.  1415 Louisiana, 168m
+25.  KBR Tower, 168m
+26.  Memorial Hermann Tower, 165m
+27.  2929 Weslayan, 162m
+28.  Pennzoil Place I, 159m
+29.  Pennzoil Place II, 159m
+30.  Devon Energy Center, 159m
+31.  RRI Energy Plaza, 158m
+32.  Total Plaza, 158m
+33.  Methodist Outpatient Care Center, 156m
+34.  The Huntington, 153m
+35.  Market Square Tower, 153m
+36.  El Paso Energy Building, 153m
+37.  One Park Place, 153m
+38.  The Post Oak, 152m
+39.  Hess Tower, 149m
+40.  1500 Post Oak Boulevard, 145m
+41.  The O'Quinn Medical Tower at St. Luke's, 145m
+42.  5 Greenway Plaza, 142m
+43.  Hanover River Oaks, 141m
+44.  Texas Children`s Hospital Expansion, 139m
+45.  717 Texas Avenue, 138m
+46.  One Allen Center, 138m
+47.  Four Leaf Towers 1, 135m
+48.  Four Leaf Towers 2, 135m
+49.  11 Greenway Plaza, 134m
+50.  9 Greenway Plaza, 134m
+51.  Phoenix Tower, 132m
+52.  Memorial Hermann Medical Plaza, 131m
+53.  712 Main Street, 130m
+54.  The Spires, 130m
+55.  Latitude Med Center, 129m
+56.  1330 Post Oak Boulevard, 128m
+57.  M.D. Anderson Administrative Support Building, 126m
+58.  Niels Eperson Building, 125m
+59.  One City Centre, 125m
+60.  Bob Lanier Public Works Building, 125m
+61.  2727 Kirby, 123m
+62.  Hyatt Regency Houston, 122m
+63.  The Mercer, 122m
+64.  Arabella, 122m
+65.  1301 Fannin Street, 122m
+66.  Methodist Inpatient Hospital, 120m
+67.  The Parklane, 119m
+68.  Five Post Oak Park, 119m
+69.  Houston Police Dept. Headquarters, 118m
+70.  BP West Lake One, 116m
+71.  Harris County Civil Justice Center, 115m
+72.  Smith Tower at Methodist Hospital, 115m
+73.  5 Houston Center, 114m
+74.  Aris Market Square, 113m
+75.  Marriott Marquis Houston, 113m
+76.  MD Anderson Cancer Center, 113m
+77.  919 Milam, 112m
+78.  Lyric Center, 111m
+79.  Warwick Towers, 110m
+80.  The Royalton at River Oaks, 110m
+81.  Camden Post Oak, 109m
+82.  Montage, 109m
+83.  Mosaic 1, 109m
+84.  Amegy Tower, 108m
+85.  3300 Main, 107m
+86.  Dominion at Post Oak, 107m
+87.  1360 Post Oak Tower, 107m
+88.  Wells Fargo Tower, 107m
+89.  Hilcorp Energy Tower, 106m
+90.  UT Health Center, 105m
+91.  Two Shell Plaza, 104m
+92.  The Kirby Collection Residential Tower, 104m
+93.  Le Meridien Hotel, 103m
+94.  ParkWest Tower I, 103m
+95.  Wortham Tower, 103m
+96.  The Mark, 102m
+97.  Catalyst, 102m
+98.  Galleria Tower I, 102m
+99.  Post Oak, 101m
+100. Sage Plaza, 101m
+101. Montebello, 101m
+102. Four Seasons Hotel, 101m
+103. Capital One Plaza, 100m
+104. One Riverway, 100m
+105. Hanover Montrose, 99m
+106. Holiday Inn, 99m
+107. 4 Greenspoint Plaza, 99m
+108. Magnolia Hotel - Houston, 99m
+109. Harris County Criminal Justice Center, 99m
+110. Hilton Americas Hotel, 99m
+111. T. Boone Pickens Academic Tower, 99m
+112. Astoria, 98m
+113. St. Luke`s Episcopal Hospital, 98m
+114. Three Post Oak Central, 98m
+115. Two Post Oak Central, 98m
+116. Travis Tower, 98m
+117. Mickey Leland Federal Building, 98m
+118. One Post Oak Central, 97m
+119. City West Place 2, 96m
+120. 500 Jefferson Building, 96m
+121. Cosmopolitan, 96m
+122. Feigin Center, 96m
+123. Feigin Center West Tower, 96m
+124. 600 Jefferson Street, 95m
+125. Scurlock Tower, 95m
+126. Briar Lake Plaza, 95m
+127. Houstonian Condominiums, 94m
+128. 3D International Tower, 94m
+129. The Bristol, 94m
+130. Commerce Towers, 93m
+131. City West Place 1, 93m
+132. Control Data Center, 92m
+133. JW Marriott Houston Downtown, 92m
+134. Greenway Condominiums Tower 1, 91m
+135. Greenway Condominiums Tower 2, 91m
+136. 3 Greenway Plaza, 91m
+137. Wells Fargo Center, 91m
+138. 5444 Westheimer Road, 91m
+139. 363 North Belt Building, 91m
+140. 2016 Main, 90m
+141. Galleria Tower II, 90m
+142. Houston House, 89m
+143. Legacy at Memorial, 89m
+144. Great Southwest Building, 89m
+145. 3040 Post Oak Blvd., 88m
+146. Four Westlake Park, 88m
+147. 1800 West Loop South, 88m
+148. 1001 McKinney Building, 87m
+149. 5599 San Felipe Blvd., 87m
+150. SkyHouse River Oaks, 87m
+151. The Southmore, 87m
+152. The Sovereign, 85m
+153. 1010 Lamar St., 84m
+154. SkyHouse Houston, 84m
+155. Doubletree Guest Suites, 83m
+156. Mellie Esperson Building, 83m
+157. 3 Riverway, 83m
+158. Bechtel Tower, 83m
+159. Two Memorial City Plaza, 83m
+160. Lamar Tower, 82m
+161. Texas Children's Hospital Pavilion for Women, 82m
+162. The St. James, 82m
+163. Texas Children's Hospital Center for Clinical Care, 82m
+164. Houston Marriott Medical Center, 81m
+165. Hotel Alessandra, 80m
+166. SkyHouse Main, 80m
+167. Vantage Med Center, 79m
+168. Three West Lake Park, 79m
+169. Westin Galleria, 79m
+170. JW Marriott Houston, 78m
+171. 6565 MD Anderson Boulevard, 77m
+172. Jan and Dan Duncan Neurological Research Institute, 77m
+173. Two BriarLake Plaza, 77m
+174. 5 Greenspoint Place, 76m
+175. Museum Tower, 76m
+176. 5000 Montrose Boulevard, 75m
+
+******************** DETAILS ********************
+
+*** Houston ***
+Country: United States
+Region: North America
+176 towers: JPMorgan Chase Tower, Wells Fargo Plaza, Williams Tower, Bank of America Center, Heritage Plaza, Enterprise Plaza, 609 Main at Texas, Centerpoint Energy Plaza, 1600 Smith Street, Fulbright Tower, One Shell Plaza, 1400 Smith Street, Three Allen Center, LyondellBassell Tower, First City Tower, BG Group Place, San Felipe Plaza, ExxonMobil Building, 1500 Louisiana Street, America Tower, Two Houston Center, Capitol Tower, Marathon Oil Tower, 1415 Louisiana, KBR Tower, Memorial Hermann Tower, 2929 Weslayan, Pennzoil Place I, Pennzoil Place II, Devon Energy Center, RRI Energy Plaza, Total Plaza, Methodist Outpatient Care Center, The Huntington, Market Square Tower, El Paso Energy Building, One Park Place, The Post Oak, Hess Tower, 1500 Post Oak Boulevard, The O'Quinn Medical Tower at St. Luke's, 5 Greenway Plaza, Hanover River Oaks, Texas Children`s Hospital Expansion, 717 Texas Avenue, One Allen Center, Four Leaf Towers 1, Four Leaf Towers 2, 11 Greenway Plaza, 9 Greenway Plaza, Phoenix Tower, Memorial Hermann Medical Plaza, 712 Main Street, The Spires, Latitude Med Center, 1330 Post Oak Boulevard, M.D. Anderson Administrative Support Building, Niels Eperson Building, One City Centre, Bob Lanier Public Works Building, 2727 Kirby, Hyatt Regency Houston, The Mercer, Arabella, 1301 Fannin Street, Methodist Inpatient Hospital, The Parklane, Five Post Oak Park, Houston Police Dept. Headquarters, BP West Lake One, Harris County Civil Justice Center, Smith Tower at Methodist Hospital, 5 Houston Center, Aris Market Square, Marriott Marquis Houston, MD Anderson Cancer Center, 919 Milam, Lyric Center, Warwick Towers, The Royalton at River Oaks, Camden Post Oak, Montage, Mosaic 1, Amegy Tower, 3300 Main, Dominion at Post Oak, 1360 Post Oak Tower, Wells Fargo Tower, Hilcorp Energy Tower, UT Health Center, Two Shell Plaza, The Kirby Collection Residential Tower, Le Meridien Hotel, ParkWest Tower I, Wortham Tower, The Mark, Catalyst, Galleria Tower I, Post Oak, Sage Plaza, Montebello, Four Seasons Hotel, Capital One Plaza, One Riverway, Hanover Montrose, Holiday Inn, 4 Greenspoint Plaza, Magnolia Hotel - Houston, Harris County Criminal Justice Center, Hilton Americas Hotel, T. Boone Pickens Academic Tower, Astoria, St. Luke`s Episcopal Hospital, Three Post Oak Central, Two Post Oak Central, Travis Tower, Mickey Leland Federal Building, One Post Oak Central, City West Place 2, 500 Jefferson Building, Cosmopolitan, Feigin Center, Feigin Center West Tower, 600 Jefferson Street, Scurlock Tower, Briar Lake Plaza, Houstonian Condominiums, 3D International Tower, The Bristol, Commerce Towers, City West Place 1, Control Data Center, JW Marriott Houston Downtown, Greenway Condominiums Tower 1, Greenway Condominiums Tower 2, 3 Greenway Plaza, Wells Fargo Center, 5444 Westheimer Road, 363 North Belt Building, 2016 Main, Galleria Tower II, Houston House, Legacy at Memorial, Great Southwest Building, 3040 Post Oak Blvd., Four Westlake Park, 1800 West Loop South, 1001 McKinney Building, 5599 San Felipe Blvd., SkyHouse River Oaks, The Southmore, The Sovereign, 1010 Lamar St., SkyHouse Houston, Doubletree Guest Suites, Mellie Esperson Building, 3 Riverway, Bechtel Tower, Two Memorial City Plaza, Lamar Tower, Texas Children's Hospital Pavilion for Women, The St. James, Texas Children's Hospital Center for Clinical Care, Houston Marriott Medical Center, Hotel Alessandra, SkyHouse Main, Vantage Med Center, Three West Lake Park, Westin Galleria, JW Marriott Houston, 6565 MD Anderson Boulevard, Jan and Dan Duncan Neurological Research Institute, Two BriarLake Plaza, 5 Greenspoint Place, Museum Tower, 5000 Montrose Boulevard
+Tiers: I: 88, II: 50, III: 27, IV: 9, V: 2
+Rating: 366 (2.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** JPMorgan Chase Tower ***
+Height: 305.41
+Floors: 75
+Status: Completed
+Started: 1978
+Completed: 1982
+Functions: office
+Rank: 1
+
+*** Wells Fargo Plaza ***
+Height: 302.37
+Floors: 71
+Status: Completed
+Started: 1979
+Completed: 1983
+Functions: office
+Rank: 2
+
+*** Williams Tower ***
+Height: 274.63
+Floors: 64
+Status: Completed
+Started: 1981
+Completed: 1982
+Functions: office
+Rank: 3
+
+*** Bank of America Center ***
+Height: 237.75
+Floors: 56
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 4
+
+*** Heritage Plaza ***
+Height: 232.26
+Floors: 53
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: office
+Rank: 5
+
+*** Enterprise Plaza ***
+Height: 230.4
+Floors: 55
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 6
+
+*** 609 Main at Texas ***
+Height: 230.1
+Floors: 48
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 7
+
+*** Centerpoint Energy Plaza ***
+Height: 225.86
+Floors: 53
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 8
+
+*** 1600 Smith Street ***
+Height: 223.12
+Floors: 55
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 9
+
+*** Fulbright Tower ***
+Height: 221
+Floors: 52
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 10
+
+*** One Shell Plaza ***
+Height: 217.63
+Floors: 50
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 11
+
+*** 1400 Smith Street ***
+Height: 210.52
+Floors: 50
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 12
+
+*** Three Allen Center ***
+Height: 208.79
+Floors: 50
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 13
+
+*** LyondellBassell Tower ***
+Height: 206.8
+Floors: 47
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 14
+
+*** First City Tower ***
+Height: 201.78
+Floors: 47
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 15
+
+*** BG Group Place ***
+Height: 192.74
+Floors: 46
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 16
+
+*** San Felipe Plaza ***
+Height: 190.5
+Floors: 45
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 17
+
+*** ExxonMobil Building ***
+Height: 184.71
+Floors: 44
+Status: Completed
+Completed: 1963
+Functions: office
+Rank: 18
+
+*** 1500 Louisiana Street ***
+Height: 182.88
+Floors: 40
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 19
+
+*** America Tower ***
+Height: 179.83
+Floors: 42
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 20
+
+*** Two Houston Center ***
+Height: 176.48
+Floors: 40
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 21
+
+*** Capitol Tower ***
+Height: 176.48
+Floors: 34
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 22
+
+*** Marathon Oil Tower ***
+Height: 171.3
+Floors: 41
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 23
+
+*** 1415 Louisiana ***
+Height: 167.64
+Floors: 44
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 24
+
+*** KBR Tower ***
+Height: 167.64
+Floors: 40
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 25
+
+*** Memorial Hermann Tower ***
+Height: 165.2
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office / hospital
+Rank: 26
+
+*** 2929 Weslayan ***
+Height: 162.5
+Floors: 40
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 27
+
+*** Pennzoil Place I ***
+Height: 159.41
+Floors: 36
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 28
+
+*** Pennzoil Place II ***
+Height: 159.41
+Floors: 36
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 28
+
+*** Devon Energy Center ***
+Height: 158.8
+Floors: 36
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 30
+
+*** RRI Energy Plaza ***
+Height: 158
+Floors: 36
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 31
+
+*** Total Plaza ***
+Height: 157.89
+Floors: 35
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 32
+
+*** Methodist Outpatient Care Center ***
+Height: 156.1
+Floors: 26
+Status: Completed
+Completed: 2010
+Functions: hospital
+Rank: 33
+
+*** The Huntington ***
+Height: 153.32
+Floors: 34
+Status: Completed
+Started: 1981
+Completed: 1982
+Functions: residential
+Rank: 34
+
+*** Market Square Tower ***
+Height: 153
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 35
+
+*** El Paso Energy Building ***
+Height: 153
+Floors: 33
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 36
+
+*** One Park Place ***
+Height: 152.71
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 37
+
+*** The Post Oak ***
+Height: 152.1
+Floors: 36
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / hotel / office
+Rank: 38
+
+*** Hess Tower ***
+Height: 149.35
+Floors: 29
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: office
+Rank: 39
+
+*** 1500 Post Oak Boulevard ***
+Height: 145.34
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 40
+
+*** The O'Quinn Medical Tower at St. Luke's ***
+Height: 145.3
+Floors: 29
+Status: Completed
+Completed: 1990
+Functions: office / hospital
+Rank: 41
+
+*** 5 Greenway Plaza ***
+Height: 141.73
+Floors: 31
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 42
+
+*** Hanover River Oaks ***
+Height: 140.8
+Floors: 38
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 43
+
+*** Texas Children`s Hospital Expansion ***
+Height: 139.3
+Floors: 25
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: hospital
+Rank: 44
+
+*** 717 Texas Avenue ***
+Height: 138.2
+Floors: 34
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 45
+
+*** One Allen Center ***
+Height: 137.77
+Floors: 34
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 46
+
+*** Four Leaf Towers 1 ***
+Height: 135.33
+Floors: 40
+Status: Completed
+Started: 1979
+Completed: 1982
+Functions: residential
+Rank: 47
+
+*** Four Leaf Towers 2 ***
+Height: 135.33
+Floors: 40
+Status: Completed
+Started: 1979
+Completed: 1982
+Functions: residential
+Rank: 47
+
+*** 11 Greenway Plaza ***
+Height: 134.42
+Floors: 31
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 49
+
+*** 9 Greenway Plaza ***
+Height: 134.42
+Floors: 31
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 49
+
+*** Phoenix Tower ***
+Height: 132.29
+Floors: 34
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 51
+
+*** Memorial Hermann Medical Plaza ***
+Height: 131.04
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hospital / office
+Rank: 52
+
+*** 712 Main Street ***
+Height: 130.46
+Floors: 37
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 53
+
+*** The Spires ***
+Height: 129.85
+Floors: 40
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 54
+
+*** Latitude Med Center ***
+Height: 128.93
+Floors: 35
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 55
+
+*** 1330 Post Oak Boulevard ***
+Height: 128
+Floors: 30
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 56
+
+*** M.D. Anderson Administrative Support Building ***
+Height: 126.5
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 57
+
+*** Niels Eperson Building ***
+Height: 125.05
+Floors: 31
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 58
+
+*** One City Centre ***
+Height: 125
+Floors: 32
+Status: Completed
+Started: 1959
+Completed: 1961
+Functions: office
+Rank: 59
+
+*** Bob Lanier Public Works Building ***
+Height: 124.97
+Floors: 27
+Status: Completed
+Started: 1967
+Completed: 1968
+Functions: office
+Rank: 60
+
+*** 2727 Kirby ***
+Height: 123.45
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 61
+
+*** Hyatt Regency Houston ***
+Height: 122.23
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 62
+
+*** The Mercer ***
+Height: 122.07
+Floors: 30
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 63
+
+*** Arabella ***
+Height: 121.62
+Floors: 33
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 64
+
+*** 1301 Fannin Street ***
+Height: 121.6
+Floors: 25
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 65
+
+*** Methodist Inpatient Hospital ***
+Height: 120.4
+Floors: 17
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: hospital
+Rank: 66
+
+*** The Parklane ***
+Height: 119
+Floors: 36
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 67
+
+*** Five Post Oak Park ***
+Height: 118.57
+Floors: 28
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 68
+
+*** Houston Police Dept. Headquarters ***
+Height: 117.65
+Floors: 28
+Status: Completed
+Completed: 1967
+Functions: government
+Rank: 69
+
+*** BP West Lake One ***
+Height: 116.43
+Floors: 28
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 70
+
+*** Harris County Civil Justice Center ***
+Height: 115.21
+Floors: 18
+Status: Completed
+Completed: 2005
+Functions: government
+Rank: 71
+
+*** Smith Tower at Methodist Hospital ***
+Height: 115.2
+Floors: 26
+Status: Completed
+Completed: 1988
+Functions: education / hospital
+Rank: 72
+
+*** 5 Houston Center ***
+Height: 114.5
+Floors: 27
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 73
+
+*** Aris Market Square ***
+Height: 113.1
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 74
+
+*** Marriott Marquis Houston ***
+Height: 113.08
+Floors: 28
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: hotel / retail
+Rank: 75
+
+*** MD Anderson Cancer Center ***
+Height: 112.78
+Floors: 22
+Status: Completed
+Completed: 2009
+Functions: hospital
+Rank: 76
+
+*** 919 Milam ***
+Height: 112.47
+Floors: 24
+Status: Completed
+Completed: 1956
+Functions: office
+Rank: 77
+
+*** Lyric Center ***
+Height: 111.25
+Floors: 26
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 78
+
+*** Warwick Towers ***
+Height: 110.03
+Floors: 30
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 79
+
+*** The Royalton at River Oaks ***
+Height: 109.73
+Floors: 33
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 80
+
+*** Camden Post Oak ***
+Height: 109.42
+Floors: 33
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 81
+
+*** Montage ***
+Height: 109.12
+Floors: 29
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 82
+
+*** Mosaic 1 ***
+Height: 109.12
+Floors: 29
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 82
+
+*** Amegy Tower ***
+Height: 108
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: office
+Rank: 84
+
+*** 3300 Main ***
+Height: 106.99
+Floors: 28
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 85
+
+*** Dominion at Post Oak ***
+Height: 106.98
+Floors: 31
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 86
+
+*** 1360 Post Oak Tower ***
+Height: 106.98
+Floors: 25
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 87
+
+*** Wells Fargo Tower ***
+Height: 106.98
+Floors: 25
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 87
+
+*** Hilcorp Energy Tower ***
+Height: 105.5
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 89
+
+*** UT Health Center ***
+Height: 105.16
+Floors: 25
+Status: Completed
+Completed: 1974
+Functions: education / hospital
+Rank: 90
+
+*** Two Shell Plaza ***
+Height: 103.94
+Floors: 26
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 91
+
+*** The Kirby Collection Residential Tower ***
+Height: 103.63
+Floors: 22
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 92
+
+*** Le Meridien Hotel ***
+Height: 103
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hotel
+Rank: 93
+
+*** ParkWest Tower I ***
+Height: 102.72
+Floors: 25
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 94
+
+*** Wortham Tower ***
+Height: 102.72
+Floors: 25
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 94
+
+*** The Mark ***
+Height: 101.8
+Floors: 30
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 96
+
+*** Catalyst ***
+Height: 101.8
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 97
+
+*** Galleria Tower I ***
+Height: 101.5
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 98
+
+*** Post Oak ***
+Height: 100.6
+Floors: 29
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 99
+
+*** Sage Plaza ***
+Height: 100.59
+Floors: 25
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 100
+
+*** Montebello ***
+Height: 100.58
+Floors: 30
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 101
+
+*** Four Seasons Hotel ***
+Height: 100.58
+Floors: 29
+Status: Completed
+Completed: 1981
+Functions: hotel
+Rank: 102
+
+*** Capital One Plaza ***
+Height: 99.98
+Floors: 22
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 103
+
+*** One Riverway ***
+Height: 99.97
+Floors: 25
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 104
+
+*** Hanover Montrose ***
+Height: 99.4
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 105
+
+*** Holiday Inn ***
+Height: 99.06
+Floors: 30
+Status: Completed
+Completed: 1971
+Functions: hotel
+Rank: 106
+
+*** 4 Greenspoint Plaza ***
+Height: 99.06
+Floors: 24
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 107
+
+*** Magnolia Hotel - Houston ***
+Height: 99.06
+Floors: 22
+Status: Completed
+Completed: 1926
+Functions: hotel
+Rank: 108
+
+*** Harris County Criminal Justice Center ***
+Height: 99.06
+Floors: 21
+Status: Completed
+Completed: 1999
+Functions: government
+Rank: 109
+
+*** Hilton Americas Hotel ***
+Height: 98.76
+Floors: 24
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 110
+
+*** T. Boone Pickens Academic Tower ***
+Height: 98.76
+Floors: 21
+Status: Completed
+Completed: 2008
+Functions: education / office
+Rank: 111
+
+*** Astoria ***
+Height: 98.1
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 112
+
+*** St. Luke`s Episcopal Hospital ***
+Height: 98
+Floors: 26
+Status: Completed
+Completed: 1970
+Functions: hospital
+Rank: 113
+
+*** Three Post Oak Central ***
+Height: 97.84
+Floors: 24
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 114
+
+*** Two Post Oak Central ***
+Height: 97.84
+Floors: 24
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 114
+
+*** Travis Tower ***
+Height: 97.54
+Floors: 21
+Status: Completed
+Completed: 1955
+Rank: 116
+
+*** Mickey Leland Federal Building ***
+Height: 97.5
+Floors: 22
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office / government
+Rank: 117
+
+*** One Post Oak Central ***
+Height: 96.93
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 118
+
+*** City West Place 2 ***
+Height: 96.32
+Floors: 23
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 119
+
+*** 500 Jefferson Building ***
+Height: 96.32
+Floors: 21
+Status: Completed
+Completed: 1963
+Rank: 120
+
+*** Cosmopolitan ***
+Height: 96.01
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 121
+
+*** Feigin Center ***
+Height: 96.01
+Floors: 20
+Status: Completed
+Completed: 2008
+Functions: hospital / office
+Rank: 122
+
+*** Feigin Center West Tower ***
+Height: 96.01
+Floors: 19
+Status: Completed
+Completed: 2001
+Functions: hospital
+Rank: 123
+
+*** 600 Jefferson Street ***
+Height: 95.1
+Floors: 20
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 124
+
+*** Scurlock Tower ***
+Height: 94.8
+Floors: 20
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 125
+
+*** Briar Lake Plaza ***
+Height: 94.79
+Floors: 20
+Status: Completed
+Completed: 2000
+Rank: 126
+
+*** Houstonian Condominiums ***
+Height: 94.49
+Floors: 28
+Status: Completed
+Completed: 1982
+Functions: residential
+Rank: 127
+
+*** 3D International Tower ***
+Height: 94.49
+Floors: 22
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 128
+
+*** The Bristol ***
+Height: 94.18
+Floors: 27
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 129
+
+*** Commerce Towers ***
+Height: 93.27
+Floors: 24
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 130
+
+*** City West Place 1 ***
+Height: 93.27
+Floors: 22
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 131
+
+*** Control Data Center ***
+Height: 92.35
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 132
+
+*** JW Marriott Houston Downtown ***
+Height: 92.05
+Floors: 23
+Status: Completed
+Completed: 1910
+Rank: 133
+
+*** Greenway Condominiums Tower 1 ***
+Height: 91.44
+Floors: 30
+Status: Completed
+Completed: 1980
+Functions: residential
+Rank: 134
+
+*** Greenway Condominiums Tower 2 ***
+Height: 91.44
+Floors: 30
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 134
+
+*** 3 Greenway Plaza ***
+Height: 91.44
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 136
+
+*** Wells Fargo Center ***
+Height: 91.44
+Floors: 21
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 137
+
+*** 5444 Westheimer Road ***
+Height: 90.83
+Floors: 20
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 138
+
+*** 363 North Belt Building ***
+Height: 90.83
+Floors: 19
+Status: Completed
+Started: 1981
+Completed: 1982
+Functions: office
+Rank: 139
+
+*** 2016 Main ***
+Height: 90.22
+Floors: 26
+Status: Completed
+Completed: 1965
+Rank: 140
+
+*** Galleria Tower II ***
+Height: 89.6
+Floors: 21
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 141
+
+*** Houston House ***
+Height: 89.31
+Floors: 21
+Status: Completed
+Completed: 1965
+Rank: 142
+
+*** Legacy at Memorial ***
+Height: 88.7
+Floors: 25
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 143
+
+*** Great Southwest Building ***
+Height: 88.7
+Floors: 19
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 144
+
+*** 3040 Post Oak Blvd. ***
+Height: 88.39
+Floors: 22
+Status: Completed
+Completed: 1980
+Rank: 145
+
+*** Four Westlake Park ***
+Height: 88.09
+Floors: 20
+Status: Completed
+Completed: 1992
+Rank: 146
+
+*** 1800 West Loop South ***
+Height: 87.78
+Floors: 21
+Status: Completed
+Completed: 1982
+Rank: 147
+
+*** 1001 McKinney Building ***
+Height: 86.87
+Floors: 22
+Status: Completed
+Started: 1947
+Completed: 1949
+Functions: office
+Rank: 148
+
+*** 5599 San Felipe Blvd. ***
+Height: 86.87
+Floors: 20
+Status: Completed
+Completed: 1978
+Rank: 149
+
+*** SkyHouse River Oaks ***
+Height: 86.6
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 150
+
+*** The Southmore ***
+Height: 86.6
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 151
+
+*** The Sovereign ***
+Height: 85.35
+Floors: 21
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 152
+
+*** 1010 Lamar St. ***
+Height: 84.12
+Floors: 20
+Status: Completed
+Completed: 1981
+Rank: 153
+
+*** SkyHouse Houston ***
+Height: 83.82
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 154
+
+*** Doubletree Guest Suites ***
+Height: 83.2
+Floors: 26
+Status: Completed
+Completed: 1982
+Functions: hotel
+Rank: 155
+
+*** Mellie Esperson Building ***
+Height: 82.91
+Floors: 19
+Status: Completed
+Completed: 1941
+Functions: office
+Rank: 156
+
+*** 3 Riverway ***
+Height: 82.9
+Floors: 20
+Status: Completed
+Completed: 1980
+Rank: 157
+
+*** Bechtel Tower ***
+Height: 82.6
+Floors: 19
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 158
+
+*** Two Memorial City Plaza ***
+Height: 82.6
+Floors: 18
+Status: Completed
+Completed: 1983
+Rank: 159
+
+*** Lamar Tower ***
+Height: 82.3
+Floors: 23
+Status: Completed
+Completed: 1965
+Functions: residential
+Rank: 160
+
+*** Texas Children's Hospital Pavilion for Women ***
+Height: 81.99
+Floors: 14
+Status: Completed
+Completed: 2012
+Functions: hospital
+Rank: 161
+
+*** The St. James ***
+Height: 81.7
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 162
+
+*** Texas Children's Hospital Center for Clinical Care ***
+Height: 81.69
+Floors: 18
+Status: Completed
+Completed: 2002
+Functions: hospital
+Rank: 163
+
+*** Houston Marriott Medical Center ***
+Height: 80.77
+Floors: 26
+Status: Completed
+Completed: 1984
+Functions: hotel
+Rank: 164
+
+*** Hotel Alessandra ***
+Height: 80.2
+Floors: 21
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: hotel
+Rank: 165
+
+*** SkyHouse Main ***
+Height: 79.9
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2016
+Functions: residential
+Rank: 166
+
+*** Vantage Med Center ***
+Height: 79.25
+Floors: 22
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 167
+
+*** Three West Lake Park ***
+Height: 79.25
+Floors: 19
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 168
+
+*** Westin Galleria ***
+Height: 78.64
+Floors: 24
+Status: Completed
+Completed: 1971
+Functions: hotel
+Rank: 169
+
+*** JW Marriott Houston ***
+Height: 78.33
+Floors: 23
+Status: Completed
+Completed: 1984
+Functions: hotel
+Rank: 170
+
+*** 6565 MD Anderson Boulevard ***
+Height: 77.11
+Floors: 13
+Status: Completed
+Completed: 2014
+Functions: office / hospital
+Rank: 171
+
+*** Jan and Dan Duncan Neurological Research Institute ***
+Height: 76.81
+Floors: 13
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office / education
+Rank: 172
+
+*** Two BriarLake Plaza ***
+Height: 76.51
+Floors: 18
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: office
+Rank: 173
+
+*** 5 Greenspoint Place ***
+Height: 76
+Floors: 19
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 174
+
+*** Museum Tower ***
+Height: 75.59
+Floors: 19
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 175
+
+*** 5000 Montrose Boulevard ***
+Height: 75
+Floors: 22
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 176

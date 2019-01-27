@@ -1,0 +1,29 @@
+*** Oceania (1633) ***
+1. Australia, 1567
+2. New Zealand, 65
+3. Papua New Guinea, 1
+
+******************** DETAILS ********************
+
+*** Oceania ***
+3 countries: Australia, New Zealand, Papua New Guinea
+Tiers: I: 429, II: 266, III: 98, IV: 44, V: 2
+Rating: 1633 (18.3% uncompleted)
+
+*** Australia ***
+Region: Oceania
+12 cities: Melbourne, Sydney, Brisbane, Gold Coast, Perth, Parramatta, Adelaide, Canberra, Darwin, Townsville, Tweed Heads South, Blacktown
+Tiers: I: 407, II: 254, III: 93, IV: 44, V: 2
+Rating: 1567 (18.3% uncompleted)
+
+*** New Zealand ***
+Region: Oceania
+4 cities: Auckland, Wellington, Takapuna, Christchurch
+Tiers: I: 21, II: 12, III: 5
+Rating: 65 (18.5% uncompleted)
+
+*** Papua New Guinea ***
+Region: Oceania
+1 city: Port Moresby
+Tiers: I: 1
+Rating: 1

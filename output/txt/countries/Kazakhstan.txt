@@ -1,0 +1,27 @@
+*** Kazakhstan (46) ***
+1. Astana, 33
+2. Almaty, 13
+
+******************** DETAILS ********************
+
+*** Kazakhstan ***
+Region: Asia
+2 cities: Astana, Almaty
+Tiers: I: 12, II: 5, III: 4, V: 1
+Rating: 46 (17.4% uncompleted)
+
+*** Astana ***
+Country: Kazakhstan
+Region: Asia
+12 towers: Abu Dhabi Plaza, Northern Lights 1, Ministry of Transportation & Communication, Northern Lights 2, Talan Tower 1, Grand Alatau 3, Triumph of Astana, Northern Lights 3, Talan Tower 2, Mazhilis Building, Kazakhstan Pavilion and Science Museum , Astana Tower
+Tiers: I: 3, II: 5, III: 3, V: 1
+Rating: 33 (24.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Almaty ***
+Country: Kazakhstan
+Region: Asia
+10 towers: Esentai Tower, Hotel Kazakhstan, Rahat Towers 1, Rahat Towers 2, Almaty Tower 1, Almaty Tower 2, Almaty Tower 3, Almaty Tower 4, Almaty Tower 5, Almaty Tower 6
+Tiers: I: 9, III: 1
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16

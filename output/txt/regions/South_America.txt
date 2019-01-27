@@ -1,0 +1,71 @@
+*** South America (1496) ***
+1. Brazil, 1006
+2. Argentina, 202
+3. Colombia, 127
+4. Venezuela, 82
+5. Chile, 41
+6. Uruguay, 16
+7. Bolivia, 10
+8. Ecuador, 8
+9. Paraguay, 4
+
+******************** DETAILS ********************
+
+*** South America ***
+9 countries: Brazil, Argentina, Colombia, Venezuela, Chile, Uruguay, Bolivia, Ecuador, Paraguay
+Tiers: I: 360, II: 365, III: 86, IV: 9, V: 1
+Rating: 1496 (10.5% uncompleted)
+
+*** Brazil ***
+Region: South America
+37 cities: São Paulo, Fortaleza, Balneario Camboriu, Recife, Goiania, Rio de Janeiro, Joao Pessoa, Curitiba, Salvador, Chapeco, Belo Horizonte, Belem, Uberlândia, Nova Lima, Barueri, Natal, Praia Grande, Blumeanu, Londrina, Porto Alegre, Santos, Jaboatao dos Guararapes , Campinas, Brasilia, Bauru, Caxias do Sul, Uberaba, Juazeiro do Norte, Sao Bernardo do Campo, Santo André, Maringa, Juiz de Fora, Porto Velho, Cuiaba, Manaus, Novo Hamburgo, Aracaju
+Tiers: I: 288, II: 249, III: 49, IV: 4
+Rating: 1006 (13.7% uncompleted)
+
+*** Argentina ***
+Region: South America
+4 cities: Buenos Aires, Rosario, Mar del Plata, Cordoba
+Tiers: I: 36, II: 58, III: 11, IV: 1
+Rating: 202 (4.0% uncompleted)
+
+*** Colombia ***
+Region: South America
+6 cities: Bogota, Cartagena, Medellin, Cali, Barranquilla, Bucaramanga
+Tiers: I: 3, II: 12, III: 22, IV: 2
+Rating: 127 (7.9% uncompleted)
+
+*** Venezuela ***
+Region: South America
+2 cities: Caracas, Maracay
+Tiers: I: 16, II: 23, III: 2, IV: 2
+Rating: 82
+
+*** Chile ***
+Region: South America
+2 cities: Santiago, Concepcion
+Tiers: I: 7, II: 11, III: 1, V: 1
+Rating: 41
+
+*** Uruguay ***
+Region: South America
+2 cities: Montevideo, Maldonado
+Tiers: I: 4, II: 4, III: 1
+Rating: 16
+
+*** Bolivia ***
+Region: South America
+2 cities: La Paz, Santa Cruz
+Tiers: I: 2, II: 4
+Rating: 10 (10.0% uncompleted)
+
+*** Ecuador ***
+Region: South America
+2 cities: Guayaquil, Quito
+Tiers: I: 4, II: 2
+Rating: 8
+
+*** Paraguay ***
+Region: South America
+1 city: Asuncion
+Tiers: II: 2
+Rating: 4

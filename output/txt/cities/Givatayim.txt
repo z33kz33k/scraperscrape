@@ -1,0 +1,30 @@
+*** Givatayim (5) ***
+1. The Shahar Tower, 202m
+2. Vered Tower, 102m
+
+******************** DETAILS ********************
+
+*** Givatayim ***
+Country: Israel
+Region: Middle East
+2 towers: The Shahar Tower, Vered Tower
+Tiers: I: 1, III: 1
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Shahar Tower ***
+Height: 201.5
+Floors: 52
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential / office
+Rank: 1
+
+*** Vered Tower ***
+Height: 102
+Floors: 27
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 2

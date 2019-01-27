@@ -1,0 +1,63 @@
+*** Colombia (127) ***
+1. Bogota, 66
+2. Cartagena, 28
+3. Medellin, 12
+4. Cali, 9
+5. Barranquilla, 8
+6. Bucaramanga, 4
+
+******************** DETAILS ********************
+
+*** Colombia ***
+Region: South America
+6 cities: Bogota, Cartagena, Medellin, Cali, Barranquilla, Bucaramanga
+Tiers: I: 3, II: 12, III: 22, IV: 2
+Rating: 127 (7.9% uncompleted)
+
+*** Bogota ***
+Country: Colombia
+Region: South America
+18 towers: BD Bacata Torre 1, BD Bacata Torre 2, Atrio North Tower, Torre Colpatria, Centro de Comercio Internacional, Museo Parque Central, North Point V, Torre E, Ciudadela San Martin Torre Norte, America World Trade Center Tower I, Edificio Avianca, Ciudadela San Mart&iacute;n Torre Sur, Torre Krystal, Contraloria General de la Nacion, Edificio Colseguros, North Point 3, Edificio Seguros Tequendama, America World Trade Center Tower II
+Tiers: II: 5, III: 11, IV: 2
+Rating: 66 (15.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cartagena ***
+Country: Colombia
+Region: South America
+9 towers: Hotel Estelar Bocagrande, Hyatt Regency Bocagrande, Grand Bay Club, Palmetto Eliptic, Morros City, Edificio Horizontes, Palmetto Bocagrande, Parke 475, Ocean Tower
+Tiers: II: 4, III: 5
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Medellin ***
+Country: Colombia
+Region: South America
+5 towers: Edificio Coltejer, Torre del Cafe, Edificio Camara de Comercio, Palacio de Justicia de Medellín, Intermedica Centro de Especialistas
+Tiers: I: 2, II: 1, III: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Cali ***
+Country: Colombia
+Region: South America
+4 towers: Torre de Cali, Edificio Corficolombiana, Torre Banco Popular, Edificio Carvajal
+Tiers: I: 1, II: 2, III: 1
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Barranquilla ***
+Country: Colombia
+Region: South America
+2 towers: Mirage 57, Edificio Grattacielo
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bucaramanga ***
+Country: Colombia
+Region: South America
+1 tower: Majestic
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16

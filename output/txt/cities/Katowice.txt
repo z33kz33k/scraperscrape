@@ -1,0 +1,38 @@
+*** Katowice (4) ***
+1. Altus, 125m
+2. Stalexport I, 97m
+3. Stalexport II, 92m
+
+******************** DETAILS ********************
+
+*** Katowice ***
+Country: Poland
+Region: Europe
+3 towers: Altus, Stalexport I, Stalexport II
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Altus ***
+Height: 125
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 1
+
+*** Stalexport I ***
+Height: 97
+Floors: 21
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 2
+
+*** Stalexport II ***
+Height: 92
+Floors: 19
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 3

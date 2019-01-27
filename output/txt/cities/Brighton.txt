@@ -1,0 +1,21 @@
+*** Brighton (1) ***
+1. Sussex Heights, 82m
+
+******************** DETAILS ********************
+
+*** Brighton ***
+Country: United Kingdom
+Region: Europe
+1 tower: Sussex Heights
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sussex Heights ***
+Height: 82.3
+Floors: 26
+Status: Completed
+Started: 1966
+Completed: 1968
+Functions: residential
+Rank: 1

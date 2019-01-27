@@ -1,0 +1,20 @@
+*** Kelowna (1) ***
+1. Landmark VI, 81m
+
+******************** DETAILS ********************
+
+*** Kelowna ***
+Country: Canada
+Region: North America
+1 tower: Landmark VI
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Landmark VI ***
+Height: 81
+Floors: 17
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 1

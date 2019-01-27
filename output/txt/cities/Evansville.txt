@@ -1,0 +1,21 @@
+*** Evansville (1) ***
+1. The 420 Building, 76m
+
+******************** DETAILS ********************
+
+*** Evansville ***
+Country: United States
+Region: North America
+1 tower: The 420 Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The 420 Building ***
+Height: 75.59
+Floors: 18
+Status: Completed
+Started: 1967
+Completed: 1970
+Functions: office
+Rank: 1

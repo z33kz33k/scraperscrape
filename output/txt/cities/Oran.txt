@@ -1,0 +1,61 @@
+*** Oran (9) ***
+1. Bahia Center Tower A, 111m
+2. Bahia Center Tower B, 111m
+3. Bahia Center Tower C, 111m
+4. Bahia Center Tower D, 111m
+5. Sheraton Oran Hotel, 77m
+
+******************** DETAILS ********************
+
+*** Oran ***
+Country: Algeria
+Region: Africa
+5 towers: Bahia Center Tower A, Bahia Center Tower B, Bahia Center Tower C, Bahia Center Tower D, Sheraton Oran Hotel
+Tiers: I: 1, II: 4
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bahia Center Tower A ***
+Height: 111
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** Bahia Center Tower B ***
+Height: 111
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2014
+Functions: residential
+Rank: 1
+
+*** Bahia Center Tower C ***
+Height: 111
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Bahia Center Tower D ***
+Height: 111
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 1
+
+*** Sheraton Oran Hotel ***
+Height: 77
+Floors: 19
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: hotel
+Rank: 5

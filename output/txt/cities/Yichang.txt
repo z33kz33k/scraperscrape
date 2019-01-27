@@ -1,0 +1,20 @@
+*** Yichang (4) ***
+1. Junyao Times Square, 165m
+
+******************** DETAILS ********************
+
+*** Yichang ***
+Country: China
+Region: Asia
+1 tower: Junyao Times Square
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Junyao Times Square ***
+Height: 165
+Floors: 38
+Status: Completed
+Completed: 2005
+Functions: hotel / retail
+Rank: 1

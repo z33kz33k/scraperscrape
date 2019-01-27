@@ -1,0 +1,21 @@
+*** Semarang (1) ***
+1. Best Western Star Hotel & Apartment, 103m
+
+******************** DETAILS ********************
+
+*** Semarang ***
+Country: Indonesia
+Region: Asia
+1 tower: Best Western Star Hotel & Apartment
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Best Western Star Hotel & Apartment ***
+Height: 103
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: hotel
+Rank: 1

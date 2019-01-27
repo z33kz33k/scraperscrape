@@ -1,0 +1,29 @@
+*** El Paso (2) ***
+1. Wells Fargo Plaza, 90m
+2. Chase Tower, 76m
+
+******************** DETAILS ********************
+
+*** El Paso ***
+Country: United States
+Region: North America
+2 towers: Wells Fargo Plaza, Chase Tower
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Wells Fargo Plaza ***
+Height: 90.22
+Floors: 22
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 1
+
+*** Chase Tower ***
+Height: 76.2
+Floors: 20
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 2

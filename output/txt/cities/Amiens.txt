@@ -1,0 +1,19 @@
+*** Amiens (2) ***
+1. Tour Perret, 110m
+
+******************** DETAILS ********************
+
+*** Amiens ***
+Country: France
+Region: Europe
+1 tower: Tour Perret
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour Perret ***
+Height: 110
+Floors: 27
+Status: Completed
+Completed: 1952
+Rank: 1

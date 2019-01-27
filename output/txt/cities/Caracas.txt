@@ -1,0 +1,395 @@
+*** Caracas (80) ***
+1.  Parque Central Torre Officinas I, 225m
+2.  Parque Central Torre Officinas II, 225m
+3.  Banco Mercantil, 179m
+4.  Torre BBVA Banco Provincial, 159m
+5.  Edificio Citibank, 125m
+6.  Torre Movilnet, 125m
+7.  Torre CorpBanca, 124m
+8.  Torre Polar II, 122m
+9.  Torre Humbolt, 120m
+10. Residencias Anauco, 120m
+11. Residencias Caroata, 120m
+12. Residencias Catuche, 120m
+13. Residencias El Tejar, 120m
+14. Residencias Mohedano, 120m
+15. Residencias San Martin, 120m
+16. Residencias Tacaqua, 120m
+17. Residencias Tajamar, 120m
+18. Torre Banco Plaza, 119m
+19. Altamira Four Seasons Hotel, 118m
+20. Previsora Tower, 117m
+21. Banco Central de Venezuela, 117m
+22. Torre Phelps, 112m
+23. Residencias Pórtico del Este I, 110m
+24. Residencias Pórtico del Este II, 110m
+25. Torre Domus, 110m
+26. Torre Banesco, 107m
+27. Hotel Alba Caracas, 103m
+28. Simon Bolivar Center 1, 103m
+29. Simon Bolivar Center 2, 103m
+30. Parque Cristal, 103m
+31. Conjunto Residencial Bello Monte Este, 100m
+32. Conjunto Residencial Bello Monte Oeste, 100m
+33. Centro Empresarial Sabana Grande, 97m
+34. Centro Letonia, 95m
+35. Torre Hewlett Packard Norte, 92m
+36. Torre Hewlett Packard Sur, 92m
+37. Torre Polar I, 87m
+38. Centro Plaza I, 78m
+39. Centro Plaza II, 78m
+40. Residencias San Juan Torre A, 76m
+41. Residencias San Juan Torre B, 76m
+42. Residencias San Juan Torre C, 76m
+
+******************** DETAILS ********************
+
+*** Caracas ***
+Country: Venezuela
+Region: South America
+42 towers: Parque Central Torre Officinas I, Parque Central Torre Officinas II, Banco Mercantil, Torre BBVA Banco Provincial, Edificio Citibank, Torre Movilnet, Torre CorpBanca, Torre Polar II, Torre Humbolt, Residencias Anauco, Residencias Caroata, Residencias Catuche, Residencias El Tejar, Residencias Mohedano, Residencias San Martin, Residencias Tacaqua, Residencias Tajamar, Torre Banco Plaza, Altamira Four Seasons Hotel, Previsora Tower, Banco Central de Venezuela, Torre Phelps, Residencias Pórtico del Este I, Residencias Pórtico del Este II, Torre Domus, Torre Banesco, Hotel Alba Caracas, Simon Bolivar Center 1, Simon Bolivar Center 2, Parque Cristal, Conjunto Residencial Bello Monte Este, Conjunto Residencial Bello Monte Oeste, Centro Empresarial Sabana Grande, Centro Letonia, Torre Hewlett Packard Norte, Torre Hewlett Packard Sur, Torre Polar I, Centro Plaza I, Centro Plaza II, Residencias San Juan Torre A, Residencias San Juan Torre B, Residencias San Juan Torre C
+Tiers: I: 16, II: 22, III: 2, IV: 2
+Rating: 80
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Parque Central Torre Officinas I ***
+Height: 225
+Floors: 56
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 1
+
+*** Parque Central Torre Officinas II ***
+Height: 225
+Floors: 56
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 1
+
+*** Banco Mercantil ***
+Height: 179
+Floors: 40
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 3
+
+*** Torre BBVA Banco Provincial ***
+Height: 159
+Floors: 35
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 4
+
+*** Edificio Citibank ***
+Height: 125
+Floors: 28
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 5
+
+*** Torre Movilnet ***
+Height: 125
+Floors: 28
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 5
+
+*** Torre CorpBanca ***
+Height: 124
+Floors: 30
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 7
+
+*** Torre Polar II ***
+Height: 121.9
+Floors: 26
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 8
+
+*** Torre Humbolt ***
+Height: 120.1
+Floors: 26
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 9
+
+*** Residencias Anauco ***
+Height: 120
+Floors: 44
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 10
+
+*** Residencias Caroata ***
+Height: 120
+Floors: 44
+Status: Completed
+Started: 1968
+Completed: 1972
+Functions: residential
+Rank: 10
+
+*** Residencias Catuche ***
+Height: 120
+Floors: 44
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 10
+
+*** Residencias El Tejar ***
+Height: 120
+Floors: 44
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 10
+
+*** Residencias Mohedano ***
+Height: 120
+Floors: 44
+Status: Completed
+Started: 1968
+Completed: 1970
+Functions: residential
+Rank: 10
+
+*** Residencias San Martin ***
+Height: 120
+Floors: 44
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 10
+
+*** Residencias Tacaqua ***
+Height: 120
+Floors: 44
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 10
+
+*** Residencias Tajamar ***
+Height: 120
+Floors: 44
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: residential
+Rank: 10
+
+*** Torre Banco Plaza ***
+Height: 118.9
+Floors: 24
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 18
+
+*** Altamira Four Seasons Hotel ***
+Height: 118
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 19
+
+*** Previsora Tower ***
+Height: 117
+Floors: 32
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 20
+
+*** Banco Central de Venezuela ***
+Height: 117
+Floors: 26
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 21
+
+*** Torre Phelps ***
+Height: 111.9
+Floors: 30
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 22
+
+*** Residencias Pórtico del Este I ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 23
+
+*** Residencias Pórtico del Este II ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 23
+
+*** Torre Domus ***
+Height: 110
+Floors: 22
+Status: Completed
+Started: 1992
+Completed: 1994
+Functions: office
+Rank: 25
+
+*** Torre Banesco ***
+Height: 107
+Floors: 23
+Status: Completed
+Functions: office
+Rank: 26
+
+*** Hotel Alba Caracas ***
+Height: 103
+Floors: 32
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 27
+
+*** Simon Bolivar Center 1 ***
+Height: 103
+Floors: 32
+Status: Completed
+Started: 1948
+Completed: 1954
+Functions: office
+Rank: 27
+
+*** Simon Bolivar Center 2 ***
+Height: 103
+Floors: 32
+Status: Completed
+Started: 1948
+Completed: 1954
+Functions: office
+Rank: 27
+
+*** Parque Cristal ***
+Height: 103
+Floors: 26
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 30
+
+*** Conjunto Residencial Bello Monte Este ***
+Height: 100
+Floors: 29
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 31
+
+*** Conjunto Residencial Bello Monte Oeste ***
+Height: 100
+Floors: 29
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 31
+
+*** Centro Empresarial Sabana Grande ***
+Height: 96.9
+Floors: 24
+Status: Completed
+Functions: office
+Rank: 33
+
+*** Centro Letonia ***
+Height: 95.1
+Floors: 17
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 34
+
+*** Torre Hewlett Packard Norte ***
+Height: 92
+Floors: 20
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 35
+
+*** Torre Hewlett Packard Sur ***
+Height: 92
+Floors: 20
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 35
+
+*** Torre Polar I ***
+Height: 86.9
+Floors: 19
+Status: Completed
+Completed: 1951
+Functions: office
+Rank: 37
+
+*** Centro Plaza I ***
+Height: 78
+Floors: 19
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 38
+
+*** Centro Plaza II ***
+Height: 78
+Floors: 19
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 38
+
+*** Residencias San Juan Torre A ***
+Height: 76
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 40
+
+*** Residencias San Juan Torre B ***
+Height: 76
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 40
+
+*** Residencias San Juan Torre C ***
+Height: 76
+Floors: 28
+Status: Completed
+Functions: residential
+Rank: 40

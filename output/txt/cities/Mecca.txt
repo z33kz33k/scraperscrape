@@ -1,0 +1,107 @@
+*** Mecca (64) ***
+1.  Makkah Royal Clock Tower, 601m
+2.  Abraj Al Bait ZamZam Tower, 279m
+3.  Abraj Al Bait Hajar Tower, 276m
+4.  Abraj Al Bait Maqam Tower, 232m
+5.  Abraj Al Bait Qibla Tower, 232m
+6.  Abraj Al Bait Marwah Tower, 232m
+7.  Abraj Al Bait Safa Tower, 232m
+8.  Abraj Kudai T6A and T6B, 230m
+9.  Jabal Omar Hotel Tower 1, 213m
+10. Jabal Omar Hotel Tower 2, 213m
+
+******************** DETAILS ********************
+
+*** Mecca ***
+Country: Saudi Arabia
+Region: Middle East
+10 towers: Makkah Royal Clock Tower, Abraj Al Bait ZamZam Tower, Abraj Al Bait Hajar Tower, Abraj Al Bait Maqam Tower, Abraj Al Bait Qibla Tower, Abraj Al Bait Marwah Tower, Abraj Al Bait Safa Tower, Abraj Kudai T6A and T6B, Jabal Omar Hotel Tower 1, Jabal Omar Hotel Tower 2
+Tiers: IV: 9, VI: 1
+Rating: 64 (28.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Makkah Royal Clock Tower ***
+Height: 601
+Floors: 120
+Status: Completed
+Started: 2002
+Completed: 2012
+Functions: other / hotel
+Rank: 1
+
+*** Abraj Al Bait ZamZam Tower ***
+Height: 279
+Floors: 58
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 2
+
+*** Abraj Al Bait Hajar Tower ***
+Height: 276
+Floors: 54
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 3
+
+*** Abraj Al Bait Maqam Tower ***
+Height: 232.4
+Floors: 61
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 4
+
+*** Abraj Al Bait Qibla Tower ***
+Height: 232.4
+Floors: 61
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 4
+
+*** Abraj Al Bait Marwah Tower ***
+Height: 232
+Floors: 46
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 6
+
+*** Abraj Al Bait Safa Tower ***
+Height: 232
+Floors: 46
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 6
+
+*** Abraj Kudai T6A and T6B ***
+Height: 230
+Floors: 45
+Status: Under Construction
+Started: 2014
+Completed: 2020
+Functions: hotel / retail
+Rank: 8
+
+*** Jabal Omar Hotel Tower 1 ***
+Height: 212.67
+Floors: 50
+Status: Under Construction
+Started: 2003
+Completed: 2019
+Functions: hotel
+Rank: 9
+
+*** Jabal Omar Hotel Tower 2 ***
+Height: 212.67
+Floors: 50
+Status: Under Construction
+Started: 2003
+Completed: 2019
+Functions: hotel
+Rank: 9

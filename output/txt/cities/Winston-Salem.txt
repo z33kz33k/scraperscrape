@@ -1,0 +1,79 @@
+*** Winston-Salem (9) ***
+1. 100 North Main Street, 140m
+2. Winston Tower, 125m
+3. 500 West Fifth Street, 101m
+4. Reynolds Building, 96m
+5. BB&T Financial Center, 83m
+6. Reynolds Plaza, 82m
+7. Nissen Building, 75m
+
+******************** DETAILS ********************
+
+*** Winston-Salem ***
+Country: United States
+Region: North America
+7 towers: 100 North Main Street, Winston Tower, 500 West Fifth Street, Reynolds Building, BB&T Financial Center, Reynolds Plaza, Nissen Building
+Tiers: I: 5, II: 2
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** 100 North Main Street ***
+Height: 140.21
+Floors: 34
+Status: Completed
+Started: 1994
+Completed: 1995
+Functions: office
+Rank: 1
+
+*** Winston Tower ***
+Height: 124.97
+Floors: 29
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 2
+
+*** 500 West Fifth Street ***
+Height: 100.59
+Floors: 21
+Status: Completed
+Started: 1978
+Completed: 1980
+Functions: office
+Rank: 3
+
+*** Reynolds Building ***
+Height: 95.72
+Floors: 21
+Status: Completed
+Started: 1928
+Completed: 1929
+Functions: residential / hotel
+Rank: 4
+
+*** BB&T Financial Center ***
+Height: 83.2
+Floors: 21
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 5
+
+*** Reynolds Plaza ***
+Height: 82
+Floors: 18
+Status: Completed
+Started: 1980
+Completed: 1982
+Functions: office
+Rank: 6
+
+*** Nissen Building ***
+Height: 75
+Floors: 20
+Status: Completed
+Started: 1926
+Completed: 1927
+Functions: residential
+Rank: 7

@@ -1,0 +1,18 @@
+*** Rwanda (1) ***
+1. Kigali, 1
+
+******************** DETAILS ********************
+
+*** Rwanda ***
+Region: Africa
+1 city: Kigali
+Tiers: I: 1
+Rating: 1
+
+*** Kigali ***
+Country: Rwanda
+Region: Africa
+1 tower: Kigali City Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

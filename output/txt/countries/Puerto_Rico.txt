@@ -1,0 +1,18 @@
+*** Puerto Rico (1) ***
+1. San Juan, 1
+
+******************** DETAILS ********************
+
+*** Puerto Rico ***
+Region: Central America
+1 city: San Juan
+Tiers: I: 1
+Rating: 1
+
+*** San Juan ***
+Country: Puerto Rico
+Region: Central America
+1 tower: Coliseum Tower Residences
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

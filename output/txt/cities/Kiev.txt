@@ -1,0 +1,150 @@
+*** Kiev (28) ***
+1.  Klovski Descent 7A, 163m
+2.  Gulliver, 141m
+3.  Parus Business Center, 136m
+4.  1 Sribnokilska, 128m
+5.  Crown, 128m
+6.  Kiev Court of Appeals, 127m
+7.  Prospect Heroiv Stalingradu 2, 122m
+8.  Silver Breeze 1, 119m
+9.  Silver Breeze 2, 119m
+10. Silver Breeze 3, 119m
+11. 101 Tower, 116m
+12. Ministry of Transport, 106m
+13. PecherSky, 105m
+14. Olympic, 105m
+
+******************** DETAILS ********************
+
+*** Kiev ***
+Country: Ukraine
+Region: Europe
+14 towers: Klovski Descent 7A, Gulliver, Parus Business Center, 1 Sribnokilska, Crown, Kiev Court of Appeals, Prospect Heroiv Stalingradu 2, Silver Breeze 1, Silver Breeze 2, Silver Breeze 3, 101 Tower, Ministry of Transport, PecherSky, Olympic
+Tiers: I: 2, II: 11, III: 1
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Klovski Descent 7A ***
+Height: 162.6
+Floors: 47
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 1
+
+*** Gulliver ***
+Height: 141.2
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 2
+
+*** Parus Business Center ***
+Height: 136
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: office
+Rank: 3
+
+*** 1 Sribnokilska ***
+Height: 128
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 4
+
+*** Crown ***
+Height: 128
+Floors: 39
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 4
+
+*** Kiev Court of Appeals ***
+Height: 127
+Floors: 27
+Status: Completed
+Started: 1980
+Completed: 2006
+Functions: government
+Rank: 6
+
+*** Prospect Heroiv Stalingradu 2 ***
+Height: 122.3
+Floors: 31
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: residential
+Rank: 7
+
+*** Silver Breeze 1 ***
+Height: 119.2
+Floors: 32
+Status: Completed
+Started: 2002
+Completed: 2010
+Functions: residential
+Rank: 8
+
+*** Silver Breeze 2 ***
+Height: 119.2
+Floors: 32
+Status: Completed
+Started: 2002
+Completed: 2010
+Functions: residential
+Rank: 8
+
+*** Silver Breeze 3 ***
+Height: 119.2
+Floors: 32
+Status: Completed
+Started: 2002
+Completed: 2010
+Functions: residential
+Rank: 8
+
+*** 101 Tower ***
+Height: 116.1
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 11
+
+*** Ministry of Transport ***
+Height: 106
+Floors: 28
+Status: Completed
+Started: 1974
+Completed: 1986
+Functions: office / government
+Rank: 12
+
+*** PecherSky ***
+Height: 105.3
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 13
+
+*** Olympic ***
+Height: 105
+Floors: 32
+Status: Completed
+Completed: 2005
+Functions: residential / hotel / office
+Rank: 14

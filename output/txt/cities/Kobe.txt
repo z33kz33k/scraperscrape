@@ -1,0 +1,147 @@
+*** Kobe (39) ***
+1.  City Tower Kobe Sannomiya, 190m
+2.  Mikage Tower Residence, 170m
+3.  Kansai Electric Power Kobe Building, 170m
+4.  Shin-Kobe Oriental City, 158m
+5.  D'Grafort Kobe Sannomiya Tower, 152m
+6.  G-Clef Shinkobe Tower, 151m
+7.  Sannomiya Museum Tower, 142m
+8.  Hotel Okura, 135m
+9.  Kobe Crystal Tower, 135m
+10. Kobe City Hall, 132m
+11. Sun City Tower Kobe, 132m
+12. Kobe Arts Center, 131m
+13. Hyogo Prefectural Police Headquarters, 110m
+14. Proud Tower Kobe Kenchomae, 98m
+
+******************** DETAILS ********************
+
+*** Kobe ***
+Country: Japan
+Region: Asia
+14 towers: City Tower Kobe Sannomiya, Mikage Tower Residence, Kansai Electric Power Kobe Building, Shin-Kobe Oriental City, D'Grafort Kobe Sannomiya Tower, G-Clef Shinkobe Tower, Sannomiya Museum Tower, Hotel Okura, Kobe Crystal Tower, Kobe City Hall, Sun City Tower Kobe, Kobe Arts Center, Hyogo Prefectural Police Headquarters, Proud Tower Kobe Kenchomae
+Tiers: I: 1, II: 7, III: 6
+Rating: 39
+Scraped on: 2019-Jan-20 16:05:16
+
+*** City Tower Kobe Sannomiya ***
+Height: 190
+Floors: 54
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential / hotel
+Rank: 1
+
+*** Mikage Tower Residence ***
+Height: 170
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 2
+
+*** Kansai Electric Power Kobe Building ***
+Height: 170
+Floors: 18
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 3
+
+*** Shin-Kobe Oriental City ***
+Height: 158
+Floors: 37
+Status: Completed
+Completed: 1988
+Functions: hotel
+Rank: 4
+
+*** D'Grafort Kobe Sannomiya Tower ***
+Height: 151.97
+Floors: 43
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 5
+
+*** G-Clef Shinkobe Tower ***
+Height: 150.9
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 6
+
+*** Sannomiya Museum Tower ***
+Height: 142.3
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 7
+
+*** Hotel Okura ***
+Height: 135
+Floors: 35
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: hotel
+Rank: 8
+
+*** Kobe Crystal Tower ***
+Height: 135
+Floors: 32
+Status: Completed
+Started: 1991
+Completed: 1993
+Functions: office
+Rank: 9
+
+*** Kobe City Hall ***
+Height: 132
+Floors: 30
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: government
+Rank: 10
+
+*** Sun City Tower Kobe ***
+Height: 131.8
+Floors: 35
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** Kobe Arts Center ***
+Height: 131.1
+Floors: 37
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 12
+
+*** Hyogo Prefectural Police Headquarters ***
+Height: 110
+Floors: 23
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 13
+
+*** Proud Tower Kobe Kenchomae ***
+Height: 98
+Floors: 29
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 14

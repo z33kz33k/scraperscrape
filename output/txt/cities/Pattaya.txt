@@ -1,0 +1,186 @@
+*** Pattaya (66) ***
+1.  Reflection Jomtien Beach Oceanfront Tower 1, 234m
+2.  North Point Tower 1, 226m
+3.  Zire Wongamat Tower A, 188m
+4.  Reflection Jomtien Beach Oceanview Tower 2, 183m
+5.  Pattaya Park Beach Hotel, 180m
+6.  North Point Tower 2, 177m
+7.  Park Plaza Waterfront, 173m
+8.  Cetus, 161m
+9.  The Palm Wongamat Beach Tower A, 160m
+10. Mövenpick Siam Hotel & Residences, 155m
+11. Centric Sea Pattaya Tower A, 153m
+12. Unixx Tower I, 152m
+13. The Riviera South Tower, 151m
+14. The Riviera Jomtien, 149m
+15. Sky Beach Condominium Tower A, 145m
+16. Metro Jomtien Condotel, 140m
+17. The Riviera North Tower, 140m
+18. Aeras Condominium, 138m
+
+******************** DETAILS ********************
+
+*** Pattaya ***
+Country: Thailand
+Region: Asia
+18 towers: Reflection Jomtien Beach Oceanfront Tower 1, North Point Tower 1, Zire Wongamat Tower A, Reflection Jomtien Beach Oceanview Tower 2, Pattaya Park Beach Hotel, North Point Tower 2, Park Plaza Waterfront, Cetus, The Palm Wongamat Beach Tower A, Mövenpick Siam Hotel & Residences, Centric Sea Pattaya Tower A, Unixx Tower I, The Riviera South Tower, The Riviera Jomtien, Sky Beach Condominium Tower A, Metro Jomtien Condotel, The Riviera North Tower, Aeras Condominium
+Tiers: II: 5, III: 11, IV: 2
+Rating: 66 (9.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Reflection Jomtien Beach Oceanfront Tower 1 ***
+Height: 234
+Floors: 57
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 1
+
+*** North Point Tower 1 ***
+Height: 226
+Floors: 57
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 2
+
+*** Zire Wongamat Tower A ***
+Height: 188
+Floors: 54
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Reflection Jomtien Beach Oceanview Tower 2 ***
+Height: 182.75
+Floors: 44
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 4
+
+*** Pattaya Park Beach Hotel ***
+Height: 180
+Floors: 55
+Status: Completed
+Completed: 1995
+Functions: hotel
+Rank: 5
+
+*** North Point Tower 2 ***
+Height: 177
+Floors: 46
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 6
+
+*** Park Plaza Waterfront ***
+Height: 173
+Floors: 54
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2018
+Functions: residential / hotel
+Rank: 7
+
+*** Cetus ***
+Height: 160.65
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 8
+
+*** The Palm Wongamat Beach Tower A ***
+Height: 160
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** Mövenpick Siam Hotel & Residences ***
+Height: 154.8
+Floors: 37
+Status: Completed
+Started: 2006
+Functions: hotel / residential
+Rank: 10
+
+*** Centric Sea Pattaya Tower A ***
+Height: 153
+Floors: 44
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Unixx Tower I ***
+Height: 152
+Floors: 48
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 12
+
+*** The Riviera South Tower ***
+Height: 150.8
+Floors: 43
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** The Riviera Jomtien ***
+Height: 149.1
+Floors: 46
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 14
+
+*** Sky Beach Condominium Tower A ***
+Height: 145
+Floors: 47
+Status: Completed
+Completed: 1993
+Functions: residential
+Rank: 15
+
+*** Metro Jomtien Condotel ***
+Height: 140
+Floors: 44
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 16
+
+*** The Riviera North Tower ***
+Height: 139.8
+Floors: 40
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 17
+
+*** Aeras Condominium ***
+Height: 138.5
+Floors: 38
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 18

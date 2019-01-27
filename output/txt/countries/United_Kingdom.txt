@@ -1,0 +1,180 @@
+*** United Kingdom (459) ***
+1.  London, 366
+2.  Manchester, 35
+3.  Birmingham, 16
+4.  Salford, 11
+5.  Glasgow, 6
+6.  Leeds, 4
+7.  Sheffield, 3
+8.  Belfast, 3
+9.  Leicester, 3
+10. Cardiff, 2
+11. Swansea, 2
+12. Wolverhampton, 1
+13. Portsmouth, 1
+14. Hemel Hempstead, 1
+15. Plymouth, 1
+16. Newcastle upon Tyne, 1
+17. Brighton, 1
+18. Bristol, 1
+19. Southampton, 1
+
+******************** DETAILS ********************
+
+*** United Kingdom ***
+Region: Europe
+19 cities: London, Manchester, Birmingham, Salford, Glasgow, Leeds, Sheffield, Belfast, Leicester, Cardiff, Swansea, Wolverhampton, Portsmouth, Hemel Hempstead, Plymouth, Newcastle upon Tyne, Brighton, Bristol, Southampton
+Tiers: I: 175, II: 63, III: 27, IV: 7, V: 1
+Rating: 459 (33.1% uncompleted)
+
+*** London ***
+Country: United Kingdom
+Region: Europe
+204 towers: The Shard, Twentytwo, One Canada Square, Landmark Pinnacle, Salesforce Tower, The Leadenhall Building, Newfoundland, Valiant Tower, One Park Drive, 25 Canada Square, 8 Canada Square, City Tower, The Scalpel, Wardian East Tower, Tower 42, The Madison, The Tower, One St George Wharf, 30 St Mary Axe, 100 Bishopsgate, AYKON London One, Wardian West Tower, One Blackfriars, Principal Tower , The Broadgate Tower, 20 Fenchurch Street, River Tower, One Churchill Place, 25 Bank Street, 40 Bank Street, 10 Upper Bank Street, South Bank Tower, Carrara Tower, Arena Tower, 10 Park Drive, Castilla, Guy's Tower, Pan Peninsula East Tower, Strata, 1 Bank Street, Harbour Central-Maine Tower, Manhattan Loft Gardens, Imperial West Tower, Landmark East Tower, Providence Tower, Pan Pacific Hotel, 101 George Street, Atlas, Pinnacle Apartments, Stratford Halo, Keybridge Lofts, Valencia Tower, The GRID Building, CityPoint, The Stage, Nine Elms Point, Albert Point, Two Fifty One, Harbour Central-Block C, The Willis Building, Euston Tower, One Crown Place South, One The Elephant, Cromwell Tower, Lauderdale Tower, Shakespeare Tower, Chelsea Waterfront-West Tower, One Casson Square, Pan Peninsula West Tower, Vauxhall Sky Gardens, Novotel Canary Wharf, Millbank Tower, 25 Churchill Place, Aviva Tower, Centre Point, Stratosphere Tower, Chronicle Tower, East Village Site N08 Tower 2, The Heron, Chapter London Spitalfields, Capital Towers-Sky View Tower, Dollar Bay, No. 1 West India Quay, Shell Centre, One Crown Place North, Ontario Tower, 30 Casson Square, 33 Canada Square, Shoreditch Highgate Hotel, Pioneer Point Tower 2, 99 Bishopsgate, 125 Old Broad Street, Stratford Central-Legacy Tower, Empress State Building, Upper Riverside-Building 5, West End Gate-Tower A, West Grove-The Highwood, Woodberry Down-Skyline, Portland House, The London Hilton on Park Lane, Angel Court, 4 Casson Square, East Village Site N08 Tower 1, Trellick Tower, The Atlas, Shard Place, Upper Riverside-Building 4, Canaletto, The Waterman, The Dumont, Ropemaker, Cassia Point, The Lloyd's Building, Lincoln Plaza-Franklin Tower, Landmark West Tower, Vauxhall Square-Miles Street South, Harbour Central-Block A, Upper Riverside-Building 3, Knightsbridge Barracks, Holiday Inn Kensington Forum, Stratford Plaza, Kew Eye, 206-214 High Street, Conquest Tower, 20 Gracechurch, London Hilton Metropole, Duncan House, Lombard Wharf, 200 Aldersgate Street, 70 St. Mary Axe, Stratford Riverside, Nine Elms Point, Doulton Point, Harbour Central-Block B2, 11 Mapleton Crescent, International Quarter Site S5, City Island-Caledonia House, Ontario Point, Arora Tower, Nova Victoria-South, The Royal London Hospital, 240 Blackfriars Road, Hawfinch House, Merano Residences, Chelsea Waterfront East Tower, The Corniche, Building 2, London Television Centre, Balfron Tower, Altitude Aldgate, Unite Stratford One, The Liberty Building, Apex House, NEO Bankside Building C, One Croydon, Athena Court, Distillery Tower, The Eagle, The Triton Building, Pioneer Point Tower 1, Streamlight Tower, Marlin Apartments, Aldgate Place, Central Tower, 30 Crown Place, Moor House, Lewisham Gateway-Portrait, One Creechurch Place, Tolworth Tower, Horizons, Urbanest King's Cross, Two Southbank Place, The Lighterman, Peregrine House, Woodberry Down-Residence, Wembley Point, 6-8 Bishopsgate, St. George's House, Upper Riverside-Building 2, One Commercial Street, Aldgate Place, Gateway Tower, Blackwall Reach-Plot H, Aldgate Tower, Whitgift Centre-Centre Tower, Copperas Street Development, Aberfield Estate-Maydew House, Pepy's Estate-Daubeney Tower, Pepy's Estate-Eddystone Tower, Sienna Alto, The News Building, Chelsea Creek-The Tower, University College London Hospital, Marner Point, Grampian House, Mendip House, Pennine House, Elektron Tower, The Corniche, Building 1, Elephant 1 Block A, Apex Tower, City Island-Dawsonne House, Goodman's Fields-Tower 7, Rothschild Bank Headquarters, White Collar Factory, Nightingale Heights, City Island-Bridgwater House, One Tower Bridge Building D, Vermilion, Charing Cross Hospital, Main Building
+Tiers: I: 122, II: 51, III: 23, IV: 7, V: 1
+Rating: 366 (33.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Manchester ***
+Country: United Kingdom
+Region: Europe
+17 towers: Deansgate Square South Tower, Beetham Tower, Deansgate Square East Tower, Elizabeth Tower , Deansgate Square West Tower, Deansgate Square North Tower, C.I.S. Solar Tower, NOMA Angel Gardens Tower, City Tower, No. 1 Great Marlborough Street, No 1 Spinningfields, Arndale House, Axis Tower, 1 Water Street, Manchester Civil Justice Centre, Great Northern Tower, Manchester One
+Tiers: I: 7, II: 6, III: 4
+Rating: 35 (54.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Birmingham ***
+Country: United Kingdom
+Region: Europe
+14 towers: 10 Holloway Circus, Beorma Tower, 103 Colmore Row, The Bank Tower 2, Alpha Tower, Cleveland Tower, Clydesdale Tower, Orion Tower, The Rotunda, City Centre Tower, Five Ways Tower, Centre City Tower, Hyatt Regency Birmingham, Two Snowhill
+Tiers: I: 12, II: 2
+Rating: 16 (25.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Salford ***
+Country: United Kingdom
+Region: Europe
+9 towers: 100 Greengate, Affinity Living Riverview, Blue Tower, The Residence Greengate Tower 1, TheHeart, X1 Media City-Tower 1, City Heights/Premier Inn, NumberOne, Briar Hill Court
+Tiers: I: 7, II: 2
+Rating: 11 (45.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Glasgow ***
+Country: United Kingdom
+Region: Europe
+6 towers: 10 Red Road Court, 123 Petershill Drive, 33 Petershill Drive, 63 Petershill Drive, 93 Petershill Drive, 10 Petershill Court
+Tiers: I: 6
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Leeds ***
+Country: United Kingdom
+Region: Europe
+3 towers: Bridgewater Place, Sky Plaza, Arena Point
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sheffield ***
+Country: United Kingdom
+Region: Europe
+3 towers: St. Paul's Tower, Arts Tower, Royal Hallamshire Hospital
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Belfast ***
+Country: United Kingdom
+Region: Europe
+3 towers: Obel Tower, Windsor House, Belfast City Hospital Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Leicester ***
+Country: United Kingdom
+Region: Europe
+3 towers: Cardinal Telephone Exchange, St Georges Central, St Georges Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cardiff ***
+Country: United Kingdom
+Region: Europe
+2 towers: Capital Tower, BT Stadium House
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Swansea ***
+Country: United Kingdom
+Region: Europe
+1 tower: The Tower at Meridian Quay
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wolverhampton ***
+Country: United Kingdom
+Region: Europe
+1 tower: Victoria Hall
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Portsmouth ***
+Country: United Kingdom
+Region: Europe
+1 tower: No.1 Gunwharf Quays
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hemel Hempstead ***
+Country: United Kingdom
+Region: Europe
+1 tower: KD Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Plymouth ***
+Country: United Kingdom
+Region: Europe
+1 tower: Beckley Court
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Newcastle upon Tyne ***
+Country: United Kingdom
+Region: Europe
+1 tower: Vale House
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Brighton ***
+Country: United Kingdom
+Region: Europe
+1 tower: Sussex Heights
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bristol ***
+Country: United Kingdom
+Region: Europe
+1 tower: Castlemead
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Southampton ***
+Country: United Kingdom
+Region: Europe
+1 tower: The Moresby Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

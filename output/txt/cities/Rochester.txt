@@ -1,0 +1,61 @@
+*** Rochester (5) ***
+1. Broadway Plaza, 104m
+2. Gonda Building, 93m
+3. Plummer Building, 91m
+4. Broadway at Center, 90m
+5. Mayo Building, 90m
+
+******************** DETAILS ********************
+
+*** Rochester ***
+Country: United States
+Region: North America
+5 towers: Broadway Plaza, Gonda Building, Plummer Building, Broadway at Center, Mayo Building
+Tiers: I: 5
+Rating: 5 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Broadway Plaza ***
+Height: 104.24
+Floors: 29
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 1
+
+*** Gonda Building ***
+Height: 93
+Floors: 21
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: hospital
+Rank: 2
+
+*** Plummer Building ***
+Height: 90.7
+Floors: 19
+Status: Completed
+Started: 1926
+Completed: 1928
+Functions: library / hospital
+Rank: 3
+
+*** Broadway at Center ***
+Height: 90.07
+Floors: 23
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential / retail / hotel
+Rank: 4
+
+*** Mayo Building ***
+Height: 90
+Floors: 20
+Status: Completed
+Started: 1952
+Completed: 1955
+Functions: hospital
+Rank: 5

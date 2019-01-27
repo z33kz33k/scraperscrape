@@ -1,0 +1,202 @@
+*** Bratislava (25) ***
+1.  Tower 115, 115m
+2.  Narodna Banka Slovenska, 112m
+3.  Panorama City I, 108m
+4.  Panorama City II, 108m
+5.  Slovakia Television Building, 108m
+6.  City Business Center I, 105m
+7.  Gloria, 100m
+8.  Millennium Tower II, 100m
+9.  Central, 98m
+10. Aupark Tower, 96m
+11. Technopol Tower I, 90m
+12. Technopol Tower II, 90m
+13. VUB Centrala, 88m
+14. Obydick, 86m
+15. Incheba Building, 86m
+16. Kukurica Tower, 82m
+17. Rozadol, 82m
+18. Millennium Tower I, 80m
+19. STU, 78m
+20. Vienna Tower, 78m
+
+******************** DETAILS ********************
+
+*** Bratislava ***
+Country: Slovakia
+Region: Europe
+20 towers: Tower 115, Narodna Banka Slovenska, Panorama City I, Panorama City II, Slovakia Television Building, City Business Center I, Gloria, Millennium Tower II, Central, Aupark Tower, Technopol Tower I, Technopol Tower II, VUB Centrala, Obydick, Incheba Building, Kukurica Tower, Rozadol, Millennium Tower I, STU, Vienna Tower
+Tiers: I: 15, II: 5
+Rating: 25
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tower 115 ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 1
+
+*** Narodna Banka Slovenska ***
+Height: 111.7
+Floors: 33
+Status: Completed
+Started: 1997
+Completed: 2002
+Functions: office
+Rank: 2
+
+*** Panorama City I ***
+Height: 108
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 3
+
+*** Panorama City II ***
+Height: 108
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 3
+
+*** Slovakia Television Building ***
+Height: 108
+Floors: 27
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 5
+
+*** City Business Center I ***
+Height: 105
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 6
+
+*** Gloria ***
+Height: 100
+Floors: 29
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 7
+
+*** Millennium Tower II ***
+Height: 100
+Floors: 23
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: office
+Rank: 8
+
+*** Central ***
+Height: 98
+Floors: 21
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential / hotel / office
+Rank: 9
+
+*** Aupark Tower ***
+Height: 96
+Floors: 22
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: office
+Rank: 10
+
+*** Technopol Tower I ***
+Height: 89.9
+Floors: 23
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 11
+
+*** Technopol Tower II ***
+Height: 89.9
+Floors: 23
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 11
+
+*** VUB Centrala ***
+Height: 88.1
+Floors: 23
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office
+Rank: 13
+
+*** Obydick ***
+Height: 86
+Floors: 26
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: residential
+Rank: 14
+
+*** Incheba Building ***
+Height: 85.6
+Floors: 19
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 15
+
+*** Kukurica Tower ***
+Height: 82
+Floors: 25
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 16
+
+*** Rozadol ***
+Height: 82
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 17
+
+*** Millennium Tower I ***
+Height: 80
+Floors: 19
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 18
+
+*** STU ***
+Height: 78
+Floors: 24
+Status: Completed
+Functions: education / office
+Rank: 19
+
+*** Vienna Tower ***
+Height: 77.79
+Floors: 23
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 20

@@ -1,0 +1,21 @@
+*** Chonan (6) ***
+1. Asan SK Pentaport Residential Tower 3, 215m
+
+******************** DETAILS ********************
+
+*** Chonan ***
+Country: South Korea
+Region: Asia
+1 tower: Asan SK Pentaport Residential Tower 3
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Asan SK Pentaport Residential Tower 3 ***
+Height: 215
+Floors: 66
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 1

@@ -1,0 +1,21 @@
+*** Paradise Island (1) ***
+1. Atlantis Royal Tower East, 93m
+
+******************** DETAILS ********************
+
+*** Paradise Island ***
+Country: Bahamas
+Region: Central America
+1 tower: Atlantis Royal Tower East
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Atlantis Royal Tower East ***
+Height: 93
+Floors: 23
+Status: Completed
+Started: 1997
+Completed: 1998
+Functions: hotel / casino
+Rank: 1

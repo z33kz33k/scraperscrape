@@ -1,0 +1,50 @@
+*** Goteborg (4) ***
+1. Gothia New Tower, 100m
+2. Crown Tower, 82m
+3. Lilla Brommen, 81m
+4. Gothia West Tower, 77m
+
+******************** DETAILS ********************
+
+*** Goteborg ***
+Country: Sweden
+Region: Europe
+4 towers: Gothia New Tower, Crown Tower, Lilla Brommen, Gothia West Tower
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gothia New Tower ***
+Height: 100
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel
+Rank: 1
+
+*** Crown Tower ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2014
+Functions: hotel
+Rank: 2
+
+*** Lilla Brommen ***
+Height: 81.3
+Floors: 23
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: office
+Rank: 3
+
+*** Gothia West Tower ***
+Height: 77
+Floors: 23
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: hotel
+Rank: 4

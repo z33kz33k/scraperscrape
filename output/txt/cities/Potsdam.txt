@@ -1,0 +1,20 @@
+*** Potsdam (1) ***
+1. Stern-Plaza, 91m
+
+******************** DETAILS ********************
+
+*** Potsdam ***
+Country: Germany
+Region: Europe
+1 tower: Stern-Plaza
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Stern-Plaza ***
+Height: 91.44
+Floors: 24
+Status: Completed
+Completed: 1997
+Functions: residential / office
+Rank: 1

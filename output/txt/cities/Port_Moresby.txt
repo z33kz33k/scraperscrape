@@ -1,0 +1,21 @@
+*** Port Moresby (1) ***
+1. Grand Papua Hotel, 90m
+
+******************** DETAILS ********************
+
+*** Port Moresby ***
+Country: Papua New Guinea
+Region: Oceania
+1 tower: Grand Papua Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Grand Papua Hotel ***
+Height: 90
+Floors: 21
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: hotel
+Rank: 1

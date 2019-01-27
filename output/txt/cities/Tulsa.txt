@@ -1,0 +1,184 @@
+*** Tulsa (36) ***
+1.  BOK Tower, 203m
+2.  Cityplex Central Tower, 198m
+3.  First Place Tower, 157m
+4.  Mid-Continent Tower, 156m
+5.  Bank of America Center, 126m
+6.  320 South Boston Building, 122m
+7.  110 West 7th Building, 118m
+8.  University Club Towers, 115m
+9.  Cityplex West Tower, 106m
+10. Philtower, 104m
+11. Williams Center Tower II, 99m
+12. One Warren Place, 87m
+13. Two Warren Place, 84m
+14. One Place Tower, 78m
+15. Liberty Towers, 77m
+16. Boulder Towers, 77m
+17. The Mayo Hotel, 77m
+18. First National Bank Building, 76m
+19. Cityplex East Tower, 76m
+
+******************** DETAILS ********************
+
+*** Tulsa ***
+Country: United States
+Region: North America
+19 towers: BOK Tower, Cityplex Central Tower, First Place Tower, Mid-Continent Tower, Bank of America Center, 320 South Boston Building, 110 West 7th Building, University Club Towers, Cityplex West Tower, Philtower, Williams Center Tower II, One Warren Place, Two Warren Place, One Place Tower, Liberty Towers, Boulder Towers, The Mayo Hotel, First National Bank Building, Cityplex East Tower
+Tiers: I: 10, II: 5, III: 4
+Rating: 36
+Scraped on: 2019-Jan-20 16:05:17
+
+*** BOK Tower ***
+Height: 203.3
+Floors: 52
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 1
+
+*** Cityplex Central Tower ***
+Height: 197.51
+Floors: 60
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 2
+
+*** First Place Tower ***
+Height: 157.28
+Floors: 40
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 3
+
+*** Mid-Continent Tower ***
+Height: 156.36
+Floors: 36
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 4
+
+*** Bank of America Center ***
+Height: 125.6
+Floors: 32
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 5
+
+*** 320 South Boston Building ***
+Height: 121.9
+Floors: 22
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 6
+
+*** 110 West 7th Building ***
+Height: 118.3
+Floors: 28
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: office
+Rank: 7
+
+*** University Club Towers ***
+Height: 115
+Floors: 32
+Status: Completed
+Completed: 1966
+Functions: residential
+Rank: 8
+
+*** Cityplex West Tower ***
+Height: 106.1
+Floors: 30
+Status: Completed
+Completed: 1981
+Functions: hospital
+Rank: 9
+
+*** Philtower ***
+Height: 104.5
+Floors: 24
+Status: Completed
+Completed: 1927
+Functions: residential / office
+Rank: 10
+
+*** Williams Center Tower II ***
+Height: 98.7
+Floors: 23
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: office
+Rank: 11
+
+*** One Warren Place ***
+Height: 86.56
+Floors: 20
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 12
+
+*** Two Warren Place ***
+Height: 83.5
+Floors: 19
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 13
+
+*** One Place Tower ***
+Height: 77.72
+Floors: 17
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 14
+
+*** Liberty Towers ***
+Height: 77.4
+Floors: 23
+Status: Completed
+Completed: 1965
+Functions: residential
+Rank: 15
+
+*** Boulder Towers ***
+Height: 77.1
+Floors: 15
+Status: Completed
+Completed: 1960
+Functions: office
+Rank: 16
+
+*** The Mayo Hotel ***
+Height: 76.8
+Floors: 19
+Status: Completed
+Completed: 1925
+Functions: hotel
+Rank: 17
+
+*** First National Bank Building ***
+Height: 76.2
+Floors: 20
+Status: Completed
+Completed: 1950
+Functions: office
+Rank: 18
+
+*** Cityplex East Tower ***
+Height: 75.6
+Floors: 20
+Status: Completed
+Completed: 1981
+Functions: hospital
+Rank: 19

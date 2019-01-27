@@ -1,0 +1,295 @@
+*** Auckland (55) ***
+1.  Seascape, 187m
+2.  PwC Tower, 180m
+3.  The Pacifica, 178m
+4.  Vero Centre, 170m
+5.  The Ascott Metropolis, 155m
+6.  ANZ Centre, 143m
+7.  Oaks Residences, 130m
+8.  PricewaterhouseCoopers Tower, 130m
+9.  Lumley Centre, 125m
+10. Quay West, 117m
+11. ASB Bank Centre, 116m
+12. Precinct Apartments, 115m
+13. Crowne Plaza Hotel, 110m
+14. Park Residences, 109m
+15. BNZ Tower, 106m
+16. IAG House, 104m
+17. Deloitte Center, 96m
+18. BDO Tower, 95m
+19. Quantas House, 92m
+20. Phillips Fox Tower, 92m
+21. CityLife Auckland, 90m
+22. City Gardens, 90m
+23. Stamford Residences, 88m
+24. AMP Centre, 87m
+25. Chorus House, 85m
+26. AIG Centre, 84m
+27. HSBC House, 81m
+28. Victoria Residences, 80m
+29. Arthur Anderson Tower, 77m
+30. Telecom Tower, 75m
+
+******************** DETAILS ********************
+
+*** Auckland ***
+Country: New Zealand
+Region: Oceania
+30 towers: Seascape, PwC Tower, The Pacifica, Vero Centre, The Ascott Metropolis, ANZ Centre, Oaks Residences, PricewaterhouseCoopers Tower, Lumley Centre, Quay West, ASB Bank Centre, Precinct Apartments, Crowne Plaza Hotel, Park Residences, BNZ Tower, IAG House, Deloitte Center, BDO Tower, Quantas House, Phillips Fox Tower, CityLife Auckland, City Gardens, Stamford Residences, AMP Centre, Chorus House, AIG Centre, HSBC House, Victoria Residences, Arthur Anderson Tower, Telecom Tower
+Tiers: I: 15, II: 10, III: 5
+Rating: 55 (21.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Seascape ***
+Height: 187
+Floors: 56
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 1
+
+*** PwC Tower ***
+Height: 180.1
+Floors: 41
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office / retail
+Rank: 2
+
+*** The Pacifica ***
+Height: 178
+Floors: 57
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential / hotel
+Rank: 3
+
+*** Vero Centre ***
+Height: 170
+Floors: 38
+Status: Completed
+Started: 1998
+Completed: 2000
+Functions: office
+Rank: 4
+
+*** The Ascott Metropolis ***
+Height: 155
+Floors: 40
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: residential / hotel
+Rank: 5
+
+*** ANZ Centre ***
+Height: 143
+Floors: 35
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 6
+
+*** Oaks Residences ***
+Height: 130
+Floors: 37
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential / hotel
+Rank: 7
+
+*** PricewaterhouseCoopers Tower ***
+Height: 130
+Floors: 29
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 8
+
+*** Lumley Centre ***
+Height: 125
+Floors: 29
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 9
+
+*** Quay West ***
+Height: 117
+Floors: 32
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 10
+
+*** ASB Bank Centre ***
+Height: 116
+Floors: 31
+Status: Completed
+Started: 1987
+Completed: 1991
+Functions: office
+Rank: 11
+
+*** Precinct Apartments ***
+Height: 115
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 12
+
+*** Crowne Plaza Hotel ***
+Height: 110
+Floors: 29
+Status: Completed
+Completed: 1990
+Functions: hotel
+Rank: 13
+
+*** Park Residences ***
+Height: 109
+Floors: 30
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential / retail
+Rank: 14
+
+*** BNZ Tower ***
+Height: 106
+Floors: 28
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 15
+
+*** IAG House ***
+Height: 104
+Floors: 29
+Status: Completed
+Started: 1984
+Completed: 1988
+Functions: office
+Rank: 16
+
+*** Deloitte Center ***
+Height: 96.27
+Floors: 21
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 17
+
+*** BDO Tower ***
+Height: 94.8
+Floors: 26
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 18
+
+*** Quantas House ***
+Height: 92
+Floors: 24
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 19
+
+*** Phillips Fox Tower ***
+Height: 91.74
+Floors: 25
+Status: Completed
+Started: 1986
+Completed: 1987
+Functions: office
+Rank: 20
+
+*** CityLife Auckland ***
+Height: 90
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: residential / hotel
+Rank: 21
+
+*** City Gardens ***
+Height: 90
+Floors: 25
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 22
+
+*** Stamford Residences ***
+Height: 88
+Floors: 21
+Status: Completed
+Functions: residential / hotel
+Rank: 23
+
+*** AMP Centre ***
+Height: 87
+Floors: 22
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 24
+
+*** Chorus House ***
+Height: 85
+Floors: 22
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 25
+
+*** AIG Centre ***
+Height: 83.8
+Floors: 20
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 26
+
+*** HSBC House ***
+Height: 81
+Floors: 21
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 27
+
+*** Victoria Residences ***
+Height: 80
+Floors: 24
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 28
+
+*** Arthur Anderson Tower ***
+Height: 77
+Floors: 20
+Status: Completed
+Completed: 1988
+Functions: office / retail
+Rank: 29
+
+*** Telecom Tower ***
+Height: 75
+Floors: 18
+Status: Completed
+Functions: office
+Rank: 30

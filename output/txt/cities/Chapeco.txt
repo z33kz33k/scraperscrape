@@ -1,0 +1,131 @@
+*** Chapeco (18) ***
+1.  The One Residence, 120m
+2.  Avant Garde, 115m
+3.  Condá Tower, 112m
+4.  Felicitá, 110m
+5.  Onno Studio Home, 110m
+6.  Mozart Residence, 106m
+7.  Evidence Residential, 103m
+8.  Edifício Nereu Ramos, 103m
+9.  Bocaiúva 139, 100m
+10. Centenaro Residence, 97m
+11. Gran Palazzo, 90m
+12. Montreal Palace, 86m
+
+******************** DETAILS ********************
+
+*** Chapeco ***
+Country: Brazil
+Region: South America
+12 towers: The One Residence, Avant Garde, Condá Tower, Felicitá, Onno Studio Home, Mozart Residence, Evidence Residential, Edifício Nereu Ramos, Bocaiúva 139, Centenaro Residence, Gran Palazzo, Montreal Palace
+Tiers: I: 6, II: 6
+Rating: 18 (77.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The One Residence ***
+Height: 120
+Floors: 36
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 1
+
+*** Avant Garde ***
+Height: 115
+Floors: 31
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 2
+
+*** Condá Tower ***
+Height: 112
+Floors: 33
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 3
+
+*** Felicitá ***
+Height: 110
+Floors: 32
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential
+Rank: 4
+
+*** Onno Studio Home ***
+Height: 110
+Floors: 32
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential
+Rank: 4
+
+*** Mozart Residence ***
+Height: 106
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 6
+
+*** Evidence Residential ***
+Height: 103
+Floors: 30
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential
+Rank: 7
+
+*** Edifício Nereu Ramos ***
+Height: 103
+Floors: 28
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 8
+
+*** Bocaiúva 139 ***
+Height: 100
+Floors: 28
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: residential
+Rank: 9
+
+*** Centenaro Residence ***
+Height: 97
+Floors: 27
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential
+Rank: 10
+
+*** Gran Palazzo ***
+Height: 90
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Montreal Palace ***
+Height: 86
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 12

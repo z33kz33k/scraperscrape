@@ -1,0 +1,108 @@
+*** France (208) ***
+1.  Paris, 179
+2.  Lyon, 11
+3.  Marseille, 5
+4.  Lille, 4
+5.  Amiens, 2
+6.  Nantes, 2
+7.  Creteil, 1
+8.  Mulhouse, 1
+9.  Caen, 1
+10. Rennes, 1
+11. Boulogne-Billancourt, 1
+
+******************** DETAILS ********************
+
+*** France ***
+Region: Europe
+11 cities: Paris, Lyon, Marseille, Lille, Amiens, Nantes, Creteil, Mulhouse, Caen, Rennes, Boulogne-Billancourt
+Tiers: I: 54, II: 36, III: 19, IV: 1
+Rating: 208 (4.3% uncompleted)
+
+*** Paris ***
+Country: France
+Region: Europe
+94 towers: Tribunal de Paris, Hotel Concorde Lafayette, Tour Prelude, Hotel Meridien Montparnasse, Tour Super-Italie, Tour Fugue, Tour Helsinki, Tour Anvers, Tour Athènes, Tour Londres, Tour Mexico, Tour Sapporo, Tour Tokyo, Tour Cortina, Tour Chéops, Tour Mykérinos, Tour Ancône, Tour Bologne, Tour Ferrare, Tour Palerme, Tour Ravenne, Tour Cantate, Tour Panorama, Tour Totem, Résidence Paris Côté Seine, Tour de Seine, Tour Chambord, Tour Mantoue, Tour Puccini, Tour Verdi, Tour HT1, Novotel Tour Eiffel, Tour de Flandre, Tour Saint Blaise, Tour de Nombres, Tour des Lettres, Tour des Lois, Tour des Temps, Tour la Villette, Tour Pleyel, Tour Levant, Tour Ponant, Tour First, Tour T1, Tour Total Coupole, Tour Areva, Tour Saint-Gobain, D2 Tower , Tour Gan, Tour Carpe Diem, Coeur Defense, Tour Adria, Tour Egee, Les Poissions, Tour Dexia, Tour Descartes, Trinity Tower, Tour Europlaza, Tour Neptune, Tour Manhattan, Tour Logica, Tour Europe, Tour Gambetta, Tour Cedre, Tour Aurore, Tour Chartis, Tour Prisma, Tour Majunga, Tour Alicante, Tour Ariane, Tour EDF, Defense 2000, Tour Michelet, Tour France, Tour Winterthur, Tour Franklin, La Grande Arche, Tour Eve, Tour Atlantique, Opus 12, Tour Esplanade, Tour Initiale, Tour AGF-Athena, Tour Pascal B, Tour Pacific, Tour Voltaire, Skylight, Tour Granite, Tour Chassagne, Prefecture des Hauts de Seine, Tour Nuages 1, Tour Nuages 2, Tour Hélice, Sequana Tower - Bouygues Telcom
+Tiers: I: 47, II: 29, III: 17, IV: 1
+Rating: 179 (4.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Lyon ***
+Country: France
+Region: Europe
+4 towers: Tour Incity, Tour Part-Dieu , Tour Oxygene, Tour Swiss Life
+Tiers: I: 1, II: 1, III: 2
+Rating: 11
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Marseille ***
+Country: France
+Region: Europe
+3 towers: Tour CMA-CGM, La Marseillaise , H99
+Tiers: I: 1, II: 2
+Rating: 5 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Lille ***
+Country: France
+Region: Europe
+2 towers: Tour de Lille, Tour Lilleurope
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Amiens ***
+Country: France
+Region: Europe
+1 tower: Tour Perret
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nantes ***
+Country: France
+Region: Europe
+1 tower: Tour de Bretagne
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Creteil ***
+Country: France
+Region: Europe
+1 tower: CHU Henri Mondor
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Mulhouse ***
+Country: France
+Region: Europe
+1 tower: Tour de l`Europe
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Caen ***
+Country: France
+Region: Europe
+1 tower: Centre Hospitalier Universitaire de Caen
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Rennes ***
+Country: France
+Region: Europe
+1 tower: Les Horizons
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Boulogne-Billancourt ***
+Country: France
+Region: Europe
+1 tower: CityLights Tour 1
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

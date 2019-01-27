@@ -1,0 +1,61 @@
+*** Hollywood (10) ***
+1. Hard Rock Hotel & Casino Expansion, 140m
+2. Hyde Beach Resort and Residences, 140m
+3. The Westin Diplomat Resort, 135m
+4. Trump Hollywood, 135m
+5. Ocean Palms Phase I, 122m
+
+******************** DETAILS ********************
+
+*** Hollywood ***
+Country: United States
+Region: North America
+5 towers: Hard Rock Hotel & Casino Expansion, Hyde Beach Resort and Residences, The Westin Diplomat Resort, Trump Hollywood, Ocean Palms Phase I
+Tiers: II: 5
+Rating: 10 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hard Rock Hotel & Casino Expansion ***
+Height: 140.5
+Floors: 36
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: hotel
+Rank: 1
+
+*** Hyde Beach Resort and Residences ***
+Height: 140.2
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 2
+
+*** The Westin Diplomat Resort ***
+Height: 135.33
+Floors: 39
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: hotel
+Rank: 3
+
+*** Trump Hollywood ***
+Height: 135.03
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** Ocean Palms Phase I ***
+Height: 121.92
+Floors: 38
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 5

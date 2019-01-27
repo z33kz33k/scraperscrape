@@ -1,0 +1,21 @@
+*** Odessa (2) ***
+1. Ark Palace I, 108m
+
+******************** DETAILS ********************
+
+*** Odessa ***
+Country: Ukraine
+Region: Europe
+1 tower: Ark Palace I
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ark Palace I ***
+Height: 108
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 1

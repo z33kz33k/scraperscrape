@@ -1,0 +1,31 @@
+*** Dnipropetrovsk (4) ***
+1. Bashnia East Tower, 123m
+2. Bashnia West Tower, 123m
+
+******************** DETAILS ********************
+
+*** Dnipropetrovsk ***
+Country: Ukraine
+Region: Europe
+2 towers: Bashnia East Tower, Bashnia West Tower
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bashnia East Tower ***
+Height: 123
+Floors: 28
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 1
+
+*** Bashnia West Tower ***
+Height: 123
+Floors: 28
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: residential
+Rank: 1

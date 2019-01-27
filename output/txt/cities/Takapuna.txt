@@ -1,0 +1,21 @@
+*** Takapuna (2) ***
+1. Sentinel, 120m
+
+******************** DETAILS ********************
+
+*** Takapuna ***
+Country: New Zealand
+Region: Oceania
+1 tower: Sentinel
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sentinel ***
+Height: 120
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 1

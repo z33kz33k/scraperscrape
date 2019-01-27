@@ -1,0 +1,21 @@
+*** Khartoum (2) ***
+1. NTC Tower, 130m
+
+******************** DETAILS ********************
+
+*** Khartoum ***
+Country: Sudan
+Region: Africa
+1 tower: NTC Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** NTC Tower ***
+Height: 130
+Floors: 29
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 1

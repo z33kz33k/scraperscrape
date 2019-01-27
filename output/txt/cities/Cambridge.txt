@@ -1,0 +1,76 @@
+*** Cambridge (7) ***
+1. M.I.T. Kendall Square Dorm, 104m
+2. 145 Broadway, 90m
+3. Proto, 87m
+4. Eastgate Married Student Housing, 84m
+5. Avalon North Point, 84m
+6. Cecil and Ida Green Center for Earth Sciences, 84m
+7. Broad Institute, 80m
+
+******************** DETAILS ********************
+
+*** Cambridge ***
+Country: United States
+Region: North America
+7 towers: M.I.T. Kendall Square Dorm, 145 Broadway, Proto, Eastgate Married Student Housing, Avalon North Point, Cecil and Ida Green Center for Earth Sciences, Broad Institute
+Tiers: I: 7
+Rating: 7 (28.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** M.I.T. Kendall Square Dorm ***
+Height: 104.25
+Floors: 29
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 1
+
+*** 145 Broadway ***
+Height: 89.61
+Floors: 19
+Status: Under Construction
+Functions: office
+Rank: 2
+
+*** Proto ***
+Height: 86.56
+Floors: 22
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 3
+
+*** Eastgate Married Student Housing ***
+Height: 84.5
+Floors: 30
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 4
+
+*** Avalon North Point ***
+Height: 84.43
+Floors: 22
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 5
+
+*** Cecil and Ida Green Center for Earth Sciences ***
+Height: 84.43
+Floors: 21
+Status: Completed
+Started: 1962
+Completed: 1964
+Functions: education
+Rank: 6
+
+*** Broad Institute ***
+Height: 80.32
+Floors: 15
+Status: Completed
+Completed: 2014
+Functions: office / retail
+Rank: 7

@@ -1,0 +1,31 @@
+*** Sandton (8) ***
+1. The Leonardo, 227m
+2. Michelangelo Tower, 140m
+
+******************** DETAILS ********************
+
+*** Sandton ***
+Country: South Africa
+Region: Africa
+2 towers: The Leonardo, Michelangelo Tower
+Tiers: II: 1, IV: 1
+Rating: 8 (75.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Leonardo ***
+Height: 227
+Floors: 55
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: residential / office / retail
+Rank: 1
+
+*** Michelangelo Tower ***
+Height: 140
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 2

@@ -1,0 +1,287 @@
+*** Rio de Janeiro (64) ***
+1.  Rio Sul Center, 163m
+2.  Centro Candido Mendes, 154m
+3.  Ventura Corporate Towers, 151m
+4.  Lelio Gama 105, 146m
+5.  Edificio Conde Pereira Carneiro, 145m
+6.  Edificio Santos DuMont, 141m
+7.  Edificio Lineu de Paula Machado, 138m
+8.  Edificio Avenida Central, 136m
+9.  Sede do Banerj, 136m
+10. Sede BNH, 135m
+11. Seculo Frontin, 131m
+12. Frederico Bokel, 130m
+13. Banco Centro do Brasil, 130m
+14. Morada do Sol VI, 124m
+15. Morada do Sol VII, 124m
+16. Torre Charles de Gaulle, 122m
+17. Torre Ernest Hemingway, 122m
+18. Estrada de Ferro Central do Brasil, 122m
+19. Treze de Maio 33, 122m
+20. Torre Almirante, 120m
+21. Morada do Sol II, 120m
+22. Morada do Sol V, 116m
+23. Morada do Sol III, 116m
+24. Manhattan Tower, 114m
+25. Hotel Nacional, 114m
+26. Morada do Sol IV, 113m
+27. Morada do Sol I, 112m
+28. Porto Vida Torre 1, 108m
+29. AQWA Corporate, 95m
+30. RB12, 85m
+
+******************** DETAILS ********************
+
+*** Rio de Janeiro ***
+Country: Brazil
+Region: South America
+30 towers: Rio Sul Center, Centro Candido Mendes, Ventura Corporate Towers, Lelio Gama 105, Edificio Conde Pereira Carneiro, Edificio Santos DuMont, Edificio Lineu de Paula Machado, Edificio Avenida Central, Sede do Banerj, Sede BNH, Seculo Frontin, Frederico Bokel, Banco Centro do Brasil, Morada do Sol VI, Morada do Sol VII, Torre Charles de Gaulle, Torre Ernest Hemingway, Estrada de Ferro Central do Brasil, Treze de Maio 33, Torre Almirante, Morada do Sol II, Morada do Sol V, Morada do Sol III, Manhattan Tower, Hotel Nacional, Morada do Sol IV, Morada do Sol I, Porto Vida Torre 1, AQWA Corporate, RB12
+Tiers: I: 2, II: 25, III: 3
+Rating: 64 (3.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Rio Sul Center ***
+Height: 163.12
+Floors: 48
+Status: Completed
+Started: 1976
+Completed: 1982
+Functions: office
+Rank: 1
+
+*** Centro Candido Mendes ***
+Height: 153.9
+Floors: 43
+Status: Completed
+Started: 1977
+Completed: 1978
+Functions: office
+Rank: 2
+
+*** Ventura Corporate Towers ***
+Height: 151.4
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 3
+
+*** Lelio Gama 105 ***
+Height: 145.53
+Floors: 40
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 4
+
+*** Edificio Conde Pereira Carneiro ***
+Height: 145
+Floors: 43
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: office
+Rank: 5
+
+*** Edificio Santos DuMont ***
+Height: 140.8
+Floors: 45
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 6
+
+*** Edificio Lineu de Paula Machado ***
+Height: 138
+Floors: 34
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 7
+
+*** Edificio Avenida Central ***
+Height: 136
+Floors: 34
+Status: Completed
+Completed: 1961
+Functions: office
+Rank: 8
+
+*** Sede do Banerj ***
+Height: 136
+Floors: 34
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 8
+
+*** Sede BNH ***
+Height: 135
+Floors: 30
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 10
+
+*** Seculo Frontin ***
+Height: 131.1
+Floors: 40
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 11
+
+*** Frederico Bokel ***
+Height: 130
+Floors: 37
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 12
+
+*** Banco Centro do Brasil ***
+Height: 130
+Floors: 25
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 13
+
+*** Morada do Sol VI ***
+Height: 124
+Floors: 38
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 14
+
+*** Morada do Sol VII ***
+Height: 124
+Floors: 38
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 14
+
+*** Torre Charles de Gaulle ***
+Height: 122.22
+Floors: 36
+Status: Completed
+Started: 1974
+Completed: 1977
+Functions: residential
+Rank: 16
+
+*** Torre Ernest Hemingway ***
+Height: 122.22
+Floors: 36
+Status: Completed
+Started: 1974
+Completed: 1990
+Functions: residential
+Rank: 16
+
+*** Estrada de Ferro Central do Brasil ***
+Height: 121.98
+Floors: 28
+Status: Completed
+Completed: 1945
+Functions: office
+Rank: 18
+
+*** Treze de Maio 33 ***
+Height: 121.62
+Floors: 40
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 19
+
+*** Torre Almirante ***
+Height: 120
+Floors: 36
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 20
+
+*** Morada do Sol II ***
+Height: 119.5
+Floors: 36
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 21
+
+*** Morada do Sol V ***
+Height: 116.4
+Floors: 36
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 22
+
+*** Morada do Sol III ***
+Height: 115.6
+Floors: 36
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 23
+
+*** Manhattan Tower ***
+Height: 114
+Floors: 33
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 24
+
+*** Hotel Nacional ***
+Height: 113.7
+Floors: 34
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 25
+
+*** Morada do Sol IV ***
+Height: 113.3
+Floors: 34
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 26
+
+*** Morada do Sol I ***
+Height: 111.6
+Floors: 34
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 27
+
+*** Porto Vida Torre 1 ***
+Height: 107.83
+Floors: 35
+Status: Under Construction
+Started: 2013
+Functions: residential
+Rank: 28
+
+*** AQWA Corporate ***
+Height: 95
+Floors: 22
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 29
+
+*** RB12 ***
+Height: 85
+Floors: 22
+Status: Completed
+Functions: office
+Rank: 30

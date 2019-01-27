@@ -1,0 +1,21 @@
+*** Trois-Rivières (2) ***
+1. 159SW Tower, 119m
+
+******************** DETAILS ********************
+
+*** Trois-Rivières ***
+Country: Canada
+Region: North America
+1 tower: 159SW Tower
+Tiers: II: 1
+Rating: 2 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** 159SW Tower ***
+Height: 118.87
+Floors: 36
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 1

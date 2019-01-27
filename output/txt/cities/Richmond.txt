@@ -1,0 +1,159 @@
+*** Richmond (20) ***
+1.  James Monroe Building, 137m
+2.  111 South 6th Street, 126m
+3.  SunTrust Plaza, 122m
+4.  Federal Reserve Bank Building, 120m
+5.  Bank of America Center, 102m
+6.  Richmond City Hall, 96m
+7.  Riverfront Plaza East Tower, 95m
+8.  Riverfront Plaza West Tower, 95m
+9.  One James River Plaza, 94m
+10. Main Street Centre, 93m
+11. Two James Center, 91m
+12. Eighth and Main Building, 88m
+13. One James Center, 87m
+14. Central National Bank Building, 86m
+15. BB&T Bank Building, 80m
+16. One Capitol Square, 80m
+
+******************** DETAILS ********************
+
+*** Richmond ***
+Country: United States
+Region: North America
+16 towers: James Monroe Building, 111 South 6th Street, SunTrust Plaza, Federal Reserve Bank Building, Bank of America Center, Richmond City Hall, Riverfront Plaza East Tower, Riverfront Plaza West Tower, One James River Plaza, Main Street Centre, Two James Center, Eighth and Main Building, One James Center, Central National Bank Building, BB&T Bank Building, One Capitol Square
+Tiers: I: 12, II: 4
+Rating: 20 (10.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** James Monroe Building ***
+Height: 136.86
+Floors: 29
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 1
+
+*** 111 South 6th Street ***
+Height: 125.88
+Floors: 20
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** SunTrust Plaza ***
+Height: 121.92
+Floors: 26
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 3
+
+*** Federal Reserve Bank Building ***
+Height: 119.79
+Floors: 26
+Status: Completed
+Started: 1975
+Completed: 1978
+Functions: office
+Rank: 4
+
+*** Bank of America Center ***
+Height: 101.5
+Floors: 26
+Status: Completed
+Started: 1971
+Completed: 1974
+Functions: office
+Rank: 5
+
+*** Richmond City Hall ***
+Height: 95.7
+Floors: 19
+Status: Completed
+Completed: 1971
+Functions: government
+Rank: 6
+
+*** Riverfront Plaza East Tower ***
+Height: 95.1
+Floors: 22
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 7
+
+*** Riverfront Plaza West Tower ***
+Height: 95.1
+Floors: 22
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 7
+
+*** One James River Plaza ***
+Height: 94.49
+Floors: 22
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 9
+
+*** Main Street Centre ***
+Height: 92.96
+Floors: 23
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 10
+
+*** Two James Center ***
+Height: 91.44
+Floors: 21
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 11
+
+*** Eighth and Main Building ***
+Height: 88.39
+Floors: 20
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 12
+
+*** One James Center ***
+Height: 86.87
+Floors: 21
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 13
+
+*** Central National Bank Building ***
+Height: 85.95
+Floors: 22
+Status: Completed
+Completed: 1930
+Functions: office
+Rank: 14
+
+*** BB&T Bank Building ***
+Height: 79.86
+Floors: 19
+Status: Completed
+Completed: 1913
+Functions: residential
+Rank: 15
+
+*** One Capitol Square ***
+Height: 79.55
+Floors: 23
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 16

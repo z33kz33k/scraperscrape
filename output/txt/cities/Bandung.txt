@@ -1,0 +1,49 @@
+*** Bandung (7) ***
+1. Tamansari Panoramic Tower 1, 115m
+2. Ibis Hotel Bandung, 111m
+3. Crowne Plaza Hotel, 109m
+4. The Trans Luxury Hotel, 78m
+
+******************** DETAILS ********************
+
+*** Bandung ***
+Country: Indonesia
+Region: Asia
+4 towers: Tamansari Panoramic Tower 1, Ibis Hotel Bandung, Crowne Plaza Hotel, The Trans Luxury Hotel
+Tiers: I: 1, II: 3
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tamansari Panoramic Tower 1 ***
+Height: 115
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 1
+
+*** Ibis Hotel Bandung ***
+Height: 111
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: hotel
+Rank: 2
+
+*** Crowne Plaza Hotel ***
+Height: 109
+Floors: 21
+Status: Completed
+Started: 1997
+Completed: 2015
+Functions: hotel
+Rank: 3
+
+*** The Trans Luxury Hotel ***
+Height: 78.15
+Floors: 20
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: hotel
+Rank: 4

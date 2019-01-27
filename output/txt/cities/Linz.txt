@@ -1,0 +1,31 @@
+*** Linz (2) ***
+1. Finanzamt Tower, 98m
+2. Lentia 2000, 81m
+
+******************** DETAILS ********************
+
+*** Linz ***
+Country: Austria
+Region: Europe
+2 towers: Finanzamt Tower, Lentia 2000
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Finanzamt Tower ***
+Height: 98.5
+Floors: 24
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 1
+
+*** Lentia 2000 ***
+Height: 80.9
+Floors: 21
+Status: Completed
+Started: 1973
+Completed: 1977
+Functions: residential
+Rank: 2

@@ -1,0 +1,330 @@
+*** Zhuhai (152) ***
+1.  Wanling Global Center, 337m
+2.  Hengqin International Finance Center, 337m
+3.  Zhuhai St. Regis Hotel & Office Tower, 329m
+4.  CCCC Southern Financial Investment Building, 310m
+5.  Hengqin Headquarters Phase 2 Tower A, 289m
+6.  Hengqin Headquarters Phase 2 Tower B, 270m
+7.  E Fund Financial Building, 264m
+8.  Yanlord Marina Center Tower 5, 215m
+9.  Tianlang Haifeng International Center A, 208m
+10. Tianlang Haifeng International Center B, 208m
+11. Zhuhai Hengqin Xinqu Ahongda Finance Tower 1, 200m
+12. Crown Tree Building, 189m
+13. Yu Hai World Financial Center, 163m
+14. Gree Square R1, 160m
+15. Gree Square R2, 160m
+16. CITIC Mangrove Bay R1, 158m
+17. CITIC Mangrove Bay R2, 158m
+18. Hengqin Headquarters Tower 1, 157m
+19. Beaconsfield Office Building A, 156m
+20. Gulf Bank Apartments A, 154m
+21. Gulf Bank Apartments B, 152m
+22. Gulf Bank Apartments C, 152m
+23. Imperial Phoenix Apartments A, 150m
+24. Imperial Phoenix Apartments B, 150m
+25. Imperial Phoenix Apartments C, 150m
+26. Golden Mile Island, 150m
+27. Vanke Apartments R1, 150m
+28. Hong Heng Century Plaza A, 150m
+29. Hong Heng Century Plaza B, 150m
+30. Hong Heng Century Plaza C, 150m
+31. Yanlord Marina Center Tower 1, 133m
+32. Yanlord Marina Center Tower 2, 133m
+33. Yanlord Marina Center Tower 3, 133m
+34. Yanlord Marina Center Tower 4, 133m
+
+******************** DETAILS ********************
+
+*** Zhuhai ***
+Country: China
+Region: Asia
+34 towers: Wanling Global Center, Hengqin International Finance Center, Zhuhai St. Regis Hotel & Office Tower, CCCC Southern Financial Investment Building, Hengqin Headquarters Phase 2 Tower A, Hengqin Headquarters Phase 2 Tower B, E Fund Financial Building, Yanlord Marina Center Tower 5, Tianlang Haifeng International Center A, Tianlang Haifeng International Center B, Zhuhai Hengqin Xinqu Ahongda Finance Tower 1, Crown Tree Building, Yu Hai World Financial Center, Gree Square R1, Gree Square R2, CITIC Mangrove Bay R1, CITIC Mangrove Bay R2, Hengqin Headquarters Tower 1, Beaconsfield Office Building A, Gulf Bank Apartments A, Gulf Bank Apartments B, Gulf Bank Apartments C, Imperial Phoenix Apartments A, Imperial Phoenix Apartments B, Imperial Phoenix Apartments C, Golden Mile Island, Vanke Apartments R1, Hong Heng Century Plaza A, Hong Heng Century Plaza B, Hong Heng Century Plaza C, Yanlord Marina Center Tower 1, Yanlord Marina Center Tower 2, Yanlord Marina Center Tower 3, Yanlord Marina Center Tower 4
+Tiers: II: 4, III: 22, IV: 4, V: 4
+Rating: 152 (27.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wanling Global Center ***
+Height: 337
+Floors: 70
+Status: Under Construction
+Started: 2017
+Rank: 1
+
+*** Hengqin International Finance Center ***
+Height: 336.7
+Floors: 69
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2020
+Functions: residential / office
+Rank: 2
+
+*** Zhuhai St. Regis Hotel & Office Tower ***
+Height: 328.8
+Floors: 66
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel / office
+Rank: 3
+
+*** CCCC Southern Financial Investment Building ***
+Height: 309.5
+Floors: 65
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: hotel / office
+Rank: 4
+
+*** Hengqin Headquarters Phase 2 Tower A ***
+Height: 289
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office
+Rank: 5
+
+*** Hengqin Headquarters Phase 2 Tower B ***
+Height: 270
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office
+Rank: 6
+
+*** E Fund Financial Building ***
+Height: 264.2
+Floors: 41
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 7
+
+*** Yanlord Marina Center Tower 5 ***
+Height: 215
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2018
+Functions: residential / retail / hotel
+Rank: 8
+
+*** Tianlang Haifeng International Center A ***
+Height: 208
+Floors: 60
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 9
+
+*** Tianlang Haifeng International Center B ***
+Height: 208
+Floors: 60
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 9
+
+*** Zhuhai Hengqin Xinqu Ahongda Finance Tower 1 ***
+Height: 200
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 11
+
+*** Crown Tree Building ***
+Height: 188.8
+Floors: 40
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: hotel / office
+Rank: 12
+
+*** Yu Hai World Financial Center ***
+Height: 163
+Floors: 38
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 13
+
+*** Gree Square R1 ***
+Height: 160
+Floors: 52
+Status: Completed
+Completed: 2014
+Functions: residential / residential
+Rank: 14
+
+*** Gree Square R2 ***
+Height: 160
+Floors: 52
+Status: Completed
+Completed: 2014
+Functions: residential / residential
+Rank: 14
+
+*** CITIC Mangrove Bay R1 ***
+Height: 158
+Floors: 45
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 16
+
+*** CITIC Mangrove Bay R2 ***
+Height: 158
+Floors: 45
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 16
+
+*** Hengqin Headquarters Tower 1 ***
+Height: 156.8
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 18
+
+*** Beaconsfield Office Building A ***
+Height: 156
+Floors: 32
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 19
+
+*** Gulf Bank Apartments A ***
+Height: 154
+Floors: 43
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 20
+
+*** Gulf Bank Apartments B ***
+Height: 151.8
+Floors: 42
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 21
+
+*** Gulf Bank Apartments C ***
+Height: 151.8
+Floors: 42
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 21
+
+*** Imperial Phoenix Apartments A ***
+Height: 150
+Floors: 49
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Imperial Phoenix Apartments B ***
+Height: 150
+Floors: 49
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Imperial Phoenix Apartments C ***
+Height: 150
+Floors: 49
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 23
+
+*** Golden Mile Island ***
+Height: 150
+Floors: 47
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 26
+
+*** Vanke Apartments R1 ***
+Height: 150
+Floors: 43
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 27
+
+*** Hong Heng Century Plaza A ***
+Height: 150
+Floors: 41
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 28
+
+*** Hong Heng Century Plaza B ***
+Height: 150
+Floors: 41
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 28
+
+*** Hong Heng Century Plaza C ***
+Height: 150
+Floors: 41
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 28
+
+*** Yanlord Marina Center Tower 1 ***
+Height: 133.15
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / retail / hotel
+Rank: 31
+
+*** Yanlord Marina Center Tower 2 ***
+Height: 133.15
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / retail / hotel
+Rank: 31
+
+*** Yanlord Marina Center Tower 3 ***
+Height: 133.15
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / retail / hotel
+Rank: 31
+
+*** Yanlord Marina Center Tower 4 ***
+Height: 133.15
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential / retail / hotel
+Rank: 31

@@ -1,0 +1,130 @@
+*** Curitiba (28) ***
+1.  Universe Life Square, 153m
+2.  Edificio Bergamo, 151m
+3.  Evolution Corporate, 137m
+4.  Edificio Champagnat I, 129m
+5.  Rio Loire, 124m
+6.  Seventh Avenue, 117m
+7.  Real Plaza Flat, 112m
+8.  Centro Comercial Itália, 112m
+9.  Curitiba Trade Center, 111m
+10. Sky, 110m
+11. Rio Jardine, 110m
+12. Hospital das Clinicas, 97m
+13. MAI Home, 94m
+
+******************** DETAILS ********************
+
+*** Curitiba ***
+Country: Brazil
+Region: South America
+13 towers: Universe Life Square, Edificio Bergamo, Evolution Corporate, Edificio Champagnat I, Rio Loire, Seventh Avenue, Real Plaza Flat, Centro Comercial Itália, Curitiba Trade Center, Sky, Rio Jardine, Hospital das Clinicas, MAI Home
+Tiers: I: 2, II: 9, III: 2
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Universe Life Square ***
+Height: 152.58
+Floors: 43
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: residential / office
+Rank: 1
+
+*** Edificio Bergamo ***
+Height: 151
+Floors: 42
+Status: Completed
+Completed: 2001
+Rank: 2
+
+*** Evolution Corporate ***
+Height: 137
+Floors: 40
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 3
+
+*** Edificio Champagnat I ***
+Height: 129
+Floors: 37
+Status: Completed
+Completed: 1995
+Functions: residential / office
+Rank: 4
+
+*** Rio Loire ***
+Height: 124
+Floors: 33
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 5
+
+*** Seventh Avenue ***
+Height: 117
+Floors: 39
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential / office / retail
+Rank: 6
+
+*** Real Plaza Flat ***
+Height: 112
+Floors: 39
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 7
+
+*** Centro Comercial Itália ***
+Height: 112
+Floors: 31
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 8
+
+*** Curitiba Trade Center ***
+Height: 111
+Floors: 34
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 9
+
+*** Sky ***
+Height: 110
+Floors: 35
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 10
+
+*** Rio Jardine ***
+Height: 110
+Floors: 34
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 11
+
+*** Hospital das Clinicas ***
+Height: 97
+Floors: 27
+Status: Completed
+Completed: 1973
+Functions: hospital
+Rank: 12
+
+*** MAI Home ***
+Height: 94
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 13

@@ -1,0 +1,21 @@
+*** Nuremberg (2) ***
+1. Business Tower, 135m
+
+******************** DETAILS ********************
+
+*** Nuremberg ***
+Country: Germany
+Region: Europe
+1 tower: Business Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Business Tower ***
+Height: 135
+Floors: 35
+Status: Completed
+Started: 1996
+Completed: 2000
+Functions: office
+Rank: 1

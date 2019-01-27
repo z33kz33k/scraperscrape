@@ -1,0 +1,41 @@
+*** Nantong (14) ***
+1. Nantong Zhongnan International Plaza, 273m
+2. Harmony Square, 205m
+3. Golf Hotel, 200m
+
+******************** DETAILS ********************
+
+*** Nantong ***
+Country: China
+Region: Asia
+3 towers: Nantong Zhongnan International Plaza, Harmony Square, Golf Hotel
+Tiers: III: 2, IV: 1
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Nantong Zhongnan International Plaza ***
+Height: 273.3
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential / office
+Rank: 1
+
+*** Harmony Square ***
+Height: 205
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: retail / office
+Rank: 2
+
+*** Golf Hotel ***
+Height: 200
+Floors: 40
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: hotel / office
+Rank: 3

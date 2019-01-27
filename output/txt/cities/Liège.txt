@@ -1,0 +1,20 @@
+*** Liège (2) ***
+1. Tour Paradis, 136m
+
+******************** DETAILS ********************
+
+*** Liège ***
+Country: Belgium
+Region: Europe
+1 tower: Tour Paradis
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour Paradis ***
+Height: 136
+Floors: 27
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 1

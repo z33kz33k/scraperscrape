@@ -1,0 +1,68 @@
+*** Tysons Corner (10) ***
+1. Capitol One Headquarters, 143m
+2. Lumen at Tyson, 117m
+3. Vita, 110m
+4. Adaire, 110m
+5. Nouvelle, 104m
+6. Tysons Tower, 97m
+
+******************** DETAILS ********************
+
+*** Tysons Corner ***
+Country: United States
+Region: North America
+6 towers: Capitol One Headquarters, Lumen at Tyson, Vita, Adaire, Nouvelle, Tysons Tower
+Tiers: I: 2, II: 4
+Rating: 10 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Capitol One Headquarters ***
+Height: 143.26
+Floors: 31
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 1
+
+*** Lumen at Tyson ***
+Height: 117.04
+Floors: 32
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Vita ***
+Height: 110.33
+Floors: 32
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Adaire ***
+Height: 109.7
+Floors: 34
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 4
+
+*** Nouvelle ***
+Height: 104
+Floors: 27
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 5
+
+*** Tysons Tower ***
+Height: 97
+Floors: 22
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 6

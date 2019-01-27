@@ -1,0 +1,20 @@
+*** Travemunde (2) ***
+1. Maritim Hotel Travem&uuml;nde, 119m
+
+******************** DETAILS ********************
+
+*** Travemunde ***
+Country: Germany
+Region: Europe
+1 tower: Maritim Hotel Travem&uuml;nde
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Maritim Hotel Travem&uuml;nde ***
+Height: 119
+Floors: 36
+Status: Completed
+Completed: 1974
+Functions: residential / hotel
+Rank: 1

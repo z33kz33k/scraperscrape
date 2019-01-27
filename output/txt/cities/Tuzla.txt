@@ -1,0 +1,21 @@
+*** Tuzla (2) ***
+1. Mellain Center, 110m
+
+******************** DETAILS ********************
+
+*** Tuzla ***
+Country: Bosnia And Herzegovina
+Region: Europe
+1 tower: Mellain Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mellain Center ***
+Height: 110
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: hotel / office / hospital
+Rank: 1

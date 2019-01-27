@@ -1,0 +1,41 @@
+*** Basel (9) ***
+1. Roche Turm Bau 2, 205m
+2. Roche Turm Bau 1, 178m
+3. Basler Messeturm, 105m
+
+******************** DETAILS ********************
+
+*** Basel ***
+Country: Switzerland
+Region: Europe
+3 towers: Roche Turm Bau 2, Roche Turm Bau 1, Basler Messeturm
+Tiers: I: 1, III: 2
+Rating: 9 (44.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Roche Turm Bau 2 ***
+Height: 205
+Floors: 50
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: office
+Rank: 1
+
+*** Roche Turm Bau 1 ***
+Height: 178
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 2
+
+*** Basler Messeturm ***
+Height: 105
+Floors: 32
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: hotel / office
+Rank: 3

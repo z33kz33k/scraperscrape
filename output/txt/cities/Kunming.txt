@@ -1,0 +1,289 @@
+*** Kunming (136) ***
+1.  Dongfeng Plaza Landmark Tower, 407m
+2.  Spring City 66, 349m
+3.  Dongfeng Plaza Tower 2, 326m
+4.  Fanya International Finance Building North, 318m
+5.  Fanya International Finance Building South, 318m
+6.  Kunming Rainbow Yunnan First City Tower 1, 286m
+7.  Tongde Kunming Plaza, 269m
+8.  Landmark Plaza Tower A, 260m
+9.  Yowe Center, 239m
+10. Kunming Iron and Steel Building, 219m
+11. Yonghe Plaza Tower A, 219m
+12. Yonghe Plaza Tower B, 219m
+13. Harmonious Century Tower A, 210m
+14. Harmonious Century Tower B, 210m
+15. Dragon Building, 186m
+16. Kunming Century Square, 180m
+17. Yilong · Vientiane City, 171m
+18. Kunming Rainbow Yunnan First City Tower 2, 171m
+19. South Asian First City A, 168m
+20. Office Building at Erji Road, 168m
+21. Star Fortune Center A, 166m
+22. Xanadu Building, 150m
+23. Kai Wah Plaza A, 150m
+24. Kunlun Center, 150m
+25. Colorful Yunnan • Flower City Tower A, 125m
+26. Wanda Vista Hotel, 100m
+27. Wanda International Decorated Apartment 1, 100m
+28. Wanda International Decorated Apartment 2, 100m
+29. Colorful Yunnan • Flower City Tower B, 96m
+
+******************** DETAILS ********************
+
+*** Kunming ***
+Country: China
+Region: Asia
+29 towers: Dongfeng Plaza Landmark Tower, Spring City 66, Dongfeng Plaza Tower 2, Fanya International Finance Building North, Fanya International Finance Building South, Kunming Rainbow Yunnan First City Tower 1, Tongde Kunming Plaza, Landmark Plaza Tower A, Yowe Center, Kunming Iron and Steel Building, Yonghe Plaza Tower A, Yonghe Plaza Tower B, Harmonious Century Tower A, Harmonious Century Tower B, Dragon Building, Kunming Century Square, Yilong · Vientiane City, Kunming Rainbow Yunnan First City Tower 2, South Asian First City A, Office Building at Erji Road, Star Fortune Center A, Xanadu Building, Kai Wah Plaza A, Kunlun Center, Colorful Yunnan • Flower City Tower A, Wanda Vista Hotel, Wanda International Decorated Apartment 1, Wanda International Decorated Apartment 2, Colorful Yunnan • Flower City Tower B
+Tiers: I: 4, II: 1, III: 12, IV: 7, V: 5
+Rating: 136 (38.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dongfeng Plaza Landmark Tower ***
+Height: 407
+Floors: 100
+Status: Under Construction
+Started: 2017
+Completed: 2022
+Functions: hotel / office / retail
+Rank: 1
+
+*** Spring City 66 ***
+Height: 349
+Floors: 61
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** Dongfeng Plaza Tower 2 ***
+Height: 326
+Floors: 72
+Status: Under Construction
+Started: 2017
+Completed: 2022
+Functions: SOHO / retail
+Rank: 3
+
+*** Fanya International Finance Building North ***
+Height: 317.76
+Floors: 67
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 4
+
+*** Fanya International Finance Building South ***
+Height: 317.76
+Floors: 66
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 5
+
+*** Kunming Rainbow Yunnan First City Tower 1 ***
+Height: 286
+Floors: 56
+Status: Under Construction
+Started: 2011
+Completed: 2019
+Functions: office
+Rank: 6
+
+*** Tongde Kunming Plaza ***
+Height: 269
+Floors: 54
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel / office
+Rank: 7
+
+*** Landmark Plaza Tower A ***
+Height: 260
+Floors: 54
+Status: Under Construction
+Started: 2014
+Functions: office
+Rank: 8
+
+*** Yowe Center ***
+Height: 239
+Floors: 47
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 9
+
+*** Kunming Iron and Steel Building ***
+Height: 219.3
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: hotel / office
+Rank: 10
+
+*** Yonghe Plaza Tower A ***
+Height: 218.9
+Floors: 48
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 11
+
+*** Yonghe Plaza Tower B ***
+Height: 218.9
+Floors: 48
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 11
+
+*** Harmonious Century Tower A ***
+Height: 210
+Floors: 55
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: office
+Rank: 13
+
+*** Harmonious Century Tower B ***
+Height: 210
+Floors: 55
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: office
+Rank: 13
+
+*** Dragon Building ***
+Height: 186
+Floors: 47
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 15
+
+*** Kunming Century Square ***
+Height: 180
+Floors: 43
+Status: Completed
+Completed: 2008
+Functions: residential / hotel / office
+Rank: 16
+
+*** Yilong · Vientiane City ***
+Height: 171
+Floors: 41
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 17
+
+*** Kunming Rainbow Yunnan First City Tower 2 ***
+Height: 171
+Floors: 35
+Status: Under Construction
+Started: 2011
+Completed: 2018
+Functions: office
+Rank: 18
+
+*** South Asian First City A ***
+Height: 168
+Floors: 36
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 19
+
+*** Office Building at Erji Road ***
+Height: 168
+Floors: 32
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 20
+
+*** Star Fortune Center A ***
+Height: 166
+Floors: 36
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 21
+
+*** Xanadu Building ***
+Height: 150
+Floors: 40
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 22
+
+*** Kai Wah Plaza A ***
+Height: 150
+Floors: 37
+Status: Completed
+Completed: 1999
+Functions: hotel
+Rank: 23
+
+*** Kunlun Center ***
+Height: 150
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 24
+
+*** Colorful Yunnan • Flower City Tower A ***
+Height: 124.75
+Floors: 27
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel / retail
+Rank: 25
+
+*** Wanda Vista Hotel ***
+Height: 100
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel
+Rank: 26
+
+*** Wanda International Decorated Apartment 1 ***
+Height: 100
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 27
+
+*** Wanda International Decorated Apartment 2 ***
+Height: 100
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 27
+
+*** Colorful Yunnan • Flower City Tower B ***
+Height: 96
+Floors: 22
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 29

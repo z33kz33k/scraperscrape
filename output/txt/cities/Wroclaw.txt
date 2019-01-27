@@ -1,0 +1,21 @@
+*** Wroclaw (6) ***
+1. Sky Tower B2, 212m
+
+******************** DETAILS ********************
+
+*** Wroclaw ***
+Country: Poland
+Region: Europe
+1 tower: Sky Tower B2
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sky Tower B2 ***
+Height: 212
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: residential / office
+Rank: 1

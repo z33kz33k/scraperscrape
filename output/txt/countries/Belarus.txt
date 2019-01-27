@@ -1,0 +1,18 @@
+*** Belarus (6) ***
+1. Minsk, 6
+
+******************** DETAILS ********************
+
+*** Belarus ***
+Region: Europe
+1 city: Minsk
+Tiers: I: 2, II: 2
+Rating: 6
+
+*** Minsk ***
+Country: Belarus
+Region: Europe
+4 towers: Parus, Royal Plaza, Belbyttechproject Building, DoubleTree by Hilton Hotel Minsk
+Tiers: I: 2, II: 2
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17

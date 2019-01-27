@@ -1,0 +1,45 @@
+*** Ukraine (37) ***
+1. Kiev, 28
+2. Dnipropetrovsk, 4
+3. Donetsk, 3
+4. Odessa, 2
+
+******************** DETAILS ********************
+
+*** Ukraine ***
+Region: Europe
+4 cities: Kiev, Dnipropetrovsk, Donetsk, Odessa
+Tiers: I: 3, II: 15, III: 1
+Rating: 37
+
+*** Kiev ***
+Country: Ukraine
+Region: Europe
+14 towers: Klovski Descent 7A, Gulliver, Parus Business Center, 1 Sribnokilska, Crown, Kiev Court of Appeals, Prospect Heroiv Stalingradu 2, Silver Breeze 1, Silver Breeze 2, Silver Breeze 3, 101 Tower, Ministry of Transport, PecherSky, Olympic
+Tiers: I: 2, II: 11, III: 1
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dnipropetrovsk ***
+Country: Ukraine
+Region: Europe
+2 towers: Bashnia East Tower, Bashnia West Tower
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Donetsk ***
+Country: Ukraine
+Region: Europe
+2 towers: King`s Tower, Green Plaza
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Odessa ***
+Country: Ukraine
+Region: Europe
+1 tower: Ark Palace I
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17

@@ -1,0 +1,20 @@
+*** Vasteras (1) ***
+1. Skrapan, 81m
+
+******************** DETAILS ********************
+
+*** Vasteras ***
+Country: Sweden
+Region: Europe
+1 tower: Skrapan
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Skrapan ***
+Height: 81
+Floors: 26
+Status: Completed
+Completed: 1990
+Functions: hotel / office
+Rank: 1

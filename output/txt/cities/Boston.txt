@@ -1,0 +1,718 @@
+*** Boston (173) ***
+1.  200 Clarendon, 241m
+2.  Prudential Tower, 229m
+3.  Four Seasons Hotel and Private Residences One Dalton Street, 227m
+4.  Winthrop Center, 211m
+5.  Millennium Tower, 208m
+6.  Federal Reserve Building, 184m
+7.  BNY Mellon Center at One Boston Place, 183m
+8.  One International Place, 183m
+9.  100 Federal Street, 180m
+10. One Financial Center, 180m
+11. 111 Huntington Avenue, 172m
+12. Two International Place, 164m
+13. One Post Office Square, 160m
+14. One Federal Street, 158m
+15. One Congress Street Tower 1, 158m
+16. Exchange Place, 155m
+17. Sixty State Street, 155m
+18. One Beacon Street, 154m
+19. State Street Financial Center, 153m
+20. 28 State Street, 152m
+21. Marriott's Custom House, 151m
+22. John Hancock Building, 151m
+23. 33 Arch Street, 149m
+24. 225 Franklin Street, 145m
+25. Millennium Place Tower 1, 145m
+26. Atlantic Wharf, 139m
+27. High Street Tower, 138m
+28. 100 Summer Street, 137m
+29. Millennium Place Tower 2, 136m
+30. Nashua Street Residences, 126m
+31. Keystone Building, 122m
+32. Harbor Towers I, 122m
+33. One Devonshire Place, 121m
+34. Harbor Towers II, 121m
+35. Westin Hotel at Copley Place, 120m
+36. 100 High Street, 120m
+37. 75 State Street, 119m
+38. John F. Kennedy Federal Building, 118m
+39. Boston Marriott Copley Place, 116m
+40. 101 Federal Street, 116m
+41. Four Longfellow Place, 116m
+42. One Longfellow Place, 116m
+43. Pierce Boston, 115m
+44. 177 Huntington, 112m
+45. 45 Province Street, 112m
+46. 500 Boylston Street, 111m
+47. 50 Post Office Square, 111m
+48. Federal Building & J.W. McCormack Post, 105m
+49. AVA Theatre District Tower, 103m
+50. The Clarendon, 102m
+51. 101 Huntington Avenue, 102m
+52. Suffolk County Courthouse, 101m
+53. 888 Boylston Street, 99m
+54. 260 Franklin Street, 98m
+55. McCormack Building, 98m
+56. Avalon Exeter, 98m
+57. Leverett Saltonstall Building, 97m
+58. 125 Summer Street, 94m
+59. 222 Berkeley Street, 94m
+60. Ellison Building, 93m
+61. W Boston Hotel and Residences, 93m
+62. Radian Apartments, 92m
+63. Oliver Street Tower, 92m
+64. The Landmark, 91m
+65. 50 Milk Street, 88m
+66. InterContinental Boston, 88m
+67. 30 Dalton, 87m
+68. 99 Summer Street, 86m
+69. The Tree House Residence Hall at Massachusetts College of Art and Design, 85m
+70. 101 Arch Street, 84m
+71. 660 Washington Apartments, 84m
+72. Tremont on the Common, 81m
+73. State Street Trust Building, 80m
+74. 121 Seaport Boulevard, 80m
+75. 100 Northern Avenue, 77m
+76. One Marina Park Drive, 75m
+
+******************** DETAILS ********************
+
+*** Boston ***
+Country: United States
+Region: North America
+76 towers: 200 Clarendon, Prudential Tower, Four Seasons Hotel and Private Residences One Dalton Street, Winthrop Center, Millennium Tower, Federal Reserve Building, BNY Mellon Center at One Boston Place, One International Place, 100 Federal Street, One Financial Center, 111 Huntington Avenue, Two International Place, One Post Office Square, One Federal Street, One Congress Street Tower 1, Exchange Place, Sixty State Street, One Beacon Street, State Street Financial Center, 28 State Street, Marriott's Custom House, John Hancock Building, 33 Arch Street, 225 Franklin Street, Millennium Place Tower 1, Atlantic Wharf, High Street Tower, 100 Summer Street, Millennium Place Tower 2, Nashua Street Residences, Keystone Building, Harbor Towers I, One Devonshire Place, Harbor Towers II, Westin Hotel at Copley Place, 100 High Street, 75 State Street, John F. Kennedy Federal Building, Boston Marriott Copley Place, 101 Federal Street, Four Longfellow Place, One Longfellow Place, Pierce Boston, 177 Huntington, 45 Province Street, 500 Boylston Street, 50 Post Office Square, Federal Building & J.W. McCormack Post, AVA Theatre District Tower, The Clarendon, 101 Huntington Avenue, Suffolk County Courthouse, 888 Boylston Street, 260 Franklin Street, McCormack Building, Avalon Exeter, Leverett Saltonstall Building, 125 Summer Street, 222 Berkeley Street, Ellison Building, W Boston Hotel and Residences, Radian Apartments, Oliver Street Tower, The Landmark, 50 Milk Street, InterContinental Boston, 30 Dalton, 99 Summer Street, The Tree House Residence Hall at Massachusetts College of Art and Design, 101 Arch Street, 660 Washington Apartments, Tremont on the Common, State Street Trust Building, 121 Seaport Boulevard, 100 Northern Avenue, One Marina Park Drive
+Tiers: I: 29, II: 25, III: 19, IV: 3
+Rating: 173 (8.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 200 Clarendon ***
+Height: 240.79
+Floors: 62
+Status: Completed
+Started: 1972
+Completed: 1976
+Functions: office
+Rank: 1
+
+*** Prudential Tower ***
+Height: 228.6
+Floors: 52
+Status: Completed
+Completed: 1964
+Functions: office
+Rank: 2
+
+*** Four Seasons Hotel and Private Residences One Dalton Street ***
+Height: 227.23
+Floors: 61
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / hotel
+Rank: 3
+
+*** Winthrop Center ***
+Height: 210.52
+Floors: 48
+Status: Under Construction
+Started: 2018
+Completed: 2022
+Functions: residential / office
+Rank: 4
+
+*** Millennium Tower ***
+Height: 207.54
+Floors: 54
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** Federal Reserve Building ***
+Height: 184
+Floors: 32
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 6
+
+*** BNY Mellon Center at One Boston Place ***
+Height: 183.19
+Floors: 41
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 7
+
+*** One International Place ***
+Height: 182.88
+Floors: 46
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 8
+
+*** 100 Federal Street ***
+Height: 180.14
+Floors: 37
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 9
+
+*** One Financial Center ***
+Height: 179.83
+Floors: 46
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 10
+
+*** 111 Huntington Avenue ***
+Height: 172
+Floors: 36
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 11
+
+*** Two International Place ***
+Height: 164
+Floors: 35
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 12
+
+*** One Post Office Square ***
+Height: 160.02
+Floors: 40
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 13
+
+*** One Federal Street ***
+Height: 158.5
+Floors: 38
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 14
+
+*** One Congress Street Tower 1 ***
+Height: 158.2
+Floors: 45
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential
+Rank: 15
+
+*** Exchange Place ***
+Height: 155.45
+Floors: 39
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 16
+
+*** Sixty State Street ***
+Height: 155.15
+Floors: 38
+Status: Completed
+Completed: 1977
+Functions: office
+Rank: 17
+
+*** One Beacon Street ***
+Height: 154.5
+Floors: 36
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 18
+
+*** State Street Financial Center ***
+Height: 153.32
+Floors: 36
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 19
+
+*** 28 State Street ***
+Height: 152.4
+Floors: 40
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 20
+
+*** Marriott's Custom House ***
+Height: 151.18
+Floors: 32
+Status: Completed
+Started: 1913
+Completed: 1915
+Functions: office
+Rank: 21
+
+*** John Hancock Building ***
+Height: 150.88
+Floors: 26
+Status: Completed
+Completed: 1949
+Functions: office
+Rank: 22
+
+*** 33 Arch Street ***
+Height: 149.05
+Floors: 33
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 23
+
+*** 225 Franklin Street ***
+Height: 145.39
+Floors: 33
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 24
+
+*** Millennium Place Tower 1 ***
+Height: 144.83
+Floors: 38
+Status: Completed
+Completed: 2001
+Functions: residential / hotel
+Rank: 25
+
+*** Atlantic Wharf ***
+Height: 139
+Floors: 31
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / office
+Rank: 26
+
+*** High Street Tower ***
+Height: 137.77
+Floors: 30
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 27
+
+*** 100 Summer Street ***
+Height: 137.16
+Floors: 32
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 28
+
+*** Millennium Place Tower 2 ***
+Height: 135.77
+Floors: 36
+Status: Completed
+Completed: 2001
+Functions: residential / hotel
+Rank: 29
+
+*** Nashua Street Residences ***
+Height: 126.5
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 30
+
+*** Keystone Building ***
+Height: 122
+Floors: 32
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 31
+
+*** Harbor Towers I ***
+Height: 121.92
+Floors: 40
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 32
+
+*** One Devonshire Place ***
+Height: 120.7
+Floors: 42
+Status: Completed
+Started: 1980
+Completed: 1983
+Functions: residential / office
+Rank: 33
+
+*** Harbor Towers II ***
+Height: 120.7
+Floors: 40
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 34
+
+*** Westin Hotel at Copley Place ***
+Height: 120.4
+Floors: 36
+Status: Completed
+Completed: 1983
+Functions: hotel
+Rank: 35
+
+*** 100 High Street ***
+Height: 120
+Floors: 28
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 36
+
+*** 75 State Street ***
+Height: 118.87
+Floors: 31
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 37
+
+*** John F. Kennedy Federal Building ***
+Height: 118
+Floors: 26
+Status: Completed
+Completed: 1967
+Functions: government
+Rank: 38
+
+*** Boston Marriott Copley Place ***
+Height: 116.44
+Floors: 39
+Status: Completed
+Started: 1980
+Completed: 1984
+Functions: hotel
+Rank: 39
+
+*** 101 Federal Street ***
+Height: 116.3
+Floors: 31
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 40
+
+*** Four Longfellow Place ***
+Height: 116
+Floors: 37
+Status: Completed
+Functions: residential
+Rank: 41
+
+*** One Longfellow Place ***
+Height: 116
+Floors: 37
+Status: Completed
+Functions: residential
+Rank: 41
+
+*** Pierce Boston ***
+Height: 115.2
+Floors: 30
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 43
+
+*** 177 Huntington ***
+Height: 111.86
+Floors: 28
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 44
+
+*** 45 Province Street ***
+Height: 111.85
+Floors: 31
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 45
+
+*** 500 Boylston Street ***
+Height: 111.25
+Floors: 25
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 46
+
+*** 50 Post Office Square ***
+Height: 111
+Floors: 20
+Status: Completed
+Completed: 1947
+Functions: office
+Rank: 47
+
+*** Federal Building & J.W. McCormack Post ***
+Height: 105.2
+Floors: 22
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: government
+Rank: 48
+
+*** AVA Theatre District Tower ***
+Height: 103
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 49
+
+*** The Clarendon ***
+Height: 102.4
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 50
+
+*** 101 Huntington Avenue ***
+Height: 102.4
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 51
+
+*** Suffolk County Courthouse ***
+Height: 100.6
+Floors: 19
+Status: Completed
+Started: 1936
+Completed: 1939
+Functions: government
+Rank: 52
+
+*** 888 Boylston Street ***
+Height: 99
+Floors: 19
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office / retail
+Rank: 53
+
+*** 260 Franklin Street ***
+Height: 98.4
+Floors: 23
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 54
+
+*** McCormack Building ***
+Height: 98
+Floors: 22
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 55
+
+*** Avalon Exeter ***
+Height: 97.5
+Floors: 28
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 56
+
+*** Leverett Saltonstall Building ***
+Height: 97
+Floors: 26
+Status: Completed
+Completed: 1965
+Functions: office / residential
+Rank: 57
+
+*** 125 Summer Street ***
+Height: 94.5
+Floors: 23
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 58
+
+*** 222 Berkeley Street ***
+Height: 94.18
+Floors: 22
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 59
+
+*** Ellison Building ***
+Height: 93.4
+Floors: 24
+Status: Completed
+Started: 1989
+Completed: 1992
+Functions: hospital
+Rank: 60
+
+*** W Boston Hotel and Residences ***
+Height: 93.17
+Floors: 27
+Status: Completed
+Completed: 2009
+Functions: residential / hotel
+Rank: 61
+
+*** Radian Apartments ***
+Height: 92
+Floors: 26
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 62
+
+*** Oliver Street Tower ***
+Height: 91.75
+Floors: 21
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 63
+
+*** The Landmark ***
+Height: 90.8
+Floors: 24
+Status: Completed
+Completed: 1930
+Functions: office
+Rank: 64
+
+*** 50 Milk Street ***
+Height: 88.4
+Floors: 21
+Status: Completed
+Completed: 1982
+Functions: office
+Rank: 65
+
+*** InterContinental Boston ***
+Height: 88
+Floors: 21
+Status: Completed
+Completed: 2006
+Functions: residential / hotel
+Rank: 66
+
+*** 30 Dalton ***
+Height: 86.87
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 67
+
+*** 99 Summer Street ***
+Height: 85.95
+Floors: 20
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 68
+
+*** The Tree House Residence Hall at Massachusetts College of Art and Design ***
+Height: 85.34
+Floors: 21
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 69
+
+*** 101 Arch Street ***
+Height: 84.13
+Floors: 20
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 70
+
+*** 660 Washington Apartments ***
+Height: 83.82
+Floors: 26
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 71
+
+*** Tremont on the Common ***
+Height: 81
+Floors: 26
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 72
+
+*** State Street Trust Building ***
+Height: 80.16
+Floors: 22
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 73
+
+*** 121 Seaport Boulevard ***
+Height: 79.8
+Floors: 17
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 74
+
+*** 100 Northern Avenue ***
+Height: 77
+Floors: 17
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 75
+
+*** One Marina Park Drive ***
+Height: 75.29
+Floors: 18
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 76

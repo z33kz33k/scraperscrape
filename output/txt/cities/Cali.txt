@@ -1,0 +1,46 @@
+*** Cali (9) ***
+1. Torre de Cali, 183m
+2. Edificio Corficolombiana, 130m
+3. Torre Banco Popular, 115m
+4. Edificio Carvajal, 79m
+
+******************** DETAILS ********************
+
+*** Cali ***
+Country: Colombia
+Region: South America
+4 towers: Torre de Cali, Edificio Corficolombiana, Torre Banco Popular, Edificio Carvajal
+Tiers: I: 1, II: 2, III: 1
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre de Cali ***
+Height: 183
+Floors: 44
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 1
+
+*** Edificio Corficolombiana ***
+Height: 130
+Floors: 32
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 2
+
+*** Torre Banco Popular ***
+Height: 115
+Floors: 20
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 3
+
+*** Edificio Carvajal ***
+Height: 79
+Floors: 19
+Status: Completed
+Functions: office
+Rank: 4

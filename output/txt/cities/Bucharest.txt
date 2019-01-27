@@ -1,0 +1,107 @@
+*** Bucharest (12) ***
+1.  Floreasca City Sky Tower, 137m
+2.  Tower Center International, 120m
+3.  Casa Presei, 104m
+4.  Palace of the Parliament, 84m
+5.  Bucharest Financial Plaza, 83m
+6.  BRD-GSG Tower, 82m
+7.  Euro Tower, 80m
+8.  Charles de Gaulle Plaza, 80m
+9.  Hotel InterContinental Bucharest, 77m
+10. Cathedral Plaza, 75m
+
+******************** DETAILS ********************
+
+*** Bucharest ***
+Country: Romania
+Region: Europe
+10 towers: Floreasca City Sky Tower, Tower Center International, Casa Presei, Palace of the Parliament, Bucharest Financial Plaza, BRD-GSG Tower, Euro Tower, Charles de Gaulle Plaza, Hotel InterContinental Bucharest, Cathedral Plaza
+Tiers: I: 8, II: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Floreasca City Sky Tower ***
+Height: 137
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 1
+
+*** Tower Center International ***
+Height: 120
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: office
+Rank: 2
+
+*** Casa Presei ***
+Height: 104
+Floors: 14
+Status: Completed
+Completed: 1956
+Functions: office
+Rank: 3
+
+*** Palace of the Parliament ***
+Height: 84
+Floors: 12
+Status: Completed
+Started: 1981
+Completed: 1988
+Functions: government
+Rank: 4
+
+*** Bucharest Financial Plaza ***
+Height: 83
+Floors: 18
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 5
+
+*** BRD-GSG Tower ***
+Height: 82
+Floors: 19
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 6
+
+*** Euro Tower ***
+Height: 80
+Floors: 20
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 7
+
+*** Charles de Gaulle Plaza ***
+Height: 80
+Floors: 16
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 8
+
+*** Hotel InterContinental Bucharest ***
+Height: 77
+Floors: 25
+Status: Completed
+Started: 1969
+Completed: 1970
+Functions: hotel
+Rank: 9
+
+*** Cathedral Plaza ***
+Height: 75
+Floors: 19
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 10

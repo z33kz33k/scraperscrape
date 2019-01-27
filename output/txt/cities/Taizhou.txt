@@ -1,0 +1,21 @@
+*** Taizhou (8) ***
+1. Taizhou Tiansheng Center, 299m
+
+******************** DETAILS ********************
+
+*** Taizhou ***
+Country: China
+Region: Asia
+1 tower: Taizhou Tiansheng Center
+Tiers: V: 1
+Rating: 8 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Taizhou Tiansheng Center ***
+Height: 299
+Floors: 66
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: hotel / office
+Rank: 1

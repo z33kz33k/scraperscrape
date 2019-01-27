@@ -1,0 +1,212 @@
+*** Barcelona (32) ***
+1.  Hotel de las Artes, 154m
+2.  Torre Mapfre, 154m
+3.  Torre Glòries, 144m
+4.  Sky Barcelona, 115m
+5.  Edificio Colon, 110m
+6.  Torre Diagonal 00 Telefonica Tower, 110m
+7.  Hotel Princess, 109m
+8.  W Barcelona Hotel, 99m
+9.  AC Hotel Barcelona, 94m
+10. Illa del Mar 1, 90m
+11. Illa de la Llum 1, 88m
+12. Consorci de la Zona Franca, 88m
+13. Torre Mare Nostrum, 86m
+14. La Caixa I, 85m
+15. Hilton Diagonal Mar Barcelona, 85m
+16. Banc Sabadell, 83m
+17. Porta Firal Auditori, 80m
+18. Torre Catalunya, 80m
+19. Torre Tarragona, 78m
+20. Torre Núñez y Navarro, 77m
+21. Illa del Mar 2, 77m
+
+******************** DETAILS ********************
+
+*** Barcelona ***
+Country: Spain
+Region: Europe
+21 towers: Hotel de las Artes, Torre Mapfre, Torre Glòries, Sky Barcelona, Edificio Colon, Torre Diagonal 00 Telefonica Tower, Hotel Princess, W Barcelona Hotel, AC Hotel Barcelona, Illa del Mar 1, Illa de la Llum 1, Consorci de la Zona Franca, Torre Mare Nostrum, La Caixa I, Hilton Diagonal Mar Barcelona, Banc Sabadell, Porta Firal Auditori, Torre Catalunya, Torre Tarragona, Torre Núñez y Navarro, Illa del Mar 2
+Tiers: I: 14, II: 5, III: 2
+Rating: 32
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hotel de las Artes ***
+Height: 154
+Floors: 44
+Status: Completed
+Completed: 1992
+Functions: hotel
+Rank: 1
+
+*** Torre Mapfre ***
+Height: 154
+Floors: 40
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 2
+
+*** Torre Glòries ***
+Height: 144.44
+Floors: 35
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 3
+
+*** Sky Barcelona ***
+Height: 115.2
+Floors: 31
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hotel
+Rank: 4
+
+*** Edificio Colon ***
+Height: 110
+Floors: 28
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 5
+
+*** Torre Diagonal 00 Telefonica Tower ***
+Height: 110
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 6
+
+*** Hotel Princess ***
+Height: 109
+Floors: 26
+Status: Completed
+Completed: 2004
+Functions: hotel
+Rank: 7
+
+*** W Barcelona Hotel ***
+Height: 98.75
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: hotel
+Rank: 8
+
+*** AC Hotel Barcelona ***
+Height: 93.9
+Floors: 22
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: hotel
+Rank: 9
+
+*** Illa del Mar 1 ***
+Height: 90
+Floors: 27
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 10
+
+*** Illa de la Llum 1 ***
+Height: 88.32
+Floors: 26
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 11
+
+*** Consorci de la Zona Franca ***
+Height: 87.88
+Floors: 22
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 12
+
+*** Torre Mare Nostrum ***
+Height: 86
+Floors: 22
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: office
+Rank: 13
+
+*** La Caixa I ***
+Height: 85
+Floors: 26
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 14
+
+*** Hilton Diagonal Mar Barcelona ***
+Height: 85
+Floors: 25
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: hotel
+Rank: 15
+
+*** Banc Sabadell ***
+Height: 83
+Floors: 23
+Status: Completed
+Started: 1966
+Completed: 1969
+Functions: office
+Rank: 16
+
+*** Porta Firal Auditori ***
+Height: 80
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: office
+Rank: 17
+
+*** Torre Catalunya ***
+Height: 80
+Floors: 25
+Status: Completed
+Completed: 1970
+Functions: hotel
+Rank: 17
+
+*** Torre Tarragona ***
+Height: 78
+Floors: 22
+Status: Completed
+Started: 1994
+Completed: 1998
+Functions: office
+Rank: 19
+
+*** Torre Núñez y Navarro ***
+Height: 77
+Floors: 20
+Status: Completed
+Completed: 1993
+Functions: office
+Rank: 20
+
+*** Illa del Mar 2 ***
+Height: 76.8
+Floors: 22
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential / retail
+Rank: 21

@@ -1,0 +1,100 @@
+*** Vilnius (10) ***
+1. Europa Tower, 129m
+2. Helios City Tower A, 96m
+3. Europa Square Apartments, 95m
+4. Vilnius Business Harbour Tower A, 86m
+5. Reval Hotel Lietuva, 85m
+6. Grand Office, 82m
+7. Municipality Building, 77m
+8. Vilnius Gate Apartments, 77m
+9. Victoria Tower, 76m
+
+******************** DETAILS ********************
+
+*** Vilnius ***
+Country: Lithuania
+Region: Europe
+9 towers: Europa Tower, Helios City Tower A, Europa Square Apartments, Vilnius Business Harbour Tower A, Reval Hotel Lietuva, Grand Office, Municipality Building, Vilnius Gate Apartments, Victoria Tower
+Tiers: I: 8, II: 1
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Europa Tower ***
+Height: 129
+Floors: 33
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 1
+
+*** Helios City Tower A ***
+Height: 96
+Floors: 27
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 2
+
+*** Europa Square Apartments ***
+Height: 94.57
+Floors: 27
+Status: Completed
+Started: 2003
+Completed: 2004
+Functions: residential
+Rank: 3
+
+*** Vilnius Business Harbour Tower A ***
+Height: 86
+Floors: 24
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 4
+
+*** Reval Hotel Lietuva ***
+Height: 85.3
+Floors: 23
+Status: Completed
+Completed: 1983
+Functions: hotel
+Rank: 5
+
+*** Grand Office ***
+Height: 82.4
+Floors: 22
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: office
+Rank: 6
+
+*** Municipality Building ***
+Height: 76.85
+Floors: 20
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: government
+Rank: 7
+
+*** Vilnius Gate Apartments ***
+Height: 76.65
+Floors: 18
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 8
+
+*** Victoria Tower ***
+Height: 76.3
+Floors: 16
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: office
+Rank: 9

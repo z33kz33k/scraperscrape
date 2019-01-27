@@ -1,0 +1,21 @@
+*** Gulf Shores (1) ***
+1. Island Tower, 79m
+
+******************** DETAILS ********************
+
+*** Gulf Shores ***
+Country: United States
+Region: North America
+1 tower: Island Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Island Tower ***
+Height: 79.25
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 1

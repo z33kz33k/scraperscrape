@@ -1,0 +1,29 @@
+*** Cordoba (4) ***
+1. Capitalinas Phase II, 126m
+2. Torre Angela, 110m
+
+******************** DETAILS ********************
+
+*** Cordoba ***
+Country: Argentina
+Region: South America
+2 towers: Capitalinas Phase II, Torre Angela
+Tiers: II: 2
+Rating: 4 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Capitalinas Phase II ***
+Height: 126
+Floors: 37
+Status: Architecturally Topped Out
+Completed: 2019
+Functions: hotel / office
+Rank: 1
+
+*** Torre Angela ***
+Height: 110
+Floors: 31
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 2

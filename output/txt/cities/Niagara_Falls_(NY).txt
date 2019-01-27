@@ -1,0 +1,21 @@
+*** Niagara Falls (NY) (2) ***
+1. Seneca Niagara Casino Tower, 109m
+
+******************** DETAILS ********************
+
+*** Niagara Falls (NY) ***
+Country: United States
+Region: North America
+1 tower: Seneca Niagara Casino Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Seneca Niagara Casino Tower ***
+Height: 109.1
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: hotel / casino
+Rank: 1

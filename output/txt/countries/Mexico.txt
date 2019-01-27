@@ -1,0 +1,117 @@
+*** Mexico (400) ***
+1.  Mexico City, 243
+2.  San Pedro Garza García, 52
+3.  Monterrey, 31
+4.  Guadalajara, 22
+5.  Puebla, 20
+6.  Zapopan, 16
+7.  Huixquilucan, 6
+8.  Tijuana, 3
+9.  Acapulco, 2
+10. Ciudad Victoria, 2
+11. Santa Catarina, 2
+12. Cancún, 1
+
+******************** DETAILS ********************
+
+*** Mexico ***
+Region: North America
+12 cities: Mexico City, San Pedro Garza García, Monterrey, Guadalajara, Puebla, Zapopan, Huixquilucan, Tijuana, Acapulco, Ciudad Victoria, Santa Catarina, Cancún
+Tiers: I: 40, II: 71, III: 36, IV: 11, V: 1
+Rating: 400 (24.8% uncompleted)
+
+*** Mexico City ***
+Country: Mexico
+Region: North America
+104 towers: Torre Mitikah Residencial, Torre Reforma, Chapultepec Uno, Torre BBVA Bancomer, Torre Mayor, Torre Ejecutiva Pemex, Downtown & Be Grand Reforma, Torre Paradox, Torre Altus, Torre Reforma Latino, Torre Latinoamerica, Torres Cuarzo Office Tower, Miyana - Tower 1, Torre M, Peninsula Santa Fe T 300, Siroco Tower, World Trade Center, Sofitel Hotel Mexico City, Peninsula Tower, Reforma 180, Arcos Torre I, Arcos Torre II, Althaus San Angel, Torre Diana, Reforma 342, Torre Altaire I, Torre Libertad, Torre Lomas, Torre Manacar, Santa Fe Pads, Centro Operativo BBVA Bancomer, Hyatt Regency Mexico City, Torre Del Caballito, Althaus Pedregal, Torre Mural, Polarea Fase 6, Torre Mexicano de Aviacion, Corporativo Reforma Diana, Torre HSBC, Torre Virreyes, Hotel Presidente InterContinental, Residencial del Bosque 1, Residencial del Bosque 2, Torre Glorieta, SEP Torre Independencia, Reforma 243, Reforma 222 Torre 2, Reforma 222 Torre 1, Punta Poniente, Corporativo Santa Fe 505, Torre Reforma, Paragon Santa Fe, Panorama Santa Fe, Hotel Presidente Chalpultepec Suites, Plaza Juarez Torre I, Torre Metropol, Corporativo World Plaza, Residencial Palmas Kamerun, Corporativo Zentrum, Torre Cuadrata, Centro Bursátil, House Santa Fe, Reforma 265, Torre SCT, Edificio Tlatelolco, Hotel JW Marriott, Secretaria de Relaciones Exteriores, Torres Cuarzo Hotel, Edificio Miguel E Abed, Insurgentes 1458, Capital Reforma A, Capital Reforma B, Hilton Mexico City Reforma, Reforma 27, Torre Polanco, Torre Ruben Dario, Magenta Reforma, Torre Prisma, Reforma 147, Fundacion Miguel Aleman 1, Residencial Fundacion, Reforma 156, Fiesta Americana Reforma, Fundacion Miguel Aleman 2, Reforma 222 Torre 3, Tribunal Superior de Justicia del Distrito Federal, Condominio Ruben Dario 61, Edificio Reforma Belgrado, Edificio Banamex, Plaza Residences, Insurgentes 863, Fiesta Americana Grand Chapultepec Mexico, Reforma 295, Reforma 99, Torre Indigo, Reforma 164, Reforma 199, Torre Cervantes, Reforma 389, Krystal Grand Reforma Uno, Insurgentes 1647, Reforma 383, Reforma 175, PGR Reforma
+Tiers: I: 31, II: 46, III: 21, IV: 6
+Rating: 243 (16.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** San Pedro Garza García ***
+Country: Mexico
+Region: North America
+17 towers: Torre KOI, Metropolitan Center Torre III, Torre Avalanz, Metropolitan Center Torre II, LIU East, Torre Sofia, Helicon, Saqqara Recidences 1, Saqqara Recidences 2, Torre Commercial America, Metropolitan Center Torre I, Equus 333 Torre 1, Equus 333 Torre 2, Magma West Tower, Equus 333 Torre 3, Magma East Tower, La Diana 1
+Tiers: I: 4, II: 4, III: 7, IV: 2
+Rating: 52 (19.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Monterrey ***
+Country: Mexico
+Region: North America
+9 towers: T.Op Torre 1, Pabellon M, Santa Maria Torre 6, Centro de Gobierno Plaza Civica, Lola!, T.Op Torre 2, Oficinas en el Parque Torre II, Centro Médico AVE, Oficinas en el Parque Torre I
+Tiers: I: 1, II: 3, III: 4, V: 1
+Rating: 31 (58.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Guadalajara ***
+Country: Mexico
+Region: North America
+9 towers: Hotel Riu Plaza Guadalajara, Corporativo Bansi, Midtown Jalisco Office Tower, Americas 1254, Torre Niba, Americas 1500, Condominios Country Club, The Westin Guadalajara, Torre Chapultepec
+Tiers: I: 2, II: 5, III: 1, IV: 1
+Rating: 22 (36.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Puebla ***
+Country: Mexico
+Region: North America
+5 towers: Oak 58 High Living, Torre JV Angelopolis, Torre NVBOLA, Torre JV III, Torre Adamant
+Tiers: II: 2, III: 1, IV: 2
+Rating: 20 (80.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zapopan ***
+Country: Mexico
+Region: North America
+6 towers: Hyatt Regency Andares, Torre Aura Altitude, Torre Cube II, Torre Titanium, Torre Aura Puerta de Hierro, Centro Medico Puerta de Hierro
+Tiers: II: 4, III: 2
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Huixquilucan ***
+Country: Mexico
+Region: North America
+3 towers: Bosque Real Tower A, Bosque Real Tower B, Bosque Real Tower C
+Tiers: II: 3
+Rating: 6 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tijuana ***
+Country: Mexico
+Region: North America
+2 towers: New City Medical Plaza, New City Residential Diamond Tower
+Tiers: I: 1, II: 1
+Rating: 3 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Acapulco ***
+Country: Mexico
+Region: North America
+1 tower: Oceanic 2000
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ciudad Victoria ***
+Country: Mexico
+Region: North America
+1 tower: Torre Gubernamental
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-21 23:13:09
+
+*** Santa Catarina ***
+Country: Mexico
+Region: North America
+1 tower: Lovft
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Cancún ***
+Country: Mexico
+Region: North America
+1 tower: Secrets The Vine
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

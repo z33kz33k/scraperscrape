@@ -1,0 +1,20 @@
+*** Ufa (1) ***
+1. Uralsib Bank, 100m
+
+******************** DETAILS ********************
+
+*** Ufa ***
+Country: Russia
+Region: Europe
+1 tower: Uralsib Bank
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Uralsib Bank ***
+Height: 100.5
+Floors: 26
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 1

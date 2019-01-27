@@ -1,0 +1,508 @@
+*** Doha (207) ***
+1.  Aspire Tower, 300m
+2.  Kempinski Residences and Suites, 253m
+3.  Palm Tower 1, 244m
+4.  Palm Tower 2, 244m
+5.  World Trade Center Doha, 241m
+6.  Doha Tower, 238m
+7.  Hilton Double Tree Sinyar Tower, 230m
+8.  Al Faisal Tower, 227m
+9.  Al Asmakh Tower, 227m
+10. Qatar Petroleum District Tower 7, 223m
+11. InterContinental Hotel West Bay, 220m
+12. JW Marriott Hotel Tower, 216m
+13. Katara Towers, 211m
+14. Navigation Tower, 209m
+15. Gateway Towers AQ-1, 201m
+16. Gateway Towers AQ-2, 201m
+17. City Centre Rotana Doha, 200m
+18. Shangri-La Hotel, 200m
+19. Al Baker Executive Tower 1, 200m
+20. Merweb Hotel City Center, 200m
+21. Marriott Marquis City Center Doha Hotel, 200m
+22. Marriott Marquis City Center Doha Hotel South Tower, 200m
+23. Al Baker Executive Tower 2, 200m
+24. Al Bidda Tower, 197m
+25. Samrya Twin Towers East, 196m
+26. Samrya Twin Towers West, 196m
+27. Tornado Tower, 195m
+28. Qatar International Islamic Bank Headquarters Tower, 191m
+29. Samrya 44 Hotel Suites, 188m
+30. Qatar Industrial Manufacturing Co. - QIMC Tower, 184m
+31. West Bay 44, 180m
+32. Al Fardan Tower 1, 178m
+33. Rotana Arwa Tower, 176m
+34. Woqod Tower, 172m
+35. Al Dareen Tower, 159m
+36. Ooredoo Tower, 158m
+37. Mondrian Doha Hotel, 155m
+38. Traders Hotel and Serviced Apartments, 152m
+39. State Audit Bureau Tower A, 152m
+40. Commercialbank Plaza Tower, 148m
+41. West Bay Lagoon Plaza Tower 1, 143m
+42. West Bay Lagoon Plaza Tower 2, 143m
+43. State Audit Bureau Tower B, 139m
+44. Al Rayyan Tower, 134m
+45. Aamal Tower, 133m
+46. Abdullah Abdulghani Commercial Tower, 119m
+47. Ritz Carlton Hotel, 115m
+48. Doha Bank Tower, 114m
+49. RasGas Tower, 111m
+50. Hilton Doha, 105m
+51. Al Hitme Complex, 101m
+52. La Cigale Hotel, 100m
+
+******************** DETAILS ********************
+
+*** Doha ***
+Country: Qatar
+Region: Middle East
+52 towers: Aspire Tower, Kempinski Residences and Suites, Palm Tower 1, Palm Tower 2, World Trade Center Doha, Doha Tower, Hilton Double Tree Sinyar Tower, Al Faisal Tower, Al Asmakh Tower, Qatar Petroleum District Tower 7, InterContinental Hotel West Bay, JW Marriott Hotel Tower, Katara Towers, Navigation Tower, Gateway Towers AQ-1, Gateway Towers AQ-2, City Centre Rotana Doha, Shangri-La Hotel, Al Baker Executive Tower 1, Merweb Hotel City Center, Marriott Marquis City Center Doha Hotel, Marriott Marquis City Center Doha Hotel South Tower, Al Baker Executive Tower 2, Al Bidda Tower, Samrya Twin Towers East, Samrya Twin Towers West, Tornado Tower, Qatar International Islamic Bank Headquarters Tower, Samrya 44 Hotel Suites, Qatar Industrial Manufacturing Co. - QIMC Tower, West Bay 44, Al Fardan Tower 1, Rotana Arwa Tower, Woqod Tower, Al Dareen Tower, Ooredoo Tower, Mondrian Doha Hotel, Traders Hotel and Serviced Apartments, State Audit Bureau Tower A, Commercialbank Plaza Tower, West Bay Lagoon Plaza Tower 1, West Bay Lagoon Plaza Tower 2, State Audit Bureau Tower B, Al Rayyan Tower, Aamal Tower, Abdullah Abdulghani Commercial Tower, Ritz Carlton Hotel, Doha Bank Tower, RasGas Tower, Hilton Doha, Al Hitme Complex, La Cigale Hotel
+Tiers: I: 3, II: 10, III: 26, IV: 12, V: 1
+Rating: 207 (9.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Aspire Tower ***
+Height: 300
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: hotel / office
+Rank: 1
+
+*** Kempinski Residences and Suites ***
+Height: 253.27
+Floors: 64
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 2
+
+*** Palm Tower 1 ***
+Height: 244.45
+Floors: 58
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 3
+
+*** Palm Tower 2 ***
+Height: 244.45
+Floors: 58
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 3
+
+*** World Trade Center Doha ***
+Height: 241.08
+Floors: 51
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 5
+
+*** Doha Tower ***
+Height: 238.1
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2012
+Functions: office
+Rank: 6
+
+*** Hilton Double Tree Sinyar Tower ***
+Height: 230
+Floors: 53
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: serviced apartments
+Rank: 7
+
+*** Al Faisal Tower ***
+Height: 227
+Floors: 54
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 8
+
+*** Al Asmakh Tower ***
+Height: 227
+Floors: 34
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 9
+
+*** Qatar Petroleum District Tower 7 ***
+Height: 222.8
+Floors: 47
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 10
+
+*** InterContinental Hotel West Bay ***
+Height: 220
+Floors: 59
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: residential / hotel
+Rank: 11
+
+*** JW Marriott Hotel Tower ***
+Height: 216.25
+Floors: 52
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: hotel
+Rank: 12
+
+*** Katara Towers ***
+Height: 211
+Floors: 40
+Status: Under Construction
+Functions: hotel
+Rank: 13
+
+*** Navigation Tower ***
+Height: 209.05
+Floors: 53
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: office
+Rank: 14
+
+*** Gateway Towers AQ-1 ***
+Height: 201
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 15
+
+*** Gateway Towers AQ-2 ***
+Height: 201
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 15
+
+*** City Centre Rotana Doha ***
+Height: 200
+Floors: 58
+Status: Completed
+Started: 2006
+Completed: 2014
+Functions: hotel
+Rank: 17
+
+*** Shangri-La Hotel ***
+Height: 200
+Floors: 58
+Status: Completed
+Started: 2006
+Completed: 2014
+Functions: residential / hotel
+Rank: 17
+
+*** Al Baker Executive Tower 1 ***
+Height: 200
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 19
+
+*** Merweb Hotel City Center ***
+Height: 200
+Floors: 51
+Status: Completed
+Started: 2006
+Completed: 2014
+Functions: residential / hotel
+Rank: 20
+
+*** Marriott Marquis City Center Doha Hotel ***
+Height: 200
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: hotel
+Rank: 21
+
+*** Marriott Marquis City Center Doha Hotel South Tower ***
+Height: 200
+Floors: 50
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: hotel
+Rank: 21
+
+*** Al Baker Executive Tower 2 ***
+Height: 200
+Floors: 48
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 23
+
+*** Al Bidda Tower ***
+Height: 196.6
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 24
+
+*** Samrya Twin Towers East ***
+Height: 196
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 25
+
+*** Samrya Twin Towers West ***
+Height: 196
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 25
+
+*** Tornado Tower ***
+Height: 195.1
+Floors: 51
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 27
+
+*** Qatar International Islamic Bank Headquarters Tower ***
+Height: 190.76
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 28
+
+*** Samrya 44 Hotel Suites ***
+Height: 188.5
+Floors: 45
+Status: Under Construction
+Functions: hotel
+Rank: 29
+
+*** Qatar Industrial Manufacturing Co. - QIMC Tower ***
+Height: 184.1
+Floors: 38
+Status: Under Construction
+Functions: office / residential / hotel / retail
+Rank: 30
+
+*** West Bay 44 ***
+Height: 180
+Floors: 49
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 31
+
+*** Al Fardan Tower 1 ***
+Height: 178
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 32
+
+*** Rotana Arwa Tower ***
+Height: 176
+Floors: 39
+Status: Completed
+Started: 2008
+Completed: 2016
+Functions: serviced apartments / hotel
+Rank: 33
+
+*** Woqod Tower ***
+Height: 172
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 34
+
+*** Al Dareen Tower ***
+Height: 159
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 35
+
+*** Ooredoo Tower ***
+Height: 158
+Floors: 29
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 36
+
+*** Mondrian Doha Hotel ***
+Height: 154.8
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: hotel
+Rank: 37
+
+*** Traders Hotel and Serviced Apartments ***
+Height: 152
+Floors: 35
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: serviced apartments / hotel
+Rank: 38
+
+*** State Audit Bureau Tower A ***
+Height: 152
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 39
+
+*** Commercialbank Plaza Tower ***
+Height: 148
+Floors: 20
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 40
+
+*** West Bay Lagoon Plaza Tower 1 ***
+Height: 143
+Floors: 35
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 41
+
+*** West Bay Lagoon Plaza Tower 2 ***
+Height: 143
+Floors: 35
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 41
+
+*** State Audit Bureau Tower B ***
+Height: 139
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 43
+
+*** Al Rayyan Tower ***
+Height: 134
+Floors: 34
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 44
+
+*** Aamal Tower ***
+Height: 133
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential / office
+Rank: 45
+
+*** Abdullah Abdulghani Commercial Tower ***
+Height: 118.7
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office
+Rank: 46
+
+*** Ritz Carlton Hotel ***
+Height: 115
+Floors: 27
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 47
+
+*** Doha Bank Tower ***
+Height: 114
+Floors: 27
+Status: Completed
+Functions: office
+Rank: 48
+
+*** RasGas Tower ***
+Height: 111
+Floors: 28
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 49
+
+*** Hilton Doha ***
+Height: 105
+Floors: 28
+Status: Completed
+Completed: 2008
+Functions: hotel
+Rank: 50
+
+*** Al Hitme Complex ***
+Height: 101
+Floors: 26
+Status: Completed
+Completed: 2003
+Rank: 51
+
+*** La Cigale Hotel ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 52

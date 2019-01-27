@@ -1,0 +1,31 @@
+*** Spijkenisse (3) ***
+1. De Rokade, 113m
+2. Terras aan de Maas, 91m
+
+******************** DETAILS ********************
+
+*** Spijkenisse ***
+Country: Netherlands
+Region: Europe
+2 towers: De Rokade, Terras aan de Maas
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** De Rokade ***
+Height: 113
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** Terras aan de Maas ***
+Height: 91
+Floors: 23
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 2

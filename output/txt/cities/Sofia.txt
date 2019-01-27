@@ -1,0 +1,133 @@
+*** Sofia (19) ***
+1.  Sky Fort, 202m
+2.  Capital Fort Business Center, 126m
+3.  Millennium Center 1, 115m
+4.  Millennium Center 2, 108m
+5.  Hotel Rodina, 104m
+6.  CITUB Administrative Building, 94m
+7.  Kempinski Hotel Zografski, 90m
+8.  Millennium Center 3, 84m
+9.  Sopharma Business Tower A, 82m
+10. Hemus Hotel, 82m
+11. NPC - Prono, 81m
+12. Park Hotel Moskva, 78m
+13. City Tower, 75m
+
+******************** DETAILS ********************
+
+*** Sofia ***
+Country: Bulgaria
+Region: Europe
+13 towers: Sky Fort, Capital Fort Business Center, Millennium Center 1, Millennium Center 2, Hotel Rodina, CITUB Administrative Building, Kempinski Hotel Zografski, Millennium Center 3, Sopharma Business Tower A, Hemus Hotel, NPC - Prono, Park Hotel Moskva, City Tower
+Tiers: I: 9, II: 3, III: 1
+Rating: 19 (21.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sky Fort ***
+Height: 202.22
+Floors: 47
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 1
+
+*** Capital Fort Business Center ***
+Height: 125.8
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 2
+
+*** Millennium Center 1 ***
+Height: 115.35
+Floors: 32
+Status: Completed
+Started: 2009
+Completed: 2017
+Functions: hotel
+Rank: 3
+
+*** Millennium Center 2 ***
+Height: 108
+Floors: 24
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: office
+Rank: 4
+
+*** Hotel Rodina ***
+Height: 104
+Floors: 25
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 5
+
+*** CITUB Administrative Building ***
+Height: 94
+Floors: 22
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 6
+
+*** Kempinski Hotel Zografski ***
+Height: 89.5
+Floors: 22
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 7
+
+*** Millennium Center 3 ***
+Height: 83.9
+Floors: 18
+Status: Completed
+Started: 2009
+Completed: 2017
+Functions: residential
+Rank: 8
+
+*** Sopharma Business Tower A ***
+Height: 82
+Floors: 22
+Status: Completed
+Completed: 2011
+Functions: office / retail
+Rank: 9
+
+*** Hemus Hotel ***
+Height: 82
+Floors: 20
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 10
+
+*** NPC - Prono ***
+Height: 81
+Floors: 19
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 11
+
+*** Park Hotel Moskva ***
+Height: 78.5
+Floors: 23
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 12
+
+*** City Tower ***
+Height: 75
+Floors: 19
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 13

@@ -1,0 +1,2131 @@
+*** Shenzhen (1061) ***
+1.   Ping An Finance Center, 599m
+2.   KK100, 442m
+3.   China Resources Headquarters, 392m
+4.   Shum Yip Upperhills Tower 1, 388m
+5.   Shun Hing Square, 384m
+6.   Shenzhen Center, 376m
+7.   Galaxy Tower 1, 365m
+8.   Galaxy Tower 2, 365m
+9.   Hanking Center Tower, 359m
+10.  Huiyun Center, 348m
+11.  One Shenzhen Bay Tower 7, 341m
+12.  Shimao Qianhai Project Tower 1, 330m
+13.  Hon Kwok City Center, 329m
+14.  Baoneng Center, 327m
+15.  Shenzhen Bay Innovation and Technology Centre Tower 1, 320m
+16.  CITIC Financial Center Tower 1, 312m
+17.  East Pacific Center Tower A, 306m
+18.  Shenzhen CFC Changfu Centre, 304m
+19.  Shenzhen Zhongzhou Holdings Financial Center, 301m
+20.  OCT Tower, 300m
+21.  Shum Yip Upperhills Tower 2, 299m
+22.  Riverfront Times Square, 293m
+23.  China Horoy Qianhai Guanze Office Tower 1, 293m
+24.  Ping An Finance Center South, 293m
+25.  SEG Plaza, 292m
+26.  China Resources Qianhai Center Tower 1, 292m
+27.  C Future City East Tower, 291m
+28.  C Future City West Tower, 291m
+29.  China Chuneng Tower, 289m
+30.  Huaxun Center, 286m
+31.  One Excellence Tower 1, 284m
+32.  Excellence Century Plaza Tower 1, 280m
+33.  Shenzhen Bay Ecocity B-Tech Tower 1, 273m
+34.  NEO Tower A, 273m
+35.  Shenzhen Metro Che Kung Temple Hub, 269m
+36.  CR Capital Holdings Headquarter Building, 265m
+37.  East Pacific Center Tower B, 261m
+38.   Qianhai Financial Centre - T1, 261m
+39.  Dahanwang Tower 1, 260m
+40.  Shenzhen Special Zone Daily Tower, 260m
+41.  Shenzhen AVIC Plaza, 254m
+42.  Wongtee Plaza, 254m
+43.  Excellence Century Plaza Tower 2, 250m
+44.  North Station West Square 1, 250m
+45.  China Merchants Bank Tower, 249m
+46.  Shenzhen University Subway Station Tower, 249m
+47.  Shenzhen Bay Innovation and Technology Centre Tower 2, 247m
+48.  Shenzhen Stock Exchange, 246m
+49.  Tencent Seafront Tower 1, 246m
+50.  Shenzhen Bay Ecocity B-Tech Tower 2, 245m
+51.  Vanke Yun City, 244m
+52.  China Resources Qianhai Center Tower 5, 242m
+53.  Shenzhen Broadcasting Center I, 241m
+54.  Panglin Plaza, 240m
+55.  New World Center, 238m
+56.  Shuibei Jewelry Headquarters Tower 1, 232m
+57.  CASC International Center North Tower, 232m
+58.  China Resources Dachong Redevelopment Tower 1, 231m
+59.  Lihe Tower, 231m
+60.  UpperHills North Tower 1A, 230m
+61.  UpperHills North Tower 2A, 230m
+62.  Rongchao Headquarters Tower, 230m
+63.  China Construction Bank Building 2, 230m
+64.  Shanglong Building, 228m
+65.  Shenzhen Guosen Securities Tower, 228m
+66.  Taiping Finance Tower, 228m
+67.  Coastal Center, 225m
+68.  Jinlitong Financial Center Tower 1, 225m
+69.  Jinlitong Financial Center Tower 2, 225m
+70.  UNI-Center Tower A, 225m
+71.  China Resources Qianhai Center Tower 2, 224m
+72.  World Finance Center Tower A, 222m
+73.  Shenzhen Energy Headquarters North Tower, 222m
+74.  Nanyou Tower 1, 220m
+75.  Nanyou Tower 2, 220m
+76.  Vanke One City Office Tower, 220m
+77.  Shuiwan 1979 Tower, 220m
+78.  Longpark Grand Sights Hotel, 220m
+79.  Sino Life Insurance Building, 219m
+80.  Hung Cheung Plaza, 218m
+81.  Fortune Tower, 218m
+82.  Times Square Excellence, 218m
+83.  China Resources Dachong Redevelopment Tower 2, 218m
+84.  AVIC Center Office Tower, 216m
+85.  International Chamber of Commerce Tower, 216m
+86.  Sinotrans Logistic Centre, 213m
+87.  Vanke Times Square, 211m
+88.  China Merchants Tower, 211m
+89.  Hengmingzhu Financial Building, 211m
+90.  Ziyuanyuan Tower, 210m
+91.  Excellence Houhai Financial Center, 210m
+92.  CNOOC New Tower 1, 210m
+93.  CNOOC New Tower 2, 210m
+94.  Horizon Skyline Garden Office Tower, 209m
+95.  Shenzhen Gemdale Center Tower 1, 209m
+96.  Nanfang International Hotel, 208m
+97.  First Tower, 208m
+98.  Wenbo Tower, 208m
+99.  Southern Bosera Building, 208m
+100. Landmark, 206m
+101. East Pacific Center Tower C, 206m
+102. North Station West Square 2, 206m
+103. Prince Plaza, 205m
+104. New Century Plaza West Tower, 204m
+105. Shenzhen Venture Capital – Private Enterprise Tower, 202m
+106. Shenzhen Media Group Building, 202m
+107. Regency Hotel , 202m
+108. Guotong Building, 201m
+109. Futian Technology Plaza Tower 1, 201m
+110. China Resources Dachong Redevelopment Tower 3, 201m
+111. China Resources Qianhai Center Tower 4, 201m
+112. Jinzhonghuan International Business Building, 200m
+113. One Excellence Tower 3, 200m
+114. SF Express Headquarter Building, 200m
+115. Centralcon Group Tower, 200m
+116. Gmond International Building, 200m
+117. Shenzhen Kerry Centre II, 200m
+118. COFCO Qianhai Asia Pacific Headquarters, 200m
+119. Das Intellitech Headquarters, 200m
+120. CITIC Financial Center Tower 2, 200m
+121. Walton Heights, 199m
+122. One Excellence Tower 2, 197m
+123. Dahanwang Tower 2, 197m
+124. United Plaza A, 195m
+125. Great China International Exchange Square, 195m
+126. Tencent Seafront Tower 2, 195m
+127. Grand Hyatt Shenzhen, 195m
+128. Noble Tower, 193m
+129. Rongchao Tower, A, 193m
+130. Shenzhen Futian Shangri La, 191m
+131. One Shenzhen Bay Tower 5, 190m
+132. Shenzhen Bay Ecocity B-Tech Tower 3, 190m
+133. Baidu Headquarters, 189m
+134. New Era Plaza, 189m
+135. Qianhai Financial Centre - T2, 187m
+136. Excellence Century Plaza Tower 3, 185m
+137. Shenzhen Development Bank, 184m
+138. Taxation Bureau Building, 183m
+139. Shenzhen International Science and Technology Building, 182m
+140. Electronics Science & Technology Building, 181m
+141. Green View Apartments R5, 180m
+142. Aviva-COFCO Life Insurance Company Tower, 180m
+143. Futian Technology Plaza Tower 2, 180m
+144. Shenzhen Modern International Tower, 180m
+145. UpperHills North Tower 1B, 179m
+146. UpperHills North Tower 2B, 179m
+147. China Merchants Bank, 179m
+148. One Excellence Tower 7, 178m
+149. One Excellence Tower 8, 178m
+150. New Century Plaza East Tower, 177m
+151. China Mobile Building, 177m
+152. NEO Tower B, 176m
+153. UNI-Center Tower 1, 175m
+154. UNI-Center Tower 3, 175m
+155. UNI-Center Tower 5, 174m
+156. UNI-Center Tower 6, 174m
+157. Shen Fang Plaza, 173m
+158. World Trade Plaza, 170m
+159. Galaxy Century A, 170m
+160. Shenzhen Bay Ecocity B-Tech Tower 4, 170m
+161. Shenzhen Kerry Centre I, 170m
+162. Jiangsheng Tower, 170m
+163. Shenzhen Gemdale Center Tower 2, 168m
+164. Shenzhen Development Center, 165m
+165. Chinese Mercantile Bank Building, 165m
+166. News Center Building, 165m
+167. China Life Tower, 165m
+168. China Resources Qianhai Center Tower 3, 164m
+169. Exemption Tower, 162m
+170. Anlian Tower, 162m
+171. UNI-Center Tower B, 162m
+172. Vanke Jierong Tower, 161m
+173. Zhongzhou E-ClASS, 160m
+174. International Foreign Trade Center, 160m
+175. Juno Tower, 160m
+176. Park Lane Manor - Tower 1, 160m
+177. Park Lane Manor - Tower 2, 160m
+178. Park Lane Manor - Tower 3, 160m
+179. Sunshine Tower, 160m
+180. UNI-Center Tower 2, 159m
+181. Excellence Meilin Project Tower 1, 158m
+182. Excellence Meilin Project Tower 2, 158m
+183. Shenzhen Zhongzhou Holdings Financial Center Tower B, 158m
+184. Excellence Century Plaza Tower 4, 156m
+185. Shenzhen Xinhe World Office Tower A, 156m
+186. Shenzhen Xinhe World Office Tower B, 156m
+187. Grace Mansion, 155m
+188. Shen Ye Center, 155m
+189. Shenzhen Coastal City West Tower, 155m
+190. East Pacific Center Tower D, 155m
+191. Dayong Commercial Center 1, 153m
+192. China Travel Tower, 153m
+193. Green View Apartments R1, 150m
+194. Green View Apartments R2, 150m
+195. Green View Apartments R3, 150m
+196. Green View Apartments R4, 150m
+197. Shenzhen Bay Innovation and Technology Centre Tower 3, 150m
+198. Shenzhen Rural Commercial Bank Headquarters, 150m
+199. Tencent Tower, 150m
+200. UNI-Center Tower 4, 149m
+201. Dayong Commercial Center 2, 149m
+202. UNI-Center Tower 7, 149m
+203. One Palace, 146m
+204. Minmetals Financial Center, 145m
+205. Qianhai Financial Centre - T3, 139m
+206. CASC International Center South Tower, 135m
+207. Shenzhen Bay Ecocity B-Tech Tower 5, 134m
+208. Dayong Commercial Center 3, 130m
+209. Shenzhen Bay Innovation and Technology Centre Tower 4, 120m
+210. Futian Technology Plaza Tower 3, 120m
+211. Shenzhen Energy Headquarters South Tower, 114m
+212. JW Marriott Shenzhen Bao'an, 112m
+213. China Unicom Building, 112m
+214. Dayong Commercial Center 4, 110m
+215. Shenzhen International Chamber Of Commerce Building A, 108m
+216. China Construction Bank Building, 108m
+217. NEO Tower C, 108m
+218. Shenzhen Bay Innovation and Technology Centre Tower 5, 106m
+219. Shenye TaiRan Building, 106m
+220. Shenzhen North Plaza Tower 2, 100m
+221. One Excellence Tower 4, 96m
+222. Shenzhen Fourth People's Hospital New People's Ward Tower, 83m
+
+******************** DETAILS ********************
+
+*** Shenzhen ***
+Country: China
+Region: Asia
+222 towers: Ping An Finance Center, KK100, China Resources Headquarters, Shum Yip Upperhills Tower 1, Shun Hing Square, Shenzhen Center, Galaxy Tower 1, Galaxy Tower 2, Hanking Center Tower, Huiyun Center, One Shenzhen Bay Tower 7, Shimao Qianhai Project Tower 1, Hon Kwok City Center, Baoneng Center, Shenzhen Bay Innovation and Technology Centre Tower 1, CITIC Financial Center Tower 1, East Pacific Center Tower A, Shenzhen CFC Changfu Centre, Shenzhen Zhongzhou Holdings Financial Center, OCT Tower, Shum Yip Upperhills Tower 2, Riverfront Times Square, China Horoy Qianhai Guanze Office Tower 1, Ping An Finance Center South, SEG Plaza, China Resources Qianhai Center Tower 1, C Future City East Tower, C Future City West Tower, China Chuneng Tower, Huaxun Center, One Excellence Tower 1, Excellence Century Plaza Tower 1, Shenzhen Bay Ecocity B-Tech Tower 1, NEO Tower A, Shenzhen Metro Che Kung Temple Hub, CR Capital Holdings Headquarter Building, East Pacific Center Tower B,  Qianhai Financial Centre - T1, Dahanwang Tower 1, Shenzhen Special Zone Daily Tower, Shenzhen AVIC Plaza, Wongtee Plaza, Excellence Century Plaza Tower 2, North Station West Square 1, China Merchants Bank Tower, Shenzhen University Subway Station Tower, Shenzhen Bay Innovation and Technology Centre Tower 2, Shenzhen Stock Exchange, Tencent Seafront Tower 1, Shenzhen Bay Ecocity B-Tech Tower 2, Vanke Yun City, China Resources Qianhai Center Tower 5, Shenzhen Broadcasting Center I, Panglin Plaza, New World Center, Shuibei Jewelry Headquarters Tower 1, CASC International Center North Tower, China Resources Dachong Redevelopment Tower 1, Lihe Tower, UpperHills North Tower 1A, UpperHills North Tower 2A, Rongchao Headquarters Tower, China Construction Bank Building 2, Shanglong Building, Shenzhen Guosen Securities Tower, Taiping Finance Tower, Coastal Center, Jinlitong Financial Center Tower 1, Jinlitong Financial Center Tower 2, UNI-Center Tower A, China Resources Qianhai Center Tower 2, World Finance Center Tower A, Shenzhen Energy Headquarters North Tower, Nanyou Tower 1, Nanyou Tower 2, Vanke One City Office Tower, Shuiwan 1979 Tower, Longpark Grand Sights Hotel, Sino Life Insurance Building, Hung Cheung Plaza, Fortune Tower, Times Square Excellence, China Resources Dachong Redevelopment Tower 2, AVIC Center Office Tower, International Chamber of Commerce Tower, Sinotrans Logistic Centre, Vanke Times Square, China Merchants Tower, Hengmingzhu Financial Building, Ziyuanyuan Tower, Excellence Houhai Financial Center, CNOOC New Tower 1, CNOOC New Tower 2, Horizon Skyline Garden Office Tower, Shenzhen Gemdale Center Tower 1, Nanfang International Hotel, First Tower, Wenbo Tower, Southern Bosera Building, Landmark, East Pacific Center Tower C, North Station West Square 2, Prince Plaza, New Century Plaza West Tower, Shenzhen Venture Capital – Private Enterprise Tower, Shenzhen Media Group Building, Regency Hotel , Guotong Building, Futian Technology Plaza Tower 1, China Resources Dachong Redevelopment Tower 3, China Resources Qianhai Center Tower 4, Jinzhonghuan International Business Building, One Excellence Tower 3, SF Express Headquarter Building, Centralcon Group Tower, Gmond International Building, Shenzhen Kerry Centre II, COFCO Qianhai Asia Pacific Headquarters, Das Intellitech Headquarters, CITIC Financial Center Tower 2, Walton Heights, One Excellence Tower 2, Dahanwang Tower 2, United Plaza A, Great China International Exchange Square, Tencent Seafront Tower 2, Grand Hyatt Shenzhen, Noble Tower, Rongchao Tower, A, Shenzhen Futian Shangri La, One Shenzhen Bay Tower 5, Shenzhen Bay Ecocity B-Tech Tower 3, Baidu Headquarters, New Era Plaza, Qianhai Financial Centre - T2, Excellence Century Plaza Tower 3, Shenzhen Development Bank, Taxation Bureau Building, Shenzhen International Science and Technology Building, Electronics Science & Technology Building, Green View Apartments R5, Aviva-COFCO Life Insurance Company Tower, Futian Technology Plaza Tower 2, Shenzhen Modern International Tower, UpperHills North Tower 1B, UpperHills North Tower 2B, China Merchants Bank, One Excellence Tower 7, One Excellence Tower 8, New Century Plaza East Tower, China Mobile Building, NEO Tower B, UNI-Center Tower 1, UNI-Center Tower 3, UNI-Center Tower 5, UNI-Center Tower 6, Shen Fang Plaza, World Trade Plaza, Galaxy Century A, Shenzhen Bay Ecocity B-Tech Tower 4, Shenzhen Kerry Centre I, Jiangsheng Tower, Shenzhen Gemdale Center Tower 2, Shenzhen Development Center, Chinese Mercantile Bank Building, News Center Building, China Life Tower, China Resources Qianhai Center Tower 3, Exemption Tower, Anlian Tower, UNI-Center Tower B, Vanke Jierong Tower, Zhongzhou E-ClASS, International Foreign Trade Center, Juno Tower, Park Lane Manor - Tower 1, Park Lane Manor - Tower 2, Park Lane Manor - Tower 3, Sunshine Tower, UNI-Center Tower 2, Excellence Meilin Project Tower 1, Excellence Meilin Project Tower 2, Shenzhen Zhongzhou Holdings Financial Center Tower B, Excellence Century Plaza Tower 4, Shenzhen Xinhe World Office Tower A, Shenzhen Xinhe World Office Tower B, Grace Mansion, Shen Ye Center, Shenzhen Coastal City West Tower, East Pacific Center Tower D, Dayong Commercial Center 1, China Travel Tower, Green View Apartments R1, Green View Apartments R2, Green View Apartments R3, Green View Apartments R4, Shenzhen Bay Innovation and Technology Centre Tower 3, Shenzhen Rural Commercial Bank Headquarters, Tencent Tower, UNI-Center Tower 4, Dayong Commercial Center 2, UNI-Center Tower 7, One Palace, Minmetals Financial Center, Qianhai Financial Centre - T3, CASC International Center South Tower, Shenzhen Bay Ecocity B-Tech Tower 5, Dayong Commercial Center 3, Shenzhen Bay Innovation and Technology Centre Tower 4, Futian Technology Plaza Tower 3, Shenzhen Energy Headquarters South Tower, JW Marriott Shenzhen Bao'an, China Unicom Building, Dayong Commercial Center 4, Shenzhen International Chamber Of Commerce Building A, China Construction Bank Building, NEO Tower C, Shenzhen Bay Innovation and Technology Centre Tower 5, Shenye TaiRan Building, Shenzhen North Plaza Tower 2, One Excellence Tower 4, Shenzhen Fourth People's Hospital New People's Ward Tower
+Tiers: I: 3, II: 20, III: 111, IV: 67, V: 19, VI: 2
+Rating: 1061 (26.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ping An Finance Center ***
+Height: 599.05
+Floors: 115
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: office
+Rank: 1
+
+*** KK100 ***
+Height: 441.8
+Floors: 100
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: hotel / office
+Rank: 2
+
+*** China Resources Headquarters ***
+Height: 392.5
+Floors: 68
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 3
+
+*** Shum Yip Upperhills Tower 1 ***
+Height: 388.05
+Floors: 80
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: hotel / office
+Rank: 4
+
+*** Shun Hing Square ***
+Height: 384
+Floors: 69
+Status: Completed
+Started: 1993
+Completed: 1996
+Functions: office
+Rank: 5
+
+*** Shenzhen Center ***
+Height: 375.55
+Floors: 80
+Status: Under Construction
+Started: 2012
+Completed: 2019
+Functions: residential / office
+Rank: 6
+
+*** Galaxy Tower 1 ***
+Height: 365
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 7
+
+*** Galaxy Tower 2 ***
+Height: 365
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 7
+
+*** Hanking Center Tower ***
+Height: 358.9
+Floors: 65
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 9
+
+*** Huiyun Center ***
+Height: 347.9
+Floors: 79
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: office
+Rank: 10
+
+*** One Shenzhen Bay Tower 7 ***
+Height: 341.39
+Floors: 71
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential / hotel / office
+Rank: 11
+
+*** Shimao Qianhai Project Tower 1 ***
+Height: 330
+Floors: 70
+Status: Under Construction
+Started: 2015
+Completed: 2020
+Rank: 12
+
+*** Hon Kwok City Center ***
+Height: 329.4
+Floors: 80
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: residential / office
+Rank: 13
+
+*** Baoneng Center ***
+Height: 327.3
+Floors: 65
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 14
+
+*** Shenzhen Bay Innovation and Technology Centre Tower 1 ***
+Height: 320
+Floors: 71
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 15
+
+*** CITIC Financial Center Tower 1 ***
+Height: 312
+Status: Under Construction
+Started: 2016
+Functions: residential / office / retail
+Rank: 16
+
+*** East Pacific Center Tower A ***
+Height: 306
+Floors: 85
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 17
+
+*** Shenzhen CFC Changfu Centre ***
+Height: 304.3
+Floors: 68
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 18
+
+*** Shenzhen Zhongzhou Holdings Financial Center ***
+Height: 300.8
+Floors: 61
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: hotel / office
+Rank: 19
+
+*** OCT Tower ***
+Height: 300
+Floors: 60
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 20
+
+*** Shum Yip Upperhills Tower 2 ***
+Height: 299.25
+Floors: 62
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 21
+
+*** Riverfront Times Square ***
+Height: 293
+Floors: 64
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel / office
+Rank: 22
+
+*** China Horoy Qianhai Guanze Office Tower 1 ***
+Height: 293
+Floors: 62
+Status: Under Construction
+Started: 2016
+Completed: 2021
+Functions: office
+Rank: 23
+
+*** Ping An Finance Center South ***
+Height: 293
+Floors: 51
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: hotel / office
+Rank: 24
+
+*** SEG Plaza ***
+Height: 291.6
+Floors: 71
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 25
+
+*** China Resources Qianhai Center Tower 1 ***
+Height: 291.5
+Floors: 65
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office / retail
+Rank: 26
+
+*** C Future City East Tower ***
+Height: 290.75
+Floors: 62
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office / hotel
+Rank: 27
+
+*** C Future City West Tower ***
+Height: 290.75
+Floors: 62
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 27
+
+*** China Chuneng Tower ***
+Height: 288.6
+Floors: 62
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 29
+
+*** Huaxun Center ***
+Height: 286
+Floors: 70
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 30
+
+*** One Excellence Tower 1 ***
+Height: 283.78
+Floors: 62
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 31
+
+*** Excellence Century Plaza Tower 1 ***
+Height: 280
+Floors: 60
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 32
+
+*** Shenzhen Bay Ecocity B-Tech Tower 1 ***
+Height: 273
+Floors: 58
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: hotel / office
+Rank: 33
+
+*** NEO Tower A ***
+Height: 273
+Floors: 56
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 34
+
+*** Shenzhen Metro Che Kung Temple Hub ***
+Height: 268.8
+Floors: 55
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 35
+
+*** CR Capital Holdings Headquarter Building ***
+Height: 265
+Floors: 58
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 36
+
+*** East Pacific Center Tower B ***
+Height: 261
+Floors: 72
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 37
+
+***  Qianhai Financial Centre - T1 ***
+Height: 260.78
+Status: Under Construction
+Started: 2016
+Functions: office
+Rank: 38
+
+*** Dahanwang Tower 1 ***
+Height: 260
+Floors: 53
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Rank: 39
+
+*** Shenzhen Special Zone Daily Tower ***
+Height: 260
+Floors: 42
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 40
+
+*** Shenzhen AVIC Plaza ***
+Height: 254
+Floors: 52
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: office
+Rank: 41
+
+*** Wongtee Plaza ***
+Height: 253.55
+Floors: 65
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 42
+
+*** Excellence Century Plaza Tower 2 ***
+Height: 250
+Floors: 57
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel / office
+Rank: 43
+
+*** North Station West Square 1 ***
+Height: 250
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 44
+
+*** China Merchants Bank Tower ***
+Height: 249
+Floors: 53
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 45
+
+*** Shenzhen University Subway Station Tower ***
+Height: 249
+Floors: 51
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: hotel / office
+Rank: 46
+
+*** Shenzhen Bay Innovation and Technology Centre Tower 2 ***
+Height: 246.6
+Floors: 54
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 47
+
+*** Shenzhen Stock Exchange ***
+Height: 245.8
+Floors: 46
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office
+Rank: 48
+
+*** Tencent Seafront Tower 1 ***
+Height: 245.78
+Floors: 50
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 49
+
+*** Shenzhen Bay Ecocity B-Tech Tower 2 ***
+Height: 245
+Floors: 54
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 50
+
+*** Vanke Yun City ***
+Height: 243.84
+Floors: 56
+Status: Architecturally Topped Out
+Completed: 2019
+Functions: office
+Rank: 51
+
+*** China Resources Qianhai Center Tower 5 ***
+Height: 242
+Floors: 55
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office / retail
+Rank: 52
+
+*** Shenzhen Broadcasting Center I ***
+Height: 240.65
+Floors: 48
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 53
+
+*** Panglin Plaza ***
+Height: 240
+Floors: 57
+Status: Completed
+Completed: 2000
+Functions: hotel / office
+Rank: 54
+
+*** New World Center ***
+Height: 238
+Floors: 53
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 55
+
+*** Shuibei Jewelry Headquarters Tower 1 ***
+Height: 232.3
+Floors: 48
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 56
+
+*** CASC International Center North Tower ***
+Height: 232
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 57
+
+*** China Resources Dachong Redevelopment Tower 1 ***
+Height: 231
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 58
+
+*** Lihe Tower ***
+Height: 230.86
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 59
+
+*** UpperHills North Tower 1A ***
+Height: 230.4
+Floors: 62
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 60
+
+*** UpperHills North Tower 2A ***
+Height: 230.4
+Floors: 62
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 60
+
+*** Rongchao Headquarters Tower ***
+Height: 230
+Floors: 54
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 62
+
+*** China Construction Bank Building 2 ***
+Height: 230
+Floors: 40
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: office
+Rank: 63
+
+*** Shanglong Building ***
+Height: 228
+Floors: 50
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: residential / hotel / office
+Rank: 64
+
+*** Shenzhen Guosen Securities Tower ***
+Height: 228
+Floors: 50
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: office
+Rank: 64
+
+*** Taiping Finance Tower ***
+Height: 228
+Floors: 48
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 66
+
+*** Coastal Center ***
+Height: 225
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 67
+
+*** Jinlitong Financial Center Tower 1 ***
+Height: 225
+Floors: 46
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 67
+
+*** Jinlitong Financial Center Tower 2 ***
+Height: 225
+Floors: 46
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 67
+
+*** UNI-Center Tower A ***
+Height: 225
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 67
+
+*** China Resources Qianhai Center Tower 2 ***
+Height: 224.3
+Floors: 51
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: office / retail
+Rank: 71
+
+*** World Finance Center Tower A ***
+Height: 222.38
+Floors: 54
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 72
+
+*** Shenzhen Energy Headquarters North Tower ***
+Height: 222
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 73
+
+*** Nanyou Tower 1 ***
+Height: 220.15
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office / retail
+Rank: 74
+
+*** Nanyou Tower 2 ***
+Height: 220.15
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office / retail
+Rank: 74
+
+*** Vanke One City Office Tower ***
+Height: 220
+Floors: 51
+Status: Completed
+Started: 2015
+Completed: 2019
+Functions: office / hotel / retail
+Rank: 76
+
+*** Shuiwan 1979 Tower ***
+Height: 220
+Floors: 47
+Status: Completed
+Completed: 2016
+Functions: residential / office
+Rank: 77
+
+*** Longpark Grand Sights Hotel ***
+Height: 220
+Status: Under Construction
+Started: 2014
+Functions: hotel
+Rank: 78
+
+*** Sino Life Insurance Building ***
+Height: 219
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 79
+
+*** Hung Cheung Plaza ***
+Height: 218
+Floors: 63
+Status: Completed
+Started: 1993
+Completed: 2004
+Functions: residential / office
+Rank: 80
+
+*** Fortune Tower ***
+Height: 218
+Floors: 54
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 81
+
+*** Times Square Excellence ***
+Height: 218
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 82
+
+*** China Resources Dachong Redevelopment Tower 2 ***
+Height: 218
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 83
+
+*** AVIC Center Office Tower ***
+Height: 216.4
+Floors: 41
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office
+Rank: 84
+
+*** International Chamber of Commerce Tower ***
+Height: 215.95
+Floors: 55
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 85
+
+*** Sinotrans Logistic Centre ***
+Height: 212.8
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 86
+
+*** Vanke Times Square ***
+Height: 211
+Floors: 47
+Status: Completed
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 87
+
+*** China Merchants Tower ***
+Height: 211
+Floors: 38
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 88
+
+*** Hengmingzhu Financial Building ***
+Height: 210.6
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 89
+
+*** Ziyuanyuan Tower ***
+Height: 210
+Floors: 47
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential / office
+Rank: 90
+
+*** Excellence Houhai Financial Center ***
+Height: 210
+Floors: 46
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 91
+
+*** CNOOC New Tower 1 ***
+Height: 210
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 92
+
+*** CNOOC New Tower 2 ***
+Height: 210
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 92
+
+*** Horizon Skyline Garden Office Tower ***
+Height: 209.2
+Floors: 44
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 94
+
+*** Shenzhen Gemdale Center Tower 1 ***
+Height: 209
+Floors: 48
+Status: Under Construction
+Completed: 2020
+Functions: office
+Rank: 95
+
+*** Nanfang International Hotel ***
+Height: 208
+Floors: 53
+Status: Completed
+Completed: 2009
+Functions: hotel
+Rank: 96
+
+*** First Tower ***
+Height: 208
+Floors: 52
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 97
+
+*** Wenbo Tower ***
+Height: 208
+Floors: 48
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 98
+
+*** Southern Bosera Building ***
+Height: 208
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2018
+Functions: office
+Rank: 99
+
+*** Landmark ***
+Height: 206
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 100
+
+*** East Pacific Center Tower C ***
+Height: 206
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 101
+
+*** North Station West Square 2 ***
+Height: 205.5
+Floors: 47
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 102
+
+*** Prince Plaza ***
+Height: 204.81
+Floors: 42
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office / retail
+Rank: 103
+
+*** New Century Plaza West Tower ***
+Height: 204
+Floors: 46
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 104
+
+*** Shenzhen Venture Capital – Private Enterprise Tower ***
+Height: 202.4
+Floors: 44
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 105
+
+*** Shenzhen Media Group Building ***
+Height: 202
+Floors: 43
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 106
+
+*** Regency Hotel  ***
+Height: 202
+Floors: 42
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: hotel / office
+Rank: 107
+
+*** Guotong Building ***
+Height: 201
+Floors: 49
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 108
+
+*** Futian Technology Plaza Tower 1 ***
+Height: 201
+Floors: 43
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office / retail
+Rank: 109
+
+*** China Resources Dachong Redevelopment Tower 3 ***
+Height: 201
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 110
+
+*** China Resources Qianhai Center Tower 4 ***
+Height: 200.75
+Floors: 49
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2019
+Functions: retail
+Rank: 111
+
+*** Jinzhonghuan International Business Building ***
+Height: 200.5
+Floors: 50
+Status: Completed
+Completed: 2006
+Functions: hotel / office
+Rank: 112
+
+*** One Excellence Tower 3 ***
+Height: 200.44
+Floors: 43
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 113
+
+*** SF Express Headquarter Building ***
+Height: 200
+Floors: 45
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 114
+
+*** Centralcon Group Tower ***
+Height: 200
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 115
+
+*** Gmond International Building ***
+Height: 200
+Floors: 42
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 116
+
+*** Shenzhen Kerry Centre II ***
+Height: 200
+Floors: 42
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 116
+
+*** COFCO Qianhai Asia Pacific Headquarters ***
+Height: 200
+Floors: 41
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 118
+
+*** Das Intellitech Headquarters ***
+Height: 200
+Floors: 40
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 119
+
+*** CITIC Financial Center Tower 2 ***
+Height: 200
+Status: Under Construction
+Started: 2016
+Functions: hotel / serviced apartments / retail
+Rank: 120
+
+*** Walton Heights ***
+Height: 199
+Floors: 57
+Status: Completed
+Completed: 2005
+Functions: hotel / office
+Rank: 121
+
+*** One Excellence Tower 2 ***
+Height: 197.2
+Floors: 52
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 122
+
+*** Dahanwang Tower 2 ***
+Height: 197
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Rank: 123
+
+*** United Plaza A ***
+Height: 195
+Floors: 56
+Status: Completed
+Started: 1992
+Completed: 1998
+Functions: office
+Rank: 124
+
+*** Great China International Exchange Square ***
+Height: 195
+Floors: 42
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 125
+
+*** Tencent Seafront Tower 2 ***
+Height: 194.75
+Floors: 38
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 126
+
+*** Grand Hyatt Shenzhen ***
+Height: 194.7
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: hotel
+Rank: 127
+
+*** Noble Tower ***
+Height: 193.2
+Floors: 38
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 128
+
+*** Rongchao Tower, A ***
+Height: 193
+Floors: 46
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 129
+
+*** Shenzhen Futian Shangri La ***
+Height: 191
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: hotel
+Rank: 130
+
+*** One Shenzhen Bay Tower 5 ***
+Height: 190
+Floors: 52
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 131
+
+*** Shenzhen Bay Ecocity B-Tech Tower 3 ***
+Height: 190
+Floors: 43
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 132
+
+*** Baidu Headquarters ***
+Height: 189.3
+Floors: 43
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 133
+
+*** New Era Plaza ***
+Height: 188.67
+Floors: 38
+Status: Completed
+Started: 1995
+Completed: 1997
+Functions: office
+Rank: 134
+
+*** Qianhai Financial Centre - T2 ***
+Height: 186.53
+Status: Structurally Topped Out
+Started: 2015
+Functions: office
+Rank: 135
+
+*** Excellence Century Plaza Tower 3 ***
+Height: 185
+Floors: 45
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 136
+
+*** Shenzhen Development Bank ***
+Height: 183.62
+Floors: 35
+Status: Completed
+Started: 1992
+Completed: 1996
+Functions: office
+Rank: 137
+
+*** Taxation Bureau Building ***
+Height: 182.8
+Floors: 40
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: office
+Rank: 138
+
+*** Shenzhen International Science and Technology Building ***
+Height: 182
+Floors: 45
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 139
+
+*** Electronics Science & Technology Building ***
+Height: 181
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 140
+
+*** Green View Apartments R5 ***
+Height: 180
+Floors: 47
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 141
+
+*** Aviva-COFCO Life Insurance Company Tower ***
+Height: 180
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 142
+
+*** Futian Technology Plaza Tower 2 ***
+Height: 180
+Floors: 37
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office
+Rank: 143
+
+*** Shenzhen Modern International Tower ***
+Height: 180
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 144
+
+*** UpperHills North Tower 1B ***
+Height: 178.85
+Floors: 49
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 145
+
+*** UpperHills North Tower 2B ***
+Height: 178.85
+Floors: 49
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 145
+
+*** China Merchants Bank ***
+Height: 178.85
+Floors: 35
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2018
+Functions: office
+Rank: 147
+
+*** One Excellence Tower 7 ***
+Height: 178.4
+Floors: 37
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 148
+
+*** One Excellence Tower 8 ***
+Height: 178.4
+Floors: 37
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 148
+
+*** New Century Plaza East Tower ***
+Height: 177
+Floors: 45
+Status: Completed
+Completed: 2003
+Functions: office / hotel
+Rank: 150
+
+*** China Mobile Building ***
+Height: 177
+Floors: 40
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 151
+
+*** NEO Tower B ***
+Height: 176
+Floors: 42
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 152
+
+*** UNI-Center Tower 1 ***
+Height: 174.55
+Floors: 50
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 153
+
+*** UNI-Center Tower 3 ***
+Height: 174.55
+Floors: 50
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 153
+
+*** UNI-Center Tower 5 ***
+Height: 174.25
+Floors: 53
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 155
+
+*** UNI-Center Tower 6 ***
+Height: 173.65
+Floors: 50
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 156
+
+*** Shen Fang Plaza ***
+Height: 173
+Floors: 53
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 157
+
+*** World Trade Plaza ***
+Height: 170
+Floors: 45
+Status: Completed
+Completed: 2000
+Rank: 158
+
+*** Galaxy Century A ***
+Height: 170
+Floors: 39
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 159
+
+*** Shenzhen Bay Ecocity B-Tech Tower 4 ***
+Height: 170
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 160
+
+*** Shenzhen Kerry Centre I ***
+Height: 170
+Floors: 32
+Status: Completed
+Completed: 1997
+Functions: office / retail
+Rank: 161
+
+*** Jiangsheng Tower ***
+Height: 169.8
+Floors: 39
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 162
+
+*** Shenzhen Gemdale Center Tower 2 ***
+Height: 168
+Floors: 39
+Status: Under Construction
+Completed: 2020
+Functions: office
+Rank: 163
+
+*** Shenzhen Development Center ***
+Height: 165.3
+Floors: 43
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: office
+Rank: 164
+
+*** Chinese Mercantile Bank Building ***
+Height: 165
+Floors: 38
+Status: Completed
+Functions: office
+Rank: 165
+
+*** News Center Building ***
+Height: 165
+Floors: 37
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 166
+
+*** China Life Tower ***
+Height: 165
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 167
+
+*** China Resources Qianhai Center Tower 3 ***
+Height: 164.5
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office / hotel
+Rank: 168
+
+*** Exemption Tower ***
+Height: 162.4
+Floors: 40
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 169
+
+*** Anlian Tower ***
+Height: 162
+Floors: 31
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 170
+
+*** UNI-Center Tower B ***
+Height: 161.5
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 171
+
+*** Vanke Jierong Tower ***
+Height: 161.4
+Floors: 34
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 172
+
+*** Zhongzhou E-ClASS ***
+Height: 160.3
+Floors: 40
+Status: Completed
+Completed: 2016
+Functions: residential / retail
+Rank: 173
+
+*** International Foreign Trade Center ***
+Height: 160
+Floors: 50
+Status: Completed
+Started: 1982
+Completed: 1985
+Functions: hotel
+Rank: 174
+
+*** Juno Tower ***
+Height: 160
+Floors: 49
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: residential / hotel
+Rank: 175
+
+*** Park Lane Manor - Tower 1 ***
+Height: 160
+Floors: 48
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 176
+
+*** Park Lane Manor - Tower 2 ***
+Height: 160
+Floors: 48
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 176
+
+*** Park Lane Manor - Tower 3 ***
+Height: 160
+Floors: 48
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 176
+
+*** Sunshine Tower ***
+Height: 160
+Floors: 32
+Status: Under Construction
+Completed: 2020
+Functions: office
+Rank: 179
+
+*** UNI-Center Tower 2 ***
+Height: 158.75
+Floors: 48
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 180
+
+*** Excellence Meilin Project Tower 1 ***
+Height: 158
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 181
+
+*** Excellence Meilin Project Tower 2 ***
+Height: 158
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 181
+
+*** Shenzhen Zhongzhou Holdings Financial Center Tower B ***
+Height: 157.6
+Floors: 34
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential
+Rank: 183
+
+*** Excellence Century Plaza Tower 4 ***
+Height: 156
+Floors: 37
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel
+Rank: 184
+
+*** Shenzhen Xinhe World Office Tower A ***
+Height: 155.9
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 185
+
+*** Shenzhen Xinhe World Office Tower B ***
+Height: 155.9
+Floors: 31
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 185
+
+*** Grace Mansion ***
+Height: 155
+Floors: 43
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 187
+
+*** Shen Ye Center ***
+Height: 155
+Floors: 33
+Status: Completed
+Functions: office
+Rank: 188
+
+*** Shenzhen Coastal City West Tower ***
+Height: 155
+Floors: 30
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 189
+
+*** East Pacific Center Tower D ***
+Height: 155
+Floors: 29
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 190
+
+*** Dayong Commercial Center 1 ***
+Height: 153.15
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 191
+
+*** China Travel Tower ***
+Height: 152.71
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 192
+
+*** Green View Apartments R1 ***
+Height: 150
+Floors: 45
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 193
+
+*** Green View Apartments R2 ***
+Height: 150
+Floors: 45
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 193
+
+*** Green View Apartments R3 ***
+Height: 150
+Floors: 45
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 193
+
+*** Green View Apartments R4 ***
+Height: 150
+Floors: 45
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 193
+
+*** Shenzhen Bay Innovation and Technology Centre Tower 3 ***
+Height: 150
+Floors: 45
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: serviced apartments
+Rank: 193
+
+*** Shenzhen Rural Commercial Bank Headquarters ***
+Height: 150
+Floors: 41
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 198
+
+*** Tencent Tower ***
+Height: 150
+Floors: 37
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 199
+
+*** UNI-Center Tower 4 ***
+Height: 149.45
+Floors: 45
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 200
+
+*** Dayong Commercial Center 2 ***
+Height: 149.35
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 201
+
+*** UNI-Center Tower 7 ***
+Height: 149.15
+Floors: 44
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 202
+
+*** One Palace ***
+Height: 145.99
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: residential
+Rank: 203
+
+*** Minmetals Financial Center ***
+Height: 145
+Floors: 29
+Status: Under Construction
+Started: 2015
+Functions: office
+Rank: 204
+
+*** Qianhai Financial Centre - T3 ***
+Height: 139.45
+Status: Under Construction
+Started: 2016
+Functions: residential / retail
+Rank: 205
+
+*** CASC International Center South Tower ***
+Height: 134.75
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 206
+
+*** Shenzhen Bay Ecocity B-Tech Tower 5 ***
+Height: 134
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 207
+
+*** Dayong Commercial Center 3 ***
+Height: 130.35
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 208
+
+*** Shenzhen Bay Innovation and Technology Centre Tower 4 ***
+Height: 120
+Floors: 37
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: serviced apartments
+Rank: 209
+
+*** Futian Technology Plaza Tower 3 ***
+Height: 120
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office
+Rank: 210
+
+*** Shenzhen Energy Headquarters South Tower ***
+Height: 113.5
+Floors: 20
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 211
+
+*** JW Marriott Shenzhen Bao'an ***
+Height: 112
+Floors: 23
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel
+Rank: 212
+
+*** China Unicom Building ***
+Height: 111.56
+Floors: 24
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 213
+
+*** Dayong Commercial Center 4 ***
+Height: 110.4
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 214
+
+*** Shenzhen International Chamber Of Commerce Building A ***
+Height: 108.5
+Floors: 28
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 215
+
+*** China Construction Bank Building ***
+Height: 108.2
+Floors: 31
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 216
+
+*** NEO Tower C ***
+Height: 108
+Floors: 29
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 217
+
+*** Shenzhen Bay Innovation and Technology Centre Tower 5 ***
+Height: 106
+Floors: 30
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: serviced apartments
+Rank: 218
+
+*** Shenye TaiRan Building ***
+Height: 106
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 219
+
+*** Shenzhen North Plaza Tower 2 ***
+Height: 100
+Floors: 44
+Status: Under Construction
+Functions: residential
+Rank: 220
+
+*** One Excellence Tower 4 ***
+Height: 96.05
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office / residential
+Rank: 221
+
+*** Shenzhen Fourth People's Hospital New People's Ward Tower ***
+Height: 83.3
+Floors: 21
+Status: Completed
+Completed: 2017
+Functions: hospital
+Rank: 222

@@ -1,0 +1,38 @@
+*** San Juan (PH) (10) ***
+1. Viridian at Greenhills, 190m
+2. Atlanta Centre, 178m
+3. Baron Tower, 113m
+
+******************** DETAILS ********************
+
+*** San Juan (PH) ***
+Country: Philippines
+Region: Asia
+3 towers: Viridian at Greenhills, Atlanta Centre, Baron Tower
+Tiers: II: 1, III: 2
+Rating: 10 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Viridian at Greenhills ***
+Height: 190
+Floors: 53
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** Atlanta Centre ***
+Height: 178.5
+Floors: 35
+Status: Completed
+Functions: office
+Rank: 2
+
+*** Baron Tower ***
+Height: 112.6
+Floors: 30
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: residential
+Rank: 3

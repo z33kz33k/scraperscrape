@@ -1,0 +1,852 @@
+*** Beijing (288) ***
+1.  China Zun, 528m
+2.  China World Tower, 330m
+3.  China World Trade Center Phase 3B, 296m
+4.  Fortune Financial Center, 267m
+5.  Samsung China Headquarters, 260m
+6.  Beijing Greenland Center, 260m
+7.  Beijing Yintai Centre - Park Tower, 250m
+8.  Beijing Television Center, 239m
+9.  Z14 Plot Tower 1, 238m
+10. Z14 Plot Tower 2, 238m
+11. CCTV Headquarters, 234m
+12. Tsinghua University Campus - Z1 Lot, 231m
+13. Dawangjing 618 Tower 1, 227m
+14. Sunshine Insurance Headquarters, 220m
+15. Dawangjing 626 Tower 1, 220m
+16. Z12 Plot, 216m
+17. Dawangjing 626 Tower 2, 216m
+18. Jing Guang Center, 208m
+19. SOHO Li Ze Tower, 207m
+20. China Tiewu Tower A, 203m
+21. Wangjing SOHO T3, 200m
+22. Fortune Heights, 199m
+23. Pangu Plaza Building A, 192m
+24. Beijing Yintai Centre - PICC Office Tower, 186m
+25. Beijing Yintai Centre - Yintai Office Tower, 186m
+26. Capital Mansion, 183m
+27. 8 Chang An Avenue, 180m
+28. People's Daily New Headquarters, 180m
+29. Dawangjing 618 Tower 3, 170m
+30. Gemdale Plaza Tower A, 168m
+31. China Central Place Tower 1, 167m
+32. Fortune Plaza Office Building II, 166m
+33. Beijing Nexus Center, 164m
+34. Poly International Plaza – Dawangjing , 161m
+35. TVCC, 159m
+36. Zhong Hong Tower, 158m
+37. China World Trade Center I, 155m
+38. China World Trade Center II, 155m
+39. Dawangjing 618 Tower 2, 154m
+40. Beijing IFC West Tower A/B, 153m
+41. Beijing Goldfield Plaza Tower A, 151m
+42. China Central Place Tower 2, 151m
+43. Topwin Center & InterContinental Beijing Sanlitun, 150m
+44. Zhongguancun Financial Center, 150m
+45. Central International Trade Center Tower B, 150m
+46. Beijing Greenland Center Office Tower 1, 150m
+47. Beijing Greenland Center Office Tower 2, 150m
+48. China Merchants Group Tower, 148m
+49. Beijing Silver Tower, 145m
+50. LG Twin Tower 1, 140m
+51. LG Twin Tower 2, 140m
+52. China Central Place Tower 3, 135m
+53. Beijing New Town Tower A, 132m
+54. China Life Tower, 131m
+55. Chaoyang Park Plaza 1, 129m
+56. Wangjing SOHO T2, 127m
+57. Beijing Kerry Centre Office Building, 124m
+58. Fortune Plaza Apartments I, 123m
+59. Chaoyang Park Plaza 2, 122m
+60. Keppel Beijing Aether Square Tower B, 120m
+61. Emperor Group Centre, 120m
+62. Wangjing SOHO T1, 118m
+63. Keppel Beijing Aether Square Tower A, 112m
+64. Henderson Center, 110m
+65. Gemdale Plaza Tower B, 108m
+66. Poly Corporation Headquarters, 106m
+67. Kunlun Hotel, 102m
+68. Jing Mian Xin Cheng Tower, 102m
+69. Chaowai MEN Center 1, 100m
+70. Chaowai MEN Center 2, 100m
+71. Jiaming Center, 100m
+72. Military Museum of the Chinese People`s Revolution, 97m
+73. Mosaic I, 97m
+74. Keppel Beijing Aether Square Tower C, 95m
+75. Sunrise Kempinski Hotel, 91m
+76. Raffles City 1, 90m
+77. China National Petroleum Corporation Headquarters, 90m
+78. Parkview Green FangCaoDi, 87m
+79. Mosaic II, 86m
+80. CHAO Hotel, 85m
+81. Xingchuang Tower, 84m
+82. Poly International Plaza Tower 2, 84m
+83. BUMPS in Beijing 1, 82m
+84. BUMPS in Beijing 2, 82m
+85. BUMPS in Beijing 3, 82m
+86. BUMPS in Beijing 4, 82m
+87. Shuohuang Development Building, 75m
+88. Raffles City 3, 75m
+
+******************** DETAILS ********************
+
+*** Beijing ***
+Country: China
+Region: Asia
+88 towers: China Zun, China World Tower, China World Trade Center Phase 3B, Fortune Financial Center, Samsung China Headquarters, Beijing Greenland Center, Beijing Yintai Centre - Park Tower, Beijing Television Center, Z14 Plot Tower 1, Z14 Plot Tower 2, CCTV Headquarters, Tsinghua University Campus - Z1 Lot, Dawangjing 618 Tower 1, Sunshine Insurance Headquarters, Dawangjing 626 Tower 1, Z12 Plot, Dawangjing 626 Tower 2, Jing Guang Center, SOHO Li Ze Tower, China Tiewu Tower A, Wangjing SOHO T3, Fortune Heights, Pangu Plaza Building A, Beijing Yintai Centre - PICC Office Tower, Beijing Yintai Centre - Yintai Office Tower, Capital Mansion, 8 Chang An Avenue, People's Daily New Headquarters, Dawangjing 618 Tower 3, Gemdale Plaza Tower A, China Central Place Tower 1, Fortune Plaza Office Building II, Beijing Nexus Center, Poly International Plaza – Dawangjing , TVCC, Zhong Hong Tower, China World Trade Center I, China World Trade Center II, Dawangjing 618 Tower 2, Beijing IFC West Tower A/B, Beijing Goldfield Plaza Tower A, China Central Place Tower 2, Topwin Center & InterContinental Beijing Sanlitun, Zhongguancun Financial Center, Central International Trade Center Tower B, Beijing Greenland Center Office Tower 1, Beijing Greenland Center Office Tower 2, China Merchants Group Tower, Beijing Silver Tower, LG Twin Tower 1, LG Twin Tower 2, China Central Place Tower 3, Beijing New Town Tower A, China Life Tower, Chaoyang Park Plaza 1, Wangjing SOHO T2, Beijing Kerry Centre Office Building, Fortune Plaza Apartments I, Chaoyang Park Plaza 2, Keppel Beijing Aether Square Tower B, Emperor Group Centre, Wangjing SOHO T1, Keppel Beijing Aether Square Tower A, Henderson Center, Gemdale Plaza Tower B, Poly Corporation Headquarters, Kunlun Hotel, Jing Mian Xin Cheng Tower, Chaowai MEN Center 1, Chaowai MEN Center 2, Jiaming Center, Military Museum of the Chinese People`s Revolution, Mosaic I, Keppel Beijing Aether Square Tower C, Sunrise Kempinski Hotel, Raffles City 1, China National Petroleum Corporation Headquarters, Parkview Green FangCaoDi, Mosaic II, CHAO Hotel, Xingchuang Tower, Poly International Plaza Tower 2, BUMPS in Beijing 1, BUMPS in Beijing 2, BUMPS in Beijing 3, BUMPS in Beijing 4, Shuohuang Development Building, Raffles City 3
+Tiers: I: 22, II: 19, III: 30, IV: 15, V: 1, VI: 1
+Rating: 288 (9.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** China Zun ***
+Height: 527.7
+Floors: 109
+Status: Completed
+Started: 2013
+Completed: 2018
+Functions: office
+Rank: 1
+
+*** China World Tower ***
+Height: 330
+Floors: 74
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: hotel / office
+Rank: 2
+
+*** China World Trade Center Phase 3B ***
+Height: 295.6
+Floors: 59
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel / office
+Rank: 3
+
+*** Fortune Financial Center ***
+Height: 267
+Floors: 60
+Status: Completed
+Started: 2009
+Completed: 2014
+Functions: office
+Rank: 4
+
+*** Samsung China Headquarters ***
+Height: 260
+Floors: 57
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 5
+
+*** Beijing Greenland Center ***
+Height: 260
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / office
+Rank: 6
+
+*** Beijing Yintai Centre - Park Tower ***
+Height: 249.95
+Floors: 63
+Status: Completed
+Started: 2002
+Completed: 2008
+Functions: residential / hotel
+Rank: 7
+
+*** Beijing Television Center ***
+Height: 239
+Floors: 42
+Status: Completed
+Started: 2002
+Completed: 2006
+Functions: office
+Rank: 8
+
+*** Z14 Plot Tower 1 ***
+Height: 238
+Floors: 48
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 9
+
+*** Z14 Plot Tower 2 ***
+Height: 238
+Floors: 48
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 9
+
+*** CCTV Headquarters ***
+Height: 234
+Floors: 54
+Status: Completed
+Started: 2004
+Completed: 2012
+Functions: office
+Rank: 11
+
+*** Tsinghua University Campus - Z1 Lot ***
+Height: 230.9
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office / education
+Rank: 12
+
+*** Dawangjing 618 Tower 1 ***
+Height: 227
+Floors: 53
+Status: Completed
+Completed: 2018
+Functions: residential
+Rank: 13
+
+*** Sunshine Insurance Headquarters ***
+Height: 220
+Floors: 48
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 14
+
+*** Dawangjing 626 Tower 1 ***
+Height: 220
+Floors: 44
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 15
+
+*** Z12 Plot ***
+Height: 216
+Floors: 45
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 16
+
+*** Dawangjing 626 Tower 2 ***
+Height: 216
+Floors: 40
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 17
+
+*** Jing Guang Center ***
+Height: 208
+Floors: 51
+Status: Completed
+Started: 1986
+Completed: 1990
+Functions: residential / hotel / office
+Rank: 18
+
+*** SOHO Li Ze Tower ***
+Height: 207
+Floors: 46
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 19
+
+*** China Tiewu Tower A ***
+Height: 203.4
+Floors: 45
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 20
+
+*** Wangjing SOHO T3 ***
+Height: 200
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 21
+
+*** Fortune Heights ***
+Height: 199
+Floors: 55
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 22
+
+*** Pangu Plaza Building A ***
+Height: 191.65
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 23
+
+*** Beijing Yintai Centre - PICC Office Tower ***
+Height: 186
+Floors: 42
+Status: Completed
+Started: 2002
+Completed: 2008
+Functions: office
+Rank: 24
+
+*** Beijing Yintai Centre - Yintai Office Tower ***
+Height: 186
+Floors: 42
+Status: Completed
+Started: 2002
+Completed: 2008
+Functions: office
+Rank: 24
+
+*** Capital Mansion ***
+Height: 183
+Floors: 52
+Status: Completed
+Started: 1987
+Completed: 1989
+Functions: residential / office
+Rank: 26
+
+*** 8 Chang An Avenue ***
+Height: 180
+Floors: 43
+Status: Architecturally Topped Out
+Started: 2011
+Functions: office
+Rank: 27
+
+*** People's Daily New Headquarters ***
+Height: 179.7
+Floors: 33
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: office
+Rank: 28
+
+*** Dawangjing 618 Tower 3 ***
+Height: 169.7
+Floors: 37
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 29
+
+*** Gemdale Plaza Tower A ***
+Height: 168
+Floors: 35
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 30
+
+*** China Central Place Tower 1 ***
+Height: 167
+Floors: 36
+Status: Completed
+Completed: 2006
+Functions: hotel / office
+Rank: 31
+
+*** Fortune Plaza Office Building II ***
+Height: 166
+Floors: 46
+Status: Completed
+Started: 2001
+Completed: 2006
+Functions: office
+Rank: 32
+
+*** Beijing Nexus Center ***
+Height: 163.9
+Floors: 37
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 33
+
+*** Poly International Plaza – Dawangjing  ***
+Height: 161.2
+Floors: 31
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 34
+
+*** TVCC ***
+Height: 159
+Floors: 31
+Status: Completed
+Started: 2005
+Completed: 2016
+Functions: hotel
+Rank: 35
+
+*** Zhong Hong Tower ***
+Height: 158
+Floors: 36
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: hotel / office
+Rank: 36
+
+*** China World Trade Center I ***
+Height: 155
+Floors: 38
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 37
+
+*** China World Trade Center II ***
+Height: 155
+Floors: 38
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 37
+
+*** Dawangjing 618 Tower 2 ***
+Height: 153.6
+Floors: 37
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 39
+
+*** Beijing IFC West Tower A/B ***
+Height: 153
+Floors: 36
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 40
+
+*** Beijing Goldfield Plaza Tower A ***
+Height: 151.4
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: office
+Rank: 41
+
+*** China Central Place Tower 2 ***
+Height: 151
+Floors: 32
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 42
+
+*** Topwin Center & InterContinental Beijing Sanlitun ***
+Height: 150
+Floors: 37
+Status: Completed
+Completed: 2016
+Functions: hotel
+Rank: 43
+
+*** Zhongguancun Financial Center ***
+Height: 150
+Floors: 37
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential / hotel / office
+Rank: 43
+
+*** Central International Trade Center Tower B ***
+Height: 150
+Floors: 36
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: office
+Rank: 45
+
+*** Beijing Greenland Center Office Tower 1 ***
+Height: 150
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 46
+
+*** Beijing Greenland Center Office Tower 2 ***
+Height: 150
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office
+Rank: 46
+
+*** China Merchants Group Tower ***
+Height: 148.13
+Floors: 35
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 48
+
+*** Beijing Silver Tower ***
+Height: 145
+Floors: 32
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office
+Rank: 49
+
+*** LG Twin Tower 1 ***
+Height: 140.5
+Floors: 30
+Status: Completed
+Started: 2002
+Completed: 2005
+Rank: 50
+
+*** LG Twin Tower 2 ***
+Height: 140.5
+Floors: 30
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 50
+
+*** China Central Place Tower 3 ***
+Height: 135
+Floors: 28
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 52
+
+*** Beijing New Town Tower A ***
+Height: 132
+Floors: 39
+Status: Completed
+Started: 1997
+Completed: 2001
+Functions: SOHO
+Rank: 53
+
+*** China Life Tower ***
+Height: 130.8
+Floors: 32
+Status: Completed
+Started: 1996
+Completed: 1998
+Functions: office
+Rank: 54
+
+*** Chaoyang Park Plaza 1 ***
+Height: 129
+Floors: 27
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 55
+
+*** Wangjing SOHO T2 ***
+Height: 127
+Floors: 26
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 56
+
+*** Beijing Kerry Centre Office Building ***
+Height: 123.5
+Floors: 31
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 57
+
+*** Fortune Plaza Apartments I ***
+Height: 123.1
+Floors: 40
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 58
+
+*** Chaoyang Park Plaza 2 ***
+Height: 121.5
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 59
+
+*** Keppel Beijing Aether Square Tower B ***
+Height: 120
+Floors: 19
+Status: Completed
+Completed: 2016
+Functions: office / retail
+Rank: 60
+
+*** Emperor Group Centre ***
+Height: 120
+Status: Completed
+Completed: 2016
+Functions: office / retail
+Rank: 61
+
+*** Wangjing SOHO T1 ***
+Height: 118
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 62
+
+*** Keppel Beijing Aether Square Tower A ***
+Height: 112
+Floors: 21
+Status: Completed
+Completed: 2016
+Functions: office / retail
+Rank: 63
+
+*** Henderson Center ***
+Height: 110
+Floors: 26
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 64
+
+*** Gemdale Plaza Tower B ***
+Height: 108
+Floors: 27
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 65
+
+*** Poly Corporation Headquarters ***
+Height: 106
+Floors: 23
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 66
+
+*** Kunlun Hotel ***
+Height: 102.1
+Floors: 28
+Status: Completed
+Completed: 1986
+Functions: hotel
+Rank: 67
+
+*** Jing Mian Xin Cheng Tower ***
+Height: 102
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 68
+
+*** Chaowai MEN Center 1 ***
+Height: 100
+Floors: 27
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 69
+
+*** Chaowai MEN Center 2 ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 70
+
+*** Jiaming Center ***
+Height: 100
+Floors: 20
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 71
+
+*** Military Museum of the Chinese People`s Revolution ***
+Height: 97.47
+Floors: 7
+Status: Completed
+Completed: 1959
+Functions: multiple
+Rank: 72
+
+*** Mosaic I ***
+Height: 97
+Floors: 23
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / commercial
+Rank: 73
+
+*** Keppel Beijing Aether Square Tower C ***
+Height: 95
+Floors: 21
+Status: Completed
+Completed: 2016
+Functions: office / retail
+Rank: 74
+
+*** Sunrise Kempinski Hotel ***
+Height: 90.55
+Floors: 20
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: hotel
+Rank: 75
+
+*** Raffles City 1 ***
+Height: 90
+Floors: 21
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 76
+
+*** China National Petroleum Corporation Headquarters ***
+Height: 90
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 77
+
+*** Parkview Green FangCaoDi ***
+Height: 87
+Floors: 18
+Status: Completed
+Completed: 2010
+Functions: hotel / office / retail
+Rank: 78
+
+*** Mosaic II ***
+Height: 86.5
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential / commercial
+Rank: 79
+
+*** CHAO Hotel ***
+Height: 84.9
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel
+Rank: 80
+
+*** Xingchuang Tower ***
+Height: 84
+Floors: 18
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 81
+
+*** Poly International Plaza Tower 2 ***
+Height: 84
+Floors: 16
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 82
+
+*** BUMPS in Beijing 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 83
+
+*** BUMPS in Beijing 2 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 83
+
+*** BUMPS in Beijing 3 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 83
+
+*** BUMPS in Beijing 4 ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 83
+
+*** Shuohuang Development Building ***
+Height: 75
+Floors: 17
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 87
+
+*** Raffles City 3 ***
+Height: 75
+Floors: 15
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 88

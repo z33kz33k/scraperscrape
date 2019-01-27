@@ -1,0 +1,203 @@
+*** Zhanjiang (68) ***
+1.  1 Zhanjiang Hengyi Bay Phase III, 220m
+2.  Zhanjiang Fortune Meeting, 220m
+3.  Vientiane Golden Bay Plaza 4, 200m
+4.  Zhanjiang Huaduhui, 193m
+5.  SOHO Apartment Building No.3, 180m
+6.  SOHO Apartment Building No.4, 180m
+7.  SOHO Apartment Building No.5, 180m
+8.  SOHO Apartment Building No.6, 180m
+9.  SOHO Apartment Building No.2, 169m
+10. SOHO Apartment Building No.1, 169m
+11. Zhanjiang Baoli Tianyue Bay 1, 158m
+12. Zhanjiang Baoli Tianyue Bay 2, 150m
+13. Sheraton Zhanjiang Tower A, 132m
+14. Zhanjiang Post Bureau, 128m
+15. 2 Zhanjiang Hengyi Bay Phase III, 110m
+16. Vientiane Golden Bay Plaza 1, 110m
+17. Vientiane Golden Bay Plaza 2, 110m
+18. Vientiane Golden Bay Plaza 3, 110m
+19. Zhanjiang Commercial Mansion, 110m
+20. Sheraton Zhanjiang Tower B, 110m
+
+******************** DETAILS ********************
+
+*** Zhanjiang ***
+Country: China
+Region: Asia
+20 towers: 1 Zhanjiang Hengyi Bay Phase III, Zhanjiang Fortune Meeting, Vientiane Golden Bay Plaza 4, Zhanjiang Huaduhui, SOHO Apartment Building No.3, SOHO Apartment Building No.4, SOHO Apartment Building No.5, SOHO Apartment Building No.6, SOHO Apartment Building No.2, SOHO Apartment Building No.1, Zhanjiang Baoli Tianyue Bay 1, Zhanjiang Baoli Tianyue Bay 2, Sheraton Zhanjiang Tower A, Zhanjiang Post Bureau, 2 Zhanjiang Hengyi Bay Phase III, Vientiane Golden Bay Plaza 1, Vientiane Golden Bay Plaza 2, Vientiane Golden Bay Plaza 3, Zhanjiang Commercial Mansion, Sheraton Zhanjiang Tower B
+Tiers: II: 8, III: 10, IV: 2
+Rating: 68 (41.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** 1 Zhanjiang Hengyi Bay Phase III ***
+Height: 220
+Floors: 49
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 1
+
+*** Zhanjiang Fortune Meeting ***
+Height: 220
+Floors: 45
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 2
+
+*** Vientiane Golden Bay Plaza 4 ***
+Height: 200
+Floors: 49
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: hotel
+Rank: 3
+
+*** Zhanjiang Huaduhui ***
+Height: 193
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2018
+Functions: office / residential
+Rank: 4
+
+*** SOHO Apartment Building No.3 ***
+Height: 180
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** SOHO Apartment Building No.4 ***
+Height: 180
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** SOHO Apartment Building No.5 ***
+Height: 180
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** SOHO Apartment Building No.6 ***
+Height: 180
+Floors: 47
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 5
+
+*** SOHO Apartment Building No.2 ***
+Height: 169
+Floors: 42
+Status: Under Construction
+Started: 2013
+Functions: residential
+Rank: 9
+
+*** SOHO Apartment Building No.1 ***
+Height: 169
+Floors: 40
+Status: Under Construction
+Started: 2013
+Functions: hotel
+Rank: 10
+
+*** Zhanjiang Baoli Tianyue Bay 1 ***
+Height: 158
+Floors: 53
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** Zhanjiang Baoli Tianyue Bay 2 ***
+Height: 150
+Floors: 36
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 12
+
+*** Sheraton Zhanjiang Tower A ***
+Height: 132
+Floors: 29
+Status: Completed
+Completed: 2015
+Functions: hotel
+Rank: 13
+
+*** Zhanjiang Post Bureau ***
+Height: 128.2
+Floors: 28
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 14
+
+*** 2 Zhanjiang Hengyi Bay Phase III ***
+Height: 110
+Floors: 28
+Status: Under Construction
+Started: 2017
+Functions: office
+Rank: 15
+
+*** Vientiane Golden Bay Plaza 1 ***
+Height: 110
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 15
+
+*** Vientiane Golden Bay Plaza 2 ***
+Height: 110
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 15
+
+*** Vientiane Golden Bay Plaza 3 ***
+Height: 110
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 15
+
+*** Zhanjiang Commercial Mansion ***
+Height: 110
+Floors: 26
+Status: Completed
+Completed: 2012
+Functions: office
+Rank: 19
+
+*** Sheraton Zhanjiang Tower B ***
+Height: 110
+Floors: 23
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 20

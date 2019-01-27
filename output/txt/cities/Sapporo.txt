@@ -1,0 +1,60 @@
+*** Sapporo (10) ***
+1. JR Tower, 173m
+2. D'Graffito Sapporo Station Tower, 143m
+3. Sapporo Sosei Square, 124m
+4. Sapporo City Hall, 85m
+5. Century Royal Hotel, 83m
+
+******************** DETAILS ********************
+
+*** Sapporo ***
+Country: Japan
+Region: Asia
+5 towers: JR Tower, D'Graffito Sapporo Station Tower, Sapporo Sosei Square, Sapporo City Hall, Century Royal Hotel
+Tiers: I: 2, II: 2, III: 1
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** JR Tower ***
+Height: 173
+Floors: 38
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: hotel / office
+Rank: 1
+
+*** D'Graffito Sapporo Station Tower ***
+Height: 143.15
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 2
+
+*** Sapporo Sosei Square ***
+Height: 124
+Floors: 28
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 3
+
+*** Sapporo City Hall ***
+Height: 84.86
+Floors: 18
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: office
+Rank: 4
+
+*** Century Royal Hotel ***
+Height: 82.6
+Floors: 23
+Status: Completed
+Completed: 1973
+Functions: hotel
+Rank: 5

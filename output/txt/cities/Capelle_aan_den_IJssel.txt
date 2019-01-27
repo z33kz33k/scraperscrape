@@ -1,0 +1,20 @@
+*** Capelle aan den IJssel (1) ***
+1. Gemini II, 76m
+
+******************** DETAILS ********************
+
+*** Capelle aan den IJssel ***
+Country: Netherlands
+Region: Europe
+1 tower: Gemini II
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Gemini II ***
+Height: 76
+Floors: 19
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 1

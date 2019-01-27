@@ -1,0 +1,29 @@
+*** Praia Grande (8) ***
+1. Jardim do Mar 1, 150m
+2. Jardim do Mar 2, 150m
+
+******************** DETAILS ********************
+
+*** Praia Grande ***
+Country: Brazil
+Region: South America
+2 towers: Jardim do Mar 1, Jardim do Mar 2
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Jardim do Mar 1 ***
+Height: 150
+Floors: 42
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Jardim do Mar 2 ***
+Height: 150
+Floors: 42
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 1

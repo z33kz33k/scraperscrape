@@ -1,0 +1,40 @@
+*** Covington (3) ***
+1. RiverCenter I, 94m
+2. The Ascent at Roebling`s Bridge, 89m
+3. RiverCenter II, 89m
+
+******************** DETAILS ********************
+
+*** Covington ***
+Country: United States
+Region: North America
+3 towers: RiverCenter I, The Ascent at Roebling`s Bridge, RiverCenter II
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** RiverCenter I ***
+Height: 94
+Floors: 19
+Status: Completed
+Started: 1989
+Completed: 1990
+Functions: office
+Rank: 1
+
+*** The Ascent at Roebling`s Bridge ***
+Height: 89.36
+Floors: 21
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: residential
+Rank: 2
+
+*** RiverCenter II ***
+Height: 89
+Floors: 17
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 3

@@ -1,0 +1,21 @@
+*** Port Louis (2) ***
+1. Bank of Mauritius Building, 124m
+
+******************** DETAILS ********************
+
+*** Port Louis ***
+Country: Mauritius
+Region: Africa
+1 tower: Bank of Mauritius Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bank of Mauritius Building ***
+Height: 124
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 1

@@ -1,0 +1,39 @@
+*** Santa Cruz (4) ***
+1. Condominio La Casona, 127m
+2. Palacio de Justicia, 100m
+3. La Riviera Condominio Boutique, 93m
+
+******************** DETAILS ********************
+
+*** Santa Cruz ***
+Country: Bolivia
+Region: South America
+3 towers: Condominio La Casona, Palacio de Justicia, La Riviera Condominio Boutique
+Tiers: I: 2, II: 1
+Rating: 4 (25.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Condominio La Casona ***
+Height: 127
+Floors: 27
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / office
+Rank: 1
+
+*** Palacio de Justicia ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 1996
+Functions: government
+Rank: 2
+
+*** La Riviera Condominio Boutique ***
+Height: 93
+Floors: 26
+Status: Under Construction
+Started: 2010
+Functions: residential
+Rank: 3

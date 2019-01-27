@@ -1,0 +1,20 @@
+*** Newcastle upon Tyne (1) ***
+1. Vale House, 80m
+
+******************** DETAILS ********************
+
+*** Newcastle upon Tyne ***
+Country: United Kingdom
+Region: Europe
+1 tower: Vale House
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Vale House ***
+Height: 80
+Floors: 28
+Status: Completed
+Completed: 1968
+Functions: residential
+Rank: 1

@@ -1,0 +1,330 @@
+*** Ningbo (144) ***
+1.  Manhattan Tower, 270m
+2.  Ningbo Global Shipping Plaza, 262m
+3.  Ningbo New World Plaza 1, 250m
+4.  Ningbo Bank of China Headquarters, 246m
+5.  Greenland Center Tower 1, 240m
+6.  Ningbo International Trade Center, 228m
+7.  Ningbo Guohua Financial Tower, 207m
+8.  Ningbo Fortune Center, 188m
+9.  Evergrande Huafu , 185m
+10. City Lights 2, 180m
+11. Ningbo Center Tower 2, 180m
+12. Greenland Center Tower 2, 180m
+13. LinJiang Mingting, 179m
+14. Shenjia Building, 178m
+15. Nanyuan Mingzhou International Garden Hotel, 168m
+16. Ninghai Universe Center, 167m
+17. Wanda Plaza 48 Carat, 160m
+18. Ningbo Marriott Hotel, 160m
+19. World Trade Center East District Tower 1, 159m
+20. Westin Hotel, 157m
+21. Nanyuan New City Hotel, 157m
+22. Ningbo Red Giant Building, 156m
+23. Ningbo Gateway North, 152m
+24. Ningbo Gateway South, 152m
+25. Beilun Financial Center, 150m
+26. Ningbo Shangri-La Hotel, 150m
+27. Redwood Building, 150m
+28. Jinan Center, 150m
+29. Ningxing Plaza Hotel, 150m
+30. Novotel Ningbo East, 150m
+31. Qinghua Global City , 150m
+32. Ningbo Chamber of Commerce Headquarters, 150m
+33. Greenland Center Tower 3, 150m
+
+******************** DETAILS ********************
+
+*** Ningbo ***
+Country: China
+Region: Asia
+33 towers: Manhattan Tower, Ningbo Global Shipping Plaza, Ningbo New World Plaza 1, Ningbo Bank of China Headquarters, Greenland Center Tower 1, Ningbo International Trade Center, Ningbo Guohua Financial Tower, Ningbo Fortune Center, Evergrande Huafu , City Lights 2, Ningbo Center Tower 2, Greenland Center Tower 2, LinJiang Mingting, Shenjia Building, Nanyuan Mingzhou International Garden Hotel, Ninghai Universe Center, Wanda Plaza 48 Carat, Ningbo Marriott Hotel, World Trade Center East District Tower 1, Westin Hotel, Nanyuan New City Hotel, Ningbo Red Giant Building, Ningbo Gateway North, Ningbo Gateway South, Beilun Financial Center, Ningbo Shangri-La Hotel, Redwood Building, Jinan Center, Ningxing Plaza Hotel, Novotel Ningbo East, Qinghua Global City , Ningbo Chamber of Commerce Headquarters, Greenland Center Tower 3
+Tiers: III: 27, IV: 6
+Rating: 144 (40.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Manhattan Tower ***
+Height: 270
+Floors: 55
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential / office / retail
+Rank: 1
+
+*** Ningbo Global Shipping Plaza ***
+Height: 262.43
+Floors: 52
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: office
+Rank: 2
+
+*** Ningbo New World Plaza 1 ***
+Height: 249.8
+Floors: 56
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: hotel / office / retail
+Rank: 3
+
+*** Ningbo Bank of China Headquarters ***
+Height: 246.15
+Floors: 50
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 4
+
+*** Greenland Center Tower 1 ***
+Height: 240
+Floors: 50
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office / retail
+Rank: 5
+
+*** Ningbo International Trade Center ***
+Height: 228
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: office / retail
+Rank: 6
+
+*** Ningbo Guohua Financial Tower ***
+Height: 206.9
+Floors: 45
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 7
+
+*** Ningbo Fortune Center ***
+Height: 188
+Floors: 38
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: office
+Rank: 8
+
+*** Evergrande Huafu  ***
+Height: 185
+Floors: 38
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office / retail
+Rank: 9
+
+*** City Lights 2 ***
+Height: 180
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office / retail
+Rank: 10
+
+*** Ningbo Center Tower 2 ***
+Height: 180
+Floors: 40
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office / retail
+Rank: 10
+
+*** Greenland Center Tower 2 ***
+Height: 180
+Floors: 33
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office / retail
+Rank: 12
+
+*** LinJiang Mingting ***
+Height: 179.2
+Floors: 52
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 13
+
+*** Shenjia Building ***
+Height: 178.31
+Floors: 43
+Status: Structurally Topped Out
+Started: 2015
+Completed: 2017
+Functions: office
+Rank: 14
+
+*** Nanyuan Mingzhou International Garden Hotel ***
+Height: 168
+Floors: 50
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: hotel / office
+Rank: 15
+
+*** Ninghai Universe Center ***
+Height: 166.9
+Floors: 36
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 16
+
+*** Wanda Plaza 48 Carat ***
+Height: 160
+Floors: 48
+Status: Completed
+Completed: 2009
+Functions: office / residential / retail
+Rank: 17
+
+*** Ningbo Marriott Hotel ***
+Height: 160
+Floors: 38
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: hotel / office
+Rank: 18
+
+*** World Trade Center East District Tower 1 ***
+Height: 159
+Floors: 39
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 19
+
+*** Westin Hotel ***
+Height: 157
+Floors: 40
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 20
+
+*** Nanyuan New City Hotel ***
+Height: 157
+Floors: 38
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 21
+
+*** Ningbo Red Giant Building ***
+Height: 156
+Floors: 38
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 22
+
+*** Ningbo Gateway North ***
+Height: 152
+Floors: 40
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel / residential
+Rank: 23
+
+*** Ningbo Gateway South ***
+Height: 152
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: hotel
+Rank: 23
+
+*** Beilun Financial Center ***
+Height: 150.1
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 25
+
+*** Ningbo Shangri-La Hotel ***
+Height: 150
+Floors: 38
+Status: Completed
+Completed: 2010
+Functions: hotel
+Rank: 26
+
+*** Redwood Building ***
+Height: 150
+Floors: 34
+Status: Completed
+Completed: 2014
+Functions: hotel / retail
+Rank: 27
+
+*** Jinan Center ***
+Height: 150
+Floors: 33
+Status: Completed
+Completed: 2017
+Functions: office
+Rank: 28
+
+*** Ningxing Plaza Hotel ***
+Height: 150
+Floors: 33
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: hotel / retail
+Rank: 28
+
+*** Novotel Ningbo East ***
+Height: 150
+Floors: 33
+Status: Completed
+Completed: 2015
+Functions: hotel
+Rank: 28
+
+*** Qinghua Global City  ***
+Height: 150
+Floors: 33
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 28
+
+*** Ningbo Chamber of Commerce Headquarters ***
+Height: 150
+Floors: 30
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 32
+
+*** Greenland Center Tower 3 ***
+Height: 150
+Floors: 29
+Status: Architecturally Topped Out
+Completed: 2018
+Functions: office / retail
+Rank: 33

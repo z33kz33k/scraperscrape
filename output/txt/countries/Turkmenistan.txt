@@ -1,0 +1,18 @@
+*** Turkmenistan (6) ***
+1. Ashkhabad, 6
+
+******************** DETAILS ********************
+
+*** Turkmenistan ***
+Region: Asia
+1 city: Ashkhabad
+Tiers: I: 4, II: 1
+Rating: 6
+
+*** Ashkhabad ***
+Country: Turkmenistan
+Region: Asia
+5 towers: Yyldyz Hotel, Gas and Oil Institute, Ministry of Commerce and Exchange Tower, Independence Monument, Ministry of Health
+Tiers: I: 4, II: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16

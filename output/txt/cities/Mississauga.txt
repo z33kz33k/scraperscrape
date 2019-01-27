@@ -1,0 +1,396 @@
+*** Mississauga (70) ***
+1.  Absolute World Building D, 176m
+2.  Absolute World Building E, 158m
+3.  Pinnacle Grand Park II, 152m
+4.  PSV1, 145m
+5.  One Park Tower, 142m
+6.  The Grand Residences, 139m
+7.  Wesley Tower, 135m
+8.  PSV2, 127m
+9.  Chicago, 125m
+10. Solistice, 121m
+11. The Park Residences, 118m
+12. The Residences, 118m
+13. Onyx, 117m
+14. Widesuites, 115m
+15. The Park Mansion, 112m
+16. Absolute Vision, 112m
+17. The Capital North, 110m
+18. Skymark West - North, 109m
+19. Skymark West - South, 109m
+20. Citygate East, 108m
+21. Citygate West, 108m
+22. The Capital South, 107m
+23. Grand Ovation, 106m
+24. Eden Park, 106m
+25. Ultra Ovation, 104m
+26. Eve, 101m
+27. No. 1 City Centre East, 101m
+28. Limelight Condominiums Phase 2, 100m
+29. Pinnacle Grand Park I, 100m
+30. Elle Condominium, 98m
+31. Ovation at City Centre North, 97m
+32. Ovation at City Centre South, 97m
+33. A2, 95m
+34. No. 1 City Centre West, 95m
+35. Pinnacle Uptown Crystal Condominiums West, 93m
+36. A1, 87m
+37. Pinnacle Uptown Crystal Condominiums East, 84m
+38. The Phoenix, 80m
+39. Mirage Condos, 76m
+40. The Century Park, 75m
+
+******************** DETAILS ********************
+
+*** Mississauga ***
+Country: Canada
+Region: North America
+40 towers: Absolute World Building D, Absolute World Building E, Pinnacle Grand Park II, PSV1, One Park Tower, The Grand Residences, Wesley Tower, PSV2, Chicago, Solistice, The Park Residences, The Residences, Onyx, Widesuites, The Park Mansion, Absolute Vision, The Capital North, Skymark West - North, Skymark West - South, Citygate East, Citygate West, The Capital South, Grand Ovation, Eden Park, Ultra Ovation, Eve, No. 1 City Centre East, Limelight Condominiums Phase 2, Pinnacle Grand Park I, Elle Condominium, Ovation at City Centre North, Ovation at City Centre South, A2, No. 1 City Centre West, Pinnacle Uptown Crystal Condominiums West, A1, Pinnacle Uptown Crystal Condominiums East, The Phoenix, Mirage Condos, The Century Park
+Tiers: I: 16, II: 21, III: 3
+Rating: 70 (2.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Absolute World Building D ***
+Height: 175.55
+Floors: 56
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 1
+
+*** Absolute World Building E ***
+Height: 157.85
+Floors: 50
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 2
+
+*** Pinnacle Grand Park II ***
+Height: 152.4
+Floors: 48
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 3
+
+*** PSV1 ***
+Height: 145
+Floors: 47
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 4
+
+*** One Park Tower ***
+Height: 142
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 5
+
+*** The Grand Residences ***
+Height: 139
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 6
+
+*** Wesley Tower ***
+Height: 135
+Floors: 43
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 7
+
+*** PSV2 ***
+Height: 127
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 8
+
+*** Chicago ***
+Height: 125
+Floors: 41
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 9
+
+*** Solistice ***
+Height: 121
+Floors: 38
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 10
+
+*** The Park Residences ***
+Height: 118
+Floors: 36
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 11
+
+*** The Residences ***
+Height: 118
+Floors: 36
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 11
+
+*** Onyx ***
+Height: 116.75
+Floors: 36
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 13
+
+*** Widesuites ***
+Height: 114.6
+Floors: 35
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 14
+
+*** The Park Mansion ***
+Height: 112.4
+Floors: 36
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 15
+
+*** Absolute Vision ***
+Height: 112
+Floors: 35
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 16
+
+*** The Capital North ***
+Height: 110
+Floors: 31
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 17
+
+*** Skymark West - North ***
+Height: 109
+Floors: 34
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 18
+
+*** Skymark West - South ***
+Height: 109
+Floors: 34
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 18
+
+*** Citygate East ***
+Height: 107.9
+Floors: 34
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 20
+
+*** Citygate West ***
+Height: 107.9
+Floors: 34
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 20
+
+*** The Capital South ***
+Height: 107
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 22
+
+*** Grand Ovation ***
+Height: 106
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 23
+
+*** Eden Park ***
+Height: 106
+Floors: 33
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 24
+
+*** Ultra Ovation ***
+Height: 104.5
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 25
+
+*** Eve ***
+Height: 101
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 26
+
+*** No. 1 City Centre East ***
+Height: 101
+Floors: 31
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 27
+
+*** Limelight Condominiums Phase 2 ***
+Height: 100
+Floors: 32
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential / retail
+Rank: 28
+
+*** Pinnacle Grand Park I ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 29
+
+*** Elle Condominium ***
+Height: 98
+Floors: 31
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 30
+
+*** Ovation at City Centre North ***
+Height: 97
+Floors: 31
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 31
+
+*** Ovation at City Centre South ***
+Height: 97
+Floors: 31
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 31
+
+*** A2 ***
+Height: 95
+Floors: 31
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 33
+
+*** No. 1 City Centre West ***
+Height: 95
+Floors: 29
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 34
+
+*** Pinnacle Uptown Crystal Condominiums West ***
+Height: 93
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** A1 ***
+Height: 87
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 36
+
+*** Pinnacle Uptown Crystal Condominiums East ***
+Height: 84
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 37
+
+*** The Phoenix ***
+Height: 80
+Floors: 28
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 38
+
+*** Mirage Condos ***
+Height: 76
+Floors: 22
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 39
+
+*** The Century Park ***
+Height: 75
+Floors: 27
+Status: Completed
+Completed: 1980
+Functions: residential
+Rank: 40

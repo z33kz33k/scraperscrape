@@ -1,0 +1,21 @@
+*** Cheongju (4) ***
+1. G-Well City Landmark Tower, 195m
+
+******************** DETAILS ********************
+
+*** Cheongju ***
+Country: South Korea
+Region: Asia
+1 tower: G-Well City Landmark Tower
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** G-Well City Landmark Tower ***
+Height: 195
+Floors: 55
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential / office
+Rank: 1

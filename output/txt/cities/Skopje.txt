@@ -1,0 +1,61 @@
+*** Skopje (9) ***
+1. Cevahir Tower A, 130m
+2. Cevahir Tower B, 130m
+3. Cevahir Tower C, 130m
+4. Cevahir Tower D, 130m
+5. MRT Macedonian, 92m
+
+******************** DETAILS ********************
+
+*** Skopje ***
+Country: Macedonia
+Region: Europe
+5 towers: Cevahir Tower A, Cevahir Tower B, Cevahir Tower C, Cevahir Tower D, MRT Macedonian
+Tiers: I: 1, II: 4
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Cevahir Tower A ***
+Height: 130
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 1
+
+*** Cevahir Tower B ***
+Height: 130
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 1
+
+*** Cevahir Tower C ***
+Height: 130
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 1
+
+*** Cevahir Tower D ***
+Height: 130
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 1
+
+*** MRT Macedonian ***
+Height: 92
+Floors: 25
+Status: Completed
+Started: 1983
+Completed: 1984
+Functions: office
+Rank: 5

@@ -1,0 +1,18 @@
+*** Tanzania (13) ***
+1. Dar es Salaam, 13
+
+******************** DETAILS ********************
+
+*** Tanzania ***
+Region: Africa
+1 city: Dar es Salaam
+Tiers: I: 1, III: 3
+Rating: 13
+
+*** Dar es Salaam ***
+Country: Tanzania
+Region: Africa
+4 towers: Tanzania Ports Authority Headquarters, PSPF Commercial Tower A, PSPF Commercial Tower B, Benjamin William Mkapa Pension Towers
+Tiers: I: 1, III: 3
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16

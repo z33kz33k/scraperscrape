@@ -1,0 +1,18 @@
+*** Yemen (1) ***
+1. Sana'a, 1
+
+******************** DETAILS ********************
+
+*** Yemen ***
+Region: Middle East
+1 city: Sana'a
+Tiers: I: 1
+Rating: 1
+
+*** Sana'a ***
+Country: Yemen
+Region: Middle East
+1 tower: Qubaty Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

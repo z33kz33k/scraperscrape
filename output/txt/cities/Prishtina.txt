@@ -1,0 +1,30 @@
+*** Prishtina (2) ***
+1. World Trade Center Tower A, 100m
+2. Rilindja Tower, 87m
+
+******************** DETAILS ********************
+
+*** Prishtina ***
+Country: Kosovo
+Region: Europe
+2 towers: World Trade Center Tower A, Rilindja Tower
+Tiers: I: 2
+Rating: 2 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** World Trade Center Tower A ***
+Height: 100.2
+Floors: 24
+Status: Under Construction
+Started: 2010
+Completed: 2019
+Functions: hotel / office
+Rank: 1
+
+*** Rilindja Tower ***
+Height: 87
+Floors: 19
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 2

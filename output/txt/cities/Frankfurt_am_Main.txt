@@ -1,0 +1,498 @@
+*** Frankfurt am Main (126) ***
+1.  Commerzbank Tower, 259m
+2.  MesseTurm, 256m
+3.  Westendstrasse 1, 208m
+4.  Main Tower, 200m
+5.  Tower 185, 200m
+6.  ONE, 191m
+7.  OMNITURM, 190m
+8.  Trianon, 186m
+9.  ECB - European Central Bank, 184m
+10. Grand Tower, 172m
+11. TaunusTurm, 170m
+12. Opernturm, 170m
+13. Silver Tower, 166m
+14. Westend Gate, 159m
+15. Deutsche Bank Tower I, 155m
+16. Deutsche Bank Tower II, 155m
+17. Marienturm, 155m
+18. Skyper, 154m
+19. Eurotower, 148m
+20. Frankfurter Buro-Center, 142m
+21. City-Haus (DG Bank), 142m
+22. One Forty West, 140m
+23. Neuer Henninger Turm, 140m
+24. Gallileo, 136m
+25. Nextower, 136m
+26. Pollux, 130m
+27. The Spin , 128m
+28. Garden Towers, 127m
+29. Messe Torhaus, 117m
+30. Parktower, 115m
+31. Japan Center, 115m
+32. Westhafen Tower, 112m
+33. IBC Tower, 112m
+34. Eurotheum, 110m
+35. WinX Tower, 110m
+36. B&uuml;ro Center Nibelungenplatz, 110m
+37. Neue Mainzer Stra&szlig;e 32-36, 109m
+38. Leonardo Royal Hotel Frankfurt, 100m
+39. Jumeirah Frankfurt Hotel, 99m
+40. Tower 90, 96m
+41. Hochhaus am Park, 96m
+42. WestendDuo, 96m
+43. Kastor, 95m
+44. Deutsche Bank IBCF, 93m
+45. Burohochhaus Commerzbank Trading Center, 93m
+46. Wiesenhüttenstraße 2-12, 93m
+47. B&uuml;rohaus an der Alten Oper, 89m
+48. Main Plaza, 88m
+49. Radisson BLU, 87m
+
+******************** DETAILS ********************
+
+*** Frankfurt am Main ***
+Country: Germany
+Region: Europe
+49 towers: Commerzbank Tower, MesseTurm, Westendstrasse 1, Main Tower, Tower 185, ONE, OMNITURM, Trianon, ECB - European Central Bank, Grand Tower, TaunusTurm, Opernturm, Silver Tower, Westend Gate, Deutsche Bank Tower I, Deutsche Bank Tower II, Marienturm, Skyper, Eurotower, Frankfurter Buro-Center, City-Haus (DG Bank), One Forty West, Neuer Henninger Turm, Gallileo, Nextower, Pollux, The Spin , Garden Towers, Messe Torhaus, Parktower, Japan Center, Westhafen Tower, IBC Tower, Eurotheum, WinX Tower, B&uuml;ro Center Nibelungenplatz, Neue Mainzer Stra&szlig;e 32-36, Leonardo Royal Hotel Frankfurt, Jumeirah Frankfurt Hotel, Tower 90, Hochhaus am Park, WestendDuo, Kastor, Deutsche Bank IBCF, Burohochhaus Commerzbank Trading Center, Wiesenhüttenstraße 2-12, B&uuml;rohaus an der Alten Oper, Main Plaza, Radisson BLU
+Tiers: I: 12, II: 19, III: 16, IV: 2
+Rating: 126 (16.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Commerzbank Tower ***
+Height: 259
+Floors: 56
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office
+Rank: 1
+
+*** MesseTurm ***
+Height: 256.5
+Floors: 64
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 2
+
+*** Westendstrasse 1 ***
+Height: 208
+Floors: 53
+Status: Completed
+Started: 1990
+Completed: 1993
+Functions: office
+Rank: 3
+
+*** Main Tower ***
+Height: 200
+Floors: 55
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 4
+
+*** Tower 185 ***
+Height: 200
+Floors: 50
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 5
+
+*** ONE ***
+Height: 191
+Floors: 49
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office / hotel
+Rank: 6
+
+*** OMNITURM ***
+Height: 189.9
+Floors: 45
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office / residential
+Rank: 7
+
+*** Trianon ***
+Height: 186
+Floors: 45
+Status: Completed
+Started: 1989
+Completed: 1993
+Functions: office
+Rank: 8
+
+*** ECB - European Central Bank ***
+Height: 183.7
+Floors: 43
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 9
+
+*** Grand Tower ***
+Height: 172
+Floors: 47
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 10
+
+*** TaunusTurm ***
+Height: 170
+Floors: 40
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 11
+
+*** Opernturm ***
+Height: 169.98
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 12
+
+*** Silver Tower ***
+Height: 166.3
+Floors: 32
+Status: Completed
+Started: 1972
+Completed: 1978
+Functions: office
+Rank: 13
+
+*** Westend Gate ***
+Height: 159.3
+Floors: 44
+Status: Completed
+Started: 1972
+Completed: 1976
+Functions: hotel / office
+Rank: 14
+
+*** Deutsche Bank Tower I ***
+Height: 155
+Floors: 40
+Status: Completed
+Started: 1978
+Completed: 1984
+Functions: office
+Rank: 15
+
+*** Deutsche Bank Tower II ***
+Height: 155
+Floors: 38
+Status: Completed
+Started: 1978
+Completed: 1984
+Functions: office
+Rank: 16
+
+*** Marienturm ***
+Height: 155
+Floors: 38
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 16
+
+*** Skyper ***
+Height: 153.8
+Floors: 39
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: office
+Rank: 18
+
+*** Eurotower ***
+Height: 148
+Floors: 39
+Status: Completed
+Started: 1971
+Completed: 1977
+Functions: office
+Rank: 19
+
+*** Frankfurter Buro-Center ***
+Height: 142.39
+Floors: 40
+Status: Completed
+Started: 1974
+Completed: 1980
+Functions: office
+Rank: 20
+
+*** City-Haus (DG Bank) ***
+Height: 142.1
+Floors: 42
+Status: Completed
+Started: 1971
+Completed: 1974
+Functions: office
+Rank: 21
+
+*** One Forty West ***
+Height: 140
+Floors: 40
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential / hotel
+Rank: 22
+
+*** Neuer Henninger Turm ***
+Height: 140
+Floors: 37
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 23
+
+*** Gallileo ***
+Height: 136
+Floors: 38
+Status: Completed
+Started: 1999
+Completed: 2003
+Functions: office
+Rank: 24
+
+*** Nextower ***
+Height: 136
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: office
+Rank: 25
+
+*** Pollux ***
+Height: 130
+Floors: 33
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office
+Rank: 26
+
+*** The Spin  ***
+Height: 128
+Floors: 31
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office / hotel
+Rank: 27
+
+*** Garden Towers ***
+Height: 127
+Floors: 25
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 28
+
+*** Messe Torhaus ***
+Height: 117
+Floors: 30
+Status: Completed
+Started: 1984
+Completed: 1985
+Functions: office
+Rank: 29
+
+*** Parktower ***
+Height: 115
+Floors: 29
+Status: Completed
+Started: 1968
+Completed: 1972
+Functions: office
+Rank: 30
+
+*** Japan Center ***
+Height: 115
+Floors: 27
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office
+Rank: 31
+
+*** Westhafen Tower ***
+Height: 112.28
+Floors: 31
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: office
+Rank: 32
+
+*** IBC Tower ***
+Height: 112
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 33
+
+*** Eurotheum ***
+Height: 110
+Floors: 31
+Status: Completed
+Completed: 1999
+Functions: residential / office
+Rank: 34
+
+*** WinX Tower ***
+Height: 110
+Floors: 29
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential / office
+Rank: 35
+
+*** B&uuml;ro Center Nibelungenplatz ***
+Height: 110
+Floors: 27
+Status: Completed
+Started: 1964
+Completed: 1966
+Functions: office
+Rank: 36
+
+*** Neue Mainzer Stra&szlig;e 32-36 ***
+Height: 108.55
+Floors: 28
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 37
+
+*** Leonardo Royal Hotel Frankfurt ***
+Height: 100
+Floors: 28
+Status: Completed
+Started: 1970
+Completed: 1972
+Functions: hotel
+Rank: 38
+
+*** Jumeirah Frankfurt Hotel ***
+Height: 99.14
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: hotel
+Rank: 39
+
+*** Tower 90 ***
+Height: 96.5
+Floors: 28
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 40
+
+*** Hochhaus am Park ***
+Height: 96
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 41
+
+*** WestendDuo ***
+Height: 96
+Floors: 26
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 41
+
+*** Kastor ***
+Height: 95
+Floors: 22
+Status: Completed
+Started: 1994
+Completed: 1997
+Functions: office
+Rank: 43
+
+*** Deutsche Bank IBCF ***
+Height: 93
+Floors: 25
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: office
+Rank: 44
+
+*** Burohochhaus Commerzbank Trading Center ***
+Height: 93
+Floors: 22
+Status: Completed
+Started: 1972
+Completed: 1976
+Functions: office
+Rank: 45
+
+*** Wiesenhüttenstraße 2-12 ***
+Height: 93
+Floors: 19
+Status: Completed
+Started: 1974
+Completed: 1977
+Functions: office
+Rank: 46
+
+*** B&uuml;rohaus an der Alten Oper ***
+Height: 89
+Floors: 20
+Status: Completed
+Started: 1981
+Completed: 1984
+Functions: office
+Rank: 47
+
+*** Main Plaza ***
+Height: 88
+Floors: 24
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: residential / hotel
+Rank: 48
+
+*** Radisson BLU ***
+Height: 87
+Floors: 20
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: hotel
+Rank: 49

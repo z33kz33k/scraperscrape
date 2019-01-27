@@ -1,0 +1,27 @@
+*** Venezuela (82) ***
+1. Caracas, 80
+2. Maracay, 2
+
+******************** DETAILS ********************
+
+*** Venezuela ***
+Region: South America
+2 cities: Caracas, Maracay
+Tiers: I: 16, II: 23, III: 2, IV: 2
+Rating: 82
+
+*** Caracas ***
+Country: Venezuela
+Region: South America
+42 towers: Parque Central Torre Officinas I, Parque Central Torre Officinas II, Banco Mercantil, Torre BBVA Banco Provincial, Edificio Citibank, Torre Movilnet, Torre CorpBanca, Torre Polar II, Torre Humbolt, Residencias Anauco, Residencias Caroata, Residencias Catuche, Residencias El Tejar, Residencias Mohedano, Residencias San Martin, Residencias Tacaqua, Residencias Tajamar, Torre Banco Plaza, Altamira Four Seasons Hotel, Previsora Tower, Banco Central de Venezuela, Torre Phelps, Residencias Pórtico del Este I, Residencias Pórtico del Este II, Torre Domus, Torre Banesco, Hotel Alba Caracas, Simon Bolivar Center 1, Simon Bolivar Center 2, Parque Cristal, Conjunto Residencial Bello Monte Este, Conjunto Residencial Bello Monte Oeste, Centro Empresarial Sabana Grande, Centro Letonia, Torre Hewlett Packard Norte, Torre Hewlett Packard Sur, Torre Polar I, Centro Plaza I, Centro Plaza II, Residencias San Juan Torre A, Residencias San Juan Torre B, Residencias San Juan Torre C
+Tiers: I: 16, II: 22, III: 2, IV: 2
+Rating: 80
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Maracay ***
+Country: Venezuela
+Region: South America
+1 tower: Torre Sindoni
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

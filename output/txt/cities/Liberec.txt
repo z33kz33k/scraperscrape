@@ -1,0 +1,21 @@
+*** Liberec (1) ***
+1. SVUT, 78m
+
+******************** DETAILS ********************
+
+*** Liberec ***
+Country: Czech Republic
+Region: Europe
+1 tower: SVUT
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** SVUT ***
+Height: 78
+Floors: 30
+Status: Completed
+Started: 1967
+Completed: 1976
+Functions: office
+Rank: 1

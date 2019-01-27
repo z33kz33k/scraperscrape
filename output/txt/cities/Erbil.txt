@@ -1,0 +1,41 @@
+*** Erbil (4) ***
+1. Empire Business Tower, 130m
+2. Aura East Wing, 86m
+3. Aura West Wing, 86m
+
+******************** DETAILS ********************
+
+*** Erbil ***
+Country: Iraq
+Region: Middle East
+3 towers: Empire Business Tower, Aura East Wing, Aura West Wing
+Tiers: I: 2, II: 1
+Rating: 4 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Empire Business Tower ***
+Height: 130
+Floors: 33
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 1
+
+*** Aura East Wing ***
+Height: 86.4
+Floors: 24
+Status: Under Construction
+Started: 2012
+Completed: 2017
+Functions: residential / hotel / office
+Rank: 2
+
+*** Aura West Wing ***
+Height: 86.4
+Floors: 24
+Status: Under Construction
+Started: 2012
+Completed: 2017
+Functions: residential / office
+Rank: 2

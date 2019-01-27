@@ -1,0 +1,305 @@
+*** Benidorm (54) ***
+1.  Intempo, 192m
+2.  Gran Hotel Bali, 186m
+3.  Torre Lugano, 158m
+4.  Edificio Neguri Gane, 148m
+5.  Edificio Kronos, 140m
+6.  Edificio Don Jorge, 124m
+7.  El Mirador del Mediterrano, 123m
+8.  Torre Levante, 120m
+9.  Costa Blanca I, 116m
+10. Miragolf Playa 2, 115m
+11. Gemelos 26 Torre 1, 114m
+12. Gemelos 26 Torre 2, 114m
+13. Torre D'Oboe 1, 114m
+14. Torre D'Oboe 2, 114m
+15. Sol de Poniente 2, 112m
+16. Beni Beach, 110m
+17. Playa Azul, 105m
+18. Miragolf Playa 1, 105m
+19. Torre Pinar, 105m
+20. Residencial Islamar 2, 104m
+21. Residencial Islamar 3, 104m
+22. Las Terrazas de Benidorm 1, 101m
+23. Las Terrazas de Benidorm 2, 101m
+24. Torre Doscalas, 100m
+25. Gemelos 22 Torre 1, 100m
+26. Gemelos 22 Torre 2, 100m
+27. Coblanca 41, 97m
+28. Miragolf Playa 3, 96m
+29. Hotel Flamingo Oasis, 95m
+30. Delfin Tower, 95m
+31. Sol de Poniente 1, 93m
+32. Costa Blanca II, 90m
+
+******************** DETAILS ********************
+
+*** Benidorm ***
+Country: Spain
+Region: Europe
+32 towers: Intempo, Gran Hotel Bali, Torre Lugano, Edificio Neguri Gane, Edificio Kronos, Edificio Don Jorge, El Mirador del Mediterrano, Torre Levante, Costa Blanca I, Miragolf Playa 2, Gemelos 26 Torre 1, Gemelos 26 Torre 2, Torre D'Oboe 1, Torre D'Oboe 2, Sol de Poniente 2, Beni Beach, Playa Azul, Miragolf Playa 1, Torre Pinar, Residencial Islamar 2, Residencial Islamar 3, Las Terrazas de Benidorm 1, Las Terrazas de Benidorm 2, Torre Doscalas, Gemelos 22 Torre 1, Gemelos 22 Torre 2, Coblanca 41, Miragolf Playa 3, Hotel Flamingo Oasis, Delfin Tower, Sol de Poniente 1, Costa Blanca II
+Tiers: I: 16, II: 13, III: 3
+Rating: 54 (9.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Intempo ***
+Height: 192
+Floors: 47
+Status: Architecturally Topped Out
+Started: 2007
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Gran Hotel Bali ***
+Height: 186
+Floors: 52
+Status: Completed
+Started: 1987
+Completed: 2002
+Functions: hotel
+Rank: 2
+
+*** Torre Lugano ***
+Height: 158
+Floors: 43
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 3
+
+*** Edificio Neguri Gane ***
+Height: 148.03
+Floors: 43
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: residential
+Rank: 4
+
+*** Edificio Kronos ***
+Height: 140
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 5
+
+*** Edificio Don Jorge ***
+Height: 124
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 6
+
+*** El Mirador del Mediterrano ***
+Height: 123
+Floors: 32
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 7
+
+*** Torre Levante ***
+Height: 120
+Floors: 35
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 8
+
+*** Costa Blanca I ***
+Height: 116
+Floors: 36
+Status: Completed
+Completed: 1993
+Functions: residential
+Rank: 9
+
+*** Miragolf Playa 2 ***
+Height: 115
+Floors: 33
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 10
+
+*** Gemelos 26 Torre 1 ***
+Height: 114
+Floors: 33
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 11
+
+*** Gemelos 26 Torre 2 ***
+Height: 114
+Floors: 33
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 11
+
+*** Torre D'Oboe 1 ***
+Height: 114
+Floors: 31
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 13
+
+*** Torre D'Oboe 2 ***
+Height: 114
+Floors: 31
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 13
+
+*** Sol de Poniente 2 ***
+Height: 112
+Floors: 33
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 15
+
+*** Beni Beach ***
+Height: 110
+Floors: 35
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 16
+
+*** Playa Azul ***
+Height: 105
+Floors: 34
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 17
+
+*** Miragolf Playa 1 ***
+Height: 105
+Floors: 30
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 18
+
+*** Torre Pinar ***
+Height: 105
+Floors: 30
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 18
+
+*** Residencial Islamar 2 ***
+Height: 104
+Floors: 28
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 20
+
+*** Residencial Islamar 3 ***
+Height: 104
+Floors: 28
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 20
+
+*** Las Terrazas de Benidorm 1 ***
+Height: 101
+Floors: 30
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 22
+
+*** Las Terrazas de Benidorm 2 ***
+Height: 101
+Floors: 30
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 22
+
+*** Torre Doscalas ***
+Height: 100.4
+Floors: 32
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 24
+
+*** Gemelos 22 Torre 1 ***
+Height: 100.2
+Floors: 32
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 25
+
+*** Gemelos 22 Torre 2 ***
+Height: 100.2
+Floors: 32
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 25
+
+*** Coblanca 41 ***
+Height: 97
+Floors: 28
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 27
+
+*** Miragolf Playa 3 ***
+Height: 96.01
+Floors: 30
+Status: Completed
+Functions: residential
+Rank: 28
+
+*** Hotel Flamingo Oasis ***
+Height: 95
+Floors: 27
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 29
+
+*** Delfin Tower ***
+Height: 95
+Floors: 22
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 30
+
+*** Sol de Poniente 1 ***
+Height: 92.66
+Floors: 28
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 31
+
+*** Costa Blanca II ***
+Height: 90
+Floors: 28
+Status: Completed
+Completed: 1990
+Functions: residential
+Rank: 32

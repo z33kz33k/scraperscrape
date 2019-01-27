@@ -1,0 +1,95 @@
+*** Quebec (12) ***
+1. Edifice Marie-Guyart, 126m
+2. Complexe Jules Dallaire II, 110m
+3. &Eacute;difice Place Hauteville et H&ocirc;tel Delta Qu&eacute;bec, 107m
+4. Hotel Le Concorde, 91m
+5. Hotel Hilton, 84m
+6. Edifice Price, 82m
+7. Place de la Capitale, 80m
+8. Le Château Frontenac, 77m
+9. Édifice d`Youville, 76m
+
+******************** DETAILS ********************
+
+*** Quebec ***
+Country: Canada
+Region: North America
+9 towers: Edifice Marie-Guyart, Complexe Jules Dallaire II, &Eacute;difice Place Hauteville et H&ocirc;tel Delta Qu&eacute;bec, Hotel Le Concorde, Hotel Hilton, Edifice Price, Place de la Capitale, Le Château Frontenac, Édifice d`Youville
+Tiers: I: 6, II: 3
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Edifice Marie-Guyart ***
+Height: 126.5
+Floors: 33
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 1
+
+*** Complexe Jules Dallaire II ***
+Height: 110
+Floors: 28
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / office
+Rank: 2
+
+*** &Eacute;difice Place Hauteville et H&ocirc;tel Delta Qu&eacute;bec ***
+Height: 107
+Floors: 34
+Status: Completed
+Completed: 1974
+Functions: hotel / office
+Rank: 3
+
+*** Hotel Le Concorde ***
+Height: 91
+Floors: 31
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 4
+
+*** Hotel Hilton ***
+Height: 84
+Floors: 26
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 5
+
+*** Edifice Price ***
+Height: 82
+Floors: 18
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: office
+Rank: 6
+
+*** Place de la Capitale ***
+Height: 80.16
+Floors: 21
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 7
+
+*** Le Château Frontenac ***
+Height: 77
+Floors: 18
+Status: Completed
+Completed: 1924
+Functions: hotel
+Rank: 8
+
+*** Édifice d`Youville ***
+Height: 76
+Floors: 18
+Status: Completed
+Started: 1969
+Completed: 1971
+Functions: office
+Rank: 9

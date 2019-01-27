@@ -1,0 +1,29 @@
+*** Baoding (6) ***
+1. Vanbo Plaza South Tower, 192m
+2. Vanbo Plaza North Tower, 123m
+
+******************** DETAILS ********************
+
+*** Baoding ***
+Country: China
+Region: Asia
+2 towers: Vanbo Plaza South Tower, Vanbo Plaza North Tower
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Vanbo Plaza South Tower ***
+Height: 192
+Floors: 53
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: hotel / office
+Rank: 1
+
+*** Vanbo Plaza North Tower ***
+Height: 123
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 2

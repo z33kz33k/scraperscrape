@@ -1,0 +1,2103 @@
+*** Moscow (524) ***
+1.   Federation Tower, 374m
+2.   OKO - Residential Tower, 354m
+3.   NEVA TOWERS 2, 345m
+4.   Mercury City Tower, 339m
+5.   Eurasia Tower, 309m
+6.   Capital City Moscow Tower, 302m
+7.   NEVA TOWERS 1, 297m
+8.   Grand Tower, 283m
+9.   Naberezhnaya Tower Block C, 268m
+10.  Capital Tower 1, 267m
+11.  Capital Tower 2, 267m
+12.  Capital Tower 3, 267m
+13.  Triumph Palace, 264m
+14.  Neskuchny Home & Spa Tower 1 , 262m
+15.  Capital City St. Petersburg Tower, 257m
+16.  Evolution Tower, 246m
+17.  Federation Tower - Zapad Tower, 242m
+18.  MV Lomonosov State University, 239m
+19.  Imperia Tower, 239m
+20.  OKO - Office Tower, 224m
+21.  House on Mosfilmovskaya Tower A, 213m
+22.  Radisson Royal Hotel, 206m
+23.  Tricolour 1, 194m
+24.  Continental, 191m
+25.  Tricolour 2, 190m
+26.  Vorobiovy Gory Tower II, 178m
+27.  IQ-Quarter Tower 2, 178m
+28.  Edelweiss, 176m
+29.  Kotelnicheskaya Naberezhnaya, 176m
+30.  Alye Parusa 4, 176m
+31.  Ministry of Foreign Affairs, 172m
+32.  Nordstar Tower, 172m
+33.  Mirax Plaza - Tower B, 168m
+34.  Swissotel Krasnye Holmy, 166m
+35.  Zagorye Quarter Tower, 165m
+36.  Wellhouse na Leninskom, 162m
+37.  Vorobiovy Gory Tower I, 161m
+38.  Vorobiovy Gory Tower III, 161m
+39.  Presnya City 1, 156m
+40.  Presnya City 2, 156m
+41.  Presnya City 3, 156m
+42.  Kudrinskaya Square, 156m
+43.  Savelovskii City - Armstrong, 155m
+44.  Savelovskii City - Coltrane, 155m
+45.  Savelovskii City - Ellington, 155m
+46.  Avenue 77 Block 1, 155m
+47.  Avenue 77 Block 2, 155m
+48.  Avenue 77 Block 3, 155m
+49.  Bastion, 153m
+50.  Gazprom, 151m
+51.  Alcon III, 150m
+52.  House in Sokolniki, 147m
+53.  Dolina Setun Tower B, 145m
+54.  PFC CSKA Stadium Tower, 142m
+55.  IQ-Quarter Tower 1, 141m
+56.  Domnikov, 141m
+57.  Nord Park A, 140m
+58.  Izmailovsky 1, 140m
+59.  Izmailovsky 2, 140m
+60.  Villange, 138m
+61.  Central Tourist House, 138m
+62.  Red Gate Square, 138m
+63.  Hilton Moscow Leningradskaya, 136m
+64.  House on Begovaya 1, 136m
+65.  House on Begovaya 2, 136m
+66.  Sokolinaya Gora, 135m
+67.  Dolina Setun Tower A, 135m
+68.  Monarch Center, 134m
+69.  House on Mosfilmovskaya Tower C, 132m
+70.  Rublyovka Lights, 132m
+71.  NII Delta Business Center, 132m
+72.  North Tower, 132m
+73.  Yantarnyi Gorod 2, 130m
+74.  Serdtse Stolitsy, 129m
+75.  Olympia Tower 2, 129m
+76.  World Trade Center Tower 3, 128m
+77.  Naberezhnaya Tower Block B, 127m
+78.  Winter Tower, 126m
+79.  Two Captains 1, 125m
+80.  Two Captains 2, 125m
+81.  Aerobus 1, 123m
+82.  Aerobus 2, 123m
+83.  Elena, 123m
+84.  Emerald Tower B, 123m
+85.  VDNkh Tower, 123m
+86.  Alye Parusa 1, 122m
+87.  Alye Parusa 2, 122m
+88.  Alye Parusa 3, 122m
+89.  Alye Parusa 5, 122m
+90.  House on Begovaya 3, 122m
+91.  Akadem-Palace 3, 121m
+92.  Radisson SAS Olympisky, 120m
+93.  Academy of Sciences, 120m
+94.  Autumn Tower, 120m
+95.  Gazoil City 1, 120m
+96.  Oruzheyniy, 120m
+97.  Government of Russia Building, 119m
+98.  Crystal, 119m
+99.  Alye Parusa 6, 118m
+100. Levoberezhny 8a-8b, 118m
+101. Tricolour 3, 117m
+102. Novye Cheryomushki 10A k8, 116m
+103. Novye Cheryomushki 10B k8, 116m
+104. Novye Cheryomushki 10C k8, 116m
+105. House In a Pine Grove, 116m
+106. Teplichniy 4, 116m
+107. Sun, 116m
+108. Preo 8, 115m
+109. Star Tower, 115m
+110. Rostec, 115m
+111. SRI Kontur, 115m
+112. SRI Priboi, 115m
+113. Lenin Avenue 116-1, 115m
+114. 11 Building 1 1st Nagatinsky Drive, 114m
+115. 11 Building 2 1st Nagatinsky Drive, 114m
+116. 11 Building 3 1st Nagatinsky Drive, 114m
+117. Summer Tower, 114m
+118. Alye Parusa 8, 114m
+119. Izmailovsky 3, 112m
+120. Izmailovsky 4, 112m
+121. Profico, 112m
+122. Nord Park B, 112m
+123. Alye Parusa 7, 111m
+124. Grand Park 1, 111m
+125. Grand Park 2, 111m
+126. Grand Park 3, 111m
+127. Grand Park 4, 111m
+128. Paveletskaya Tower, 111m
+129. Lenin Avenue, 98-1, 111m
+130. Kutuzovskaya Riviera Tower 1, 110m
+131. Kutuzovskaya Riviera Tower 2, 110m
+132. Kutuzovskaya Riviera Tower 3, 110m
+133. Kutuzovskaya Riviera Tower 4, 110m
+134. Painters' Village, 110m
+135. Severnye Vorota 1, 110m
+136. Severnye Vorota 2, 110m
+137. Main Interregional Center of Federal Service of State Statistics, 110m
+138. SkyLight Tower A, 109m
+139. SkyLight Tower B, 109m
+140. Sky Fort (C203 - S6), 109m
+141. Sky Fort (C205 - S6), 109m
+142. Sky Fort (C206 - S5), 109m
+143. Fili Grad - Phase 1-1B, 109m
+144. THE MID, 108m
+145. City Hall, 108m
+146. Spring Tower, 108m
+147. Losiniy Ostrov 1, 108m
+148. Losiniy Ostrov 2, 108m
+149. Losiniy Ostrov 3, 108m
+150. Losiniy Ostrov 4, 108m
+151. Lenin Avenue 92-1, 108m
+152. Zodiak, 107m
+153. Lenin Avenue, 128-1, 107m
+154. Golden Gate Business Centre, 107m
+155. Dubrovskaya Sloboda I, 106m
+156. Dubrovskaya Sloboda II, 106m
+157. Lenin Avenue, 106-1, 106m
+158. Emerald Tower A, 105m
+159. Sky Fort (C203 - S2), 105m
+160. Sky Fort (C204 - S3), 105m
+161. Sky Fort (C206 - S2), 105m
+162. Utesov 1, 105m
+163. Utesov 3, 105m
+164. Vodnyi - Office Tower, 104m
+165. Bashnya 2000, 104m
+166. Alfa, 104m
+167. Beta, 104m
+168. Izmailovo Gamma Hotel, 104m
+169. Vega, 104m
+170. Hotel Cosmos, 104m
+171. Headquarters on Mosfilmovskaya, 104m
+172. Aivazovskiy, 102m
+173. Dimitrovskoe Shosse 13-15 Block 1, 102m
+174. Dimitrovskoe Shosse 13-15 Block 2, 102m
+175. Dimitrovskoe Shosse 13-15 Block 3, 102m
+176. Yantarnyi Gorod 4-1, 101m
+177. Yantarnyi Gorod 4-2, 101m
+178. Hydroproject Building, 100m
+179. 13 New Arbat Street, 100m
+180. 15 New Arbat Street, 100m
+181. 19 New Arbat Street, 100m
+182. 21 New Arbat Street, 100m
+183. Sberbank Tower, 100m
+184. Dykhanie 1, 100m
+185. Dykhanie 4, 100m
+186. Flotiliya 1, 99m
+187. Flotiliya 2, 99m
+188. Flotiliya 3, 99m
+189. Flotiliya 4, 99m
+190. Fili Grad - Phase 1-1A, 99m
+191. Yantarnyi Gorod 1, 98m
+192. Yantarnyi Gorod 3, 98m
+193. Olympia Tower 1, 96m
+194. Versis, 94m
+195. Vodnyi - Residential Tower 1, 91m
+196. Vodnyi - Residential Tower 2, 91m
+197. Vodnyi - Residential Tower 3, 91m
+198. Vodnyi - Residential Tower 4, 91m
+199. Vodnyi - Residential Tower 5, 91m
+200. Litsa, 88m
+201. Fili Grad - Phase 2-2, 86m
+202. Fili Grad - Phase 2-3, 86m
+203. Fili Grad - Phase 2-4, 86m
+204. Fili Grad - Phase 2-5, 86m
+205. Fili Grad - Phase 2-6, 86m
+206. World Trade Center Tower 2, 86m
+207. IQ-Quarter Tower 3, 84m
+208. Novoyasenevskii, 82m
+209. 2-ya Kvesisskaya, 20/1, 76m
+210. Fili Grad - Phase 2-1, 76m
+211. Fili Grad - Phase 2-7, 76m
+212. Etalon-City - Phase 1-1, 75m
+213. Etalon-City - Phase 1-2, 75m
+214. Etalon-City - Phase 1-3, 75m
+
+******************** DETAILS ********************
+
+*** Moscow ***
+Country: Russia
+Region: Europe
+214 towers: Federation Tower, OKO - Residential Tower, NEVA TOWERS 2, Mercury City Tower, Eurasia Tower, Capital City Moscow Tower, NEVA TOWERS 1, Grand Tower, Naberezhnaya Tower Block C, Capital Tower 1, Capital Tower 2, Capital Tower 3, Triumph Palace, Neskuchny Home & Spa Tower 1 , Capital City St. Petersburg Tower, Evolution Tower, Federation Tower - Zapad Tower, MV Lomonosov State University, Imperia Tower, OKO - Office Tower, House on Mosfilmovskaya Tower A, Radisson Royal Hotel, Tricolour 1, Continental, Tricolour 2, Vorobiovy Gory Tower II, IQ-Quarter Tower 2, Edelweiss, Kotelnicheskaya Naberezhnaya, Alye Parusa 4, Ministry of Foreign Affairs, Nordstar Tower, Mirax Plaza - Tower B, Swissotel Krasnye Holmy, Zagorye Quarter Tower, Wellhouse na Leninskom, Vorobiovy Gory Tower I, Vorobiovy Gory Tower III, Presnya City 1, Presnya City 2, Presnya City 3, Kudrinskaya Square, Savelovskii City - Armstrong, Savelovskii City - Coltrane, Savelovskii City - Ellington, Avenue 77 Block 1, Avenue 77 Block 2, Avenue 77 Block 3, Bastion, Gazprom, Alcon III, House in Sokolniki, Dolina Setun Tower B, PFC CSKA Stadium Tower, IQ-Quarter Tower 1, Domnikov, Nord Park A, Izmailovsky 1, Izmailovsky 2, Villange, Central Tourist House, Red Gate Square, Hilton Moscow Leningradskaya, House on Begovaya 1, House on Begovaya 2, Sokolinaya Gora, Dolina Setun Tower A, Monarch Center, House on Mosfilmovskaya Tower C, Rublyovka Lights, NII Delta Business Center, North Tower, Yantarnyi Gorod 2, Serdtse Stolitsy, Olympia Tower 2, World Trade Center Tower 3, Naberezhnaya Tower Block B, Winter Tower, Two Captains 1, Two Captains 2, Aerobus 1, Aerobus 2, Elena, Emerald Tower B, VDNkh Tower, Alye Parusa 1, Alye Parusa 2, Alye Parusa 3, Alye Parusa 5, House on Begovaya 3, Akadem-Palace 3, Radisson SAS Olympisky, Academy of Sciences, Autumn Tower, Gazoil City 1, Oruzheyniy, Government of Russia Building, Crystal, Alye Parusa 6, Levoberezhny 8a-8b, Tricolour 3, Novye Cheryomushki 10A k8, Novye Cheryomushki 10B k8, Novye Cheryomushki 10C k8, House In a Pine Grove, Teplichniy 4, Sun, Preo 8, Star Tower, Rostec, SRI Kontur, SRI Priboi, Lenin Avenue 116-1, 11 Building 1 1st Nagatinsky Drive, 11 Building 2 1st Nagatinsky Drive, 11 Building 3 1st Nagatinsky Drive, Summer Tower, Alye Parusa 8, Izmailovsky 3, Izmailovsky 4, Profico, Nord Park B, Alye Parusa 7, Grand Park 1, Grand Park 2, Grand Park 3, Grand Park 4, Paveletskaya Tower, Lenin Avenue, 98-1, Kutuzovskaya Riviera Tower 1, Kutuzovskaya Riviera Tower 2, Kutuzovskaya Riviera Tower 3, Kutuzovskaya Riviera Tower 4, Painters' Village, Severnye Vorota 1, Severnye Vorota 2, Main Interregional Center of Federal Service of State Statistics, SkyLight Tower A, SkyLight Tower B, Sky Fort (C203 - S6), Sky Fort (C205 - S6), Sky Fort (C206 - S5), Fili Grad - Phase 1-1B, THE MID, City Hall, Spring Tower, Losiniy Ostrov 1, Losiniy Ostrov 2, Losiniy Ostrov 3, Losiniy Ostrov 4, Lenin Avenue 92-1, Zodiak, Lenin Avenue, 128-1, Golden Gate Business Centre, Dubrovskaya Sloboda I, Dubrovskaya Sloboda II, Lenin Avenue, 106-1, Emerald Tower A, Sky Fort (C203 - S2), Sky Fort (C204 - S3), Sky Fort (C206 - S2), Utesov 1, Utesov 3, Vodnyi - Office Tower, Bashnya 2000, Alfa, Beta, Izmailovo Gamma Hotel, Vega, Hotel Cosmos, Headquarters on Mosfilmovskaya, Aivazovskiy, Dimitrovskoe Shosse 13-15 Block 1, Dimitrovskoe Shosse 13-15 Block 2, Dimitrovskoe Shosse 13-15 Block 3, Yantarnyi Gorod 4-1, Yantarnyi Gorod 4-2, Hydroproject Building, 13 New Arbat Street, 15 New Arbat Street, 19 New Arbat Street, 21 New Arbat Street, Sberbank Tower, Dykhanie 1, Dykhanie 4, Flotiliya 1, Flotiliya 2, Flotiliya 3, Flotiliya 4, Fili Grad - Phase 1-1A, Yantarnyi Gorod 1, Yantarnyi Gorod 3, Olympia Tower 1, Versis, Vodnyi - Residential Tower 1, Vodnyi - Residential Tower 2, Vodnyi - Residential Tower 3, Vodnyi - Residential Tower 4, Vodnyi - Residential Tower 5, Litsa, Fili Grad - Phase 2-2, Fili Grad - Phase 2-3, Fili Grad - Phase 2-4, Fili Grad - Phase 2-5, Fili Grad - Phase 2-6, World Trade Center Tower 2, IQ-Quarter Tower 3, Novoyasenevskii, 2-ya Kvesisskaya, 20/1, Fili Grad - Phase 2-1, Fili Grad - Phase 2-7, Etalon-City - Phase 1-1, Etalon-City - Phase 1-2, Etalon-City - Phase 1-3
+Tiers: I: 60, II: 103, III: 30, IV: 15, V: 6
+Rating: 524 (12.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Federation Tower ***
+Height: 373.7
+Floors: 93
+Status: Completed
+Completed: 2016
+Functions: residential / office
+Rank: 1
+
+*** OKO - Residential Tower ***
+Height: 353.64
+Floors: 90
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential / serviced apartments / hotel
+Rank: 2
+
+*** NEVA TOWERS 2 ***
+Height: 345
+Floors: 79
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2020
+Functions: residential
+Rank: 3
+
+*** Mercury City Tower ***
+Height: 338.82
+Floors: 75
+Status: Completed
+Started: 2006
+Completed: 2013
+Functions: residential / office
+Rank: 4
+
+*** Eurasia Tower ***
+Height: 308.91
+Floors: 72
+Status: Completed
+Started: 2006
+Completed: 2015
+Functions: residential / hotel / office
+Rank: 5
+
+*** Capital City Moscow Tower ***
+Height: 301.75
+Floors: 76
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 6
+
+*** NEVA TOWERS 1 ***
+Height: 296.95
+Floors: 65
+Status: Under Construction
+Started: 2013
+Completed: 2020
+Functions: residential / office
+Rank: 7
+
+*** Grand Tower ***
+Height: 283
+Floors: 50
+Status: Under Construction
+Started: 2013
+Functions: office
+Rank: 8
+
+*** Naberezhnaya Tower Block C ***
+Height: 268.4
+Floors: 61
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: office
+Rank: 9
+
+*** Capital Tower 1 ***
+Height: 267
+Floors: 61
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 10
+
+*** Capital Tower 2 ***
+Height: 267
+Floors: 61
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 10
+
+*** Capital Tower 3 ***
+Height: 267
+Floors: 61
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 10
+
+*** Triumph Palace ***
+Height: 264.1
+Floors: 61
+Status: Completed
+Started: 2001
+Completed: 2005
+Functions: hotel / residential
+Rank: 13
+
+*** Neskuchny Home & Spa Tower 1  ***
+Height: 262
+Floors: 69
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 14
+
+*** Capital City St. Petersburg Tower ***
+Height: 257.2
+Floors: 65
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 15
+
+*** Evolution Tower ***
+Height: 245.95
+Floors: 55
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: office
+Rank: 16
+
+*** Federation Tower - Zapad Tower ***
+Height: 242.5
+Floors: 63
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential / office
+Rank: 17
+
+*** MV Lomonosov State University ***
+Height: 239
+Floors: 39
+Status: Completed
+Started: 1949
+Completed: 1953
+Functions: education
+Rank: 18
+
+*** Imperia Tower ***
+Height: 238.7
+Floors: 60
+Status: Completed
+Started: 2001
+Completed: 2011
+Functions: residential / hotel / office
+Rank: 19
+
+*** OKO - Office Tower ***
+Height: 224.45
+Floors: 46
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 20
+
+*** House on Mosfilmovskaya Tower A ***
+Height: 213.3
+Floors: 53
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 21
+
+*** Radisson Royal Hotel ***
+Height: 206
+Floors: 34
+Status: Completed
+Started: 1949
+Completed: 1955
+Functions: hotel
+Rank: 22
+
+*** Tricolour 1 ***
+Height: 194
+Floors: 58
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 23
+
+*** Continental ***
+Height: 191
+Floors: 48
+Status: Completed
+Started: 2005
+Completed: 2011
+Functions: residential
+Rank: 24
+
+*** Tricolour 2 ***
+Height: 190
+Floors: 58
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential
+Rank: 25
+
+*** Vorobiovy Gory Tower II ***
+Height: 178
+Floors: 48
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 26
+
+*** IQ-Quarter Tower 2 ***
+Height: 177.5
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2016
+Functions: office
+Rank: 27
+
+*** Edelweiss ***
+Height: 176
+Floors: 43
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential
+Rank: 28
+
+*** Kotelnicheskaya Naberezhnaya ***
+Height: 176
+Floors: 32
+Status: Completed
+Started: 1948
+Completed: 1952
+Functions: residential
+Rank: 29
+
+*** Alye Parusa 4 ***
+Height: 175.62
+Floors: 48
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 30
+
+*** Ministry of Foreign Affairs ***
+Height: 172
+Floors: 27
+Status: Completed
+Started: 1948
+Completed: 1953
+Functions: office
+Rank: 31
+
+*** Nordstar Tower ***
+Height: 171.5
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 32
+
+*** Mirax Plaza - Tower B ***
+Height: 168
+Floors: 41
+Status: Completed
+Started: 2006
+Completed: 2015
+Functions: office
+Rank: 33
+
+*** Swissotel Krasnye Holmy ***
+Height: 166.5
+Floors: 35
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: hotel
+Rank: 34
+
+*** Zagorye Quarter Tower ***
+Height: 165
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 35
+
+*** Wellhouse na Leninskom ***
+Height: 162
+Floors: 46
+Status: Completed
+Started: 2002
+Completed: 2009
+Functions: residential
+Rank: 36
+
+*** Vorobiovy Gory Tower I ***
+Height: 161
+Floors: 43
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 37
+
+*** Vorobiovy Gory Tower III ***
+Height: 161
+Floors: 43
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 37
+
+*** Presnya City 1 ***
+Height: 156
+Floors: 44
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 39
+
+*** Presnya City 2 ***
+Height: 156
+Floors: 44
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 39
+
+*** Presnya City 3 ***
+Height: 156
+Floors: 44
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 39
+
+*** Kudrinskaya Square ***
+Height: 156
+Floors: 24
+Status: Completed
+Started: 1950
+Completed: 1954
+Functions: residential
+Rank: 42
+
+*** Savelovskii City - Armstrong ***
+Height: 155.3
+Floors: 46
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 43
+
+*** Savelovskii City - Coltrane ***
+Height: 155.3
+Floors: 46
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 43
+
+*** Savelovskii City - Ellington ***
+Height: 155.3
+Floors: 46
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 43
+
+*** Avenue 77 Block 1 ***
+Height: 155
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 46
+
+*** Avenue 77 Block 2 ***
+Height: 155
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 46
+
+*** Avenue 77 Block 3 ***
+Height: 155
+Floors: 43
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 46
+
+*** Bastion ***
+Height: 153
+Floors: 40
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: residential / retail
+Rank: 49
+
+*** Gazprom ***
+Height: 151
+Floors: 35
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 50
+
+*** Alcon III ***
+Height: 150
+Floors: 33
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: serviced apartments / hotel
+Rank: 51
+
+*** House in Sokolniki ***
+Height: 147
+Floors: 43
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential / retail
+Rank: 52
+
+*** Dolina Setun Tower B ***
+Height: 144.9
+Floors: 39
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: residential / retail
+Rank: 53
+
+*** PFC CSKA Stadium Tower ***
+Height: 142
+Floors: 38
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: hotel / office
+Rank: 54
+
+*** IQ-Quarter Tower 1 ***
+Height: 141
+Floors: 34
+Status: Completed
+Started: 2006
+Completed: 2015
+Functions: office
+Rank: 55
+
+*** Domnikov ***
+Height: 141
+Floors: 28
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 56
+
+*** Nord Park A ***
+Height: 140
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 57
+
+*** Izmailovsky 1 ***
+Height: 140
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 58
+
+*** Izmailovsky 2 ***
+Height: 140
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 58
+
+*** Villange ***
+Height: 138
+Floors: 40
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 60
+
+*** Central Tourist House ***
+Height: 138
+Floors: 33
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 61
+
+*** Red Gate Square ***
+Height: 138
+Floors: 24
+Status: Completed
+Started: 1949
+Completed: 1953
+Functions: residential / office
+Rank: 62
+
+*** Hilton Moscow Leningradskaya ***
+Height: 136
+Floors: 26
+Status: Completed
+Started: 1949
+Completed: 1954
+Functions: hotel
+Rank: 63
+
+*** House on Begovaya 1 ***
+Height: 135.6
+Floors: 41
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: residential
+Rank: 64
+
+*** House on Begovaya 2 ***
+Height: 135.6
+Floors: 41
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: residential
+Rank: 64
+
+*** Sokolinaya Gora ***
+Height: 135.2
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 66
+
+*** Dolina Setun Tower A ***
+Height: 135
+Floors: 36
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: residential / retail
+Rank: 67
+
+*** Monarch Center ***
+Height: 134
+Floors: 36
+Status: Completed
+Completed: 2009
+Functions: hotel / office
+Rank: 68
+
+*** House on Mosfilmovskaya Tower C ***
+Height: 132.47
+Floors: 35
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 69
+
+*** Rublyovka Lights ***
+Height: 132
+Floors: 40
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 70
+
+*** NII Delta Business Center ***
+Height: 132
+Floors: 26
+Status: Completed
+Started: 1971
+Completed: 1982
+Functions: office
+Rank: 71
+
+*** North Tower ***
+Height: 131.8
+Floors: 26
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 72
+
+*** Yantarnyi Gorod 2 ***
+Height: 130
+Floors: 39
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 73
+
+*** Serdtse Stolitsy ***
+Height: 129
+Floors: 37
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: office
+Rank: 74
+
+*** Olympia Tower 2 ***
+Height: 129
+Floors: 35
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 75
+
+*** World Trade Center Tower 3 ***
+Height: 128
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 76
+
+*** Naberezhnaya Tower Block B ***
+Height: 127
+Floors: 29
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 77
+
+*** Winter Tower ***
+Height: 126
+Floors: 37
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 78
+
+*** Two Captains 1 ***
+Height: 125
+Floors: 34
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential / retail
+Rank: 79
+
+*** Two Captains 2 ***
+Height: 125
+Floors: 33
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential / retail
+Rank: 80
+
+*** Aerobus 1 ***
+Height: 123
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 81
+
+*** Aerobus 2 ***
+Height: 123
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 81
+
+*** Elena ***
+Height: 123
+Floors: 33
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 83
+
+*** Emerald Tower B ***
+Height: 123
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential
+Rank: 84
+
+*** VDNkh Tower ***
+Height: 122.7
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 85
+
+*** Alye Parusa 1 ***
+Height: 122
+Floors: 31
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 86
+
+*** Alye Parusa 2 ***
+Height: 122
+Floors: 31
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 86
+
+*** Alye Parusa 3 ***
+Height: 122
+Floors: 31
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 86
+
+*** Alye Parusa 5 ***
+Height: 122
+Floors: 31
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 86
+
+*** House on Begovaya 3 ***
+Height: 121.8
+Floors: 32
+Status: Completed
+Started: 2003
+Completed: 2011
+Functions: residential / retail
+Rank: 90
+
+*** Akadem-Palace 3 ***
+Height: 120.65
+Floors: 32
+Status: Under Construction
+Functions: residential
+Rank: 91
+
+*** Radisson SAS Olympisky ***
+Height: 120.4
+Floors: 33
+Status: Structurally Topped Out
+Started: 2008
+Functions: hotel / office
+Rank: 92
+
+*** Academy of Sciences ***
+Height: 120.1
+Floors: 29
+Status: Completed
+Completed: 1989
+Functions: education
+Rank: 93
+
+*** Autumn Tower ***
+Height: 120
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 94
+
+*** Gazoil City 1 ***
+Height: 120
+Floors: 33
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 95
+
+*** Oruzheyniy ***
+Height: 120
+Floors: 27
+Status: Completed
+Started: 2005
+Completed: 2014
+Functions: office
+Rank: 96
+
+*** Government of Russia Building ***
+Height: 119
+Floors: 18
+Status: Completed
+Completed: 1980
+Functions: government
+Rank: 97
+
+*** Crystal ***
+Height: 118.75
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 98
+
+*** Alye Parusa 6 ***
+Height: 118
+Floors: 30
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: residential
+Rank: 99
+
+*** Levoberezhny 8a-8b ***
+Height: 117.95
+Floors: 33
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 100
+
+*** Tricolour 3 ***
+Height: 117
+Floors: 36
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: residential
+Rank: 101
+
+*** Novye Cheryomushki 10A k8 ***
+Height: 116.4
+Floors: 36
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 102
+
+*** Novye Cheryomushki 10B k8 ***
+Height: 116.4
+Floors: 36
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 102
+
+*** Novye Cheryomushki 10C k8 ***
+Height: 116.4
+Floors: 36
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 102
+
+*** House In a Pine Grove ***
+Height: 116.39
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 105
+
+*** Teplichniy 4 ***
+Height: 116.1
+Floors: 26
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 106
+
+*** Sun ***
+Height: 116
+Floors: 31
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 107
+
+*** Preo 8 ***
+Height: 115
+Floors: 28
+Status: Completed
+Completed: 2011
+Functions: office
+Rank: 108
+
+*** Star Tower ***
+Height: 115
+Floors: 27
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 109
+
+*** Rostec ***
+Height: 115
+Floors: 26
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 110
+
+*** SRI Kontur ***
+Height: 115
+Floors: 26
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 110
+
+*** SRI Priboi ***
+Height: 115
+Floors: 26
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 110
+
+*** Lenin Avenue 116-1 ***
+Height: 114.6
+Floors: 30
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 113
+
+*** 11 Building 1 1st Nagatinsky Drive ***
+Height: 114.3
+Floors: 33
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 114
+
+*** 11 Building 2 1st Nagatinsky Drive ***
+Height: 114.3
+Floors: 33
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 114
+
+*** 11 Building 3 1st Nagatinsky Drive ***
+Height: 114.3
+Floors: 33
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 114
+
+*** Summer Tower ***
+Height: 114.11
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 117
+
+*** Alye Parusa 8 ***
+Height: 113.9
+Floors: 33
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 118
+
+*** Izmailovsky 3 ***
+Height: 112
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 119
+
+*** Izmailovsky 4 ***
+Height: 112
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 119
+
+*** Profico ***
+Height: 112
+Floors: 26
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: office
+Rank: 121
+
+*** Nord Park B ***
+Height: 111.86
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 122
+
+*** Alye Parusa 7 ***
+Height: 111.36
+Floors: 32
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 123
+
+*** Grand Park 1 ***
+Height: 111
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 124
+
+*** Grand Park 2 ***
+Height: 111
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 124
+
+*** Grand Park 3 ***
+Height: 111
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 124
+
+*** Grand Park 4 ***
+Height: 111
+Floors: 34
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: residential
+Rank: 124
+
+*** Paveletskaya Tower ***
+Height: 111
+Floors: 27
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: office
+Rank: 128
+
+*** Lenin Avenue, 98-1 ***
+Height: 110.9
+Floors: 30
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 129
+
+*** Kutuzovskaya Riviera Tower 1 ***
+Height: 110
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 130
+
+*** Kutuzovskaya Riviera Tower 2 ***
+Height: 110
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 130
+
+*** Kutuzovskaya Riviera Tower 3 ***
+Height: 110
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 130
+
+*** Kutuzovskaya Riviera Tower 4 ***
+Height: 110
+Floors: 30
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 130
+
+*** Painters' Village ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 130
+
+*** Severnye Vorota 1 ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 130
+
+*** Severnye Vorota 2 ***
+Height: 110
+Floors: 30
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 130
+
+*** Main Interregional Center of Federal Service of State Statistics ***
+Height: 109.7
+Floors: 19
+Status: Completed
+Started: 1968
+Completed: 1980
+Functions: office
+Rank: 137
+
+*** SkyLight Tower A ***
+Height: 109.2
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: office
+Rank: 138
+
+*** SkyLight Tower B ***
+Height: 109.2
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: office
+Rank: 138
+
+*** Sky Fort (C203 - S6) ***
+Height: 109
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / retail
+Rank: 140
+
+*** Sky Fort (C205 - S6) ***
+Height: 109
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / retail
+Rank: 140
+
+*** Sky Fort (C206 - S5) ***
+Height: 109
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential / retail
+Rank: 140
+
+*** Fili Grad - Phase 1-1B ***
+Height: 108.55
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / retail
+Rank: 143
+
+*** THE MID ***
+Height: 108
+Floors: 33
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 144
+
+*** City Hall ***
+Height: 108
+Floors: 31
+Status: Completed
+Started: 1963
+Completed: 1967
+Functions: government
+Rank: 145
+
+*** Spring Tower ***
+Height: 108
+Floors: 31
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 145
+
+*** Losiniy Ostrov 1 ***
+Height: 108
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 147
+
+*** Losiniy Ostrov 2 ***
+Height: 108
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 147
+
+*** Losiniy Ostrov 3 ***
+Height: 108
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 147
+
+*** Losiniy Ostrov 4 ***
+Height: 108
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 147
+
+*** Lenin Avenue 92-1 ***
+Height: 107.9
+Floors: 30
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: residential
+Rank: 151
+
+*** Zodiak ***
+Height: 106.8
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 152
+
+*** Lenin Avenue, 128-1 ***
+Height: 106.7
+Floors: 30
+Status: Completed
+Started: 1998
+Completed: 2001
+Functions: residential
+Rank: 153
+
+*** Golden Gate Business Centre ***
+Height: 106.7
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: office / hotel
+Rank: 154
+
+*** Dubrovskaya Sloboda I ***
+Height: 105.8
+Floors: 29
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 155
+
+*** Dubrovskaya Sloboda II ***
+Height: 105.8
+Floors: 29
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 155
+
+*** Lenin Avenue, 106-1 ***
+Height: 105.5
+Floors: 30
+Status: Completed
+Started: 2002
+Completed: 2003
+Functions: residential
+Rank: 157
+
+*** Emerald Tower A ***
+Height: 105.1
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential
+Rank: 158
+
+*** Sky Fort (C203 - S2) ***
+Height: 105
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / retail
+Rank: 159
+
+*** Sky Fort (C204 - S3) ***
+Height: 105
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / retail
+Rank: 159
+
+*** Sky Fort (C206 - S2) ***
+Height: 105
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential / retail
+Rank: 159
+
+*** Utesov 1 ***
+Height: 105
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 162
+
+*** Utesov 3 ***
+Height: 105
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 162
+
+*** Vodnyi - Office Tower ***
+Height: 104.3
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: office / retail
+Rank: 164
+
+*** Bashnya 2000 ***
+Height: 104
+Floors: 32
+Status: Completed
+Started: 1996
+Completed: 2001
+Functions: office
+Rank: 165
+
+*** Alfa ***
+Height: 103.6
+Floors: 30
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 166
+
+*** Beta ***
+Height: 103.6
+Floors: 30
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 166
+
+*** Izmailovo Gamma Hotel ***
+Height: 103.6
+Floors: 30
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 166
+
+*** Vega ***
+Height: 103.6
+Floors: 30
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 166
+
+*** Hotel Cosmos ***
+Height: 103.6
+Floors: 28
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 170
+
+*** Headquarters on Mosfilmovskaya ***
+Height: 103.5
+Floors: 29
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential / office
+Rank: 171
+
+*** Aivazovskiy ***
+Height: 102
+Floors: 30
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 172
+
+*** Dimitrovskoe Shosse 13-15 Block 1 ***
+Height: 101.5
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 173
+
+*** Dimitrovskoe Shosse 13-15 Block 2 ***
+Height: 101.5
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 173
+
+*** Dimitrovskoe Shosse 13-15 Block 3 ***
+Height: 101.5
+Floors: 30
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 173
+
+*** Yantarnyi Gorod 4-1 ***
+Height: 101
+Floors: 29
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 176
+
+*** Yantarnyi Gorod 4-2 ***
+Height: 101
+Floors: 29
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 176
+
+*** Hydroproject Building ***
+Height: 100
+Floors: 27
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 178
+
+*** 13 New Arbat Street ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 179
+
+*** 15 New Arbat Street ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 179
+
+*** 19 New Arbat Street ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 179
+
+*** 21 New Arbat Street ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 179
+
+*** Sberbank Tower ***
+Height: 100
+Floors: 26
+Status: Completed
+Started: 1994
+Completed: 1996
+Functions: office
+Rank: 179
+
+*** Dykhanie 1 ***
+Height: 99.9
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 184
+
+*** Dykhanie 4 ***
+Height: 99.9
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 184
+
+*** Flotiliya 1 ***
+Height: 99
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential
+Rank: 186
+
+*** Flotiliya 2 ***
+Height: 99
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential
+Rank: 186
+
+*** Flotiliya 3 ***
+Height: 99
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential
+Rank: 186
+
+*** Flotiliya 4 ***
+Height: 99
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential
+Rank: 186
+
+*** Fili Grad - Phase 1-1A ***
+Height: 98.65
+Floors: 28
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 190
+
+*** Yantarnyi Gorod 1 ***
+Height: 98
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 191
+
+*** Yantarnyi Gorod 3 ***
+Height: 98
+Floors: 28
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 191
+
+*** Olympia Tower 1 ***
+Height: 96
+Floors: 29
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: residential
+Rank: 193
+
+*** Versis ***
+Height: 93.9
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2016
+Functions: residential
+Rank: 194
+
+*** Vodnyi - Residential Tower 1 ***
+Height: 90.7
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 195
+
+*** Vodnyi - Residential Tower 2 ***
+Height: 90.7
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 195
+
+*** Vodnyi - Residential Tower 3 ***
+Height: 90.7
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 195
+
+*** Vodnyi - Residential Tower 4 ***
+Height: 90.7
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 195
+
+*** Vodnyi - Residential Tower 5 ***
+Height: 90.7
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 195
+
+*** Litsa ***
+Height: 88
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential / retail
+Rank: 200
+
+*** Fili Grad - Phase 2-2 ***
+Height: 86.25
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 201
+
+*** Fili Grad - Phase 2-3 ***
+Height: 86.25
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 201
+
+*** Fili Grad - Phase 2-4 ***
+Height: 86.25
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 201
+
+*** Fili Grad - Phase 2-5 ***
+Height: 86.25
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 201
+
+*** Fili Grad - Phase 2-6 ***
+Height: 86.25
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 201
+
+*** World Trade Center Tower 2 ***
+Height: 86
+Floors: 21
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 206
+
+*** IQ-Quarter Tower 3 ***
+Height: 83.56
+Floors: 22
+Status: Completed
+Started: 2006
+Completed: 2015
+Functions: office
+Rank: 207
+
+*** Novoyasenevskii ***
+Height: 81.5
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential
+Rank: 208
+
+*** 2-ya Kvesisskaya, 20/1 ***
+Height: 75.7
+Floors: 23
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: residential
+Rank: 209
+
+*** Fili Grad - Phase 2-1 ***
+Height: 75.5
+Floors: 21
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 210
+
+*** Fili Grad - Phase 2-7 ***
+Height: 75.5
+Floors: 21
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 210
+
+*** Etalon-City - Phase 1-1 ***
+Height: 75
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 212
+
+*** Etalon-City - Phase 1-2 ***
+Height: 75
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 212
+
+*** Etalon-City - Phase 1-3 ***
+Height: 75
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 212

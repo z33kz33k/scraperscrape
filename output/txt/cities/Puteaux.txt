@@ -1,0 +1,198 @@
+*** Puteaux (39) ***
+1.  Tour Majunga, 194m
+2.  Tour Alicante, 167m
+3.  Tour Ariane, 152m
+4.  Tour EDF, 148m
+5.  Defense 2000, 137m
+6.  Tour Michelet, 127m
+7.  Tour France, 126m
+8.  Tour Winterthur, 122m
+9.  Tour Franklin, 115m
+10. La Grande Arche, 111m
+11. Tour Eve, 109m
+12. Tour Atlantique, 106m
+13. Opus 12, 106m
+14. Tour Esplanade, 105m
+15. Tour Initiale, 105m
+16. Tour AGF-Athena, 100m
+17. Tour Pascal B, 95m
+18. Tour Pacific, 93m
+19. Tour Voltaire, 81m
+20. Skylight, 76m
+
+******************** DETAILS ********************
+
+*** Puteaux ***
+Country: France
+Region: Europe
+20 towers: Tour Majunga, Tour Alicante, Tour Ariane, Tour EDF, Defense 2000, Tour Michelet, Tour France, Tour Winterthur, Tour Franklin, La Grande Arche, Tour Eve, Tour Atlantique, Opus 12, Tour Esplanade, Tour Initiale, Tour AGF-Athena, Tour Pascal B, Tour Pacific, Tour Voltaire, Skylight
+Tiers: I: 7, II: 10, III: 3
+Rating: 39
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tour Majunga ***
+Height: 194
+Floors: 45
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** Tour Alicante ***
+Height: 167
+Floors: 37
+Status: Completed
+Completed: 1995
+Functions: office
+Rank: 2
+
+*** Tour Ariane ***
+Height: 152
+Floors: 36
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 3
+
+*** Tour EDF ***
+Height: 148
+Floors: 41
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 4
+
+*** Defense 2000 ***
+Height: 137
+Floors: 45
+Status: Completed
+Started: 1971
+Completed: 1974
+Functions: residential
+Rank: 5
+
+*** Tour Michelet ***
+Height: 127
+Floors: 34
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 6
+
+*** Tour France ***
+Height: 126
+Floors: 41
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 7
+
+*** Tour Winterthur ***
+Height: 121.67
+Floors: 35
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 8
+
+*** Tour Franklin ***
+Height: 114.65
+Floors: 33
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 9
+
+*** La Grande Arche ***
+Height: 110.98
+Floors: 35
+Status: Completed
+Started: 1985
+Completed: 1989
+Functions: office
+Rank: 10
+
+*** Tour Eve ***
+Height: 109
+Floors: 30
+Status: Completed
+Completed: 1974
+Functions: residential / office
+Rank: 11
+
+*** Tour Atlantique ***
+Height: 106
+Floors: 27
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 12
+
+*** Opus 12 ***
+Height: 106
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 13
+
+*** Tour Esplanade ***
+Height: 105
+Floors: 33
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 14
+
+*** Tour Initiale ***
+Height: 105
+Floors: 30
+Status: Completed
+Started: 1965
+Completed: 1966
+Functions: office
+Rank: 15
+
+*** Tour AGF-Athena ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 16
+
+*** Tour Pascal B ***
+Height: 95
+Floors: 28
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 17
+
+*** Tour Pacific ***
+Height: 93.25
+Floors: 25
+Status: Completed
+Started: 1988
+Completed: 1992
+Functions: office
+Rank: 18
+
+*** Tour Voltaire ***
+Height: 81.38
+Floors: 24
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 19
+
+*** Skylight ***
+Height: 75.8
+Floors: 18
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 20

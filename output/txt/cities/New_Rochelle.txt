@@ -1,0 +1,40 @@
+*** New Rochelle (5) ***
+1. Trump Plaza, 133m
+2. Avalon on the Sound East, 114m
+3. Avalon on the Sound, 75m
+
+******************** DETAILS ********************
+
+*** New Rochelle ***
+Country: United States
+Region: North America
+3 towers: Trump Plaza, Avalon on the Sound East, Avalon on the Sound
+Tiers: I: 1, II: 2
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Trump Plaza ***
+Height: 132.59
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 1
+
+*** Avalon on the Sound East ***
+Height: 114.3
+Floors: 39
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 2
+
+*** Avalon on the Sound ***
+Height: 75.29
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 3

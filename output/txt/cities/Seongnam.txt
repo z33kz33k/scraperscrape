@@ -1,0 +1,51 @@
+*** Seongnam (8) ***
+1. NHN Green Factory, 134m
+2. Kolon Tripolis I Tower A, 127m
+3. Kolon Tripolis I Tower B, 127m
+4. Kolon Tripolis I Tower C, 127m
+
+******************** DETAILS ********************
+
+*** Seongnam ***
+Country: South Korea
+Region: Asia
+4 towers: NHN Green Factory, Kolon Tripolis I Tower A, Kolon Tripolis I Tower B, Kolon Tripolis I Tower C
+Tiers: II: 4
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** NHN Green Factory ***
+Height: 134.3
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 1
+
+*** Kolon Tripolis I Tower A ***
+Height: 127.1
+Floors: 37
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: SOHO
+Rank: 2
+
+*** Kolon Tripolis I Tower B ***
+Height: 127.1
+Floors: 37
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: SOHO
+Rank: 2
+
+*** Kolon Tripolis I Tower C ***
+Height: 127.1
+Floors: 37
+Status: Completed
+Started: 1998
+Completed: 2002
+Functions: SOHO
+Rank: 2

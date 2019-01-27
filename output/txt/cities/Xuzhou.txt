@@ -1,0 +1,21 @@
+*** Xuzhou (6) ***
+1. Suning Plaza Tower A, 266m
+
+******************** DETAILS ********************
+
+*** Xuzhou ***
+Country: China
+Region: Asia
+1 tower: Suning Plaza Tower A
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Suning Plaza Tower A ***
+Height: 266
+Floors: 62
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: hotel / serviced apartments / office
+Rank: 1

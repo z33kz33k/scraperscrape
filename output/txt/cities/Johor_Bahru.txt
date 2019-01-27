@@ -1,0 +1,51 @@
+*** Johor Bahru (26) ***
+1. Coronation Square Tower 1, 370m
+2. The Astaka Tower A, 279m
+3. The Astaka Tower B, 256m
+4. The Altus, 220m
+
+******************** DETAILS ********************
+
+*** Johor Bahru ***
+Country: Malaysia
+Region: Asia
+4 towers: Coronation Square Tower 1, The Astaka Tower A, The Astaka Tower B, The Altus
+Tiers: IV: 3, V: 1
+Rating: 26 (30.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Coronation Square Tower 1 ***
+Height: 370
+Floors: 78
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: office
+Rank: 1
+
+*** The Astaka Tower A ***
+Height: 278.8
+Floors: 73
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 2
+
+*** The Astaka Tower B ***
+Height: 255.6
+Floors: 67
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 3
+
+*** The Altus ***
+Height: 220
+Floors: 60
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 4

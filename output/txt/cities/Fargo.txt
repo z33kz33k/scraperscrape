@@ -1,0 +1,21 @@
+*** Fargo (1) ***
+1. Dakota Place, 77m
+
+******************** DETAILS ********************
+
+*** Fargo ***
+Country: United States
+Region: North America
+1 tower: Dakota Place
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dakota Place ***
+Height: 76.81
+Floors: 23
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential / hotel / office
+Rank: 1

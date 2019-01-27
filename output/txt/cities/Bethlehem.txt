@@ -1,0 +1,20 @@
+*** Bethlehem (1) ***
+1. Martin Tower, 101m
+
+******************** DETAILS ********************
+
+*** Bethlehem ***
+Country: United States
+Region: North America
+1 tower: Martin Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Martin Tower ***
+Height: 101.2
+Floors: 21
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 1

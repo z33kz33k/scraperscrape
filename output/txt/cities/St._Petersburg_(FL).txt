@@ -1,0 +1,70 @@
+*** St. Petersburg (FL) (11) ***
+1. One St Petersburg, 137m
+2. Bank of America Tower, 118m
+3. Signature Place, 116m
+4. Ovation, 109m
+5. ParkShore Plaza, 108m
+6. Bayfront Tower, 102m
+
+******************** DETAILS ********************
+
+*** St. Petersburg (FL) ***
+Country: United States
+Region: North America
+6 towers: One St Petersburg, Bank of America Tower, Signature Place, Ovation, ParkShore Plaza, Bayfront Tower
+Tiers: I: 1, II: 5
+Rating: 11 (18.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** One St Petersburg ***
+Height: 137.16
+Floors: 41
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential / hotel / retail
+Rank: 1
+
+*** Bank of America Tower ***
+Height: 117.65
+Floors: 28
+Status: Completed
+Started: 1988
+Completed: 1990
+Functions: office
+Rank: 2
+
+*** Signature Place ***
+Height: 116.1
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential / office / retail
+Rank: 3
+
+*** Ovation ***
+Height: 109.1
+Floors: 26
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 4
+
+*** ParkShore Plaza ***
+Height: 108.2
+Floors: 29
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 5
+
+*** Bayfront Tower ***
+Height: 101.5
+Floors: 29
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 6

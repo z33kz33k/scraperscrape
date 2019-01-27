@@ -1,0 +1,270 @@
+*** Japan (1618) ***
+1.  Tokyo, 991
+2.  Osaka, 235
+3.  Yokohama, 86
+4.  Kawasaki, 54
+5.  Nagoya, 53
+6.  Kobe, 39
+7.  Sendai, Miyagi, 29
+8.  Hiroshima, 22
+9.  Chiba, 16
+10. Kitakyushu, 13
+11. Fukuoka, 11
+12. Sapporo, 10
+13. Saitama, 8
+14. Izumisano, 6
+15. Hamamatsu, 6
+16. Hachioji, 4
+17. Ichikawa, 4
+18. Takamatsu, 4
+19. Gifu, 4
+20. Kawaguchi, 4
+21. Inazawa, 4
+22. Miyazaki, 4
+23. Maebashi, 4
+24. Beppu, Oita, 2
+25. Aomori, 1
+26. Nagasaki, 1
+27. Morioka, 1
+28. Akita, 1
+29. Suita, 1
+
+******************** DETAILS ********************
+
+*** Japan ***
+Region: Asia
+29 cities: Tokyo, Osaka, Yokohama, Kawasaki, Nagoya, Kobe, Sendai, Miyagi, Hiroshima, Chiba, Kitakyushu, Fukuoka, Sapporo, Saitama, Izumisano, Hamamatsu, Hachioji, Ichikawa, Takamatsu, Gifu, Kawaguchi, Inazawa, Miyazaki, Maebashi, Beppu, Oita, Aomori, Nagasaki, Morioka, Akita, Suita
+Tiers: I: 108, II: 225, III: 227, IV: 24, V: 1
+Rating: 1618 (1.9% uncompleted)
+
+*** Tokyo ***
+Country: Japan
+Region: Asia
+364 towers: Toranomon Hills, Midtown Tower, Tokyo Metropolitan Government Building, Sunshine 60 Tower, NTT DoCoMo Yoyogi Building, Roppongi Hills Mori Tower, Opera City Tower, Shinjuku Park Tower, Sumitomo Roppongi Grand Tower, Shibuya Scramble Square, Shinjuku Mitsui Building, Shinjuku Center Building, St. Luke's Tower, Shiodome City Center, Dentsu Headquarters Building, Shinjuku Sumitomo Building, Shinjuku Nomura Building, The Parkhouse Nishi Shinjuku Tower 60, Ark Hills Sengokuyama Mori Tower, Akasaka Intercity AIR, GranTokyo North Tower, GranTokyo South Tower, Mode Gakuen Cocoon Tower, Izumi Garden Tower, Japan Post Tower, Sompo Japan Head Office Building, The Yomiuri Shimbun Building, The Otemachi Tower, Shin-Marunouchi Building, Sumitomo Fudosan Shinjuku Grand Tower, Harumi Island Triton Square Tower X, Sanno Park Tower, Nippon Television Tower, Nihonbashi Mitsui Tower, Kachidoki View Tower, The Tokyo Towers Mid Tower, The Tokyo Towers Sea Tower, Tokyo Midtown Hibiya, Tomihisa Cross Comfort Tower, Acty Shiodome, Shinjuku I-Land Tower, Toshima Ecomusee Town, Cerulean Tower, Capital Gate Place, Atago Green Hills Mori Tower, Shinjuku Oak Tower, Owl Tower, Shibuya Hikarie, Tokyo Nihonbashi Tower, Century Park Tower, Park City Toyosu Building A, Proud Tower Shinonome Canal Court, NEC Supertower, JA Building, Shibuya Stream, Tokyo Garden Terrace Kioicho - Kioi Tower, Sumitomo Fudosan Mita Twin Building West, Akasaka Biz Tower, Marunouchi Building, Otemachi 2-Chome 1st Class Urban Redevelopment Project Building A, Kachidoki The Tower, W-Comfort Towers East, Keio Plaza North Building, Marunouchi Trust Building Main Tower, A2 Tower 3 Harumi, A3 Tower 3 Harumi, Otemachi Financial City South Tower, Kasumigaseki Common Gate West Building, Harumi Island Triton Square Tower Y, The Parkhouse Harumi Towers Tiaro Residence, Tokyo Shiodome Building , Shiodome Media Tower, Park Axis Aoyama 1-chome Tower, Royal Park Shiodome Tower, City Towers Toyosu North Tower,  Kyobashi EDOGRAND, Shibaura Island Air Tower, Park Court Akasaka Hinokicho The Tower, Marunouchi Park Building, JT Building, The Parkhouse Harumi Towers Krono Residence, Bay City Harumi Sky Link Tower, Shibaura Island Grove Tower, Otemachi Financial City Grand Cube, JR Shinjuku Miraina Tower, Central Park La Tour Shinjuku, Shibaura Island Bloom Tower, Sapia Tower, Capital Mark Tower, Toshiba Building, Yebisu Garden Place Tower, City Towers Toyosu South Tower, Kita Shinjuku 2 Chome Building, Toyosu Center Building, Harumi View Tower, Twin Parks Left Wing, Twin Parks Right Wing, Naka-Meguro Atlas Tower, Otemachi 2-Chome 1st Class Urban Redevelopment Project Building B, Waterras Tower, KDDI Building, Tokyo Building, Tokyo Metropolitan Government Building II, Shirogane 6-Chome Redevelopment, Akasaka Tower Residence, Shibaura Island Cape Tower, Shinjuku Maynds Tower, Nihon Seimei Marunouchi Building, Concieria Nishi-Shinjuku Tower's West, Tornare Nihonbashi Hamacho Tower, Apartment Tower Kachidoki, Shiba 3-Chome Coop Building, Brillia Tower Tokyo, Roppongi Hills Residential Building B, Roppongi Hills Residential Building C, Prudential Tower, Tokyo World Trade Center, Joyama Project, Sky Tree East, K-Tower, Shiroyama JT Trust Tower, Park Court Akasaka The Tower, Atago Green Hills Forest Tower, Kasumigaseki Common Gate East Building, Kasumigaseki Building, NTT DoCoMo Sumida Building, Shinagawa Season Terrace, Plaza Tower Kachidoki, The Toyosu Tower, Tokyo Dome Hotel, Harumi Island Triton Square Tower Z, Nikkei Building, SKYZ Tower & Garden, Otemachi Financial City North Tower, Hilltop Tower, Toranomon Towers Residence, W-Comfort Towers West, City Towers Toyosu The Symbol, Station Garden Tower, Ark Hills Mori Building, Park Tower Gran Sky, Garden Air Tower, Futakotamagawa Rise Tower & Residence East, Odakyu Southern Tower, Shiba-Koen First Building, Kudan Dai 3 Complex Chiyoda Prefecture Office, Air Rise Tower, The Roppongi Tokyo Club Residence, Sumitomo Mitsui Banking Corporation East Tower, Iidabashi Grand Bloom, JR East Japan Building, Marunouchi Eiraku Building, Granpark Tower, Otemachi Park Building, Iidabashi Grand Bloom, Pacific Century Plaza, Sumitomo Realty Iidabashi First Tower, Park Court Chiyoda Fujimi The Tower, Park Court Chiyoda Fujimi Tower, Shinagawa East One Tower, Shinagawa Grand Central Tower, Akihabara Fuji Soft ABC Building, Mitsubishi UFJ Trust & Banking Corporate Head Office, Taiyo Life Shinagawa Building, Marunouchi Kitaguchi Building, Toyosu Center Building Annex, Mitsubishi Heavy Industries Building, Meiji Yasuda Life Building, St. Luke's International Residences, Tokyo Sankei New Building, Bunkyō Civic Center, Kabukiza Tower, NTT DoCoMo Shinagawa Building, River City 21 East Towers II, Hotel New Otani Tokyo, Garden Tower, Shinagawa Intercity Tower A, Canon S Tower, Iino Building, Shinagawa V-Tower, Shinagawa Prince Hotel New Tower, Mizuho Bank Headquarters, Akihabara Dai Building, East Core Towing Nibankan, Akasaka Park Building, World City Breeze Tower, World City Capital Tower, Shinagawa Intercity Tower B, Shinagawa Intercity Tower C, River City 21 Skylight Tower, World City Aqua Tower, The Tower Grandia, Keio Plaza Hotel South Building, Tokyo Times Tower, Roppongi T-CUBE, Venasis Kanamachi Tower Residence, Otemachi Nomura Building, Futakotamagawa Rise 2a, Cosmopolis Shinagawa, Nippon Express Headquarters, Tekko Building, Hotel New Otani Garden Court, Akasaka Intercity, Riverside Sumida Center, Nakano-Sakaue Sun Bright Twin, Moon Island Tower	, Shinjuku NS Building, Shiodome Building, Tokyo Tech Tower, Tokyo ANA Tower, NBF Osaki Building, Sumitomo Realty Shiba-Koen Tower, NTT Data Shinagawa Building, River City 21 Riverpoint Tower , Shibuya Cross Tower, City Tower Shinjuku Shintoshin, Shinjuku Kokusai Building - Hilton Tokyo, Tomin Tower Shinonome, Imperial Hotel Imperial Tower, River City 21 East Towers I, Ochanomizu Sola City, NTT Shinjuku Head Office Building, Shiodome Sumitomo Building, M&D Tower, Tokyo Square Garden, Shinjuku L Tower, Takeda Global Headquarters, FUJI TV Headquarters, Shinjuku Monolith Building, STEC Information Building, Boissonade Tower, The Towers Daiba East, The Towers Daiba West, Keidanren Kaikan, Ginza Mitsui Building, Coredo Nihombashi, Tokyu Capitol Tower, Sumitomo Fudosan Shiodome Hamarikyu Building, Toyosu Canal Wharf Tower East, Toyosu Canal Wharf Tower West, Panasonic Electric Works Tokyo Headquarters Building, Shin-Marunouchi Center Building, Asahi Seimei Otemachi Building, Muromachi Furukawa Mitsui Building, Kosha Tower Tsukuda	, Sun City Ginza East, Liberty Tower, Toyo Takarazuka Theatre, Sumitomo Mitsui Banking Corporation Head Office, Izumi Garden Residence, Hyatt Regency Tokyo, Nishi-Shinbashi Square, Ariake Frontier Building, Toranomon Kotohira Tower, Roppongi 3 Chome East District Redevelopment Residential Tower, Nippon Life Marunouchi Garden Tower, Mitsubishi Corporation Building, Risona Maruha Building Redevelopment, Palace Building, Tradepia Odaiba, Palace Hotel Tokyo, DN Tower 21, Grand Nikko Tokyo Daiba, Midtown East, Daiba Frontier Building, Shin-Gofukubashi Building, Shiodome Shiba-rikyu Building, Toranomon Towers Office, Park Tower Shinagawa Bayward, Kanda Warabi-cho district first type city redevelopment project, Celia Odaiba Area 1 Building 1, Tomin Tower Daiba Area 1 Building 2, The Peninsula Tokyo, I-Mark Tower, Tokyo Mitsubishi UFJ Bank Head Office, BAYZ Tower & Garden , National Cancer Center Chuo Hospital, Shinjuku Green Tower Building, Lions Tower Tsukishima	, The Crest Tower, Kyobashi Trust Tower, Shinagawa Prince Hotel Executive Tower, Nihonbashi Muromachi Nomura Building, Tokyo Marine Nichido Building, Ark Hills South Tower, Muromachi Higashi Mitsui Building, Dai-ichi Hotel Tokyo, Kokusai Fashion Center, Shibuya Mark City West Tower, Holland Hills Mori Tower, KDDI Otemachi Building, NTT Shinagawa Twins Annex Building, DiverCity Tokyo Office Tower, Shimizu Corporation Tokyo Headquarters, Otemachi First Square - East, Otemachi First Square - West, Ootemachi Financial Center Building, Daido Seimei Kasumigaseki Building, Akasaka Tameike Tower, The Prince Park Tower Tokyo, Mitsui Marine & Fire Insurance Co. Headquarters, Storia Shinagawa, Yaesu First Financial Building, Motoazabu Hills Forest Tower, Shibuya Infos Tower, Shin-Saiwaibashi Building, Futakotamagawa Rise Tower & Residence Building A, Futakotamagawa Rise Tower & Residence Building C, Mitsui Sumitomo Insurance Kanda Surugadai Annex, Tokyo Baycourt Club Hotel and Spa Resort, River Pier Azumabashi Life Tower, River City 21 Cityfront Tower , Ote Center Building, W Building, Shibuya Mark City East Tower, Kokusai Shin-Akasaka East Building, JR Shinagawa East Building, Juntendo University Hospital Building B, Marunouchi Trust Tower North Building, Akasaka Centerville, Momento Shiodome, Sony City, Jikei University Hospital, Toppan Forms Head Office Building, Toranomon 2-chome Tower, Atlas Tower Roppongi, Onarimon Tokyo Jikei Medical School New Building, UrbanNet Otemachi Building, Shinjuku Washington Hotel, Grand Hyatt Tokyo, TBS Broadcasting Center, Asahi Beer Azumabashi Building, Pacific Tower Roppongi, T&D Financial Building, Center for the Mentally and Physically Handicapped, Marunouchi Hotel, Industrial Property Information and Training Museum, Tokyo Medical and Dental University Building 3, Century Tower, Roppongi First Building, Shinjuku First West, Tokyo Garden Terrace Kioicho - Kioi Residence, Tokyo Bank Association Building, Tokyo Medical and Dental University Hospital B Wing, Toyota Tokyo Headquarters, The Itoyama Tower, Tokyo Medical and Dental University Hospital A Wing, Tokyo Medical University Hospital, Marunouchi Center Building, Shinagawa Crystal Square, Hibiya Dai Building, JX Building, Sumida Ward Office, Teikyo University Hospital, Okubo Hospital Tower 2, Kokusai Akasaka Building, Koraku Mori Building, University of Tokyo Hospital, IM Tower, Muromachi Chibagin Mitsui Building, Okubo Hospital Tower 1, Showa University Hospital, Roppongi Ark Towers East, Juntendo University Hospital Building 1, Shimbashi No 29 Redevelopment
+Tiers: I: 71, II: 141, III: 137, IV: 15
+Rating: 991 (1.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Osaka ***
+Country: Japan
+Region: Asia
+76 towers: Abeno Harukas, Osaka World Trade Center, The Kitahama, X-Tower Osaka Bay, ORC 200, Nakanoshima Festival  Tower West, Nakanoshima Festival Tower, KEPCO Headquarters, The Parkhouse Nakanoshima Tower, HERBIS Osaka, Osaka Hibikino Machi - The Sanctus Tower, 1-1 Umeda District Project, Umeda Hankyu Building, The Tower, Grand Front Osaka Tower A, City Tower Nishi-Umeda, Breeze Tower, OAP Tower, Grand Front Osaka Tower B, Grand Front Osaka Owners Tower, Umeda Sky Building, City Tower Osaka, ORC Prio Tower, The Senri Tower, City Tower Gran Tennoji, Applause Tower, Osaka Fukushima Tower, Nakanoshima Dai Building, Sumitomo Castle Tower, Twin 21 MID Tower, Twin 21 National Tower, Crystal Tower, Yasuda Seimei Osaka Building, City Tower Osaka Temma The River & Parks, Geo Tower Tenroku, The Namba Tower, Grand Front Osaka Intercontinental Hotel, Yodoyabashi Apple Tower Residence, Hybrid Hirano, D`Grafort Osaka N.Y. Tower Higobashi, Herbis ENT Tower, JR Osaka Station New West Building, Namba Park Tower, Shin-Daibiru Building, Mizuno Crystal Building, Wellith Uehommachi Laurel Tower, The Hilton Osaka Yoshimoto Building, Abeno Grand Tour, Hotel Monterey Grasmere Osaka, Nakanoshima Mitsui Building, Sumitomo Seimei Nakanoshima Building, Algrad Higashi-Shinsaibashi Mansion, NHK Osaka Hall, ORIX Honmashi Building, Fukoku Seimei Building, Zenith Osaka, Nissei Dowa Kasai Sompo Phoenix Tower, Pias Tower, Umeda DT Tower, Matsushita IMP Building, Viequ Tower Osaka, Osaka Maru Building, South Gate Building, Resona Holdings Headquarters, Osaka Ministry of Justice Building, The Westin Osaka, NTT Data Dojima Building, Daibiru Honkan Building, Laurel Square Osaka Bay Tower, Osaka Mitsui Bussan Building, The Hilton Plaza West, NTT Telepark Dojima Building 2, Osaka City General Hospital, Daido Life Insurance Company Head Office, Business Innovation Center Osaka, Osaka Museum of History
+Tiers: I: 7, II: 27, III: 40, IV: 1, V: 1
+Rating: 235 (1.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yokohama ***
+Country: Japan
+Region: Asia
+38 towers: Landmark Tower, The Tower Yokohama Kitanaka, Queen's Tower A, Bay Quarter, Bank of Yokohama, Yokohama Mitsui Building, Mitsubishi Jyuko Yokohama Building, Nabule Yokohama Tower and Residence, Shin-Yokohama Prince Hotel, The Yokohama Towers (East), The Yokohama Towers (West), Park Tower Yokohama Station Premier, Yokohama Grand Inter-Continental Hotel, Queen's Tower B, Marina Gate Tower, New Japan Oil Building, Yokohama Sky Building, Minato Mirai Grand Central Tower, Yokohama I-land Tower, Queen's Tower C, M.M. Towers the East, M.M. Towers the South, M.M. Towers the West, M.M. Towers Foresis-L, M.M. Towers Foresis-R, Brilla Grande Minato Mirai East Tower, Brilla Grande Minato Mirai West Tower, M.M. Mid Square The Tower Residence, Yokohama Bay Hotel Tokyu, Fujisoft ABC Sakuragicho Building, Fuji Xerox R&D Square, Yokohama Media Tower, Pacific Royal Court Minatomirai Ocean Tower, Pacific Royal Court Minatomirai Urban Tower, Yokohama Sakuragicho Washington Hotel, Nissan Motors Global Headquarters, Mark-one Tower Nagatsuta, Yokohama City University General Medical Center
+Tiers: I: 10, II: 20, III: 6, IV: 2
+Rating: 86 (7.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kawasaki ***
+Country: Japan
+Region: Asia
+17 towers: Park City Musashi-Kosugi Mid Sky Tower, City Tower Musashikosugi, Park City Musashi-Kosugi The Garden East Tower, Park City Musashi-Kosugi The Garden West Tower, Park Tower Shinkawasaki, Park City Musashi-Kosugi Station Forest Tower, Lieto Court Musashi-Kosugi West Tower, Lieto Court Musashi-Kosugi East Tower, The Kosugi Tower, NEC Tamagawa Renaissance City Phase II, Shin-Kawasaki Mitsui Building East, Shin-Kawasaki Mitsui Building West, Crescent Kawasaki Tower, NTT DoCoMo Kawasaki Building, Lazona Kawasaki Residence Central Tower, Brillia Tower Kawasaki, NEC Tamagawa Renaissance City Phase I
+Tiers: II: 7, III: 10
+Rating: 54
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nagoya ***
+Country: Japan
+Region: Asia
+12 towers: Midland Square, JR Central Office Tower, JR Central Hotel Tower, JR Gate Tower, JP Tower, Nagoya Lucent Tower, Dai Nagoya Building, Sasashima Live 24 District Global Gate West Tower, Mode Gakuen Spiral Towers, The Lions Mid Capital Tower, The Scene Johuku, Nagoya Municipal University Hospital
+Tiers: I: 1, III: 7, IV: 4
+Rating: 53
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kobe ***
+Country: Japan
+Region: Asia
+14 towers: City Tower Kobe Sannomiya, Mikage Tower Residence, Kansai Electric Power Kobe Building, Shin-Kobe Oriental City, D'Grafort Kobe Sannomiya Tower, G-Clef Shinkobe Tower, Sannomiya Museum Tower, Hotel Okura, Kobe Crystal Tower, Kobe City Hall, Sun City Tower Kobe, Kobe Arts Center, Hyogo Prefectural Police Headquarters, Proud Tower Kobe Kenchomae
+Tiers: I: 1, II: 7, III: 6
+Rating: 39
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sendai, Miyagi ***
+Country: Japan
+Region: Asia
+14 towers: Sendai Trust Tower, NTT DoCoMo Tohoku Building, Tohoku Denryoku Head Office Building, AERU, Sumitomo Seimei Sendai Chou Building, Lions Tower Sendai Nagamachi, Park Tower Dainohara, Lions Tower Sendai Hirose, Atlas Tower 33, Apple Towers Sendai, Kakyoin Square, Lions Tower Kotodai-dori, Sendai MT Building, Tohoku University Hospital
+Tiers: I: 3, II: 9, III: 2
+Rating: 29
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hiroshima ***
+Country: Japan
+Region: Asia
+8 towers: City Tower Hiroshima, Hitoto - The Tower, Urban View Grand Tower, Grand Cross Tower, NTT Cred Motomachi Building, NTT DoCoMo Chugoku Building, NHK Hiroshima, The Parkhouse Hiroshima Tower
+Tiers: I: 2, II: 2, III: 4
+Rating: 22 (18.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Chiba ***
+Country: Japan
+Region: Asia
+4 towers: Apa Hotel & Resort Tokyo Bay, Marive East, Marive West, Chiba Central Tower
+Tiers: III: 4
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kitakyushu ***
+Country: Japan
+Region: Asia
+9 towers: Kokura D.C. Tower, Rihga Royal Hotel Kokura, Mojiko Retro High Mart, Asahi Shimbun Building, Orient Trust Tower, Kokura Tower, Medix Mihagino Residential Tower, Jonai Tower, Thomas Tower
+Tiers: I: 5, II: 4
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fukuoka ***
+Country: Japan
+Region: Asia
+6 towers: I Tower, Island Tower Sky Club Tower A, Island Tower Sky Club Tower B, Island Tower Sky Club Tower C, Sea Hawk Hotel & Resort, Nexus Momochi Residential Tower
+Tiers: I: 1, II: 5
+Rating: 11
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sapporo ***
+Country: Japan
+Region: Asia
+5 towers: JR Tower, D'Graffito Sapporo Station Tower, Sapporo Sosei Square, Sapporo City Hall, Century Royal Hotel
+Tiers: I: 2, II: 2, III: 1
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Saitama ***
+Country: Japan
+Region: Asia
+2 towers: Land Axis Tower, Saitama-Shintoshin National Government Building Tower 1
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Izumisano ***
+Country: Japan
+Region: Asia
+1 tower: Rinku Gate Tower
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hamamatsu ***
+Country: Japan
+Region: Asia
+1 tower: ACT Tower
+Tiers: IV: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hachioji ***
+Country: Japan
+Region: Asia
+1 tower: Hachioji Station South Exit Redevelopment Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ichikawa ***
+Country: Japan
+Region: Asia
+1 tower: Tower A Ichikawa Station
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Takamatsu ***
+Country: Japan
+Region: Asia
+1 tower: Symbol Tower
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Gifu ***
+Country: Japan
+Region: Asia
+1 tower: Gifu City Tower 43
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kawaguchi ***
+Country: Japan
+Region: Asia
+1 tower: Elsa Tower 55
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Inazawa ***
+Country: Japan
+Region: Asia
+1 tower: Solae Elevator Testing Facility
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Miyazaki ***
+Country: Japan
+Region: Asia
+1 tower: Sheraton Grande Ocean Resort
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Maebashi ***
+Country: Japan
+Region: Asia
+1 tower: Gunma Prefectural Government Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Beppu, Oita ***
+Country: Japan
+Region: Asia
+1 tower: Global Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Aomori ***
+Country: Japan
+Region: Asia
+1 tower: Aomori Prefecture Kanko Bussankan ASPM
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Nagasaki ***
+Country: Japan
+Region: Asia
+1 tower: Skyscraper Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Morioka ***
+Country: Japan
+Region: Asia
+1 tower: Malios
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Akita ***
+Country: Japan
+Region: Asia
+1 tower: Belle Demeure Landmark Akita
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Suita ***
+Country: Japan
+Region: Asia
+1 tower: Osaka University Hospital
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

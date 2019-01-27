@@ -1,0 +1,20 @@
+*** Cancún (1) ***
+1. Secrets The Vine, 83m
+
+******************** DETAILS ********************
+
+*** Cancún ***
+Country: Mexico
+Region: North America
+1 tower: Secrets The Vine
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Secrets The Vine ***
+Height: 82.91
+Floors: 20
+Status: Completed
+Completed: 2012
+Functions: hotel
+Rank: 1

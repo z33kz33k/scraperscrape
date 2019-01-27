@@ -1,0 +1,41 @@
+*** San Jose (3) ***
+1. San Jose Marriott, 82m
+2. 360 Residences, 82m
+3. The 88, 82m
+
+******************** DETAILS ********************
+
+*** San Jose ***
+Country: United States
+Region: North America
+3 towers: San Jose Marriott, 360 Residences, The 88
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** San Jose Marriott ***
+Height: 82
+Floors: 28
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: hotel
+Rank: 1
+
+*** 360 Residences ***
+Height: 82
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 2
+
+*** The 88 ***
+Height: 81.69
+Floors: 22
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 3

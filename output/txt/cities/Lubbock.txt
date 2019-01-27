@@ -1,0 +1,21 @@
+*** Lubbock (1) ***
+1. Metro Tower, 84m
+
+******************** DETAILS ********************
+
+*** Lubbock ***
+Country: United States
+Region: North America
+1 tower: Metro Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Metro Tower ***
+Height: 83.52
+Floors: 20
+Status: Completed
+Started: 1954
+Completed: 1955
+Functions: office
+Rank: 1

@@ -1,0 +1,167 @@
+*** Joao Pessoa (34) ***
+1.  Tour Geneve, 182m
+2.  Residencial Alfredo Volpi, 152m
+3.  Mansões Wellington Barreto, 147m
+4.  Rio Mamore, 137m
+5.  Residencial Tarsila Do Amaral - Torre A, 135m
+6.  Residencial Tarsila Do Amaral - Torre B, 135m
+7.  Altiplex José Olímpio, 132m
+8.  Tours Mont Blanc Torre A, 129m
+9.  Tours Mont Blanc Torre B, 129m
+10. Mansões Heron Marinho, 126m
+11. Porto Real Residence, 124m
+12. Ultramare Class Club Residence Torre A, 122m
+13. Ultramare Class Club Residence Torre B, 122m
+14. Eco Business Center, 115m
+15. Duo Corporate Towers - Torre A, 104m
+16. Duo Corporate Towers - Torre B, 104m
+
+******************** DETAILS ********************
+
+*** Joao Pessoa ***
+Country: Brazil
+Region: South America
+16 towers: Tour Geneve, Residencial Alfredo Volpi, Mansões Wellington Barreto, Rio Mamore, Residencial Tarsila Do Amaral - Torre A, Residencial Tarsila Do Amaral - Torre B, Altiplex José Olímpio, Tours Mont Blanc Torre A, Tours Mont Blanc Torre B, Mansões Heron Marinho, Porto Real Residence, Ultramare Class Club Residence Torre A, Ultramare Class Club Residence Torre B, Eco Business Center, Duo Corporate Towers - Torre A, Duo Corporate Towers - Torre B
+Tiers: I: 2, II: 12, III: 2
+Rating: 34 (5.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour Geneve ***
+Height: 182.3
+Floors: 51
+Status: Completed
+Started: 2012
+Completed: 2018
+Functions: residential
+Rank: 1
+
+*** Residencial Alfredo Volpi ***
+Height: 152.5
+Floors: 47
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 2
+
+*** Mansões Wellington Barreto ***
+Height: 147
+Floors: 38
+Status: Structurally Topped Out
+Completed: 2019
+Functions: residential
+Rank: 3
+
+*** Rio Mamore ***
+Height: 136.8
+Floors: 42
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 4
+
+*** Residencial Tarsila Do Amaral - Torre A ***
+Height: 135
+Floors: 41
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 5
+
+*** Residencial Tarsila Do Amaral - Torre B ***
+Height: 135
+Floors: 41
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 5
+
+*** Altiplex José Olímpio ***
+Height: 132
+Floors: 37
+Status: Completed
+Completed: 2018
+Functions: office / residential
+Rank: 7
+
+*** Tours Mont Blanc Torre A ***
+Height: 129.4
+Floors: 39
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** Tours Mont Blanc Torre B ***
+Height: 129.4
+Floors: 39
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** Mansões Heron Marinho ***
+Height: 125.6
+Floors: 38
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 10
+
+*** Porto Real Residence ***
+Height: 124.3
+Floors: 38
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 11
+
+*** Ultramare Class Club Residence Torre A ***
+Height: 122
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 12
+
+*** Ultramare Class Club Residence Torre B ***
+Height: 122
+Floors: 37
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 12
+
+*** Eco Business Center ***
+Height: 115
+Floors: 31
+Status: Completed
+Completed: 2018
+Functions: office
+Rank: 14
+
+*** Duo Corporate Towers - Torre A ***
+Height: 104
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 15
+
+*** Duo Corporate Towers - Torre B ***
+Height: 104
+Floors: 30
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 15

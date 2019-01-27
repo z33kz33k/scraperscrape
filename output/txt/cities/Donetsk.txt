@@ -1,0 +1,29 @@
+*** Donetsk (3) ***
+1. King`s Tower, 109m
+2. Green Plaza, 93m
+
+******************** DETAILS ********************
+
+*** Donetsk ***
+Country: Ukraine
+Region: Europe
+2 towers: King`s Tower, Green Plaza
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** King`s Tower ***
+Height: 109
+Floors: 27
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 1
+
+*** Green Plaza ***
+Height: 93.3
+Floors: 21
+Status: Completed
+Completed: 2010
+Functions: office
+Rank: 2

@@ -1,0 +1,438 @@
+*** Samara (50) ***
+1.  Ladya 2, 122m
+2.  Ladya 3, 122m
+3.  Na Vilonovskoi, 113m
+4.  Vertical, 106m
+5.  Spasskaya Tower, 104m
+6.  Gazprom Transgaz Samara, 103m
+7.  Railway Station Building, 101m
+8.  Ladya 1, 97m
+9.  Favorit 1, 85m
+10. Favorit 2, 85m
+11. Favorit 3, 85m
+12. Favorit 4, 85m
+13. Verhnyaya Polevaya 2, 85m
+14. Evropeiskii Kvartal - Best House, 82m
+15. Gorod Solntsa 1, 82m
+16. Gorod Solntsa 2, 82m
+17. Gorod Solntsa 3, 82m
+18. Sovremennik, 80m
+19. ARGO 1, 79m
+20. ARGO 2, 79m
+21. ARGO 3, 79m
+22. Dom u Kosmoporta, 79m
+23. Olimpiya-Park 1, 79m
+24. Olimpiya-Park 2, 79m
+25. Privolzhskii 1, 79m
+26. Privolzhskii 2, 79m
+27. Raduzhnyi Lyuks 1, 79m
+28. Raduzhnyi Lyuks 2, 79m
+29. Raduzhnyi Lyuks 3, 79m
+30. Raketa, 79m
+31. Sputnik, 79m
+32. Step Green House, 79m
+33. Verhnyaya Polevaya 1, 79m
+34. Samara-City 1, 79m
+35. Albatros, 76m
+36. Botanicheskii 14-17, 76m
+37. Botanicheskii 18, 76m
+38. Botanicheskii 19, 76m
+39. Botanicheskii 20-23, 76m
+40. Botanicheskii 5-6, 76m
+41. Evropeiskii Kvartal - Vip House, 76m
+42. Gastello.rf, 76m
+43. Nadezhda 1, 76m
+44. Pechera.rf, 76m
+45. Zhelyabovo.rf 1, 76m
+46. Zhelyabovo.rf 3, 76m
+
+******************** DETAILS ********************
+
+*** Samara ***
+Country: Russia
+Region: Europe
+46 towers: Ladya 2, Ladya 3, Na Vilonovskoi, Vertical, Spasskaya Tower, Gazprom Transgaz Samara, Railway Station Building, Ladya 1, Favorit 1, Favorit 2, Favorit 3, Favorit 4, Verhnyaya Polevaya 2, Evropeiskii Kvartal - Best House, Gorod Solntsa 1, Gorod Solntsa 2, Gorod Solntsa 3, Sovremennik, ARGO 1, ARGO 2, ARGO 3, Dom u Kosmoporta, Olimpiya-Park 1, Olimpiya-Park 2, Privolzhskii 1, Privolzhskii 2, Raduzhnyi Lyuks 1, Raduzhnyi Lyuks 2, Raduzhnyi Lyuks 3, Raketa, Sputnik, Step Green House, Verhnyaya Polevaya 1, Samara-City 1, Albatros, Botanicheskii 14-17, Botanicheskii 18, Botanicheskii 19, Botanicheskii 20-23, Botanicheskii 5-6, Evropeiskii Kvartal - Vip House, Gastello.rf, Nadezhda 1, Pechera.rf, Zhelyabovo.rf 1, Zhelyabovo.rf 3
+Tiers: I: 42, II: 4
+Rating: 50 (10.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ladya 2 ***
+Height: 122
+Floors: 29
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 1
+
+*** Ladya 3 ***
+Height: 122
+Floors: 29
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 1
+
+*** Na Vilonovskoi ***
+Height: 113
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Vertical ***
+Height: 106
+Floors: 27
+Status: Completed
+Completed: 2008
+Functions: office / retail
+Rank: 4
+
+*** Spasskaya Tower ***
+Height: 104
+Floors: 30
+Status: Completed
+Completed: 2014
+Functions: residential
+Rank: 5
+
+*** Gazprom Transgaz Samara ***
+Height: 103
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 6
+
+*** Railway Station Building ***
+Height: 101
+Floors: 15
+Status: Completed
+Started: 1996
+Completed: 2001
+Rank: 7
+
+*** Ladya 1 ***
+Height: 97
+Floors: 20
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 8
+
+*** Favorit 1 ***
+Height: 85.25
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** Favorit 2 ***
+Height: 85.25
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** Favorit 3 ***
+Height: 85.25
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** Favorit 4 ***
+Height: 85.25
+Floors: 27
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** Verhnyaya Polevaya 2 ***
+Height: 85
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 13
+
+*** Evropeiskii Kvartal - Best House ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 14
+
+*** Gorod Solntsa 1 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 14
+
+*** Gorod Solntsa 2 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 14
+
+*** Gorod Solntsa 3 ***
+Height: 82
+Floors: 26
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 14
+
+*** Sovremennik ***
+Height: 80
+Floors: 25
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 18
+
+*** ARGO 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** ARGO 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** ARGO 3 ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** Dom u Kosmoporta ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 19
+
+*** Olimpiya-Park 1 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 19
+
+*** Olimpiya-Park 2 ***
+Height: 79
+Floors: 25
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 19
+
+*** Privolzhskii 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 19
+
+*** Privolzhskii 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 19
+
+*** Raduzhnyi Lyuks 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** Raduzhnyi Lyuks 2 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** Raduzhnyi Lyuks 3 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 19
+
+*** Raketa ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 19
+
+*** Sputnik ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 19
+
+*** Step Green House ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 19
+
+*** Verhnyaya Polevaya 1 ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 19
+
+*** Samara-City 1 ***
+Height: 79
+Floors: 22
+Status: Completed
+Started: 2008
+Completed: 2016
+Functions: office
+Rank: 34
+
+*** Albatros ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Botanicheskii 14-17 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Botanicheskii 18 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Botanicheskii 19 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 35
+
+*** Botanicheskii 20-23 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2016
+Functions: residential
+Rank: 35
+
+*** Botanicheskii 5-6 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 35
+
+*** Evropeiskii Kvartal - Vip House ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 35
+
+*** Gastello.rf ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 35
+
+*** Nadezhda 1 ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2012
+Functions: residential
+Rank: 35
+
+*** Pechera.rf ***
+Height: 76
+Floors: 24
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 35
+
+*** Zhelyabovo.rf 1 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 35
+
+*** Zhelyabovo.rf 3 ***
+Height: 76
+Floors: 24
+Status: Under Construction
+Completed: 2017
+Functions: residential
+Rank: 35

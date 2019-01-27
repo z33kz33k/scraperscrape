@@ -1,0 +1,121 @@
+*** Astana (33) ***
+1.  Abu Dhabi Plaza, 382m
+2.  Northern Lights 1, 180m
+3.  Ministry of Transportation & Communication, 155m
+4.  Northern Lights 2, 152m
+5.  Talan Tower 1, 146m
+6.  Grand Alatau 3, 144m
+7.  Triumph of Astana, 142m
+8.  Northern Lights 3, 128m
+9.  Talan Tower 2, 120m
+10. Mazhilis Building, 100m
+11. Kazakhstan Pavilion and Science Museum , 100m
+12. Astana Tower, 88m
+
+******************** DETAILS ********************
+
+*** Astana ***
+Country: Kazakhstan
+Region: Asia
+12 towers: Abu Dhabi Plaza, Northern Lights 1, Ministry of Transportation & Communication, Northern Lights 2, Talan Tower 1, Grand Alatau 3, Triumph of Astana, Northern Lights 3, Talan Tower 2, Mazhilis Building, Kazakhstan Pavilion and Science Museum , Astana Tower
+Tiers: I: 3, II: 5, III: 3, V: 1
+Rating: 33 (24.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Abu Dhabi Plaza ***
+Height: 382
+Floors: 88
+Status: Under Construction
+Started: 2011
+Completed: 2020
+Functions: residential / hotel
+Rank: 1
+
+*** Northern Lights 1 ***
+Height: 180
+Floors: 42
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 2
+
+*** Ministry of Transportation & Communication ***
+Height: 155
+Floors: 34
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 3
+
+*** Northern Lights 2 ***
+Height: 152
+Floors: 37
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 4
+
+*** Talan Tower 1 ***
+Height: 145.61
+Floors: 30
+Status: Completed
+Completed: 2017
+Functions: office / retail
+Rank: 5
+
+*** Grand Alatau 3 ***
+Height: 144
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 6
+
+*** Triumph of Astana ***
+Height: 142
+Floors: 39
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 7
+
+*** Northern Lights 3 ***
+Height: 128
+Floors: 32
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 8
+
+*** Talan Tower 2 ***
+Height: 119.8
+Floors: 26
+Status: Completed
+Completed: 2017
+Functions: residential / hotel / retail
+Rank: 9
+
+*** Mazhilis Building ***
+Height: 100
+Floors: 22
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 10
+
+*** Kazakhstan Pavilion and Science Museum  ***
+Height: 100
+Floors: 8
+Status: Completed
+Completed: 2017
+Functions: Museum
+Rank: 11
+
+*** Astana Tower ***
+Height: 88
+Floors: 22
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 12

@@ -1,0 +1,20 @@
+*** Kosice-letisko (1) ***
+1. Fakultna Nemocnica S Poliklinikou, 83m
+
+******************** DETAILS ********************
+
+*** Kosice-letisko ***
+Country: Slovakia
+Region: Europe
+1 tower: Fakultna Nemocnica S Poliklinikou
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fakultna Nemocnica S Poliklinikou ***
+Height: 83
+Floors: 19
+Status: Completed
+Completed: 1979
+Functions: hospital
+Rank: 1

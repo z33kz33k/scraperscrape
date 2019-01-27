@@ -1,0 +1,1764 @@
+*** United States (8959) ***
+1.   New York City, 2932
+2.   Chicago, 1107
+3.   Miami, 393
+4.   Houston, 366
+5.   San Francisco, 294
+6.   Los Angeles, 264
+7.   Philadelphia, 223
+8.   Seattle, 218
+9.   Atlanta, 196
+10.  Dallas, 185
+11.  Boston, 173
+12.  Honolulu, 160
+13.  Las Vegas, 143
+14.  Jersey City, 114
+15.  Denver, 100
+16.  Minneapolis, 99
+17.  Pittsburgh, 88
+18.  Detroit, 83
+19.  Sunny Isles Beach, 80
+20.  San Diego, 74
+21.  Austin, 69
+22.  Charlotte, 69
+23.  Baltimore, 61
+24.  Cleveland, 52
+25.  St. Louis, 50
+26.  Columbus, 50
+27.  New Orleans, 48
+28.  Nashville, 45
+29.  Cincinnati, 39
+30.  Miami Beach, 38
+31.  Atlantic City, 38
+32.  Milwaukee, 37
+33.  Tulsa, 36
+34.  Indianapolis, 36
+35.  Tampa, 35
+36.  Kansas City, 33
+37.  Portland, 31
+38.  Phoenix, 31
+39.  Fort Worth, 28
+40.  San Antonio, 27
+41.  Hartford, 25
+42.  Fort Lauderdale, 25
+43.  Newark, 24
+44.  Louisville, 23
+45.  Oklahoma City, 22
+46.  Orlando, 21
+47.  St. Paul, 21
+48.  Salt Lake City, 20
+49.  Richmond, 20
+50.  Sacramento, 20
+51.  Buffalo, 19
+52.  Jacksonville, 18
+53.  Arlington, 17
+54.  Bellevue, 16
+55.  Birmingham (AL), 15
+56.  Albany, 15
+57.  Fort Lee, 14
+58.  Oakland, 13
+59.  Des Moines, 13
+60.  Memphis, 12
+61.  Clayton, 12
+62.  St. Petersburg (FL), 11
+63.  Mobile, 11
+64.  Tysons Corner, 10
+65.  Toledo, 10
+66.  Raleigh, 10
+67.  Hollywood, 10
+68.  Winston-Salem, 9
+69.  Providence, 9
+70.  White Plains, 9
+71.  Southfield, 9
+72.  Hallandale Beach, 8
+73.  Corpus Christi, 8
+74.  Sandy Springs, 8
+75.  Little Rock, 8
+76.  Omaha, 8
+77.  Long Beach, 7
+78.  Dayton, 7
+79.  Cambridge, 7
+80.  Grand Rapids, 7
+81.  Virginia Beach, 6
+82.  Guttenberg, 6
+83.  Wilmington, 6
+84.  Amherst, 6
+85.  Galveston, 6
+86.  Springfield (MA), 5
+87.  Harrisburg, 5
+88.  New Rochelle, 5
+89.  Bethesda, 5
+90.  Rochester, 5
+91.  New Haven, 5
+92.  Durham, 4
+93.  Pearl City (Oahu), 4
+94.  Glendale, 4
+95.  Reno, 4
+96.  El Segundo, 4
+97.  Fort Wayne, 4
+98.  Cape Canaveral, 4
+99.  Fort Myers, 4
+100. Newport Beach, 4
+101. Lake Charles, 3
+102. Syracuse, 3
+103. Bloomington, 3
+104. Charleston, 3
+105. West Hollywood, 3
+106. Orange Beach, 3
+107. Stamford, 3
+108. Covington, 3
+109. Evanston, 3
+110. Baton Rouge, 3
+111. Akron, 3
+112. San Jose, 3
+113. West Palm Beach, 3
+114. Tucson, 3
+115. Irving, 3
+116. Niagara Falls (NY), 2
+117. Itasca, 2
+118. Vinings, 2
+119. Albuquerque, 2
+120. Tacoma, 2
+121. Yonkers, 2
+122. Norfolk, 2
+123. Montville, 2
+124. Greensboro, 2
+125. Bristol (CT), 2
+126. Burbank, 2
+127. Anchorage, 2
+128. Tallahassee, 2
+129. Irvine, 2
+130. Aventura, 2
+131. Oakbrook Terrace, 2
+132. El Paso, 2
+133. Lincoln (NE), 2
+134. Pasadena-TX, 2
+135. The Woodlands, 2
+136. Metairie, 2
+137. Manchester (NH), 2
+138. Midland, 2
+139. Boise, 2
+140. Santa Ana, 2
+141. Tempe, 2
+142. Montgomery, 2
+143. South Padre Island, 2
+144. Brookhaven, 2
+145. Columbia, 2
+146. Dunwoody, 2
+147. Shreveport, 2
+148. Marco Island, 2
+149. Peoria, 2
+150. Springfield (IL), 2
+151. Abbeville, 2
+152. Camden, 2
+153. Biloxi, 2
+154. Lexington, 2
+155. New Brunswick, 2
+156. Riviera Beach, 2
+157. Amarillo, 2
+158. Lubbock, 1
+159. Daytona Beach Shores, 1
+160. Costa Mesa, 1
+161. Abilene, 1
+162. Jackson, 1
+163. Edgewater, 1
+164. Denton, 1
+165. Billings, 1
+166. Cedar Rapids, 1
+167. Tunica, 1
+168. Bossier City, 1
+169. Fargo, 1
+170. Foster City, 1
+171. Cabazon, 1
+172. Bethlehem, 1
+173. South Bend, 1
+174. Newport, 1
+175. Orange, 1
+176. Bartlesville, 1
+177. Boca Raton, 1
+178. Hoboken, 1
+179. Alexandria (VA), 1
+180. Michigan City, 1
+181. Waco, 1
+182. Roanoke, 1
+183. Allentown, 1
+184. Ledyard Center, 1
+185. Lansing, 1
+186. Tyler, 1
+187. Troy, 1
+188. Gulf Shores, 1
+189. Knoxville, 1
+190. Beaumont, 1
+191. Hempstead, 1
+192. Wichita, 1
+193. Asbury Park, 1
+194. Evansville, 1
+195. West Sacramento, 1
+
+******************** DETAILS ********************
+
+*** United States ***
+Region: North America
+195 cities: New York City, Chicago, Miami, Houston, San Francisco, Los Angeles, Philadelphia, Seattle, Atlanta, Dallas, Boston, Honolulu, Las Vegas, Jersey City, Denver, Minneapolis, Pittsburgh, Detroit, Sunny Isles Beach, San Diego, Austin, Charlotte, Baltimore, Cleveland, St. Louis, Columbus, New Orleans, Nashville, Cincinnati, Miami Beach, Atlantic City, Milwaukee, Tulsa, Indianapolis, Tampa, Kansas City, Portland, Phoenix, Fort Worth, San Antonio, Hartford, Fort Lauderdale, Newark, Louisville, Oklahoma City, Orlando, St. Paul, Salt Lake City, Richmond, Sacramento, Buffalo, Jacksonville, Arlington, Bellevue, Birmingham (AL), Albany, Fort Lee, Oakland, Des Moines, Memphis, Clayton, St. Petersburg (FL), Mobile, Tysons Corner, Toledo, Raleigh, Hollywood, Winston-Salem, Providence, White Plains, Southfield, Hallandale Beach, Corpus Christi, Sandy Springs, Little Rock, Omaha, Long Beach, Dayton, Cambridge, Grand Rapids, Virginia Beach, Guttenberg, Wilmington, Amherst, Galveston, Springfield (MA), Harrisburg, New Rochelle, Bethesda, Rochester, New Haven, Durham, Pearl City (Oahu), Glendale, Reno, El Segundo, Fort Wayne, Cape Canaveral, Fort Myers, Newport Beach, Lake Charles, Syracuse, Bloomington, Charleston, West Hollywood, Orange Beach, Stamford, Covington, Evanston, Baton Rouge, Akron, San Jose, West Palm Beach, Tucson, Irving, Niagara Falls (NY), Itasca, Vinings, Albuquerque, Tacoma, Yonkers, Norfolk, Montville, Greensboro, Bristol (CT), Burbank, Anchorage, Tallahassee, Irvine, Aventura, Oakbrook Terrace, El Paso, Lincoln (NE), Pasadena-TX, The Woodlands, Metairie, Manchester (NH), Midland, Boise, Santa Ana, Tempe, Montgomery, South Padre Island, Brookhaven, Columbia, Dunwoody, Shreveport, Marco Island, Peoria, Springfield (IL), Abbeville, Camden, Biloxi, Lexington, New Brunswick, Riviera Beach, Amarillo, Lubbock, Daytona Beach Shores, Costa Mesa, Abilene, Jackson, Edgewater, Denton, Billings, Cedar Rapids, Tunica, Bossier City, Fargo, Foster City, Cabazon, Bethlehem, South Bend, Newport, Orange, Bartlesville, Boca Raton, Hoboken, Alexandria (VA), Michigan City, Waco, Roanoke, Allentown, Ledyard Center, Lansing, Tyler, Troy, Gulf Shores, Knoxville, Beaumont, Hempstead, Wichita, Asbury Park, Evansville, West Sacramento
+Tiers: I: 1903, II: 1594, III: 661, IV: 159, V: 25, VI: 7
+Rating: 8959 (6.2% uncompleted)
+
+*** New York City ***
+Country: United States
+Region: North America
+1348 towers: One World Trade Center, Central Park Tower, 111 West 57th Street, One Vanderbilt, 432 Park Avenue, 30 Hudson Yards, Empire State Building, Bank of America Tower, 45 Broad Street, 3 World Trade Center, 9 DeKalb Avenue, 53 West 53rd, Chrysler Building, New York Times Tower, The Spiral, 50 Hudson Yards, 35 Hudson Yards, One57, One Manhattan West, 4 World Trade Center, 220 Central Park South, 70 Pine, 3 Hudson Boulevard , Two Manhattan West, The Trump Building, 30 Park Place, 601 Lexington, 15 Hudson Yards, 125 Greenwich Street, 10 Hudson Yards, Eight Spruce Street, Trump World Tower, 425 Park Avenue, Comcast Building, One Manhattan Square, 56 Leonard , CitySpire, 28 Liberty, 4 Times Square, MetLife Building, Bloomberg Tower, 126 Madison Avenue, The Centrale, 111 Murray Street, Woolworth Building, 50 West, 520 Park Avenue, 1 Worldwide Plaza, Skyline Tower, 55 Hudson Yards, Madison Square Park Tower, 50 West 66th Street, 19 Dutch Street, Carnegie Hall Tower, 383 Madison Avenue, Queens Plaza Park, 130 William Street, Courtyard & Residence Inn Manhattan/Central Park, AXA Center, One Penn Plaza, 1251 Avenue of the Americas, Time Warner Center North Tower, Time Warner Center South Tower, Goldman Sachs Headquarters, 60 Wall Street, One Astor Plaza, 7 World Trade Center, One Liberty Plaza, Twenty Exchange, Three World Financial Center, ARO, 1540 Broadway, 3 Manhattan West, Times Square Tower, Metropolitan Tower, 252 East 57th Street, 100 East 53rd Street, JPMorgan Chase Tower, General Motors Building, 25 Park Row, Metropolitan Life Tower, 500 Fifth Avenue, Brooklyn Point, Americas Tower, Solow Building, Marine Midland Building, 55 Water Street, 277 Park Avenue, The Beekman Hotel & Residences, 1585 Broadway, Random House Tower, Four Seasons Hotel, Sky, McGraw-Hill Building, One Grand Central Place, One Court Square, Barclay Tower, 277 Fifth Avenue, Paramount Plaza, Seaport Residences, 200 Amsterdam Avenue, 45 Park Place, Trump Tower, One Wall Street, Silver Towers East, Silver Towers West, 599 Lexington Avenue, 712 5th Avenue, Chanin Building, 245 Park Avenue, 550 Madison Avenue, Tower 28, Two World Financial Center, 1095 Avenue of the Americas, 570 Lexington Avenue, 1 New York Plaza, 1 MiMA Tower, 1 Dag Hammarskjold Plaza, 345 Park Avenue, Mercantile Building, Langham Place, W New York Downtown Hotel & Residences, Grace Plaza, Home Insurance Plaza, 101 Park Avenue, Central Park Place, 888 7th Avenue, 11 Hoyt Street, 1345 Avenue of the Americas, Waldorf Astoria New York, Avalon Willoughby Square, Trump Palace, One Madison Park, Olympic Tower, 425 5th Avenue, 919 3rd Avenue, New York Life Building, 750 Seventh Avenue, The Epic, Tower 49&reg;, Eventi, 555Ten, Credit Lyonnais Building, Baccarat Hotel & Residences, The Orion, 590 Madison Avenue, The Hub, 250 West 55th Street, Eleven Times Square, 1166 Avenue of the Americas, Hawthorn Park, Eagle Lofts, Hearst Tower, 3 Lincoln Center, Celanese Building, The London NYC, 388 Bridge Street, Thurgood Marshall U.S. Court House, Museum Tower, Sky House, The Millenium Hilton, Time-Life Building, Jacob K. Javits Federal Building, W Times Square, Trump International Hotel & Tower, 3 Jackson Park, Stevens Tower, Municipal Building, 520 Madison Avenue, One World Financial Center, Merchandise Mart, 5 Times Square, 300 Madison Avenue, Lehman Building, 32 Old Slip, Park Avenue Plaza, New York Marriott Marquis Hotel, 299 Park Avenue, Socony Mobil Building, 1290 Avenue of the Americas, 780 3rd Avenue, 600 3rd Avenue, The Ashland, 450 Lexington Avenue, Paramount Tower, 230 Park Avenue, New York Palace Hotel, 30 Broad Street, 623 Fifth Avenue, Park Avenue Tower, Nelson Tower, Hotel Sherry-Netherland, South Park Tower, 100 United Nations Plaza, Continental Can Building, 222 East 44th Street, 3 Park Avenue, Reuters Building, 330 Madison Avenue, Equitable Building, Tower 111, Continental Center, Instrata Nomad, 1133 Avenue of the Americas, 2 Grand Central Tower, Unysys Building, Downtown by Philippe Starck, AT&T Long Lines Building, Hyatt Times Square, The Biltmore, The Tower at 15 Central Park West, 50 United Nations Plaza, Bankers Trust West Annex, The Corinthian, Millennium Tower, Transportation Building, The Galleria, 2 Gold Street, 220 Riverside Boulevard At Trump Place, 17 State Street, Grand Central Plaza, 1 Brooklyn Bridge Plaza, Ritz Hotel Tower, American Copper Buildings West Tower, 1285 Avenue of the Americas, 14 Wall, Lefcourt Colonial Building, Tribeca Tower, The Encore, 1700 Broadway, Westin New York at Times Square, DuMont Building, The Brooklyner, 515 Park Avenue, One East River Place, 21 West End Avenue, The Metropolis, William Beaver House, North American Plywood Building, The Pierre, 767 3rd Avenue, 399 Park Avenue, 180 East 88th, 825 Third Avenue, Atelier, 26 Broadway, Newsweek Building, 75 Wall, Architect`s and Designer`s Building, The Downtown Club, Icon, The Highpoint, The Edition Times Square, City Point Tower II, Sterling Drug Company Building, Seagram Building, 1214 Fifth Avenue, Bank of New York Building, 1 West End Avenue, The Belaire, Millennium Towers North, One Hanson Place, 1407 Broadway, International Building, 437 Madison Avenue, Continental Building, 1155 Avenue of the Americas, 1 QPS Tower, Liberty Plaza, Hayden Long Island City, United Nations Secretariat Building, 810 7th Avenue, The Sheffield 57, One United Nations Plaza, Two United Nations Plaza, 2 New York Plaza, 77 Greenwich Street, Johns-Manville Building, 60 Broad Street, Lefcourt National Building, 1325 Ave. of Americas, Sheraton New York, World Apparel Center, Tower 46, 1 Jackson Park, Bristol Plaza, One Columbus Place Tower I, One Columbus Place Tower II, Four World Financial Center, 650 Fifth Avenue, 5Pointz North Tower, The Barclay, 80 Pine Street, ALTA LIC, The Platinum, Financial Times Building, 388 Greenwich Street, 20 Pine, 1 Battery Park Plaza, 1675 Broadway, Tower 67 Apartments, One Wall Street South Building, The Colonnade, The Waterford, Fuller Building, Federal Office Building at Foley Square, 200 Riverside Boulevard At Trump Place, The Sovereign, Chelsea Stratus, CBS Building, One Lincoln Plaza, 200 East 59th Street, One Rockefeller Plaza, New York Hilton Midtown, Tower 45, 100 Park Avenue, McGraw-Hill Building, 99 Washington Street, 575 5th Avenue, Excelsior House, Millennium Broadway, Crowne Plaza New York, 160 Madison Avenue, 30 East 31st Street, 855 6th Avenue, Consolidated Gas Building, CassaNY, Daily News Building, Mutual of America Building, Riverbank West Apartments, Virgin Hotel, Prism Tower, 135W52, Hilton Times Square, Aliz Hotel Times Square, 231 East 55th Street, Harper & Row Building, 12 Metrotech Center, International Plaza, Solow Tower Apartments, 505 West 37th Street East Tower, Park Avenue Place, United States Plywood Building, The Link, 325 5th Avenue, 2 Jackson Park, Times Square Doubletree Hotel, Aire, Wyndham New Yorker Hotel, Hampshire House, Capitol-EMI Building, American Copper Buildings East Tower, 900 3rd Avenue, VIA 57 WEST, 1059 Third Avenue, 500 Park Tower, The Marc, The Oxford on 72nd, Dillon, Read & Company Building, The Atlas, 22 Cortlandt Street, Victory Apartments, Montague-Court Building, Monarch Condominiums, JW Essex House, Leighton House Residence Tower, Symphony House Apartments, 747 3rd Avenue, One State Street Plaza, 685 1st Avenue, 8 Stone Street, 66 Rockwell Place, Trump Parc Condominiums, The Ritz Plaza, Paramount Building, 7 Bryant Park, Trump SoHo Hotel Condominium, 53rd at Third, 510 Madison, The Dylan, 1065 Avenue of the Americas, Metropolitan Life North Building, The Strand, David H. Koch Center for Cancer Care, Park Lane Hotel, Dag Hammarskjold Tower, The Strathmore, Tower 31, 47 East 34th Street, Millennium Point, The America, 50 Broadway, Adams Express Building, Wall Street Plaza, 172 Madison Avenue, 1250 Broadway, Ivy Tower, Greenwich Club Residences, Liberty Court, Club M at Turtle Bay, 1400 Broadway, 120 Wall Street, Bridge Tower Place, 85 Broad Street, Element New York Times Square West, Daily Commerce Building, Lucerne Apartments, Harriman Building, 611 West 56th Street, One Seaport Plaza, 5 Pointz South Tower, 606 West 57th Street, The Olivia, The Mondrian, Tower 52, Level BK, Park Laurel Condominiums, The Crest, Empire Trust Company Building, Fifth Avenue Tower, Residence Inn New York Manhattan/Times Square, 750 3rd Avenue, Annenberg Building, Archstone Midtown West, 745 5th Avenue, 60 East End Avenue, Confucius Plaza Apartments, The Vanderbilt, ITT Building, 68 Trinity Place, Chrysler East, 110 East 59th Street, 535 5th Avenue, Bush Tower, The Savoy Condominiums, BKLYN Air, Marriott Renaissance Chelsea, Renaissance New York Midtown Hotel, 135 East 57th Street, 860 U.N. Plaza Apartments, 870 U.N. Plaza Apartments, Fred F. French Building, One Waterline Square, AT&T Building, Linc LIC, 4 Metrotech Center, One Carnegie Hill, Squibb Building, 101 Warren Street, Manhattan Plaza Apartments I, Manhattan Plaza Apartments II, Harlem River Park Tower I, Harlem River Park Tower II, One Gotham Center, Three Gotham Center, Toren, Finland House, Broad Financial Center, The Carlyle, The Promenade, The Rushmore, 116 John Street, The Royale, Yorkville Towers, Two Worldwide Plaza, 600 Lexington, The Easton, The Amberly, 507 Chelsea, 75 Rockefeller Plaza, Whitehall Building Annex, Mortimer B. Zuckerman Research Center, Rio Condominium & Spa, Murray Hill Mews Apartments, 195 Broadway, Archstone Chelsea, 180 Riverside Boulevard at Trump Place, The Westin New York Grand Central Hotel, 45 East 89th Apartments, Gracie Mews Apartments, 489 5th Avenue, 2 Broadway, One Sutton Place North, Two Sutton Place North, 2 Columbus, 110 William Street, 219 East 44th Street, 515 West 36th Street, 80 Broad Street, 1865 Broadway, Ruppert House Apartments, 1350 Avenue of the Americas, Crown Building, Grolier Building, 120 Park Avenue, 280 Park Avenue, Two Penn Plaza, 1 Metrotech Center, 505 5th Avenue, 31 West 52nd Street, 425 Lexington Avenue, 52 East End Avenue, Moxy Chelsea, 641 Lexington Avenue, Foley Square Federal Courthouse, Citylights at Queens Landing, Pfizer Building, One Clinton, 1270 Avenue of the Americas, 909 3rd Avenue, 1410 Broadway, 475 Park Avenue South, Oriana, Embassy Suites by Hilton New York Midtown Manhattan, River House, DKLB BKLN, Hilton Garden Inn, Solari, Knickerbocker Plaza Apartments, Miraval Living Condominiums, West End Towers, Barclay Apartments, Riverside Park Community Apartments, Hunter's Point South Commons, 390 Madison Avenue, Horizon Apartments, National Westminster Bank, One River Place, 55 Broad Street, The Eleventh West Tower, Helena, Murray Hill Marquis, 1441 Broadway, Citizen 360, 100 Wall Street, One Pierrepont Plaza, Tribeca Pointe, 4615 Center Boulevard, Oro Condominium, HSBC Tower, 400 West 42nd Street, The Kingsley, The Stanford Condominium, 420 West 42nd Street, Tracey Towers Apartments I, Bard-Haven Tower I, Bard-Haven Tower II, Bard-Haven Tower III, The Saratoga, Helmsley Medical Tower, The Chatham, The San Remo, 875 3rd Avenue, 600 Fifth Avenue, 75 Livingston Street, Brooklyn Renaissance Plaza, The Charles, 1N4th, Capitol at Chelsea, Hamilton Apartments, OHM, Two Waterline Square, Rockefeller University Scholars Building, 10 Park Avenue, Courtyard and Residence Inn by Marriott, Ariel East, 45 Broadway Atrium, One Exchange Plaza, House39, Evans View, The Aldyn, The Concorde Hotel, The Grand Sutton, Millennium Tower Residences, Place 57, Brittany Apartments, Avalon Fort Greene, 222 Broadway, 325 LEX, One Hudson Yards, Walker Tower, The Kent, Plaza 400 Apartments, The Greenpoint, 1500 Broadway, Adler Building, Graybar Building, Riverside Church, Three Waterline Square, 450 Park Avenue, 420 5th Avenue, 11 Penn Plaza, 4545 Center Boulevard, 200 Water Street, 20 Broad Street, 40 Broad Street, Hanover Bank Building, Marine Midland Bank Building, 250 Broadway, Somerset Apartments, Chelsea Tower, The Aurora, New York Marriott East Side, The Aurora Midtown East, 1412 Broadway, The Centria, Tower 56, U.S. Trust Building, Avalon Riverview North, Channel Club Condominiums, Archstone Murray Hill, Liberty Tower, 200 Madison Avenue, Verizon Building, Colorado Apartments, 33 Beekman Street, Carnegie Towers Apartments, Continental Towers, The Forge, The Milan Condominium, Guardian Life Building, Tower 53 Condominiums, 950 3rd Avenue, Element, Carnegie Mews Apartments, 40 Fulton Street, Tracey Towers Apartments II, Siena Condominiums, One Sherman Square, Parker Meridien Hotel, The Alfred, The Grand Beekman, Jehovah`s Witnesses Dormitory, Waterside Apartments I, 505 West 37th Street West Tower, 485 Lexington Avenue, 565 5th Avenue, Xerox Building, New York Hospital Cornell Medical Center, 461 5th Avenue, Mutual of New York Building, One Riverside Park, 2 Federal Reserve Plaza, 222 East 41st Street, Le Rivage, 77 Water Street, Clinton Towers, Ritz-Carlton Central Park, Western Union Building, Crystal Pavilion, Park Belvedere Condominiums, Archstone 101 West End, 11 West 42nd Street, Evans Tower Condominiums, Domen East, Biltmore Plaza Apartments, North Shore Towers - Beaumont Tower, Normandie Court Apartments I, Normandie Court Apartments II-IV, AT&T Switching Center, 310 Greenwich Street, 376 Greenwich Street, 40 Harrison Street, Hudsonview Terrace, Georgetown Plaza Apartments, The Parker 86th, Chelsea Landmark, New United States Mission to the United Nations, 509 West 38th Street, Waterside Apartments II, The Future Condominiums, Trump Plaza, 12 East 48th Street, 29 Broadway, St. James' Tower, Two Lincoln Square, Abington House on the Highline, 123 William Street, Holiday Inn New York City - Times Square, The Towne House, MacMillan Building, General Telephone Building, 300 Ashland, Warwick Hotel, Manhattan Place, Park Lane Tower, InterContinental New York Times Square, 125 Park Avenue, 1 Times Square, Cosmopolitan Condominiums, 110 Wall Street, Bellevue Hospital Center, 240 Riverside Boulevard at Trump Place, River Gate Apartments, Chartwell House Condominium, Candlewood Suites Times Square South, The Bryant, City Point Tower I, Hampton Inn Manhattan/Times Square South, The Visionaire, Halcyon, Emigrant Savings Bank, Herald Towers Apartments, Holiday Inn Express Times Square, Hilary Gardens, 45 Wall Street, 650 Madison Avenue, The Magellan, 461 Dean, Renaissance Apartments, New York University Langone Medical Center - Kimmel Pavilion, L'Ecole, The New York Tower, Corning Glass Building, Park Central Hotel, 215 East 68th Street, Lorillard Building, Sofitel New York Hotel, 211 East 70th Street, Courtyard New York Downtown Manhattan/World Trade Center Area, NoMo SoHo Hotel, 360 Madison Avenue, Waterside Apartments III, The Columbia, The Fontaine, 261 Madison Avenue, RiverCourt, Landmark Apartments, Manhattan Detention Complex, 160 Riverside Boulevard at Trump Place, Carnegie Hill Tower, Hammer Health Sciences Building, The Sutton, New York Marriott Downtown, 200 Central Park South, One Fifth Avenue, Azure, Post Toscana Apartments, 527 Madison Avenue, 300 East 34th Street, Clermont Towers, Stratford Apartments, 4540 Center Boulevard, Samuel B. & David Rose Building, The Metropolitan, 29-07 Queens Plaza North, Trump Park Avenue, 10 West End, Winstar Building and Addition, Chamber of Commerce Building, Trinity Building, 2 Park Avenue, Falcon Towers, Mercedes House, The Century, BellTel Lofts, Bank of America Building, Pavillion Apartments, Le Premier, North Shore Towers - Amherst Tower, North Shore Towers - Coleridge Tower, The Eagle, 777 Avenue of the Americas, Plaza Towers Apartments, The Eldorado, The Majestic, The Wellesley, 29 Park Madison, New Yorker East Apartments, The Regent, Zeckendorf Towers I, Zeckendorf Towers II, Zeckendorf Towers III, Zeckendorf Towers IV, Nigerian Mission to the United Nations, Ruppert-Yorkville Towers, Marriott AC Hotel, Sessanta, The Heritage I, The Heritage II, Astor Terrace, 360 East 72nd Street, The Avery, 111 Wall Street, New Gotham, 5 Penn Plaza, The Wellington, Avalon Brooklyn Bay, 301 East 50th Street, DoubleTree by Hilton Hotel New York Times Square West, Fairfield Inn & Suites by Marriott New York Manhattan/Times Square, Four Points by Sheraton - Midtown Times Square, Hunter's Point South Crossing, Mill Rock Plaza, 30 East 85th Street	, Connaught Tower, Affinia Manhattan, Tower East Apartments, Tivoli Towers, Taino Towers Apartments III, Hilton Hotel at 54th, Candler Building, Distrikt Hotel, Hampton House Apartments, Wall Street Exchange Building, Courtyard by Marriott New York Times Square South, Morgan Court, Ariel West, Tower 58, 30 Lincoln Plaza, 37 Blue Slip, The Cielo, Munson Building, Two Rector Street, Fairmont Apartments, 501 Madison Avenue, Laurence G. Payson House, The Grand Tier, 99 John Street, 140 Riverside Boulevard at Trump Place, Co-Op City Building 13, Co-Op City Building 19, Co-Op City Building 25, Co-Op City Building 34, Co-Op City Building 7, 255 East 74th Street, The Bryant Park Hotel, Lefcourt Clothing Center, J Condominium, The Concerto, The St. Tropez, The Empire, International Plaza Apartments, 401 Broadway, 875 Avenue of the Americas, The Oliver Cromwell, 1 Beekman Street, 800 5th Avenue, East Winds Condominium, The Veneto, World's Tower Building, 499 Park Avenue, Andover Apartments, Columbus House Apartments, The Lausanne, The Marmara Manhattan, Carlton Park Apartments, 3 Columbus Circle, Arlo NoMad, The Bristol, Staybridge Suites Times Square - New York City, The Impala, 285 Madison Avenue, Kratter Building, 35xv, Taino Towers Apartments I, Taino Towers Apartments II, Taino Towers Apartments IV, Dorchester Towers, Canada House, 200 Cadman Plaza, 220 West 41st Street, Mayfair Towers, 270 Broadway, The Octavia, Madison Green Condominiums, 667 Madison Avenue, Park Regis, The Grand Millennium, 180 Montague Street, Belmont Apartments, 2 Wall Street, 150 East 57th Street, Avenue of the Americas Plaza, Standard & Poor's Building, 65 Broadway, Adams Tower, Glenn Gardens Apartments, 292 Madison Avenue, Two Northside Piers, 44 Wall Street, East River Tower Apartments, The Laurel, Keith Plaza Apartments, The Aurora, Hilton Garden Inn Financial Center, Master Apartments, Forte Condominiums, 300 Park Avenue, LVMH Tower, 45 West 67th Street, ThreeTen East 53, Audubon Tower, Court Plaza, Park Tower, St. Nicholas Tower, Wadsworth Tower, 545 8th Avenue, Bank of New York Building, 43 Exchange Place, Herald Square Building, Two Gotham Center, The Seville, Columbus Square, 101 Wall Street, 101 Barclay Street, German House, Lewisohn Building, 515 West 59th Street, Park Ten, Asten House Apartments	, Promenade Apartments, The Beaumont, Fairfield Inn New York/Manhattan Financial District, 15 Metrotech Center, Liberty Terrace, 90 West Street, 111 John Street, 600 Madison Avenue, Kennedy House, Carnegie Park, The Lara, 99 Park Avenue, Lefcourt State Building, Lefcourt Normandie Building, Macy's Addition, New York Athletic Club, The Avalon Riverview, Gotham West, 370 Lexington Avenue, Harcourt, Brace & World Building, Millinery Building, Liberty Luxe, 261 5th Avenue, Four Points by Sheraton New York Downtown, 519 8th Avenue, 101 Avenue of the Americas, 522 5th Avenue, United States Realty Building, 555 West 57th Street, Turtle Bay Towers, 309 Madison Avenue, 37 Wall Street, 570 Broome Street, 160 Water Street, Gramercy Place, 4705 Center Boulevard, Radisson Lexington Hotel, 130 John Street, School of Law and McKeon Residence Hall, Fordham University Lincoln Center Campus, Kimberly Apartments, 525 7th Avenue, 80 Maiden Lane, 444 2nd Avenue, Co-Op City Building 12, Co-Op City Building 14, Co-Op City Building 17, Co-Op City Building 18, Co-Op City Building 23, Co-Op City Building 24, Co-Op City Building 33, Co-Op City Building 35, Co-Op City Building 6, Co-Op City Building 8, 254 East 68th Street, Maison East, Park Towers Apartments, Sterling Plaza, Trafalgar House, One Lincoln Square, St. George Hotel, 250 West 57th Street, Bank of America Building, The NOMA, Heron Tower, 505 LaGuardia Place, Camargue Apartments, 215 Chrystie Street, Libya House, The Miles at Lexington Heights, The Revere, The Chesapeake, Marriott Courtyard Hotel, 1 East 35th Street, The Gotham, The Benjamin, 95 Wall Street, Garment Center South Building, 111 Livingston Street, Windsor Tower, 455 Central Park West, The Vanguard Chelsea, 380 Madison Avenue, 5th On The Park, The Azure, West 57th Street by Hilton Club, Renaissance New York Times Square Hotel, Yale Club, Milford Plaza Hotel, 200 Gateway Plaza, 400 Gateway Plaza, 1440 Broadway, 4 New York Plaza, Plymouth Towers Apartments, 201 Pearl Street, Halo LIC, 90 Washington Street, 245 5th Avenue, 76 Beaver Street, New York Cotton Exchange Building, The Harrison, 27 on 27th, Trinity House Apartments, Allegro Condominiums & Office Building	, 345 7th Avenue, Lever House, Atlantic Terminal Houses 1, Bricken Broadway Building, 640 5th Avenue, The St. Regis, Bayard House Apartments, Skirball Institute of Biomolecular Medicine, Dunhill Condominiums, Towers of Bay Ridge West, The Churchill, Lincoln Plaza Towers, 143 Fulton Street, Tilden Towers II, 360 Lexington Avenue, Fashion Tower, Look Building, 350 Madison Avenue, 32 Court Street, Hotel Pennsylvania, Verizon Broad Street Building, Waterside Apartments IV, The Monterey, Watermark LIC, The Riverhouse, Laurence Tower Apartments, The Eleventh East Tower, 66 Beaver Street, Delmonico Plaza, Wyndham Midtown 45, Columbus Manor, 180 Madison Avenue, 260 Madison Avenue, American Woolen Building, Belfer Research Building, Tribeca Park, 4720 Center Boulevard, Windsor Court Aparments I, Windsor Court Apartments II, Gramercy Park Building, Silver Tower I, Silver Tower II, 200 Chambers Street, Viceroy New York, 211 East 43rd Street, Woodstock Tower, The Edge South Tower, Kaye Building, The Alexander at Rego Center, 220 East 72nd Street Apartments, One Northside Piers, 475 5th Avenue, Beacon Tower, Lincoln Towers Apartments II, Lincoln Towers Apartments III & VIII, Lincoln Towers Apartments IV, Lincoln Towers Apartments VII, Liberty View, 575 8th Avenue, The Harmony, The Alexander, Nippon Club Tower, Takashimaya Building, Starrett-Lehigh Building, Hyatt House New York/Chelsea, 600 Gateway Plaza, Banco Santander Building, Cadman Towers, 11 Stone Street, 520 8th Avenue, 1001 Avenue of the Americas, Hess Building, 455 West 37th Street, The Boulevard, 15 Cliff Street, Hotel Riu Plaza New York Times Square, Grand Hyatt New York, Lazarus Building, 509 Madison Avenue, 230 West 41st Street, Phoenix House, 33 West End Avenue, 560 Lexington Avenue, Brevard Apartments, Hotel Courtyard New York Manhattan/Fifth Avenue, Towers of Bay Ridge East, 22 River Terrace, Sutton 57, 286 Madison Avenue, 77 West 66th Street , 19 Park Place Tribeca, Chelsea Arts Tower, Masonic Hall, Birchwood Towers - The Kyoto, Birchwood Towers - The Toledo, 565 Broome SoHo, 100 Maiden Lane, 100 William Street, 551 West 21st Street, 1600 Broadway, The Ellington, 205 East 59th Street, Everett Building, Lincoln Towers Apartments I & VI, The Pinnacle, Longacre House Apartments, The Sofia, The Beekman Regent, Presbyterian Hospital, Beekman Tower Hotel, 300 East 39th Apartments, 575 Madison Avenue, 445 Park Avenue, Springs Building, Lincoln Towers Apartments V, 505 8th Avenue, Wimbledon Apartments	, Lexington Tower, Ivy Hill Lithography Building, U. S. Rubber Company Building, Hippodrome Building, 115 Delancey Street, 555 8th Avenue, One Whitehall Street, Flatiron Building, 24-16 Queens Plaza South, The Nevada, The Copley, Le Triomphe, 237 Park Avenue, 291 Broadway, Diamond National Building, 462 7th Avenue, 271 Madison Avenue, Liggett Building, Archdiocese of New York, Townsend, 480 2nd Avenue, 500 2nd Avenue, 80th At Madison Condominiums, Court Square Building, Southbridge Towers I, Southbridge Towers II, Tribeca Bridge Tower, 80 8th Avenue, Wellington Hotel, be@Schermerhorn, 550 7th Avenue, 42 Broadway, W New York - Union Square, 5 Manhattan West, Eastchester Road Residence I, One Hudson Square, 110 University Place, Birchwood Towers - The Bel Air, The Solaire, The Beresford, The Opera, Austrian Cultural Forum New York, Barbizon/63, 615 Dean Street, Master Printers Building, 10 Hanover Square, 67 Livingston Street, Simon & Schuster Building, 150 William Street, Broad-Exchange Building, The Whitney, Archstone Clinton North, Archstone Clinton South, Hotel Beacon, 1212 Avenue of the Americas, 265 West 37th Street, 477 Madison Avenue, 11 East 26th Street, 285 Lexington Avenue, Silver Towers, Veterans Administration Hospital, 220 Central Park South Villa, The South Star, One Haven Plaza, Pennsylvania Building, 5 East 57th Street, Southbridge Towers III, Southbridge Towers IV, Parc East, 594 8th Avenue, Hotel Novotel New York Times Square, 102 5th Avenue, Eastchester Road Residence II, Eastchester Road Residence III, Holiday Inn Express New York City - Wall Street, Standard Security Life Building, Davies Building, Liberty Green, Madison Square Building, St. Martin`s Tower, 1430 Broadway, 2 Washington Street, 2 Washington Street, 412 West 15th Street, Cornell Tech Residential, Cooper Gramercy, Henry Hudson Hotel, Vilcek Hall, Ebbets Field Apartments, Lexington House, 363 7th Avenue, Lefcourt Empire Building, Croisic Building, The Plaza Residences, Astor Place, Avalon West Chelsea, 494 8th Avenue, Westinghouse Building, 850 3rd Avenue, 303 5th Avenue, 410 Grand Street, 200 Eleventh Avenue, Carnegie Hill Place, Rolls Royce Building, Kheel Tower, New York Times Building, 589 8th Avenue, 315 Park Avenue South, 480 Main Street, One Morningside Park, 240 Central Park South, The Bel Canto, Emerald Green, Feil Hall, 400 Madison Avenue, 535 8th Avenue, Club Quarters Downtown Hotel, Goldsmiths' and Silversmiths' Building, Memorial Sloan-Kettering Cancer Center /Joise Robertson Surgery Center, 344 East 28th Street, 100 11th Avenue, William Black Medical Research Building, 111 Eighth Avenue, 110 Central Park South, 307 7th Avenue, 400 Park Avenue, Victoria Building, Grand East, 410 Park Avenue, 215 Park Avenue South, Baruch College - Lawrence and Eris Field Building, Doubletree Hotel New York City - Chelsea, Lex Apartments, 825 5th Avenue, Postum Building, 386 Park Avenue South, Equitable Trust Building	, State University College of Optometry, Hotel Indigo on Orchard Street, 212 5th Avenue, Founders Hall, ML House, Bankers Trust Building, 480 Park Avenue, 315 West 36th Street, Verizon Building, The Standard, Montana Apartments, Chatham Towers I, Chatham Towers II, The Ludlow, 152 Madison Avenue, 182 Broadway, Bromley Condominiums, 52 Vanderbilt Avenue, Faraday Wood, 12 West 27th Street, Post Towers, Merchants Square Building, 561 7th Avenue, Whitehall Building, 330 Hudson, 301 7th Avenue, 4610 Center Boulevard, Star Tower, 11 Wall Street, 141 West 36th Street, Prospect Tower, Tudor Tower, 546 5th Avenue, 1 University Place, 400 2nd Avenue, Boulevard Apartments, National Furniture Mart Building, Fulton Houses VI, Level Club of the Masonic Order, 3 New York Plaza, Lebros Building, Residence Inn by Marriott New York Manhattan World Trade, Federal Office Building, The James New York, Brevoort East Apartments, Two Bridges Houses, 580 8th Avenue, 114 Fifth, 411 East 10th Street, 416-430 Kent Avenue I, 420-430 Kent Avenue II, 355 Lexington Avenue, The Windsor at Forest Hills, North Park Tower, World Center Hotel, 18 East 41st Street, 40 Rector Street, 148 Cadman Plaza West, 65-24 162nd Street, Shore Towers Condominum, QLIC, Hotel Edison, 90 Broad Street, The Caledonia, The Bentley, National Tower, Peninsula Hotel, The William Vale, 1 Pace Plaza, Joseph L. Mailman School of Public Health, The Ascot, Baruch College - Newman Vertical Campus, 319 East 24th Street, The Morrison, Seventh Avenue Building, Eastgate Tower Hotel, 1359 Broadway, citizenM Hotel, The Vogue, L'Isola
+Tiers: I: 590, II: 452, III: 223, IV: 64, V: 14, VI: 5
+Rating: 2932 (9.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Chicago ***
+Country: United States
+Region: North America
+493 towers: Willis Tower, Trump International Hotel & Tower, Vista Tower, 875 North Michigan Avenue, The Franklin - North Tower, Two Prudential Plaza, 311 South Wacker Drive, NEMA Chicago, 900 North Michigan Avenue, Chase Tower, Water Tower Place, Aqua at Lakeshore East, Park Tower, One Bennett Park, The Legacy at Millennium Park, Bank of America Tower, 300 North LaSalle, Three First National Plaza, Grant Thornton Tower, Blue Cross-Blue Shield Tower, River Point, Olympia Centre, One Museum Park, 150 North Riverside, AMA Plaza, Waldorf Astoria Chicago, 111 South Wacker, 181 West Madison, 71 South Wacker, One Magnificent Mile, 340 on the Park, 77 West Wacker Drive, Wolf Point East Tower, UBS Tower, Richard J. Daley Center, 55 East Erie, Lake Point Tower, River East Center, Grand Plaza Apartments, 155 North Wacker, Leo Burnett Building, The Heritage at Millennium Park, NBC Tower, 353 North Clark, Essex on the Park, OneEleven, Millennium Centre, Chicago Place, Chicago Board of Trade, 333 South Wabash, One Prudential Plaza, Heller International Tower, Madison Plaza, The Grant, 1000 Lake Shore Plaza, The Clare, Citigroup Center, Marina City I, Marina City II, Optima Signature, 55 East Monroe, Crain Communications Building, North Pier Apartments, Citadel Center, The Fordham, 190 South LaSalle, One South Dearborn, Onterie Center, Loews Chicago Hotel, Chicago Temple Building, CNA Center, Palmolive Building, Kluczynski Federal Building, Huron Plaza, Boeing International Headquarters, The Parkshore, North Harbor Tower, Civic Opera Building, Harbor Point, Streeter Place, Newberry Plaza, Michigan Plaza South, 30 North LaSalle, Pittsfield Building, One South Wacker, Park Millennium, AMLI River North, The Franklin - South Tower, The Pinnacle, 465 North Park, LaSalle National Bank, Park Place Tower, One North LaSalle Street, Elysees Condominiums, River Plaza, The Paragon Chicago, 35 East Wacker Drive, Kemper Building, Mather Tower, 10 South Wacker, 30 South Wacker, The Columbian, 191 North Wacker Drive, 401 East Ontario Street, One Financial Place, The Streeter, 600 North Lake Shore Drive - South Tower, Park Tower Condominiums, LaSalle-Wacker Building, 321 North Clark Street, Harris Bank Bank Addition II, 215 West, Carbide & Carbon Building, 400 East Ohio Street, One Superior Place, 120 North LaSalle, 10 South LaSalle, The Tides at Lakeshore East, 200 South Wacker, Parkview West, 500 North Lake Shore Drive, 55 West Monroe, Ontario Place, 727 West Madison, The Ritz-Carlton Residences, 50 East Chestnut Street, PNC Centre, No. 9 Walton, 235 West Van Buren, The Bristol, 333 Wacker Drive, AT&T South Canal, Wolf Point West , The Regatta, 33 North LaSalle, 73 East Lake, Lincoln Park 2550, Moment, Bankers Building, Metropolitan Tower, Cook County Administration Building, Plaza 440, American Furniture Mart, Hotel InterContinental, City Place, Roosevelt University Academic, Student Life Residence Center, Columbus Plaza, Coast at Lakeshore East, The Sterling, Tribune Tower, 200 North Dearborn Apartments, Randolph Tower, Presidential Towers I, Presidential Towers II, Presidential Towers III, Presidential Towers IV, The New York, Chicago Marriott, The Residences at Grand Plaza, 600 North Fairbanks, Swissotel Chicago, Equitable Building, Kingsbury Plaza, 400 North LaSalle, ABN AMRO Plaza, 600 North Lake Shore Drive - North Tower, Residence Inn Chicago Downtown/Loop, Riverbend Condominiums, The Shoreham, Eugenie Terrace on the Park, Fifth Third Center, Hubbard Place, 200 Squared, Ann & Robert H. Lurie Children's Hospital of Chicago, 300 South Wacker, 444 North Michigan, MILA, Marriott Marquis Chicago, Optima Chicago Center, 1001 South State Street, Wrigley Building, Willoughby Tower, Marquee, 123 North Wacker, 180 North LaSalle, Silver Tower, 225 West Wacker, Shirley Ryan AbilityLab, 1130 South Michigan, The Gallery On Wells, McClurg Court Center A, McClurg Court Center B, 1555 North Astor, 225 West Randolph Street, AMA Building, Eugenie Square, 202 West Hill Street, Fairmont Hotel, Sky55, 2020 North Lincoln Park West, Skybridge, The Sinclair, Alta at K Station - East Tower, 2 East Erie, Hartford Plaza South, Northern Trust Building, 10 East Delaware, MoMo, State and Chestnut, 1100 North Lake Shore Drive, Museum Tower, Malibu East, 200 West Adams, Two First National Plaza, Lake Shore Plaza, 1300 North Lake Shore Drive, Time-Life Building, The Montgomery, Galter Pavilion, 420 East Ohio, Buckingham Plaza, Millennium Park Plaza, 777 North Michigan, Avondale Center, River View II, James House, Cityfront Place, 333 North Michigan, Metcalfe Federal Building, The Pearson, Walton Colonnade, The Plaza on Dewitt, 1110 North Lake Shore Drive, Avenue Hotel, 150 North Wacker, 225 West Washington Street, East Point, The Chandler, The Lex, The Carlyle, Wells Street Tower, Forty-One East Eighth, The Fairbanks at Cityfront Plaza, Northwestern Medicine 259 East Erie, The Elm at Clark, The Wyndham Grand Chicago Riverfront, 2626 North Lakeview, 2650 North Lakeview, Everett McKinley Dirksen United States Courthouse, Hotel Palomar, The Aurelien, Alta at K Station - West Tower, Outer Drive East, 1700 East 56th Street, 1400 Museum Park, Two Illinois Center, 33 West Monroe, 633 North St. Clair, Astoria Tower, 2800 North Lake Shore Drive, Brookdale Plaza, 303 West Madison, Arkadia Tower, Sheraton Chicago Hotel & Towers, 1720 South Michigan, The Admiral at the Lake, Hawthorne House, 1111 South Wabash, One East Delaware, K2 at K Station, Left Bank at K Station, Kinzie Park Tower, Hyatt Regency Chicago West Tower, Echelon at K Station, The Chicagoan, One Illinois Center, Edgewater Plaza North, The Allerton Hotel Chicago, 2 East Oak Street, Chestnut Tower, Walton on the Park, 200 West Jackson, Regents Park South, 1600 Museum Park, Exhibit on Superior, Alta Roosevelt, 230 West Monroe Street, Florsheim Tower, Malibu Condominiums, Three Illinois Center, 625 North Michigan, LINEA, Eight O Five, 33 North Dearborn, Park Alexandria, Hyatt Regency Chicago East Tower, Sofitel Chicago Water Tower, Drake Tower, Edgewater Plaza South, Eleven40, Hyatt Regency McCormick Place, 222 North LaSalle, Regents Park North, Chicago Hilton & Towers, Merchandise Mart, 3150 North Lake Shore Drive, 1550 North Lake Shore Drive Apartments, University Hall, 200 East Delaware, Century Tower, Loop Transportation Center, Elm Street Plaza, Michigan Plaza North, 990 North Lake Shore Drive, Transunion Building, 1212 North Lake Shore Drive, 2500 North Lakeview, 55 East Jackson, Arkes Family Pavilion, Inland Steel Building, Concord City Centre, Gold Coast Galleria, 525 West Monroe Street, ADA Building, Museum Park Place 2, South Shore Beach Apartments, 840 North Lake Shore Drive, Michigan Terrace Condominiums, 1240 North Lake Shore Drive, 530 North Lake Shore Drive, 500 North Michigan Avenue, The Breakers at Edgewater Beach, 101 North Wacker, Apparel Center, Old Republic Building, The Lancaster, Vetro, Harris Bank Addition I, Americana Towers, 1212 South Michigan, River View I, 1133 North Dearborn, The Cooper, Westin Michigan Avenue, Gateway Center IV, 1 North Dearborn, LondonHouse Chicago, Courtyard Chicago Magnificent Mile, 100 Bellevue Place, 2 North LaSalle Street, Prentice Women's Hospital, The Parker, 100 West Chestnut, 1000 South Clark, Michigan Avenue Tower I, McCormick Building, Burnham Pointe, 777 South State, 550 St. Clair, Hilton Suites Chicago, theWit Hotel, Michigan Avenue Tower II, Hilton Homewood Suites and Wabash Suites Hotel, EnV, James R. Thompson Center, Landmark West Loop, 65 East Wacker Place, Socony-Vacuum Building, SoNo West Tower, 625 West Adams, Hyatt Centric The Loop Chicago, 1136-1140 South Wabash Avenue, The National, Riverside Plaza, 120 South LaSalle, 231 South LaSalle , Michigan Avenue Lofts, People's Gas Building, 1111 North Dearborn, Kingsbury on the Park, Lake-Michigan Building, Loop Center Building, 4 East Elm Street, Virgin Hotels Chicago, Cambria Hotel Chicago Loop Theatre District, Burnham Center, Michigan Boulevard Building, NEXT, Gr333N, Astor Tower, W Hotel Chicago Lakeshore, River North Marriott Suites, Feinberg Pavillion, Bel Harbour, 1600 East 53rd Street, Lawyers Building, Noble Square Co-op, North American Building, Harris Bank Building, Garland Building, Wrigley Building North Addition, 3Eleven, 8 East Huron, Marquee Michigan Avenue, Erie on the Park, 1418 North Lake Shore Drive, Randolph-Wells Building, Consumers Building, Renaissance Blackstone, Astor House, MDA City Apartments, One Triple Three, Museum Pointe, Metropolitan Correctional Center, 5000 East End Building, 208 South LaSalle Street, Solstice on the Park, Renaissance Chicago Downtown Hotel, Lake Vista Apartments North, Mallers Building, Eight Eleven Uptown, 525 Hawthorne, CDW Plaza, Transportation Building, Horizon House, Majestic Building, 29 East Madison Street, 200 West Monroe, 640 North Wells Street, Museum Park Tower I, Metropolitan Block, Ward Memorial Building, Lake Park Plaza, Cornell Village, River Place on the Park, 22 West Washington, 3150 North Sheridan, Chicago Board of Trade Addition, Fisher Building, Loyola University Tower, Chicago Athletic Association Annex, The Newport North Tower, The Newport South Tower, Borg-Warner Building, Macy's at State Street, Quadrangle House, Jones , The Bernardin, Admiral's Point, State of Illinois Building, Prairie Pointe, Hollywood Towers North, Hollywood Towers South, 860 North Lake Shore Drive, 880 North Lake Shore Drive, The Powhatan, 734 North Milwaukee, 14 East Jackson Boulevard, Criminal Courts Administration Building, Rehabilitation Institute of Chicago, 1401 South State , Pearson on the Park, Century Building, The Hudson, Hubbard 221, Palmer House, Hermitage on Huron, Esplanade Apartments I, Esplanade Apartments II, Harper Square Cooperative - North Tower, Harper Square Cooperative - South Tower, Hilton Garden Inn Chicago Downtown/Magnificent Mile, Santa Fe Building, Museum Park Place 1, 899 South Plymouth Court, Lake Village East, 55 West Wacker, 1410 North State Parkway, AMLI 900, 2101 South Michigan, 205 West Wacker, Barclay Condominiums, Cambridge Manor, Hilton Garden Inn Chicago North Loop, Wolberg Hall, Commonwealth Promenade I, Commonwealth Promenade II, Rush University Medical Center Hospital Tower, Hampton Inn / Homewood Suites Chicago Downtown West Loop, Narragansett Apartments, 123 East Cermak, Westin River North, Hotel EMC2
+Tiers: I: 199, II: 167, III: 102, IV: 19, V: 4, VI: 2
+Rating: 1107 (3.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Miami ***
+Country: United States
+Region: North America
+145 towers: Panorama Tower, Aston Martin Residences, Four Seasons Hotel & Tower, Southeast Financial Center, Brickell Flatiron, Marquis, One Thousand Museum, Wells Fargo Tower, 900 Biscayne Bay, Elysee, Missoni Baia, Paramount Miami Worldcenter, Echo Brickell, Mint at Riverfront, Miami River, Infinity at Brickell, Miami Tower, Marina Blue, Plaza on Brickell Tower I, Epic Residences & Hotel, One Paraiso, SLS Brickell, SLS Lux Brickell, Icon Brickell North Tower, Icon Brickell South Tower, Solitair Brickell, Paramount at Edgewater Square, 50 Biscayne, Quantum on the Bay South Tower, Biscayne Beach, Brickell Heights North Tower, 1010 Brickell, GranParaiso, ParaisoBay, Opera Tower, Viceroy, Vizcayne, North Tower, Vizcayne, South Tower, Avant at Met Square, Quantum on the Bay North Tower, Aria on the Bay, Ten Museum Park, Brickell Heights South Tower, Jade at Brickell Bay, Plaza on Brickell Tower II, Santa Maria, Rise, EAST, Miami, The Ivy, Stephen P. Clark Center, BrickellHouse, Parkline South, Reach, Met 2 Marriott Marquis, Wind, 1450 BRICKELL, Paraiso Bayviews, Avenue Brickell Tower, One Biscayne Tower, The Bond at Brickell, Espirito Santo Plaza, Brickell World Plaza at 600 Brickell, Miami Center, Asia, Brickell on the River North Tower, Three Tequesta Point, Latitude on the River, Parkline North, 1100 Millicento Residences, Melody Tower, One Miami East Tower, X Miami, 701 Brickell Avenue, One Miami West Tower, Icon Bay, CAOBA, Met 1, 1111 Brickell Avenue, Loft 2, Centro Lofts Miami, 500 Brickell East Tower, 500 Brickell West Tower, Blue on the Bay, 1800 Club, VUE at Brickell, Brickell on the River South Tower, The Mark on Brickell, Axis on Brickell North Tower, Axis on Brickell South Tower, One Broadway on Brickell, The Element, The Club at Brickell Bay, Two Tequesta Point, Canvas, Carbonell Condominium, Courthouse Center, The Palace, DoubleTree by Hilton Grand Hotel Biscayne Bay, Monarc at Met 3, Oakwood Yacht Club at Brickell, NINE at Mary Brickell Village, Museum Tower, Skyline on Brickell, SunTrust International Center, Hyde Midtown, Bristol Tower, Brickell Bay Tower, NeoVertika, Bay Parc Plaza, Hotel Inter-Continental Miami, 1221 Brickell Building, Avenue Southeast First Tower, Bay House Miami Residences, Art Plaza Tower 1, Art Plaza Tower 2, Miami-Dade County Courthouse, New World Tower, 4 Midtown, Grovenor House, Courts Brickell Key, Plaza Venetia Hotel, Miami Marriott Biscayne Bay, One Brickell Square, Brickell City Tower, MyBrickell, Tower at Two Midtown, Flagler on the River, Courthouse Tower, One Tequesta Point, Midtown Five, Grove at Grand Bay North Tower, Grove at Grand Bay South Tower, The Imperial, Overtown Transit Village South Tower, Hilton Miami Downtown, Park Grove Tower A, Park Grove Tower B, 22 Skyview, 2 MiamiCentral, Hyatt Regency Miami, Park Grove Tower C, Freedom Tower, Overtown Transit Village North Tower, One Bayfront Plaza, United States Federal Courthouse
+Tiers: I: 27, II: 60, III: 51, IV: 7
+Rating: 393 (12.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Houston ***
+Country: United States
+Region: North America
+176 towers: JPMorgan Chase Tower, Wells Fargo Plaza, Williams Tower, Bank of America Center, Heritage Plaza, Enterprise Plaza, 609 Main at Texas, Centerpoint Energy Plaza, 1600 Smith Street, Fulbright Tower, One Shell Plaza, 1400 Smith Street, Three Allen Center, LyondellBassell Tower, First City Tower, BG Group Place, San Felipe Plaza, ExxonMobil Building, 1500 Louisiana Street, America Tower, Two Houston Center, Capitol Tower, Marathon Oil Tower, 1415 Louisiana, KBR Tower, Memorial Hermann Tower, 2929 Weslayan, Pennzoil Place I, Pennzoil Place II, Devon Energy Center, RRI Energy Plaza, Total Plaza, Methodist Outpatient Care Center, The Huntington, Market Square Tower, El Paso Energy Building, One Park Place, The Post Oak, Hess Tower, 1500 Post Oak Boulevard, The O'Quinn Medical Tower at St. Luke's, 5 Greenway Plaza, Hanover River Oaks, Texas Children`s Hospital Expansion, 717 Texas Avenue, One Allen Center, Four Leaf Towers 1, Four Leaf Towers 2, 11 Greenway Plaza, 9 Greenway Plaza, Phoenix Tower, Memorial Hermann Medical Plaza, 712 Main Street, The Spires, Latitude Med Center, 1330 Post Oak Boulevard, M.D. Anderson Administrative Support Building, Niels Eperson Building, One City Centre, Bob Lanier Public Works Building, 2727 Kirby, Hyatt Regency Houston, The Mercer, Arabella, 1301 Fannin Street, Methodist Inpatient Hospital, The Parklane, Five Post Oak Park, Houston Police Dept. Headquarters, BP West Lake One, Harris County Civil Justice Center, Smith Tower at Methodist Hospital, 5 Houston Center, Aris Market Square, Marriott Marquis Houston, MD Anderson Cancer Center, 919 Milam, Lyric Center, Warwick Towers, The Royalton at River Oaks, Camden Post Oak, Montage, Mosaic 1, Amegy Tower, 3300 Main, Dominion at Post Oak, 1360 Post Oak Tower, Wells Fargo Tower, Hilcorp Energy Tower, UT Health Center, Two Shell Plaza, The Kirby Collection Residential Tower, Le Meridien Hotel, ParkWest Tower I, Wortham Tower, The Mark, Catalyst, Galleria Tower I, Post Oak, Sage Plaza, Montebello, Four Seasons Hotel, Capital One Plaza, One Riverway, Hanover Montrose, Holiday Inn, 4 Greenspoint Plaza, Magnolia Hotel - Houston, Harris County Criminal Justice Center, Hilton Americas Hotel, T. Boone Pickens Academic Tower, Astoria, St. Luke`s Episcopal Hospital, Three Post Oak Central, Two Post Oak Central, Travis Tower, Mickey Leland Federal Building, One Post Oak Central, City West Place 2, 500 Jefferson Building, Cosmopolitan, Feigin Center, Feigin Center West Tower, 600 Jefferson Street, Scurlock Tower, Briar Lake Plaza, Houstonian Condominiums, 3D International Tower, The Bristol, Commerce Towers, City West Place 1, Control Data Center, JW Marriott Houston Downtown, Greenway Condominiums Tower 1, Greenway Condominiums Tower 2, 3 Greenway Plaza, Wells Fargo Center, 5444 Westheimer Road, 363 North Belt Building, 2016 Main, Galleria Tower II, Houston House, Legacy at Memorial, Great Southwest Building, 3040 Post Oak Blvd., Four Westlake Park, 1800 West Loop South, 1001 McKinney Building, 5599 San Felipe Blvd., SkyHouse River Oaks, The Southmore, The Sovereign, 1010 Lamar St., SkyHouse Houston, Doubletree Guest Suites, Mellie Esperson Building, 3 Riverway, Bechtel Tower, Two Memorial City Plaza, Lamar Tower, Texas Children's Hospital Pavilion for Women, The St. James, Texas Children's Hospital Center for Clinical Care, Houston Marriott Medical Center, Hotel Alessandra, SkyHouse Main, Vantage Med Center, Three West Lake Park, Westin Galleria, JW Marriott Houston, 6565 MD Anderson Boulevard, Jan and Dan Duncan Neurological Research Institute, Two BriarLake Plaza, 5 Greenspoint Place, Museum Tower, 5000 Montrose Boulevard
+Tiers: I: 88, II: 50, III: 27, IV: 9, V: 2
+Rating: 366 (2.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** San Francisco ***
+Country: United States
+Region: North America
+138 towers: Salesforce Tower, Oceanwide Center Tower 1, Transamerica Pyramid Center, 181 Fremont, 555 California Street, 345 California Center, Millennium Tower, Oceanwide Center Tower 2, Park Tower at Transbay, One Rincon Hill South Tower, 101 California Street, 50 Fremont Center, The Avery, 575 Market Street, Four Embarcadero Center, One Embarcadero Center, 44 Montgomery, Spear Tower, One Sansome Street, One Rincon Hill North Tower, Shaklee Terrace Building, First Market Tower, McKesson Plaza, 425 Market Street, 706 Mission, Telesis Tower, 333 Bush Street, Hilton San Francisco Union Square, Pacific Gas & Electric Building, 50 California Street, 555 Mission Street, St. Regis San Francisco, 100 Pine Center, 45 Fremont Center, 333 Market Building, 650 California Street, 100 First Plaza, 340 Fremont Street, One California, San Francisco Marriott, 140 New Montgomery Street, Russ Building, Jasper, Mira, 505 Montgomery, The Infinity II, JPMorgan Chase Building, The Paramount, Providian Financial Building, Three Embarcadero Center, Two Embarcadero Center, 350 Mission Street, 595 Market Street, 123 Mission Building, Embarcadero Center West, 101 Montgomery Street, 100 Van Ness, Westin-St. Francis Hotel Tower, 399 Fremont, LUMINA I, Four Seasons Hotel & Residences, One Maritime Plaza, 8 Nema, 33 New Montgomery, 33 Tehama, 535 Mission Street, Shell Building, 456 Montgomery Street, 388 Market Street, The Westin San Francisco Market Street, 222 Second Street, San Francisco Hilton Hotel Financial District, 199 Fremont Street, Steuart Tower, 88 Kearny Street, 425 California Street, 100 Montgomery Street, Grand Hyatt San Francisco, 101 Second Street, Fox Plaza, 580 California Street, LUMINA II, The Infinity I, Parc 55 San Francisco, 601 California Street, Hilton San Francisco Union Square Tower II, 450 Sutter Street, 135 Main Street, The InterContinental San Francisco, 71 Stevenson Street, Bridgeview, 55 Second Street, Royal Towers Apartments, 150 California Street, San Francisco Marriott Union Square, Bechtel Building, 225 Bush Street, Fairmont San Francisco, Union Bank Building, 235 Pine Street, Hunter-Dulin Building, Central Plaza, W San Francisco, The Summit, Sir Francis Drake Hotel, 1455 Market Street, Bank of California Building, 353 Sacramento Street, Ritz Carlton Residence Club, Philip Burton Federal Building, 555 Market Street, McAllister Tower Apartments, Bank of America Center - Annex Building, One Bush Street, 301 Howard Street, PG&E Headquarters, Mark Hopkins Hotel, Trinity Place Building A, Mills Tower, Montgomery - Washington Tower, 299 Fremont, Hawthorne Plaza, Central Tower, Rincon Center East Tower, Rincon Center West Tower, 1200 California Apartments, Hobart Building, 475 Sansome Street, 555 Montgomery Street, 601 Montgomery Street, 100 Spear Street, Le Meridien San Francisco, 600 California Street, Hyatt Regency San Francisco, Two Transamerica Plaza, Cathedral Apartments, Nob Hill Community Apartments, 111 Pine Street
+Tiers: I: 52, II: 58, III: 22, IV: 5, V: 1
+Rating: 294 (6.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Los Angeles ***
+Country: United States
+Region: North America
+103 towers: Wilshire Grand Center, U.S. Bank Tower, Aon Center, Two California Plaza, Deloitte, Bank of America Plaza, 777 Tower, Wells Fargo Tower, Figueroa at Wilshire, City National Tower, Paul Hastings Tower, Oceanwide Plaza Tower I, The Ritz-Carlton Los Angeles, Metropolis Tower D, 825 South Hill, Citigroup Center, 611 Place, KPMG Tower, Century Plaza North Tower, Century Plaza South Tower, One California Plaza, Century Plaza Tower I, Century Plaza Tower II, Ernst & Young Plaza, AIG Sun-America Center, Oceanwide Plaza Tower II, Oceanwide Plaza Tower III, Hope+Flower Tower 1, TCW Tower, Union Bank Plaza, 10 Universal City Plaza, 1100 Wilshire, Fox Plaza, Constellation Place, Ten Thousand, The Century, Arco Tower, Equitable Life Building, City Hall, AT&T Center, Metropolis Tower C, AT&T Switching Center, Metropolis Tower B, 5900 Wilshire, Hope+Flower Tower 2, MCI Center, Circa Tower 1, Circa Tower 2, MTA Building, 1900 Avenue of the Stars, WaterMarke Tower, One Wilshire Building, 1120 South Grand Avenue, Westin Bonaventure Hotel, 801 Tower, 888 Olive, Mellon Bank Center, Roybal Federal Building, Beaudry Center, Blair House, 5670 Wilshire Boulevard, 10100 Santa Monica Boulevard, Wilshire at Westwood, Center West, Figueroa Tower, Grand Tower, Warner Center Plaza III, Atelier, KPMG Center, Bunker Hill Towers, City National Bank Building, 10960 Wilshire Boulevard, Century Park Plark Plaza, The Wilshire, Biltmore Tower, Wilshire Landmark I, 1000 Wilshire, Apex I, 888 Grand Hope Lofts , 1133 South Hope Street, World Savings Center, Eighteen Eighty Eight Building, The Tower, The Vermont West Tower, 6500 Wilshire Boulevard, Apex II, Sheraton Los Angeles Downtown Hotel, International Tower, The Carlyle on Wilshire, Barrington Plaza A, Sunset Vine Tower, 717 Olympic, Warner Center Plaza I, Sunset Media Tower, Warner Center Plaza VI, Figueroa Plaza I, Figueroa Plaza II, Hotel Indigo at Metropolis, Sunset and Gordon, Courtyard Los Angeles L.A. LIVE, City Hall East, The Grace on Spring, The Vermont East Tower
+Tiers: I: 32, II: 39, III: 21, IV: 9, V: 2
+Rating: 264 (14.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Philadelphia ***
+Country: United States
+Region: North America
+132 towers: Comcast Technology Center, Comcast Center, One Liberty Place, Two Liberty Place, BNY Mellon Bank Center, Three Logan, FMC Tower at Cira Centre South, G. Fred DiBona Jr. Building, The W Philadelphia and Element Philadelphia, Commerce Square #1, Commerce Square #2, The Residences at the Ritz-Carlton, 1818 Market Street, The St. James, Loews Philadelphia Hotel, PNC Bank Building, Centre Square II, Five Penn Center, The Murano, One South Broad, Cira Centre, Two Logan Square, 1700 Market Street, Evo at Cira Centre South, 1835 Market Street, Aramark Tower, Centre Square I, Wells Fargo Building, The Ritz-Carlton Philadelphia, 1706 Rittenhouse Square, One Logan Square, 2000 Market Street, 10 Rittenhouse Square, 1500 Locust Street, Aria, PECO Building, 1650 Arch Street, 500 Walnut, Academy House, The Drake, Symphony House, CHOP Research Tower, Penn Mutual Towers, The Alexander, Medical Tower Building, 2116 Chestnut, 1400 Spring Garden Street, Land Title Building Annex, 210 West Rittenhouse  Square, 400 North Broad Street, The Dorchester, 2400 Chestnut Street Apartments, The Packard Grande, 1919 Market, Sheraton Philadelphia Downtown Hotel, One Penn Center, The Regatta, One Penn Square West, Edison Building, 1845 Walnut Street, Marriott Residence Inn Hotel Center City Philadelphia, 1525 Locust Street, Hotel Palomar Philadelphia, 1500 Walnut Street, 3601 Market Street, Society Hill Towers I, Society Hill Towers II, Society Hill Towers III, ICON, Ten Penn Center, James A. Byrne - U.S. Federal Courthouse, 30 South 17th Street, Temple University - Morgan Hall North, Hopkinson House, 1528 Walnut Street, 1800 JFK Boulevard, 1880 JFK Boulevard, 1213 Walnut, Wanamaker House, The Peninsula, Rittenhouse 222, U.S. Custom House, Rittenhouse Claridge, Kennedy House, Eight Penn Center, The Phoenix, 3737 Chestnut, 1234 Market Street, Sonesta Philadelphia Downtown Rittenhouse Square, River Park House, Four Penn Center, The Summit at University City, 220 Rittenhouse Square Apartments, The Sterling Apartments, William Penn House, Atlantic Building, Hyatt at the Bellevue, One Franklin Plaza, 1500 Walnut Street Annex, Center City One, 1515 Market Street, Two Penn Center Plaza, Seven Penn Center, Rothenberg Tower, Embassy Suites Philadelphia - Center City, North American Building, Three Parkway, 3535 Market Street, Municipal Services Building, 230 South Broad Street, The Barclay, The Chancellor Apartments, Cityview Condominiums 2, The Metropolitan, DoubleTree by Hilton Hotel Philadelphia Center City, 1930 Chestnut Street, Widener Building, Daniel J. Terra Building, One Parkway, Hahnemann University Hospital New College Building H, Hyatt Regency Philadelphia at Penn's Landing, The Watermark at Logan Square, Hahnemann University Hospital North Tower, Harnwell College House, Harrison College House, Rodin College House, Philadelphia Marriott Downtown, Adelphia House, 1631 Arch Street, The Courtyard Apartments at Riverview, One Independence Place, The Rittenhouse Plaza
+Tiers: I: 85, II: 33, III: 7, IV: 6, V: 1
+Rating: 223 (1.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Seattle ***
+Country: United States
+Region: North America
+103 towers: Columbia Center, Rainier Square Tower, 1201 Third Avenue Tower, Two Union Square, Seattle Municipal Tower, The Mark, Safeco Plaza, City Centre, Russell Investments Center, Wells Fargo Center, Madison Centre, Bank of America Fifth Avenue Plaza, 901 Fifth Avenue, Amazon Tower I, Hyatt Regency Seattle, Amazon Tower II, Amazon Tower III, Rainier Tower, Fourth and Madison Building, 1918 8th Avenue, 2&U, 1000 Second Avenue, Henry M. Jackson Federal Building, Qwest Plaza, Smith Tower, One Union Square, Olive 8, Eleven-Eleven Third Avenue, Westin Seattle North Tower, 2nd and Pine, Premier on Pine, AMLI Arc Tower, Spire, Fifteen Twenty-One Second Avenue, Arrive, Stratus, Kiara, Nexus, Cirrus, 2nd & Pike Tower, Kinects, Insignia North Tower, Insignia South Tower, The Emerald, McKenzie, 1120 Denny Way North Tower, 1120 Denny Way South Tower , Westin Building, Aspira Apartments, Westin Seattle South Tower, United States Federal Courthouse, Unigard Financial Center, Tower 12, Century Square, Sheraton Seattle Hotel, 520 Pike Tower, West 8th, Escala, Crowne Plaza Hotel Downtown Seattle, Continental Place, First Hill Plaza, Westlake Center, Fourth & Blanchard Building, Cielo, Cosmopolitan, University of Washington Plaza, Renaissance Seattle Hotel, Midtown21, W Hotel, Seattle Tower, Second & Seneca Building, Metropolitan Tower, Pacific Building, The Olivian, Hilton Seattle, Elliott Grand Hyatt Seattle, Metropolitan Park East, IBM Building, Ascent South Lake Union, Park Place, Millennium Tower, The Wave, Plaza 600, Harbor Steps Southeast, Via6 North Tower, Via6 South Tower, Seattle Sheraton Union Street Tower, Grandview Condominiums, Centennial Tower and Court, Metropolitan Park West, One Pacific Tower, Arbor Place Tower, Dimension, Second & Wall, The Martin, Cabrini Medical Tower, Fifth and Madison, Meridian, Royal Crest Condominiums, Bay Vista Tower, Market Place Tower, Medical Dental Building, Washington Athletic Club
+Tiers: I: 42, II: 39, III: 17, IV: 5
+Rating: 218 (12.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Atlanta ***
+Country: United States
+Region: North America
+83 towers: Bank of America Plaza, SunTrust Plaza, One Atlantic Center, 191 Peachtree Tower, Westin Peachtree Plaza, Georgia Pacific Tower, Promenade II, AT&T Building, Sovereign, 1180 Peachtree, GLG Grand-Four Seasons, The Mansion on Peachtree, The Atlantic, State of Georgia Building, Marriott Marquis Hotel, Icon Midtown, Viewpoint, Twelve Centennial Park Tower I, 1075 Peachtree Office Tower, Park Avenue Condominiums, Terminus 100, Paramount at Buckhead, 3630 Peachtree Road, Centennial Tower, Equitable Building, Spire, Buckhead Grand, One Park Tower, 1100 Peachtree, Atlanta Plaza I, Park Place on Peachtree, Icon Buckhead, 2828 Peachtree Luxury Condominiums, 10 Terminus Place, 1280 West, 1010 Peachtree, Peachtree Summit #1, One Coca-Cola Plaza, Tower Place 100, 999 Peachtree, Two Alliance Center, Mayfair Renaissance, 171 17th Street, Coda at Tech Square, Sam Nunn Federal Center, Loews Midtown, Monarch Tower, Atlanta Hilton Hotel, Russell Federal Building, Harris Tower, 230 Peachtree Building, AT&T Communications Building, Marquis I, Marquis II, 25 Park Place, Coastal States Insurance Building, Peachtree Center International Tower, BB&T Tower, One Georgia Center, Mayfair Tower Condominiums, Terminus 200, The Campanile, Atlantic House, Resurgens Plaza, Three Alliance Center, The Proscenium , Hyatt Regency Atlanta, Twelve Atlantic Station, The Grandview, Peachtree Center South, W Downtown Atlanta Hotel & Residences, Peachtree Center North, Colony Square 100, W Atlanta-Midtown, Omni Hotel CNN Center Expansion, Museum Tower at Centennial Hill, Colony Square 400, Atlanta Center Building, Merchandise Mart, Georgia Power Company Headquarters, Aqua Midtown, Grady Memorial Hospital, SkyHouse South
+Tiers: I: 18, II: 48, III: 11, IV: 5, V: 1
+Rating: 196 (2.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dallas ***
+Country: United States
+Region: North America
+94 towers: Bank of America Plaza, Renaissance Tower, Comerica Bank Tower, JPMorgan Chase Tower, Fountain Place, Trammel Crow Center, 1700 Pacific, Thanksgiving Tower, Energy Plaza, Elm Place, Gables Republic Tower, Republic Center Tower II, One AT&T Plaza, Ross Tower, AMLI Fountain Place, Tower at Cityplace, Museum Tower, Sheraton Dallas Hotel Central Tower, Mercantile Building, Bryan Tower, Harwood Center, KPMG Centre, 2100 Ross, Renaissance Dallas Hotel, Sheraton Dallas Hotel North Tower, One Dallas Center, One Main Place, W Dallas Victory Hotel & Residences, 1600 Pacific Tower, Mosaic I, 2101 North Pearl Tower I, Magnolia Building, Katy Station, Azure, Bleu Ciel, Three AT&T Plaza, The House, AC Hotel/Residence Inn Downtown Dallas, The Christopher at the Union, Three Galleria Tower, Sheraton Dallas Hotel South Tower, Hyatt Hotel, Main Tower, Saint Ann Court, One Galleria Tower I, Victory Place, Adolphus Tower, Park Central III, Bell Telephone Building, Two Galleria Tower, Occidental Tower, Davis Building, Manor House, Preston Tower, Anatole Hotel, 2101 North Pearl Tower II, Cambria Downtown Dallas, The Union Dallas, Adolphus Hotel, Cirque, 1900 McKinney, Tower Residences at the Ritz-Carlton, Fairmont Hotel, City Walk, Mayfair @ Turtle Creek, M & W Tower, Sante Fe Building, Two Turtle Creek Village, Texas Capital Bank Building, KPMG Plaza, Omni Dallas Hotel, Corrigan Tower, Frost Tower, Mosaic Dallas, Rosewood Court, The Tower at Park Lane, Crowne Plaza Hotel Dallas, St. Paul Tower, 400 Record Street, Doubletree Hotel Campbell Center, SkyHouse Dallas, Crescent Office Complex, Building 200, Earle Cabell Federal Building, Stemmons Place, Campbell Center I, Campbell Center II, 2828 North Harwood, Lakeside Square, Galleria North I, The Vendome, Federal Reserve Bank, Claridge Condominiums, Kirby Building, 211 North Ervay
+Tiers: I: 53, II: 21, III: 15, IV: 5
+Rating: 185 (2.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Boston ***
+Country: United States
+Region: North America
+76 towers: 200 Clarendon, Prudential Tower, Four Seasons Hotel and Private Residences One Dalton Street, Winthrop Center, Millennium Tower, Federal Reserve Building, BNY Mellon Center at One Boston Place, One International Place, 100 Federal Street, One Financial Center, 111 Huntington Avenue, Two International Place, One Post Office Square, One Federal Street, One Congress Street Tower 1, Exchange Place, Sixty State Street, One Beacon Street, State Street Financial Center, 28 State Street, Marriott's Custom House, John Hancock Building, 33 Arch Street, 225 Franklin Street, Millennium Place Tower 1, Atlantic Wharf, High Street Tower, 100 Summer Street, Millennium Place Tower 2, Nashua Street Residences, Keystone Building, Harbor Towers I, One Devonshire Place, Harbor Towers II, Westin Hotel at Copley Place, 100 High Street, 75 State Street, John F. Kennedy Federal Building, Boston Marriott Copley Place, 101 Federal Street, Four Longfellow Place, One Longfellow Place, Pierce Boston, 177 Huntington, 45 Province Street, 500 Boylston Street, 50 Post Office Square, Federal Building & J.W. McCormack Post, AVA Theatre District Tower, The Clarendon, 101 Huntington Avenue, Suffolk County Courthouse, 888 Boylston Street, 260 Franklin Street, McCormack Building, Avalon Exeter, Leverett Saltonstall Building, 125 Summer Street, 222 Berkeley Street, Ellison Building, W Boston Hotel and Residences, Radian Apartments, Oliver Street Tower, The Landmark, 50 Milk Street, InterContinental Boston, 30 Dalton, 99 Summer Street, The Tree House Residence Hall at Massachusetts College of Art and Design, 101 Arch Street, 660 Washington Apartments, Tremont on the Common, State Street Trust Building, 121 Seaport Boulevard, 100 Northern Avenue, One Marina Park Drive
+Tiers: I: 29, II: 25, III: 19, IV: 3
+Rating: 173 (8.1% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Honolulu ***
+Country: United States
+Region: North America
+93 towers: First Hawaiian Center, The Collection, Moana Pacific East Tower, Moana Pacific West Tower, Keola Lai, Waihonua at Kewalo, Hokua at 1288 Ala Moana, Pacifica Honolulu, The Waiea, Nauru Tower, Ko'olani, 801 South Street Building A, 801 South Street Building B, Symphony Honolulu, Hawaiki Tower, One Waterfront Tower - Makai, One Waterfront Tower - Mauka, One Archer Lane, Imperial Plaza, Keauhou Place, Anaha, Grand Islander Tower, Ala Moana Hotel, Aqua Skyline at Island Colony, Century Square, 1132 Bishop Street, Hyatt Regency Waikiki Diamond Head Tower, Hyatt Regency Waikiki Ewa Tower, Executive Center, 1100 Alakea Plaza, Harbor Court, Century Center, Endeavor Condominium, Resolution Condominium, Tapa Tower, The Pinnacle Honolulu, Capitol Place, The Watermark Waikiki, The Windsor, Honolulu Park Place, Waikiki Beach Tower, Franklin Towers, Canterbury Place, Honolulu Tower, Royal Kuhio, Ohana Maile Sky Court, 2121 Ala Wai Boulevard, Pacific Beach Hotel, Oceanarium Tower, Grand Waikikian, Trump International Hotel Waikiki Beach Walk, Pauahi Tower, Iolani Court Plaza, Royal Capitol Plaza, Hawaiian Monarch Hotel, Royal Iolani Diamond Head Tower, Royal Iolani Ewa Tower, Makai Tower, Mauka Tower, Hale Kaheka, Yacht Harbor Tower II, Regency Tower, The Aqua Waikiki Marina Towers, Waikiki Banyan Mauka Tower, Yacht Harbor Tower I, The Ritz-Carlton Residences Waikiki Beach, Pacific Tower, Chateau Waikiki, Hawaii Prince I, Hawaii Prince II, Nine O Nine Kapiolani, Waipuna Apartments, Waikiki Banyan Makai Tower, Waikiki Sunset, Contessa Apartments, Paoakalani Tower, The Villa on Eaton Square, Ala Wai Plaza Skyrise, Marco Polo Residences, Banyan Tree Plaza, Admiral Thomas Condominiums, Waikiki Landmark, Allure Waikiki, Kalia Tower, Kukui Plaza Diamond Ewa Tower, Kukui Plaza Diamond Head Tower, Aqua Pacific Monarch Hotel, Lanikea at Waikiki, Ala Moana Building, Rainbow Tower, City Financial Tower, Aloha Lani Condominiums, Kealohilani Tower, Foster Tower
+Tiers: I: 26, II: 67
+Rating: 160
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Las Vegas ***
+Country: United States
+Region: North America
+62 towers: Resorts World Las Vegas Tower I, The Palazzo, Encore, Trump International Hotel & Tower 1, Wynn Las Vegas, Cosmopolitan Casino Spa Tower, Cosmopolitan Casino Beach Club Tower, Aria Resort & Casino, Planet Hollywood Towers, VDARA, Mandarin Oriental Hotel Las Vegas, New York New York Hotel & Casino, Palms Place, Bellagio Resort & Casino, Sky Las Vegas, THEHotel, Panorama Tower III, Mandalay Bay Hotel & Casino, Turnberry Place I, Turnberry Place II, Turnberry Place III, Turnberry Place IV, The Signature at MGM Grand Tower I, The Signature at MGM Grand Tower II, The Signature at MGM Grand Tower III, Venetian Resort-Hotel-Casino, Allure Las Vegas Tower I, Palms Fantasy Tower, Turnberry Towers - East Tower, Turnberry Towers - West Tower, Veer Towers East, Veer Towers West, Caesars Palace Tower, Palms Casino Hotel, Rio Masquerade Tower, Panorama Tower I, Panorama Tower II, Hilton Grand Vacations Club II, Fitzgeralds Casino & Hotel, Bellagio Spa Tower, Planet Hollywood Las Vegas, Las Vegas Hilton, Treasure Island Hotel & Casino, Paris Las Vegas, Augustus Tower, Bally's North Tower, Bally's South Tower, Monte Carlo Las Vegas, Luxor Pyramid, Octavius Tower, Harrah's Las Vegas - Carnaval Tower, Circus Circus West Tower, The Mirage, Newport Lofts, Circus Circus Skyrise Tower, Hilton Grand Vacations Club I, MGM Grand Resort & Casino, The Plaza South Tower, The Plaza North Tower, Golden Nugget Rush Tower, Excalibur Tower I, Excalibur Tower II
+Tiers: I: 11, II: 36, III: 15
+Rating: 143 (2.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jersey City ***
+Country: United States
+Region: North America
+49 towers: 99 Hudson Street, 30 Hudson Street, Journal Squared 1, Jersey City Urby, Journal Squared 3, 101 Hudson Street, Trump Plaza Residences, Newport Tower, 70 Columbus, 90 Columbus, Exchange Place Center, Hudson Greene East Tower, Hudson Greene West Tower, Trump Bay Street, Harborside Plaza 5, 480 Washington Boulevard, The Monaco North Tower, The Monaco South Tower, M2, Ellipse, 33 Park Avenue Tower A, Crystal Point, Marbella Apartments, Park | Shore, 50 Columbus, Hudson Exchange West, The Morgan at Provost Square, Liberty View Towers West, Liberty View Towers East, The One, A Condominiums, Southampton Apartments, The Atlantic, Aquablu, 100 Clifton Place, East Hampton, The Riverside, The James Monroe, International Financial Tower, The Rialto, The James Madison, The Thomas Jefferson, The Orpheum, The Capital, The Paramount, One Evertrust Plaza, Mercury Lofts, The Westin Jersey City Newport, The Shore North
+Tiers: I: 18, II: 18, III: 9, IV: 4
+Rating: 114 (12.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Denver ***
+Country: United States
+Region: North America
+46 towers: Republic Plaza, 1801 California Plaza, Wells Fargo Center, Four Seasons Hotel & Private Residences, 1144 Fifteenth, 1999 Broadway, 707 17th Street, 555 17th Street, Hyatt Regency Denver at the Colorado Convention Center, Spire, 1670 Broadway, 17th Street Plaza, First Interstate Tower North, Brooks Towers, Denver Place South Tower, One Tabor Center, Johns Manville Plaza, Granite Tower, The Ritz-Carlton, US Bank Tower, 621 17th Street, 1600 Glenarm Place, Denver Financial Center Tower 1, One Lincoln Park, Dominion Plaza, Lincoln Center, 1125 17th Street, World Trade Center II, United Western Financial Center, The Confluence, 1600 Broadway, The Curtis – a Doubletree, 1800 Larimer, Larimer Place, 410 Building, World Trade Center I, 1001 17th Street, Country Club Tower East, Country Club Tower West, Daniels & Fisher Tower, Mile High Tower, SkyHouse Denver, Denver Place North Tower, Glass House North, Glass House South, 1709 Chestnut
+Tiers: I: 14, II: 24, III: 5, IV: 3
+Rating: 100
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Minneapolis ***
+Country: United States
+Region: North America
+50 towers: IDS Center, Capella Tower, Wells Fargo Center, 33 South 6th Street, Campbell Mithun Tower, US Bank Plaza I, RBC Plaza, Fifth Street Towers II, Ameriprise Financial Center, Target Plaza South, Plaza VII, The Carlyle, U.S. Bancorp Center, AT&T Tower, Accenture Tower, W Minneapolis - The Foshay, CenturyLink Building, Hennepin County Government Center, Fifty South Sixth, Marriott Hotel City Center, LaSalle Plaza, Canadian Pacific Plaza, LPM Apartments, McKnight Tower Apartments, Fifth Street Towers I, 100 Washington Square, 365 Nicollet, Marquette Place, US Bank Plaza II, McGladrey Plaza, The Churchill, 4Marq, La Rive Condominiums, Rand Tower, One Ten Grant, Hotel Ivy + Residences, The Expo, Grant Park Tower, US Federal Courthouse, Rafter, Nic on Fifth, The Falls and the Pinnacle, Loring Green East, The Hub, Loews Minneapolis Hotel, River Towers B, Thrivent Financial Building, 701 Building, Soo Line Building, Cedar Hi Apartments
+Tiers: I: 25, II: 16, III: 6, IV: 3
+Rating: 99 (3.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Pittsburgh ***
+Country: United States
+Region: North America
+46 towers: U.S. Steel Tower, BNY Mellon Center, One PPG Place, Fifth Avenue Place, One Oxford Centre, Gulf Tower, The Tower at PNC Plaza, Cathedral of Learning, Three Mellon Center, K & L Gates Center, Grant Building, Koppers Building, Two PNC Plaza, EQT Plaza, One PNC Plaza, Regional Enterprise Tower, Federated Tower, Westinghouse Tower, Henry W. Oliver Building, Three PNC Plaza, Three Gateway Center, Center City Tower, William S. Moorhead Federal Building, Verizon Building, AT&T Building, Frick Building, Four Gateway Center, Midtown Towers, Omni William Penn Hotel, Clark Building, The Carlyle, Commonwealth Building, Gateway Towers The Condominium, The Westin Convention Center, Pittsburgh, Lawyers Building, One Gateway Center, Two Gateway Center, Trimont Plaza, Chamber of Commerce Building, Lawrence Hall, 625 Stanwix Tower, Allegheny Building, Investment Building, Arrott Building, Benedum-Trees Building, Law and Finance Building
+Tiers: I: 28, II: 8, III: 8, IV: 2
+Rating: 88
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Detroit ***
+Country: United States
+Region: North America
+44 towers: Detroit Marriott at the Renaissance Center, One Detroit Center, Penobscot Building, Renaissance Center 100 Tower, Renaissance Center 200 Tower, Renaissance Center 300 Tower, Renaissance Center 400 Tower, Guardian Building, Book Tower, 150 West Jefferson, Fisher Building, Cadillac Tower, David Stott Building, One Woodward Avenue, McNamara Federal Building, DTE Energy Plaza, Broderick Tower Lofts, 211 West Fort Street, Buhl Building, Westin Book-Cadillac Detroit, Greektown Casino Hotel, First National Building, AT&T Building, Renaissance Center 500 Tower, Renaissance Center 600 Tower, 1001 Woodward, Renaissance City Club Apartments, AT&T Annex, Chrysler House, Coleman A. Young Municipal Center, 1300 Lafayette East Coop, Penobscot Building Addition, Blue Cross Blue Shield of Michigan Building, Jeffersonian Apartments , Riverfront Towers - Tower 200, Riverfront Towers - Tower 300, Detroit Executive Plaza, Ford Building, David Whitney Building, Detroit City Apartments, Water Board Building, Riverfront Towers - Tower 100, Washington Boulevard Apartments, Grand Park Centre
+Tiers: I: 23, II: 13, III: 7, IV: 1
+Rating: 83
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sunny Isles Beach ***
+Country: United States
+Region: North America
+29 towers: Turnberry Ocean Club, Muse, Residences by Armani Casa, Mansions at Acqualina, The Ritz-Carlton Residences, Porsche Design Tower, Jade Signature, Jade on the Beach, Trump Palace, Acqualina Resort & Spa, Trump Royale, Jade Ocean, Regalia, The Pinnacle, Trump Towers I, Trump Towers II, Trump Towers III, Chateau Beach Residences, La Perla Ocean Residences, Turnberry Ocean Colony North Tower, Turnberry Ocean Colony South Tower, Ocean Two Condominiums I, Ocean Two Condominiums II, Ocean Three Condominiums, Ocean 4, The Millennium, Trump International Beach Resort, Sayan Condominium, Le Meridien Sunny Isles Beach
+Tiers: I: 2, II: 15, III: 12
+Rating: 80 (15.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** San Diego ***
+Country: United States
+Region: North America
+36 towers: One America Plaza, Symphony Towers, Manchester Grand Hyatt Hotel, Pinnacle on the Park Tower 1, Pinnacle on the Park Tower 2, Electra, The Pinnacle Marina Tower, Pacific Gate by Bosa, Emerald Plaza, Manchester Grand Hyatt Seaport, Harbor Club East, Harbor Club West, Vantage Pointe Condominium, The Grande North at Santa Fe Place, The Grande South at Santa Fe Place, Savina by Bosa, First Allied Plaza, Ballpark Village, Bayside at the Embarcadero, Union Bank of California Building, The Superior Court of California - San Diego , Hilton San Diego Bayfront, The Mark, First National Bank Center, Sapphire Tower, Omni San Diego Hotel and The Metropolitan, Meridian Condominiums, San Diego Marriott Marquis & Marina Tower 1, San Diego Marriott Marquis & Marina Tower 2, Imperial Bank Tower, Executive Complex, AT&T Building, Comerica Bank Building, U.S. Federal Courthouse, Wells Fargo Plaza, Gas and Electric Building
+Tiers: I: 4, II: 29, III: 3
+Rating: 74 (5.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Austin ***
+Country: United States
+Region: North America
+38 towers: The Independent, The Austonian, Fairmont Austin, 360 Condominiums, Frost Bank Tower, W Austin Hotel & Residences, Fifth & West, Spring, Northshore, The Bowie, 70 Rainey, Ashton, JW Marriott Convention Hotel, Four Seasons Residences Austin, One American Center, 500 West 2nd Street, One Congress Plaza, Austin Proper, Colorado Tower, Third + Shoal, Austin Hilton Covention Center Hotel, Seaholm Residences, Windsor on the Lake, Bank of America Center, Aloft Austin Downtown and Element Austin Downtown, 300 West 6th Street, Chase Bank Tower, The Monarch, 100 Congress Avenue, San Jacinto Center, University of Texas Tower, Dobie Center, 301 Congress Avenue, Hotel ZaZa & Apartments, SkyHouse Austin, Seven, Westgate Tower, The Shore
+Tiers: I: 17, II: 16, III: 5
+Rating: 69 (15.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Charlotte ***
+Country: United States
+Region: North America
+34 towers: Bank of America Corporate Center, Duke Energy Center, Hearst Tower, Legacy Union, One Wells Fargo Center, The Vue, Bank of America Plaza, 1 Bank of America Center, 300 South Tryon, 121 West Trade, Three Wells Fargo Center, Fifth Third Center, Two Wells Fargo Center, Avenue, 400 South Tryon, Carillon Tower, Charlotte Plaza, Catalyst, 525 North Tryon, TradeMark, First Citizens Plaza, The Arlington, Skye Building, 101 Independence Center, BB&T Center, 200 South Tryon Street, NASCAR Plaza, The Westin Charlotte, 112 Tryon Plaza, Midtown Plaza, SkyHouse Uptown North Tower, SkyHouse Uptown South Tower, 615 South College, 129 West Trade Street
+Tiers: I: 17, II: 10, III: 5, IV: 2
+Rating: 69 (5.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Baltimore ***
+Country: United States
+Region: North America
+33 towers: Transamerica Tower, Bank of America Building, 414 Light Street, William Donald Schaefer Tower, Commerce Place, Baltimore Marriott Waterfront Hotel, 100 East Pratt Street, World Trade Center, Embassy Suites by Hilton, Charles Towers South Apartments, One Light Street, Blaustein Building, 250 West Pratt Street, Towers at Harbor Court, Four Seasons Baltimore & Residences, St. Paul Plaza, Exelon Tower, 201 North Charles Street Building, Charles Towers North Apartments, Legg Mason Tower, The Gallery at Harborplace, 414 Water Street, HarborView Condominium, Charles Center South, Wells Fargo Tower, M & T Bank Building, The Vue Harbor East, Mary Catherine Bunting Building at Mercy Medical Center, Emerson Tower, Mercy Medical Center Inpatient Tower, 750 East Pratt Street, One Charles Center, First National Bank Building
+Tiers: I: 13, II: 16, III: 4
+Rating: 61 (3.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cleveland ***
+Country: United States
+Region: North America
+24 towers: Key Tower, Terminal Tower, 200 Public Square, Tower at Erieview, One Cleveland Center, Fifth Third Center, Carl B. Stokes Federal Courthouse, Justice Center, Federal Building, PNC Center, The Metropolitan at the 9, Playhouse Square Tower, Hilton Cleveland, Ohio Bell Huron Building, Rhodes Tower, Eaton Center, Cleveland Marriott Downtown at Key Center, Beacon, McDonald Investment Center, 55 Public Square, Huntington Bank Building, North Point Tower, Ernst & Young Building, One University Circle
+Tiers: I: 8, II: 12, III: 2, IV: 2
+Rating: 52 (5.8% uncompleted)
+Scraped on: 2019-Jan-21 23:13:12
+
+*** St. Louis ***
+Country: United States
+Region: North America
+34 towers: One Metropolitan Square, AT&T Center, Thomas Eagleton Federal Courthouse, One US Bank Plaza, Laclede Gas Building, Southwestern Telephone Building, Civil Courts Building, Bank of America Plaza, One Hundred, 600 Washington, One Cardinal Way, Park East Tower, Park Plaza Apartments, Roberts Tower at Mayfair Plaza, 1010 Market Street, Millennium Hotel Tower I, Four Seasons Hotel St. Louis, Crowne Plaza St. Louis, Mansion House Apartments, The Gentry's Landing, Continental Life Building, 500 Broadway Building, Hilton - St. Louis at the Ballpark East Tower, Council House East, Railway Exchange Building, Bank of America Tower, Equitable Building, Park Pacific, KMOV Gateway Tower, Queeny Tower, Barnes-Jewish Hospital South, Saint Louis Place, Desloge Towers, Millennium Center
+Tiers: I: 24, II: 7, III: 3
+Rating: 50 (6.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Columbus ***
+Country: United States
+Region: North America
+26 towers: Rhodes State Office Tower, Leveque Tower, William Green Building, Huntington Center, Vern Riffe Center for Govermnment and the Arts, One Nationwide Plaza, Franklin County Courthouse, AEP Building, Borden Building, Three Nationwide Plaza, One Columbus Center, Columbus Center, Capitol Square, Continental Center, PNC Bank Building, Miranova Condominiums, Fifth Third Center, Franklin County Municipal Court, Motorists Mutual Building, Midland Building, The Condominiums at North Bank Park, Lincoln Tower, Morrill Tower, Key Bank Building, Renaissance Columbus Downtown Hotel, Sheraton Columbus Hotel at Capitol Square
+Tiers: I: 12, II: 9, III: 5
+Rating: 50
+Scraped on: 2019-Jan-21 23:13:19
+
+*** New Orleans ***
+Country: United States
+Region: North America
+22 towers: One Shell Square, Capital One Tower, Plaza Tower, Energy Centre, First Bank & Trust Tower, Sheraton New Orleans, New Orleans Marriott, Texaco Center, One Canal Place, 1010 Common, World Trade Center New Orleans, Benson Tower, 225 Baronne Street, Hyatt Regency New Orleans, Entergy Tower, Capitol One Bank Building, 1250 Poydras Plaza, 1515 Poydras, Hilton New Orleans Riverside, 200 Carondelet, Harrah`s New Orleans - Poydras Street Hotel, Medical Center of Louisiana Charity Hospital
+Tiers: I: 6, II: 12, III: 3, IV: 1
+Rating: 48
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Nashville ***
+Country: United States
+Region: North America
+27 towers: AT&T Building, 505, Fifth Third Center, William R. Snodgrass Tennessee Tower, Bridgestone Americas Tower, The Pinnacle at Symphony Place, Nashville Life & Casualty Tower, Nashville City Center, James K. Polk State Office Building, JW Marriott Nashville, Renaissance Nashville Hotel, Viridian, One Nashville Place, UBS Tower, SoBro, 222 2nd Avenue South, Westin Music City, Sheraton Nashville Downtown, 4th and Church Building, Bank of America Plaza, Skyhouse Nashville, Andrew Jackson State Office Building, Omni Nashville Hotel, Twelve | Twelve, The Cumberland Apartments, Palmer Plaza, Encore Condominiums
+Tiers: I: 13, II: 12, III: 2
+Rating: 45
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Cincinnati ***
+Country: United States
+Region: North America
+20 towers: Great American Tower at Queen City Square, Carew Tower, PNC Tower, Scripps Center, Fifth Third Center, Center 600 Vine, Chemed Center, Hilton Cincinnati Netherland Plaza, Chiquita Center, PNC Center, Atrium Two, US Bank Tower/Westin Hotel, Millennium Hotel Cincinnati, 36 East Seventh Street, Kroger Building, Macy's Building, 525 Vine Center, Edgecliff Point Condos, Crown Plaza Cincinnati, Atrium One
+Tiers: I: 7, II: 10, III: 3
+Rating: 39
+Scraped on: 2019-Jan-21 23:13:06
+
+*** Miami Beach ***
+Country: United States
+Region: North America
+21 towers: Blue Diamond Tower, Green Diamond Tower, Akoya Condominiums, Portofino Tower, Continuum on South Beach, South Tower, Fontainebleau Tower Suites, ICON at South Beach, Continuum on South Beach, North Tower, Murano Grande at Portofino, Murano at Portofino, The Carillon Hotel & Spa North Tower, The Setai Hotel and Residences, The Waverly at South Beach, La Gorce Palace, The Yacht Club at Portofino, Flamingo Resort Residences III, The Floridian, Apogee South Beach, Bentley Bay Condominium South Tower, MEi Miami Beach Ocean Front, The Carillon Hotel & Spa South Tower
+Tiers: I: 8, II: 11, III: 2
+Rating: 38
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Atlantic City ***
+Country: United States
+Region: North America
+22 towers: Revel Resort and Casino, Harrah`s Waterfront Tower, Trump Taj Mahal - Chairman Tower, The Water Club at Borgata, Borgata Hotel & Casino, Trump Taj Mahal Casino Hotel, Bally`s Atlantic City, Claridge Tower at Bally`s, Ocean Club Condominiums - East Tower, Ocean Club Condominiums - West Tower, Tropicana Casino & Resort Atlantic City - Havana Tower, Trump Plaza Hotel, Wyndham Atlantic City at Skyline Tower, Tropicana Casino & Resort Atlantic City - West Tower, Harrah's Bayview Tower, Ramada Renaissance, Caesars Atlantic City Centurion Tower, Fantasea Resort Flagship, Bella Condominiums, Atlantic City Hilton, Showboat Atlantic City, Tropicana Casino & Resort Atlantic City - North Tower
+Tiers: I: 12, II: 8, III: 1, IV: 1
+Rating: 38
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Milwaukee ***
+Country: United States
+Region: North America
+21 towers: U.S. Bank Center, Northwestern Mutual Tower and Commons, 100 East Wisconsin, University Club Tower, Milwaukee Center, 411 East Wisconsin Center, 7Seventy7, Kilbourn Tower, Northwestern Mutual Tower, The Moderne, BMO Harris Financial Center, AT&T Center, Chase Tower, BMO Harris Bank Building, Hilton Milwaukee City Center, Potawatomi Hotel & Casino, Potawatomi Hotel & Casino, The BreakWater, St. John`s on the Lake, Wisconsin Gas Building, Landmark on the Lake
+Tiers: I: 11, II: 7, III: 3
+Rating: 37 (2.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tulsa ***
+Country: United States
+Region: North America
+19 towers: BOK Tower, Cityplex Central Tower, First Place Tower, Mid-Continent Tower, Bank of America Center, 320 South Boston Building, 110 West 7th Building, University Club Towers, Cityplex West Tower, Philtower, Williams Center Tower II, One Warren Place, Two Warren Place, One Place Tower, Liberty Towers, Boulder Towers, The Mayo Hotel, First National Bank Building, Cityplex East Tower
+Tiers: I: 10, II: 5, III: 4
+Rating: 36
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Indianapolis ***
+Country: United States
+Region: North America
+19 towers: Salesforce Tower, One America Tower, One Indiana Square, Market Tower, 300 North Meridian, BMO Plaza, JW Marriott Indianapolis Downtown, City-County Building, 101 West Ohio, 360 Market Square, AT&T Building, Capital Center South Tower, Hilton Indianapolis, Riley Towers I, Riley Towers II, Conrad Indianapolis & Residences, AT&T 220 Building, Market Square Center, Hyatt Regency Indianapolis-PNC Center
+Tiers: I: 10, II: 6, III: 2, IV: 1
+Rating: 36
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tampa ***
+Country: United States
+Region: North America
+17 towers: Regions Building, Bank of America Plaza, One Tampa City Center, Suntrust Financial Center, Element, Park Tower, Rivergate Tower, SkyPoint, Sam Gibbons Federal Courthouse, Hillsborough County Center, Tampa Marriott Waterside Hotel & Marina, Wells Fargo Center, Nine15, Franklin Exchange Building, Southtrust Building, SkyHouse Channelside, One Mack-Cali Center
+Tiers: I: 7, II: 6, III: 4
+Rating: 35
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kansas City ***
+Country: United States
+Region: North America
+18 towers: One Kansas City Place, Town Pavilion, Kansas City Power & Light Building, 909 Walnut, City Hall, Sheraton Kansas City Hotel at Crown Center, 1201 Walnut, Commerce Tower, City Center Square, Oak Tower, Mutual Benefit Life Building, 2555 Grand Avenue, AT&T Longlines Building, Bryant Building, San Francisco Tower, One Light, Kansas City Convention Center Loews, Two Light
+Tiers: I: 7, II: 9, III: 2
+Rating: 33 (3.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Portland ***
+Country: United States
+Region: North America
+15 towers: Wells Fargo Center, Park Avenue West, U.S. Bancorp Tower, KOIN Center, Pacwest Center, Fox Tower, Standard Insurance Center, Edith Green-Wendell Wyatt Federal Building, Cosmopolitan on the Park, The John Ross Tower, Mirabella, The Ardea, Multnomah County Central Courthouse, Twelve West, Broadway Tower
+Tiers: I: 7, II: 4, III: 4
+Rating: 31 (6.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Phoenix ***
+Country: United States
+Region: North America
+19 towers: Chase Tower, U.S. Bank Center, Qwest Tower, Alliance Bank Tower, 44 Monroe, Viad Tower, Two Renaissance Square, Wells Fargo Plaza, Phoenix City Hall, Sheraton Phoenix Downtown, Bank of America Tower, 3300 North Central Avenue, One Renaissance Square, Freeport-McMoRan Center, Phoenix Corporate Center, Phoenix Plaza One, Phoenix Plaza Two, Great American Tower, Cityscape Tower 2
+Tiers: I: 7, II: 12
+Rating: 31
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Fort Worth ***
+Country: United States
+Region: North America
+16 towers: Burnett Plaza, D.R. Horton Tower, Carter+Burgess Plaza, The Tower, Wells Fargo Tower, Omni Fort Worth Hotel, Pier 1 Place, 714 Main, Bank of America, AT&T Building, W.T. Waggoner Building, Courtyard Fort Worth Downtown, Star-Telegram Building, City Place Tower Two, Fritz G. Lanham Federal Building, City Place Tower One
+Tiers: I: 10, II: 3, III: 3
+Rating: 28
+Scraped on: 2019-Jan-20 16:05:16
+
+*** San Antonio ***
+Country: United States
+Region: North America
+17 towers: San Antonio Marriott Rivercenter, Weston Centre, Grand Hyatt San Antonio, Tower Life Building, Frost Bank Tower, Bank of America Plaza, The Towers at Park Lane, Marriott Riverwalk, Wyndham San Antonio Riverwalk, Frost Bank Tower, Vidorra I, Milam Building, Broadway San Antonio, Drury Plaza Hotel - San Antonio Riverwalk, Nix Professional Building, AT&T Building, Riverview Towers West Tower
+Tiers: I: 9, II: 7, III: 1
+Rating: 27 (7.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hartford ***
+Country: United States
+Region: North America
+13 towers: City Place I, Travelers Tower, Goodwin Square, Hartford 21, 777 Main Street, 280 Trumbull Street, One Financial Plaza, Hartford Plaza, 20 Church Street, One State Street, Bushnell Tower, One Constitution Plaza, Aetna Corporate Headquarters Building
+Tiers: I: 7, II: 3, III: 3
+Rating: 25
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fort Lauderdale ***
+Country: United States
+Region: North America
+14 towers: 100 Las Olas, Icon Las Olas, Las Olas River House I, 110 Tower, Bank of America Plaza, Las Olas Grand, One Financial Plaza, 8th Avenue Residence, Broward County Judicial Complex, The Palms 2, The Palms 1, Broward Financial Center, Conrad Fort Lauderdale Beach, AutoNation Headquarters
+Tiers: I: 5, II: 8, III: 1
+Rating: 25 (16.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Newark ***
+Country: United States
+Region: North America
+19 towers: National Newark Building, Eleven80, Prudential Plaza, 80 Park Plaza, Gateway One, One Newark Center, 15 Washington Street, Prudential Headquarters Tower A, 33 Washington Street, Prudential Building, 540 Broad Street, Gateway Two, 520 Broad Street, Stanley S. Bergen Building, Military Park Building, 153 Halsey Street, 24 Commerce Street, One Theatre Square, Zion Towers
+Tiers: I: 14, II: 5
+Rating: 24
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Louisville ***
+Country: United States
+Region: North America
+12 towers: 400 West Market, PNC Tower, PNC Plaza, Humana Building, Omni Louisville Hotel, B & W Tower, Meidinger Tower, Waterfront Plaza I, Waterfront Plaza II, E.ON U.S. Center, Galt House, BB&T Building
+Tiers: I: 5, II: 5, III: 2
+Rating: 23
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Oklahoma City ***
+Country: United States
+Region: North America
+7 towers: Devon Energy Center, Chase Tower, First National Center, City Place, Oklahoma Tower, BOK Park Plaza, Sandridge Center
+Tiers: II: 4, III: 2, IV: 1
+Rating: 22
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Orlando ***
+Country: United States
+Region: North America
+13 towers: SunTrust Center, Hyatt Regency Orlando Expansion Tower, The Vue at Lake Eola, Orange County Courthouse, Bank of America Center, 55 West on the Esplanade, Solaire at the Plaza, Dynetech Centre, Orlando World Center Marriott West Tower, The Plaza, Citi Tower, Ginsburg Tower, SkyHouse Orlando
+Tiers: I: 5, II: 8
+Rating: 21
+Scraped on: 2019-Jan-20 16:05:17
+
+*** St. Paul ***
+Country: United States
+Region: North America
+17 towers: Wells Fargo Place, Jackson Tower, First National Bank Building, Kellogg Square Apartments, Pointe of St. Paul Condominiums, US Bank Building, Ecolab Building, Bremer Tower, The 400 Building, Landmark Tower, Sibley Tower, Ecolab Corporate Center, UBS Plaza, Custom House, City Hall & Courthouse, 401 Building, Ecolab University Center
+Tiers: I: 13, II: 4
+Rating: 21
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Salt Lake City ***
+Country: United States
+Region: North America
+14 towers: Wells Fargo Center, LDS Office Building, 111 Main, 99 West City Creek Condominium Tower, Key Bank Tower, One Utah Center, Beneficial Financial Group Tower, Grand America Hotel, American Towers Condominiums North Tower, American Towers Condominiums South Tower, World Trade Center at City Creek, 222 South Main, 136 E South Temple, The Regent
+Tiers: I: 8, II: 6
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Richmond ***
+Country: United States
+Region: North America
+16 towers: James Monroe Building, 111 South 6th Street, SunTrust Plaza, Federal Reserve Bank Building, Bank of America Center, Richmond City Hall, Riverfront Plaza East Tower, Riverfront Plaza West Tower, One James River Plaza, Main Street Centre, Two James Center, Eighth and Main Building, One James Center, Central National Bank Building, BB&T Bank Building, One Capitol Square
+Tiers: I: 12, II: 4
+Rating: 20 (10.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Sacramento ***
+Country: United States
+Region: North America
+11 towers: Wells Fargo Center, US Bank Tower, Bank of the West Tower, Park Tower, Renaissance Tower, Joe Serna Junior California EPA Building, Esquire Plaza, Capitol Square, Robert T. Matsui Federal Courthouse, 1325 J Street, 300 Capitol Mall
+Tiers: I: 2, II: 9
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Buffalo ***
+Country: United States
+Region: North America
+13 towers: One Seneca Tower, Rand Building, Buffalo City Hall, Main Place Tower, Liberty Building, One M&T Plaza, Key Center - North Tower, Electric Tower, Buffalo Central Terminal, 10 Lafayette Square, Verizon/AT&T Building, Statler Towers, Main Seneca Building
+Tiers: I: 9, II: 3, III: 1
+Rating: 19
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jacksonville ***
+Country: United States
+Region: North America
+8 towers: Bank of America Tower, Modis Tower, The Peninsula, AT&T Tower, Riverplace Tower, Jacksonville Center, The Strand, The Plaza Condominium at Berkman Plaza and Marina
+Tiers: I: 2, II: 4, III: 2
+Rating: 18
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Arlington ***
+Country: United States
+Region: North America
+11 towers: CEB Tower, 1812 North Moore Street, Rosslyn Twin Tower One, Rosslyn Twin Tower Two, One Skyline Tower, Central Place Residential Tower, 1801 North Lynn Street, Turnberry Tower, Two Waterview Place, One Waterview Place, Rosslyn Metro Center
+Tiers: I: 5, II: 6
+Rating: 17 (11.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bellevue ***
+Country: United States
+Region: North America
+8 towers: 400 Lincoln Square, W Bellevue Hotel, Bellevue Towers Two, One Lincoln Tower, Bellevue Towers One, Eddie Bauer at Lincoln Square, City Center East, City Center
+Tiers: II: 8
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Birmingham (AL) ***
+Country: United States
+Region: North America
+11 towers: Wells Fargo Tower, Regions Harbert Plaza, AT&T City Center, Regions Center, City Federal Condominiums, Leer Tower, John Hand Building, Daniel Building, Jefferson Tower, Two North Twentieth, Empire Building
+Tiers: I: 7, II: 4
+Rating: 15
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Albany ***
+Country: United States
+Region: North America
+11 towers: Erastus Corning II Tower, Alfred E. Smith State Office Building, 1 Empire State Plaza, 2 Empire State Plaza, 3 Empire State Plaza, 4 Empire State Plaza, Eastman Tower, Livingston Tower, Mohawk Tower, Stuyvesant Tower, 11 North Pearl Street
+Tiers: I: 9, II: 1, III: 1
+Rating: 15
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fort Lee ***
+Country: United States
+Region: North America
+7 towers: The Modern Tower A, The Modern Tower B, The Palisades, Horizon House - North Tower, Horizon House - South Tower, The Royal Buckingham, The Regency
+Tiers: I: 4, II: 1, III: 2
+Rating: 14
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Oakland ***
+Country: United States
+Region: North America
+9 towers: Ordway Building, Kaiser Center, Lake Merritt Plaza, 1111 Broadway, Kaiser Engineering Building, Clorox Building, Elihu M. Harris State Office Building, Oakland City Hall, Tribune Tower
+Tiers: I: 5, II: 4
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Des Moines ***
+Country: United States
+Region: North America
+8 towers: 801 Grand, Ruan Center, Des Moines Marriott, Financial Center, The Plaza, HUB Tower, EMC Insurance Building, Equitable Building
+Tiers: I: 5, II: 2, III: 1
+Rating: 13
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Memphis ***
+Country: United States
+Region: North America
+7 towers: 100 North Main Building, Raymond James Tower, Clark Tower, One Commerce Square, Sterick Building, 1st Tennessee Bank Building, Hilton Memphis
+Tiers: I: 2, II: 5
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Clayton ***
+Country: United States
+Region: North America
+9 towers: The Plaza in Clayton Residential Tower, Centene Plaza Two, 212 South Meramec, The Sevens Building, Pierre Laclede Center 2, Interco Tower, Clayton on the Park, PNC Center, Centene Plaza
+Tiers: I: 6, II: 3
+Rating: 12 (16.7% uncompleted)
+Scraped on: 2019-Jan-21 23:13:11
+
+*** St. Petersburg (FL) ***
+Country: United States
+Region: North America
+6 towers: One St Petersburg, Bank of America Tower, Signature Place, Ovation, ParkShore Plaza, Bayfront Tower
+Tiers: I: 1, II: 5
+Rating: 11 (18.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mobile ***
+Country: United States
+Region: North America
+4 towers: RSA Battle House Tower, RSA&ndash;BankTrust Building, Renaissance Mobile Riverview Plaza Hotel, Mobile Marriott Hotel
+Tiers: I: 1, II: 2, IV: 1
+Rating: 11
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tysons Corner ***
+Country: United States
+Region: North America
+6 towers: Capitol One Headquarters, Lumen at Tyson, Vita, Adaire, Nouvelle, Tysons Tower
+Tiers: I: 2, II: 4
+Rating: 10 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Toledo ***
+Country: United States
+Region: North America
+7 towers: One SeaGate, Tower on the Maumee, National City Bank Building, Michael DiSalle Building, Riverfront Apartments, HCR Manor Care, Fifth Third Center
+Tiers: I: 4, II: 3
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Raleigh ***
+Country: United States
+Region: North America
+5 towers: RBC Plaza, Two Hanover Square, 150 Fayetteville Street, Skyhouse Raleigh, CAPTRUST Tower at North Hills
+Tiers: I: 2, II: 2, III: 1
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hollywood ***
+Country: United States
+Region: North America
+5 towers: Hard Rock Hotel & Casino Expansion, Hyde Beach Resort and Residences, The Westin Diplomat Resort, Trump Hollywood, Ocean Palms Phase I
+Tiers: II: 5
+Rating: 10 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Winston-Salem ***
+Country: United States
+Region: North America
+7 towers: 100 North Main Street, Winston Tower, 500 West Fifth Street, Reynolds Building, BB&T Financial Center, Reynolds Plaza, Nissen Building
+Tiers: I: 5, II: 2
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Providence ***
+Country: United States
+Region: North America
+6 towers: Bank of America Building, One Financial Plaza, The Residences Providence, The Westin Providence, Textron Tower, 50 Kennedy Plaza
+Tiers: I: 3, II: 3
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** White Plains ***
+Country: United States
+Region: North America
+5 towers: The Residences at the Ritz Carlton, Westchester - North Tower, The Residences at the Ritz Carlton, Westchester - South Tower, One City Place, Trump Tower at City Center, Westchester County Courthouse
+Tiers: I: 1, II: 4
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Southfield ***
+Country: United States
+Region: North America
+6 towers: 3000 Town Center, 1000 Town Center, 2000 Town Center, American Center, 5000 Town Center, 4000 Town Center
+Tiers: I: 3, II: 3
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hallandale Beach ***
+Country: United States
+Region: North America
+3 towers: The Beach Club Tower 2, The Beach Club Tower 1, The Beach Club Tower 3
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Corpus Christi ***
+Country: United States
+Region: North America
+6 towers: One Shoreline Plaza South Tower, One Shoreline Plaza North Tower, Frost Bank Building, Trinity Towers, Wilson Plaza West, 600 Building
+Tiers: I: 4, II: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sandy Springs ***
+Country: United States
+Region: North America
+2 towers: Concourse Corporate Center V, Concourse Corporate Center VI
+Tiers: III: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Little Rock ***
+Country: United States
+Region: North America
+3 towers: Simmons Tower, Regions Center, Bank of America Plaza
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Omaha ***
+Country: United States
+Region: North America
+4 towers: One First National Center, Woodmen Tower, Union Pacific Center, AT&T Building
+Tiers: I: 2, II: 1, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Long Beach ***
+Country: United States
+Region: North America
+6 towers: One World Trade Center, West Ocean Condominiums I, Landmark Square, International Tower, Villa Riviera	, West Ocean Condominiums II
+Tiers: I: 5, II: 1
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Dayton ***
+Country: United States
+Region: North America
+5 towers: Kettering Tower, KeyBank Tower, One Dayton Centre, 40 West 4th Centre, Premier Health Center
+Tiers: I: 3, II: 2
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cambridge ***
+Country: United States
+Region: North America
+7 towers: M.I.T. Kendall Square Dorm, 145 Broadway, Proto, Eastgate Married Student Housing, Avalon North Point, Cecil and Ida Green Center for Earth Sciences, Broad Institute
+Tiers: I: 7
+Rating: 7 (28.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Grand Rapids ***
+Country: United States
+Region: North America
+6 towers: River House Condominiums, Plaza Towers, Amway Grand Plaza Hotel - Glass Tower, Bridgewater Place, McKay Tower, J.W. Marriott Grand Rapids
+Tiers: I: 5, II: 1
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Virginia Beach ***
+Country: United States
+Region: North America
+2 towers: The Westin Virginia Beach Town Center & Residences, Armada Hoffler Tower
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Guttenberg ***
+Country: United States
+Region: North America
+3 towers: Galaxy Towers 1, Galaxy Towers 2, Galaxy Towers 3
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Wilmington ***
+Country: United States
+Region: North America
+5 towers: 1201 North Market Street, River Tower at Christina Landing, 1105 North Market Street, Brandywine Building, Citizens Bank Center
+Tiers: I: 4, II: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Amherst ***
+Country: United States
+Region: North America
+6 towers: W. E. B. Du Bois Library, Coolidge Hall, John Adams Hall, John Quincy Adams Hall, Kennedy Hall, Washington Hall
+Tiers: I: 6
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Galveston ***
+Country: United States
+Region: North America
+3 towers: The Beach Club, The Trade Winds, One Moody Plaza
+Tiers: II: 3
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Springfield (MA) ***
+Country: United States
+Region: North America
+3 towers: Monarch Place, Tower Square, Chestnut Park
+Tiers: I: 1, II: 2
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Harrisburg ***
+Country: United States
+Region: North America
+5 towers: 333 Market Street, Pennsylvania Place, Presbyterian Apartments, Fulton Bank Building, Market Square Plaza
+Tiers: I: 5
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** New Rochelle ***
+Country: United States
+Region: North America
+3 towers: Trump Plaza, Avalon on the Sound East, Avalon on the Sound
+Tiers: I: 1, II: 2
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bethesda ***
+Country: United States
+Region: North America
+5 towers: Market East Tower, One White Flint North, National Naval Medical Center, Chevy Chase Bank East Tower, Chevy Chase Bank West Tower
+Tiers: I: 5
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Rochester ***
+Country: United States
+Region: North America
+5 towers: Broadway Plaza, Gonda Building, Plummer Building, Broadway at Center, Mayo Building
+Tiers: I: 5
+Rating: 5 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** New Haven ***
+Country: United States
+Region: North America
+4 towers: Connecticut Financial Center, Knights of Columbus Tower, 360 State Street, Kline Biology Tower
+Tiers: I: 3, II: 1
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Durham ***
+Country: United States
+Region: North America
+3 towers: University Tower, City Center, Legacy Tower
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pearl City (Oahu) ***
+Country: United States
+Region: North America
+2 towers: Century Park Plaza Tower A, Century Park Plaza Tower B
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Glendale ***
+Country: United States
+Region: North America
+3 towers: Glendale Plaza, Nestle Building, 101 North Brand Boulevard
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Reno ***
+Country: United States
+Region: North America
+2 towers: Silver Legacy Resort & Casino, Grand Sierra Resort & Casino
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** El Segundo ***
+Country: United States
+Region: North America
+3 towers: Pacific Corporate Towers III, Pacific Corporate Towers I, Pacific Corporate Towers II
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fort Wayne ***
+Country: United States
+Region: North America
+3 towers: One Summit Square, National City Center, Lincoln National Bank Building
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cape Canaveral ***
+Country: United States
+Region: North America
+1 tower: Vehicle Assembly Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fort Myers ***
+Country: United States
+Region: North America
+4 towers: High Point I, High Point II, Oasis I, Oasis II
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Newport Beach ***
+Country: United States
+Region: North America
+4 towers: 520 Newport Center Drive, 650 Newport Center Drive | PIMCO Headquarters, 610 Newport Center Drive, 660 Newport Center Drive
+Tiers: I: 4
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Lake Charles ***
+Country: United States
+Region: North America
+3 towers: L`Auberge Du Lac Hotel & Casino, Capital One Bank Tower, Golden Nugget Lake Charles
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Syracuse ***
+Country: United States
+Region: North America
+3 towers: State Tower Building, AXA Tower I, AXA Tower II
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bloomington ***
+Country: United States
+Region: North America
+2 towers: 8500 Tower, Wells Fargo Plaza
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Charleston ***
+Country: United States
+Region: North America
+3 towers: Kanawha Valley Building, Laidley Tower, BB&T Square
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** West Hollywood ***
+Country: United States
+Region: North America
+2 towers: Sierra Towers, Sunset Tower Hotel
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Orange Beach ***
+Country: United States
+Region: North America
+2 towers: Turquoise Place East, Turquoise Place
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Stamford ***
+Country: United States
+Region: North America
+2 towers: Trump Parc Stamford, One Landmark Square
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Covington ***
+Country: United States
+Region: North America
+3 towers: RiverCenter I, The Ascent at Roebling`s Bridge, RiverCenter II
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Evanston ***
+Country: United States
+Region: North America
+3 towers: Chase Bank Building, Sherman Plaza, Optima Views
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Baton Rouge ***
+Country: United States
+Region: North America
+2 towers: Louisiana State Capitol, One American Place
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Akron ***
+Country: United States
+Region: North America
+3 towers: FirstMerit Tower, PNC Center, First Energy Building
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** San Jose ***
+Country: United States
+Region: North America
+3 towers: San Jose Marriott, 360 Residences, The 88
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** West Palm Beach ***
+Country: United States
+Region: North America
+3 towers: Trump Plaza I, Trump Plaza II, One Clearlake Centre
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tucson ***
+Country: United States
+Region: North America
+3 towers: UniSource Energy Tower, Bank of America Plaza, Pima County Legal Services Building
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Irving ***
+Country: United States
+Region: North America
+3 towers: Omni Mandalay Hotel, CIGNA Tower, Chase Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Niagara Falls (NY) ***
+Country: United States
+Region: North America
+1 tower: Seneca Niagara Casino Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Itasca ***
+Country: United States
+Region: North America
+1 tower: Two Pierce Place
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Vinings ***
+Country: United States
+Region: North America
+1 tower: Riverwood 100 Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Albuquerque ***
+Country: United States
+Region: North America
+1 tower: Albuquerque Plaza
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tacoma ***
+Country: United States
+Region: North America
+2 towers: Wells Fargo Plaza, Murano Hotel
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Yonkers ***
+Country: United States
+Region: North America
+2 towers: Seven Pines Tower, St. Casimir Apartments
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Norfolk ***
+Country: United States
+Region: North America
+2 towers: Dominion Tower, Bank of America Center
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Montville ***
+Country: United States
+Region: North America
+1 tower: Mohegan Sun Sky Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Greensboro ***
+Country: United States
+Region: North America
+1 tower: Lincoln Financial Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bristol (CT) ***
+Country: United States
+Region: North America
+1 tower: Otis Research Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Burbank ***
+Country: United States
+Region: North America
+1 tower: The Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Anchorage ***
+Country: United States
+Region: North America
+2 towers: Conoco-Phillips Building, Robert B. Atwood Building
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tallahassee ***
+Country: United States
+Region: North America
+2 towers: State Capitol Tower, Plaza Tower at Kleman Plaza
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Irvine ***
+Country: United States
+Region: North America
+2 towers: 200 Spectrum Center Drive, 400 Spectrum Center Drive
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Aventura ***
+Country: United States
+Region: North America
+1 tower: Hidden Bay 1
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Oakbrook Terrace ***
+Country: United States
+Region: North America
+1 tower: Oakbrook Terrace Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** El Paso ***
+Country: United States
+Region: North America
+2 towers: Wells Fargo Plaza, Chase Tower
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lincoln (NE) ***
+Country: United States
+Region: North America
+1 tower: Nebraska State Capitol
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Pasadena-TX ***
+Country: United States
+Region: North America
+1 tower: Endeavour Clear Lake
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Woodlands ***
+Country: United States
+Region: North America
+1 tower: Allison Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Metairie ***
+Country: United States
+Region: North America
+1 tower: Three Lakeway Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Manchester (NH) ***
+Country: United States
+Region: North America
+2 towers: City Hall Plaza, Brady Sullivan Plaza
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Midland ***
+Country: United States
+Region: North America
+2 towers: Bank of America Building, Wilco Building
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Boise ***
+Country: United States
+Region: North America
+2 towers: 8th and Main Tower, US Bank Plaza
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Santa Ana ***
+Country: United States
+Region: North America
+2 towers: Essex Skyline North Tower, Essex Skyline South Tower
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tempe ***
+Country: United States
+Region: North America
+2 towers: West Sixth Tempe Tower 2, West Sixth Tempe Tower 1
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Montgomery ***
+Country: United States
+Region: North America
+1 tower: RSA Towers
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** South Padre Island ***
+Country: United States
+Region: North America
+1 tower: Sapphire I
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Brookhaven ***
+Country: United States
+Region: North America
+1 tower: Hewlett-Packard Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Columbia ***
+Country: United States
+Region: North America
+1 tower: Capitol Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-21 23:13:18
+
+*** Dunwoody ***
+Country: United States
+Region: North America
+1 tower: Three Ravinia Drive
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Shreveport ***
+Country: United States
+Region: North America
+1 tower: Regions Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Marco Island ***
+Country: United States
+Region: North America
+1 tower: Cozumel at Cape Marco in Marco Island
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Peoria ***
+Country: United States
+Region: North America
+2 towers: Twin Towers 1, Twin Towers 2
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Springfield (IL) ***
+Country: United States
+Region: North America
+1 tower: Springfield Hilton
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Abbeville ***
+Country: United States
+Region: North America
+1 tower: Prysmian Copper Wire Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Camden ***
+Country: United States
+Region: North America
+1 tower: Camden City Hall
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Biloxi ***
+Country: United States
+Region: North America
+2 towers: Beau Rivage Casino Hotel, Imperial Palace Casino Hotel
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lexington ***
+Country: United States
+Region: North America
+1 tower: Lexington Financial Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** New Brunswick ***
+Country: United States
+Region: North America
+2 towers: The Gateway, One Spring Street
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Riviera Beach ***
+Country: United States
+Region: North America
+1 tower: Tiara Condominiums
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Amarillo ***
+Country: United States
+Region: North America
+1 tower: Chase Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lubbock ***
+Country: United States
+Region: North America
+1 tower: Metro Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Daytona Beach Shores ***
+Country: United States
+Region: North America
+1 tower: Peck Plaza
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Costa Mesa ***
+Country: United States
+Region: North America
+1 tower: Plaza Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Abilene ***
+Country: United States
+Region: North America
+1 tower: Bank of America
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jackson ***
+Country: United States
+Region: North America
+1 tower: Regions Plaza
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Edgewater ***
+Country: United States
+Region: North America
+1 tower: The St. Moritz
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Denton ***
+Country: United States
+Region: North America
+1 tower: John A. Guinn Hall
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Billings ***
+Country: United States
+Region: North America
+1 tower: First Interstate Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cedar Rapids ***
+Country: United States
+Region: North America
+1 tower: Alliant Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tunica ***
+Country: United States
+Region: North America
+1 tower: Gold Strike Casino Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bossier City ***
+Country: United States
+Region: North America
+1 tower: Horseshoe Casino Hotel
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fargo ***
+Country: United States
+Region: North America
+1 tower: Dakota Place
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Foster City ***
+Country: United States
+Region: North America
+1 tower: Metro Center Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cabazon ***
+Country: United States
+Region: North America
+1 tower: Morongo Casino Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bethlehem ***
+Country: United States
+Region: North America
+1 tower: Martin Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** South Bend ***
+Country: United States
+Region: North America
+1 tower: Chase Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Newport ***
+Country: United States
+Region: North America
+1 tower: SouthShore Condominiums Tower 1
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Orange ***
+Country: United States
+Region: North America
+1 tower: City Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bartlesville ***
+Country: United States
+Region: North America
+1 tower: Phillips Petroleum Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Boca Raton ***
+Country: United States
+Region: North America
+1 tower: Boca Raton Club Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hoboken ***
+Country: United States
+Region: North America
+1 tower: W Hoboken Hotel and Residential Condominiums
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Alexandria (VA) ***
+Country: United States
+Region: North America
+1 tower: Hilton Alexandria Mark Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Michigan City ***
+Country: United States
+Region: North America
+1 tower: Blue Chip Casino Spa Blu Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Waco ***
+Country: United States
+Region: North America
+1 tower: Alico Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Roanoke ***
+Country: United States
+Region: North America
+1 tower: Wells Fargo Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Allentown ***
+Country: United States
+Region: North America
+1 tower: PPL Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ledyard Center ***
+Country: United States
+Region: North America
+1 tower: MGM Grand at Foxwoods
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lansing ***
+Country: United States
+Region: North America
+1 tower: Boji Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tyler ***
+Country: United States
+Region: North America
+1 tower: Plaza Tower Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Troy ***
+Country: United States
+Region: North America
+1 tower: National City Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Gulf Shores ***
+Country: United States
+Region: North America
+1 tower: Island Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Knoxville ***
+Country: United States
+Region: North America
+1 tower: Plaza Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Beaumont ***
+Country: United States
+Region: North America
+1 tower: Entergy Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hempstead ***
+Country: United States
+Region: North America
+1 tower: Nassau University Medical Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Wichita ***
+Country: United States
+Region: North America
+1 tower: Epic Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Asbury Park ***
+Country: United States
+Region: North America
+1 tower: Asbury Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Evansville ***
+Country: United States
+Region: North America
+1 tower: The 420 Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** West Sacramento ***
+Country: United States
+Region: North America
+1 tower: CalSTRS Building
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17

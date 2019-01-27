@@ -1,0 +1,19 @@
+*** Ganzhou (2) ***
+1. Harmony Clock Tower, 113m
+
+******************** DETAILS ********************
+
+*** Ganzhou ***
+Country: China
+Region: Asia
+1 tower: Harmony Clock Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Harmony Clock Tower ***
+Height: 113
+Status: Completed
+Completed: 2011
+Functions: observation / office
+Rank: 1

@@ -26,9 +26,12 @@ with open(os.path.join("settings", "settings.json"), encoding="utf-8") as f:
     _settings = json.load(f)
 
 URL = _settings["url"]
-INPUT_PATH = os.path.join(*_settings["input_path"])
-OUTPUT_JSON_PATH = os.path.join(*_settings["output_json_path"])
-OUTPUT_TXT_PATH = os.path.join(*_settings["output_txt_path"])
+INPUT_PATH = os.path.join(*_settings["paths"]["input"])
+OUTPUT_JSON_PATH = os.path.join(*_settings["paths"]["output_json"])
+OUTPUT_TXT_PATH = os.path.join(*_settings["paths"]["output_txt"])
+OUTPUT_TXT_REGIONS_PATH = os.path.join(*_settings["paths"]["output_txt_regions"])
+OUTPUT_TXT_COUNTRIES_PATH = os.path.join(*_settings["paths"]["output_txt_countries"])
+OUTPUT_TXT_CITIES_PATH = os.path.join(*_settings["paths"]["output_txt_cities"])
 # change rating matrix's keys to Tier enums
 RATINGS_MATRIX = {tier: tuple(item[1]) for tier, item
                   in zip(Tier, sorted(_settings["ratings_matrix"].items(),

@@ -1,0 +1,21 @@
+*** Boulogne-Billancourt (1) ***
+1. CityLights Tour 1, 97m
+
+******************** DETAILS ********************
+
+*** Boulogne-Billancourt ***
+Country: France
+Region: Europe
+1 tower: CityLights Tour 1
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** CityLights Tour 1 ***
+Height: 97
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 1

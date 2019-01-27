@@ -1,0 +1,41 @@
+*** Rome (4) ***
+1. Torre EuroSky, 120m
+2. Torre Europarco, 103m
+3. Palazzo Eni, 86m
+
+******************** DETAILS ********************
+
+*** Rome ***
+Country: Italy
+Region: Europe
+3 towers: Torre EuroSky, Torre Europarco, Palazzo Eni
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre EuroSky ***
+Height: 120
+Floors: 31
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 1
+
+*** Torre Europarco ***
+Height: 103.36
+Floors: 31
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: office
+Rank: 2
+
+*** Palazzo Eni ***
+Height: 85.5
+Floors: 23
+Status: Completed
+Started: 1960
+Completed: 1962
+Functions: office
+Rank: 3

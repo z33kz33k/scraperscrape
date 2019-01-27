@@ -1,0 +1,41 @@
+*** Fort Wayne (4) ***
+1. One Summit Square, 135m
+2. National City Center, 103m
+3. Lincoln National Bank Building, 95m
+
+******************** DETAILS ********************
+
+*** Fort Wayne ***
+Country: United States
+Region: North America
+3 towers: One Summit Square, National City Center, Lincoln National Bank Building
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** One Summit Square ***
+Height: 134.72
+Floors: 27
+Status: Completed
+Started: 1978
+Completed: 1982
+Functions: office
+Rank: 1
+
+*** National City Center ***
+Height: 103.32
+Floors: 26
+Status: Completed
+Started: 1967
+Completed: 1970
+Functions: office
+Rank: 2
+
+*** Lincoln National Bank Building ***
+Height: 95.1
+Floors: 23
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: office
+Rank: 3

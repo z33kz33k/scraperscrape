@@ -1,0 +1,29 @@
+*** Shaoxing (8) ***
+1. Shaoxing Shimao Crowne Plaza, 288m
+2. Shaoxing City Tower, 137m
+
+******************** DETAILS ********************
+
+*** Shaoxing ***
+Country: China
+Region: Asia
+2 towers: Shaoxing Shimao Crowne Plaza, Shaoxing City Tower
+Tiers: II: 1, IV: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Shaoxing Shimao Crowne Plaza ***
+Height: 288
+Floors: 55
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: hotel / office
+Rank: 1
+
+*** Shaoxing City Tower ***
+Height: 137
+Floors: 31
+Status: Completed
+Functions: office
+Rank: 2

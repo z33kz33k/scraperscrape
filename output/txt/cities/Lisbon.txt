@@ -1,0 +1,66 @@
+*** Lisbon (8) ***
+1. Torre S&atilde;o Gabriel, 110m
+2. Torre S&atilde;o Rafael, 110m
+3. Sheraton Lisbon Hotel & Towers, 96m
+4. Twin Tower I, 90m
+5. Twin Tower II, 90m
+6. Corinthia Lisboa Hotel, 83m
+
+******************** DETAILS ********************
+
+*** Lisbon ***
+Country: Portugal
+Region: Europe
+6 towers: Torre S&atilde;o Gabriel, Torre S&atilde;o Rafael, Sheraton Lisbon Hotel & Towers, Twin Tower I, Twin Tower II, Corinthia Lisboa Hotel
+Tiers: I: 4, II: 2
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre S&atilde;o Gabriel ***
+Height: 110
+Floors: 24
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 1
+
+*** Torre S&atilde;o Rafael ***
+Height: 110
+Floors: 24
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 1
+
+*** Sheraton Lisbon Hotel & Towers ***
+Height: 96
+Floors: 30
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 3
+
+*** Twin Tower I ***
+Height: 90
+Floors: 26
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 4
+
+*** Twin Tower II ***
+Height: 90
+Floors: 26
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 4
+
+*** Corinthia Lisboa Hotel ***
+Height: 82.9
+Floors: 25
+Status: Completed
+Completed: 1981
+Functions: hotel
+Rank: 6

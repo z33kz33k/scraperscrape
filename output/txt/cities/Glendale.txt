@@ -1,0 +1,38 @@
+*** Glendale (4) ***
+1. Glendale Plaza, 108m
+2. Nestle Building, 89m
+3. 101 North Brand Boulevard, 84m
+
+******************** DETAILS ********************
+
+*** Glendale ***
+Country: United States
+Region: North America
+3 towers: Glendale Plaza, Nestle Building, 101 North Brand Boulevard
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Glendale Plaza ***
+Height: 107.6
+Floors: 25
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 1
+
+*** Nestle Building ***
+Height: 89
+Floors: 21
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 2
+
+*** 101 North Brand Boulevard ***
+Height: 83.82
+Floors: 20
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 3

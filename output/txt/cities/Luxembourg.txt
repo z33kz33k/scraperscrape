@@ -1,0 +1,31 @@
+*** Luxembourg (4) ***
+1. Cour de Justice Tower I, 107m
+2. Cour de Justice Tower II, 107m
+
+******************** DETAILS ********************
+
+*** Luxembourg ***
+Country: Luxembourg
+Region: Europe
+2 towers: Cour de Justice Tower I, Cour de Justice Tower II
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cour de Justice Tower I ***
+Height: 107
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: government
+Rank: 1
+
+*** Cour de Justice Tower II ***
+Height: 107
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: government
+Rank: 1

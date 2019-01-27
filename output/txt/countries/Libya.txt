@@ -1,0 +1,18 @@
+*** Libya (10) ***
+1. Tripoli, 10
+
+******************** DETAILS ********************
+
+*** Libya ***
+Region: Africa
+1 city: Tripoli
+Tiers: II: 5
+Rating: 10
+
+*** Tripoli ***
+Country: Libya
+Region: Africa
+5 towers: Burj Bulaya Office Tower 1, JW Marriott Hotel, Burj Bulaya Office Tower 2, Corinthia Bab Africa Hotel Tower 1, El Fateh Tower
+Tiers: II: 5
+Rating: 10
+Scraped on: 2019-Jan-20 16:05:17

@@ -1,0 +1,20 @@
+*** Villajoyosa (1) ***
+1. Atrium Beach Mar, 102m
+
+******************** DETAILS ********************
+
+*** Villajoyosa ***
+Country: Spain
+Region: Europe
+1 tower: Atrium Beach Mar
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Atrium Beach Mar ***
+Height: 102
+Floors: 28
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 1

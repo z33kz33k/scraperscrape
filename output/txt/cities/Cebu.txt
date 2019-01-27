@@ -1,0 +1,40 @@
+*** Cebu (8) ***
+1. Horizons 101 Tower 1, 178m
+2. Crown Regency Hotel & Towers Fuente Tower 1, 140m
+3. Ultima Residences Fuente Tower 3, 130m
+
+******************** DETAILS ********************
+
+*** Cebu ***
+Country: Philippines
+Region: Asia
+3 towers: Horizons 101 Tower 1, Crown Regency Hotel & Towers Fuente Tower 1, Ultima Residences Fuente Tower 3
+Tiers: II: 2, III: 1
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Horizons 101 Tower 1 ***
+Height: 178
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Crown Regency Hotel & Towers Fuente Tower 1 ***
+Height: 140
+Floors: 38
+Status: Completed
+Completed: 2005
+Functions: hotel
+Rank: 2
+
+*** Ultima Residences Fuente Tower 3 ***
+Height: 130
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: retail / residential
+Rank: 3

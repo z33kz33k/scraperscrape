@@ -1,0 +1,322 @@
+*** Baltimore (61) ***
+1.  Transamerica Tower, 161m
+2.  Bank of America Building, 155m
+3.  414 Light Street, 152m
+4.  William Donald Schaefer Tower, 150m
+5.  Commerce Place, 138m
+6.  Baltimore Marriott Waterfront Hotel, 131m
+7.  100 East Pratt Street, 128m
+8.  World Trade Center, 123m
+9.  Embassy Suites by Hilton, 120m
+10. Charles Towers South Apartments, 117m
+11. One Light Street, 111m
+12. Blaustein Building, 110m
+13. 250 West Pratt Street, 110m
+14. Towers at Harbor Court, 109m
+15. Four Seasons Baltimore & Residences, 107m
+16. St. Paul Plaza, 107m
+17. Exelon Tower, 107m
+18. 201 North Charles Street Building, 107m
+19. Charles Towers North Apartments, 107m
+20. Legg Mason Tower, 107m
+21. The Gallery at Harborplace, 106m
+22. 414 Water Street, 105m
+23. HarborView Condominium, 104m
+24. Charles Center South, 101m
+25. Wells Fargo Tower, 101m
+26. M & T Bank Building, 96m
+27. The Vue Harbor East, 93m
+28. Mary Catherine Bunting Building at Mercy Medical Center, 92m
+29. Emerson Tower, 88m
+30. Mercy Medical Center Inpatient Tower, 84m
+31. 750 East Pratt Street, 83m
+32. One Charles Center, 82m
+33. First National Bank Building, 77m
+
+******************** DETAILS ********************
+
+*** Baltimore ***
+Country: United States
+Region: North America
+33 towers: Transamerica Tower, Bank of America Building, 414 Light Street, William Donald Schaefer Tower, Commerce Place, Baltimore Marriott Waterfront Hotel, 100 East Pratt Street, World Trade Center, Embassy Suites by Hilton, Charles Towers South Apartments, One Light Street, Blaustein Building, 250 West Pratt Street, Towers at Harbor Court, Four Seasons Baltimore & Residences, St. Paul Plaza, Exelon Tower, 201 North Charles Street Building, Charles Towers North Apartments, Legg Mason Tower, The Gallery at Harborplace, 414 Water Street, HarborView Condominium, Charles Center South, Wells Fargo Tower, M & T Bank Building, The Vue Harbor East, Mary Catherine Bunting Building at Mercy Medical Center, Emerson Tower, Mercy Medical Center Inpatient Tower, 750 East Pratt Street, One Charles Center, First National Bank Building
+Tiers: I: 13, II: 16, III: 4
+Rating: 61 (3.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Transamerica Tower ***
+Height: 161.24
+Floors: 40
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: office
+Rank: 1
+
+*** Bank of America Building ***
+Height: 155.15
+Floors: 37
+Status: Completed
+Completed: 1924
+Functions: office
+Rank: 2
+
+*** 414 Light Street ***
+Height: 152.4
+Floors: 44
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 3
+
+*** William Donald Schaefer Tower ***
+Height: 150.27
+Floors: 29
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 4
+
+*** Commerce Place ***
+Height: 138.38
+Floors: 31
+Status: Completed
+Completed: 1992
+Functions: office
+Rank: 5
+
+*** Baltimore Marriott Waterfront Hotel ***
+Height: 131.06
+Floors: 32
+Status: Completed
+Completed: 2001
+Functions: hotel
+Rank: 6
+
+*** 100 East Pratt Street ***
+Height: 127.55
+Floors: 28
+Status: Completed
+Started: 1991
+Completed: 1992
+Functions: office
+Rank: 7
+
+*** World Trade Center ***
+Height: 123.45
+Floors: 32
+Status: Completed
+Started: 1968
+Completed: 1977
+Functions: office
+Rank: 8
+
+*** Embassy Suites by Hilton ***
+Height: 120.4
+Floors: 37
+Status: Completed
+Completed: 1967
+Functions: hotel
+Rank: 9
+
+*** Charles Towers South Apartments ***
+Height: 117.35
+Floors: 30
+Status: Completed
+Started: 1965
+Completed: 1969
+Functions: residential
+Rank: 10
+
+*** One Light Street ***
+Height: 110.95
+Floors: 26
+Status: Architecturally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential / office
+Rank: 11
+
+*** Blaustein Building ***
+Height: 109.73
+Floors: 30
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 12
+
+*** 250 West Pratt Street ***
+Height: 109.73
+Floors: 24
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 13
+
+*** Towers at Harbor Court ***
+Height: 108.51
+Floors: 28
+Status: Completed
+Completed: 1987
+Functions: residential
+Rank: 14
+
+*** Four Seasons Baltimore & Residences ***
+Height: 107.29
+Floors: 28
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential / hotel
+Rank: 15
+
+*** St. Paul Plaza ***
+Height: 106.7
+Floors: 25
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 16
+
+*** Exelon Tower ***
+Height: 106.7
+Floors: 20
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / office
+Rank: 17
+
+*** 201 North Charles Street Building ***
+Height: 106.68
+Floors: 28
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 18
+
+*** Charles Towers North Apartments ***
+Height: 106.68
+Floors: 27
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 19
+
+*** Legg Mason Tower ***
+Height: 106.68
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2009
+Functions: office
+Rank: 20
+
+*** The Gallery at Harborplace ***
+Height: 105.5
+Floors: 28
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 21
+
+*** 414 Water Street ***
+Height: 104.75
+Floors: 33
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 22
+
+*** HarborView Condominium ***
+Height: 104.4
+Floors: 29
+Status: Completed
+Completed: 1993
+Functions: residential
+Rank: 23
+
+*** Charles Center South ***
+Height: 100.59
+Floors: 25
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 24
+
+*** Wells Fargo Tower ***
+Height: 100.59
+Floors: 25
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 24
+
+*** M & T Bank Building ***
+Height: 96.01
+Floors: 22
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 26
+
+*** The Vue Harbor East ***
+Height: 93.27
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / hotel
+Rank: 27
+
+*** Mary Catherine Bunting Building at Mercy Medical Center ***
+Height: 92.05
+Floors: 18
+Status: Completed
+Completed: 2010
+Functions: hospital
+Rank: 28
+
+*** Emerson Tower ***
+Height: 88.1
+Floors: 15
+Status: Completed
+Started: 1907
+Completed: 1911
+Functions: office
+Rank: 29
+
+*** Mercy Medical Center Inpatient Tower ***
+Height: 84
+Floors: 20
+Status: Completed
+Started: 1958
+Completed: 1963
+Functions: hospital
+Rank: 30
+
+*** 750 East Pratt Street ***
+Height: 83
+Floors: 18
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 31
+
+*** One Charles Center ***
+Height: 82
+Floors: 25
+Status: Completed
+Started: 1961
+Completed: 1963
+Functions: office
+Rank: 32
+
+*** First National Bank Building ***
+Height: 77.42
+Floors: 20
+Status: Completed
+Completed: 1924
+Functions: office
+Rank: 33

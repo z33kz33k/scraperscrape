@@ -1,0 +1,18 @@
+*** Albania (2) ***
+1. Tirana, 2
+
+******************** DETAILS ********************
+
+*** Albania ***
+Region: Europe
+1 city: Tirana
+Tiers: I: 2
+Rating: 2
+
+*** Tirana ***
+Country: Albania
+Region: Europe
+2 towers: TID Tower, ABA Business Center
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17

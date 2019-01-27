@@ -1,0 +1,145 @@
+*** Fort Lauderdale (25) ***
+1.  100 Las Olas, 151m
+2.  Icon Las Olas, 139m
+3.  Las Olas River House I, 138m
+4.  110 Tower, 125m
+5.  Bank of America Plaza, 124m
+6.  Las Olas Grand, 121m
+7.  One Financial Plaza, 114m
+8.  8th Avenue Residence, 112m
+9.  Broward County Judicial Complex, 108m
+10. The Palms 2, 105m
+11. The Palms 1, 104m
+12. Broward Financial Center, 99m
+13. Conrad Fort Lauderdale Beach, 81m
+14. AutoNation Headquarters, 80m
+
+******************** DETAILS ********************
+
+*** Fort Lauderdale ***
+Country: United States
+Region: North America
+14 towers: 100 Las Olas, Icon Las Olas, Las Olas River House I, 110 Tower, Bank of America Plaza, Las Olas Grand, One Financial Plaza, 8th Avenue Residence, Broward County Judicial Complex, The Palms 2, The Palms 1, Broward Financial Center, Conrad Fort Lauderdale Beach, AutoNation Headquarters
+Tiers: I: 5, II: 8, III: 1
+Rating: 25 (16.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** 100 Las Olas ***
+Height: 150.87
+Floors: 46
+Status: Under Construction
+Started: 2016
+Completed: 2020
+Functions: residential / hotel
+Rank: 1
+
+*** Icon Las Olas ***
+Height: 138.7
+Floors: 45
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / retail
+Rank: 2
+
+*** Las Olas River House I ***
+Height: 137.77
+Floors: 42
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 3
+
+*** 110 Tower ***
+Height: 124.97
+Floors: 30
+Status: Completed
+Completed: 1988
+Functions: office
+Rank: 4
+
+*** Bank of America Plaza ***
+Height: 124.36
+Floors: 23
+Status: Completed
+Started: 2000
+Completed: 2002
+Functions: office
+Rank: 5
+
+*** Las Olas Grand ***
+Height: 121
+Floors: 38
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: residential
+Rank: 6
+
+*** One Financial Plaza ***
+Height: 114.3
+Floors: 28
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 7
+
+*** 8th Avenue Residence ***
+Height: 112.5
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 8
+
+*** Broward County Judicial Complex ***
+Height: 108
+Floors: 20
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: government
+Rank: 9
+
+*** The Palms 2 ***
+Height: 105.16
+Floors: 32
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 10
+
+*** The Palms 1 ***
+Height: 104.24
+Floors: 30
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 11
+
+*** Broward Financial Center ***
+Height: 98.76
+Floors: 24
+Status: Completed
+Started: 1983
+Completed: 1985
+Functions: office
+Rank: 12
+
+*** Conrad Fort Lauderdale Beach ***
+Height: 81
+Floors: 23
+Status: Completed
+Completed: 2016
+Functions: residential / hotel
+Rank: 13
+
+*** AutoNation Headquarters ***
+Height: 79.86
+Floors: 17
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 14

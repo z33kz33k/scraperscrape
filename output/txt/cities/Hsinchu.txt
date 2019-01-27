@@ -1,0 +1,20 @@
+*** Hsinchu (2) ***
+1. Hsinchu Ambassador Hotel, 130m
+
+******************** DETAILS ********************
+
+*** Hsinchu ***
+Country: Taiwan
+Region: Asia
+1 tower: Hsinchu Ambassador Hotel
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hsinchu Ambassador Hotel ***
+Height: 130
+Floors: 24
+Status: Completed
+Completed: 2001
+Functions: hotel / retail
+Rank: 1

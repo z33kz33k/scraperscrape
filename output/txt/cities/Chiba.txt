@@ -1,0 +1,51 @@
+*** Chiba (16) ***
+1. Apa Hotel & Resort Tokyo Bay, 181m
+2. Marive East, 158m
+3. Marive West, 158m
+4. Chiba Central Tower, 152m
+
+******************** DETAILS ********************
+
+*** Chiba ***
+Country: Japan
+Region: Asia
+4 towers: Apa Hotel & Resort Tokyo Bay, Marive East, Marive West, Chiba Central Tower
+Tiers: III: 4
+Rating: 16
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Apa Hotel & Resort Tokyo Bay ***
+Height: 180.82
+Floors: 49
+Status: Completed
+Started: 1988
+Completed: 1993
+Functions: hotel
+Rank: 1
+
+*** Marive East ***
+Height: 157.5
+Floors: 37
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 2
+
+*** Marive West ***
+Height: 157.5
+Floors: 37
+Status: Completed
+Started: 1989
+Completed: 1991
+Functions: office
+Rank: 2
+
+*** Chiba Central Tower ***
+Height: 151.5
+Floors: 43
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 4

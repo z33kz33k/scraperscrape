@@ -1,0 +1,49 @@
+*** Thane (10) ***
+1. Parkwoods D5, 156m
+2. Parkwoods D6, 156m
+3. Whitefield, 100m
+4. Springhill, 96m
+
+******************** DETAILS ********************
+
+*** Thane ***
+Country: India
+Region: Asia
+4 towers: Parkwoods D5, Parkwoods D6, Whitefield, Springhill
+Tiers: I: 2, III: 2
+Rating: 10 (80.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Parkwoods D5 ***
+Height: 156.25
+Floors: 48
+Status: Under Construction
+Started: 2018
+Completed: 2024
+Functions: residential
+Rank: 1
+
+*** Parkwoods D6 ***
+Height: 156.25
+Floors: 48
+Status: Under Construction
+Started: 2018
+Completed: 2024
+Functions: residential
+Rank: 1
+
+*** Whitefield ***
+Height: 100
+Floors: 28
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 3
+
+*** Springhill ***
+Height: 96
+Floors: 28
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 4

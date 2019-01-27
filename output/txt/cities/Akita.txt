@@ -1,0 +1,20 @@
+*** Akita (1) ***
+1. Belle Demeure Landmark Akita, 95m
+
+******************** DETAILS ********************
+
+*** Akita ***
+Country: Japan
+Region: Asia
+1 tower: Belle Demeure Landmark Akita
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Belle Demeure Landmark Akita ***
+Height: 95.3
+Floors: 30
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 1

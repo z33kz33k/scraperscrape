@@ -1,0 +1,39 @@
+*** Delft (3) ***
+1. TU Delft faculteit Informatietechnologie en Systemen, 90m
+2. Torenhove, 83m
+3. Vermeertoren, 75m
+
+******************** DETAILS ********************
+
+*** Delft ***
+Country: Netherlands
+Region: Europe
+3 towers: TU Delft faculteit Informatietechnologie en Systemen, Torenhove, Vermeertoren
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** TU Delft faculteit Informatietechnologie en Systemen ***
+Height: 90
+Floors: 22
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 1
+
+*** Torenhove ***
+Height: 83
+Floors: 22
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 2
+
+*** Vermeertoren ***
+Height: 75
+Floors: 25
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 3

@@ -1,0 +1,40 @@
+*** Amman (7) ***
+1. Amman Rotana Hotel, 188m
+2. The Heights, 133m
+3. Le Royal Hotel, 105m
+
+******************** DETAILS ********************
+
+*** Amman ***
+Country: Jordan
+Region: Middle East
+3 towers: Amman Rotana Hotel, The Heights, Le Royal Hotel
+Tiers: I: 1, II: 1, III: 1
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Amman Rotana Hotel ***
+Height: 188
+Floors: 50
+Status: Completed
+Started: 2010
+Completed: 2015
+Functions: hotel
+Rank: 1
+
+*** The Heights ***
+Height: 133.2
+Floors: 35
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 2
+
+*** Le Royal Hotel ***
+Height: 105
+Floors: 30
+Status: Completed
+Started: 1996
+Completed: 2002
+Functions: hotel
+Rank: 3

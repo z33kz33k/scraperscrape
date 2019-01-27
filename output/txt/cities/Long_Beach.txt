@@ -1,0 +1,65 @@
+*** Long Beach (7) ***
+1. One World Trade Center, 121m
+2. West Ocean Condominiums I, 105m
+3. Landmark Square, 95m
+4. International Tower, 84m
+5. Villa Riviera	, 84m
+6. West Ocean Condominiums II, 77m
+
+******************** DETAILS ********************
+
+*** Long Beach ***
+Country: United States
+Region: North America
+6 towers: One World Trade Center, West Ocean Condominiums I, Landmark Square, International Tower, Villa Riviera	, West Ocean Condominiums II
+Tiers: I: 5, II: 1
+Rating: 7
+Scraped on: 2019-Jan-20 16:05:16
+
+*** One World Trade Center ***
+Height: 121
+Floors: 30
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 1
+
+*** West Ocean Condominiums I ***
+Height: 105.16
+Floors: 29
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 2
+
+*** Landmark Square ***
+Height: 95.1
+Floors: 24
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 3
+
+*** International Tower ***
+Height: 84.43
+Floors: 27
+Status: Completed
+Completed: 1967
+Functions: residential
+Rank: 4
+
+*** Villa Riviera	 ***
+Height: 84.43
+Floors: 16
+Status: Completed
+Started: 1927
+Completed: 1929
+Functions: residential / residential
+Rank: 5
+
+*** West Ocean Condominiums II ***
+Height: 77.12
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 6

@@ -1,0 +1,207 @@
+*** Foshan (69) ***
+1.  Foshan Suning Plaza Tower 1, 318m
+2.  Poly Business Center Office Tower, 248m
+3.  Louvre International Furniture Headquarters Building, 236m
+4.  Chancheng Greenland Center Phase 2 Office Tower 2, 215m
+5.  Chancheng Greenland Center Phase 2 Office Tower 1, 214m
+6.  Foshan International Plaza, 208m
+7.  Baihua Plaza, 204m
+8.  Foshan Opera Tower, 160m
+9.  Foshan Information Building, 151m
+10. Foshan Beijiao Fortune Center, 144m
+11. One AIA Financial Center, 141m
+12. Foshan Midea Square, 122m
+13. Nanhai Waterside Apartments 1, 120m
+14. Nanhai Waterside Apartments 2, 120m
+15. Nanhai Waterside Apartments 3, 120m
+16. Nanhai Waterside Apartments 4, 120m
+17. Poly Business Center Hotel Tower, 116m
+18. Chancheng Greenland Center Phase 1 Office Tower, 107m
+19. Chancheng Greenland Center Phase 2 Office Tower 3, 100m
+20. Thrive United IFC 1, 97m
+21. Thrive United IFC 2, 97m
+
+******************** DETAILS ********************
+
+*** Foshan ***
+Country: China
+Region: Asia
+21 towers: Foshan Suning Plaza Tower 1, Poly Business Center Office Tower, Louvre International Furniture Headquarters Building, Chancheng Greenland Center Phase 2 Office Tower 2, Chancheng Greenland Center Phase 2 Office Tower 1, Foshan International Plaza, Baihua Plaza, Foshan Opera Tower, Foshan Information Building, Foshan Beijiao Fortune Center, One AIA Financial Center, Foshan Midea Square, Nanhai Waterside Apartments 1, Nanhai Waterside Apartments 2, Nanhai Waterside Apartments 3, Nanhai Waterside Apartments 4, Poly Business Center Hotel Tower, Chancheng Greenland Center Phase 1 Office Tower, Chancheng Greenland Center Phase 2 Office Tower 3, Thrive United IFC 1, Thrive United IFC 2
+Tiers: I: 3, II: 9, III: 4, IV: 4, V: 1
+Rating: 69 (33.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Foshan Suning Plaza Tower 1 ***
+Height: 318
+Floors: 90
+Status: Under Construction
+Started: 2014
+Functions: hotel / office
+Rank: 1
+
+*** Poly Business Center Office Tower ***
+Height: 248
+Floors: 55
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: office
+Rank: 2
+
+*** Louvre International Furniture Headquarters Building ***
+Height: 236
+Floors: 43
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: office
+Rank: 3
+
+*** Chancheng Greenland Center Phase 2 Office Tower 2 ***
+Height: 214.6
+Floors: 48
+Status: Under Construction
+Started: 2013
+Completed: 2019
+Functions: office
+Rank: 4
+
+*** Chancheng Greenland Center Phase 2 Office Tower 1 ***
+Height: 214
+Floors: 48
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 5
+
+*** Foshan International Plaza ***
+Height: 208.04
+Floors: 51
+Status: Completed
+Started: 1992
+Completed: 2008
+Functions: hotel / office
+Rank: 6
+
+*** Baihua Plaza ***
+Height: 203.9
+Floors: 54
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 7
+
+*** Foshan Opera Tower ***
+Height: 160
+Status: Under Construction
+Functions: other / Museum
+Rank: 8
+
+*** Foshan Information Building ***
+Height: 150.6
+Floors: 25
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: office
+Rank: 9
+
+*** Foshan Beijiao Fortune Center ***
+Height: 144.3
+Floors: 34
+Status: Under Construction
+Functions: office
+Rank: 10
+
+*** One AIA Financial Center ***
+Height: 140.65
+Floors: 28
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 11
+
+*** Foshan Midea Square ***
+Height: 121.6
+Floors: 32
+Status: Under Construction
+Functions: residential
+Rank: 12
+
+*** Nanhai Waterside Apartments 1 ***
+Height: 119.95
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 13
+
+*** Nanhai Waterside Apartments 2 ***
+Height: 119.95
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 13
+
+*** Nanhai Waterside Apartments 3 ***
+Height: 119.95
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 13
+
+*** Nanhai Waterside Apartments 4 ***
+Height: 119.95
+Floors: 40
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 13
+
+*** Poly Business Center Hotel Tower ***
+Height: 116
+Floors: 22
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: hotel
+Rank: 17
+
+*** Chancheng Greenland Center Phase 1 Office Tower ***
+Height: 107.4
+Floors: 25
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 18
+
+*** Chancheng Greenland Center Phase 2 Office Tower 3 ***
+Height: 100
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 19
+
+*** Thrive United IFC 1 ***
+Height: 97.4
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 20
+
+*** Thrive United IFC 2 ***
+Height: 97.4
+Floors: 23
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 20

@@ -1,0 +1,36 @@
+*** Denmark (14) ***
+1. Copenhagen, 12
+2. Frederiksberg, 1
+3. Arhus, 1
+
+******************** DETAILS ********************
+
+*** Denmark ***
+Region: Europe
+3 cities: Copenhagen, Frederiksberg, Arhus
+Tiers: I: 12, II: 1
+Rating: 14 (7.1% uncompleted)
+
+*** Copenhagen ***
+Country: Denmark
+Region: Europe
+11 towers: Bohrs Tårn , UCC Carlsberg, Carlsberg Hovedkontor, Radisson SAS Scandinavia, Crowne Plaza, North Wing, Ferring International Center, Bella Sky Tower 1, Bella Sky Tower 2, Maersk Tower, Herlev Hospital
+Tiers: I: 10, II: 1
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Frederiksberg ***
+Country: Denmark
+Region: Europe
+1 tower: Domus Vista
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Arhus ***
+Country: Denmark
+Region: Europe
+1 tower: University Hospital
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

@@ -1,0 +1,21 @@
+*** Rimini (1) ***
+1. Grattacielo di Rimini, 86m
+
+******************** DETAILS ********************
+
+*** Rimini ***
+Country: Italy
+Region: Europe
+1 tower: Grattacielo di Rimini
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Grattacielo di Rimini ***
+Height: 86.5
+Floors: 27
+Status: Completed
+Started: 1956
+Completed: 1957
+Functions: residential / office
+Rank: 1

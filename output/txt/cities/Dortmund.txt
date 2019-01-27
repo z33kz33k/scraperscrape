@@ -1,0 +1,21 @@
+*** Dortmund (1) ***
+1. RWE Tower, 89m
+
+******************** DETAILS ********************
+
+*** Dortmund ***
+Country: Germany
+Region: Europe
+1 tower: RWE Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** RWE Tower ***
+Height: 88.7
+Floors: 22
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: office
+Rank: 1

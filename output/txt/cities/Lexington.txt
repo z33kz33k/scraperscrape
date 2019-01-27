@@ -1,0 +1,20 @@
+*** Lexington (2) ***
+1. Lexington Financial Center, 125m
+
+******************** DETAILS ********************
+
+*** Lexington ***
+Country: United States
+Region: North America
+1 tower: Lexington Financial Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Lexington Financial Center ***
+Height: 124.97
+Floors: 30
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 1

@@ -1,0 +1,18 @@
+*** Azerbaijan (58) ***
+1. Baku, 58
+
+******************** DETAILS ********************
+
+*** Azerbaijan ***
+Region: Asia
+1 city: Baku
+Tiers: I: 2, II: 9, III: 8, IV: 1
+Rating: 58 (44.8% uncompleted)
+
+*** Baku ***
+Country: Azerbaijan
+Region: Asia
+20 towers: Baku Tower, The Crescent City, SOCAR Tower, Flame Tower 1, The Crescent Place, Ministry of Taxes, The Crescent Hotel, Flame Tower 2, Flame Tower 3, SOFAZ Tower, Port Baku Residence Block A, Azinko Tower, Trump International Hotel & Tower Baku, Azersu Office Tower, Port Baku Business Center, Yeni Hayat City Office Tower, Property Tower Baku, Demirci Plaza, New Life Plaza, Atabank
+Tiers: I: 2, II: 9, III: 8, IV: 1
+Rating: 58 (44.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

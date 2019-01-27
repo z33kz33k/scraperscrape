@@ -1,0 +1,38 @@
+*** Haifa (5) ***
+1. The Sail Tower, 137m
+2. IEC Tower, 130m
+3. Eshkol Tower, 102m
+
+******************** DETAILS ********************
+
+*** Haifa ***
+Country: Israel
+Region: Middle East
+3 towers: The Sail Tower, IEC Tower, Eshkol Tower
+Tiers: I: 1, II: 2
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** The Sail Tower ***
+Height: 137
+Floors: 29
+Status: Completed
+Completed: 2002
+Functions: government
+Rank: 1
+
+*** IEC Tower ***
+Height: 130
+Floors: 30
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 2
+
+*** Eshkol Tower ***
+Height: 102
+Floors: 30
+Status: Completed
+Completed: 1978
+Functions: office
+Rank: 3

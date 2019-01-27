@@ -1,0 +1,20 @@
+*** Mianyang (2) ***
+1. Xinyi Mansion, 139m
+
+******************** DETAILS ********************
+
+*** Mianyang ***
+Country: China
+Region: Asia
+1 tower: Xinyi Mansion
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Xinyi Mansion ***
+Height: 138.68
+Floors: 36
+Status: Completed
+Started: 1996
+Completed: 2001
+Rank: 1

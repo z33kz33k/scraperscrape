@@ -1,0 +1,20 @@
+*** Montreux (1) ***
+1. Tour D`Ivoire, 79m
+
+******************** DETAILS ********************
+
+*** Montreux ***
+Country: Switzerland
+Region: Europe
+1 tower: Tour D`Ivoire
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tour D`Ivoire ***
+Height: 79
+Floors: 25
+Status: Completed
+Completed: 1962
+Functions: residential
+Rank: 1

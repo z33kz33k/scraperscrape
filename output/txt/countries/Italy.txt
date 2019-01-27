@@ -1,0 +1,126 @@
+*** Italy (123) ***
+1.  Milan, 61
+2.  Naples, 22
+3.  Genoa, 12
+4.  Turin, 11
+5.  Rome, 4
+6.  Bologna, 3
+7.  Latina, 2
+8.  Brescia, 2
+9.  Cesenatico, 2
+10. Padova, 1
+11. Rimini, 1
+12. Livorno, 1
+13. Jesolo, 1
+
+******************** DETAILS ********************
+
+*** Italy ***
+Region: Europe
+13 cities: Milan, Naples, Genoa, Turin, Rome, Bologna, Latina, Brescia, Cesenatico, Padova, Rimini, Livorno, Jesolo
+Tiers: I: 49, II: 22, III: 6, IV: 1
+Rating: 123 (8.1% uncompleted)
+
+*** Milan ***
+Country: Italy
+Region: Europe
+37 towers: Unicredit Tower, Allianz Tower, Generali Tower, PwC Tower, Palazzo Lombardia, Solaria, Diamantone, Pirelli Building, UnipolSai Tower, Torre Breda, Bosco Verticale Torre E, Torre Velasca, Torre Galfa, Porta Nuova Garibaldi Tower B, Torre Garibaldi B, Gemini Center 2, Gemini Center 1, Torre Garibaldi A, Torre Servizi Tecnici Comunali, Barcelò Milan, Porta Romana Tower, Quercia, Sequoia, Bosco Verticale Torre D, Torre Baggio 1, Torre Baggio 2, Torre Baggio 3, Torre Baggio 4, Torre Revere, Citta Contemporanea, Centro Svizzero, RCS-Headquarters, World Jewellery Center, Torre Monforte, Giax Tower, Torre Dacia, Torre di Adriano
+Tiers: I: 25, II: 7, III: 4, IV: 1
+Rating: 61 (9.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Naples ***
+Country: Italy
+Region: Europe
+14 towers: Telecom Italia, Torre ENEL 1, Torre ENEL 2, Torre Francesco, Torre Saverio, Consilio Regional Campania, New Law Courts Tower A, New Law Courts Tower B, Societa Cattolica Di Assicurazioni, NH Ambassador Hotel Naples, Edificio Eni-Italgas, Giunta Regione Campania, Holiday Inn Hotel, Direzione Ff.Ss.
+Tiers: I: 6, II: 8
+Rating: 22
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Genoa ***
+Country: Italy
+Region: Europe
+10 towers: Il Matitone, Torre Piacentini, Sip Tepi, World Trade Center, Centro Direzionale di San Benigno - Comparto 2, Torre Cantore, Torre Sampierdarena 1, Corte Lambruschini Tower 1, Torre Cap, Torre ELAH
+Tiers: I: 8, II: 2
+Rating: 12
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Turin ***
+Country: Italy
+Region: Europe
+5 towers: Regione Piemonte Headquarters, Grattacielo Intesa Sanpaolo, Torre Littoria, Michelin North Tower 2, CTO Tower
+Tiers: I: 3, III: 2
+Rating: 11 (36.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Rome ***
+Country: Italy
+Region: Europe
+3 towers: Torre EuroSky, Torre Europarco, Palazzo Eni
+Tiers: I: 2, II: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bologna ***
+Country: Italy
+Region: Europe
+2 towers: Torre Unipol, Torre Frascari
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Latina ***
+Country: Italy
+Region: Europe
+1 tower: Torre Pontina
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Brescia ***
+Country: Italy
+Region: Europe
+1 tower: Crystal Palace
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cesenatico ***
+Country: Italy
+Region: Europe
+1 tower: Grattacielo di Cesenatico
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Padova ***
+Country: Italy
+Region: Europe
+1 tower: Net Center
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Rimini ***
+Country: Italy
+Region: Europe
+1 tower: Grattacielo di Rimini
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Livorno ***
+Country: Italy
+Region: Europe
+1 tower: Piazza Matteotti
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Jesolo ***
+Country: Italy
+Region: Europe
+1 tower: Merville - Casa nel Parco
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

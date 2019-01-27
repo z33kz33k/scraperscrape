@@ -1,0 +1,726 @@
+*** Nanjing (338) ***
+1.  Zifeng Tower, 450m
+2.  Golden Eagle Tiandi Tower A, 368m
+3.  Golden Eagle Tiandi Tower B, 328m
+4.  Deji Plaza, 324m
+5.  Walsin Centro 2, 315m
+6.  Jumeirah Nanjing Hotel & Cultural Centre Tower 2, 315m
+7.  Shimao SIC 1, 300m
+8.  Golden Eagle Tiandi Tower C, 300m
+9.  Nanjing International Finance Center A, 288m
+10. Walsin Centro 1, 274m
+11. Shimao SIC 2, 265m
+12. New Century Plaza Tower 1, 255m
+13. Jumeirah Nanjing Hotel & Cultural Centre Tower 1, 255m
+14. Xinjiekou Department Store Phase 2, 249m
+15. Asia Pacific Tower & Jinling Hotel, 242m
+16. Xindi Center, 232m
+17. China Merchants Financial Center, 232m
+18. Kingtown International Center, 231m
+19. China Merchants Bank Tower, 230m
+20. Golden Eagle International Shopping Center, 220m
+21. Shangmao Century Plaza, 218m
+22. Golden Eagle International Plaza, 214m
+23. Zhongshang Wanhao International Condominium, 210m
+24. Suning Ruicheng Phase 1 E06 #1, 210m
+25. Suning Ruicheng Phase 1 E07 #2, 210m
+26. Suning Ruicheng Phase 1 E08 #2, 210m
+27. Jiangsu TV Station Building, 209m
+28. Zhonghuan International Plaza, 203m
+29. Jiangsu Telecommunication Limited Company Multiple-Use Building, 200m
+30. Nanjing Financial City Tower 2, 200m
+31. Nanjing Financial City Tower 4, 200m
+32. Nanjing Financial City Tower 6, 200m
+33. Suning Electric Plaza, 200m
+34. Huali International Mansion, 195m
+35. Yanlord International Apartments Tower B, 195m
+36. Central International Plaza, 192m
+37. Galaxy International Plaza, 190m
+38. #1 Zhujiang Road Plaza, 186m
+39. Nanjing Yilai International Plaza, 185m
+40. Jiangsu Power Co. Headquarters, 185m
+41. Nanjing New World Center Tower A, 182m
+42. Nanjing New World Center Tower B, 182m
+43. Suning Ruicheng Phase 1 E07 #1, 182m
+44. Sky Capital, 182m
+45. Suning Ruicheng Phase 1 E08 #1, 182m
+46. Xinhua Daily Mansion, 179m
+47. Jiangsu News Center, 179m
+48. Chief Fine Building, 170m
+49. Nanjing Shimao Riviera New City 1, 169m
+50. Nanjing Financial City Tower 9, 169m
+51. Nanjing International Center 1, 169m
+52. Nanjing International Center 2, 169m
+53. Nanjing World Trade Center Tower 2, 168m
+54. Synnex Technology International Building, 166m
+55. Sheraton Nanjing Kingsley Hotel & Towers, 164m
+56. Xufu Lane Telecom Building, 160m
+57. Nanjing Tianan International Mansion, 158m
+58. Nanjing Financial City Tower 10, 152m
+59. Nanjing Financial City Tower 8, 152m
+60. Bank of Communications Building, 151m
+61. Dongcheng International Center Tower A, 150m
+62. Xuanwu Lake Mingren Tower, 150m
+63. Deji Mansion, 150m
+64. Changfa Center Office Tower 1, 150m
+65. Changfa Center Office Tower 2, 150m
+66. Yanlord International Apartments Tower A, 150m
+67. Nanjing Financial City Tower 1, 149m
+68. Nanjing Financial City Tower 3, 149m
+69. Nanjing Financial City Tower 5, 149m
+70. Fortune Building Tower A, 142m
+71. Fortune Building Tower B, 142m
+72. Nanjing World Trade Center Tower 3, 136m
+73. Nanjing World Trade Center Tower 4, 136m
+74. Nanjing Financial City Tower 7, 132m
+75. Jinling Hotel, 110m
+
+******************** DETAILS ********************
+
+*** Nanjing ***
+Country: China
+Region: Asia
+75 towers: Zifeng Tower, Golden Eagle Tiandi Tower A, Golden Eagle Tiandi Tower B, Deji Plaza, Walsin Centro 2, Jumeirah Nanjing Hotel & Cultural Centre Tower 2, Shimao SIC 1, Golden Eagle Tiandi Tower C, Nanjing International Finance Center A, Walsin Centro 1, Shimao SIC 2, New Century Plaza Tower 1, Jumeirah Nanjing Hotel & Cultural Centre Tower 1, Xinjiekou Department Store Phase 2, Asia Pacific Tower & Jinling Hotel, Xindi Center, China Merchants Financial Center, Kingtown International Center, China Merchants Bank Tower, Golden Eagle International Shopping Center, Shangmao Century Plaza, Golden Eagle International Plaza, Zhongshang Wanhao International Condominium, Suning Ruicheng Phase 1 E06 #1, Suning Ruicheng Phase 1 E07 #2, Suning Ruicheng Phase 1 E08 #2, Jiangsu TV Station Building, Zhonghuan International Plaza, Jiangsu Telecommunication Limited Company Multiple-Use Building, Nanjing Financial City Tower 2, Nanjing Financial City Tower 4, Nanjing Financial City Tower 6, Suning Electric Plaza, Huali International Mansion, Yanlord International Apartments Tower B, Central International Plaza, Galaxy International Plaza, #1 Zhujiang Road Plaza, Nanjing Yilai International Plaza, Jiangsu Power Co. Headquarters, Nanjing New World Center Tower A, Nanjing New World Center Tower B, Suning Ruicheng Phase 1 E07 #1, Sky Capital, Suning Ruicheng Phase 1 E08 #1, Xinhua Daily Mansion, Jiangsu News Center, Chief Fine Building, Nanjing Shimao Riviera New City 1, Nanjing Financial City Tower 9, Nanjing International Center 1, Nanjing International Center 2, Nanjing World Trade Center Tower 2, Synnex Technology International Building, Sheraton Nanjing Kingsley Hotel & Towers, Xufu Lane Telecom Building, Nanjing Tianan International Mansion, Nanjing Financial City Tower 10, Nanjing Financial City Tower 8, Bank of Communications Building, Dongcheng International Center Tower A, Xuanwu Lake Mingren Tower, Deji Mansion, Changfa Center Office Tower 1, Changfa Center Office Tower 2, Yanlord International Apartments Tower A, Nanjing Financial City Tower 1, Nanjing Financial City Tower 3, Nanjing Financial City Tower 5, Fortune Building Tower A, Fortune Building Tower B, Nanjing World Trade Center Tower 3, Nanjing World Trade Center Tower 4, Nanjing Financial City Tower 7, Jinling Hotel
+Tiers: II: 12, III: 41, IV: 14, V: 7, VI: 1
+Rating: 338 (17.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Zifeng Tower ***
+Height: 450
+Floors: 66
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: hotel / office
+Rank: 1
+
+*** Golden Eagle Tiandi Tower A ***
+Height: 368.05
+Floors: 76
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: hotel / office
+Rank: 2
+
+*** Golden Eagle Tiandi Tower B ***
+Height: 328
+Floors: 68
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: office
+Rank: 3
+
+*** Deji Plaza ***
+Height: 324
+Floors: 62
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: hotel / office
+Rank: 4
+
+*** Walsin Centro 2 ***
+Height: 315
+Floors: 70
+Status: Under Construction
+Started: 2015
+Completed: 2021
+Functions: hotel / office
+Rank: 5
+
+*** Jumeirah Nanjing Hotel & Cultural Centre Tower 2 ***
+Height: 315
+Floors: 67
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel / office
+Rank: 6
+
+*** Shimao SIC 1 ***
+Height: 300
+Floors: 64
+Status: Under Construction
+Started: 2018
+Functions: office / retail
+Rank: 7
+
+*** Golden Eagle Tiandi Tower C ***
+Height: 300
+Floors: 60
+Status: Architecturally Topped Out
+Started: 2013
+Completed: 2019
+Functions: office
+Rank: 8
+
+*** Nanjing International Finance Center A ***
+Height: 287.76
+Floors: 60
+Status: Under Construction
+Started: 2013
+Completed: 2019
+Functions: hotel / office / retail
+Rank: 9
+
+*** Walsin Centro 1 ***
+Height: 274
+Floors: 60
+Status: Under Construction
+Started: 2015
+Completed: 2021
+Functions: office
+Rank: 10
+
+*** Shimao SIC 2 ***
+Height: 265
+Floors: 65
+Status: Under Construction
+Started: 2018
+Functions: serviced apartments / hotel / retail
+Rank: 11
+
+*** New Century Plaza Tower 1 ***
+Height: 255.2
+Floors: 48
+Status: Completed
+Completed: 2006
+Functions: office
+Rank: 12
+
+*** Jumeirah Nanjing Hotel & Cultural Centre Tower 1 ***
+Height: 255
+Floors: 61
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: hotel
+Rank: 13
+
+*** Xinjiekou Department Store Phase 2 ***
+Height: 249
+Floors: 60
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: office
+Rank: 14
+
+*** Asia Pacific Tower & Jinling Hotel ***
+Height: 242
+Floors: 57
+Status: Completed
+Started: 2008
+Completed: 2014
+Functions: hotel / office
+Rank: 15
+
+*** Xindi Center ***
+Height: 232
+Floors: 53
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: office
+Rank: 16
+
+*** China Merchants Financial Center ***
+Height: 232
+Floors: 51
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 17
+
+*** Kingtown International Center ***
+Height: 231.2
+Floors: 56
+Status: Completed
+Started: 2005
+Completed: 2014
+Functions: hotel / office
+Rank: 18
+
+*** China Merchants Bank Tower ***
+Height: 230
+Floors: 48
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 19
+
+*** Golden Eagle International Shopping Center ***
+Height: 220
+Floors: 44
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: office / hotel / retail
+Rank: 20
+
+*** Shangmao Century Plaza ***
+Height: 218
+Floors: 56
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: office
+Rank: 21
+
+*** Golden Eagle International Plaza ***
+Height: 214
+Floors: 58
+Status: Completed
+Started: 1994
+Completed: 1998
+Functions: hotel / office
+Rank: 22
+
+*** Zhongshang Wanhao International Condominium ***
+Height: 210
+Floors: 54
+Status: Completed
+Started: 2004
+Completed: 2009
+Functions: residential
+Rank: 23
+
+*** Suning Ruicheng Phase 1 E06 #1 ***
+Height: 210
+Floors: 46
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 24
+
+*** Suning Ruicheng Phase 1 E07 #2 ***
+Height: 210
+Floors: 46
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 24
+
+*** Suning Ruicheng Phase 1 E08 #2 ***
+Height: 210
+Floors: 34
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 26
+
+*** Jiangsu TV Station Building ***
+Height: 209
+Floors: 37
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 27
+
+*** Zhonghuan International Plaza ***
+Height: 203
+Floors: 50
+Status: Completed
+Completed: 2008
+Functions: hotel / office
+Rank: 28
+
+*** Jiangsu Telecommunication Limited Company Multiple-Use Building ***
+Height: 200
+Floors: 48
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 29
+
+*** Nanjing Financial City Tower 2 ***
+Height: 200
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 30
+
+*** Nanjing Financial City Tower 4 ***
+Height: 200
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 30
+
+*** Nanjing Financial City Tower 6 ***
+Height: 200
+Floors: 46
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 30
+
+*** Suning Electric Plaza ***
+Height: 200
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 33
+
+*** Huali International Mansion ***
+Height: 195
+Floors: 46
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 34
+
+*** Yanlord International Apartments Tower B ***
+Height: 195
+Floors: 44
+Status: Completed
+Completed: 2006
+Functions: multiple
+Rank: 35
+
+*** Central International Plaza ***
+Height: 192
+Floors: 48
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 36
+
+*** Galaxy International Plaza ***
+Height: 190
+Floors: 45
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: hotel / office
+Rank: 37
+
+*** #1 Zhujiang Road Plaza ***
+Height: 186.15
+Floors: 53
+Status: Completed
+Completed: 2007
+Functions: office / hotel / retail
+Rank: 38
+
+*** Nanjing Yilai International Plaza ***
+Height: 185
+Floors: 48
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 39
+
+*** Jiangsu Power Co. Headquarters ***
+Height: 185
+Floors: 35
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 40
+
+*** Nanjing New World Center Tower A ***
+Height: 182
+Floors: 44
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 41
+
+*** Nanjing New World Center Tower B ***
+Height: 182
+Floors: 44
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 41
+
+*** Suning Ruicheng Phase 1 E07 #1 ***
+Height: 182
+Floors: 39
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: hotel / office
+Rank: 43
+
+*** Sky Capital ***
+Height: 182
+Floors: 38
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 44
+
+*** Suning Ruicheng Phase 1 E08 #1 ***
+Height: 182
+Floors: 29
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 45
+
+*** Xinhua Daily Mansion ***
+Height: 179
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 46
+
+*** Jiangsu News Center ***
+Height: 178.92
+Floors: 50
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 47
+
+*** Chief Fine Building ***
+Height: 170
+Floors: 45
+Status: Completed
+Completed: 1999
+Rank: 48
+
+*** Nanjing Shimao Riviera New City 1 ***
+Height: 169
+Floors: 53
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 49
+
+*** Nanjing Financial City Tower 9 ***
+Height: 169
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 50
+
+*** Nanjing International Center 1 ***
+Height: 168.55
+Floors: 38
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 51
+
+*** Nanjing International Center 2 ***
+Height: 168.55
+Floors: 35
+Status: Completed
+Completed: 2006
+Functions: hotel / office
+Rank: 52
+
+*** Nanjing World Trade Center Tower 2 ***
+Height: 168
+Floors: 37
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: hotel
+Rank: 53
+
+*** Synnex Technology International Building ***
+Height: 166.2
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 54
+
+*** Sheraton Nanjing Kingsley Hotel & Towers ***
+Height: 164
+Floors: 42
+Status: Completed
+Completed: 1998
+Functions: hotel
+Rank: 55
+
+*** Xufu Lane Telecom Building ***
+Height: 160
+Floors: 36
+Status: Completed
+Completed: 2004
+Functions: residential / office
+Rank: 56
+
+*** Nanjing Tianan International Mansion ***
+Height: 158
+Floors: 47
+Status: Completed
+Started: 1993
+Completed: 2003
+Functions: residential / office
+Rank: 57
+
+*** Nanjing Financial City Tower 10 ***
+Height: 152
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 58
+
+*** Nanjing Financial City Tower 8 ***
+Height: 152
+Floors: 35
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 58
+
+*** Bank of Communications Building ***
+Height: 151
+Floors: 35
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 60
+
+*** Dongcheng International Center Tower A ***
+Height: 150
+Floors: 44
+Status: Completed
+Functions: office
+Rank: 61
+
+*** Xuanwu Lake Mingren Tower ***
+Height: 150
+Floors: 36
+Status: Completed
+Completed: 2004
+Functions: office
+Rank: 62
+
+*** Deji Mansion ***
+Height: 150
+Floors: 35
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 63
+
+*** Changfa Center Office Tower 1 ***
+Height: 149.8
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 64
+
+*** Changfa Center Office Tower 2 ***
+Height: 149.8
+Floors: 26
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 64
+
+*** Yanlord International Apartments Tower A ***
+Height: 149.7
+Floors: 44
+Status: Completed
+Functions: hotel
+Rank: 66
+
+*** Nanjing Financial City Tower 1 ***
+Height: 149
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 67
+
+*** Nanjing Financial City Tower 3 ***
+Height: 149
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 67
+
+*** Nanjing Financial City Tower 5 ***
+Height: 149
+Floors: 34
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 67
+
+*** Fortune Building Tower A ***
+Height: 142
+Floors: 40
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 70
+
+*** Fortune Building Tower B ***
+Height: 142
+Floors: 40
+Status: Completed
+Completed: 2003
+Functions: office
+Rank: 70
+
+*** Nanjing World Trade Center Tower 3 ***
+Height: 136
+Floors: 38
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 72
+
+*** Nanjing World Trade Center Tower 4 ***
+Height: 136
+Floors: 38
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 72
+
+*** Nanjing Financial City Tower 7 ***
+Height: 132
+Floors: 30
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 74
+
+*** Jinling Hotel ***
+Height: 110.4
+Floors: 37
+Status: Completed
+Completed: 1982
+Functions: hotel
+Rank: 75

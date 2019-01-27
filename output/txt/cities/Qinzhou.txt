@@ -1,0 +1,438 @@
+*** Qinzhou (57) ***
+1.  Qinzhou North Bay Center, 238m
+2.  Qinzhou Zhengkun Building, 218m
+3.  Qinzhou North Bay International Hotel, 168m
+4.  Songyu · Time City G2, 107m
+5.  Songyu · Time City G1, 105m
+6.  Blue Sea International Building, 105m
+7.  Olin Washington 10#, 100m
+8.  Olin Washington 7#, 100m
+9.  Olin Washington 8#, 100m
+10. Olin Washington 9#, 100m
+11. Everbright Whitehead Lake Plaza 1#, 98m
+12. Everbright Whitehead Lake Plaza 10#, 98m
+13. Everbright Whitehead Lake Plaza 11#, 98m
+14. Everbright Whitehead Lake Plaza 12#, 98m
+15. Everbright Whitehead Lake Plaza 13#, 98m
+16. Everbright Whitehead Lake Plaza 14#, 98m
+17. Everbright Whitehead Lake Plaza 15#, 98m
+18. Everbright Whitehead Lake Plaza 2#, 98m
+19. Everbright Whitehead Lake Plaza 3#, 98m
+20. Everbright Whitehead Lake Plaza 4#, 98m
+21. Everbright Whitehead Lake Plaza 5#, 98m
+22. Everbright Whitehead Lake Plaza 6#, 98m
+23. Everbright Whitehead Lake Plaza 7#, 98m
+24. Everbright Whitehead Lake Plaza 8#, 98m
+25. Everbright Whitehead Lake Plaza 9#, 98m
+26. Olin Washington 2#, 98m
+27. Olin Washington 3#, 98m
+28. Central · Riverside One 2#, 98m
+29. Central · Riverside One 3#, 98m
+30. Olin Washington 6#, 97m
+31. Qin Jiang Li King 1#, 95m
+32. Urban Spring, 93m
+33. Central · Riverside One 4#, 92m
+34. Olin Washington 1#, 86m
+35. Olin Washington 5#, 86m
+36. Wan Jin Yue House 7#, 85m
+37. Qin Jiang Li King 6#, 81m
+38. Qin Jiang Li King 5#, 81m
+39. Qin Jiang Li King 2#, 77m
+40. Qin Jiang Li King 3#, 77m
+41. Wan Jin Yue House 1#, 76m
+42. Wan Jin Yue House 2#, 75m
+43. Wan Jin Yue House 3#, 75m
+
+******************** DETAILS ********************
+
+*** Qinzhou ***
+Country: China
+Region: Asia
+43 towers: Qinzhou North Bay Center, Qinzhou Zhengkun Building, Qinzhou North Bay International Hotel, Songyu · Time City G2, Songyu · Time City G1, Blue Sea International Building, Olin Washington 10#, Olin Washington 7#, Olin Washington 8#, Olin Washington 9#, Everbright Whitehead Lake Plaza 1#, Everbright Whitehead Lake Plaza 10#, Everbright Whitehead Lake Plaza 11#, Everbright Whitehead Lake Plaza 12#, Everbright Whitehead Lake Plaza 13#, Everbright Whitehead Lake Plaza 14#, Everbright Whitehead Lake Plaza 15#, Everbright Whitehead Lake Plaza 2#, Everbright Whitehead Lake Plaza 3#, Everbright Whitehead Lake Plaza 4#, Everbright Whitehead Lake Plaza 5#, Everbright Whitehead Lake Plaza 6#, Everbright Whitehead Lake Plaza 7#, Everbright Whitehead Lake Plaza 8#, Everbright Whitehead Lake Plaza 9#, Olin Washington 2#, Olin Washington 3#, Central · Riverside One 2#, Central · Riverside One 3#, Olin Washington 6#, Qin Jiang Li King 1#, Urban Spring, Central · Riverside One 4#, Olin Washington 1#, Olin Washington 5#, Wan Jin Yue House 7#, Qin Jiang Li King 6#, Qin Jiang Li King 5#, Qin Jiang Li King 2#, Qin Jiang Li King 3#, Wan Jin Yue House 1#, Wan Jin Yue House 2#, Wan Jin Yue House 3#
+Tiers: I: 39, II: 1, III: 1, IV: 2
+Rating: 57 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Qinzhou North Bay Center ***
+Height: 238
+Floors: 54
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** Qinzhou Zhengkun Building ***
+Height: 218
+Floors: 45
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 2
+
+*** Qinzhou North Bay International Hotel ***
+Height: 168
+Floors: 43
+Status: Completed
+Completed: 2017
+Functions: hotel
+Rank: 3
+
+*** Songyu · Time City G2 ***
+Height: 107.35
+Floors: 33
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 4
+
+*** Songyu · Time City G1 ***
+Height: 105.4
+Floors: 33
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 5
+
+*** Blue Sea International Building ***
+Height: 104.7
+Floors: 29
+Status: Completed
+Functions: office
+Rank: 6
+
+*** Olin Washington 10# ***
+Height: 100
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 7
+
+*** Olin Washington 7# ***
+Height: 100
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 7
+
+*** Olin Washington 8# ***
+Height: 100
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 7
+
+*** Olin Washington 9# ***
+Height: 100
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 7
+
+*** Everbright Whitehead Lake Plaza 1# ***
+Height: 98.5
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 10# ***
+Height: 98.5
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 11# ***
+Height: 98.5
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 12# ***
+Height: 98.5
+Floors: 32
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 13# ***
+Height: 98.5
+Floors: 32
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 14# ***
+Height: 98.5
+Floors: 32
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 15# ***
+Height: 98.5
+Floors: 32
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 2# ***
+Height: 98.5
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 3# ***
+Height: 98.5
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 4# ***
+Height: 98.5
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 5# ***
+Height: 98.5
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 6# ***
+Height: 98.5
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 7# ***
+Height: 98.5
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 8# ***
+Height: 98.5
+Floors: 32
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 11
+
+*** Everbright Whitehead Lake Plaza 9# ***
+Height: 98.5
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 11
+
+*** Olin Washington 2# ***
+Height: 98.5
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 26
+
+*** Olin Washington 3# ***
+Height: 98.5
+Floors: 31
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 26
+
+*** Central · Riverside One 2# ***
+Height: 98
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 28
+
+*** Central · Riverside One 3# ***
+Height: 98
+Floors: 32
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 28
+
+*** Olin Washington 6# ***
+Height: 97
+Floors: 31
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 30
+
+*** Qin Jiang Li King 1# ***
+Height: 95.3
+Floors: 31
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 31
+
+*** Urban Spring ***
+Height: 93
+Floors: 30
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 32
+
+*** Central · Riverside One 4# ***
+Height: 92
+Floors: 30
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 33
+
+*** Olin Washington 1# ***
+Height: 86.5
+Floors: 27
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 34
+
+*** Olin Washington 5# ***
+Height: 86.5
+Floors: 27
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: residential
+Rank: 34
+
+*** Wan Jin Yue House 7# ***
+Height: 84.9
+Floors: 28
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 36
+
+*** Qin Jiang Li King 6# ***
+Height: 80.7
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 37
+
+*** Qin Jiang Li King 5# ***
+Height: 80.7
+Floors: 25
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: residential
+Rank: 38
+
+*** Qin Jiang Li King 2# ***
+Height: 76.9
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 39
+
+*** Qin Jiang Li King 3# ***
+Height: 76.9
+Floors: 24
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 39
+
+*** Wan Jin Yue House 1# ***
+Height: 75.9
+Floors: 25
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 41
+
+*** Wan Jin Yue House 2# ***
+Height: 75.4
+Floors: 25
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 42
+
+*** Wan Jin Yue House 3# ***
+Height: 75.4
+Floors: 25
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 42

@@ -1,0 +1,259 @@
+*** Brussels (37) ***
+1.  Tour du Midi, 148m
+2.  Belfius Tower, 145m
+3.  UP-site, 142m
+4.  Tour Finances, 141m
+5.  Silver Tower, 136m
+6.  Madou Plaza, 120m
+7.  Proximus Tower I, 120m
+8.  Tour Brusilia, 113m
+9.  North Galaxy Tour A, 108m
+10. North Galaxy Tour B, 108m
+11. Tour Astro, 107m
+12. World Trade Center Tower III, 105m
+13. Proximus Tower II, 102m
+14. Manhattan Center, 102m
+15. World Trade Center Tower I, 102m
+16. World Trade Center Tower II, 102m
+17. Covent Garden Tower B, 100m
+18. The Hotel, 99m
+19. Zenith Building, 95m
+20. Bastion Tower, 90m
+21. Blue Tower, 88m
+22. BelView, 85m
+23. Ellipse Building A, 85m
+24. IT Tower, 80m
+25. Tour TBR, 80m
+26. Botanic Building, 75m
+
+******************** DETAILS ********************
+
+*** Brussels ***
+Country: Belgium
+Region: Europe
+26 towers: Tour du Midi, Belfius Tower, UP-site, Tour Finances, Silver Tower, Madou Plaza, Proximus Tower I, Tour Brusilia, North Galaxy Tour A, North Galaxy Tour B, Tour Astro, World Trade Center Tower III, Proximus Tower II, Manhattan Center, World Trade Center Tower I, World Trade Center Tower II, Covent Garden Tower B, The Hotel, Zenith Building, Bastion Tower, Blue Tower, BelView, Ellipse Building A, IT Tower, Tour TBR, Botanic Building
+Tiers: I: 15, II: 11
+Rating: 37 (5.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour du Midi ***
+Height: 148
+Floors: 38
+Status: Completed
+Started: 1995
+Completed: 1996
+Functions: government
+Rank: 1
+
+*** Belfius Tower ***
+Height: 145
+Floors: 38
+Status: Completed
+Started: 2002
+Completed: 2006
+Functions: office
+Rank: 2
+
+*** UP-site ***
+Height: 142
+Floors: 42
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential
+Rank: 3
+
+*** Tour Finances ***
+Height: 141
+Floors: 36
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 4
+
+*** Silver Tower ***
+Height: 136
+Floors: 30
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: office
+Rank: 5
+
+*** Madou Plaza ***
+Height: 120.15
+Floors: 34
+Status: Completed
+Started: 1963
+Completed: 1965
+Functions: office
+Rank: 6
+
+*** Proximus Tower I ***
+Height: 120
+Floors: 32
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 7
+
+*** Tour Brusilia ***
+Height: 113
+Floors: 36
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 8
+
+*** North Galaxy Tour A ***
+Height: 108
+Floors: 30
+Status: Completed
+Started: 1999
+Completed: 2004
+Functions: office
+Rank: 9
+
+*** North Galaxy Tour B ***
+Height: 108
+Floors: 30
+Status: Completed
+Started: 1999
+Completed: 2004
+Functions: office
+Rank: 9
+
+*** Tour Astro ***
+Height: 107
+Floors: 31
+Status: Completed
+Started: 1974
+Completed: 1976
+Functions: office
+Rank: 11
+
+*** World Trade Center Tower III ***
+Height: 105
+Floors: 28
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 12
+
+*** Proximus Tower II ***
+Height: 102
+Floors: 32
+Status: Completed
+Completed: 1994
+Functions: office
+Rank: 13
+
+*** Manhattan Center ***
+Height: 102
+Floors: 30
+Status: Completed
+Started: 1969
+Completed: 1973
+Functions: hotel / office
+Rank: 14
+
+*** World Trade Center Tower I ***
+Height: 102
+Floors: 28
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 15
+
+*** World Trade Center Tower II ***
+Height: 102
+Floors: 28
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 15
+
+*** Covent Garden Tower B ***
+Height: 99.8
+Floors: 27
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 17
+
+*** The Hotel ***
+Height: 99
+Floors: 30
+Status: Completed
+Started: 1963
+Completed: 1967
+Functions: hotel
+Rank: 18
+
+*** Zenith Building ***
+Height: 95
+Floors: 22
+Status: Completed
+Started: 2007
+Completed: 2008
+Functions: office
+Rank: 19
+
+*** Bastion Tower ***
+Height: 90
+Floors: 26
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 20
+
+*** Blue Tower ***
+Height: 88
+Floors: 25
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 21
+
+*** BelView ***
+Height: 85.39
+Floors: 25
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: residential / office / retail
+Rank: 22
+
+*** Ellipse Building A ***
+Height: 85
+Floors: 23
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 23
+
+*** IT Tower ***
+Height: 80
+Floors: 25
+Status: Completed
+Started: 1968
+Completed: 1971
+Functions: office
+Rank: 24
+
+*** Tour TBR ***
+Height: 80
+Floors: 23
+Status: Completed
+Completed: 1976
+Functions: office
+Rank: 25
+
+*** Botanic Building ***
+Height: 75
+Floors: 19
+Status: Completed
+Started: 1965
+Functions: office
+Rank: 26

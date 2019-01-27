@@ -1,0 +1,21 @@
+*** Brno (2) ***
+1. AZ Tower, 111m
+
+******************** DETAILS ********************
+
+*** Brno ***
+Country: Czech Republic
+Region: Europe
+1 tower: AZ Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** AZ Tower ***
+Height: 111
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential / office
+Rank: 1

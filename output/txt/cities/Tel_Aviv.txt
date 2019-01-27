@@ -1,0 +1,621 @@
+*** Tel Aviv (148) ***
+1.  ToHA Tower 1, 285m
+2.  Azrieli Sarona, 238m
+3.  Midtown Office Tower, 196m
+4.  Midtown Residential Tower, 196m
+5.  Azrieli Center Circular Tower, 187m
+6.  Azrieli Center Triangular Tower, 169m
+7.  Electra Tower, 169m
+8.  Alon Tower A, 162m
+9.  Alon Tower B, 162m
+10. Sitonai Market Tower II, 160m
+11. Sitonai Market Tower I, 160m
+12. Ha`arbaa Tower 1, 160m
+13. HaYovel Tower, 158m
+14. W-Tower, 156m
+15. Azrieli Center Square Tower, 154m
+16. Rothschild Tower, 154m
+17. Atidim 8 Tower, 150m
+18. Neve-Tzedek Tower, 147m
+19. W Prime, 147m
+20. Ha`arbaa Tower 2, 146m
+21. Yoo Tel Aviv 2, 142m
+22. Shalom Meir Tower, 142m
+23. Manhattan Tower, 140m
+24. Tel Aviv Towers I, 140m
+25. Tel Aviv Towers II, 140m
+26. Tel Aviv Towers III, 140m
+27. Tel Aviv Towers IV, 140m
+28. Marganit Tower, 138m
+29. First International Bank Tower, 132m
+30. Yoo Tel Aviv 1, 128m
+31. 22 Rothschild Tower, 127m
+32. Levinstein Tower, 124m
+33. Tzameret Tower 1, 123m
+34. Tzameret Tower 2, 123m
+35. Tzameret Tower 3, 123m
+36. White City Residence, 123m
+37. 1 Rothschild Boulevard, 120m
+38. 6 Remez Tower, 118m
+39. 17 Arlozorov, 116m
+40. Beeri Nerhardaa Tower, 115m
+41. ToHA Tower 2, 110m
+42. B.S.R. Tower 5, 109m
+43. W Boutique, 108m
+44. Isrotel Tower, 108m
+45. Aviv Ba Tzameret Tower, 108m
+46. Frishman 46, 107m
+47. Matcal Tower, 107m
+48. Dizengoff Tower, 106m
+49. B.S.R. Tower 6, 105m
+50. Assuta Village, 104m
+51. One Tower, 102m
+52. Rubenstein House, 102m
+53. NAM Tower, 101m
+54. Gan HaYir Tower, 100m
+55. Sonol Tower, 98m
+56. Millennium, 96m
+57. Platinum Tower, 96m
+58. Lev HaYir Tower, 95m
+59. Europe-Israel Tower, 95m
+60. Toyota Tower 1, 94m
+61. Alrov Tower, 93m
+62. G Tel Aviv, 93m
+63. King David Hotel, 82m
+64. Sheraton Hotel, 81m
+
+******************** DETAILS ********************
+
+*** Tel Aviv ***
+Country: Israel
+Region: Middle East
+64 towers: ToHA Tower 1, Azrieli Sarona, Midtown Office Tower, Midtown Residential Tower, Azrieli Center Circular Tower, Azrieli Center Triangular Tower, Electra Tower, Alon Tower A, Alon Tower B, Sitonai Market Tower II, Sitonai Market Tower I, Ha`arbaa Tower 1, HaYovel Tower, W-Tower, Azrieli Center Square Tower, Rothschild Tower, Atidim 8 Tower, Neve-Tzedek Tower, W Prime, Ha`arbaa Tower 2, Yoo Tel Aviv 2, Shalom Meir Tower, Manhattan Tower, Tel Aviv Towers I, Tel Aviv Towers II, Tel Aviv Towers III, Tel Aviv Towers IV, Marganit Tower, First International Bank Tower, Yoo Tel Aviv 1, 22 Rothschild Tower, Levinstein Tower, Tzameret Tower 1, Tzameret Tower 2, Tzameret Tower 3, White City Residence, 1 Rothschild Boulevard, 6 Remez Tower, 17 Arlozorov, Beeri Nerhardaa Tower, ToHA Tower 2, B.S.R. Tower 5, W Boutique, Isrotel Tower, Aviv Ba Tzameret Tower, Frishman 46, Matcal Tower, Dizengoff Tower, B.S.R. Tower 6, Assuta Village, One Tower, Rubenstein House, NAM Tower, Gan HaYir Tower, Sonol Tower, Millennium, Platinum Tower, Lev HaYir Tower, Europe-Israel Tower, Toyota Tower 1, Alrov Tower, G Tel Aviv, King David Hotel, Sheraton Hotel
+Tiers: I: 16, II: 32, III: 14, IV: 2
+Rating: 148 (15.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** ToHA Tower 1 ***
+Height: 285
+Floors: 63
+Status: Under Construction
+Completed: 2020
+Functions: office
+Rank: 1
+
+*** Azrieli Sarona ***
+Height: 238.38
+Floors: 54
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 2
+
+*** Midtown Office Tower ***
+Height: 196
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 3
+
+*** Midtown Residential Tower ***
+Height: 196
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: residential
+Rank: 3
+
+*** Azrieli Center Circular Tower ***
+Height: 187
+Floors: 49
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 5
+
+*** Azrieli Center Triangular Tower ***
+Height: 169
+Floors: 46
+Status: Completed
+Started: 1996
+Completed: 1999
+Functions: office
+Rank: 6
+
+*** Electra Tower ***
+Height: 168.95
+Floors: 45
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 7
+
+*** Alon Tower A ***
+Height: 161.65
+Floors: 42
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 8
+
+*** Alon Tower B ***
+Height: 161.65
+Floors: 42
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office
+Rank: 8
+
+*** Sitonai Market Tower II ***
+Height: 160.02
+Floors: 48
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / office
+Rank: 10
+
+*** Sitonai Market Tower I ***
+Height: 160.02
+Floors: 45
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential / office
+Rank: 11
+
+*** Ha`arbaa Tower 1 ***
+Height: 160
+Floors: 38
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 12
+
+*** HaYovel Tower ***
+Height: 158
+Floors: 42
+Status: Completed
+Started: 2000
+Completed: 2005
+Functions: office / government
+Rank: 13
+
+*** W-Tower ***
+Height: 156.4
+Floors: 46
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 14
+
+*** Azrieli Center Square Tower ***
+Height: 154
+Floors: 42
+Status: Completed
+Started: 1997
+Completed: 2007
+Functions: office
+Rank: 15
+
+*** Rothschild Tower ***
+Height: 154
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: residential
+Rank: 15
+
+*** Atidim 8 Tower ***
+Height: 149.8
+Floors: 36
+Status: Completed
+Started: 2006
+Completed: 2012
+Functions: office
+Rank: 17
+
+*** Neve-Tzedek Tower ***
+Height: 147
+Floors: 44
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 18
+
+*** W Prime ***
+Height: 146.9
+Floors: 43
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 19
+
+*** Ha`arbaa Tower 2 ***
+Height: 146
+Floors: 35
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: office
+Rank: 20
+
+*** Yoo Tel Aviv 2 ***
+Height: 142
+Floors: 41
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 21
+
+*** Shalom Meir Tower ***
+Height: 142
+Floors: 36
+Status: Completed
+Completed: 1965
+Functions: residential / office
+Rank: 22
+
+*** Manhattan Tower ***
+Height: 140
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 23
+
+*** Tel Aviv Towers I ***
+Height: 140
+Floors: 34
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 24
+
+*** Tel Aviv Towers II ***
+Height: 140
+Floors: 34
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 24
+
+*** Tel Aviv Towers III ***
+Height: 140
+Floors: 34
+Status: Under Construction
+Functions: residential
+Rank: 24
+
+*** Tel Aviv Towers IV ***
+Height: 140
+Floors: 34
+Status: Under Construction
+Functions: residential
+Rank: 24
+
+*** Marganit Tower ***
+Height: 138
+Floors: 17
+Status: Completed
+Completed: 1987
+Functions: government
+Rank: 28
+
+*** First International Bank Tower ***
+Height: 132
+Floors: 32
+Status: Completed
+Started: 2003
+Completed: 2009
+Functions: office
+Rank: 29
+
+*** Yoo Tel Aviv 1 ***
+Height: 128
+Floors: 39
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 30
+
+*** 22 Rothschild Tower ***
+Height: 126.87
+Floors: 29
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: hotel / office
+Rank: 31
+
+*** Levinstein Tower ***
+Height: 124
+Floors: 33
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 32
+
+*** Tzameret Tower 1 ***
+Height: 123
+Floors: 34
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 33
+
+*** Tzameret Tower 2 ***
+Height: 123
+Floors: 34
+Status: Completed
+Started: 1999
+Completed: 2002
+Functions: residential
+Rank: 33
+
+*** Tzameret Tower 3 ***
+Height: 123
+Floors: 34
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 33
+
+*** White City Residence ***
+Height: 123
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential
+Rank: 36
+
+*** 1 Rothschild Boulevard ***
+Height: 120.15
+Floors: 32
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office
+Rank: 37
+
+*** 6 Remez Tower ***
+Height: 117.9
+Floors: 32
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 38
+
+*** 17 Arlozorov ***
+Height: 116
+Floors: 30
+Status: Under Construction
+Functions: residential
+Rank: 39
+
+*** Beeri Nerhardaa Tower ***
+Height: 115
+Floors: 31
+Status: Completed
+Started: 2002
+Completed: 2008
+Functions: residential
+Rank: 40
+
+*** ToHA Tower 2 ***
+Height: 110.2
+Floors: 28
+Status: Under Construction
+Completed: 2018
+Functions: office
+Rank: 41
+
+*** B.S.R. Tower 5 ***
+Height: 108.7
+Floors: 30
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 42
+
+*** W Boutique ***
+Height: 108.5
+Floors: 31
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 43
+
+*** Isrotel Tower ***
+Height: 108
+Floors: 29
+Status: Completed
+Completed: 1997
+Functions: residential / hotel
+Rank: 44
+
+*** Aviv Ba Tzameret Tower ***
+Height: 107.9
+Floors: 32
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 45
+
+*** Frishman 46 ***
+Height: 107
+Floors: 28
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 46
+
+*** Matcal Tower ***
+Height: 107
+Floors: 17
+Status: Completed
+Completed: 2005
+Functions: government
+Rank: 47
+
+*** Dizengoff Tower ***
+Height: 106
+Floors: 29
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 48
+
+*** B.S.R. Tower 6 ***
+Height: 105.4
+Floors: 29
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 49
+
+*** Assuta Village ***
+Height: 104
+Floors: 26
+Status: Under Construction
+Functions: residential
+Rank: 50
+
+*** One Tower ***
+Height: 102
+Floors: 29
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 51
+
+*** Rubenstein House ***
+Height: 102
+Floors: 28
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 52
+
+*** NAM Tower ***
+Height: 101
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 53
+
+*** Gan HaYir Tower ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 1989
+Functions: residential
+Rank: 54
+
+*** Sonol Tower ***
+Height: 98
+Floors: 25
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: office
+Rank: 55
+
+*** Millennium ***
+Height: 96
+Floors: 25
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 56
+
+*** Platinum Tower ***
+Height: 96
+Floors: 23
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 57
+
+*** Lev HaYir Tower ***
+Height: 95
+Floors: 26
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 58
+
+*** Europe-Israel Tower ***
+Height: 95
+Floors: 24
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 59
+
+*** Toyota Tower 1 ***
+Height: 94
+Floors: 23
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 60
+
+*** Alrov Tower ***
+Height: 93
+Floors: 26
+Status: Completed
+Started: 1995
+Completed: 1999
+Functions: office
+Rank: 61
+
+*** G Tel Aviv ***
+Height: 93
+Floors: 24
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 62
+
+*** King David Hotel ***
+Height: 82
+Floors: 25
+Status: Completed
+Started: 1991
+Completed: 1994
+Functions: hotel
+Rank: 63
+
+*** Sheraton Hotel ***
+Height: 81
+Floors: 22
+Status: Completed
+Completed: 1976
+Functions: hotel
+Rank: 64

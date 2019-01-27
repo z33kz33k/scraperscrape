@@ -1,0 +1,20 @@
+*** Bristol (CT) (2) ***
+1. Otis Research Center, 117m
+
+******************** DETAILS ********************
+
+*** Bristol (CT) ***
+Country: United States
+Region: North America
+1 tower: Otis Research Center
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Otis Research Center ***
+Height: 116.74
+Floors: 29
+Status: Completed
+Completed: 1986
+Functions: industrial
+Rank: 1

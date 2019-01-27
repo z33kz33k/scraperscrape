@@ -1,0 +1,21 @@
+*** Bucaramanga (4) ***
+1. Majestic, 163m
+
+******************** DETAILS ********************
+
+*** Bucaramanga ***
+Country: Colombia
+Region: South America
+1 tower: Majestic
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Majestic ***
+Height: 163.1
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 1

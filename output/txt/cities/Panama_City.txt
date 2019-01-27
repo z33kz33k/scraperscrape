@@ -1,0 +1,678 @@
+*** Panama City (279) ***
+1.  JW Marriott Panama, 284m
+2.  Torre Vitri, 281m
+3.  Bicsa Financial Center, 267m
+4.  The Point, 266m
+5.  YooPanama Inspired by Starck, 247m
+6.  Ocean Two, 246m
+7.  Pearl Tower, 242m
+8.  Rivage, 233m
+9.  F&F Tower, 233m
+10. Torre Waters, 232m
+11. Tower Financial Center, 231m
+12. Megapolis Torre 1, 230m
+13. Elite 500 Dos Mares, 228m
+14. Q Tower, 226m
+15. Ten Tower, 221m
+16. White Tower, 218m
+17. Evolution Tower, 218m
+18. The Paramount, 214m
+19. Torre Aqualina, 210m
+20. Oasis on the Bay, 209m
+21. Ocean One, 208m
+22. Oceania Business Plaza 1, 207m
+23. HSBC Tower Soho Mall, 207m
+24. Torre Aquamare, 198m
+25. Yacht Club Tower, 196m
+26. Venetian Tower, 192m
+27. Allure at the Park, 185m
+28. Bahia Pacifica, 185m
+29. Destiny Panama Bay, 182m
+30. Costa del Este Country Club 1, 180m
+31. Sky Residences, 180m
+32. Pacific Village 1, 179m
+33. Pacific Village 2, 179m
+34. Torre Global Bank, 176m
+35. Financial Park, 174m
+36. Torre Mirage, 172m
+37. Dupont Tower, 170m
+38. Bella Mare, 169m
+39. Miramar Towers I, 168m
+40. Miramar Towers II, 168m
+41. Grand Tower, 168m
+42. Oceania Business Plaza 2, 168m
+43. Titanium, 166m
+44. Mystic Point Torre 100, 166m
+45. Mystic Point Torre 200, 166m
+46. Sevilla 1, 165m
+47. Sevilla 2, 165m
+48. Torre Vista Marina 1, 162m
+49. Torre Vista Marina 2, 162m
+50. Astoria, 160m
+51. Platinum Tower, 158m
+52. Hotel Las Americas Golden Tower, 152m
+53. Ritz-Carlton Soho Mall, 147m
+54. Soho Mall North Tower, 147m
+55. PH Plaza Credicorp Bank Panama, 146m
+56. Icon Tower, 145m
+57. Coastal Tower, 144m
+58. Ocean Park A, 141m
+59. Ocean Park B, 141m
+60. Mandarin Bay, 140m
+61. Torre Punta Roca, 138m
+62. Bahia Balboa, 138m
+63. Tao, 135m
+64. Terrazas del Pacifico, 135m
+65. HSBC Tower, 135m
+66. Torre Terranova I, 129m
+67. Terrasol 1, 128m
+68. Terrasol 2, 128m
+69. Terrasol 3, 128m
+70. BBVA Tower, 87m
+
+******************** DETAILS ********************
+
+*** Panama City ***
+Country: Panama
+Region: Central America
+70 towers: JW Marriott Panama, Torre Vitri, Bicsa Financial Center, The Point, YooPanama Inspired by Starck, Ocean Two, Pearl Tower, Rivage, F&F Tower, Torre Waters, Tower Financial Center, Megapolis Torre 1, Elite 500 Dos Mares, Q Tower, Ten Tower, White Tower, Evolution Tower, The Paramount, Torre Aqualina, Oasis on the Bay, Ocean One, Oceania Business Plaza 1, HSBC Tower Soho Mall, Torre Aquamare, Yacht Club Tower, Venetian Tower, Allure at the Park, Bahia Pacifica, Destiny Panama Bay, Costa del Este Country Club 1, Sky Residences, Pacific Village 1, Pacific Village 2, Torre Global Bank, Financial Park, Torre Mirage, Dupont Tower, Bella Mare, Miramar Towers I, Miramar Towers II, Grand Tower, Oceania Business Plaza 2, Titanium, Mystic Point Torre 100, Mystic Point Torre 200, Sevilla 1, Sevilla 2, Torre Vista Marina 1, Torre Vista Marina 2, Astoria, Platinum Tower, Hotel Las Americas Golden Tower, Ritz-Carlton Soho Mall, Soho Mall North Tower, PH Plaza Credicorp Bank Panama, Icon Tower, Coastal Tower, Ocean Park A, Ocean Park B, Mandarin Bay, Torre Punta Roca, Bahia Balboa, Tao, Terrazas del Pacifico, HSBC Tower, Torre Terranova I, Terrasol 1, Terrasol 2, Terrasol 3, BBVA Tower
+Tiers: I: 1, II: 17, III: 34, IV: 18
+Rating: 279
+Scraped on: 2019-Jan-20 16:05:17
+
+*** JW Marriott Panama ***
+Height: 284
+Floors: 70
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / hotel / casino
+Rank: 1
+
+*** Torre Vitri ***
+Height: 280.7
+Floors: 75
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 2
+
+*** Bicsa Financial Center ***
+Height: 267
+Floors: 66
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: hotel / office
+Rank: 3
+
+*** The Point ***
+Height: 266
+Floors: 67
+Status: Completed
+Completed: 2011
+Functions: residential
+Rank: 4
+
+*** YooPanama Inspired by Starck ***
+Height: 246.76
+Floors: 78
+Status: Completed
+Started: 2007
+Completed: 2013
+Functions: residential
+Rank: 5
+
+*** Ocean Two ***
+Height: 245.7
+Floors: 73
+Status: Completed
+Started: 2005
+Completed: 2010
+Functions: residential
+Rank: 6
+
+*** Pearl Tower ***
+Height: 242.15
+Floors: 70
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 7
+
+*** Rivage ***
+Height: 233.2
+Floors: 70
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 8
+
+*** F&F Tower ***
+Height: 232.7
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 9
+
+*** Torre Waters ***
+Height: 232
+Floors: 69
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 10
+
+*** Tower Financial Center ***
+Height: 231
+Floors: 52
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: office
+Rank: 11
+
+*** Megapolis Torre 1 ***
+Height: 230
+Floors: 63
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential / hotel
+Rank: 12
+
+*** Elite 500 Dos Mares ***
+Height: 228
+Floors: 60
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Q Tower ***
+Height: 225.83
+Floors: 68
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential
+Rank: 14
+
+*** Ten Tower ***
+Height: 221
+Floors: 54
+Status: Completed
+Started: 2006
+Completed: 2011
+Functions: residential
+Rank: 15
+
+*** White Tower ***
+Height: 218
+Floors: 62
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 16
+
+*** Evolution Tower ***
+Height: 217.88
+Floors: 54
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: hotel / office
+Rank: 17
+
+*** The Paramount ***
+Height: 214
+Floors: 59
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: residential
+Rank: 18
+
+*** Torre Aqualina ***
+Height: 210
+Floors: 61
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 19
+
+*** Oasis on the Bay ***
+Height: 209
+Floors: 58
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 20
+
+*** Ocean One ***
+Height: 208
+Floors: 54
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 21
+
+*** Oceania Business Plaza 1 ***
+Height: 207.3
+Floors: 53
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 22
+
+*** HSBC Tower Soho Mall ***
+Height: 207
+Floors: 41
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 23
+
+*** Torre Aquamare ***
+Height: 198
+Floors: 56
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 24
+
+*** Yacht Club Tower ***
+Height: 196
+Floors: 57
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 25
+
+*** Venetian Tower ***
+Height: 192.4
+Floors: 47
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 26
+
+*** Allure at the Park ***
+Height: 185
+Floors: 55
+Status: Completed
+Started: 2009
+Completed: 2012
+Functions: residential
+Rank: 27
+
+*** Bahia Pacifica ***
+Height: 185
+Floors: 48
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 28
+
+*** Destiny Panama Bay ***
+Height: 182
+Floors: 51
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 29
+
+*** Costa del Este Country Club 1 ***
+Height: 180
+Floors: 54
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: residential
+Rank: 30
+
+*** Sky Residences ***
+Height: 180
+Floors: 51
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 31
+
+*** Pacific Village 1 ***
+Height: 179
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 32
+
+*** Pacific Village 2 ***
+Height: 179
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 32
+
+*** Torre Global Bank ***
+Height: 176
+Floors: 43
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 34
+
+*** Financial Park ***
+Height: 174
+Floors: 46
+Status: Completed
+Completed: 2015
+Functions: office
+Rank: 35
+
+*** Torre Mirage ***
+Height: 172
+Floors: 48
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 36
+
+*** Dupont Tower ***
+Height: 170
+Floors: 53
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential
+Rank: 37
+
+*** Bella Mare ***
+Height: 169.42
+Floors: 45
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 38
+
+*** Miramar Towers I ***
+Height: 168
+Floors: 55
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 39
+
+*** Miramar Towers II ***
+Height: 168
+Floors: 55
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 39
+
+*** Grand Tower ***
+Height: 168
+Floors: 48
+Status: Completed
+Started: 2008
+Completed: 2013
+Functions: residential
+Rank: 41
+
+*** Oceania Business Plaza 2 ***
+Height: 167.8
+Floors: 47
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: office
+Rank: 42
+
+*** Titanium ***
+Height: 166
+Floors: 48
+Status: Completed
+Started: 2007
+Completed: 2012
+Functions: residential
+Rank: 43
+
+*** Mystic Point Torre 100 ***
+Height: 166
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential / office
+Rank: 44
+
+*** Mystic Point Torre 200 ***
+Height: 166
+Floors: 42
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 44
+
+*** Sevilla 1 ***
+Height: 165
+Floors: 49
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 46
+
+*** Sevilla 2 ***
+Height: 165
+Floors: 49
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 46
+
+*** Torre Vista Marina 1 ***
+Height: 161.55
+Floors: 44
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 48
+
+*** Torre Vista Marina 2 ***
+Height: 161.55
+Floors: 44
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: residential
+Rank: 48
+
+*** Astoria ***
+Height: 160
+Floors: 36
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 50
+
+*** Platinum Tower ***
+Height: 158.5
+Floors: 47
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 51
+
+*** Hotel Las Americas Golden Tower ***
+Height: 151.8
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: hotel
+Rank: 52
+
+*** Ritz-Carlton Soho Mall ***
+Height: 147
+Floors: 24
+Status: Completed
+Completed: 2017
+Functions: hotel / casino / retail
+Rank: 53
+
+*** Soho Mall North Tower ***
+Height: 147
+Floors: 24
+Status: Completed
+Completed: 2017
+Functions: SOHO
+Rank: 53
+
+*** PH Plaza Credicorp Bank Panama ***
+Height: 146
+Floors: 42
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 55
+
+*** Icon Tower ***
+Height: 145
+Floors: 46
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 56
+
+*** Coastal Tower ***
+Height: 144
+Floors: 45
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 57
+
+*** Ocean Park A ***
+Height: 141
+Floors: 44
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 58
+
+*** Ocean Park B ***
+Height: 141
+Floors: 44
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 58
+
+*** Mandarin Bay ***
+Height: 140
+Floors: 42
+Status: Completed
+Completed: 2005
+Functions: residential
+Rank: 60
+
+*** Torre Punta Roca ***
+Height: 138
+Floors: 46
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 61
+
+*** Bahia Balboa ***
+Height: 138
+Floors: 33
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 62
+
+*** Tao ***
+Height: 135
+Floors: 43
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 63
+
+*** Terrazas del Pacifico ***
+Height: 135
+Floors: 42
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 64
+
+*** HSBC Tower ***
+Height: 135
+Floors: 37
+Status: Completed
+Functions: office
+Rank: 65
+
+*** Torre Terranova I ***
+Height: 129
+Floors: 33
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 66
+
+*** Terrasol 1 ***
+Height: 128
+Floors: 45
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 67
+
+*** Terrasol 2 ***
+Height: 128
+Floors: 45
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 67
+
+*** Terrasol 3 ***
+Height: 128
+Floors: 45
+Status: Completed
+Completed: 2009
+Functions: residential
+Rank: 67
+
+*** BBVA Tower ***
+Height: 87
+Floors: 25
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 70

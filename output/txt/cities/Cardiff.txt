@@ -1,0 +1,29 @@
+*** Cardiff (2) ***
+1. Capital Tower, 80m
+2. BT Stadium House, 78m
+
+******************** DETAILS ********************
+
+*** Cardiff ***
+Country: United Kingdom
+Region: Europe
+2 towers: Capital Tower, BT Stadium House
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Capital Tower ***
+Height: 79.86
+Floors: 25
+Status: Completed
+Completed: 1967
+Functions: office
+Rank: 1
+
+*** BT Stadium House ***
+Height: 78
+Floors: 17
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 2

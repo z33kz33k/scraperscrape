@@ -1,0 +1,27 @@
+*** Honduras (5) ***
+1. San Pedro Sula, 3
+2. Tegucigalpa, 2
+
+******************** DETAILS ********************
+
+*** Honduras ***
+Region: Central America
+2 cities: San Pedro Sula, Tegucigalpa
+Tiers: I: 3, II: 1
+Rating: 5 (40.0% uncompleted)
+
+*** San Pedro Sula ***
+Country: Honduras
+Region: Central America
+2 towers: Torres Igvanas Tara Eco City, Condominios Panorama Life Torre I
+Tiers: I: 1, II: 1
+Rating: 3 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tegucigalpa ***
+Country: Honduras
+Region: Central America
+2 towers: Sky Residence Club, Metropolis Tower 1
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17

@@ -1,0 +1,19 @@
+*** Tunis (1) ***
+1. Palais de Congress, 96m
+
+******************** DETAILS ********************
+
+*** Tunis ***
+Country: Tunisia
+Region: Africa
+1 tower: Palais de Congress
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Palais de Congress ***
+Height: 96
+Floors: 23
+Status: Completed
+Functions: government
+Rank: 1

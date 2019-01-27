@@ -1,0 +1,31 @@
+*** Mannheim (2) ***
+1. Appartment-Hochhaus am Collini-Center, 102m
+2. Victoria Turm, 97m
+
+******************** DETAILS ********************
+
+*** Mannheim ***
+Country: Germany
+Region: Europe
+2 towers: Appartment-Hochhaus am Collini-Center, Victoria Turm
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Appartment-Hochhaus am Collini-Center ***
+Height: 102
+Floors: 32
+Status: Completed
+Started: 1972
+Completed: 1975
+Functions: residential
+Rank: 1
+
+*** Victoria Turm ***
+Height: 97
+Floors: 27
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 2

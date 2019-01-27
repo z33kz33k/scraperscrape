@@ -1,0 +1,211 @@
+*** Asia (20978) ***
+1.  China, 13037
+2.  Japan, 1618
+3.  South Korea, 1267
+4.  Indonesia, 768
+5.  India, 732
+6.  Philippines, 588
+7.  Thailand, 555
+8.  Malaysia, 532
+9.  Singapore, 520
+10. Taiwan, 335
+11. Vietnam, 318
+12. Russia, 263
+13. North Korea, 146
+14. Sri Lanka, 69
+15. Azerbaijan, 58
+16. Kazakhstan, 46
+17. Pakistan, 34
+18. Georgia, 20
+19. Mongolia, 20
+20. Bangladesh, 17
+21. Cambodia, 10
+22. Laos, 6
+23. Turkmenistan, 6
+24. Uzbekistan, 6
+25. Brunei, 2
+26. Armenia, 2
+27. Maldives, 1
+28. Afghanistan, 1
+29. Myanmar, 1
+
+******************** DETAILS ********************
+
+*** Asia ***
+29 countries: China, Japan, South Korea, Indonesia, India, Philippines, Thailand, Malaysia, Singapore, Taiwan, Vietnam, Russia, North Korea, Sri Lanka, Azerbaijan, Kazakhstan, Pakistan, Georgia, Mongolia, Bangladesh, Cambodia, Laos, Turkmenistan, Uzbekistan, Brunei, Armenia, Maldives, Afghanistan, Myanmar
+Tiers: I: 1286, II: 1500, III: 2569, IV: 798, V: 166, VI: 30
+Rating: 20978 (18.8% uncompleted)
+
+*** China ***
+Region: Asia
+94 cities: Hong Kong, Shenzhen, Shanghai, Chongqing, Guangzhou, Nanning, Shenyang, Wuhan, Chengdu, Nanjing, Tianjin, Beijing, Hangzhou, Dalian, Changsha, Suzhou, Xiamen, Guigang, Guiyang, Hefei, Nanchang, Zhuhai, Xi’an, Ningbo, Jinan, Qingdao, Kunming, Liuzhou, Wuxi, Macau, Urumqi, Fuzhou, Yulin, Taiyuan, Beihai, Lanzhou, Foshan, Dongguan, Zhanjiang, Zhengzhou, Harbin, Qinzhou, Shijiazhuang, Changchun, Sanya, Laibin, Haikou, Huizhou, Ordos, Zhongshan, Wenzhou, Hezhou, Yinchuan, Hechi, Yantai, Guilin, Zhenjiang, Fangcheng, Changzhou, Wuzhou, Wuhu, Luoyang, Nantong, Huzhou, Quanzhou, Anshan, Jiangmen, Zibo, Jiujiang, Shaoxing, Taizhou, Lianyungang, Yiwu, Weihai, Yixing, Baoding, Xuzhou, Yangzhou, Chongzuo, Baise, Yichang, Baoji, Taicang, Yuxi, Shangyu, Hohhot, Rizhao, Mianyang, Linyi, Shantou, Ganzhou, Baotou, Huangshan, Jincheng
+Tiers: I: 733, II: 690, III: 1600, IV: 533, V: 137, VI: 23
+Rating: 13037 (20.4% uncompleted)
+
+*** Japan ***
+Region: Asia
+29 cities: Tokyo, Osaka, Yokohama, Kawasaki, Nagoya, Kobe, Sendai, Miyagi, Hiroshima, Chiba, Kitakyushu, Fukuoka, Sapporo, Saitama, Izumisano, Hamamatsu, Hachioji, Ichikawa, Takamatsu, Gifu, Kawaguchi, Inazawa, Miyazaki, Maebashi, Beppu, Oita, Aomori, Nagasaki, Morioka, Akita, Suita
+Tiers: I: 108, II: 225, III: 227, IV: 24, V: 1
+Rating: 1618 (1.9% uncompleted)
+
+*** South Korea ***
+Region: Asia
+16 cities: Seoul, Busan, Incheon, Goyang, Daejeon, Daegu, Hwaseong, Ulsan, Bucheon, Changwon, Anyang, Seongnam, Suwon, Chonan, Cheongju, Gwangju
+Tiers: I: 7, II: 90, III: 179, IV: 51, V: 6, VI: 1
+Rating: 1267 (8.1% uncompleted)
+
+*** Indonesia ***
+Region: Asia
+14 cities: Jakarta, Surabaya, Tangerang, Medan, Surakarta, Bandung, Makassar, Cikarang, South Tangerang City, Batam, Manado, Pekanbaru, Semarang, Bekasi
+Tiers: I: 54, II: 86, III: 84, IV: 29, V: 4
+Rating: 768 (17.2% uncompleted)
+
+*** India ***
+Region: Asia
+10 cities: Mumbai, Kolkata, Gurgaon, Noida, Bangalore, Hyderabad, Thane, Chennai, Mangalore, New Delhi
+Tiers: I: 40, II: 56, III: 84, IV: 38, V: 2
+Rating: 732 (50.1% uncompleted)
+
+*** Philippines ***
+Region: Asia
+11 cities: Makati, Mandaluyong, Taguig City, Manila, Pasig, Quezon City, San Juan (PH), Cebu, Cagayan de Oro, Mindanao, Muntinlupa, Davao, Mindanao
+Tiers: I: 8, II: 47, III: 81, IV: 27
+Rating: 588 (23.3% uncompleted)
+
+*** Thailand ***
+Region: Asia
+4 cities: Bangkok, Pattaya, Khon Kaen, Nonthaburi
+Tiers: I: 15, II: 30, III: 88, IV: 16, V: 4
+Rating: 555 (12.3% uncompleted)
+
+*** Malaysia ***
+Region: Asia
+7 cities: Kuala Lumpur, Penang, Johor Bahru, Putrajaya, Sibu, Sarawak, Kota Kinabalu, Sabah, Shah Alam
+Tiers: I: 2, II: 24, III: 50, IV: 31, V: 7, VI: 4
+Rating: 532 (31.2% uncompleted)
+
+*** Singapore ***
+Region: Asia
+1 city: Singapore
+Tiers: I: 28, II: 44, III: 59, IV: 28
+Rating: 520 (3.1% uncompleted)
+
+*** Taiwan ***
+Region: Asia
+9 cities: Taipei, Kaohsiung, Taichung, Banciao City, New Taipei City, Tainan, Taoyuan, Hsinchu, Keelung
+Tiers: I: 5, II: 60, III: 39, IV: 6, V: 1, VI: 1
+Rating: 335 (6.6% uncompleted)
+
+*** Vietnam ***
+Region: Asia
+4 cities: Ho Chi Minh City, Hanoi, Da Nang, Nha Trang
+Tiers: I: 16, II: 59, III: 29, IV: 7, V: 2, VI: 1
+Rating: 318 (28.0% uncompleted)
+
+*** Russia ***
+Region: Asia
+7 cities: Yekaterinburg, Chelyabinsk, Surgut, Vladivostok, Tyumen, Novosibirsk, Krasnoyarsk
+Tiers: I: 219, II: 12, III: 5
+Rating: 263 (12.9% uncompleted)
+
+*** North Korea ***
+Region: Asia
+3 cities: Pyongyang, Wonsan, Nampo
+Tiers: I: 16, II: 33, III: 13, IV: 2
+Rating: 146 (10.3% uncompleted)
+
+*** Sri Lanka ***
+Region: Asia
+1 city: Colombo
+Tiers: I: 1, II: 4, III: 7, IV: 4, V: 1
+Rating: 69 (46.4% uncompleted)
+
+*** Azerbaijan ***
+Region: Asia
+1 city: Baku
+Tiers: I: 2, II: 9, III: 8, IV: 1
+Rating: 58 (44.8% uncompleted)
+
+*** Kazakhstan ***
+Region: Asia
+2 cities: Astana, Almaty
+Tiers: I: 12, II: 5, III: 4, V: 1
+Rating: 46 (17.4% uncompleted)
+
+*** Pakistan ***
+Region: Asia
+2 cities: Karachi, Lahore
+Tiers: I: 2, II: 5, III: 4, IV: 1
+Rating: 34 (64.7% uncompleted)
+
+*** Georgia ***
+Region: Asia
+2 cities: Batumi, Tbilisi
+Tiers: II: 6, III: 2
+Rating: 20 (30.0% uncompleted)
+
+*** Mongolia ***
+Region: Asia
+1 city: Ulaanbaatar
+Tiers: I: 8, II: 6
+Rating: 20
+
+*** Bangladesh ***
+Region: Asia
+1 city: Dhaka
+Tiers: I: 1, II: 4, III: 2
+Rating: 17 (35.3% uncompleted)
+
+*** Cambodia ***
+Region: Asia
+1 city: Phnom Penh
+Tiers: II: 1, III: 2
+Rating: 10 (40.0% uncompleted)
+
+*** Laos ***
+Region: Asia
+1 city: Vientiane
+Tiers: II: 1, III: 1
+Rating: 6 (100.0% uncompleted)
+
+*** Turkmenistan ***
+Region: Asia
+1 city: Ashkhabad
+Tiers: I: 4, II: 1
+Rating: 6
+
+*** Uzbekistan ***
+Region: Asia
+1 city: Tashkent
+Tiers: II: 1, III: 1
+Rating: 6 (66.7% uncompleted)
+
+*** Brunei ***
+Region: Asia
+1 city: Bandar Seri Begawan
+Tiers: II: 1
+Rating: 2
+
+*** Armenia ***
+Region: Asia
+1 city: Yerevan
+Tiers: I: 2
+Rating: 2
+
+*** Maldives ***
+Region: Asia
+1 city: Male
+Tiers: I: 1
+Rating: 1
+
+*** Afghanistan ***
+Region: Asia
+1 city: Kabul
+Tiers: I: 1
+Rating: 1
+
+*** Myanmar ***
+Region: Asia
+1 city: Yangon
+Tiers: I: 1
+Rating: 1

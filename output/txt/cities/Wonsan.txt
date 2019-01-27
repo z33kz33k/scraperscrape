@@ -1,0 +1,20 @@
+*** Wonsan (4) ***
+1. Pukmang Tower 1, 150m
+
+******************** DETAILS ********************
+
+*** Wonsan ***
+Country: North Korea
+Region: Asia
+1 tower: Pukmang Tower 1
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Pukmang Tower 1 ***
+Height: 150
+Floors: 32
+Status: Completed
+Completed: 1984
+Functions: residential
+Rank: 1

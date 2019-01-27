@@ -1,0 +1,249 @@
+*** Hezhou (24) ***
+1.  Carnival Hao Court 5#, 99m
+2.  Carnival Hao Court 6#, 99m
+3.  Carnival Hao Court 7#, 98m
+4.  Carnival Hao Court 8#, 98m
+5.  Far East Riverside Washington 11#, 95m
+6.  Far East Riverside Washington 12#, 95m
+7.  Hezhou People's Hospital, 93m
+8.  Far East Riverside Washington 10#, 89m
+9.  Far East Riverside Washington 13#, 89m
+10. Carnival Hao Court 2#, 86m
+11. Carnival Hao Court 3#, 86m
+12. Carnival Hao Court 10#, 82m
+13. Oasis Home B18# , 78m
+14. Oasis Home B23#  , 78m
+15. Oasis Home B25# , 78m
+16. Oasis Home B7# , 78m
+17. Oasis Home C28#, 78m
+18. Oasis Home C29#, 78m
+19. Oasis Home C30#, 78m
+20. Oasis Home C31# , 78m
+21. Oasis Home C35# , 78m
+22. Oasis Home C36# , 78m
+23. Oasis Home C37#, 78m
+24. Carnival Hao Court 9#, 76m
+
+******************** DETAILS ********************
+
+*** Hezhou ***
+Country: China
+Region: Asia
+24 towers: Carnival Hao Court 5#, Carnival Hao Court 6#, Carnival Hao Court 7#, Carnival Hao Court 8#, Far East Riverside Washington 11#, Far East Riverside Washington 12#, Hezhou People's Hospital, Far East Riverside Washington 10#, Far East Riverside Washington 13#, Carnival Hao Court 2#, Carnival Hao Court 3#, Carnival Hao Court 10#, Oasis Home B18# , Oasis Home B23#  , Oasis Home B25# , Oasis Home B7# , Oasis Home C28#, Oasis Home C29#, Oasis Home C30#, Oasis Home C31# , Oasis Home C35# , Oasis Home C36# , Oasis Home C37#, Carnival Hao Court 9#
+Tiers: I: 24
+Rating: 24 (16.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Carnival Hao Court 5# ***
+Height: 99.3
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Carnival Hao Court 6# ***
+Height: 99.3
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 1
+
+*** Carnival Hao Court 7# ***
+Height: 97.5
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 3
+
+*** Carnival Hao Court 8# ***
+Height: 97.5
+Floors: 31
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 3
+
+*** Far East Riverside Washington 11# ***
+Height: 95
+Floors: 29
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 5
+
+*** Far East Riverside Washington 12# ***
+Height: 95
+Floors: 29
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 5
+
+*** Hezhou People's Hospital ***
+Height: 93.3
+Floors: 23
+Status: Completed
+Functions: hospital
+Rank: 7
+
+*** Far East Riverside Washington 10# ***
+Height: 89
+Floors: 27
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 8
+
+*** Far East Riverside Washington 13# ***
+Height: 89
+Floors: 27
+Status: Under Construction
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 8
+
+*** Carnival Hao Court 2# ***
+Height: 86.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 10
+
+*** Carnival Hao Court 3# ***
+Height: 86.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 10
+
+*** Carnival Hao Court 10# ***
+Height: 82
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 12
+
+*** Oasis Home B18#  ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home B23#   ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home B25#  ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home B7#  ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home C28# ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home C29# ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home C30# ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home C31#  ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home C35#  ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home C36#  ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Oasis Home C37# ***
+Height: 78.1
+Floors: 26
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 13
+
+*** Carnival Hao Court 9# ***
+Height: 75.8
+Floors: 24
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 24

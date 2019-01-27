@@ -1,0 +1,49 @@
+*** Yinchuan (23) ***
+1. Greenland Center North Tower, 301m
+2. Greenland Center South Tower, 301m
+3. Genyuan Marriott Hotel, 216m
+4. Talents Building, 82m
+
+******************** DETAILS ********************
+
+*** Yinchuan ***
+Country: China
+Region: Asia
+4 towers: Greenland Center North Tower, Greenland Center South Tower, Genyuan Marriott Hotel, Talents Building
+Tiers: I: 1, IV: 1, V: 2
+Rating: 23 (69.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Greenland Center North Tower ***
+Height: 301
+Floors: 58
+Status: Architecturally Topped Out
+Started: 2014
+Completed: 2020
+Functions: hotel / office
+Rank: 1
+
+*** Greenland Center South Tower ***
+Height: 301
+Floors: 54
+Status: Architecturally Topped Out
+Started: 2016
+Completed: 2020
+Functions: office
+Rank: 2
+
+*** Genyuan Marriott Hotel ***
+Height: 216
+Floors: 50
+Status: Completed
+Started: 2011
+Completed: 2017
+Functions: hotel / office
+Rank: 3
+
+*** Talents Building ***
+Height: 82.5
+Status: Completed
+Completed: 2013
+Functions: office
+Rank: 4

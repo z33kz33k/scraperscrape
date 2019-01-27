@@ -1,0 +1,204 @@
+*** Beirut (36) ***
+1.  Sama Beirut, 195m
+2.  Sky Gate, 180m
+3.  Marina Tower, 149m
+4.  Quasar Saifi 450, 138m
+5.  Habtoor Grand Hotel Convention Center & Spa, 130m
+6.  Bay Tower, 125m
+7.  Platinum Tower, 120m
+8.  Four Seasons Hotel, 120m
+9.  Beirut Terraces, 119m
+10. Hosn 440, 113m
+11. Beirut Tower, 112m
+12. Achrafieh Heights, 104m
+13. Atomium 5242, 100m
+14. Imhotep Tower Achrafieh, 100m
+15. Skyline, 97m
+16. Le Patio Block C, 97m
+17. Bahri Gardens, 92m
+18. Trillium Beirut, 90m
+19. Zeidan Tower, 89m
+20. Harbour Tower, 86m
+21. Paramount, 84m
+
+******************** DETAILS ********************
+
+*** Beirut ***
+Country: Lebanon
+Region: Middle East
+21 towers: Sama Beirut, Sky Gate, Marina Tower, Quasar Saifi 450, Habtoor Grand Hotel Convention Center & Spa, Bay Tower, Platinum Tower, Four Seasons Hotel, Beirut Terraces, Hosn 440, Beirut Tower, Achrafieh Heights, Atomium 5242, Imhotep Tower Achrafieh, Skyline, Le Patio Block C, Bahri Gardens, Trillium Beirut, Zeidan Tower, Harbour Tower, Paramount
+Tiers: I: 10, II: 9, III: 2
+Rating: 36 (13.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Sama Beirut ***
+Height: 195.2
+Floors: 52
+Status: Completed
+Started: 2010
+Completed: 2017
+Functions: residential / office / retail
+Rank: 1
+
+*** Sky Gate ***
+Height: 180.4
+Floors: 42
+Status: Completed
+Started: 2010
+Completed: 2016
+Functions: residential
+Rank: 2
+
+*** Marina Tower ***
+Height: 149
+Floors: 29
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 3
+
+*** Quasar Saifi 450 ***
+Height: 138.4
+Floors: 38
+Status: Under Construction
+Functions: residential / office
+Rank: 4
+
+*** Habtoor Grand Hotel Convention Center & Spa ***
+Height: 130.01
+Floors: 30
+Status: Completed
+Completed: 2005
+Functions: residential / hotel
+Rank: 5
+
+*** Bay Tower ***
+Height: 125
+Floors: 30
+Status: Completed
+Started: 2008
+Completed: 2011
+Functions: residential
+Rank: 6
+
+*** Platinum Tower ***
+Height: 120
+Floors: 34
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential
+Rank: 7
+
+*** Four Seasons Hotel ***
+Height: 120
+Floors: 26
+Status: Completed
+Completed: 2009
+Functions: hotel
+Rank: 8
+
+*** Beirut Terraces ***
+Height: 119.45
+Floors: 27
+Status: Completed
+Started: 2011
+Completed: 2016
+Functions: residential
+Rank: 9
+
+*** Hosn 440 ***
+Height: 113
+Floors: 27
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 10
+
+*** Beirut Tower ***
+Height: 112.17
+Floors: 30
+Status: Completed
+Started: 2003
+Completed: 2009
+Functions: residential
+Rank: 11
+
+*** Achrafieh Heights ***
+Height: 104
+Floors: 27
+Status: Architecturally Topped Out
+Functions: residential
+Rank: 12
+
+*** Atomium 5242 ***
+Height: 100
+Floors: 27
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 13
+
+*** Imhotep Tower Achrafieh ***
+Height: 100
+Floors: 25
+Status: Completed
+Started: 2003
+Completed: 2008
+Functions: residential
+Rank: 14
+
+*** Skyline ***
+Height: 97.1
+Floors: 26
+Status: Completed
+Functions: residential
+Rank: 15
+
+*** Le Patio Block C ***
+Height: 97
+Floors: 26
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 16
+
+*** Bahri Gardens ***
+Height: 92
+Floors: 25
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 17
+
+*** Trillium Beirut ***
+Height: 89.5
+Floors: 28
+Status: Structurally Topped Out
+Functions: residential / office / retail
+Rank: 18
+
+*** Zeidan Tower ***
+Height: 89
+Floors: 27
+Status: Under Construction
+Functions: residential
+Rank: 19
+
+*** Harbour Tower ***
+Height: 86
+Floors: 26
+Status: Completed
+Started: 2008
+Completed: 2012
+Functions: residential
+Rank: 20
+
+*** Paramount ***
+Height: 83.7
+Floors: 21
+Status: Completed
+Functions: residential
+Rank: 21

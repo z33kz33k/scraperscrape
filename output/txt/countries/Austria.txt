@@ -1,0 +1,36 @@
+*** Austria (64) ***
+1. Vienna, 61
+2. Linz, 2
+3. Graz, 1
+
+******************** DETAILS ********************
+
+*** Austria ***
+Region: Europe
+3 cities: Vienna, Linz, Graz
+Tiers: I: 28, II: 11, III: 2, IV: 1
+Rating: 64 (7.8% uncompleted)
+
+*** Vienna ***
+Country: Austria
+Region: Europe
+39 towers: DC Tower I, Millennium Tower, Hochhaus Neue Donau, Vienna Twin Towers, Austro Control Tower, IZD Turm, VIC Building A-B, ORBI Tower, Florido Tower, Monte Laa Towers, Andromeda Tower, Delugan Meissl Tower, Citygate Tower, Mischek Tower, City Tower Vienna, Saturn Tower, Ares Tower, Wohnpark Alt Erlaa, Block A1-A4, Wohnpark Alt Erlaa, Block B3-B8, Wohnpark Alt Erlaa, Block C1-C4, &Ouml;BB Konzernzentrale, The Icon Vienna 88, Monte Verde, Allgemeines Krankenhaus, Wohnpark Alt Erlaa, Block A5-A8, Wohnpark Alt Erlaa, Block B1-B2, Wohnpark Alt Erlaa, Block C5-C8, HoHo, Wohnturm Höchstädtplatz, Mischek-Coop-Tower, SEG Apartment Tower, UNIQA Tower, Obelixturm, Porr Headquarters, Hoch Zwei, Raiffeisen-Holding Hochhaus, Galaxy 21, Tech Gate Tower, Sofitel Vienna Stephansdom
+Tiers: I: 25, II: 11, III: 2, IV: 1
+Rating: 61 (8.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Linz ***
+Country: Austria
+Region: Europe
+2 towers: Finanzamt Tower, Lentia 2000
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Graz ***
+Country: Austria
+Region: Europe
+1 tower: Elisabeth-Hochhaus
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

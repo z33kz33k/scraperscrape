@@ -1,0 +1,249 @@
+*** Courbevoie (71) ***
+1.  Tour First, 231m
+2.  Tour T1, 185m
+3.  Tour Total Coupole, 179m
+4.  Tour Areva, 178m
+5.  Tour Saint-Gobain, 178m
+6.  D2 Tower , 171m
+7.  Tour Gan, 166m
+8.  Tour Carpe Diem, 166m
+9.  Coeur Defense, 161m
+10. Tour Adria, 155m
+11. Tour Egee, 155m
+12. Les Poissions, 150m
+13. Tour Dexia, 143m
+14. Tour Descartes, 140m
+15. Trinity Tower, 140m
+16. Tour Europlaza, 123m
+17. Tour Neptune, 117m
+18. Tour Manhattan, 111m
+19. Tour Logica, 110m
+20. Tour Europe, 110m
+21. Tour Gambetta, 104m
+22. Tour Cedre, 103m
+23. Tour Aurore, 100m
+24. Tour Chartis, 100m
+25. Tour Prisma, 97m
+
+******************** DETAILS ********************
+
+*** Courbevoie ***
+Country: France
+Region: Europe
+25 towers: Tour First, Tour T1, Tour Total Coupole, Tour Areva, Tour Saint-Gobain, D2 Tower , Tour Gan, Tour Carpe Diem, Coeur Defense, Tour Adria, Tour Egee, Les Poissions, Tour Dexia, Tour Descartes, Trinity Tower, Tour Europlaza, Tour Neptune, Tour Manhattan, Tour Logica, Tour Europe, Tour Gambetta, Tour Cedre, Tour Aurore, Tour Chartis, Tour Prisma
+Tiers: I: 5, II: 8, III: 11, IV: 1
+Rating: 71 (8.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour First ***
+Height: 231
+Floors: 56
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 1
+
+*** Tour T1 ***
+Height: 185
+Floors: 36
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 2
+
+*** Tour Total Coupole ***
+Height: 179
+Floors: 48
+Status: Completed
+Started: 1982
+Completed: 1985
+Functions: office
+Rank: 3
+
+*** Tour Areva ***
+Height: 178
+Floors: 44
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 4
+
+*** Tour Saint-Gobain ***
+Height: 178
+Floors: 39
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 5
+
+*** D2 Tower  ***
+Height: 171
+Floors: 36
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 6
+
+*** Tour Gan ***
+Height: 166
+Floors: 42
+Status: Completed
+Started: 1972
+Completed: 1974
+Functions: office
+Rank: 7
+
+*** Tour Carpe Diem ***
+Height: 166
+Floors: 35
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: office
+Rank: 8
+
+*** Coeur Defense ***
+Height: 161
+Floors: 39
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 9
+
+*** Tour Adria ***
+Height: 155
+Floors: 40
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 10
+
+*** Tour Egee ***
+Height: 155
+Floors: 39
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 11
+
+*** Les Poissions ***
+Height: 150
+Floors: 42
+Status: Completed
+Completed: 1970
+Functions: residential / office
+Rank: 12
+
+*** Tour Dexia ***
+Height: 143
+Floors: 32
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: office
+Rank: 13
+
+*** Tour Descartes ***
+Height: 140
+Floors: 40
+Status: Completed
+Started: 1986
+Completed: 1988
+Functions: office
+Rank: 14
+
+*** Trinity Tower ***
+Height: 140
+Floors: 32
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 15
+
+*** Tour Europlaza ***
+Height: 122.66
+Floors: 31
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 16
+
+*** Tour Neptune ***
+Height: 117
+Floors: 28
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 17
+
+*** Tour Manhattan ***
+Height: 111
+Floors: 32
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 18
+
+*** Tour Logica ***
+Height: 110
+Floors: 32
+Status: Completed
+Completed: 1971
+Functions: office
+Rank: 19
+
+*** Tour Europe ***
+Height: 110
+Floors: 28
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 20
+
+*** Tour Gambetta ***
+Height: 104
+Floors: 37
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 21
+
+*** Tour Cedre ***
+Height: 103
+Floors: 26
+Status: Completed
+Completed: 1998
+Functions: office
+Rank: 22
+
+*** Tour Aurore ***
+Height: 100
+Floors: 29
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 23
+
+*** Tour Chartis ***
+Height: 100
+Floors: 27
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: office
+Rank: 24
+
+*** Tour Prisma ***
+Height: 96.9
+Floors: 25
+Status: Completed
+Started: 1991
+Completed: 1998
+Functions: office
+Rank: 25

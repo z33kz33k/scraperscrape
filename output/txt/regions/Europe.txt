@@ -1,0 +1,309 @@
+*** Europe (3077) ***
+1.  Russia, 734
+2.  United Kingdom, 459
+3.  Turkey, 318
+4.  Germany, 273
+5.  France, 208
+6.  Netherlands, 207
+7.  Spain, 191
+8.  Italy, 123
+9.  Poland, 111
+10. Austria, 64
+11. Belgium, 54
+12. Ukraine, 37
+13. Sweden, 28
+14. Slovakia, 26
+15. Bulgaria, 25
+16. Switzerland, 20
+17. Monaco, 18
+18. Latvia, 18
+19. Bosnia And Herzegovina, 15
+20. Denmark, 14
+21. Lithuania, 13
+22. Portugal, 13
+23. Czech Republic, 12
+24. Romania, 12
+25. Estonia, 11
+26. Serbia, 11
+27. Finland, 10
+28. Macedonia, 9
+29. Croatia, 9
+30. Belarus, 6
+31. Norway, 6
+32. Luxembourg, 4
+33. Hungary, 3
+34. Greece, 3
+35. Albania, 2
+36. Slovenia, 2
+37. Kosovo, 2
+38. Malta, 1
+39. Moldova, 1
+40. Cyprus, 1
+41. Iceland, 1
+42. Andorra, 1
+43. Ireland, 1
+
+******************** DETAILS ********************
+
+*** Europe ***
+43 countries: Russia, United Kingdom, Turkey, Germany, France, Netherlands, Spain, Italy, Poland, Austria, Belgium, Ukraine, Sweden, Slovakia, Bulgaria, Switzerland, Monaco, Latvia, Bosnia And Herzegovina, Denmark, Lithuania, Portugal, Czech Republic, Romania, Estonia, Serbia, Finland, Macedonia, Croatia, Belarus, Norway, Luxembourg, Hungary, Greece, Albania, Slovenia, Kosovo, Malta, Moldova, Cyprus, Iceland, Andorra, Ireland
+Tiers: I: 1017, II: 515, III: 173, IV: 44, V: 8, VI: 1
+Rating: 3077 (13.6% uncompleted)
+
+*** Russia ***
+Region: Europe
+17 cities: Moscow, Krasnodar, Samara, St. Petersburg, Rostov-on-Don, Krasnogorsk, Groznyj, Kazan, Volgograd, Tolyatti, Khimki, Saratov, Shchyolkovo, Sochi, Magas, Voronezh, Ufa
+Tiers: I: 214, II: 123, III: 30, IV: 16, V: 6, VI: 1
+Rating: 734 (15.5% uncompleted)
+
+*** United Kingdom ***
+Region: Europe
+19 cities: London, Manchester, Birmingham, Salford, Glasgow, Leeds, Sheffield, Belfast, Leicester, Cardiff, Swansea, Wolverhampton, Portsmouth, Hemel Hempstead, Plymouth, Newcastle upon Tyne, Brighton, Bristol, Southampton
+Tiers: I: 175, II: 63, III: 27, IV: 7, V: 1
+Rating: 459 (33.1% uncompleted)
+
+*** Turkey ***
+Region: Europe
+1 city: Istanbul
+Tiers: I: 4, II: 51, III: 41, IV: 8
+Rating: 318 (7.2% uncompleted)
+
+*** Germany ***
+Region: Europe
+26 cities: Frankfurt am Main, Berlin, Cologne, Hamburg, Munich, Dusseldorf, Bonn, Essen, Hannover, Eschborn, Leipzig, Stuttgart, Mannheim, Jena, Travemunde, Augsburg, Offenbach, Nuremberg, Bremerhaven, Mainz, Dortmund, Chemnitz, Potsdam, Bochum, Bremen, Timmendorfer Strand
+Tiers: I: 93, II: 50, III: 17, IV: 2
+Rating: 273 (8.4% uncompleted)
+
+*** France ***
+Region: Europe
+11 cities: Paris, Lyon, Marseille, Lille, Amiens, Nantes, Creteil, Mulhouse, Caen, Rennes, Boulogne-Billancourt
+Tiers: I: 54, II: 36, III: 19, IV: 1
+Rating: 208 (4.3% uncompleted)
+
+*** Netherlands ***
+Region: Europe
+26 cities: Rotterdam, Amsterdam, The Hague, Utrecht, Eindhoven, Groningen, Tilburg, Almere, Leeuwarden, Delft, Spijkenisse, Hoofddorp, Enschede, Nijmegen, Zwolle, IJmuiden, Apeldoorn, Hoogvliet, Veldhoven, Capelle aan den IJssel, Terneuzen, Geertruidenberg, Vlissingen, Zoetermeer, Arnhem, Den Bosch
+Tiers: I: 129, II: 24, III: 6, IV: 1
+Rating: 207 (8.2% uncompleted)
+
+*** Spain ***
+Region: Europe
+16 cities: Madrid, Benidorm, Barcelona, Bilbao, Sevilla, Santa Cruz de Tenerife, Alicante, Ponferrada, La Coruna, Zaragoza, Gijon, Villajoyosa, Los Barrios, Murcia, Baracaldo, El Ejido
+Tiers: I: 57, II: 37, III: 9, IV: 4
+Rating: 191 (7.3% uncompleted)
+
+*** Italy ***
+Region: Europe
+13 cities: Milan, Naples, Genoa, Turin, Rome, Bologna, Latina, Brescia, Cesenatico, Padova, Rimini, Livorno, Jesolo
+Tiers: I: 49, II: 22, III: 6, IV: 1
+Rating: 123 (8.1% uncompleted)
+
+*** Poland ***
+Region: Europe
+7 cities: Warsaw, Wroclaw, Gdansk, Katowice, Gdynia, Poznan, Szczecin
+Tiers: I: 21, II: 14, III: 9, IV: 3, V: 1
+Rating: 111 (22.5% uncompleted)
+
+*** Austria ***
+Region: Europe
+3 cities: Vienna, Linz, Graz
+Tiers: I: 28, II: 11, III: 2, IV: 1
+Rating: 64 (7.8% uncompleted)
+
+*** Belgium ***
+Region: Europe
+7 cities: Brussels, Antwerp, Gent, Oostende, Leuven, Liège, Charleroi
+Tiers: I: 26, II: 14
+Rating: 54 (3.7% uncompleted)
+
+*** Ukraine ***
+Region: Europe
+4 cities: Kiev, Dnipropetrovsk, Donetsk, Odessa
+Tiers: I: 3, II: 15, III: 1
+Rating: 37
+
+*** Sweden ***
+Region: Europe
+4 cities: Stockholm, Malmo, Goteborg, Vasteras
+Tiers: I: 14, II: 5, III: 1
+Rating: 28 (10.7% uncompleted)
+
+*** Slovakia ***
+Region: Europe
+2 cities: Bratislava, Kosice-letisko
+Tiers: I: 16, II: 5
+Rating: 26
+
+*** Bulgaria ***
+Region: Europe
+5 cities: Sofia, Burgas, Plovdiv, Balchik, Ruse
+Tiers: I: 15, II: 3, III: 1
+Rating: 25 (16.0% uncompleted)
+
+*** Switzerland ***
+Region: Europe
+5 cities: Basel, Zurich, Winterthur, Geneva, Montreux
+Tiers: I: 10, II: 1, III: 2
+Rating: 20 (20.0% uncompleted)
+
+*** Monaco ***
+Region: Europe
+1 city: Monaco
+Tiers: I: 8, II: 3, III: 1
+Rating: 18
+
+*** Latvia ***
+Region: Europe
+1 city: Riga
+Tiers: I: 8, II: 5
+Rating: 18
+
+*** Bosnia And Herzegovina ***
+Region: Europe
+3 cities: Sarajevo, Tuzla, Zenica
+Tiers: I: 1, II: 7
+Rating: 15
+
+*** Denmark ***
+Region: Europe
+3 cities: Copenhagen, Frederiksberg, Arhus
+Tiers: I: 12, II: 1
+Rating: 14 (7.1% uncompleted)
+
+*** Lithuania ***
+Region: Europe
+2 cities: Vilnius, Klaipeda
+Tiers: I: 9, II: 2
+Rating: 13
+
+*** Portugal ***
+Region: Europe
+5 cities: Lisbon, Portimao, Maia, Povoa de Varzim, Porto
+Tiers: I: 9, II: 2
+Rating: 13
+
+*** Czech Republic ***
+Region: Europe
+4 cities: Praha, Brno, Most, Liberec
+Tiers: I: 8, II: 2
+Rating: 12
+
+*** Romania ***
+Region: Europe
+1 city: Bucharest
+Tiers: I: 8, II: 2
+Rating: 12
+
+*** Estonia ***
+Region: Europe
+2 cities: Tallinn, Tartu
+Tiers: I: 5, II: 3
+Rating: 11 (18.2% uncompleted)
+
+*** Serbia ***
+Region: Europe
+1 city: Belgrade
+Tiers: I: 5, II: 1, III: 1
+Rating: 11 (36.4% uncompleted)
+
+*** Finland ***
+Region: Europe
+3 cities: Helsinki, Espoo, Tammerfors (Tampere)
+Tiers: I: 6, II: 2
+Rating: 10 (40.0% uncompleted)
+
+*** Macedonia ***
+Region: Europe
+1 city: Skopje
+Tiers: I: 1, II: 4
+Rating: 9
+
+*** Croatia ***
+Region: Europe
+3 cities: Zagreb, Split, Rijeka
+Tiers: I: 7, II: 1
+Rating: 9 (22.2% uncompleted)
+
+*** Belarus ***
+Region: Europe
+1 city: Minsk
+Tiers: I: 2, II: 2
+Rating: 6
+
+*** Norway ***
+Region: Europe
+3 cities: Oslo, Stavanger, Molde
+Tiers: I: 2, II: 2
+Rating: 6
+
+*** Luxembourg ***
+Region: Europe
+1 city: Luxembourg
+Tiers: II: 2
+Rating: 4
+
+*** Hungary ***
+Region: Europe
+1 city: Budapest
+Tiers: I: 3
+Rating: 3
+
+*** Greece ***
+Region: Europe
+1 city: Athens
+Tiers: I: 3
+Rating: 3
+
+*** Albania ***
+Region: Europe
+1 city: Tirana
+Tiers: I: 2
+Rating: 2
+
+*** Slovenia ***
+Region: Europe
+1 city: Ljubljana
+Tiers: I: 2
+Rating: 2
+
+*** Kosovo ***
+Region: Europe
+1 city: Prishtina
+Tiers: I: 2
+Rating: 2 (50.0% uncompleted)
+
+*** Malta ***
+Region: Europe
+1 city: Saint Julian's
+Tiers: I: 1
+Rating: 1
+
+*** Moldova ***
+Region: Europe
+1 city: Chisinau
+Tiers: I: 1
+Rating: 1
+
+*** Cyprus ***
+Region: Europe
+1 city: Nicosia
+Tiers: I: 1
+Rating: 1
+
+*** Iceland ***
+Region: Europe
+1 city: Kopavogur
+Tiers: I: 1
+Rating: 1
+
+*** Andorra ***
+Region: Europe
+1 city: Andorra La Vela
+Tiers: I: 1
+Rating: 1
+
+*** Ireland ***
+Region: Europe
+1 city: Dublin
+Tiers: I: 1
+Rating: 1 (100.0% uncompleted)

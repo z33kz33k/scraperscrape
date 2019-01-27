@@ -1,0 +1,191 @@
+*** Parramatta (30) ***
+1.  Altitude Apartments Tower A, 177m
+2.  The Lennox, 159m
+3.  4 Parramatta Square, 158m
+4.  Skyrise, 138m
+5.  West Village, 129m
+6.  Altitude Apartments Tower B, 128m
+7.  V by Crown, 103m
+8.  Rise Apartments, 93m
+9.  B1 Tower, 90m
+10. Eclipse, 89m
+11. Escen on Church, 88m
+12. Commonwealth Centre, 85m
+13. 3 Parramatta Square, 84m
+14. Building B3. Western Sydney University, 83m
+15. Colonial Tower, 83m
+16. 10-32 East Street (Block A), 79m
+17. Sydney Water HQ, 76m
+18. Horizon Towers (Parkes St Tower), 75m
+
+******************** DETAILS ********************
+
+*** Parramatta ***
+Country: Australia
+Region: Oceania
+18 towers: Altitude Apartments Tower A, The Lennox, 4 Parramatta Square, Skyrise, West Village, Altitude Apartments Tower B, V by Crown, Rise Apartments, B1 Tower, Eclipse, Escen on Church, Commonwealth Centre, 3 Parramatta Square, Building B3. Western Sydney University, Colonial Tower, 10-32 East Street (Block A), Sydney Water HQ, Horizon Towers (Parkes St Tower)
+Tiers: I: 12, II: 3, III: 3
+Rating: 30 (46.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Altitude Apartments Tower A ***
+Height: 177
+Floors: 55
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: office / retail
+Rank: 1
+
+*** The Lennox ***
+Height: 159.4
+Floors: 44
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: exhibition / retail / residential
+Rank: 2
+
+*** 4 Parramatta Square ***
+Height: 158
+Floors: 34
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 3
+
+*** Skyrise ***
+Height: 137.6
+Floors: 43
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 4
+
+*** West Village ***
+Height: 129
+Floors: 39
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 5
+
+*** Altitude Apartments Tower B ***
+Height: 127.6
+Floors: 39
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: serviced apartments
+Rank: 6
+
+*** V by Crown ***
+Height: 103
+Floors: 29
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / serviced apartments
+Rank: 7
+
+*** Rise Apartments ***
+Height: 93
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 8
+
+*** B1 Tower ***
+Height: 90
+Floors: 28
+Status: Completed
+Started: 2011
+Completed: 2013
+Functions: residential
+Rank: 9
+
+*** Eclipse ***
+Height: 89
+Floors: 21
+Status: Completed
+Started: 2010
+Completed: 2012
+Functions: office
+Rank: 10
+
+*** Escen on Church ***
+Height: 88
+Floors: 25
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 11
+
+*** Commonwealth Centre ***
+Height: 85
+Floors: 21
+Status: Completed
+Started: 1985
+Completed: 1988
+Functions: office
+Rank: 12
+
+*** 3 Parramatta Square ***
+Height: 83.5
+Floors: 17
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 13
+
+*** Building B3. Western Sydney University ***
+Height: 83
+Floors: 24
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 14
+
+*** Colonial Tower ***
+Height: 83
+Floors: 21
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 15
+
+*** 10-32 East Street (Block A) ***
+Height: 79
+Floors: 24
+Status: Under Construction
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 16
+
+*** Sydney Water HQ ***
+Height: 76
+Floors: 17
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: office
+Rank: 17
+
+*** Horizon Towers (Parkes St Tower) ***
+Height: 75
+Floors: 22
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 18

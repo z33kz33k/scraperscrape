@@ -1,0 +1,21 @@
+*** Cape Canaveral (4) ***
+1. Vehicle Assembly Building, 160m
+
+******************** DETAILS ********************
+
+*** Cape Canaveral ***
+Country: United States
+Region: North America
+1 tower: Vehicle Assembly Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Vehicle Assembly Building ***
+Height: 160.3
+Floors: 40
+Status: Completed
+Started: 1962
+Completed: 1965
+Functions: industrial
+Rank: 1

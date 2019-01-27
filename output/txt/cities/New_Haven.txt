@@ -1,0 +1,50 @@
+*** New Haven (5) ***
+1. Connecticut Financial Center, 117m
+2. Knights of Columbus Tower, 98m
+3. 360 State Street, 91m
+4. Kline Biology Tower, 76m
+
+******************** DETAILS ********************
+
+*** New Haven ***
+Country: United States
+Region: North America
+4 towers: Connecticut Financial Center, Knights of Columbus Tower, 360 State Street, Kline Biology Tower
+Tiers: I: 3, II: 1
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Connecticut Financial Center ***
+Height: 116.74
+Floors: 27
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 1
+
+*** Knights of Columbus Tower ***
+Height: 97.74
+Floors: 23
+Status: Completed
+Started: 1967
+Completed: 1969
+Functions: office
+Rank: 2
+
+*** 360 State Street ***
+Height: 91.44
+Floors: 31
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 3
+
+*** Kline Biology Tower ***
+Height: 76.2
+Floors: 16
+Status: Completed
+Started: 1962
+Completed: 1966
+Functions: education
+Rank: 4

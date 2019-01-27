@@ -1,0 +1,201 @@
+*** Fuzhou (87) ***
+1.  Thang Long Global Center, 300m
+2.  Shimao International Center Office Tower, 273m
+3.  Yuyang Tower, 260m
+4.  Fusheng Qianlong Plaza, 250m
+5.  Sandy Federal Tower, 240m
+6.  Fuzhou IFC, 220m
+7.  Fuzhou Shenglong Financial Centre, 207m
+8.  Vanke Jinyu Central Tower 1, 203m
+9.  Mincheng Center Hotel, 200m
+10. Fujian Power Dispatching and Communication Building, 196m
+11. Vanke Jinyu Central Tower 2, 188m
+12. Zhengda Plaza Tower 1, 168m
+13. Yi Fa Tower, 165m
+14. Shimao Bund Garden 2, 162m
+15. Shimao Bund Garden 5, 162m
+16. Shimao Bund Garden 1, 150m
+17. Bank of China, 150m
+18. Fujian Provincial Electric and Power Company Headquarters, 132m
+19. Fujian Foreign Trade Center Hotel, 118m
+20. Mincheng Center Office Tower, 100m
+
+******************** DETAILS ********************
+
+*** Fuzhou ***
+Country: China
+Region: Asia
+20 towers: Thang Long Global Center, Shimao International Center Office Tower, Yuyang Tower, Fusheng Qianlong Plaza, Sandy Federal Tower, Fuzhou IFC, Fuzhou Shenglong Financial Centre, Vanke Jinyu Central Tower 1, Mincheng Center Hotel, Fujian Power Dispatching and Communication Building, Vanke Jinyu Central Tower 2, Zhengda Plaza Tower 1, Yi Fa Tower, Shimao Bund Garden 2, Shimao Bund Garden 5, Shimao Bund Garden 1, Bank of China, Fujian Provincial Electric and Power Company Headquarters, Fujian Foreign Trade Center Hotel, Mincheng Center Office Tower
+Tiers: I: 1, II: 2, III: 11, IV: 5, V: 1
+Rating: 87 (9.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Thang Long Global Center ***
+Height: 300
+Floors: 57
+Status: Architecturally Topped Out
+Started: 2012
+Completed: 2019
+Functions: office
+Rank: 1
+
+*** Shimao International Center Office Tower ***
+Height: 273
+Floors: 56
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 2
+
+*** Yuyang Tower ***
+Height: 260
+Floors: 56
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 3
+
+*** Fusheng Qianlong Plaza ***
+Height: 250
+Floors: 50
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 4
+
+*** Sandy Federal Tower ***
+Height: 240
+Floors: 55
+Status: Completed
+Started: 2012
+Completed: 2017
+Functions: hotel / office
+Rank: 5
+
+*** Fuzhou IFC ***
+Height: 220
+Floors: 48
+Status: Completed
+Started: 2011
+Completed: 2015
+Functions: office
+Rank: 6
+
+*** Fuzhou Shenglong Financial Centre ***
+Height: 206.56
+Floors: 47
+Status: Completed
+Started: 2011
+Completed: 2014
+Functions: office
+Rank: 7
+
+*** Vanke Jinyu Central Tower 1 ***
+Height: 202.9
+Floors: 64
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 8
+
+*** Mincheng Center Hotel ***
+Height: 200
+Floors: 45
+Status: Completed
+Completed: 2016
+Functions: hotel
+Rank: 9
+
+*** Fujian Power Dispatching and Communication Building ***
+Height: 195.6
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 10
+
+*** Vanke Jinyu Central Tower 2 ***
+Height: 187.55
+Floors: 59
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 11
+
+*** Zhengda Plaza Tower 1 ***
+Height: 168
+Floors: 42
+Status: Completed
+Completed: 2008
+Functions: office
+Rank: 12
+
+*** Yi Fa Tower ***
+Height: 165
+Floors: 33
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 13
+
+*** Shimao Bund Garden 2 ***
+Height: 161.95
+Floors: 47
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 14
+
+*** Shimao Bund Garden 5 ***
+Height: 161.95
+Floors: 47
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 14
+
+*** Shimao Bund Garden 1 ***
+Height: 150
+Floors: 49
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 16
+
+*** Bank of China ***
+Height: 150
+Floors: 30
+Status: Completed
+Completed: 1997
+Functions: office
+Rank: 17
+
+*** Fujian Provincial Electric and Power Company Headquarters ***
+Height: 132
+Floors: 32
+Status: Completed
+Completed: 2007
+Functions: office
+Rank: 18
+
+*** Fujian Foreign Trade Center Hotel ***
+Height: 118
+Floors: 32
+Status: Completed
+Completed: 1997
+Functions: hotel
+Rank: 19
+
+*** Mincheng Center Office Tower ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 20

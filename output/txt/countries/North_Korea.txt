@@ -1,0 +1,36 @@
+*** North Korea (146) ***
+1. Pyongyang, 140
+2. Wonsan, 4
+3. Nampo, 2
+
+******************** DETAILS ********************
+
+*** North Korea ***
+Region: Asia
+3 cities: Pyongyang, Wonsan, Nampo
+Tiers: I: 16, II: 33, III: 13, IV: 2
+Rating: 146 (10.3% uncompleted)
+
+*** Pyongyang ***
+Country: North Korea
+Region: Asia
+62 towers: Ryomyong Street Apartment Building, Ryomyong Street 70-Storey Building, Ryomyong Street 55-Storey Building, Mirae Scientists Street Residential Tower, Ryomyong Street 50-Storey Building, Taedong Residences 1, Yanggakdo Hotel, Kim Chaek University of Technology Tower 1, Kim Chaek University of Technology Tower 2, KISU Residential Tower 1, Ryomyong Street 40-Storey Building, Twin Tower 1, Twin Tower 2, Ryonghung-Dong Apartment, Koryo Hotel 1, Koryo Hotel 2, Taedong Residences 2, Mansudae Apartment 1#, Mansudae Apartment 2#, Kwangbok Street 1, KISU Residential Tower 2, Mansudae Apartment 3#, Green Tower 1, Green Tower 2, Ryomyong Street 35-Storey Building, Blue Tower 1, Kyongrim Residential 1, Kwangbok Street 3, Kwangbok Street 4, Kwangbok Street 5, Tongan Apartment 2, Tongan Apartment 3, Tongan Residential 1, Tongan Residential 2, Tongan Residential 3, Tongan Residential 4, Kimchaek University Residences 3, Kimchaek University Residences 4, Taedong Residences 3, Ryusong Residential 1, Ryusong Residential 2, Kyongrim Residential 2, Othan-Kangan Apartment, Chongnyon Hotel, Mansudae Apartment 8#A, Mansudae Apartment 8#B , Mansudae Apartment 4#, Mansudae Apartment 5#, Sosan Hotel, Tongan Apartment 1, Mansudae Apartment 9#A, Mansudae Apartment 9#B, Blue Tower 2, Blue Tower 3, Kyongrim Residential 5, Kyongrim Residential 6, Kyongrim Residential 7, Kyongrim Residential 8, Mansudae Apartment 10#A , Mansudae Apartment 10#B, Mansudae Apartment 12#, Kyongrim Residential 4
+Tiers: I: 16, II: 32, III: 12, IV: 2
+Rating: 140 (10.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wonsan ***
+Country: North Korea
+Region: Asia
+1 tower: Pukmang Tower 1
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Nampo ***
+Country: North Korea
+Region: Asia
+1 tower: Nampo Tower
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17

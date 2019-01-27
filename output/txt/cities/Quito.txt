@@ -1,0 +1,29 @@
+*** Quito (2) ***
+1. Metropolitan, 83m
+2. Edificio CFN, 83m
+
+******************** DETAILS ********************
+
+*** Quito ***
+Country: Ecuador
+Region: South America
+2 towers: Metropolitan, Edificio CFN
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Metropolitan ***
+Height: 83.4
+Floors: 19
+Status: Completed
+Completed: 2016
+Functions: office
+Rank: 1
+
+*** Edificio CFN ***
+Height: 82.8
+Floors: 22
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 2

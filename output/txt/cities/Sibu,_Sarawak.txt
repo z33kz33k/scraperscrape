@@ -1,0 +1,21 @@
+*** Sibu, Sarawak (2) ***
+1. Wisma Sanyan, 126m
+
+******************** DETAILS ********************
+
+*** Sibu, Sarawak ***
+Country: Malaysia
+Region: Asia
+1 tower: Wisma Sanyan
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wisma Sanyan ***
+Height: 126
+Floors: 28
+Status: Completed
+Started: 2000
+Completed: 2001
+Functions: hotel / office
+Rank: 1

@@ -1,0 +1,244 @@
+*** Madrid (57) ***
+1.  Torre de Cristal, 249m
+2.  Torre Cepsa, 248m
+3.  Torre PwC, 236m
+4.  Torre Espacio, 224m
+5.  Caleido, 181m
+6.  Torre Picasso, 156m
+7.  Torre de Madrid, 142m
+8.  Edificio Espana, 117m
+9.  Torre Europa, 116m
+10. Puerta de Europa Torre I, 114m
+11. Puerta de Europa Torre II, 114m
+12. Torres de Colón, 110m
+13. Castellana 81, 107m
+14. Torre Titania, 104m
+15. Torre del Complejo Cuzco, 100m
+16. Torre de Valencia, 94m
+17. BBVA Headquarters, 93m
+18. Hospital Central de la Defensa Gómez Ulla, 89m
+19. Edificio de Telefónica de España, 88m
+20. Torre Chamartín Merlin, 86m
+21. Torre Mahou, 85m
+22. Capitán Haya 51, 84m
+23. Torre Metropolitana, 84m
+24. Torres Blancas, 81m
+
+******************** DETAILS ********************
+
+*** Madrid ***
+Country: Spain
+Region: Europe
+24 towers: Torre de Cristal, Torre Cepsa, Torre PwC, Torre Espacio, Caleido, Torre Picasso, Torre de Madrid, Edificio Espana, Torre Europa, Puerta de Europa Torre I, Puerta de Europa Torre II, Torres de Colón, Castellana 81, Torre Titania, Torre del Complejo Cuzco, Torre de Valencia, BBVA Headquarters, Hospital Central de la Defensa Gómez Ulla, Edificio de Telefónica de España, Torre Chamartín Merlin, Torre Mahou, Capitán Haya 51, Torre Metropolitana, Torres Blancas
+Tiers: I: 11, II: 7, III: 2, IV: 4
+Rating: 57 (7.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre de Cristal ***
+Height: 249
+Floors: 50
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: office
+Rank: 1
+
+*** Torre Cepsa ***
+Height: 248.3
+Floors: 49
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: office
+Rank: 2
+
+*** Torre PwC ***
+Height: 236
+Floors: 52
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: hotel / office
+Rank: 3
+
+*** Torre Espacio ***
+Height: 224.15
+Floors: 56
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: office
+Rank: 4
+
+*** Caleido ***
+Height: 181
+Floors: 38
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: education / hospital / retail
+Rank: 5
+
+*** Torre Picasso ***
+Height: 156.38
+Floors: 43
+Status: Completed
+Started: 1982
+Completed: 1989
+Functions: office
+Rank: 6
+
+*** Torre de Madrid ***
+Height: 142
+Floors: 34
+Status: Completed
+Started: 1954
+Completed: 1957
+Functions: residential / office
+Rank: 7
+
+*** Edificio Espana ***
+Height: 117
+Floors: 25
+Status: Completed
+Completed: 1953
+Functions: hotel / office
+Rank: 8
+
+*** Torre Europa ***
+Height: 116.11
+Floors: 33
+Status: Completed
+Started: 1975
+Completed: 1985
+Functions: office
+Rank: 9
+
+*** Puerta de Europa Torre I ***
+Height: 113.8
+Floors: 26
+Status: Completed
+Started: 1989
+Completed: 1996
+Functions: office
+Rank: 10
+
+*** Puerta de Europa Torre II ***
+Height: 113.8
+Floors: 26
+Status: Completed
+Started: 1989
+Completed: 1996
+Functions: office
+Rank: 10
+
+*** Torres de Colón ***
+Height: 110
+Floors: 23
+Status: Completed
+Started: 1967
+Completed: 1976
+Functions: office
+Rank: 12
+
+*** Castellana 81 ***
+Height: 107
+Floors: 28
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 13
+
+*** Torre Titania ***
+Height: 103.7
+Floors: 23
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 14
+
+*** Torre del Complejo Cuzco ***
+Height: 100
+Floors: 25
+Status: Completed
+Completed: 1979
+Functions: office / government
+Rank: 15
+
+*** Torre de Valencia ***
+Height: 94
+Floors: 27
+Status: Completed
+Started: 1970
+Completed: 1973
+Functions: residential
+Rank: 16
+
+*** BBVA Headquarters ***
+Height: 92.8
+Floors: 19
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: office
+Rank: 17
+
+*** Hospital Central de la Defensa Gómez Ulla ***
+Height: 89
+Floors: 22
+Status: Completed
+Started: 1972
+Functions: hospital
+Rank: 18
+
+*** Edificio de Telefónica de España ***
+Height: 88.1
+Floors: 14
+Status: Completed
+Started: 1926
+Completed: 1929
+Functions: office
+Rank: 19
+
+*** Torre Chamartín Merlin ***
+Height: 86.5
+Floors: 18
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: office
+Rank: 20
+
+*** Torre Mahou ***
+Height: 85
+Floors: 22
+Status: Completed
+Completed: 1989
+Functions: office
+Rank: 21
+
+*** Capitán Haya 51 ***
+Height: 84
+Floors: 24
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 22
+
+*** Torre Metropolitana ***
+Height: 84
+Floors: 24
+Status: Completed
+Completed: 1978
+Functions: residential / office / retail
+Rank: 22
+
+*** Torres Blancas ***
+Height: 81
+Floors: 25
+Status: Completed
+Started: 1964
+Completed: 1968
+Functions: residential
+Rank: 24

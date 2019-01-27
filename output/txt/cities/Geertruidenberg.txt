@@ -1,0 +1,19 @@
+*** Geertruidenberg (1) ***
+1. Amercentrale, 85m
+
+******************** DETAILS ********************
+
+*** Geertruidenberg ***
+Country: Netherlands
+Region: Europe
+1 tower: Amercentrale
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Amercentrale ***
+Height: 85
+Status: Completed
+Completed: 1952
+Functions: industrial
+Rank: 1

@@ -1,0 +1,151 @@
+*** Goyang (82) ***
+1.  Ilsan Yojin Y-City Tower 103, 230m
+2.  Ilsan Yojin Y-City Tower 105, 230m
+3.  Tanhyun Doosan We've the Zenith 105, 230m
+4.  Ilsan Yojin Y-City Tower 102, 225m
+5.  Ilsan Yojin Y-City Tower 104, 225m
+6.  Tanhyun Doosan We've the Zenith 104, 224m
+7.  Ilsan Yojin Y-City Tower 106, 221m
+8.  Tanhyun Doosan We've the Zenith 102, 215m
+9.  Tanhyun Doosan We've the Zenith 103, 215m
+10. Tanhyun Doosan We've the Zenith 106, 215m
+11. Ilsan Yojin Y-City Tower 101, 214m
+12. Tanhyun Doosan We've the Zenith 101, 212m
+13. Tanhyun Doosan We've the Zenith 107, 212m
+14. Tanhyun Doosan We've the Zenith 108, 206m
+
+******************** DETAILS ********************
+
+*** Goyang ***
+Country: South Korea
+Region: Asia
+14 towers: Ilsan Yojin Y-City Tower 103, Ilsan Yojin Y-City Tower 105, Tanhyun Doosan We've the Zenith 105, Ilsan Yojin Y-City Tower 102, Ilsan Yojin Y-City Tower 104, Tanhyun Doosan We've the Zenith 104, Ilsan Yojin Y-City Tower 106, Tanhyun Doosan We've the Zenith 102, Tanhyun Doosan We've the Zenith 103, Tanhyun Doosan We've the Zenith 106, Ilsan Yojin Y-City Tower 101, Tanhyun Doosan We've the Zenith 101, Tanhyun Doosan We've the Zenith 107, Tanhyun Doosan We've the Zenith 108
+Tiers: III: 1, IV: 13
+Rating: 82
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ilsan Yojin Y-City Tower 103 ***
+Height: 230
+Floors: 59
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** Ilsan Yojin Y-City Tower 105 ***
+Height: 230
+Floors: 59
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** Tanhyun Doosan We've the Zenith 105 ***
+Height: 230
+Floors: 59
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 1
+
+*** Ilsan Yojin Y-City Tower 102 ***
+Height: 225
+Floors: 58
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 4
+
+*** Ilsan Yojin Y-City Tower 104 ***
+Height: 225
+Floors: 58
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 4
+
+*** Tanhyun Doosan We've the Zenith 104 ***
+Height: 224
+Floors: 57
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 6
+
+*** Ilsan Yojin Y-City Tower 106 ***
+Height: 221
+Floors: 57
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 7
+
+*** Tanhyun Doosan We've the Zenith 102 ***
+Height: 215
+Floors: 54
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 8
+
+*** Tanhyun Doosan We've the Zenith 103 ***
+Height: 215
+Floors: 54
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 8
+
+*** Tanhyun Doosan We've the Zenith 106 ***
+Height: 215
+Floors: 54
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 8
+
+*** Ilsan Yojin Y-City Tower 101 ***
+Height: 214
+Floors: 55
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 11
+
+*** Tanhyun Doosan We've the Zenith 101 ***
+Height: 212
+Floors: 53
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 12
+
+*** Tanhyun Doosan We've the Zenith 107 ***
+Height: 212
+Floors: 53
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 12
+
+*** Tanhyun Doosan We've the Zenith 108 ***
+Height: 206
+Floors: 51
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: residential
+Rank: 14

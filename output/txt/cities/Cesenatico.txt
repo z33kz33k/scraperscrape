@@ -1,0 +1,21 @@
+*** Cesenatico (2) ***
+1. Grattacielo di Cesenatico, 118m
+
+******************** DETAILS ********************
+
+*** Cesenatico ***
+Country: Italy
+Region: Europe
+1 tower: Grattacielo di Cesenatico
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Grattacielo di Cesenatico ***
+Height: 118
+Floors: 35
+Status: Completed
+Started: 1957
+Completed: 1958
+Functions: residential
+Rank: 1

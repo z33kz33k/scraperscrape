@@ -1,0 +1,57 @@
+*** Uberlândia (9) ***
+1. Torre Liber, 136m
+2. Torre Aventino, 129m
+3. Torre Concord, 129m
+4. Uberl&acirc;ndia Business Tower, 117m
+5. Edif&iacute;cio Rocha e Silva, 100m
+
+******************** DETAILS ********************
+
+*** Uberlândia ***
+Country: Brazil
+Region: South America
+5 towers: Torre Liber, Torre Aventino, Torre Concord, Uberl&acirc;ndia Business Tower, Edif&iacute;cio Rocha e Silva
+Tiers: I: 1, II: 4
+Rating: 9 (66.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Torre Liber ***
+Height: 136.4
+Floors: 39
+Status: Structurally Topped Out
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 1
+
+*** Torre Aventino ***
+Height: 129.4
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Torre Concord ***
+Height: 129.4
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 2
+
+*** Uberl&acirc;ndia Business Tower ***
+Height: 117
+Floors: 26
+Status: Completed
+Started: 2009
+Completed: 2013
+Functions: office / hotel
+Rank: 4
+
+*** Edif&iacute;cio Rocha e Silva ***
+Height: 100.48
+Floors: 32
+Status: Completed
+Functions: residential
+Rank: 5

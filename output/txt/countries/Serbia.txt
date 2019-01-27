@@ -1,0 +1,18 @@
+*** Serbia (11) ***
+1. Belgrade, 11
+
+******************** DETAILS ********************
+
+*** Serbia ***
+Region: Europe
+1 city: Belgrade
+Tiers: I: 5, II: 1, III: 1
+Rating: 11 (36.4% uncompleted)
+
+*** Belgrade ***
+Country: Serbia
+Region: Europe
+7 towers: Kula Belgrade, Zgrada Geneks, USCE Office Tower 1, Belgrade Palace, Rudo Beograd-Kapija 2, Rudo Beograd-Kapija 3, Rudo Beograd-Kapija 1
+Tiers: I: 5, II: 1, III: 1
+Rating: 11 (36.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

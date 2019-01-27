@@ -1,0 +1,153 @@
+*** Hamburg (17) ***
+1.  Elbphilharmonie, 110m
+2.  Radisson SAS Hamburg, 108m
+3.  Mundsburg Turm I, 101m
+4.  Emporio, 98m
+5.  Mundsburg Turm III, 97m
+6.  Mundsburg Turm II, 90m
+7.  Berliner Tor Center 1, 90m
+8.  Berliner Tor Center 2, 90m
+9.  Atlantik-Hochhaus, 88m
+10. Geomatikum der Universität Hamburg, 85m
+11. Tango Towers, 85m
+12. Berliner Tor Center 3, 83m
+13. Jessenstraße 4, 78m
+14. Hanseatic Trade Center Tower, 77m
+15. Wohnhochhaus Palmaille 35, 75m
+
+******************** DETAILS ********************
+
+*** Hamburg ***
+Country: Germany
+Region: Europe
+15 towers: Elbphilharmonie, Radisson SAS Hamburg, Mundsburg Turm I, Emporio, Mundsburg Turm III, Mundsburg Turm II, Berliner Tor Center 1, Berliner Tor Center 2, Atlantik-Hochhaus, Geomatikum der Universität Hamburg, Tango Towers, Berliner Tor Center 3, Jessenstraße 4, Hanseatic Trade Center Tower, Wohnhochhaus Palmaille 35
+Tiers: I: 13, II: 2
+Rating: 17
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Elbphilharmonie ***
+Height: 110
+Floors: 25
+Status: Completed
+Started: 1963
+Completed: 2016
+Functions: residential / hotel / other
+Rank: 1
+
+*** Radisson SAS Hamburg ***
+Height: 108
+Floors: 32
+Status: Completed
+Started: 1969
+Completed: 1973
+Functions: hotel
+Rank: 2
+
+*** Mundsburg Turm I ***
+Height: 101.4
+Floors: 29
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 3
+
+*** Emporio ***
+Height: 98
+Floors: 24
+Status: Completed
+Started: 1961
+Completed: 1964
+Functions: office
+Rank: 4
+
+*** Mundsburg Turm III ***
+Height: 97.12
+Floors: 22
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 5
+
+*** Mundsburg Turm II ***
+Height: 90
+Floors: 25
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 6
+
+*** Berliner Tor Center 1 ***
+Height: 90
+Floors: 23
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: office
+Rank: 7
+
+*** Berliner Tor Center 2 ***
+Height: 90
+Floors: 23
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: office
+Rank: 7
+
+*** Atlantik-Hochhaus ***
+Height: 88
+Floors: 21
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: office
+Rank: 9
+
+*** Geomatikum der Universität Hamburg ***
+Height: 85
+Floors: 20
+Status: Completed
+Completed: 1975
+Functions: education
+Rank: 10
+
+*** Tango Towers ***
+Height: 84.9
+Floors: 24
+Status: Completed
+Started: 2010
+Completed: 2013
+Functions: office
+Rank: 11
+
+*** Berliner Tor Center 3 ***
+Height: 83
+Floors: 22
+Status: Completed
+Completed: 1962
+Functions: office
+Rank: 12
+
+*** Jessenstraße 4 ***
+Height: 78.03
+Floors: 16
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 13
+
+*** Hanseatic Trade Center Tower ***
+Height: 77
+Floors: 23
+Status: Completed
+Started: 2001
+Completed: 2002
+Functions: office
+Rank: 14
+
+*** Wohnhochhaus Palmaille 35 ***
+Height: 75
+Floors: 23
+Status: Completed
+Functions: residential
+Rank: 15

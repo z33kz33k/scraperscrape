@@ -1,0 +1,20 @@
+*** Porto (1) ***
+1. Hotel Vila Gale Porto, 76m
+
+******************** DETAILS ********************
+
+*** Porto ***
+Country: Portugal
+Region: Europe
+1 tower: Hotel Vila Gale Porto
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hotel Vila Gale Porto ***
+Height: 76
+Floors: 20
+Status: Completed
+Completed: 1999
+Functions: hotel
+Rank: 1

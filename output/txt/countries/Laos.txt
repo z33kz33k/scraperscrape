@@ -1,0 +1,18 @@
+*** Laos (6) ***
+1. Vientiane, 6
+
+******************** DETAILS ********************
+
+*** Laos ***
+Region: Asia
+1 city: Vientiane
+Tiers: II: 1, III: 1
+Rating: 6 (100.0% uncompleted)
+
+*** Vientiane ***
+Country: Laos
+Region: Asia
+2 towers: Sky Office at Vientiane World Trade Center, Portofina Hotel
+Tiers: II: 1, III: 1
+Rating: 6 (100.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17

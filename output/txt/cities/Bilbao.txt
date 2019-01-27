@@ -1,0 +1,88 @@
+*** Bilbao (13) ***
+1. Torre Iberdrola, 165m
+2. Operación Garellano I, 116m
+3. Operación Garellano II, 108m
+4. Operación Garellano III, 100m
+5. Operación Garellano IV, 92m
+6. Bolueta, 88m
+7. BBVAren Dorrea, 85m
+8. Operación Garellano V, 82m
+
+******************** DETAILS ********************
+
+*** Bilbao ***
+Country: Spain
+Region: Europe
+8 towers: Torre Iberdrola, Operación Garellano I, Operación Garellano II, Operación Garellano III, Operación Garellano IV, Bolueta, BBVAren Dorrea, Operación Garellano V
+Tiers: I: 5, II: 2, III: 1
+Rating: 13 (30.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Torre Iberdrola ***
+Height: 165
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office / hotel
+Rank: 1
+
+*** Operación Garellano I ***
+Height: 116
+Floors: 36
+Status: Under Construction
+Started: 2012
+Functions: residential
+Rank: 2
+
+*** Operación Garellano II ***
+Height: 107.9
+Floors: 33
+Status: Under Construction
+Started: 2012
+Functions: residential
+Rank: 3
+
+*** Operación Garellano III ***
+Height: 100
+Floors: 30
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 4
+
+*** Operación Garellano IV ***
+Height: 91.5
+Floors: 28
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 5
+
+*** Bolueta ***
+Height: 88
+Floors: 28
+Status: Completed
+Started: 2017
+Completed: 2018
+Functions: residential
+Rank: 6
+
+*** BBVAren Dorrea ***
+Height: 85
+Floors: 22
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 7
+
+*** Operación Garellano V ***
+Height: 82.3
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 8

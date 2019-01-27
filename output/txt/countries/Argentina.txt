@@ -1,0 +1,45 @@
+*** Argentina (202) ***
+1. Buenos Aires, 168
+2. Rosario, 21
+3. Mar del Plata, 9
+4. Cordoba, 4
+
+******************** DETAILS ********************
+
+*** Argentina ***
+Region: South America
+4 cities: Buenos Aires, Rosario, Mar del Plata, Cordoba
+Tiers: I: 36, II: 58, III: 11, IV: 1
+Rating: 202 (4.0% uncompleted)
+
+*** Buenos Aires ***
+Country: Argentina
+Region: South America
+82 towers: Alvear Tower Puerto Madero, Harbour Tower, Torre Cavia, Torre Renoir 2, Mulieris Torre Norte, Mulieris Torre Sur, Torre El Faro I, Torre El Faro II, Torre Repsol YPF, Torre Le Parc, Chateau Puerto Madero, Torre BBVA, Torre Galicia Central, Torre del Boulevard, Torre del Parque, Torre del Rio, Edificio Alas, Torre BankBoston, Complejo Bellini Plaza San Martín 2, Torre Renoir 1, Libertador 4444, Torres del Yacht I, Torres del Yacht II, 955 Belgrano Office, Chateau Libertador, Sede Corporativa Banco Macro, Madero Office, Alvear Icon Hotel & Residences, Mirabilia Palermo 1, Mirabilia Palermo 2, Torre Alto Palermo I, Torre Alto Palermo II, Torre Odeon, Torre Alcorta, San Martin 344, Torre Alem Plaza, Torre Carlos Pellegrini, Libertador 380, Edifcio Kavanagh, Torre Alcorta, Torre Bulnes, Torre Ruggieri, Inter-Continental Plaza, Torre Bellini, Catalinas Plaza, Torre Bouchard, Torre Catalinas Plaza, Catalinas Norte, Dosplaza I, Edificio Chacofi, Promenade Palermo, Promenade Palermo, Galería Jardín - Torre Florida, Torres de Montaneses - Torre Central, Torre HSBC, Torre Forum, O' Higgins 1826, Edificio Prourban, Torre Vuelta de Dorrego, Plaza San Marco, Caballito Nuevo I, Caballito Nuevo II, Torre Union, Torre Intecons, Palermo Uno, Edificio Sudamérica, Torre Dorrego, Plaza Bucale, Quartier de Oro, Torre Brunetta, Torre Riverview I, Torre Riverview II, R. Scalabrini Ortiz 3226, R. Scalabrini Ortiz 3282, Galería Jardín - Torre Tucumán, Quartier Demaria Norte, Quartier Demaria Sur, Palermo View - Torre Santa Fe, Faculties of Health Sciences - University of Buenos Aires, Palermo View - Torre Maria Luis Campos, Terrazas del Yacht Edificio C, Terrazas del Yacht Edificio D
+Tiers: I: 22, II: 48, III: 11, IV: 1
+Rating: 168 (3.6% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Rosario ***
+Country: Argentina
+Region: South America
+15 towers: Maui I, Dolfines Guarani Torre 1, Dolfines Guarani Torre 2, Torre Aqualina, Edificio Punta Divisadero, Torre Embarcadero, Plaza Menor and Alfar Rio, Sol Guaraní, Torre Atlantida B, Torre de la Libertad, Galeria del Paseo, Rochdale IV, Torre Atlantida C, Barranca Libertad, Torre Arealis
+Tiers: I: 9, II: 6
+Rating: 21
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Mar del Plata ***
+Country: Argentina
+Region: South America
+7 towers: Edificio Demetrio Eliades, Edificio Cosmos, Torre Luna, Torre Sol, Edificio Eden, Almeria I, Independencia 1717
+Tiers: I: 5, II: 2
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Cordoba ***
+Country: Argentina
+Region: South America
+2 towers: Capitalinas Phase II, Torre Angela
+Tiers: II: 2
+Rating: 4 (50.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

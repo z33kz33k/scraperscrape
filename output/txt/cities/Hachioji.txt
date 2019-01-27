@@ -1,0 +1,21 @@
+*** Hachioji (4) ***
+1. Hachioji Station South Exit Redevelopment Building, 158m
+
+******************** DETAILS ********************
+
+*** Hachioji ***
+Country: Japan
+Region: Asia
+1 tower: Hachioji Station South Exit Redevelopment Building
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Hachioji Station South Exit Redevelopment Building ***
+Height: 157.5
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: residential / office / retail
+Rank: 1

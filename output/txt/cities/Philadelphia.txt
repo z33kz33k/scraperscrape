@@ -1,0 +1,1234 @@
+*** Philadelphia (223) ***
+1.   Comcast Technology Center, 342m
+2.   Comcast Center, 297m
+3.   One Liberty Place, 288m
+4.   Two Liberty Place, 258m
+5.   BNY Mellon Bank Center, 241m
+6.   Three Logan, 225m
+7.   FMC Tower at Cira Centre South, 222m
+8.   G. Fred DiBona Jr. Building, 190m
+9.   The W Philadelphia and Element Philadelphia, 188m
+10.  Commerce Square #1, 174m
+11.  Commerce Square #2, 174m
+12.  The Residences at the Ritz-Carlton, 158m
+13.  1818 Market Street, 152m
+14.  The St. James, 152m
+15.  Loews Philadelphia Hotel, 150m
+16.  PNC Bank Building, 150m
+17.  Centre Square II, 149m
+18.  Five Penn Center, 149m
+19.  The Murano, 145m
+20.  One South Broad, 144m
+21.  Cira Centre, 133m
+22.  Two Logan Square, 133m
+23.  1700 Market Street, 131m
+24.  Evo at Cira Centre South, 130m
+25.  1835 Market Street, 130m
+26.  Aramark Tower, 127m
+27.  Centre Square I, 127m
+28.  Wells Fargo Building, 123m
+29.  The Ritz-Carlton Philadelphia, 123m
+30.  1706 Rittenhouse Square, 122m
+31.  One Logan Square, 122m
+32.  2000 Market Street, 122m
+33.  10 Rittenhouse Square, 121m
+34.  1500 Locust Street, 119m
+35.  Aria, 119m
+36.  PECO Building, 117m
+37.  1650 Arch Street, 117m
+38.  500 Walnut, 116m
+39.  Academy House, 115m
+40.  The Drake, 114m
+41.  Symphony House, 114m
+42.  CHOP Research Tower, 114m
+43.  Penn Mutual Towers, 114m
+44.  The Alexander, 113m
+45.  Medical Tower Building, 111m
+46.  2116 Chestnut, 108m
+47.  1400 Spring Garden Street, 107m
+48.  Land Title Building Annex, 105m
+49.  210 West Rittenhouse  Square, 104m
+50.  400 North Broad Street, 104m
+51.  The Dorchester, 103m
+52.  2400 Chestnut Street Apartments, 103m
+53.  The Packard Grande, 102m
+54.  1919 Market, 102m
+55.  Sheraton Philadelphia Downtown Hotel, 101m
+56.  One Penn Center, 101m
+57.  The Regatta, 100m
+58.  One Penn Square West, 99m
+59.  Edison Building, 99m
+60.  1845 Walnut Street, 97m
+61.  Marriott Residence Inn Hotel Center City Philadelphia, 97m
+62.  1525 Locust Street, 96m
+63.  Hotel Palomar Philadelphia, 95m
+64.  1500 Walnut Street, 95m
+65.  3601 Market Street, 94m
+66.  Society Hill Towers I, 94m
+67.  Society Hill Towers II, 94m
+68.  Society Hill Towers III, 94m
+69.  ICON, 94m
+70.  Ten Penn Center, 93m
+71.  James A. Byrne - U.S. Federal Courthouse, 92m
+72.  30 South 17th Street, 92m
+73.  Temple University - Morgan Hall North, 92m
+74.  Hopkinson House, 92m
+75.  1528 Walnut Street, 91m
+76.  1800 JFK Boulevard, 91m
+77.  1880 JFK Boulevard, 91m
+78.  1213 Walnut, 90m
+79.  Wanamaker House, 89m
+80.  The Peninsula, 88m
+81.  Rittenhouse 222, 88m
+82.  U.S. Custom House, 87m
+83.  Rittenhouse Claridge, 87m
+84.  Kennedy House, 87m
+85.  Eight Penn Center, 87m
+86.  The Phoenix, 86m
+87.  3737 Chestnut, 86m
+88.  1234 Market Street, 86m
+89.  Sonesta Philadelphia Downtown Rittenhouse Square, 85m
+90.  River Park House, 85m
+91.  Four Penn Center, 85m
+92.  The Summit at University City, 85m
+93.  220 Rittenhouse Square Apartments, 85m
+94.  The Sterling Apartments, 84m
+95.  William Penn House, 84m
+96.  Atlantic Building, 84m
+97.  Hyatt at the Bellevue, 83m
+98.  One Franklin Plaza, 83m
+99.  1500 Walnut Street Annex, 83m
+100. Center City One, 82m
+101. 1515 Market Street, 82m
+102. Two Penn Center Plaza, 82m
+103. Seven Penn Center, 82m
+104. Rothenberg Tower, 82m
+105. Embassy Suites Philadelphia - Center City, 81m
+106. North American Building, 81m
+107. Three Parkway, 81m
+108. 3535 Market Street, 81m
+109. Municipal Services Building, 81m
+110. 230 South Broad Street, 81m
+111. The Barclay, 80m
+112. The Chancellor Apartments, 80m
+113. Cityview Condominiums 2, 80m
+114. The Metropolitan, 79m
+115. DoubleTree by Hilton Hotel Philadelphia Center City, 79m
+116. 1930 Chestnut Street, 79m
+117. Widener Building, 79m
+118. Daniel J. Terra Building, 79m
+119. One Parkway, 79m
+120. Hahnemann University Hospital New College Building H, 79m
+121. Hyatt Regency Philadelphia at Penn's Landing, 78m
+122. The Watermark at Logan Square, 78m
+123. Hahnemann University Hospital North Tower, 77m
+124. Harnwell College House, 76m
+125. Harrison College House, 76m
+126. Rodin College House, 76m
+127. Philadelphia Marriott Downtown, 76m
+128. Adelphia House, 76m
+129. 1631 Arch Street, 76m
+130. The Courtyard Apartments at Riverview, 76m
+131. One Independence Place, 75m
+132. The Rittenhouse Plaza, 75m
+
+******************** DETAILS ********************
+
+*** Philadelphia ***
+Country: United States
+Region: North America
+132 towers: Comcast Technology Center, Comcast Center, One Liberty Place, Two Liberty Place, BNY Mellon Bank Center, Three Logan, FMC Tower at Cira Centre South, G. Fred DiBona Jr. Building, The W Philadelphia and Element Philadelphia, Commerce Square #1, Commerce Square #2, The Residences at the Ritz-Carlton, 1818 Market Street, The St. James, Loews Philadelphia Hotel, PNC Bank Building, Centre Square II, Five Penn Center, The Murano, One South Broad, Cira Centre, Two Logan Square, 1700 Market Street, Evo at Cira Centre South, 1835 Market Street, Aramark Tower, Centre Square I, Wells Fargo Building, The Ritz-Carlton Philadelphia, 1706 Rittenhouse Square, One Logan Square, 2000 Market Street, 10 Rittenhouse Square, 1500 Locust Street, Aria, PECO Building, 1650 Arch Street, 500 Walnut, Academy House, The Drake, Symphony House, CHOP Research Tower, Penn Mutual Towers, The Alexander, Medical Tower Building, 2116 Chestnut, 1400 Spring Garden Street, Land Title Building Annex, 210 West Rittenhouse  Square, 400 North Broad Street, The Dorchester, 2400 Chestnut Street Apartments, The Packard Grande, 1919 Market, Sheraton Philadelphia Downtown Hotel, One Penn Center, The Regatta, One Penn Square West, Edison Building, 1845 Walnut Street, Marriott Residence Inn Hotel Center City Philadelphia, 1525 Locust Street, Hotel Palomar Philadelphia, 1500 Walnut Street, 3601 Market Street, Society Hill Towers I, Society Hill Towers II, Society Hill Towers III, ICON, Ten Penn Center, James A. Byrne - U.S. Federal Courthouse, 30 South 17th Street, Temple University - Morgan Hall North, Hopkinson House, 1528 Walnut Street, 1800 JFK Boulevard, 1880 JFK Boulevard, 1213 Walnut, Wanamaker House, The Peninsula, Rittenhouse 222, U.S. Custom House, Rittenhouse Claridge, Kennedy House, Eight Penn Center, The Phoenix, 3737 Chestnut, 1234 Market Street, Sonesta Philadelphia Downtown Rittenhouse Square, River Park House, Four Penn Center, The Summit at University City, 220 Rittenhouse Square Apartments, The Sterling Apartments, William Penn House, Atlantic Building, Hyatt at the Bellevue, One Franklin Plaza, 1500 Walnut Street Annex, Center City One, 1515 Market Street, Two Penn Center Plaza, Seven Penn Center, Rothenberg Tower, Embassy Suites Philadelphia - Center City, North American Building, Three Parkway, 3535 Market Street, Municipal Services Building, 230 South Broad Street, The Barclay, The Chancellor Apartments, Cityview Condominiums 2, The Metropolitan, DoubleTree by Hilton Hotel Philadelphia Center City, 1930 Chestnut Street, Widener Building, Daniel J. Terra Building, One Parkway, Hahnemann University Hospital New College Building H, Hyatt Regency Philadelphia at Penn's Landing, The Watermark at Logan Square, Hahnemann University Hospital North Tower, Harnwell College House, Harrison College House, Rodin College House, Philadelphia Marriott Downtown, Adelphia House, 1631 Arch Street, The Courtyard Apartments at Riverview, One Independence Place, The Rittenhouse Plaza
+Tiers: I: 85, II: 33, III: 7, IV: 6, V: 1
+Rating: 223 (1.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Comcast Technology Center ***
+Height: 341.68
+Floors: 59
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: hotel / office
+Rank: 1
+
+*** Comcast Center ***
+Height: 296.73
+Floors: 57
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: office
+Rank: 2
+
+*** One Liberty Place ***
+Height: 288.04
+Floors: 61
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 3
+
+*** Two Liberty Place ***
+Height: 258.47
+Floors: 58
+Status: Completed
+Completed: 1990
+Functions: residential / office
+Rank: 4
+
+*** BNY Mellon Bank Center ***
+Height: 241.41
+Floors: 54
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 5
+
+*** Three Logan ***
+Height: 225.25
+Floors: 55
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 6
+
+*** FMC Tower at Cira Centre South ***
+Height: 222.5
+Floors: 49
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / office / hotel
+Rank: 7
+
+*** G. Fred DiBona Jr. Building ***
+Height: 190.5
+Floors: 45
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 8
+
+*** The W Philadelphia and Element Philadelphia ***
+Height: 188
+Floors: 51
+Status: Under Construction
+Started: 2015
+Completed: 2019
+Functions: hotel / hotel
+Rank: 9
+
+*** Commerce Square #1 ***
+Height: 174.35
+Floors: 41
+Status: Completed
+Completed: 1987
+Functions: office
+Rank: 10
+
+*** Commerce Square #2 ***
+Height: 174.35
+Floors: 41
+Status: Completed
+Started: 1990
+Completed: 1992
+Functions: office
+Rank: 10
+
+*** The Residences at the Ritz-Carlton ***
+Height: 157.89
+Floors: 46
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 12
+
+*** 1818 Market Street ***
+Height: 152.4
+Floors: 40
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 13
+
+*** The St. James ***
+Height: 151.84
+Floors: 45
+Status: Completed
+Started: 2001
+Completed: 2004
+Functions: residential
+Rank: 14
+
+*** Loews Philadelphia Hotel ***
+Height: 149.96
+Floors: 36
+Status: Completed
+Started: 1929
+Completed: 1932
+Functions: office
+Rank: 15
+
+*** PNC Bank Building ***
+Height: 149.66
+Floors: 40
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 16
+
+*** Centre Square II ***
+Height: 149.35
+Floors: 40
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 17
+
+*** Five Penn Center ***
+Height: 149.35
+Floors: 36
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 18
+
+*** The Murano ***
+Height: 144.78
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 19
+
+*** One South Broad ***
+Height: 144.37
+Floors: 28
+Status: Completed
+Started: 1930
+Completed: 1932
+Functions: office
+Rank: 20
+
+*** Cira Centre ***
+Height: 133.1
+Floors: 29
+Status: Completed
+Started: 2004
+Completed: 2005
+Functions: office
+Rank: 21
+
+*** Two Logan Square ***
+Height: 132.59
+Floors: 35
+Status: Completed
+Started: 1984
+Completed: 1987
+Functions: office
+Rank: 22
+
+*** 1700 Market Street ***
+Height: 131
+Floors: 32
+Status: Completed
+Completed: 1968
+Functions: office
+Rank: 23
+
+*** Evo at Cira Centre South ***
+Height: 130
+Floors: 36
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential
+Rank: 24
+
+*** 1835 Market Street ***
+Height: 129.54
+Floors: 29
+Status: Completed
+Started: 1985
+Completed: 1986
+Functions: office
+Rank: 25
+
+*** Aramark Tower ***
+Height: 127.1
+Floors: 31
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 26
+
+*** Centre Square I ***
+Height: 127
+Floors: 32
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 27
+
+*** Wells Fargo Building ***
+Height: 123.45
+Floors: 29
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 28
+
+*** The Ritz-Carlton Philadelphia ***
+Height: 123.14
+Floors: 30
+Status: Completed
+Completed: 1930
+Functions: hotel
+Rank: 29
+
+*** 1706 Rittenhouse Square ***
+Height: 122
+Floors: 31
+Status: Completed
+Started: 2006
+Completed: 2010
+Functions: residential
+Rank: 30
+
+*** One Logan Square ***
+Height: 121.92
+Floors: 31
+Status: Completed
+Started: 1979
+Completed: 1983
+Functions: hotel / office
+Rank: 31
+
+*** 2000 Market Street ***
+Height: 121.62
+Floors: 29
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 32
+
+*** 10 Rittenhouse Square ***
+Height: 120.7
+Floors: 33
+Status: Completed
+Started: 2007
+Completed: 2009
+Functions: residential
+Rank: 33
+
+*** 1500 Locust Street ***
+Height: 118.87
+Floors: 44
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 34
+
+*** Aria ***
+Height: 118.57
+Floors: 33
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 35
+
+*** PECO Building ***
+Height: 117.05
+Floors: 25
+Status: Completed
+Completed: 1970
+Functions: office
+Rank: 36
+
+*** 1650 Arch Street ***
+Height: 117
+Floors: 27
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 37
+
+*** 500 Walnut ***
+Height: 115.8
+Floors: 26
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 38
+
+*** Academy House ***
+Height: 114.9
+Floors: 37
+Status: Completed
+Completed: 1975
+Functions: residential
+Rank: 39
+
+*** The Drake ***
+Height: 114.3
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 40
+
+*** Symphony House ***
+Height: 114.3
+Floors: 31
+Status: Completed
+Completed: 2007
+Functions: residential
+Rank: 41
+
+*** CHOP Research Tower ***
+Height: 114.3
+Floors: 23
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: office / hospital
+Rank: 42
+
+*** Penn Mutual Towers ***
+Height: 114.3
+Floors: 20
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 43
+
+*** The Alexander ***
+Height: 112.75
+Floors: 32
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 44
+
+*** Medical Tower Building ***
+Height: 110.95
+Floors: 30
+Status: Completed
+Completed: 1930
+Functions: office
+Rank: 45
+
+*** 2116 Chestnut ***
+Height: 108.5
+Floors: 34
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 46
+
+*** 1400 Spring Garden Street ***
+Height: 106.98
+Floors: 19
+Status: Completed
+Completed: 1958
+Functions: office
+Rank: 47
+
+*** Land Title Building Annex ***
+Height: 104.85
+Floors: 22
+Status: Completed
+Completed: 1902
+Functions: office
+Rank: 48
+
+*** 210 West Rittenhouse  Square ***
+Height: 104.24
+Floors: 33
+Status: Completed
+Completed: 1989
+Functions: hotel
+Rank: 49
+
+*** 400 North Broad Street ***
+Height: 103.63
+Floors: 18
+Status: Completed
+Completed: 1924
+Functions: residential
+Rank: 50
+
+*** The Dorchester ***
+Height: 103.33
+Floors: 32
+Status: Completed
+Completed: 1963
+Functions: residential
+Rank: 51
+
+*** 2400 Chestnut Street Apartments ***
+Height: 102.72
+Floors: 34
+Status: Completed
+Completed: 1979
+Functions: residential
+Rank: 52
+
+*** The Packard Grande ***
+Height: 102.41
+Floors: 25
+Status: Completed
+Completed: 1924
+Functions: residential
+Rank: 53
+
+*** 1919 Market ***
+Height: 102
+Floors: 29
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 54
+
+*** Sheraton Philadelphia Downtown Hotel ***
+Height: 100.58
+Floors: 29
+Status: Completed
+Completed: 1980
+Functions: hotel
+Rank: 55
+
+*** One Penn Center ***
+Height: 100.58
+Floors: 20
+Status: Completed
+Completed: 1930
+Functions: office
+Rank: 56
+
+*** The Regatta ***
+Height: 100.28
+Floors: 29
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 57
+
+*** One Penn Square West ***
+Height: 99
+Floors: 25
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 58
+
+*** Edison Building ***
+Height: 99
+Floors: 24
+Status: Completed
+Completed: 1927
+Functions: education
+Rank: 59
+
+*** 1845 Walnut Street ***
+Height: 97.23
+Floors: 25
+Status: Completed
+Completed: 1972
+Functions: office
+Rank: 60
+
+*** Marriott Residence Inn Hotel Center City Philadelphia ***
+Height: 97.23
+Floors: 25
+Status: Completed
+Completed: 1930
+Functions: hotel
+Rank: 60
+
+*** 1525 Locust Street ***
+Height: 96
+Floors: 19
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 62
+
+*** Hotel Palomar Philadelphia ***
+Height: 95.4
+Floors: 24
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: hotel
+Rank: 63
+
+*** 1500 Walnut Street ***
+Height: 95.4
+Floors: 23
+Status: Completed
+Completed: 1927
+Functions: office
+Rank: 64
+
+*** 3601 Market Street ***
+Height: 94.3
+Floors: 28
+Status: Completed
+Completed: 2015
+Functions: residential
+Rank: 65
+
+*** Society Hill Towers I ***
+Height: 94.18
+Floors: 31
+Status: Completed
+Started: 1961
+Completed: 1964
+Functions: residential
+Rank: 66
+
+*** Society Hill Towers II ***
+Height: 94.18
+Floors: 31
+Status: Completed
+Started: 1961
+Completed: 1964
+Functions: residential
+Rank: 66
+
+*** Society Hill Towers III ***
+Height: 94.18
+Floors: 31
+Status: Completed
+Started: 1961
+Completed: 1964
+Functions: residential
+Rank: 66
+
+*** ICON ***
+Height: 94.18
+Floors: 24
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 69
+
+*** Ten Penn Center ***
+Height: 93.27
+Floors: 27
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 70
+
+*** James A. Byrne - U.S. Federal Courthouse ***
+Height: 92.35
+Floors: 26
+Status: Completed
+Completed: 1970
+Functions: government
+Rank: 71
+
+*** 30 South 17th Street ***
+Height: 92.05
+Floors: 20
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 72
+
+*** Temple University - Morgan Hall North ***
+Height: 92
+Floors: 27
+Status: Completed
+Completed: 2013
+Functions: residential
+Rank: 73
+
+*** Hopkinson House ***
+Height: 91.75
+Floors: 35
+Status: Completed
+Completed: 1962
+Functions: residential
+Rank: 74
+
+*** 1528 Walnut Street ***
+Height: 91.44
+Floors: 21
+Status: Completed
+Completed: 1929
+Functions: office
+Rank: 75
+
+*** 1800 JFK Boulevard ***
+Height: 91.14
+Floors: 20
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 76
+
+*** 1880 JFK Boulevard ***
+Height: 91.14
+Floors: 20
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 76
+
+*** 1213 Walnut ***
+Height: 89.6
+Floors: 26
+Status: Completed
+Started: 2016
+Completed: 2017
+Functions: residential
+Rank: 78
+
+*** Wanamaker House ***
+Height: 89
+Floors: 33
+Status: Completed
+Completed: 1983
+Functions: residential
+Rank: 79
+
+*** The Peninsula ***
+Height: 88.09
+Floors: 25
+Status: Completed
+Completed: 2006
+Functions: residential
+Rank: 80
+
+*** Rittenhouse 222 ***
+Height: 87.78
+Floors: 27
+Status: Completed
+Completed: 1925
+Functions: hotel
+Rank: 81
+
+*** U.S. Custom House ***
+Height: 87.48
+Floors: 17
+Status: Completed
+Started: 1932
+Completed: 1934
+Functions: government
+Rank: 82
+
+*** Rittenhouse Claridge ***
+Height: 86.9
+Floors: 25
+Status: Completed
+Started: 1950
+Completed: 1951
+Functions: residential
+Rank: 83
+
+*** Kennedy House ***
+Height: 86.87
+Floors: 30
+Status: Completed
+Started: 1968
+Completed: 1969
+Functions: residential
+Rank: 84
+
+*** Eight Penn Center ***
+Height: 86.56
+Floors: 23
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 85
+
+*** The Phoenix ***
+Height: 86.5
+Floors: 19
+Status: Completed
+Completed: 1925
+Functions: office / residential
+Rank: 86
+
+*** 3737 Chestnut ***
+Height: 86
+Floors: 26
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential / office
+Rank: 87
+
+*** 1234 Market Street ***
+Height: 85.65
+Floors: 20
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 88
+
+*** Sonesta Philadelphia Downtown Rittenhouse Square ***
+Height: 85.3
+Floors: 25
+Status: Completed
+Completed: 1972
+Functions: hotel
+Rank: 89
+
+*** River Park House ***
+Height: 85.04
+Floors: 25
+Status: Completed
+Completed: 1966
+Functions: residential
+Rank: 90
+
+*** Four Penn Center ***
+Height: 85.04
+Floors: 22
+Status: Completed
+Started: 1963
+Completed: 1964
+Functions: office
+Rank: 91
+
+*** The Summit at University City ***
+Height: 85
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 92
+
+*** 220 Rittenhouse Square Apartments ***
+Height: 84.73
+Floors: 24
+Status: Completed
+Completed: 1956
+Functions: residential
+Rank: 93
+
+*** The Sterling Apartments ***
+Height: 83.82
+Floors: 31
+Status: Completed
+Completed: 1961
+Functions: residential
+Rank: 94
+
+*** William Penn House ***
+Height: 83.82
+Floors: 31
+Status: Completed
+Started: 1964
+Completed: 1965
+Functions: residential
+Rank: 94
+
+*** Atlantic Building ***
+Height: 83.82
+Floors: 21
+Status: Completed
+Completed: 1923
+Functions: office
+Rank: 96
+
+*** Hyatt at the Bellevue ***
+Height: 83.21
+Floors: 18
+Status: Completed
+Completed: 1904
+Functions: office / hotel
+Rank: 97
+
+*** One Franklin Plaza ***
+Height: 82.9
+Floors: 24
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 98
+
+*** 1500 Walnut Street Annex ***
+Height: 82.9
+Floors: 22
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 99
+
+*** Center City One ***
+Height: 82.3
+Floors: 30
+Status: Completed
+Completed: 1974
+Functions: residential
+Rank: 100
+
+*** 1515 Market Street ***
+Height: 82.3
+Floors: 20
+Status: Completed
+Completed: 1953
+Functions: office
+Rank: 101
+
+*** Two Penn Center Plaza ***
+Height: 82.25
+Floors: 20
+Status: Completed
+Completed: 1958
+Functions: office
+Rank: 102
+
+*** Seven Penn Center ***
+Height: 81.69
+Floors: 19
+Status: Completed
+Completed: 1966
+Functions: office
+Rank: 103
+
+*** Rothenberg Tower ***
+Height: 81.68
+Floors: 22
+Status: Completed
+Completed: 1928
+Functions: office
+Rank: 104
+
+*** Embassy Suites Philadelphia - Center City ***
+Height: 81.38
+Floors: 27
+Status: Completed
+Completed: 1964
+Functions: hotel
+Rank: 105
+
+*** North American Building ***
+Height: 81.38
+Floors: 21
+Status: Completed
+Completed: 1900
+Functions: office
+Rank: 106
+
+*** Three Parkway ***
+Height: 81.38
+Floors: 20
+Status: Completed
+Completed: 1969
+Functions: office
+Rank: 107
+
+*** 3535 Market Street ***
+Height: 80.77
+Floors: 18
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 108
+
+*** Municipal Services Building ***
+Height: 80.77
+Floors: 18
+Status: Completed
+Started: 1962
+Completed: 1965
+Functions: government
+Rank: 108
+
+*** 230 South Broad Street ***
+Height: 80.75
+Floors: 22
+Status: Completed
+Completed: 1922
+Functions: office
+Rank: 110
+
+*** The Barclay ***
+Height: 80.47
+Floors: 22
+Status: Completed
+Completed: 1929
+Functions: hotel / residential
+Rank: 111
+
+*** The Chancellor Apartments ***
+Height: 80.16
+Floors: 24
+Status: Completed
+Completed: 1928
+Functions: residential
+Rank: 112
+
+*** Cityview Condominiums 2 ***
+Height: 79.86
+Floors: 27
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 113
+
+*** The Metropolitan ***
+Height: 79.25
+Floors: 26
+Status: Completed
+Completed: 1928
+Functions: residential
+Rank: 114
+
+*** DoubleTree by Hilton Hotel Philadelphia Center City ***
+Height: 79.25
+Floors: 25
+Status: Completed
+Completed: 1983
+Functions: hotel
+Rank: 115
+
+*** 1930 Chestnut Street ***
+Height: 79.25
+Floors: 22
+Status: Completed
+Started: 1929
+Completed: 1930
+Functions: residential
+Rank: 116
+
+*** Widener Building ***
+Height: 79.25
+Floors: 18
+Status: Completed
+Completed: 1914
+Functions: office
+Rank: 117
+
+*** Daniel J. Terra Building ***
+Height: 78.9
+Floors: 17
+Status: Completed
+Completed: 1912
+Functions: other / education
+Rank: 118
+
+*** One Parkway ***
+Height: 78.64
+Floors: 18
+Status: Completed
+Completed: 1961
+Functions: government
+Rank: 119
+
+*** Hahnemann University Hospital New College Building H ***
+Height: 78.6
+Floors: 19
+Status: Completed
+Functions: hospital
+Rank: 120
+
+*** Hyatt Regency Philadelphia at Penn's Landing ***
+Height: 78.3
+Floors: 23
+Status: Completed
+Completed: 2000
+Functions: hotel
+Rank: 121
+
+*** The Watermark at Logan Square ***
+Height: 78
+Floors: 24
+Status: Completed
+Completed: 1985
+Functions: residential
+Rank: 122
+
+*** Hahnemann University Hospital North Tower ***
+Height: 77
+Floors: 17
+Status: Completed
+Functions: hospital
+Rank: 123
+
+*** Harnwell College House ***
+Height: 76.2
+Floors: 26
+Status: Completed
+Completed: 1970
+Functions: residential
+Rank: 124
+
+*** Harrison College House ***
+Height: 76.2
+Floors: 26
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 124
+
+*** Rodin College House ***
+Height: 76.2
+Floors: 26
+Status: Completed
+Completed: 1971
+Functions: residential
+Rank: 124
+
+*** Philadelphia Marriott Downtown ***
+Height: 76.2
+Floors: 22
+Status: Completed
+Completed: 1995
+Functions: hotel
+Rank: 127
+
+*** Adelphia House ***
+Height: 76.2
+Floors: 21
+Status: Completed
+Completed: 1914
+Functions: residential
+Rank: 128
+
+*** 1631 Arch Street ***
+Height: 75.9
+Floors: 17
+Status: Completed
+Completed: 1915
+Functions: office
+Rank: 129
+
+*** The Courtyard Apartments at Riverview ***
+Height: 75.8
+Floors: 26
+Status: Completed
+Completed: 1963
+Functions: residential
+Rank: 130
+
+*** One Independence Place ***
+Height: 75.29
+Floors: 25
+Status: Completed
+Completed: 1981
+Functions: residential
+Rank: 131
+
+*** The Rittenhouse Plaza ***
+Height: 75
+Floors: 22
+Status: Completed
+Started: 1924
+Completed: 1925
+Functions: residential
+Rank: 132

@@ -1,0 +1,79 @@
+*** Huizhou (36) ***
+1. Kaisa Center, 288m
+2. Chengjieyi Center, 253m
+3. Xinyue Tiandi, 248m
+4. Kaisa Center Phase 3, 220m
+5. R&F International Center, 198m
+6. Huamao Tower 3, 180m
+7. Huizhou Wheat and World Trade Center, 172m
+
+******************** DETAILS ********************
+
+*** Huizhou ***
+Country: China
+Region: Asia
+7 towers: Kaisa Center, Chengjieyi Center, Xinyue Tiandi, Kaisa Center Phase 3, R&F International Center, Huamao Tower 3, Huizhou Wheat and World Trade Center
+Tiers: III: 3, IV: 4
+Rating: 36 (16.7% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Kaisa Center ***
+Height: 288
+Floors: 66
+Status: Completed
+Started: 2009
+Completed: 2015
+Functions: hotel / office
+Rank: 1
+
+*** Chengjieyi Center ***
+Height: 253
+Floors: 54
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential / office
+Rank: 2
+
+*** Xinyue Tiandi ***
+Height: 248.3
+Floors: 55
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: office
+Rank: 3
+
+*** Kaisa Center Phase 3 ***
+Height: 220
+Floors: 45
+Status: Completed
+Started: 2013
+Completed: 2017
+Functions: office
+Rank: 4
+
+*** R&F International Center ***
+Height: 198
+Floors: 48
+Status: Completed
+Completed: 2011
+Functions: hotel / office
+Rank: 5
+
+*** Huamao Tower 3 ***
+Height: 180
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 6
+
+*** Huizhou Wheat and World Trade Center ***
+Height: 172
+Floors: 39
+Status: Completed
+Completed: 2005
+Functions: office
+Rank: 7

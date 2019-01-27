@@ -1,0 +1,58 @@
+*** Ulsan (20) ***
+1. Taehwa River Iaan Exordium 1, 201m
+2. Taehwa River Iaan Exordium 2, 201m
+3. Ulsan Doosan We've The Zenith Tower A, 182m
+4. Ulsan Doosan We've The Zenith Tower B, 182m
+5. Hyundae Fire & Marine Insurance HQ, 155m
+
+******************** DETAILS ********************
+
+*** Ulsan ***
+Country: South Korea
+Region: Asia
+5 towers: Taehwa River Iaan Exordium 1, Taehwa River Iaan Exordium 2, Ulsan Doosan We've The Zenith Tower A, Ulsan Doosan We've The Zenith Tower B, Hyundae Fire & Marine Insurance HQ
+Tiers: III: 5
+Rating: 20
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Taehwa River Iaan Exordium 1 ***
+Height: 201
+Floors: 54
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** Taehwa River Iaan Exordium 2 ***
+Height: 201
+Floors: 54
+Status: Completed
+Completed: 2010
+Functions: residential
+Rank: 1
+
+*** Ulsan Doosan We've The Zenith Tower A ***
+Height: 182
+Floors: 48
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 3
+
+*** Ulsan Doosan We've The Zenith Tower B ***
+Height: 182
+Floors: 48
+Status: Completed
+Started: 2008
+Completed: 2010
+Functions: residential
+Rank: 3
+
+*** Hyundae Fire & Marine Insurance HQ ***
+Height: 155
+Floors: 20
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 5

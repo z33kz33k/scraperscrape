@@ -1,0 +1,21 @@
+*** Pasadena-TX (2) ***
+1. Endeavour Clear Lake, 118m
+
+******************** DETAILS ********************
+
+*** Pasadena-TX ***
+Country: United States
+Region: North America
+1 tower: Endeavour Clear Lake
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Endeavour Clear Lake ***
+Height: 117.65
+Floors: 30
+Status: Completed
+Started: 2006
+Completed: 2007
+Functions: residential / hotel
+Rank: 1

@@ -1,0 +1,31 @@
+*** Winterthur (2) ***
+1. Wintower, 99m
+2. Swisscom Tower, 90m
+
+******************** DETAILS ********************
+
+*** Winterthur ***
+Country: Switzerland
+Region: Europe
+2 towers: Wintower, Swisscom Tower
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wintower ***
+Height: 99
+Floors: 28
+Status: Completed
+Started: 1962
+Completed: 1966
+Functions: office
+Rank: 1
+
+*** Swisscom Tower ***
+Height: 90
+Floors: 25
+Status: Completed
+Started: 1998
+Completed: 1999
+Functions: office
+Rank: 2

@@ -1,0 +1,40 @@
+*** Espoo (3) ***
+1. Fortum, 84m
+2. Niittyhuippu	, 78m
+3. Panorama Tower, 76m
+
+******************** DETAILS ********************
+
+*** Espoo ***
+Country: Finland
+Region: Europe
+3 towers: Fortum, Niittyhuippu	, Panorama Tower
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Fortum ***
+Height: 83.6
+Floors: 20
+Status: Completed
+Started: 1973
+Completed: 1976
+Functions: office
+Rank: 1
+
+*** Niittyhuippu	 ***
+Height: 78
+Floors: 24
+Status: Completed
+Completed: 2017
+Functions: residential
+Rank: 2
+
+*** Panorama Tower ***
+Height: 75.82
+Floors: 17
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: office
+Rank: 3

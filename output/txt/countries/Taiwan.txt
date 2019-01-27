@@ -1,0 +1,90 @@
+*** Taiwan (335) ***
+1. Taipei, 121
+2. Kaohsiung, 84
+3. Taichung, 73
+4. Banciao City, 26
+5. New Taipei City, 20
+6. Tainan, 4
+7. Taoyuan, 3
+8. Hsinchu, 2
+9. Keelung, 2
+
+******************** DETAILS ********************
+
+*** Taiwan ***
+Region: Asia
+9 cities: Taipei, Kaohsiung, Taichung, Banciao City, New Taipei City, Tainan, Taoyuan, Hsinchu, Keelung
+Tiers: I: 5, II: 60, III: 39, IV: 6, V: 1, VI: 1
+Rating: 335 (6.6% uncompleted)
+
+*** Taipei ***
+Country: Taiwan
+Region: Asia
+39 towers: TAIPEI 101, Taipei Nan Shan Plaza, Fubon Group Xinyi Headquarters, Shin Kong Life Tower, Cathay Landmark, Farglory Financial Center, Far Eastern Plaza 2, Far Eastern Plaza 1, Yihwa International Residential Tower A, Yihwa International Residential Tower B, Huaku Sky Garden, Hua Nan Bank Headquarters, President Enterprise Corporation Tower, Yihwa International Hotel, W Hotel, Tuntex Tower, International Trade Building, Taipei Sky Dome Tower 1, Taipei Sky Dome Tower 2, Taipei Sky Dome Tower 3, Taipei Sky Dome Tower 4, Taipei Sky Dome Tower 5, Taipei County Hall, Ocean Blue Residences, CEC Tower, One Park Taipei Tower 1, Sky City I, Sky City II, Sky City III, An-Tai Tower, Taiwan Power Building, 55 Timeless, One Park Taipei Tower 2, Fubon Banking Center, Taishin International Bank Tower, HSBC Building, Taipei Veterans General Hospital Chung-Cheng Building, National Taiwan University Hospital Child Medical Treatment Building, Tao Zhu Yin Yuan
+Tiers: I: 1, II: 23, III: 10, IV: 4, VI: 1
+Rating: 121 (5.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Kaohsiung ***
+Country: Taiwan
+Region: Asia
+31 towers: 85 Sky Tower, Farglory The One, Chang-Gu World Trade Center, Grand Hi-Lai Hotel, Guo-Yan Building BC, Asia-Pacific Financial Plaza, Linden Hotel, King's Residence, Xin-Fu-Hwa, Vespi Tower, Illuna Tower 1, Illuna Tower 2, Bao-Cheng Enterprise Tower, Cathay Pacific Central Plaza, China Steel Corporation Headquarters, Shr-Hwa Financial Center, Cathay Shi-Wei Financial Center, Bai-Li Ocean Empire, Times Regal Tower, Skytower Kaohsiung, Sheng-Tien, Kaohsiung Chang Gung Memorial Hospital Dormitory A, Kaohsiung Chang Gung Memorial Hospital Dormitory B, Kaohsiung Chang Gung Memorial Hospital Dormitory C, Nobel Tower A, Nobel Tower B, Nobel Tower C, Nobel Tower D, Kao Jian Bo'ai Project, One More, Kaohsiung Medical University Hospital - Frank C. Chen Memorial Building
+Tiers: I: 2, II: 21, III: 5, IV: 2, V: 1
+Rating: 84 (8.3% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Taichung ***
+Country: Taiwan
+Region: Asia
+23 towers: Shr-Hwa International Tower, The Landmark, Golden Plaza, City Center Plaza, National Trade Center, Taichung Condominium Tower, Long-Ban World Trade Building 1, Long-Ban World Trade Building 2, Treasure Garden, Ding Sheng BHW Taiwan Central Plaza, Da International Building 1, Da International Building 2, Fountain Palace, Ta Ann King Building, Asia Rich Tower, Asia Royal Garden, Global Giant Tower, Ling-Ding Tower, Grand Formosa, La bella vita, Long Bang Building, Tungs Taichung Metroharbor Hospital, The Century Tower
+Tiers: I: 1, II: 8, III: 14
+Rating: 73 (8.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Banciao City ***
+Country: Taiwan
+Region: Asia
+7 towers: Far Eastern Banqiao Tower, Neo Sky Dome Tower B, Bank of Pansin Tower 1, Neo Sky Dome Tower C, Neo Sky Dome Tower D, Neo Sky Dome Tower A, Taipei County Government Hall
+Tiers: II: 1, III: 6
+Rating: 26
+Scraped on: 2019-Jan-20 16:05:16
+
+*** New Taipei City ***
+Country: Taiwan
+Region: Asia
+6 towers: Chicony Electronics Headquarters, Tuntex High Rise Tower I, The Crystal Plaza, Blue Ocean, Ellipse 360, CDC Xin Dian Residential Tower
+Tiers: II: 2, III: 4
+Rating: 20 (10.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Tainan ***
+Country: Taiwan
+Region: Asia
+2 towers: Shangri-La Far Eastern Plaza Hotel, Chia Heir Tower
+Tiers: II: 2
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Taoyuan ***
+Country: Taiwan
+Region: Asia
+2 towers: Financial Star Building, HVW Headquarters
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Hsinchu ***
+Country: Taiwan
+Region: Asia
+1 tower: Hsinchu Ambassador Hotel
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Keelung ***
+Country: Taiwan
+Region: Asia
+1 tower: Lih-Rong An Imperial Crown Building
+Tiers: II: 1
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16

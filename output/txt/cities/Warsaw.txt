@@ -1,0 +1,351 @@
+*** Warsaw (88) ***
+1.  Varso Tower, 310m
+2.  Palace of Culture and Science, 231m
+3.  Warsaw Spire, 220m
+4.  Warsaw Unit, 203m
+5.  Skyliner, 195m
+6.  Złota 44, 192m
+7.  Warsaw Trade Tower, 187m
+8.  Cosmopolitan Twarda 2/4, 165m
+9.  InterContinental Warszawa, 164m
+10. Rondo 1, 159m
+11. Q22 Tower, 155m
+12. Warsaw Financial Center, 144m
+13. Mennica Legacy Tower, 141m
+14. Centrum LIM, 140m
+15. Oxford Tower, 139m
+16. Intraco I, 138m
+17. The Warsaw HUB Office Tower 1, 130m
+18. The Warsaw HUB Office Tower 2, 130m
+19. TP S.A. Tower, 122m
+20. ORCO Tower, 115m
+21. Lucka City, 112m
+22. Millennium Plaza, 112m
+23. Novotel Warsawa Centrum, 106m
+24. Skylight, 105m
+25. PZU Tower, 104m
+26. Blue Tower, 100m
+27. Babka Tower, 96m
+28. Prime Corporate Center, 96m
+29. Hilton Warsaw Hotel and Convention Centre, 94m
+30. Westin Warsaw, 94m
+31. JM Tower, 92m
+32. Varso 2, 90m
+33. Alpha, 88m
+34. The Warsaw HUB Hotel Tower, 85m
+35. Varso 1, 81m
+
+******************** DETAILS ********************
+
+*** Warsaw ***
+Country: Poland
+Region: Europe
+35 towers: Varso Tower, Palace of Culture and Science, Warsaw Spire, Warsaw Unit, Skyliner, Złota 44, Warsaw Trade Tower, Cosmopolitan Twarda 2/4, InterContinental Warszawa, Rondo 1, Q22 Tower, Warsaw Financial Center, Mennica Legacy Tower, Centrum LIM, Oxford Tower, Intraco I, The Warsaw HUB Office Tower 1, The Warsaw HUB Office Tower 2, TP S.A. Tower, ORCO Tower, Lucka City, Millennium Plaza, Novotel Warsawa Centrum, Skylight, PZU Tower, Blue Tower, Babka Tower, Prime Corporate Center, Hilton Warsaw Hotel and Convention Centre, Westin Warsaw, JM Tower, Varso 2, Alpha, The Warsaw HUB Hotel Tower, Varso 1
+Tiers: I: 12, II: 12, III: 8, IV: 2, V: 1
+Rating: 88 (28.4% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Varso Tower ***
+Height: 310
+Floors: 53
+Status: Under Construction
+Started: 2017
+Completed: 2020
+Functions: office
+Rank: 1
+
+*** Palace of Culture and Science ***
+Height: 230.68
+Floors: 42
+Status: Completed
+Started: 1952
+Completed: 1955
+Functions: office
+Rank: 2
+
+*** Warsaw Spire ***
+Height: 220
+Floors: 49
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: office
+Rank: 3
+
+*** Warsaw Unit ***
+Height: 203
+Floors: 46
+Status: Under Construction
+Started: 2018
+Functions: office
+Rank: 4
+
+*** Skyliner ***
+Height: 195
+Floors: 45
+Status: Under Construction
+Started: 2014
+Completed: 2019
+Functions: residential / office
+Rank: 5
+
+*** Złota 44 ***
+Height: 192
+Floors: 54
+Status: Completed
+Started: 2008
+Completed: 2016
+Functions: residential
+Rank: 6
+
+*** Warsaw Trade Tower ***
+Height: 187.15
+Floors: 43
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 7
+
+*** Cosmopolitan Twarda 2/4 ***
+Height: 165.42
+Floors: 45
+Status: Completed
+Started: 2010
+Completed: 2014
+Functions: residential
+Rank: 8
+
+*** InterContinental Warszawa ***
+Height: 163.51
+Floors: 45
+Status: Completed
+Started: 2001
+Completed: 2003
+Functions: hotel
+Rank: 9
+
+*** Rondo 1 ***
+Height: 159.15
+Floors: 40
+Status: Completed
+Started: 2003
+Completed: 2006
+Functions: office
+Rank: 10
+
+*** Q22 Tower ***
+Height: 155
+Floors: 42
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: office
+Rank: 11
+
+*** Warsaw Financial Center ***
+Height: 143.85
+Floors: 35
+Status: Completed
+Started: 1997
+Completed: 1999
+Functions: office
+Rank: 12
+
+*** Mennica Legacy Tower ***
+Height: 141
+Floors: 35
+Status: Under Construction
+Started: 2016
+Completed: 2019
+Functions: office
+Rank: 13
+
+*** Centrum LIM ***
+Height: 140
+Floors: 43
+Status: Completed
+Started: 1980
+Completed: 1989
+Functions: hotel / office
+Rank: 14
+
+*** Oxford Tower ***
+Height: 139
+Floors: 42
+Status: Completed
+Started: 1975
+Completed: 1978
+Functions: office
+Rank: 15
+
+*** Intraco I ***
+Height: 138
+Floors: 39
+Status: Completed
+Started: 1974
+Completed: 1975
+Functions: office
+Rank: 16
+
+*** The Warsaw HUB Office Tower 1 ***
+Height: 130
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 17
+
+*** The Warsaw HUB Office Tower 2 ***
+Height: 130
+Floors: 32
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office
+Rank: 17
+
+*** TP S.A. Tower ***
+Height: 122
+Floors: 30
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 19
+
+*** ORCO Tower ***
+Height: 115
+Floors: 26
+Status: Completed
+Started: 1992
+Completed: 1996
+Functions: office
+Rank: 20
+
+*** Lucka City ***
+Height: 112
+Floors: 30
+Status: Completed
+Completed: 2004
+Functions: residential
+Rank: 21
+
+*** Millennium Plaza ***
+Height: 112
+Floors: 28
+Status: Completed
+Completed: 1999
+Functions: office
+Rank: 22
+
+*** Novotel Warsawa Centrum ***
+Height: 106
+Floors: 33
+Status: Completed
+Completed: 1974
+Functions: hotel
+Rank: 23
+
+*** Skylight ***
+Height: 105
+Floors: 26
+Status: Completed
+Started: 2003
+Completed: 2007
+Functions: office
+Rank: 24
+
+*** PZU Tower ***
+Height: 104
+Floors: 28
+Status: Completed
+Completed: 2000
+Functions: office
+Rank: 25
+
+*** Blue Tower ***
+Height: 100
+Floors: 29
+Status: Completed
+Completed: 1991
+Functions: office
+Rank: 26
+
+*** Babka Tower ***
+Height: 96
+Floors: 28
+Status: Completed
+Completed: 2001
+Functions: residential / hotel / office
+Rank: 27
+
+*** Prime Corporate Center ***
+Height: 96
+Floors: 23
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: office
+Rank: 28
+
+*** Hilton Warsaw Hotel and Convention Centre ***
+Height: 94
+Floors: 28
+Status: Completed
+Completed: 2007
+Functions: hotel
+Rank: 29
+
+*** Westin Warsaw ***
+Height: 94
+Floors: 22
+Status: Completed
+Completed: 2003
+Functions: hotel
+Rank: 30
+
+*** JM Tower ***
+Height: 92
+Floors: 25
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: residential / hotel
+Rank: 31
+
+*** Varso 2 ***
+Height: 90
+Floors: 21
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office / retail
+Rank: 32
+
+*** Alpha ***
+Height: 88
+Floors: 21
+Status: Completed
+Completed: 2002
+Functions: office
+Rank: 33
+
+*** The Warsaw HUB Hotel Tower ***
+Height: 85
+Floors: 22
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: hotel
+Rank: 34
+
+*** Varso 1 ***
+Height: 81
+Floors: 19
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: office / hotel / retail
+Rank: 35

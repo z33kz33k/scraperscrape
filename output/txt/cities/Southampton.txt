@@ -1,0 +1,21 @@
+*** Southampton (1) ***
+1. The Moresby Tower, 80m
+
+******************** DETAILS ********************
+
+*** Southampton ***
+Country: United Kingdom
+Region: Europe
+1 tower: The Moresby Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** The Moresby Tower ***
+Height: 80
+Floors: 26
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 1

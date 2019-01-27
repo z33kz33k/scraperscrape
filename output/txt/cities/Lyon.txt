@@ -1,0 +1,50 @@
+*** Lyon (11) ***
+1. Tour Incity, 200m
+2. Tour Part-Dieu , 165m
+3. Tour Oxygene, 110m
+4. Tour Swiss Life, 82m
+
+******************** DETAILS ********************
+
+*** Lyon ***
+Country: France
+Region: Europe
+4 towers: Tour Incity, Tour Part-Dieu , Tour Oxygene, Tour Swiss Life
+Tiers: I: 1, II: 1, III: 2
+Rating: 11
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Tour Incity ***
+Height: 200
+Floors: 39
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: office
+Rank: 1
+
+*** Tour Part-Dieu  ***
+Height: 165
+Floors: 42
+Status: Completed
+Started: 1972
+Completed: 1977
+Functions: hotel / office
+Rank: 2
+
+*** Tour Oxygene ***
+Height: 110
+Floors: 28
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 3
+
+*** Tour Swiss Life ***
+Height: 82
+Floors: 21
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 4

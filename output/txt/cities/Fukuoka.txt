@@ -1,0 +1,69 @@
+*** Fukuoka (11) ***
+1. I Tower, 149m
+2. Island Tower Sky Club Tower A, 145m
+3. Island Tower Sky Club Tower B, 145m
+4. Island Tower Sky Club Tower C, 145m
+5. Sea Hawk Hotel & Resort, 143m
+6. Nexus Momochi Residential Tower, 87m
+
+******************** DETAILS ********************
+
+*** Fukuoka ***
+Country: Japan
+Region: Asia
+6 towers: I Tower, Island Tower Sky Club Tower A, Island Tower Sky Club Tower B, Island Tower Sky Club Tower C, Sea Hawk Hotel & Resort, Nexus Momochi Residential Tower
+Tiers: I: 1, II: 5
+Rating: 11
+Scraped on: 2019-Jan-20 16:05:16
+
+*** I Tower ***
+Height: 149
+Floors: 45
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 1
+
+*** Island Tower Sky Club Tower A ***
+Height: 145.3
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 2
+
+*** Island Tower Sky Club Tower B ***
+Height: 145.3
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 2
+
+*** Island Tower Sky Club Tower C ***
+Height: 145.3
+Floors: 42
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 2
+
+*** Sea Hawk Hotel & Resort ***
+Height: 143
+Floors: 34
+Status: Completed
+Completed: 1995
+Functions: hotel
+Rank: 5
+
+*** Nexus Momochi Residential Tower ***
+Height: 86.9
+Floors: 27
+Status: Completed
+Completed: 1996
+Functions: residential
+Rank: 6

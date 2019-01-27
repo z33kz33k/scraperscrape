@@ -1,0 +1,54 @@
+*** Turkey (478) ***
+1. Istanbul, 318
+2. Ankara, 110
+3. Izmir, 40
+4. Konya, 6
+5. Mersin, 4
+
+******************** DETAILS ********************
+
+*** Turkey ***
+Region: Europe
+5 cities: Istanbul, Ankara, Izmir, Konya, Mersin
+Tiers: I: 18, II: 80, III: 58, IV: 10, V: 1
+Rating: 478 (11.5% uncompleted)
+
+*** Istanbul ***
+Country: Turkey
+Region: Europe
+104 towers: Skyland Office Tower, Skyland Residential Tower, Metropol Tower Istanbul, Sapphire Tower, Emaar Square The Address Hotel & Residences, Istanbul Tower 205, Nurol Life, Istanbul International Finance Center Ziraat Tower I, Maslak Spine Tower, Anthill Residence 1, Anthill Residence 2, Ciftci Tower A, Ciftci Tower B, Istanbul International Finance Center Ziraat Tower II, Varyap Meridian A Block, Allianz Tower, IS Bankasi Tower I, Andromeda Gold, Varyap Meridian C Block, Palladium Tower, Skyland Hotel Tower, Hilton Istanbul Bomonti Hotel & Conference Center, Leopardus, Ak-Asya Shopping Center & Tower, Sisli Plaza, Levent 199, Ozdilek Plaza Tower A, Soyak Kristalkule | Finansbank Headquarters, Tekstilkent Plaza 1, Tekstilkent Plaza 2, Selenium Twins 1, Selenium Twins 2, Varyap Meridian E Block, Exen Plaza, Torun Center - East Tower, Torun Center - South Tower, Sky Tower 1, Akbank Tower, Emaar Square Heights Residences , Trump Tower 1, Four Winds Tower A, Four Winds Tower B, Four Winds Tower C, Four Winds Tower D, Uprise Elite, Suzer Plaza Ritz-Carlton, Torun Tower, Polat Tower Residence, Istanbloom, Dumankaya IKON, 42 Maslak Tower 1, 42 Maslak Tower 2, Ozdilek Plaza Tower B, Trump Tower 2, Sun Plaza, Torun Center - Office Tower, Metrocity Millennium II, Metrocity Millennium III, TAT Tower 1, TAT Tower 2, Metrocity Millennium I, Emaar Square Office Tower , Nurol Tower, Sisli Elite Residence, Sabanci Center 2, Nidakule  Levent, Beybi GIZ Plaza, Istanbul Marriott Hotel Sisli, Kaya Ramada Plaza Hotel, My Towerland Tower B, Sky Tower 2, Sisli TAT Center 1, Sisli TAT Center 2, Kempinski Residences Astoria 1, Kempinski Residences Astoria 2, Bank Ekspres Tower, Garanti Bank Headquarters, Flora Residence, Zorlu Holding, DoubleTree by Hilton Istanbul - Avcilar, Mashattan Tower A1, Mashattan Tower A2, Mashattan Tower A3, Mashattan Tower A4, Mashattan Tower A5, Mashattan Tower B1, Mashattan Tower B2, Mashattan Tower B3, Mashattan Tower B4, Mashattan Tower B5, Istanbul Kanyon 1, Nida Tower Goztepe, Zincirlikuyu Hospital, Promesa Seba Tower, AND Tower, Marriott Hotel Asia, Zorlu Center Hotel Tower, Zorlu Center Tower A, Zorlu Center Tower B, Zorlu Center Tower C, G Tower, Loft Gardens, Memorial Atasehir Hospital, Siyami Ersek Hospital
+Tiers: I: 4, II: 51, III: 41, IV: 8
+Rating: 318 (7.2% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Ankara ***
+Country: Turkey
+Region: Middle East
+49 towers: Merkez Ankara Office Tower, Elya Royal Tower, Kuzu Effect, One Tower, Ege Vadisi , Elmar Towers 1, YDA Center, Portakal Cicegi Kulesi, Vega Park Tower 1, Vega Park Tower 2, Regnum Sky Tower, Otokoç Plazas Tower 1, Otokoç Plazas Tower 2, Tim Towers A Blok, Tim Towers B Blok, Nova Tower, Dikmen Valley Tower 1, Dikmen Valley Tower 2, Dikmen Valley Tower 3, Dikmen Valley Tower 4, TOBB Towers 1, TOBB Towers 2, Next Level Office Tower, Uptown İncek Main Tower, Cankaya University Dormitory, The Paragon, Halbank Headquarters, Armada Tower, Platin Tower, Portas Tower 2, Via Tower , Next Level Residence Tower 2, Cankaya Hotel, Akman Condominium 2000, Banking Regulation & Supervision Council, Paladyum Tower, TPAO Headquarters, Ankara Metropolitan Municipality Building, Ministry of Labour & Social Security, State Planning Organization, TUBITAK Headquarters, Haci Ömer Sabanci Dormitory, Royal Garden Park 1, Portas Tower 1, Royal Garden Park 2, Ministry of Finance Tower 1, Royal Garden Park 3, Royal Garden Park 4, Emek Business Center
+Tiers: I: 14, II: 24, III: 10, V: 1
+Rating: 110 (21.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Izmir ***
+Country: Turkey
+Region: Middle East
+11 towers: Mahall Bomonti Izmir, Mistral Office Tower, Folkart Tower A, Folkart Tower B, Point Bornova, Ege Perla Tower A, Mistral Residential Tower, Izmir Hilton Hotel, Ege Perla Tower B, Heris Tower, Atek Adress
+Tiers: II: 4, III: 5, IV: 2
+Rating: 40 (20.0% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Konya ***
+Country: Turkey
+Region: Middle East
+2 towers: Seljuk Tower, Konya Hilton Hotel
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Mersin ***
+Country: Turkey
+Region: Middle East
+1 tower: Mersin Complex
+Tiers: III: 1
+Rating: 4
+Scraped on: 2019-Jan-20 16:05:17

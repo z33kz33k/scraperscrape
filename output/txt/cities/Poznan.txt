@@ -1,0 +1,41 @@
+*** Poznan (3) ***
+1. Andersia Tower, 102m
+2. Poznań Financial Centre, 91m
+3. Collegium Altum, 81m
+
+******************** DETAILS ********************
+
+*** Poznan ***
+Country: Poland
+Region: Europe
+3 towers: Andersia Tower, Poznań Financial Centre, Collegium Altum
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Andersia Tower ***
+Height: 102
+Floors: 21
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: hotel / office
+Rank: 1
+
+*** Poznań Financial Centre ***
+Height: 91.1
+Floors: 18
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: office
+Rank: 2
+
+*** Collegium Altum ***
+Height: 81
+Floors: 19
+Status: Completed
+Started: 1979
+Completed: 1991
+Functions: education
+Rank: 3

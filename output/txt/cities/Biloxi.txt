@@ -1,0 +1,29 @@
+*** Biloxi (2) ***
+1. Beau Rivage Casino Hotel, 105m
+2. Imperial Palace Casino Hotel, 102m
+
+******************** DETAILS ********************
+
+*** Biloxi ***
+Country: United States
+Region: North America
+2 towers: Beau Rivage Casino Hotel, Imperial Palace Casino Hotel
+Tiers: I: 2
+Rating: 2
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Beau Rivage Casino Hotel ***
+Height: 105.46
+Floors: 32
+Status: Completed
+Completed: 1999
+Functions: hotel / casino
+Rank: 1
+
+*** Imperial Palace Casino Hotel ***
+Height: 102.11
+Floors: 32
+Status: Completed
+Completed: 1998
+Functions: hotel / casino
+Rank: 2

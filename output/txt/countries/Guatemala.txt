@@ -1,0 +1,18 @@
+*** Guatemala (1) ***
+1. Guatemala City, 1
+
+******************** DETAILS ********************
+
+*** Guatemala ***
+Region: Central America
+1 city: Guatemala City
+Tiers: I: 1
+Rating: 1
+
+*** Guatemala City ***
+Country: Guatemala
+Region: Central America
+1 tower: Club Premier
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16

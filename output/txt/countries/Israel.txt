@@ -1,0 +1,72 @@
+*** Israel (203) ***
+1. Tel Aviv, 148
+2. Ramat Gan, 27
+3. Bnei Brak, 9
+4. Bat Yam, 6
+5. Haifa, 5
+6. Givatayim, 5
+7. Beer Sheba, 3
+
+******************** DETAILS ********************
+
+*** Israel ***
+Region: Middle East
+7 cities: Tel Aviv, Ramat Gan, Bnei Brak, Bat Yam, Haifa, Givatayim, Beer Sheba
+Tiers: I: 23, II: 43, III: 19, IV: 3
+Rating: 203 (13.3% uncompleted)
+
+*** Tel Aviv ***
+Country: Israel
+Region: Middle East
+64 towers: ToHA Tower 1, Azrieli Sarona, Midtown Office Tower, Midtown Residential Tower, Azrieli Center Circular Tower, Azrieli Center Triangular Tower, Electra Tower, Alon Tower A, Alon Tower B, Sitonai Market Tower II, Sitonai Market Tower I, Ha`arbaa Tower 1, HaYovel Tower, W-Tower, Azrieli Center Square Tower, Rothschild Tower, Atidim 8 Tower, Neve-Tzedek Tower, W Prime, Ha`arbaa Tower 2, Yoo Tel Aviv 2, Shalom Meir Tower, Manhattan Tower, Tel Aviv Towers I, Tel Aviv Towers II, Tel Aviv Towers III, Tel Aviv Towers IV, Marganit Tower, First International Bank Tower, Yoo Tel Aviv 1, 22 Rothschild Tower, Levinstein Tower, Tzameret Tower 1, Tzameret Tower 2, Tzameret Tower 3, White City Residence, 1 Rothschild Boulevard, 6 Remez Tower, 17 Arlozorov, Beeri Nerhardaa Tower, ToHA Tower 2, B.S.R. Tower 5, W Boutique, Isrotel Tower, Aviv Ba Tzameret Tower, Frishman 46, Matcal Tower, Dizengoff Tower, B.S.R. Tower 6, Assuta Village, One Tower, Rubenstein House, NAM Tower, Gan HaYir Tower, Sonol Tower, Millennium, Platinum Tower, Lev HaYir Tower, Europe-Israel Tower, Toyota Tower 1, Alrov Tower, G Tel Aviv, King David Hotel, Sheraton Hotel
+Tiers: I: 16, II: 32, III: 14, IV: 2
+Rating: 148 (15.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Ramat Gan ***
+Country: Israel
+Region: Middle East
+11 towers: Moshe Aviv Tower, Leonardo City Tower, Amot Atrium Tower, Menora Tower, Rogobin Tidhar Tower, Time Tower, Diamond Tower, Gibor Sport House, Psagot Gan, Skyline Tower, Faire Tower
+Tiers: I: 3, II: 5, III: 2, IV: 1
+Rating: 27 (14.8% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Bnei Brak ***
+Country: Israel
+Region: Middle East
+4 towers: Champion Tower, BSR Tower 3, BSR Tower 2, BSR Tower 1
+Tiers: I: 1, II: 2, III: 1
+Rating: 9
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Bat Yam ***
+Country: Israel
+Region: Middle East
+2 towers: Nave Noff Tower, Ashdar One Tower
+Tiers: II: 1, III: 1
+Rating: 6
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Haifa ***
+Country: Israel
+Region: Middle East
+3 towers: The Sail Tower, IEC Tower, Eshkol Tower
+Tiers: I: 1, II: 2
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Givatayim ***
+Country: Israel
+Region: Middle East
+2 towers: The Shahar Tower, Vered Tower
+Tiers: I: 1, III: 1
+Rating: 5
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Beer Sheba ***
+Country: Israel
+Region: Middle East
+2 towers: Rambam Square 2, Rambam Square 1
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16

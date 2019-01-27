@@ -1,0 +1,20 @@
+*** Knoxville (1) ***
+1. Plaza Tower, 100m
+
+******************** DETAILS ********************
+
+*** Knoxville ***
+Country: United States
+Region: North America
+1 tower: Plaza Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Plaza Tower ***
+Height: 99.68
+Floors: 27
+Status: Completed
+Completed: 1979
+Functions: office
+Rank: 1

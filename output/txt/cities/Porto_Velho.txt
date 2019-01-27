@@ -1,0 +1,21 @@
+*** Porto Velho (1) ***
+1. Maison Chamounix, 83m
+
+******************** DETAILS ********************
+
+*** Porto Velho ***
+Country: Brazil
+Region: South America
+1 tower: Maison Chamounix
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Maison Chamounix ***
+Height: 83
+Floors: 24
+Status: Completed
+Started: 2004
+Completed: 2008
+Functions: residential
+Rank: 1

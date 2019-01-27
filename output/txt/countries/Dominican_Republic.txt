@@ -1,0 +1,18 @@
+*** Dominican Republic (34) ***
+1. Santo Domingo, 34
+
+******************** DETAILS ********************
+
+*** Dominican Republic ***
+Region: Central America
+1 city: Santo Domingo
+Tiers: I: 10, II: 8, III: 2
+Rating: 34
+
+*** Santo Domingo ***
+Country: Dominican Republic
+Region: Central America
+20 towers: Anacaona 27, Torre Caney, Torre Mar Azul, Torre Silver Sun Gallery, Malecon Center 1, Malecon Center 2, Malecon Center 3, Torre Azul, Torre Citibank, Diandy XX, Torre Da Silva 4, Hilton Santo Domingo, Veiramar 2, Torre Carib, Torre del Conservatorio, ALCO Paradisso, Torre del Parque, Torre del Sol, Intercentro, Torre Atiemar
+Tiers: I: 10, II: 8, III: 2
+Rating: 34
+Scraped on: 2019-Jan-20 16:05:17

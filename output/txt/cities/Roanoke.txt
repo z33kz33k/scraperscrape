@@ -1,0 +1,21 @@
+*** Roanoke (1) ***
+1. Wells Fargo Tower, 98m
+
+******************** DETAILS ********************
+
+*** Roanoke ***
+Country: United States
+Region: North America
+1 tower: Wells Fargo Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Wells Fargo Tower ***
+Height: 97.54
+Floors: 21
+Status: Completed
+Started: 1990
+Completed: 1991
+Functions: office
+Rank: 1

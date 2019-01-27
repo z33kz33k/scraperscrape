@@ -1,0 +1,18 @@
+*** Lebanon (36) ***
+1. Beirut, 36
+
+******************** DETAILS ********************
+
+*** Lebanon ***
+Region: Middle East
+1 city: Beirut
+Tiers: I: 10, II: 9, III: 2
+Rating: 36 (13.9% uncompleted)
+
+*** Beirut ***
+Country: Lebanon
+Region: Middle East
+21 towers: Sama Beirut, Sky Gate, Marina Tower, Quasar Saifi 450, Habtoor Grand Hotel Convention Center & Spa, Bay Tower, Platinum Tower, Four Seasons Hotel, Beirut Terraces, Hosn 440, Beirut Tower, Achrafieh Heights, Atomium 5242, Imhotep Tower Achrafieh, Skyline, Le Patio Block C, Bahri Gardens, Trillium Beirut, Zeidan Tower, Harbour Tower, Paramount
+Tiers: I: 10, II: 9, III: 2
+Rating: 36 (13.9% uncompleted)
+Scraped on: 2019-Jan-20 16:05:16

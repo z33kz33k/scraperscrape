@@ -1,0 +1,20 @@
+*** Cabazon (1) ***
+1. Morongo Casino Tower, 101m
+
+******************** DETAILS ********************
+
+*** Cabazon ***
+Country: United States
+Region: North America
+1 tower: Morongo Casino Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Morongo Casino Tower ***
+Height: 101
+Floors: 27
+Status: Completed
+Completed: 2004
+Functions: hotel / casino
+Rank: 1

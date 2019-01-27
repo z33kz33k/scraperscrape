@@ -1,0 +1,38 @@
+*** Tucson (3) ***
+1. UniSource Energy Tower, 101m
+2. Bank of America Plaza, 80m
+3. Pima County Legal Services Building, 79m
+
+******************** DETAILS ********************
+
+*** Tucson ***
+Country: United States
+Region: North America
+3 towers: UniSource Energy Tower, Bank of America Plaza, Pima County Legal Services Building
+Tiers: I: 3
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:17
+
+*** UniSource Energy Tower ***
+Height: 100.59
+Floors: 23
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 1
+
+*** Bank of America Plaza ***
+Height: 79.86
+Floors: 22
+Status: Completed
+Completed: 1977
+Functions: government / office
+Rank: 2
+
+*** Pima County Legal Services Building ***
+Height: 79.25
+Floors: 20
+Status: Completed
+Completed: 1967
+Functions: government
+Rank: 3

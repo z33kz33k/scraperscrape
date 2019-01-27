@@ -1,0 +1,132 @@
+*** Hartford (25) ***
+1.  City Place I, 163m
+2.  Travelers Tower, 161m
+3.  Goodwin Square, 159m
+4.  Hartford 21, 134m
+5.  777 Main Street, 110m
+6.  280 Trumbull Street, 106m
+7.  One Financial Plaza, 102m
+8.  Hartford Plaza, 102m
+9.  20 Church Street, 93m
+10. One State Street, 91m
+11. Bushnell Tower, 80m
+12. One Constitution Plaza, 78m
+13. Aetna Corporate Headquarters Building, 76m
+
+******************** DETAILS ********************
+
+*** Hartford ***
+Country: United States
+Region: North America
+13 towers: City Place I, Travelers Tower, Goodwin Square, Hartford 21, 777 Main Street, 280 Trumbull Street, One Financial Plaza, Hartford Plaza, 20 Church Street, One State Street, Bushnell Tower, One Constitution Plaza, Aetna Corporate Headquarters Building
+Tiers: I: 7, II: 3, III: 3
+Rating: 25
+Scraped on: 2019-Jan-20 16:05:16
+
+*** City Place I ***
+Height: 163.07
+Floors: 38
+Status: Completed
+Completed: 1980
+Functions: office
+Rank: 1
+
+*** Travelers Tower ***
+Height: 160.63
+Floors: 24
+Status: Completed
+Completed: 1919
+Functions: office
+Rank: 2
+
+*** Goodwin Square ***
+Height: 159.11
+Floors: 30
+Status: Completed
+Completed: 1990
+Functions: office
+Rank: 3
+
+*** Hartford 21 ***
+Height: 134.12
+Floors: 36
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 4
+
+*** 777 Main Street ***
+Height: 109.73
+Floors: 26
+Status: Completed
+Started: 1964
+Completed: 1967
+Functions: office
+Rank: 5
+
+*** 280 Trumbull Street ***
+Height: 106.38
+Floors: 28
+Status: Completed
+Completed: 1984
+Functions: office
+Rank: 6
+
+*** One Financial Plaza ***
+Height: 102.12
+Floors: 26
+Status: Completed
+Completed: 1975
+Functions: office
+Rank: 7
+
+*** Hartford Plaza ***
+Height: 101.8
+Floors: 22
+Status: Completed
+Started: 1965
+Completed: 1967
+Functions: office
+Rank: 8
+
+*** 20 Church Street ***
+Height: 92.96
+Floors: 23
+Status: Completed
+Completed: 1981
+Functions: office
+Rank: 9
+
+*** One State Street ***
+Height: 91.45
+Floors: 24
+Status: Completed
+Completed: 1983
+Functions: office
+Rank: 10
+
+*** Bushnell Tower ***
+Height: 79.86
+Floors: 27
+Status: Completed
+Completed: 1969
+Functions: residential
+Rank: 11
+
+*** One Constitution Plaza ***
+Height: 78.33
+Floors: 20
+Status: Completed
+Completed: 1963
+Functions: office
+Rank: 12
+
+*** Aetna Corporate Headquarters Building ***
+Height: 75.59
+Floors: 8
+Status: Completed
+Started: 1929
+Completed: 1931
+Functions: office
+Rank: 13

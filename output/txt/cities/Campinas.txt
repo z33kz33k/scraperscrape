@@ -1,0 +1,29 @@
+*** Campinas (3) ***
+1. Centro Empresarial Conceicao, 117m
+2. Mirante, 90m
+
+******************** DETAILS ********************
+
+*** Campinas ***
+Country: Brazil
+Region: South America
+2 towers: Centro Empresarial Conceicao, Mirante
+Tiers: I: 1, II: 1
+Rating: 3
+Scraped on: 2019-Jan-20 16:05:16
+
+*** Centro Empresarial Conceicao ***
+Height: 117
+Floors: 31
+Status: Completed
+Completed: 1996
+Functions: office
+Rank: 1
+
+*** Mirante ***
+Height: 90
+Floors: 31
+Status: Completed
+Completed: 1973
+Functions: residential
+Rank: 2

@@ -1,0 +1,1421 @@
+*** Miami (393) ***
+1.   Panorama Tower, 252m
+2.   Aston Martin Residences, 249m
+3.   Four Seasons Hotel & Tower, 240m
+4.   Southeast Financial Center, 233m
+5.   Brickell Flatiron, 224m
+6.   Marquis, 214m
+7.   One Thousand Museum, 213m
+8.   Wells Fargo Tower, 200m
+9.   900 Biscayne Bay, 198m
+10.  Elysee, 198m
+11.  Missoni Baia, 197m
+12.  Paramount Miami Worldcenter, 195m
+13.  Echo Brickell, 194m
+14.  Mint at Riverfront, 192m
+15.  Miami River, 192m
+16.  Infinity at Brickell, 192m
+17.  Miami Tower, 190m
+18.  Marina Blue, 187m
+19.  Plaza on Brickell Tower I, 186m
+20.  Epic Residences & Hotel, 183m
+21.  One Paraiso, 183m
+22.  SLS Brickell, 183m
+23.  SLS Lux Brickell, 181m
+24.  Icon Brickell North Tower, 179m
+25.  Icon Brickell South Tower, 179m
+26.  Solitair Brickell, 169m
+27.  Paramount at Edgewater Square, 169m
+28.  50 Biscayne, 169m
+29.  Quantum on the Bay South Tower, 169m
+30.  Biscayne Beach, 168m
+31.  Brickell Heights North Tower, 167m
+32.  1010 Brickell, 167m
+33.  GranParaiso, 167m
+34.  ParaisoBay, 167m
+35.  Opera Tower, 166m
+36.  Viceroy, 165m
+37.  Vizcayne, North Tower, 164m
+38.  Vizcayne, South Tower, 164m
+39.  Avant at Met Square, 164m
+40.  Quantum on the Bay North Tower, 163m
+41.  Aria on the Bay, 163m
+42.  Ten Museum Park, 162m
+43.  Brickell Heights South Tower, 161m
+44.  Jade at Brickell Bay, 161m
+45.  Plaza on Brickell Tower II, 160m
+46.  Santa Maria, 158m
+47.  Rise, 158m
+48.  EAST, Miami, 157m
+49.  The Ivy, 156m
+50.  Stephen P. Clark Center, 155m
+51.  BrickellHouse, 155m
+52.  Parkline South, 154m
+53.  Reach, 153m
+54.  Met 2 Marriott Marquis, 153m
+55.  Wind, 153m
+56.  1450 BRICKELL, 153m
+57.  Paraiso Bayviews, 152m
+58.  Avenue Brickell Tower, 151m
+59.  One Biscayne Tower, 150m
+60.  The Bond at Brickell, 150m
+61.  Espirito Santo Plaza, 148m
+62.  Brickell World Plaza at 600 Brickell, 148m
+63.  Miami Center, 148m
+64.  Asia, 147m
+65.  Brickell on the River North Tower, 147m
+66.  Three Tequesta Point, 146m
+67.  Latitude on the River, 145m
+68.  Parkline North, 145m
+69.  1100 Millicento Residences, 143m
+70.  Melody Tower, 142m
+71.  One Miami East Tower, 140m
+72.  X Miami, 140m
+73.  701 Brickell Avenue, 137m
+74.  One Miami West Tower, 137m
+75.  Icon Bay, 136m
+76.  CAOBA, 135m
+77.  Met 1, 134m
+78.  1111 Brickell Avenue, 133m
+79.  Loft 2, 132m
+80.  Centro Lofts Miami, 130m
+81.  500 Brickell East Tower, 130m
+82.  500 Brickell West Tower, 130m
+83.  Blue on the Bay, 130m
+84.  1800 Club, 129m
+85.  VUE at Brickell, 129m
+86.  Brickell on the River South Tower, 129m
+87.  The Mark on Brickell, 128m
+88.  Axis on Brickell North Tower, 127m
+89.  Axis on Brickell South Tower, 127m
+90.  One Broadway on Brickell, 126m
+91.  The Element, 126m
+92.  The Club at Brickell Bay, 125m
+93.  Two Tequesta Point, 125m
+94.  Canvas, 124m
+95.  Carbonell Condominium, 124m
+96.  Courthouse Center, 123m
+97.  The Palace, 122m
+98.  DoubleTree by Hilton Grand Hotel Biscayne Bay, 118m
+99.  Monarc at Met 3, 116m
+100. Oakwood Yacht Club at Brickell, 116m
+101. NINE at Mary Brickell Village, 116m
+102. Museum Tower, 115m
+103. Skyline on Brickell, 115m
+104. SunTrust International Center, 114m
+105. Hyde Midtown, 113m
+106. Bristol Tower, 113m
+107. Brickell Bay Tower, 113m
+108. NeoVertika, 112m
+109. Bay Parc Plaza, 112m
+110. Hotel Inter-Continental Miami, 112m
+111. 1221 Brickell Building, 111m
+112. Avenue Southeast First Tower, 111m
+113. Bay House Miami Residences, 110m
+114. Art Plaza Tower 1, 110m
+115. Art Plaza Tower 2, 110m
+116. Miami-Dade County Courthouse, 110m
+117. New World Tower, 109m
+118. 4 Midtown, 107m
+119. Grovenor House, 104m
+120. Courts Brickell Key, 102m
+121. Plaza Venetia Hotel, 101m
+122. Miami Marriott Biscayne Bay, 101m
+123. One Brickell Square, 100m
+124. Brickell City Tower, 100m
+125. MyBrickell, 99m
+126. Tower at Two Midtown, 98m
+127. Flagler on the River, 98m
+128. Courthouse Tower, 98m
+129. One Tequesta Point, 96m
+130. Midtown Five, 94m
+131. Grove at Grand Bay North Tower, 94m
+132. Grove at Grand Bay South Tower, 94m
+133. The Imperial, 93m
+134. Overtown Transit Village South Tower, 92m
+135. Hilton Miami Downtown, 91m
+136. Park Grove Tower A, 90m
+137. Park Grove Tower B, 88m
+138. 22 Skyview, 87m
+139. 2 MiamiCentral, 83m
+140. Hyatt Regency Miami, 81m
+141. Park Grove Tower C, 78m
+142. Freedom Tower, 78m
+143. Overtown Transit Village North Tower, 77m
+144. One Bayfront Plaza, 76m
+145. United States Federal Courthouse, 75m
+
+******************** DETAILS ********************
+
+*** Miami ***
+Country: United States
+Region: North America
+145 towers: Panorama Tower, Aston Martin Residences, Four Seasons Hotel & Tower, Southeast Financial Center, Brickell Flatiron, Marquis, One Thousand Museum, Wells Fargo Tower, 900 Biscayne Bay, Elysee, Missoni Baia, Paramount Miami Worldcenter, Echo Brickell, Mint at Riverfront, Miami River, Infinity at Brickell, Miami Tower, Marina Blue, Plaza on Brickell Tower I, Epic Residences & Hotel, One Paraiso, SLS Brickell, SLS Lux Brickell, Icon Brickell North Tower, Icon Brickell South Tower, Solitair Brickell, Paramount at Edgewater Square, 50 Biscayne, Quantum on the Bay South Tower, Biscayne Beach, Brickell Heights North Tower, 1010 Brickell, GranParaiso, ParaisoBay, Opera Tower, Viceroy, Vizcayne, North Tower, Vizcayne, South Tower, Avant at Met Square, Quantum on the Bay North Tower, Aria on the Bay, Ten Museum Park, Brickell Heights South Tower, Jade at Brickell Bay, Plaza on Brickell Tower II, Santa Maria, Rise, EAST, Miami, The Ivy, Stephen P. Clark Center, BrickellHouse, Parkline South, Reach, Met 2 Marriott Marquis, Wind, 1450 BRICKELL, Paraiso Bayviews, Avenue Brickell Tower, One Biscayne Tower, The Bond at Brickell, Espirito Santo Plaza, Brickell World Plaza at 600 Brickell, Miami Center, Asia, Brickell on the River North Tower, Three Tequesta Point, Latitude on the River, Parkline North, 1100 Millicento Residences, Melody Tower, One Miami East Tower, X Miami, 701 Brickell Avenue, One Miami West Tower, Icon Bay, CAOBA, Met 1, 1111 Brickell Avenue, Loft 2, Centro Lofts Miami, 500 Brickell East Tower, 500 Brickell West Tower, Blue on the Bay, 1800 Club, VUE at Brickell, Brickell on the River South Tower, The Mark on Brickell, Axis on Brickell North Tower, Axis on Brickell South Tower, One Broadway on Brickell, The Element, The Club at Brickell Bay, Two Tequesta Point, Canvas, Carbonell Condominium, Courthouse Center, The Palace, DoubleTree by Hilton Grand Hotel Biscayne Bay, Monarc at Met 3, Oakwood Yacht Club at Brickell, NINE at Mary Brickell Village, Museum Tower, Skyline on Brickell, SunTrust International Center, Hyde Midtown, Bristol Tower, Brickell Bay Tower, NeoVertika, Bay Parc Plaza, Hotel Inter-Continental Miami, 1221 Brickell Building, Avenue Southeast First Tower, Bay House Miami Residences, Art Plaza Tower 1, Art Plaza Tower 2, Miami-Dade County Courthouse, New World Tower, 4 Midtown, Grovenor House, Courts Brickell Key, Plaza Venetia Hotel, Miami Marriott Biscayne Bay, One Brickell Square, Brickell City Tower, MyBrickell, Tower at Two Midtown, Flagler on the River, Courthouse Tower, One Tequesta Point, Midtown Five, Grove at Grand Bay North Tower, Grove at Grand Bay South Tower, The Imperial, Overtown Transit Village South Tower, Hilton Miami Downtown, Park Grove Tower A, Park Grove Tower B, 22 Skyview, 2 MiamiCentral, Hyatt Regency Miami, Park Grove Tower C, Freedom Tower, Overtown Transit Village North Tower, One Bayfront Plaza, United States Federal Courthouse
+Tiers: I: 27, II: 60, III: 51, IV: 7
+Rating: 393 (12.5% uncompleted)
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Panorama Tower ***
+Height: 251.92
+Floors: 81
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential / hotel / office
+Rank: 1
+
+*** Aston Martin Residences ***
+Height: 249
+Floors: 66
+Status: Under Construction
+Started: 2017
+Completed: 2021
+Functions: residential
+Rank: 2
+
+*** Four Seasons Hotel & Tower ***
+Height: 240.41
+Floors: 64
+Status: Completed
+Started: 2000
+Completed: 2003
+Functions: residential / hotel / office
+Rank: 3
+
+*** Southeast Financial Center ***
+Height: 232.8
+Floors: 55
+Status: Completed
+Started: 1982
+Completed: 1983
+Functions: office
+Rank: 4
+
+*** Brickell Flatiron ***
+Height: 224.33
+Floors: 64
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 5
+
+*** Marquis ***
+Height: 214
+Floors: 63
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / hotel
+Rank: 6
+
+*** One Thousand Museum ***
+Height: 213.06
+Floors: 61
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2019
+Functions: residential
+Rank: 7
+
+*** Wells Fargo Tower ***
+Height: 199.5
+Floors: 47
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 8
+
+*** 900 Biscayne Bay ***
+Height: 198
+Floors: 63
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 9
+
+*** Elysee ***
+Height: 197.8
+Floors: 57
+Status: Under Construction
+Started: 2017
+Completed: 2019
+Functions: residential
+Rank: 10
+
+*** Missoni Baia ***
+Height: 196.9
+Floors: 57
+Status: Under Construction
+Started: 2018
+Completed: 2021
+Functions: residential
+Rank: 11
+
+*** Paramount Miami Worldcenter ***
+Height: 195.38
+Floors: 60
+Status: Structurally Topped Out
+Started: 2016
+Completed: 2019
+Functions: residential
+Rank: 12
+
+*** Echo Brickell ***
+Height: 194.2
+Floors: 57
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential
+Rank: 13
+
+*** Mint at Riverfront ***
+Height: 192.28
+Floors: 55
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 14
+
+*** Miami River ***
+Height: 192.03
+Floors: 57
+Status: Under Construction
+Functions: residential
+Rank: 15
+
+*** Infinity at Brickell ***
+Height: 192
+Floors: 52
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential / office
+Rank: 16
+
+*** Miami Tower ***
+Height: 190.5
+Floors: 47
+Status: Completed
+Started: 1980
+Completed: 1987
+Functions: office
+Rank: 17
+
+*** Marina Blue ***
+Height: 187.45
+Floors: 57
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 18
+
+*** Plaza on Brickell Tower I ***
+Height: 185.93
+Floors: 56
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 19
+
+*** Epic Residences & Hotel ***
+Height: 183.2
+Floors: 54
+Status: Completed
+Started: 2005
+Completed: 2009
+Functions: residential / hotel
+Rank: 20
+
+*** One Paraiso ***
+Height: 183.2
+Floors: 53
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 21
+
+*** SLS Brickell ***
+Height: 182.58
+Floors: 52
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / hotel
+Rank: 22
+
+*** SLS Lux Brickell ***
+Height: 181.4
+Floors: 57
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 23
+
+*** Icon Brickell North Tower ***
+Height: 178.62
+Floors: 58
+Status: Completed
+Started: 2006
+Completed: 2008
+Functions: residential
+Rank: 24
+
+*** Icon Brickell South Tower ***
+Height: 178.62
+Floors: 58
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 24
+
+*** Solitair Brickell ***
+Height: 169.2
+Floors: 48
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 26
+
+*** Paramount at Edgewater Square ***
+Height: 169.14
+Floors: 47
+Status: Completed
+Started: 2006
+Completed: 2009
+Functions: residential
+Rank: 27
+
+*** 50 Biscayne ***
+Height: 168.86
+Floors: 55
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential / hotel
+Rank: 28
+
+*** Quantum on the Bay South Tower ***
+Height: 168.86
+Floors: 51
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential / office
+Rank: 29
+
+*** Biscayne Beach ***
+Height: 167.65
+Floors: 52
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 30
+
+*** Brickell Heights North Tower ***
+Height: 167.3
+Floors: 52
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 31
+
+*** 1010 Brickell ***
+Height: 167.03
+Floors: 50
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential / retail
+Rank: 32
+
+*** GranParaiso ***
+Height: 167
+Floors: 55
+Status: Completed
+Started: 2014
+Completed: 2018
+Functions: residential
+Rank: 33
+
+*** ParaisoBay ***
+Height: 167
+Floors: 55
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 33
+
+*** Opera Tower ***
+Height: 165.5
+Floors: 56
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 35
+
+*** Viceroy ***
+Height: 165.2
+Floors: 50
+Status: Completed
+Completed: 2009
+Functions: residential / hotel
+Rank: 36
+
+*** Vizcayne, North Tower ***
+Height: 164
+Floors: 49
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 37
+
+*** Vizcayne, South Tower ***
+Height: 164
+Floors: 49
+Status: Completed
+Completed: 2008
+Functions: residential
+Rank: 37
+
+*** Avant at Met Square ***
+Height: 164
+Floors: 46
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 39
+
+*** Quantum on the Bay North Tower ***
+Height: 163.38
+Floors: 44
+Status: Completed
+Completed: 2008
+Functions: residential / office
+Rank: 40
+
+*** Aria on the Bay ***
+Height: 163
+Floors: 53
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 41
+
+*** Ten Museum Park ***
+Height: 161.5
+Floors: 50
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 42
+
+*** Brickell Heights South Tower ***
+Height: 161.2
+Floors: 52
+Status: Completed
+Started: 2014
+Completed: 2017
+Functions: residential
+Rank: 43
+
+*** Jade at Brickell Bay ***
+Height: 160.94
+Floors: 49
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 44
+
+*** Plaza on Brickell Tower II ***
+Height: 160
+Floors: 48
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 45
+
+*** Santa Maria ***
+Height: 158.5
+Floors: 51
+Status: Completed
+Completed: 1997
+Functions: residential
+Rank: 46
+
+*** Rise ***
+Height: 158.5
+Floors: 45
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 47
+
+*** EAST, Miami ***
+Height: 157.28
+Floors: 41
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: serviced apartments / hotel
+Rank: 48
+
+*** The Ivy ***
+Height: 156.16
+Floors: 45
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 49
+
+*** Stephen P. Clark Center ***
+Height: 155.4
+Floors: 28
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 50
+
+*** BrickellHouse ***
+Height: 155.04
+Floors: 48
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 51
+
+*** Parkline South ***
+Height: 154.18
+Floors: 33
+Status: Under Construction
+Started: 2017
+Functions: residential
+Rank: 52
+
+*** Reach ***
+Height: 153.3
+Floors: 44
+Status: Completed
+Started: 2012
+Completed: 2016
+Functions: residential
+Rank: 53
+
+*** Met 2 Marriott Marquis ***
+Height: 153.07
+Floors: 41
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: hotel
+Rank: 54
+
+*** Wind ***
+Height: 152.71
+Floors: 41
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 55
+
+*** 1450 BRICKELL ***
+Height: 152.53
+Floors: 34
+Status: Completed
+Started: 2007
+Completed: 2010
+Functions: office
+Rank: 56
+
+*** Paraiso Bayviews ***
+Height: 152.4
+Floors: 44
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 57
+
+*** Avenue Brickell Tower ***
+Height: 150.88
+Floors: 47
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 58
+
+*** One Biscayne Tower ***
+Height: 149.96
+Floors: 39
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 59
+
+*** The Bond at Brickell ***
+Height: 149.7
+Floors: 44
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 60
+
+*** Espirito Santo Plaza ***
+Height: 148.4
+Floors: 36
+Status: Completed
+Started: 2000
+Completed: 2004
+Functions: residential / hotel / office
+Rank: 61
+
+*** Brickell World Plaza at 600 Brickell ***
+Height: 147.53
+Floors: 40
+Status: Completed
+Started: 2007
+Completed: 2011
+Functions: office
+Rank: 62
+
+*** Miami Center ***
+Height: 147.52
+Floors: 34
+Status: Completed
+Started: 1981
+Completed: 1983
+Functions: office
+Rank: 63
+
+*** Asia ***
+Height: 147.22
+Floors: 36
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 64
+
+*** Brickell on the River North Tower ***
+Height: 146.92
+Floors: 42
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 65
+
+*** Three Tequesta Point ***
+Height: 146.3
+Floors: 46
+Status: Completed
+Started: 1999
+Completed: 2001
+Functions: residential
+Rank: 66
+
+*** Latitude on the River ***
+Height: 145.19
+Floors: 44
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 67
+
+*** Parkline North ***
+Height: 145.19
+Floors: 30
+Status: Structurally Topped Out
+Started: 2017
+Functions: residential
+Rank: 68
+
+*** 1100 Millicento Residences ***
+Height: 143.3
+Floors: 42
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 69
+
+*** Melody Tower ***
+Height: 142.3
+Floors: 36
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential / retail
+Rank: 70
+
+*** One Miami East Tower ***
+Height: 140.21
+Floors: 44
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 71
+
+*** X Miami ***
+Height: 140.2
+Floors: 36
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 72
+
+*** 701 Brickell Avenue ***
+Height: 137.1
+Floors: 33
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 73
+
+*** One Miami West Tower ***
+Height: 136.86
+Floors: 45
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 74
+
+*** Icon Bay ***
+Height: 136.45
+Floors: 42
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 75
+
+*** CAOBA ***
+Height: 134.7
+Floors: 43
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: residential
+Rank: 76
+
+*** Met 1 ***
+Height: 134.11
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 77
+
+*** 1111 Brickell Avenue ***
+Height: 132.58
+Floors: 31
+Status: Completed
+Completed: 2001
+Functions: office
+Rank: 78
+
+*** Loft 2 ***
+Height: 131.98
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 79
+
+*** Centro Lofts Miami ***
+Height: 130.46
+Floors: 37
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential / retail
+Rank: 80
+
+*** 500 Brickell East Tower ***
+Height: 129.85
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 81
+
+*** 500 Brickell West Tower ***
+Height: 129.85
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 81
+
+*** Blue on the Bay ***
+Height: 129.54
+Floors: 36
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 83
+
+*** 1800 Club ***
+Height: 129.05
+Floors: 40
+Status: Completed
+Started: 2004
+Completed: 2007
+Functions: residential
+Rank: 84
+
+*** VUE at Brickell ***
+Height: 129
+Floors: 36
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential / office / retail
+Rank: 85
+
+*** Brickell on the River South Tower ***
+Height: 128.93
+Floors: 42
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 86
+
+*** The Mark on Brickell ***
+Height: 128
+Floors: 36
+Status: Completed
+Completed: 2001
+Functions: residential
+Rank: 87
+
+*** Axis on Brickell North Tower ***
+Height: 127.4
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 88
+
+*** Axis on Brickell South Tower ***
+Height: 127.4
+Floors: 40
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 88
+
+*** One Broadway on Brickell ***
+Height: 126
+Floors: 36
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential / retail
+Rank: 90
+
+*** The Element ***
+Height: 125.5
+Floors: 36
+Status: Architecturally Topped Out
+Started: 2014
+Functions: residential
+Rank: 91
+
+*** The Club at Brickell Bay ***
+Height: 125.3
+Floors: 42
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 92
+
+*** Two Tequesta Point ***
+Height: 125
+Floors: 40
+Status: Completed
+Completed: 1999
+Functions: residential
+Rank: 93
+
+*** Canvas ***
+Height: 124.1
+Floors: 37
+Status: Architecturally Topped Out
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 94
+
+*** Carbonell Condominium ***
+Height: 124
+Floors: 39
+Status: Completed
+Started: 2003
+Completed: 2005
+Functions: residential
+Rank: 95
+
+*** Courthouse Center ***
+Height: 123.4
+Floors: 30
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 96
+
+*** The Palace ***
+Height: 121.9
+Floors: 42
+Status: Completed
+Started: 1979
+Completed: 1982
+Functions: residential
+Rank: 97
+
+*** DoubleTree by Hilton Grand Hotel Biscayne Bay ***
+Height: 118.25
+Floors: 42
+Status: Completed
+Completed: 1978
+Functions: residential / hotel
+Rank: 98
+
+*** Monarc at Met 3 ***
+Height: 116.13
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 99
+
+*** Oakwood Yacht Club at Brickell ***
+Height: 115.8
+Floors: 36
+Status: Completed
+Completed: 1998
+Functions: residential
+Rank: 100
+
+*** NINE at Mary Brickell Village ***
+Height: 115.5
+Floors: 34
+Status: Completed
+Started: 2004
+Completed: 2015
+Functions: residential
+Rank: 101
+
+*** Museum Tower ***
+Height: 114.9
+Floors: 30
+Status: Completed
+Started: 1983
+Completed: 1986
+Functions: office
+Rank: 102
+
+*** Skyline on Brickell ***
+Height: 114.66
+Floors: 34
+Status: Completed
+Started: 2002
+Completed: 2004
+Functions: residential
+Rank: 103
+
+*** SunTrust International Center ***
+Height: 114.3
+Floors: 31
+Status: Completed
+Completed: 1973
+Functions: office
+Rank: 104
+
+*** Hyde Midtown ***
+Height: 113.4
+Floors: 31
+Status: Completed
+Started: 2015
+Completed: 2017
+Functions: residential / hotel
+Rank: 105
+
+*** Bristol Tower ***
+Height: 113
+Floors: 41
+Status: Completed
+Completed: 1993
+Functions: residential
+Rank: 106
+
+*** Brickell Bay Tower ***
+Height: 113
+Floors: 30
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 107
+
+*** NeoVertika ***
+Height: 112.5
+Floors: 35
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 108
+
+*** Bay Parc Plaza ***
+Height: 112.2
+Floors: 39
+Status: Completed
+Completed: 2000
+Functions: residential
+Rank: 109
+
+*** Hotel Inter-Continental Miami ***
+Height: 111.56
+Floors: 34
+Status: Completed
+Started: 1980
+Completed: 1982
+Functions: hotel
+Rank: 110
+
+*** 1221 Brickell Building ***
+Height: 111.3
+Floors: 27
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 111
+
+*** Avenue Southeast First Tower ***
+Height: 111.2
+Floors: 35
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 112
+
+*** Bay House Miami Residences ***
+Height: 110
+Floors: 38
+Status: Completed
+Started: 2013
+Completed: 2015
+Functions: residential
+Rank: 113
+
+*** Art Plaza Tower 1 ***
+Height: 109.73
+Floors: 34
+Status: Architecturally Topped Out
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 114
+
+*** Art Plaza Tower 2 ***
+Height: 109.73
+Floors: 34
+Status: Architecturally Topped Out
+Started: 2018
+Completed: 2019
+Functions: residential
+Rank: 114
+
+*** Miami-Dade County Courthouse ***
+Height: 109.7
+Floors: 28
+Status: Completed
+Started: 1925
+Completed: 1928
+Functions: government
+Rank: 116
+
+*** New World Tower ***
+Height: 108.8
+Floors: 30
+Status: Completed
+Completed: 1965
+Functions: office
+Rank: 117
+
+*** 4 Midtown ***
+Height: 106.7
+Floors: 33
+Status: Completed
+Started: 2005
+Completed: 2008
+Functions: residential
+Rank: 118
+
+*** Grovenor House ***
+Height: 103.9
+Floors: 33
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: residential
+Rank: 119
+
+*** Courts Brickell Key ***
+Height: 102.4
+Floors: 34
+Status: Completed
+Completed: 2002
+Functions: residential
+Rank: 120
+
+*** Plaza Venetia Hotel ***
+Height: 101.2
+Floors: 33
+Status: Completed
+Completed: 1979
+Functions: residential / hotel
+Rank: 121
+
+*** Miami Marriott Biscayne Bay ***
+Height: 101.2
+Floors: 31
+Status: Completed
+Completed: 1979
+Functions: hotel
+Rank: 122
+
+*** One Brickell Square ***
+Height: 100
+Floors: 26
+Status: Completed
+Completed: 1985
+Functions: office
+Rank: 123
+
+*** Brickell City Tower ***
+Height: 99.9
+Floors: 33
+Status: Completed
+Completed: 1986
+Functions: office
+Rank: 124
+
+*** MyBrickell ***
+Height: 99.4
+Floors: 25
+Status: Completed
+Started: 2012
+Completed: 2014
+Functions: residential
+Rank: 125
+
+*** Tower at Two Midtown ***
+Height: 98.15
+Floors: 30
+Status: Completed
+Started: 2005
+Completed: 2007
+Functions: residential
+Rank: 126
+
+*** Flagler on the River ***
+Height: 97.84
+Floors: 32
+Status: Completed
+Started: 2013
+Completed: 2014
+Functions: residential / retail
+Rank: 127
+
+*** Courthouse Tower ***
+Height: 97.84
+Floors: 25
+Status: Completed
+Completed: 1974
+Functions: office
+Rank: 128
+
+*** One Tequesta Point ***
+Height: 96
+Floors: 30
+Status: Completed
+Completed: 1995
+Functions: residential
+Rank: 129
+
+*** Midtown Five ***
+Height: 94.2
+Floors: 24
+Status: Completed
+Started: 2014
+Completed: 2016
+Functions: residential
+Rank: 130
+
+*** Grove at Grand Bay North Tower ***
+Height: 93.83
+Floors: 21
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 131
+
+*** Grove at Grand Bay South Tower ***
+Height: 93.83
+Floors: 21
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 131
+
+*** The Imperial ***
+Height: 93.3
+Floors: 31
+Status: Completed
+Started: 1979
+Completed: 1983
+Functions: residential
+Rank: 133
+
+*** Overtown Transit Village South Tower ***
+Height: 92.35
+Floors: 22
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 134
+
+*** Hilton Miami Downtown ***
+Height: 91.14
+Status: Completed
+Completed: 1977
+Functions: hotel
+Rank: 135
+
+*** Park Grove Tower A ***
+Height: 89.6
+Floors: 20
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 136
+
+*** Park Grove Tower B ***
+Height: 87.5
+Floors: 20
+Status: Under Construction
+Started: 2018
+Completed: 2020
+Functions: residential
+Rank: 137
+
+*** 22 Skyview ***
+Height: 87.2
+Floors: 31
+Status: Completed
+Started: 2012
+Completed: 2013
+Functions: residential
+Rank: 138
+
+*** 2 MiamiCentral ***
+Height: 83.12
+Floors: 16
+Status: Completed
+Started: 2016
+Completed: 2018
+Functions: office
+Rank: 139
+
+*** Hyatt Regency Miami ***
+Height: 81.38
+Floors: 23
+Status: Completed
+Completed: 1982
+Functions: hotel
+Rank: 140
+
+*** Park Grove Tower C ***
+Height: 78
+Floors: 20
+Status: Completed
+Started: 2015
+Completed: 2018
+Functions: residential
+Rank: 141
+
+*** Freedom Tower ***
+Height: 78
+Floors: 17
+Status: Completed
+Completed: 1925
+Functions: office
+Rank: 142
+
+*** Overtown Transit Village North Tower ***
+Height: 76.81
+Floors: 17
+Status: Completed
+Completed: 2009
+Functions: office
+Rank: 143
+
+*** One Bayfront Plaza ***
+Height: 76.2
+Floors: 18
+Status: Completed
+Functions: office
+Rank: 144
+
+*** United States Federal Courthouse ***
+Height: 75
+Floors: 14
+Status: Completed
+Started: 2002
+Completed: 2005
+Functions: government
+Rank: 145

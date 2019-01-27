@@ -1,0 +1,89 @@
+*** Tyumen (8) ***
+1. Petr Stolypin, 88m
+2. Stolichnyi 1, 83m
+3. Stolichnyi 2, 83m
+4. Stolichnyi 3, 83m
+5. Severnaya Zhemchuzhina, 80m
+6. Parusa, 79m
+7. Yamskaya-Bolotnikova, 79m
+8. Samarskaya-Orlovskaya-Kurganskaya, 76m
+
+******************** DETAILS ********************
+
+*** Tyumen ***
+Country: Russia
+Region: Asia
+8 towers: Petr Stolypin, Stolichnyi 1, Stolichnyi 2, Stolichnyi 3, Severnaya Zhemchuzhina, Parusa, Yamskaya-Bolotnikova, Samarskaya-Orlovskaya-Kurganskaya
+Tiers: I: 8
+Rating: 8
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Petr Stolypin ***
+Height: 88
+Floors: 20
+Status: Completed
+Completed: 2014
+Functions: office
+Rank: 1
+
+*** Stolichnyi 1 ***
+Height: 83
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 2
+
+*** Stolichnyi 2 ***
+Height: 83
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 2
+
+*** Stolichnyi 3 ***
+Height: 83
+Floors: 24
+Status: Completed
+Started: 2012
+Completed: 2015
+Functions: residential
+Rank: 2
+
+*** Severnaya Zhemchuzhina ***
+Height: 80
+Floors: 24
+Status: Completed
+Completed: 2010
+Functions: residential / retail
+Rank: 5
+
+*** Parusa ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2008
+Completed: 2015
+Functions: residential
+Rank: 6
+
+*** Yamskaya-Bolotnikova ***
+Height: 79
+Floors: 25
+Status: Completed
+Started: 2014
+Completed: 2015
+Functions: residential
+Rank: 6
+
+*** Samarskaya-Orlovskaya-Kurganskaya ***
+Height: 76
+Floors: 24
+Status: Completed
+Started: 2013
+Completed: 2016
+Functions: residential
+Rank: 8

@@ -1,0 +1,21 @@
+*** Zwolle (1) ***
+1. IJsseltoren, 96m
+
+******************** DETAILS ********************
+
+*** Zwolle ***
+Country: Netherlands
+Region: Europe
+1 tower: IJsseltoren
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** IJsseltoren ***
+Height: 95.5
+Floors: 19
+Status: Completed
+Started: 2004
+Completed: 2006
+Functions: office
+Rank: 1

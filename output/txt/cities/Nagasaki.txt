@@ -1,0 +1,20 @@
+*** Nagasaki (1) ***
+1. Skyscraper Tower, 98m
+
+******************** DETAILS ********************
+
+*** Nagasaki ***
+Country: Japan
+Region: Asia
+1 tower: Skyscraper Tower
+Tiers: I: 1
+Rating: 1
+Scraped on: 2019-Jan-20 16:05:17
+
+*** Skyscraper Tower ***
+Height: 98
+Floors: 28
+Status: Completed
+Completed: 2003
+Functions: residential
+Rank: 1
