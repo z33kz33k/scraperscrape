@@ -17,9 +17,10 @@ import codecs
 import csv
 from pprint import pprint
 
-from tscscrape.constants import URL, CITIES_PATH, RATINGS_MATRIX, STATUSMAP, REGIONMAP
-from tscscrape.errors import PageWrongFormatError
-from tscscrape.utils import timestamp, readinput
+from tscscrape.constants import URL, CITIES_PATH, RATINGS_MATRIX, STATUSMAP, REGIONMAP, Tier
+from tscscrape.errors import (PageWrongFormatError, InvalidCityError,
+                              InvalidCountryError, InvalidRegionError)
+from tscscrape.utils import timestamp, readinput, asteriskify
 from tscscrape.countries import COUNTRYMAP
 
 
@@ -174,9 +175,32 @@ class Tower:
         self.longitude = self._parse_attribute("longitude")
 
     def __str__(self):
+        return "{}, {:.0f}m".format(self.name, self.height)
+
+    def _parse_attribute(self, key):
+        """Parse attribute
+
+        Arguments:
+            key {str} -- key for scraped data dict
+
+        Returns:
+            str / int / float / None -- parsed attribute or 'None'
+        """
+        try:
+            attribute = self.data[key] if self.data[key] not in ("-", "") else None
+        except KeyError:
+            attribute = None
+        return attribute
+
+    def getdescription(self):
+        """Get description listing main properties of this tower
+
+        Returns:
+            str -- a description
+        """
         result = ""
         if self.name:
-            result += f"*** {self.name} ***\n"
+            result += "{}\n".format(asteriskify(self.name))
         if self.height:
             result += f"Height: {self.height}\n"
         if self.floors:
@@ -194,20 +218,84 @@ class Tower:
 
         return result[:-1] if result[-1] == "\n" else result
 
-    def _parse_attribute(self, key):
-        """Parse attribute
+
+def get_tiers(towers):
+    """Group towers into tiers based on their height and count them
+
+    Arguments:
+        towers {list} -- a list of Tower objects
+
+    Raises:
+        ValueError -- when height out of expected range is encountered
+
+    Returns:
+        collections.Counter -- {tier: number of towers}
+
+    Tower heights are grouped into tiers using the following formula:
+
+        >>> base = 75.0
+        >>> for i in range(6):
+        ...     print("{}: {:.0f}".format(i+1, base))
+        ...     base *= 1.412
+        ...
+        1: 75
+        2: 106
+        3: 150
+        4: 211
+        5: 298
+        6: 421
+        >>>
+    """
+
+    def get_tier(tower):
+        """Get tier designation
 
         Arguments:
-            key {str} -- key for scraped data dict
+            tower {tscscrape.scraper.Tower} -- a tower
+
+        Raises:
+            ValueError -- when unexpected height value is encountered
 
         Returns:
-            str / int / float / None -- parsed attribute or 'None'
+            str -- a tier designation
         """
-        try:
-            attribute = self.data[key] if self.data[key] not in ("-", "") else None
-        except KeyError:
-            attribute = None
-        return attribute
+        heightmap = {k: v[0] for k, v in RATINGS_MATRIX.items()}
+        if tower.height >= heightmap[Tier.I] and tower.height < heightmap[Tier.II]:
+            return Tier.I
+        elif tower.height >= heightmap[Tier.II] and tower.height < heightmap[Tier.III]:
+            return Tier.II
+        elif tower.height >= heightmap[Tier.III] and tower.height < heightmap[Tier.IV]:
+            return Tier.III
+        elif tower.height >= heightmap[Tier.IV] and tower.height < heightmap[Tier.V]:
+            return Tier.IV
+        elif tower.height >= heightmap[Tier.V] and tower.height < heightmap[Tier.VI]:
+            return Tier.V
+        elif tower.height >= heightmap[Tier.VI]:
+            return Tier.VI
+        else:
+            raise ValueError("Unexpected height value (lesser than: {}) in parsed data".format(
+                int(heightmap[Tier.I])))
+
+    tiers = Counter()
+    for tower in towers:
+        tier = get_tier(tower)
+        tiers[tier] += 1
+    return tiers
+
+
+def calculate_rating(towers):
+    """Calculate city rating according to height tiers of selected towers.
+
+    Arguments:
+        towers {list} -- a list of Tower objects
+
+    Returns:
+        int -- calculated rating
+
+    Tiers' point scoring progression inspired by F1 Scoring System(https://en.wikipedia.org/wiki/List_of_Formula_One_World_Championship_points_scoring_systems)
+    """
+    scoremap = {k: v[1] for k, v in RATINGS_MATRIX.items()}
+    return sum(count * scoremap[tier] for tier, count in get_tiers(towers).items())
 
 
 class City:
@@ -228,26 +316,12 @@ class City:
         self.arch_toppedout = [tower for tower in self.towers if tower.status == "UCT"]
         self.struct_toppedout = [tower for tower in self.towers if tower.status == "STO"]
         self.under_construction = [tower for tower in self.towers if tower.status == "UC"]
-        self.rating = self.calculate_rating(self.towers)
+        self.rating = calculate_rating(self.towers)
         self.uncompleted = self.getuncompleted()  # percentage (float)
         self.parentcity_name = SUBCITYMAP.get(self.name)  # 'None' if there's no parent city
 
     def __str__(self):
-        tiersmap = {k: v for k, v in zip(sorted(RATINGS_MATRIX.keys()),
-                                         ["I", "II", "III", "IV", "V", "VI"])}
-        result = f"*** {self.name} ***\n"
-        result += f"Country: {self.country}\n"
-        result += f"Region: {self.region}\n"
-        result += "{} towers: {}\n".format(len(self.towers),
-                                           ", ".join([tower.name for tower in self.towers]))
-        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tiersmap[k], v)
-                                                  for k, v in sorted(self.get_tiers(self.towers).items(), key=lambda args: args[0])]))
-        result += "Rating: {}{}\n".format(
-            self.rating,
-            f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
-        )
-        result += f"Scraped on: {self.timestamp}"
-        return result
+        return "{} ({})".format(self.name, self.rating)
 
     def _getcountry(self):
         """Get city's country
@@ -274,83 +348,27 @@ class City:
 
         return REGIONMAP[region_code]
 
-    def get_tiers(self, towers):
-        """Group towers into tiers based on their height
-
-        Arguments:
-            towers {list} -- a list of Tower objects
-
-        Raises:
-            ValueError -- raised when height out of expected range is encountered
+    def getdescription(self):
+        """Get description listing main properties of this city
 
         Returns:
-            collections.Counter -- {tier: number of towers}
-
-        Tower heights are grouped into tiers using the following formula:
-
-            >>> base = 75.0
-            >>> for i in range(6):
-            ...     print("{}: {:.0f}".format(i+1, base))
-            ...     base *= 1.412
-            ...
-            1: 75
-            2: 106
-            3: 150
-            4: 211
-            5: 298
-            6: 421
-            >>>
+            str -- a description
         """
-
-        def get_tier(tower):
-            """Get tier designation
-
-            Arguments:
-                tower {tscscrape.scraper.Tower} -- a tower
-
-            Raises:
-                ValueError -- when unexpected height value is encountered
-
-            Returns:
-                str -- a tier designation
-            """
-            heights = {k: v[0] for k, v in RATINGS_MATRIX.items()}
-            if tower.height >= heights["tier_1"] and tower.height < heights["tier_2"]:
-                return "tier_1"
-            elif tower.height >= heights["tier_2"] and tower.height < heights["tier_3"]:
-                return "tier_2"
-            elif tower.height >= heights["tier_3"] and tower.height < heights["tier_4"]:
-                return "tier_3"
-            elif tower.height >= heights["tier_4"] and tower.height < heights["tier_5"]:
-                return "tier_4"
-            elif tower.height >= heights["tier_5"] and tower.height < heights["tier_6"]:
-                return "tier_5"
-            elif tower.height >= heights["tier_6"]:
-                return "tier_6"
-            else:
-                raise ValueError("Unexpected height value (lesser than: {}) in parsed data".format(
-                    int(heights["tier_1"])))
-
-        tiers = Counter()
-        for tower in towers:
-            tier = get_tier(tower)
-            tiers[tier] += 1
-
-        return tiers
-
-    def calculate_rating(self, towers):
-        """Calculate city rating according to height tiers of selected towers.
-
-        Arguments:
-            towers {list} -- a list of Tower objects
-
-        Returns:
-            int -- calculated rating
-
-        Tiers' point scoring progression inspired by F1 Scoring System(https://en.wikipedia.org/wiki/List_of_Formula_One_World_Championship_points_scoring_systems)
-        """
-        scores = {k: v[1] for k, v in RATINGS_MATRIX.items()}
-        return sum(v * scores[k] for k, v in self.get_tiers(towers).items())
+        result = f"*** {self.name} ***\n"
+        result += f"Country: {self.country}\n"
+        result += f"Region: {self.region}\n"
+        result += "{} towers: {}\n".format(len(self.towers),
+                                           ", ".join([tower.name for tower in self.towers]))
+        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
+                                                  for tier, count
+                                                  in sorted(get_tiers(self.towers).items(),
+                                                            key=lambda item: item[0].value)]))
+        result += "Rating: {}{}\n".format(
+            self.rating,
+            f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
+        )
+        result += f"Scraped on: {self.timestamp}"
+        return result
 
     def getuncompleted(self):
         """Get percentage of total rating for uncompleted towers in this city
@@ -358,22 +376,25 @@ class City:
         Returns:
             float -- percentage of rating for uncompleted towers
         """
-        ucrating = self.calculate_rating([*self.arch_toppedout, *self.struct_toppedout,
-                                          *self.under_construction])
-        return ucrating * 100 / self.rating
+        uc_rating = calculate_rating([*self.arch_toppedout, *self.struct_toppedout,
+                                      *self.under_construction])
+        return uc_rating * 100 / self.rating
 
 
-def getcities(merge_subcities=True, region_filter=None, country_filter=None, city_filter=None):
+def getcities(merge_subcities=True, region_filter=None, country_filter=None):
     """Get cities from scraped data
 
     Keyword Arguments:
         merge_subcities {bool} -- flag to merge or not subsidiary cities into their parent (default: {True})
         region_filter {str} -- a name of a region to narrow the output to (default: {None})
         country_filter {str} -- a name of a country to narrow the output to (default: {None})
-        city_filter {str} -- a name of a city to narrow the output to (default: {None})
+
+    Raises:
+        InvalidRegionError -- when invalid region filter is provided
+        InvalidCountryError -- when invalid country filter is provided
 
     Returns:
-        list / tscscrape.scraper.City -- a list of City objects or a single one if narrowed to
+        list -- a list of City objects
     """
 
     # TODO: adjust region of cities that are located in countries spanning more than one region (cases like Vladivostok being considered as an European city)
@@ -397,16 +418,36 @@ def getcities(merge_subcities=True, region_filter=None, country_filter=None, cit
 
     if region_filter:
         cities = [city for city in cities if city.region == region_filter]
+        if not cities:
+            raise InvalidRegionError(f"Invalid region filter provided: {region_filter}")
     if country_filter:
         cities = [city for city in cities if city.country == country_filter]
-    if city_filter:
-        try:
-            city = next(city for city in cities if city.name == city_filter)
-        except StopIteration:
-            return None
-        return city
+        if not cities:
+            raise InvalidCountryError(f"Invalid country filter provided: {country_filter}")
 
-    return cities
+    return sorted(cities, key=lambda c: (c.rating, c.name), reverse=True)
+
+
+def getcity(city):
+    """Get city from scraped data
+
+    Arguments:
+        city {str} -- a name of the city
+
+    Raises:
+        InvalidCountryError -- when invalid country name is provided
+
+    Returns:
+        tscscrape.scraper.City -- a city
+    """
+    path = os.path.join(CITIES_PATH, "{}{}".format(city.replace(" ", "_"), ".json"))
+    try:
+        with open(path) as f:
+            data = json.load(f)
+    except IOError:
+        raise InvalidCityError(f"Invalid city name provided: {city}")
+
+    return City(data)
 
 
 def mergecities(parentcity, *subcities):
@@ -426,7 +467,99 @@ def mergecities(parentcity, *subcities):
     parentcity.arch_toppedout = [tower for tower in parentcity.towers if tower.status == "UCT"]
     parentcity.struct_toppedout = [tower for tower in parentcity.towers if tower.status == "STO"]
     parentcity.under_construction = [tower for tower in parentcity.towers if tower.status == "UC"]
-    parentcity.rating = parentcity.calculate_rating(parentcity.towers)
+    parentcity.rating = calculate_rating(parentcity.towers)
     parentcity.uncompleted = parentcity.getuncompleted()  # percentage (float)
 
     return parentcity
+
+
+class Country:
+    """A country with skyscraper cities"""
+
+    def __init__(self, name, cities):
+        """
+        Arguments:
+            name {str} -- a name for this country
+            cities {list} -- a list of City objects
+        """
+        self.name = name
+        self.cities = cities
+        self.region = cities[0].region
+        self.towers = [tower for city in self.cities for tower in city.towers]
+        self.completed = [tower for city in self.cities for tower in city.completed]
+        self.arch_toppedout = [tower for city in self.cities for tower in city.arch_toppedout]
+        self.struct_toppedout = [tower for city in self.cities for tower in city.struct_toppedout]
+        self.under_construction = [tower for city in self.cities for tower
+                                   in city.under_construction]
+        self.rating = sum(city.rating for city in self.cities)
+        self.uncompleted = self.getuncompleted()  # percentage (float)
+
+    def __str__(self):
+        return "{} ({})".format(self.name, self.rating)
+
+    def getdescription(self):
+        """Get description listing main properties of this country
+
+        Returns:
+            str -- a description
+        """
+        result = "{}\n".format(asteriskify(self.name))
+        result += f"Region: {self.region}\n"
+        result += "{} cities: {}\n".format(len(self.cities),
+                                           ", ".join([city.name for city in self.cities]))
+        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
+                                                  for tier, count
+                                                  in sorted(get_tiers(self.towers).items(),
+                                                            key=lambda item: item[0].value)]))
+        result += "Rating: {}{}".format(
+            self.rating,
+            f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
+        )
+        return result
+
+    def getuncompleted(self):
+        """Get percentage of total rating for uncompleted towers in this city
+
+        Returns:
+            float -- percentage of rating for uncompleted towers
+        """
+        uc_rating = calculate_rating([*self.arch_toppedout, *self.struct_toppedout,
+                                      *self.under_construction])
+        return uc_rating * 100 / self.rating
+
+
+# TODO
+class Region(Country):
+    """A region with skyscraper cities"""
+
+    def __init__(self, name, cities):
+        """
+        Arguments:
+            name {str} -- a name for this region
+            cities {list} -- a list of City objects
+        """
+        super().__init__(name, cities)
+        del self.region
+
+    def __str__(self):
+        return "{} ({})".format(self.name, self.rating)
+
+    def getdescription(self):
+        """Get description listing main properties of this country
+
+        Returns:
+            str -- a description
+        """
+        result = "{}\n".format(asteriskify(self.name))
+        result += f"Region: {self.region}\n"
+        result += "{} cities: {}\n".format(len(self.cities),
+                                           ", ".join([city.name for city in self.cities]))
+        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
+                                                  for tier, count
+                                                  in sorted(get_tiers(self.towers).items(),
+                                                            key=lambda item: item[0].value)]))
+        result += "Rating: {}{}".format(
+            self.rating,
+            f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
+        )
+        return result

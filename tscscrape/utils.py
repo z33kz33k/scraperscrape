@@ -42,3 +42,32 @@ def readinput(filename):
     with open(path) as file:
         contents = "\n".join(file.readlines())
     return contents
+
+
+def asteriskify(text, count=3):
+    """Decorate text with asterisks
+
+    Arguments:
+        text {str} -- a text to be decorated
+        count {int} -- number of asterisks (default: {3})
+
+    Returns:
+        str -- a decorated text
+    """
+    decor = "*" * count
+    return "{} {} {}".format(decor, text, decor)
+
+
+def rightjustify(linetext, linecount, max_countwidth):
+    """Justify ordered line to the right
+
+    Arguments:
+        linetext {str} -- a text to justify
+        linecount {int} -- a line count (1-based)
+        max_countwidth {int} -- a maximum count width
+
+    Returns:
+        str -- a justified line
+    """
+    fill_length = max_countwidth - len(str(linecount)) + 1
+    return "{}.{}{}".format(linecount, " " * fill_length,  linetext)
