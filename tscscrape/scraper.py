@@ -198,25 +198,25 @@ class Tower:
         Returns:
             str -- a description
         """
-        result = ""
+        desc = ""
         if self.name:
-            result += "{}\n".format(asteriskify(self.name))
+            desc += "{}\n".format(asteriskify(self.name))
         if self.height:
-            result += f"Height: {self.height}\n"
+            desc += f"Height: {self.height}\n"
         if self.floors:
-            result += f"Floors: {self.floors}\n"
+            desc += f"Floors: {self.floors}\n"
         if self.status:
-            result += f"Status: {STATUSMAP[self.status]}\n"
+            desc += f"Status: {STATUSMAP[self.status]}\n"
         if self.start:
-            result += f"Started: {self.start}\n"
+            desc += f"Started: {self.start}\n"
         if self.completed:
-            result += f"Completed: {self.completed}\n"
+            desc += f"Completed: {self.completed}\n"
         if self.functions:
-            result += f"Functions: {self.functions}\n"
+            desc += f"Functions: {self.functions}\n"
         if self.rank:
-            result += f"Rank: {self.rank}\n"
+            desc += f"Rank: {self.rank}\n"
 
-        return result[:-1] if result[-1] == "\n" else result
+        return desc[:-1] if desc[-1] == "\n" else desc
 
 
 def get_tiers(towers):
@@ -340,6 +340,8 @@ class City:
         Returns:
             str -- region/continent
         """
+        # TODO: adjust region of cities that are located in countries spanning more than one
+        # region (cases like Vladivostok being considered as an European city)
         try:
             region_code, _ = next((region_code, country) for region_code, countries in
                                   COUNTRYMAP.items() for country in countries if country.casefold() == self.country.casefold())
@@ -354,21 +356,24 @@ class City:
         Returns:
             str -- a description
         """
-        result = f"*** {self.name} ***\n"
-        result += f"Country: {self.country}\n"
-        result += f"Region: {self.region}\n"
-        result += "{} towers: {}\n".format(len(self.towers),
-                                           ", ".join([tower.name for tower in self.towers]))
-        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
-                                                  for tier, count
-                                                  in sorted(get_tiers(self.towers).items(),
-                                                            key=lambda item: item[0].value)]))
-        result += "Rating: {}{}\n".format(
+        desc = f"*** {self.name} ***\n"
+        desc += f"Country: {self.country}\n"
+        desc += f"Region: {self.region}\n"
+        desc += "{} {}: {}\n".format(
+            len(self.towers),
+            "tower" if len(self.towers) == 1 else "towers",
+            ", ".join([tower.name for tower in self.towers])
+        )
+        desc += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
+                                                for tier, count
+                                                in sorted(get_tiers(self.towers).items(),
+                                                          key=lambda item: item[0].value)]))
+        desc += "Rating: {}{}\n".format(
             self.rating,
             f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
         )
-        result += f"Scraped on: {self.timestamp}"
-        return result
+        desc += f"Scraped on: {self.timestamp}"
+        return desc
 
     def getuncompleted(self):
         """Get percentage of total rating for uncompleted towers in this city
@@ -396,9 +401,6 @@ def getcities(merge_subcities=True, region_filter=None, country_filter=None):
     Returns:
         list -- a list of City objects
     """
-
-    # TODO: adjust region of cities that are located in countries spanning more than one region (cases like Vladivostok being considered as an European city)
-
     cities = []
     for root, _, files in os.walk(CITIES_PATH):
         for file in files:
@@ -503,19 +505,22 @@ class Country:
         Returns:
             str -- a description
         """
-        result = "{}\n".format(asteriskify(self.name))
-        result += f"Region: {self.region}\n"
-        result += "{} cities: {}\n".format(len(self.cities),
-                                           ", ".join([city.name for city in self.cities]))
-        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
-                                                  for tier, count
-                                                  in sorted(get_tiers(self.towers).items(),
-                                                            key=lambda item: item[0].value)]))
-        result += "Rating: {}{}".format(
+        desc = "{}\n".format(asteriskify(self.name))
+        desc += f"Region: {self.region}\n"
+        desc += "{} {}: {}\n".format(
+            len(self.cities),
+            "city" if len(self.cities) == 1 else "cities",
+            ", ".join([city.name for city in self.cities])
+        )
+        desc += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
+                                                for tier, count
+                                                in sorted(get_tiers(self.towers).items(),
+                                                          key=lambda item: item[0].value)]))
+        desc += "Rating: {}{}".format(
             self.rating,
             f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
         )
-        return result
+        return desc
 
     def getuncompleted(self):
         """Get percentage of total rating for uncompleted towers in this city
@@ -528,7 +533,6 @@ class Country:
         return uc_rating * 100 / self.rating
 
 
-# TODO
 class Region(Country):
     """A region with skyscraper cities"""
 
@@ -540,9 +544,22 @@ class Region(Country):
         """
         super().__init__(name, cities)
         del self.region
+        self.countries = self._getcountries()
 
     def __str__(self):
         return "{} ({})".format(self.name, self.rating)
+
+    def _getcountries(self):
+        try:
+            countrynames = next(COUNTRYMAP[region_code] for region_code, region
+                                in REGIONMAP.items() if region == self.name)
+        except StopIteration:
+            raise InvalidRegionError(f"Invalid region name provided: {self.name}")
+
+        return sorted([Country(name, [city for city in self.cities if city.country == name])
+                       for name in countrynames if name
+                       in set(city.country for city in self.cities)],
+                      key=lambda c: c.rating, reverse=True)
 
     def getdescription(self):
         """Get description listing main properties of this country
@@ -550,16 +567,18 @@ class Region(Country):
         Returns:
             str -- a description
         """
-        result = "{}\n".format(asteriskify(self.name))
-        result += f"Region: {self.region}\n"
-        result += "{} cities: {}\n".format(len(self.cities),
-                                           ", ".join([city.name for city in self.cities]))
-        result += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
-                                                  for tier, count
-                                                  in sorted(get_tiers(self.towers).items(),
-                                                            key=lambda item: item[0].value)]))
-        result += "Rating: {}{}".format(
+        desc = "{}\n".format(asteriskify(self.name))
+        desc += "{} {}: {}\n".format(
+            len(self.countries),
+            "country" if len(self.countries) == 1 else "countries",
+            ", ".join([country.name for country in self.countries])
+        )
+        desc += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
+                                                for tier, count
+                                                in sorted(get_tiers(self.towers).items(),
+                                                          key=lambda item: item[0].value)]))
+        desc += "Rating: {}{}".format(
             self.rating,
             f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
         )
-        return result
+        return desc

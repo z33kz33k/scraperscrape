@@ -14,9 +14,6 @@ from tscscrape.scraper import getcities, getcity, Country, Region
 from tscscrape.utils import asteriskify, rightjustify
 
 
-# TODO: testing and fleshing out
-
-
 def print_city(cityname, verbose=False):
     """Print city data
 
@@ -59,9 +56,20 @@ def print_country(country, verbose=False):
             print(rightjustify("{}, {}".format(city.name, city.rating), i + 1, max_countwidth))
 
 
-# TODO
-# def print_region(region):
-#     cities = getcities(region_filter=region)
-#     pprint(sorted([(city.name, city.country, city.rating) for city
-#                    in getcities(region_filter=region)],
-#                   key=lambda triple: triple[2], reverse=True))
+def print_region(region, verbose=False):
+    cities = getcities(region_filter=region)
+    region_name = cities[0].region
+    region = Region(region_name, cities)
+    max_countwidth = len(str(len(region.countries)))  # to right-justify output
+
+    if verbose:
+        print(region.getdescription())
+    else:
+        print(asteriskify(str(region)))
+    for i, country in enumerate(region.countries):
+        if verbose:
+            print()
+            print(country.getdescription())
+        else:
+            print(rightjustify("{}, {}".format(country.name, country.rating), i + 1,
+                               max_countwidth))
