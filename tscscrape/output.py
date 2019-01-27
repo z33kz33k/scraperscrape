@@ -124,7 +124,7 @@ def world_totxt():
         with redirect_stdout(f):
             print_world()
             print()
-            print(asteriskify("VERBOSE", 20))
+            print(asteriskify("DETAILS", 20))
             print()
             print_world(verbose=True)
 

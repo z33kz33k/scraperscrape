@@ -10,12 +10,12 @@ from pprint import pprint
 
 from tscscrape.scraper import getcities
 from tscscrape.output import (print_city, print_country, print_region, print_world, regions_totxt,
-                              countries_totxt, cities_totxt)
+                              countries_totxt, cities_totxt, world_totxt)
 
 
 def main():
     """Run the script"""
-    cities_totxt()
+    world_totxt()
 
 
 if __name__ == "__main__":
