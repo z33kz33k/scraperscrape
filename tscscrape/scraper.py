@@ -251,7 +251,7 @@ def get_tiers(towers):
         """Get tier designation
 
         Arguments:
-            tower {tscscrape.scraper.Tower} -- a tower
+            tower {scraper.Tower} -- a tower
 
         Raises:
             ValueError -- when unexpected height value is encountered
@@ -301,6 +301,17 @@ def calculate_rating(towers):
 class City:
     """A city with skyscrapers in it"""
 
+    CITY_REGION_MAP = {  # for region corrections in listed cities
+        "Yekaterinburg": "AS",
+        "Chelyabinsk": "AS",
+        "Surgut": "AS",
+        "Vladivostok": "AS",
+        "Tyumen": "AS",
+        "Novosibirsk": "AS",
+        "Krasnoyarsk": "AS",
+        "Istanbul": "EU"
+    }
+
     def __init__(self, data):
         """
         Arguments:
@@ -347,6 +358,10 @@ class City:
                                   COUNTRYMAP.items() for country in countries if country.casefold() == self.country.casefold())
         except StopIteration:
             return None
+
+        # correct general region designation derived from country
+        if self.name in self.CITY_REGION_MAP:
+            region_code = self.CITY_REGION_MAP[self.name]
 
         return REGIONMAP[region_code]
 
@@ -427,7 +442,7 @@ def getcities(merge_subcities=True, region_filter=None, country_filter=None):
         if not cities:
             raise InvalidCountryError(f"Invalid country filter provided: {country_filter}")
 
-    return sorted(cities, key=lambda c: (c.rating, c.name), reverse=True)
+    return sorted(cities, key=lambda city: city.rating, reverse=True)
 
 
 def getcity(city):
@@ -440,7 +455,7 @@ def getcity(city):
         InvalidCountryError -- when invalid country name is provided
 
     Returns:
-        tscscrape.scraper.City -- a city
+        scraper.City -- a city
     """
     path = os.path.join(CITIES_PATH, "{}{}".format(city.replace(" ", "_"), ".json"))
     try:
@@ -456,11 +471,11 @@ def mergecities(parentcity, *subcities):
     """Merge subsidiary subcities into the parent city
 
     Arguments:
-        parentcity {tscscrape.scraper.City} -- parent city
+        parentcity {scraper.City} -- parent city
         subcities {list} -- variable number of subsidiary cities packed into list
 
     Returns:
-        tscscrape.scraper.City -- the parent city with merged subsidiaries
+        scraper.City -- the parent city with merged subsidiaries
     """
     towers = [tower for subcity in subcities for tower in subcity.towers]
     # extending parentcity
@@ -550,19 +565,27 @@ class Region(Country):
         return "{} ({})".format(self.name, self.rating)
 
     def _getcountries(self):
-        try:
-            countrynames = next(COUNTRYMAP[region_code] for region_code, region
-                                in REGIONMAP.items() if region == self.name)
-        except StopIteration:
-            raise InvalidRegionError(f"Invalid region name provided: {self.name}")
+        """Get countries with cities in this region
+
+        Raises:
+            InvalidRegionError -- when invalid region name is provided
+
+        Returns:
+            list -- a list of scraper.Country objects
+        """
+        # TODO: correct it so countries are derived solely on cities and not on general designations
+        # try:
+        #     countrynames = next(COUNTRYMAP[region_code] for region_code, region
+        #                         in REGIONMAP.items() if region == self.name)
+        # except StopIteration:
+        #     raise InvalidRegionError(f"Invalid region name provided: {self.name}")
 
         return sorted([Country(name, [city for city in self.cities if city.country == name])
-                       for name in countrynames if name
-                       in set(city.country for city in self.cities)],
-                      key=lambda c: c.rating, reverse=True)
+                       for name in set(city.country for city in self.cities)],
+                      key=lambda country: country.rating, reverse=True)
 
     def getdescription(self):
-        """Get description listing main properties of this country
+        """Get description listing main properties of this region
 
         Returns:
             str -- a description
