@@ -17,7 +17,7 @@ import codecs
 import csv
 from pprint import pprint
 
-from tscscrape.constants import URL, CITIES_PATH, RATINGS_MATRIX, STATUSMAP, REGIONMAP, Tier
+from tscscrape.constants import URL, OUTPUT_JSON_PATH, RATINGS_MATRIX, STATUSMAP, REGIONMAP, Tier
 from tscscrape.errors import (PageWrongFormatError, InvalidCityError,
                               InvalidCountryError, InvalidRegionError)
 from tscscrape.utils import timestamp, readinput, asteriskify
@@ -141,7 +141,7 @@ class Scraper:
                     "timestamp": timestamp(),
                     "towers": towers
                 }
-                destpath = os.path.join(CITIES_PATH, "{}.json".format(city.replace(" ", "_")))
+                destpath = os.path.join(OUTPUT_JSON_PATH, "{}.json".format(city.replace(" ", "_")))
                 with open(destpath, mode="w") as jsonfile:
                     json.dump(data, jsonfile, sort_keys=True, indent=4)
             print("{}: Scraped {} {} for '{}'...".format(
@@ -417,7 +417,7 @@ def getcities(merge_subcities=True, region_filter=None, country_filter=None):
         list -- a list of City objects
     """
     cities = []
-    for root, _, files in os.walk(CITIES_PATH):
+    for root, _, files in os.walk(OUTPUT_JSON_PATH):
         for file in files:
             path = os.path.join(root, file)
             with open(path) as f:
@@ -457,7 +457,7 @@ def getcity(city):
     Returns:
         scraper.City -- a city
     """
-    path = os.path.join(CITIES_PATH, "{}{}".format(city.replace(" ", "_"), ".json"))
+    path = os.path.join(OUTPUT_JSON_PATH, "{}{}".format(city.replace(" ", "_"), ".json"))
     try:
         with open(path) as f:
             data = json.load(f)
@@ -567,19 +567,9 @@ class Region(Country):
     def _getcountries(self):
         """Get countries with cities in this region
 
-        Raises:
-            InvalidRegionError -- when invalid region name is provided
-
         Returns:
-            list -- a list of scraper.Country objects
+            list -- a list of scraper.Country objects sorted by rating in descending order
         """
-        # TODO: correct it so countries are derived solely on cities and not on general designations
-        # try:
-        #     countrynames = next(COUNTRYMAP[region_code] for region_code, region
-        #                         in REGIONMAP.items() if region == self.name)
-        # except StopIteration:
-        #     raise InvalidRegionError(f"Invalid region name provided: {self.name}")
-
         return sorted([Country(name, [city for city in self.cities if city.country == name])
                        for name in set(city.country for city in self.cities)],
                       key=lambda country: country.rating, reverse=True)
@@ -595,6 +585,53 @@ class Region(Country):
             len(self.countries),
             "country" if len(self.countries) == 1 else "countries",
             ", ".join([country.name for country in self.countries])
+        )
+        desc += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
+                                                for tier, count
+                                                in sorted(get_tiers(self.towers).items(),
+                                                          key=lambda item: item[0].value)]))
+        desc += "Rating: {}{}".format(
+            self.rating,
+            f" ({self.uncompleted:.1f}% uncompleted)" if self.uncompleted else ""
+        )
+        return desc
+
+
+class World(Region):
+    """A world with skyscraper cities"""
+
+    def __init__(self, cities):
+        """
+        Arguments:
+            cities {list} -- a list of City objects
+        """
+        super().__init__("World", cities)
+        self.regions = self._getregions()
+
+    def __str__(self):
+        return "{} ({})".format(self.name, self.rating)
+
+    def _getregions(self):
+        """Get regions with cities in this world
+
+        Returns:
+            list -- a list of scraper.Region objects sorted by rating in descending order
+        """
+        return sorted([Region(name, [city for city in self.cities if city.region == name])
+                       for name in set(city.region for city in self.cities)],
+                      key=lambda region: region.rating, reverse=True)
+
+    def getdescription(self):
+        """Get description listing main properties of this region
+
+        Returns:
+            str -- a description
+        """
+        desc = "{}\n".format(asteriskify(self.name))
+        desc += "{} {}: {}\n".format(
+            len(self.regions),
+            "region" if len(self.regions) == 1 else "regions",
+            ", ".join([region.name for region in self.regions])
         )
         desc += "Tiers: {}\n".format(", ".join(["{}: {}".format(tier.name, count)
                                                 for tier, count
