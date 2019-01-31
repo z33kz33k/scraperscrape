@@ -13,8 +13,11 @@ import time
 import os
 from collections import Counter
 import itertools
+import sqlite3
+from pprint import pprint
 
-from tscscrape.constants import URL, OUTPUT_JSON_PATH, RATINGS_MATRIX, STATUSMAP, REGIONMAP, Tier
+from tscscrape.constants import (URL, OUTPUT_PATH, OUTPUT_JSON_PATH,
+                                 RATINGS_MATRIX, STATUSMAP, REGIONMAP, Tier)
 from tscscrape.errors import (PageWrongFormatError, InvalidCityError,
                               InvalidCountryError, InvalidRegionError)
 from tscscrape.utils import timestamp, readinput, asteriskify
@@ -69,6 +72,8 @@ class Scraper:
     # keys of below dicts are the same as options in "Base Data Range" form on the website
     CITYCODE_MAP = scrape_citycodes()
     HEIGHTRANGE_MAP = scrape_heightranges()
+    COLUMNS = ["id", "city", "city_id", "city_locode", "city_slug", "completed", "country_chinese",
+               "country_id", "country_locode", "country_slug", "floors_above", "functions",   "height_architecture", "height_architecture_formatted",               "height_architecture_ft_formatted", "image", "latitude", "longitude",              "name", "name_linked", "rank", "retrofit_functions", "start", "status",            "structural_material", "url"]
 
     def __init__(self, height_range="All", trim_heightless=True, height_floor=75):
         """
@@ -116,6 +121,7 @@ class Scraper:
 
         return result
 
+    # TODO: implement saving to sqlite database, leave dumping to JSON as an option
     def scrape_allcities(self, start=None, end=None):
         """Scrape all cities data and dump it to JSON files. Optionally define a range to scrape
 
@@ -137,9 +143,11 @@ class Scraper:
                     "timestamp": timestamp(),
                     "towers": towers
                 }
+
                 destpath = os.path.join(OUTPUT_JSON_PATH, "{}.json".format(city.replace(" ", "_")))
                 with open(destpath, mode="w") as jsonfile:
                     json.dump(data, jsonfile, sort_keys=True, indent=4)
+
             print("{}: Scraped {} {} for '{}'...".format(
                 str(i + start + 1).zfill(4),
                 str(len(towers)),
@@ -147,6 +155,86 @@ class Scraper:
                 city
             ))
             time.sleep(0.02)
+
+    def scrape_alltowers(self, start=None, end=None):
+        tstamp = timestamp(underscores=True)
+        start = start if start is not None else 0
+        end = end if end is not None else len(self.CITYCODE_MAP) - 1
+
+        alltowers = []
+        cities = (city for city in self.CITYCODE_MAP.keys() if city != "All")
+        for i, city in enumerate(itertools.islice(cities, start, end)):
+            try:
+                towers = self.scrape_city(city)
+            except PageWrongFormatError:
+                towers = []
+
+            alltowers.extend(towers)
+
+            print("{}: Scraped {} {} for '{}'...".format(
+                str(i + start + 1).zfill(4),
+                str(len(towers)),
+                "towers" if len(towers) != 1 else "tower",
+                city
+            ))
+            time.sleep(0.02)
+
+        pprint(alltowers)
+
+        # DEBUG MODE
+        # create table for this snapshot of towers data
+        tablename = f"towers_{tstamp}"
+        # path = os.path.join(OUTPUT_PATH, "tower.db")
+        with sqlite3.connect(":memory:") as conn:
+            # with sqlite3.connect(path) as conn:
+            cursor = conn.cursor()
+            cursor.execute(""" CREATE TABLE {} (
+                id INTEGER PRIMARY KEY,
+                city TEXT,
+                city_id INTEGER,
+                city_locode TEXT,
+                city_slug TEXT,
+                completed INTEGER,
+                country_chinese TEXT,
+                country_id INTEGER,
+                country_locode TEXT,
+                country_slug TEXT,
+                floors_above INTEGER,
+                functions TEXT,
+                height_architecture REAL,
+                height_architecture_formatted REAL,
+                height_architecture_ft_formatted TEXT,
+                image TEXT,
+                latitude REAL,
+                longitude REAL,
+                name TEXT,
+                name_linked TEXT,
+                rank INTEGER,
+                retrofit_functions TEXT,
+                start INTEGER,
+                status TEXT,
+                structural_material TEXT,
+                url TEXT
+            ) """.format(tablename))
+            conn.commit()
+
+            # populate table
+            for tower in alltowers:
+                cursor.execute("INSERT INTO {} VALUES ({})".format(
+                    tablename,
+                    "{}".format("?, " * len(self.COLUMNS))[:-2]
+                ), [tower.get(col) for col in self.COLUMNS])
+            conn.commit()
+
+            print("=" * 50)
+            print("=" * 50)
+            print("=" * 50)
+            cursor.execute("SELECT * FROM {}".format(tablename))
+            # pprint(cursor.fetchall())
+            fetched = []
+            for towertuple in cursor.fetchall():
+                fetched.append({k: v for k, v in zip(self.COLUMNS, towertuple)})
+            pprint(fetched)
 
 
 class Tower:

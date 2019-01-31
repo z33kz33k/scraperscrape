@@ -4,6 +4,9 @@
         "input": [
             "input"
         ],
+        "output": [
+            "output"
+        ],
         "output_json": [
             "output",
             "json"

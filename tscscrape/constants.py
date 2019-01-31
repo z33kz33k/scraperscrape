@@ -27,6 +27,7 @@ with open(os.path.join("settings", "settings.json"), encoding="utf-8") as f:
 
 URL = _settings["url"]
 INPUT_PATH = os.path.join(*_settings["paths"]["input"])
+OUTPUT_PATH = os.path.join(*_settings["paths"]["output"])
 OUTPUT_JSON_PATH = os.path.join(*_settings["paths"]["output_json"])
 OUTPUT_TXT_PATH = os.path.join(*_settings["paths"]["output_txt"])
 OUTPUT_TXT_REGIONS_PATH = os.path.join(*_settings["paths"]["output_txt_regions"])

@@ -6,21 +6,22 @@
 
 """
 
-import datetime
+import datetime as dt
 import json
 import os
 from bs4 import BeautifulSoup
 
-from tscscrape.constants import INPUT_PATH
+from tscscrape.constants import INPUT_PATH, OUTPUT_JSON_PATH
 
 
-def timestamp():
-    """Return timestamp of now."""
-    return "{:%Y-%b-%d %H:%M:%S}".format(datetime.datetime.now())
+def timestamp(underscores=False):
+    """Return timestamp of now"""
+    return "{:%Y%m%d_%H_%M_%S}".format(
+        dt.datetime.now()) if underscores else "{:%Y-%b-%d %H:%M:%S}".format(dt.datetime.now())
 
 
 def split_json(src, dest):
-    """Split large JSON file into smaller ones."""
+    """Split large JSON file into smaller ones"""
     with open(src) as srcfile:
         data = json.load(srcfile)
         tempdata = data.get("data")
@@ -71,3 +72,21 @@ def rightjustify(linetext, linecount, max_countwidth):
     """
     fill_length = max_countwidth - len(str(linecount)) + 1
     return "{}.{}{}".format(linecount, " " * fill_length,  linetext)
+
+
+def extract_tower_properties():
+    """Extract all tower properties as scraped and saved in JSON files
+
+    Returns:
+        list -- a list of tower properties
+    """
+    properties = []
+    for root, _, files in os.walk(OUTPUT_JSON_PATH):
+        for file in files:
+            path = os.path.join(root, file)
+            with open(path) as f:
+                data = json.load(f)
+
+            properties.extend(k for tower in data["towers"] for k in tower if k not in properties)
+
+    return sorted(properties)
