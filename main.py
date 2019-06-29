@@ -8,10 +8,10 @@ import os
 import json
 from pprint import pprint
 
-from tscscrape.scraper import getcities, Scraper
-from tscscrape.output import (print_city, print_country, print_region, print_world, regions_totxt,
-                              countries_totxt, cities_totxt, world_totxt)
-from tscscrape.utils import extract_tower_properties
+from scraperscrape.scraper import getcities, Scraper
+from scraperscrape.output import (print_city, print_country, print_region, print_world,
+regions_totxt, countries_totxt, cities_totxt, world_totxt)
+from scraperscrape.utils import extract_tower_properties
 
 
 def main():

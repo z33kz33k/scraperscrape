@@ -1,6 +1,6 @@
 """
 
-    tscscrape.constants
+    scraperscrape.constants
     ~~~~~~~~~~~~~~~~~~~
     Constants to import in other modules
 

@@ -1,28 +1,26 @@
 """
 
-    tscscrape.countries
-    ~~~~~~~~~~~~~~~~~
+    scraperscrape.countries
+    ~~~~~~~~~~~~~~~~~~~~~~~~
     Scrape countries metadata from sources other than TSC (it's unavailable in skyscrapers data)
 
 """
 
-import os
 from bs4 import BeautifulSoup, NavigableString
-from pprint import pprint
 
-from tscscrape.utils import readinput
-from tscscrape.constants import INPUT_PATH
-
+from scraperscrape.utils import readinput
 
 WIKIPEDIA_CA_COUNTRIES = ["Belize", "Costa Rica", "El Salvador",
                           "Guatemala", "Honduras", "Nicaragua", "Panama"]
 
 
 def _scrape_countries(filename):
-    """Scrape country names from locally saved Wikipedia pages."""
+    """Scrape country names from locally saved Wikipedia pages.
+    """
     def filter_search(tag):
         children = tag.children
-        return tag.name == "td" and tag.has_attr("align") and tag.find("a") and tag.find("span") and not any(isinstance(child, NavigableString) for child in children)
+        return (tag.name == "td" and tag.has_attr("align") and tag.find("a") and tag.find("span")
+        and not any(isinstance(child, NavigableString) for child in children))
 
     contents = readinput(filename)
     soup = BeautifulSoup(contents, "lxml")
@@ -37,7 +35,8 @@ def _scrape_countries(filename):
 
 
 def _get_ca_countries():
-    """Get names of Central-American countries."""
+    """Get names of Central-American countries.
+    """
     caribbean = _scrape_countries("caribbean.html")
     ca_countries = [c for c in caribbean if c not in WIKIPEDIA_CA_COUNTRIES]
     ca_countries.extend(WIKIPEDIA_CA_COUNTRIES)
@@ -105,20 +104,20 @@ def get_countries_by_region():
     europe = _scrape_countries("europe.html")
     asia = _scrape_countries("asia.html")
     africa = _scrape_countries("africa.html")
-    namerica = _scrape_countries("north_america.html")
-    samerica = _scrape_countries("south_america.html")
-    camerica = _get_ca_countries()
+    n_america = _scrape_countries("north_america.html")
+    s_america = _scrape_countries("south_america.html")
+    c_america = _get_ca_countries()
     oceania = _scrape_countries("oceania.html")
-    meast = _scrape_countries("middle_east.html")
+    mideast = _scrape_countries("middle_east.html")
 
     return {
         "EU": sorted([c for c in europe if c not in asia] + ["Russia"]),
-        "NA": [c for c in namerica if c not in camerica],
-        "CA": [c for c in camerica if c not in samerica] + ["Puerto Rico"],
-        "SA": samerica,
+        "NA": [c for c in n_america if c not in c_america],
+        "CA": [c for c in c_america if c not in s_america] + ["Puerto Rico"],
+        "SA": s_america,
         "AF": africa + ["Congo"],
-        "ME": meast,
-        "AS": [c for c in asia if c not in meast and c != "Russia"],
+        "ME": mideast,
+        "AS": [c for c in asia if c not in mideast and c != "Russia"],
         "OC": oceania
     }
 

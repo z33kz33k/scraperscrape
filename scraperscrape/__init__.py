@@ -1,6 +1,6 @@
 """
 
-    tscscraper
+    scraperscraper
     ~~~~~~~~~~
     Base package
 

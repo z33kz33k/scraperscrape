@@ -1,6 +1,6 @@
 """
 
-    tscscrape.errors
+    scraperscrape.errors
     ~~~~~~~~~~~~~~~~~
     Custom errors for better clarity
 

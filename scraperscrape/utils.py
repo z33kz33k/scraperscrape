@@ -1,6 +1,6 @@
 """
 
-    tscscrape.utils
+    scraperscrape.utils
     ~~~~~~~~~~~~~~~
     Auxiliary functions
 
@@ -11,7 +11,7 @@ import json
 import os
 from bs4 import BeautifulSoup
 
-from tscscrape.constants import INPUT_PATH, OUTPUT_JSON_PATH
+from scraperscrape.constants import INPUT_PATH, OUTPUT_JSON_PATH
 
 
 def timestamp(underscores=False):

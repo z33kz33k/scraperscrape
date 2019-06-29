@@ -1,6 +1,6 @@
 """
 
-    tscscrape.output
+    scraperscrape.output
     ~~~~~~~~~~~~~~~~~
     Print and create output files
 
@@ -11,13 +11,13 @@ import json
 from contextlib import redirect_stdout
 from pprint import pprint
 
-from tscscrape.scraper import getcities, getcity, Country, Region, World
-from tscscrape.utils import asteriskify, rightjustify
-from tscscrape.constants import (REGIONMAP, OUTPUT_TXT_PATH, OUTPUT_TXT_REGIONS_PATH,
+from scraperscrape.scraper import getcities, getcity, Country, Region, World
+from scraperscrape.utils import asteriskify, rightjustify
+from scraperscrape.constants import (REGIONMAP, OUTPUT_TXT_PATH, OUTPUT_TXT_REGIONS_PATH,
                                  OUTPUT_TXT_COUNTRIES_PATH, OUTPUT_TXT_CITIES_PATH,
                                  OUTPUT_JSON_PATH)
-from tscscrape.countries import COUNTRYMAP
-from tscscrape.errors import InvalidCountryError
+from scraperscrape.countries import COUNTRYMAP
+from scraperscrape.errors import InvalidCountryError
 
 
 def print_city(cityname, verbose=False):

@@ -1,6 +1,6 @@
 """
 
-    tscscrape.scraper
+    scraperscrape.scraper
     ~~~~~~~~~~~~~~~~~
     Scrape the scrapers
 
@@ -16,12 +16,12 @@ import itertools
 import sqlite3
 from pprint import pprint
 
-from tscscrape.constants import (URL, OUTPUT_PATH, OUTPUT_JSON_PATH,
+from scraperscrape.constants import (URL, OUTPUT_PATH, OUTPUT_JSON_PATH,
                                  RATINGS_MATRIX, STATUSMAP, REGIONMAP, Tier)
-from tscscrape.errors import (PageWrongFormatError, InvalidCityError,
+from scraperscrape.errors import (PageWrongFormatError, InvalidCityError,
                               InvalidCountryError, InvalidRegionError)
-from tscscrape.utils import timestamp, readinput, asteriskify
-from tscscrape.countries import COUNTRYMAP
+from scraperscrape.utils import timestamp, readinput, asteriskify
+from scraperscrape.countries import COUNTRYMAP
 
 
 SUBCITYMAP = {
